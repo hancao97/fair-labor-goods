@@ -2538,6 +2538,150 @@
       "checkedAt": "2026-09-12",
       "locator": "商品主标题、主要参数及商品编码",
       "type": "官方商城商品资料"
+    },
+    {
+      "id": "pantum-rename-2026",
+      "title": "纳思达更名奔图科技并完成工商变更的公告",
+      "publisher": "纳思达股份有限公司 / 证券时报信息披露版",
+      "url": "https://epaper.stcn.com/att/202604/18/ZQ18B066-HJ_eBook.pdf",
+      "summary": "公告 2026-036 披露中文公司名变更为奔图科技股份有限公司，工商变更完成；证券代码 002180 不变，新证券简称于 2026-04-20 启用。",
+      "limitation": "仅用于核对同一上市主体的新旧名称及珠海注册地址，不证明某型号的制造工厂或劳动履行。公告与同版其他企业的信息分别读取。",
+      "publishedAt": "2026-04-18",
+      "checkedAt": "2026-09-12",
+      "locator": "B66 版右侧中部公告 2026-036，已核原页",
+      "type": "上市公司公告"
+    },
+    {
+      "id": "pantum-esg-2025",
+      "title": "纳思达 2025 年环境、社会及治理报告",
+      "publisher": "纳思达股份有限公司（现奔图科技）/ 东方财富公告附件",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202604141821199621_1.pdf",
+      "summary": "报告列奔图品牌和旗下珠海奔图电子有限公司；员工章节披露权益管理、申诉与工会机制，供应商章节要求合法工时、公平薪酬及整改。",
+      "limitation": "集团制度、汇总考评与 ISO 45001 展示不等于 M6202NW 家用版装配、耗材和物流岗位的实际周工时及休息。没有本款供应商或班组考勤，不能把管理要求视为全部履行。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 5 页（印刷 5—6）品牌；第 23—24 页（印刷 41—44）供应商与员工；第 40 页（印刷 75—76）子公司，已核原页",
+      "type": "企业 ESG 报告"
+    },
+    {
+      "id": "pantum-device-development-hiring-2027",
+      "title": "奔图 2027 届打印机设备开发招聘",
+      "publisher": "湖南工商大学就业信息网（奔图科技招聘）",
+      "url": "https://job.hutb.edu.cn/detail/job?career_id=694513&id=3227335",
+      "summary": "珠海设备开发—打印机岗位负责生产工装及自动化设备开发导入，招聘福利列五天八小时工作制及五险一金。",
+      "limitation": "适用 2027 届设备开发招聘，不是打印机装配操作工的排班记录；没有实际加班、逐周休息或该型号班组对应，不能推广为整厂承诺。",
+      "publishedAt": "2026-08-21",
+      "checkedAt": "2026-09-12",
+      "locator": "设备开发—打印机（2027届）的岗位职责、薪酬福利与发布时间",
+      "type": "高校刊载企业招聘"
+    },
+    {
+      "id": "pantum-m6202nw-cqc-2025",
+      "title": "CQC 获证产品公告中的 M6202NW",
+      "publisher": "中国质量认证中心",
+      "url": "https://www.cqc.com.cn/www/upload/files/upload/resources/file/2025/06/16/63356.pdf",
+      "summary": "公告将 M6202NW 列入数字式多功能办公设备的获证型号，制造商为珠海奔图电子有限公司；证书号 CQC25701475155，生效日期 2025-06-13。",
+      "limitation": "公告型号没有单列家用版后缀，未提供当前零售设备的批次及实际厂址；历史证书公告不是当前状态查询。该项能效认证不评价实际劳动工时或休息。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 20 页，证书 CQC25701475155 所在完整条目，已核原页",
+      "type": "认证机构公开公告"
+    },
+    {
+      "id": "pantum-m6202nw-home-product",
+      "title": "M6202NW 家用版黑白激光多功能一体机",
+      "publisher": "奔图中国官网（页脚主体珠海奔图打印科技有限公司）",
+      "url": "https://www.pantum.cn/product-center/1487020301858185217.html",
+      "summary": "官网明确 M6202NW 家用版，支持打印、复印、扫描及 USB、有线网络、WiFi；A4 黑白打印速度 20ppm，并链接京东商品 100003339123。",
+      "limitation": "官网建议零售价和跳转链接不代表当前京东可售结果；本轮未取得该订单页有效库存。官网运营主体不等于实际制造主体，家用版制造批次和工厂仍待核。图库本次无法取得，不用普通版图片替代。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "家用版主标题、产品参数及立即购买链接",
+      "type": "企业官网商品资料"
+    },
+    {
+      "id": "supor-esg-2025",
+      "title": "苏泊尔 2025 年度环境、社会及治理报告",
+      "publisher": "浙江苏泊尔股份有限公司 / 巨潮资讯公告附件",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-03/1225076834.PDF",
+      "summary": "报告列国内及越南制造基地、供应商责任采购与整改机制；员工章节称玉环、绍兴滨海新区及杭州基地完成 BSCI、SMETA、WSI 外部人权社会责任及 ESG 审核。",
+      "limitation": "属于企业披露，未取得各项审核原始报告、实际周工时和逐周休息记录，也未对应所选型号班组。图示绍兴滨海新区荣誉为 2024 年度劳动保障诚信 AAAAA 级，照片未明确法人全名，不能推广至所有子公司及当前批次。",
+      "publishedAt": "2026-04-03",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 4 页（印刷 2）基地；第 38 页（印刷 36）责任采购；第 62 页（印刷 60）员工及历史荣誉照片，已核原页",
+      "type": "企业 ESG 报告"
+    },
+    {
+      "id": "supor-hangzhou-intern-hiring-2025",
+      "title": "浙江苏泊尔家电制造有限公司 2025 届实习招聘",
+      "publisher": "蚌埠学院网站（浙江苏泊尔家电制造有限公司招聘简章）",
+      "url": "https://dzdq.bbc.edu.cn/_upload/article/files/81/ec/620b169a43829d2e74d4aa675cda/f52ffd80-9afa-4b6a-bd81-575a09858e8c.pdf",
+      "summary": "顶岗实习生及储备干部招聘称第一周八小时适应后，长白班为 7:30—21:00、休息两小时且每工作两小时另休十分钟；倒班为十二小时打卡制，午晚各休半小时。",
+      "limitation": "面向 2025 届，发布日期未明，不能代表当前所有员工。没有每周工作天数及休息日记录，也不能把打卡跨度当作净劳动时长；不据单份招聘判断违法。该杭州制造法人不能与绍兴其他苏泊尔法人混用。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 1 页岗位及工作时间；第 2 页培养方向和实习福利，已核原页",
+      "type": "高校刊载企业招聘"
+    },
+    {
+      "id": "supor-sf20fc45-suning",
+      "title": "苏泊尔 SF20FC45 2L 蓝色电饭煲直接商品资料",
+      "publisher": "苏宁易购（苏宁自营商品页）",
+      "url": "https://product.suning.com/0000000000/000000012403974140.html",
+      "summary": "同页标题、参数及详情图对应 SF20FC45、2L、蓝色电饭煲；参数产地写中国浙江绍兴市，同页能效标识列具体生产者。",
+      "limitation": "现时库存与地区配送未取得，不使用页面共存的有货、下架模板推断。能效标识是公开资料图而非当前到货铭牌；详情图与参数的净重存在差异，未采用净重。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "直接商品标题、主体与容量参数，以及同页图库和详情图",
+      "type": "大陆零售商商品资料"
+    },
+    {
+      "id": "supor-sf20fc45-energy-label",
+      "title": "SF20FC45 同页中国能效标识的生产者信息",
+      "publisher": "苏宁自营商品页 / 苏泊尔商品资料图",
+      "url": "https://imgservice.suning.cn/uimg1/b2c/image/_ulu7CdpD4NIkyY1m37PZA.jpg_800w_800h_4e",
+      "summary": "可读生产者名称为浙江苏泊尔家电制造有限公司，规格型号为 SF20FC45；图片来自同一准确商品页的图库。",
+      "limitation": "图中没有厂址，也不是消费者当前到货机身的铭牌或批次证明。能效资料只能帮助识别生产者，不证明生产岗位、材料供应及物流劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "标识中部生产者名称及规格型号两行，已核原图",
+      "type": "商品标识图片"
+    },
+    {
+      "id": "supor-sw17s59a-suning",
+      "title": "苏泊尔 SW-17S59A 1.7L 奶杏色电水壶直接商品资料",
+      "publisher": "苏宁易购（苏宁自营商品页）",
+      "url": "https://m.suning.com/product/0000000000/000000012441520395.html",
+      "summary": "移动商品页及其指向的桌面页对应 SW-17S59A、1.7L、奶杏色；同页参数图可核型号与容量，主图可辨同款外观。",
+      "limitation": "只有大陆具体零售资料，现时库存与地区配送未核。照片与参数图未展示实际制造铭牌或厂址，不能从品牌、内胆或组件描述推断整机与原料产地。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "移动页标题及其 canonical 桌面页的主体参数、同页型号容量图",
+      "type": "大陆零售商商品资料"
+    },
+    {
+      "id": "supor-sw17s59a-jinan-sampling",
+      "title": "济南监督抽查表中的 SW-17S59A 电热水壶",
+      "publisher": "济南市市场监督管理局 / 济南市产品质量检验院",
+      "url": "https://amr.jinan.gov.cn/cms_files/complat3/48725/attach/20261/055119e40113452c9f4f01ed422575d8.pdf",
+      "summary": "第 2748 项电热水壶型号 SW-17S59A，受检单位济南三联家用电器有限公司，标称生产单位浙江绍兴苏泊尔生活电器有限公司，生产日期/批号字段为 250305/-，综合判定合格。",
+      "limitation": "仅用于识别该历史样品的标称生产主体，不延伸到当前全部零售批次；生产单位未等同具体厂址。产品质量检验不是劳动检查，也不能据此确认品牌下其他型号或关联法人。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 1 页表头；第 334 页第 2748 项，已核原页",
+      "type": "政府产品质量抽查"
+    },
+    {
+      "id": "supor-sy50fc03q-suning",
+      "title": "苏泊尔 SY-50FC03Q 5L 电压力锅直接商品资料",
+      "publisher": "苏宁易购（页面店名苏泊尔官方旗舰店）",
+      "url": "https://product.suning.com/0070064923/11887558782.html",
+      "summary": "直接商品页列 SY-50FC03Q、容量 5L、额定功率 900W，产地参数为中国浙江绍兴市；同页主图和规格图可核同一型号。",
+      "limitation": "店名只记录平台显示，不当作独立核实的品牌授权。现时库存、配送及当前制造厂、机身铭牌待核，产地参数不替代批次生产证据。原图是公开商品资料，未展示制造法人或厂址。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品主标题、主体型号、规格与产地参数，以及同页主图和规格图",
+      "type": "大陆零售商商品资料"
     }
   ],
   "companies": [
@@ -6198,6 +6342,124 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "核对 B3252 当前包装与制尺工厂，再补工厂、原料和配送岗位的实际工时、逐周休息及工资社保记录。"
+    },
+    {
+      "id": "pantum",
+      "name": "奔图科技 / 奔图",
+      "legalName": "奔图科技股份有限公司（原纳思达股份有限公司）",
+      "location": "广东珠海；具体家用版生产批次与厂址待核",
+      "origin": "china",
+      "originNote": "集团为珠海境内上市企业，报告列奔图品牌；品牌及集团归属不代替具体设备生产地点与生产者信息。",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "设备开发招聘 5 天 × 8 小时",
+      "restLabel": "招聘每周工作五天 · 实际待核",
+      "cardNote": "设备开发 5 天 × 8 小时 · 装配待核",
+      "scope": "2027 届打印机设备开发岗位的标准工作制，以及集团员工、供应商制度；家用版装配工人与生产批次另行核验。",
+      "finding": "设备开发招聘列五天八小时，但这是生产工装及自动化设备开发岗位；没有装配人员实际周工时与两天休息记录。集团报告和 CQC 制造商条目不能代替班组证据。",
+      "caveats": [
+        "2026 年上市公司已更名，2025 ESG 仍以纳思达旧名发布；官网运营法人、集团和制造子公司分别记录。",
+        "招聘标准安排不代表当前实际排班，也不扩展到装配、硒鼓或外包物流人员。",
+        "CQC 条目包含 M6202NW，但未单列家用版；当前设备标签、厂址与供应商尚未对应。"
+      ],
+      "sourceIds": [
+        "pantum-rename-2026",
+        "pantum-esg-2025",
+        "pantum-device-development-hiring-2027",
+        "pantum-m6202nw-cqc-2025",
+        "pantum-m6202nw-home-product"
+      ],
+      "supply": [
+        {
+          "stage": "打印机设备开发",
+          "status": "policy",
+          "detail": "2027 届招聘披露五天八小时，岗位职责为生产工装和自动化开发；实际工时与休息待核。",
+          "sourceIds": [
+            "pantum-device-development-hiring-2027"
+          ]
+        },
+        {
+          "stage": "整机装配与耗材生产",
+          "status": "unknown",
+          "detail": "CQC 列 M6202NW 制造商珠海奔图电子，未单列家用版或当前批次；未取得相应装配与耗材岗位记录。",
+          "sourceIds": [
+            "pantum-m6202nw-cqc-2025",
+            "pantum-m6202nw-home-product",
+            "pantum-esg-2025"
+          ]
+        },
+        {
+          "stage": "零部件、原料及外包运输",
+          "status": "policy",
+          "detail": "集团要求供应商合法工时、公平薪酬及整改；本型号实际供应商、生产地和岗位履行尚未对应。",
+          "sourceIds": [
+            "pantum-esg-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "核对家用版当前大陆订单、设备制造标签及具体工厂，再补装配、硒鼓、部件和物流岗位的实际工时、逐周休息及工资社保记录。"
+    },
+    {
+      "id": "supor",
+      "name": "苏泊尔",
+      "legalName": "浙江苏泊尔股份有限公司",
+      "location": "浙江；杭州、绍兴等生产法人按具体型号分别核对",
+      "origin": "china",
+      "originNote": "苏泊尔报告记载品牌于 1994 年在中国创立；集团有境内及越南基地，所选大陆型号的生产厂和原料来源分别核验。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "审核披露与实习长班安排 · 实际待核",
+      "scope": "集团 2025 ESG 与杭州家电制造公司的 2025 届实习招聘；电饭煲、电水壶和电压力锅各自的制造证据不能跨法人使用。",
+      "finding": "集团称部分基地完成社会责任审核，但杭州子公司实习招聘有长白班及十二小时打卡倒班安排。两类资料范围不同，未取得所选型号的实际周工时和逐周休息，无法判定满足项目条件。",
+      "caveats": [
+        "报告包含境内与越南基地，中国创立的品牌不能保证全部商品在中国生产。",
+        "杭州招聘长白班含两小时休息及另行小休，倒班含午晚休息；打卡跨度不能当作净劳动时长，每周排班也未披露。",
+        "ESG 审核自述没有原始审计记录与具体型号对应；历史 AAAAA 荣誉照片未明示法人全名，不能覆盖集团所有工厂。",
+        "浙江苏泊尔家电制造、浙江绍兴苏泊尔生活电器与家居用品为不同法人，不互借劳动或产地证据。"
+      ],
+      "sourceIds": [
+        "supor-esg-2025",
+        "supor-hangzhou-intern-hiring-2025",
+        "supor-sf20fc45-energy-label",
+        "supor-sw17s59a-jinan-sampling"
+      ],
+      "supply": [
+        {
+          "stage": "集团员工与基地管理",
+          "status": "policy",
+          "detail": "报告有员工保障、基地外部审核自述，未取得按型号、岗位和时期对应的原始结果及考勤。",
+          "sourceIds": [
+            "supor-esg-2025"
+          ]
+        },
+        {
+          "stage": "电器制造与装配",
+          "status": "unknown",
+          "detail": "SF20FC45 资料图列杭州家电制造法人；SW-17S59A 历史样品列绍兴生活电器法人。杭州实习招聘有长班安排，其他法人与具体班组不得套用。",
+          "sourceIds": [
+            "supor-sf20fc45-energy-label",
+            "supor-sw17s59a-jinan-sampling",
+            "supor-hangzhou-intern-hiring-2025"
+          ]
+        },
+        {
+          "stage": "材料、零部件及外包配送",
+          "status": "policy",
+          "detail": "责任采购包括供应商 ESG 审查和整改退出机制；所选电器的材料、零部件及外包岗位履行仍未核验。",
+          "sourceIds": [
+            "supor-esg-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "逐款核当前制造标签和厂址；分别取得实际制造法人、供应商及外包的班组工时、休息、工资社保资料，并核集团所述审计的时间与适用范围。"
     }
   ],
   "products": [
@@ -10892,6 +11154,217 @@
           ]
         }
       }
+    },
+    {
+      "id": "pantum-m6202nw-home",
+      "name": "M6202NW 家用版黑白激光一体机",
+      "brand": "奔图",
+      "companyId": "pantum",
+      "category": "stationery",
+      "description": "A4 黑白打印、复印、扫描一体机；官网参数列 20ppm，支持 USB、有线网络与 WiFi，双面打印为手动。",
+      "tags": [
+        "打印机",
+        "M6202NW",
+        "家用版"
+      ],
+      "needs": [
+        "打印机"
+      ],
+      "url": "https://www.pantum.cn/product-center/1487020301858185217.html",
+      "relationshipSourceIds": [
+        "pantum-m6202nw-home-product",
+        "pantum-esg-2025",
+        "pantum-rename-2026",
+        "pantum-m6202nw-cqc-2025"
+      ],
+      "market": "奔图中国官网提供准确家用版型号及京东商品 100003339123 链接，现时可售与地区供货待核。",
+      "relationship": "报告列奔图品牌，官网列本款家用版；CQC 列 M6202NW 的制造商珠海奔图电子，但未单列家用版，当前设备批次与厂址待核。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网有家用版参数、建议零售价和具体京东跳转；本轮未取得京东有效可售结果，当前大陆供货待核。",
+          "sourceIds": [
+            "pantum-m6202nw-home-product"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "CQC 公告列 M6202NW 制造商珠海奔图电子，未单列家用版后缀或当前设备批次；具体生产厂与部件来源仍待核。",
+          "sourceIds": [
+            "pantum-m6202nw-cqc-2025",
+            "pantum-esg-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "五天八小时来源仅为设备开发招聘，尚未取得该家用版装配、硒鼓与零部件岗位的实际周工时、休息和工资社保记录。",
+          "sourceIds": [
+            "pantum-device-development-hiring-2027",
+            "pantum-esg-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "supor-sf20fc45-rice2l",
+      "name": "SF20FC45 电饭煲（2L，蓝色）",
+      "brand": "苏泊尔",
+      "companyId": "supor",
+      "category": "appliances",
+      "description": "2L 小容量电饭煲，蓝色机身；型号 SF20FC45，350W 额定功率。",
+      "tags": [
+        "电饭煲",
+        "SF20FC45",
+        "2L"
+      ],
+      "needs": [
+        "电饭煲"
+      ],
+      "url": "https://product.suning.com/0000000000/000000012403974140.html",
+      "relationshipSourceIds": [
+        "supor-sf20fc45-suning",
+        "supor-sf20fc45-energy-label",
+        "supor-esg-2025"
+      ],
+      "market": "苏宁自营具体商品资料对应 2L 蓝色，当前库存及地区配送待核。",
+      "relationship": "同页能效标识写生产者浙江苏泊尔家电制造有限公司及型号 SF20FC45；未给厂址，公开资料图不能代替当前到货铭牌。",
+      "image": "images/supor-sf20fc45-rice2l.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/aKk3M-pDUtvhRhMnTce5XA.jpg_800w_800h_4e",
+      "imageRights": "SUPOR苏泊尔品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核苏宁同型号 2L 蓝色直接商品资料，未取得当前库存与配送结果，不以隐藏页面模板判断。",
+          "sourceIds": [
+            "supor-sf20fc45-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "同页能效标识已读到浙江苏泊尔家电制造有限公司；零售产地字段写绍兴，但标签未给厂址，当前设备批次和部件来源未锁定。",
+          "sourceIds": [
+            "supor-sf20fc45-energy-label",
+            "supor-sf20fc45-suning"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "同名杭州制造法人 2025 届实习招聘列长白班及十二小时打卡倒班，含休息；未取得本型号班组每周实际工时与休息，集团审核自述不足以补齐。",
+          "sourceIds": [
+            "supor-hangzhou-intern-hiring-2025",
+            "supor-esg-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "supor-sw17s59a-kettle17l",
+      "name": "SW-17S59A 电水壶（1.7L，奶杏色）",
+      "brand": "苏泊尔",
+      "companyId": "supor",
+      "category": "appliances",
+      "description": "1.7L 奶杏色电水壶，型号 SW-17S59A，1500W 额定功率。",
+      "tags": [
+        "电水壶",
+        "SW-17S59A",
+        "1.7L"
+      ],
+      "needs": [
+        "电水壶"
+      ],
+      "url": "https://m.suning.com/product/0000000000/000000012441520395.html",
+      "relationshipSourceIds": [
+        "supor-sw17s59a-suning",
+        "supor-sw17s59a-jinan-sampling",
+        "supor-esg-2025"
+      ],
+      "market": "苏宁自营移动与桌面商品资料对应同型号和容量，现时库存及地区配送待核。",
+      "relationship": "济南抽查表中同型号历史样品标称生产者为浙江绍兴苏泊尔生活电器有限公司；该记录不等于当前到货批次，集团与杭州其他法人资料不直接覆盖此厂。",
+      "image": "images/supor-sw17s59a-kettle17l.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/vmFZYZquUQGVq-leGUOHdA.png_800w_800h_4e_80Q_is",
+      "imageRights": "SUPOR苏泊尔品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核苏宁直接商品页的型号、1.7L 容量和奶杏色资料；当前大陆实际库存与地区配送未核。",
+          "sourceIds": [
+            "supor-sw17s59a-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "政府第 2748 项样品标称生产者为浙江绍兴苏泊尔生活电器有限公司；现售设备批次、实际厂址及材料来源仍待核，质量抽检不替代制造追溯。",
+          "sourceIds": [
+            "supor-sw17s59a-jinan-sampling",
+            "supor-sw17s59a-suning"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团 ESG 有基地审核与供应商制度，未取得本款绍兴制造法人、装配班组和部件供应商实际工时及休息，不能套用杭州招聘。",
+          "sourceIds": [
+            "supor-esg-2025",
+            "supor-sw17s59a-jinan-sampling"
+          ]
+        }
+      }
+    },
+    {
+      "id": "supor-sy50fc03q-pressure5l",
+      "name": "SY-50FC03Q 电压力锅（5L）",
+      "brand": "苏泊尔",
+      "companyId": "supor",
+      "category": "appliances",
+      "description": "5L 电压力锅，型号 SY-50FC03Q，微电脑控制，900W 额定功率。",
+      "tags": [
+        "电压力锅",
+        "SY-50FC03Q",
+        "5L"
+      ],
+      "needs": [
+        "电压力锅"
+      ],
+      "url": "https://product.suning.com/0070064923/11887558782.html",
+      "relationshipSourceIds": [
+        "supor-sy50fc03q-suning",
+        "supor-esg-2025"
+      ],
+      "market": "苏宁直接商品页对应 5L 规格，店名按平台展示记录，当前库存和配送待核。",
+      "relationship": "具体零售资料列苏泊尔及 SY-50FC03Q；当前设备制造标签尚未取得，不将其他苏泊尔型号的制造商记录移用到本款。",
+      "image": "images/supor-sy50fc03q-pressure5l.webp",
+      "imageMode": "contain",
+      "imageSource": "https://uimgproxy.suning.cn/uimg1/sop/commodity/Cj9TlQU-U3gOzo70YYRYWQ.jpg",
+      "imageRights": "SUPOR苏泊尔品牌、苏宁页面图片提供方及原图相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核苏宁直接商品资料 SY-50FC03Q 5L，现时可售与地区配送未取得；页面店名不视为已独立核实授权。",
+          "sourceIds": [
+            "supor-sy50fc03q-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售产地参数写中国浙江绍兴市，尚未取得当前机身制造铭牌、具体制造法人和厂址，不套用水壶或电饭煲的生产记录。",
+          "sourceIds": [
+            "supor-sy50fc03q-suning"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "当前制造主体尚未锁定，集团制度未对应到该电压力锅的装配、材料及外包实际工时和休息记录。",
+          "sourceIds": [
+            "supor-esg-2025",
+            "supor-sy50fc03q-suning"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -11465,10 +11938,15 @@
           "query": "剃须刀"
         }
       ],
-      "note": "已查大陆博世型号和部分安克产品；具体原产地和生产岗位不足，空调、电视及厨电继续调查。",
+      "note": "新增 SF20FC45 2L 电饭煲、SW-17S59A 1.7L 电水壶与 SY-50FC03Q 5L 电压力锅。能效标识和历史抽查帮助锁定部分制造法人，当前批次及实际劳动条件待核；杭州实习长班与集团基地审核范围分别保留。空调、电视、油烟机、燃气灶、吹风机和剃须刀继续查。",
       "sourceIds": [
         "bsh-code",
-        "anker-2025"
+        "anker-2025",
+        "supor-esg-2025",
+        "supor-hangzhou-intern-hiring-2025",
+        "supor-sf20fc45-energy-label",
+        "supor-sw17s59a-jinan-sampling",
+        "supor-sy50fc03q-suning"
       ]
     },
     {
@@ -11519,7 +11997,7 @@
           "query": "打印机"
         }
       ],
-      "note": "已补 DM011-F 钢笔和 B3252 40cm 直尺，文具资料覆盖 9 项细分需求；另核 K35 黑色 0.5mm / 12 支及得力 B5 60 张。司贸招聘的标准双休与产线加班需区分，齐心供应商准则未替代实际工时。当前零售和制造批次仍待核，书包、打印机继续查。",
+      "note": "新增奔图 M6202NW 家用版打印机，资料覆盖 10 项办公需求；设备开发招聘五天八小时不代表装配岗位，CQC 未单列家用版，现时供货和制造批次待核。钢笔、直尺和其他文具继续补生产劳动证据，书包仍有缺口。",
       "sourceIds": [
         "deli-campus-2025",
         "simao-production-hiring-2025",
@@ -11528,7 +12006,11 @@
         "comix-b3252-procurement-2022",
         "comix-b3252-zsemall",
         "mg-k35-suning",
-        "product-deli-25996-notebook"
+        "product-deli-25996-notebook",
+        "pantum-device-development-hiring-2027",
+        "pantum-esg-2025",
+        "pantum-m6202nw-cqc-2025",
+        "pantum-m6202nw-home-product"
       ]
     },
     {

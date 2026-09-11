@@ -3947,6 +3947,479 @@
         "sha256": "751c1413d1fc672f1bd3c6e31314c01caf6c5e6216e22b7bf1588c516660aac0"
       },
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "supor-sf20fc45-rice2l",
+      "product_name": "苏泊尔 SF20FC45 电饭煲 2L 蓝色",
+      "model": "SF20FC45",
+      "capacity_value": 2,
+      "capacity_unit": "L",
+      "color_as_listed": "蓝色",
+      "filename": "images/supor-sf20fc45-rice2l.webp",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/aKk3M-pDUtvhRhMnTce5XA.jpg_800w_800h_4e",
+      "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/aKk3M-pDUtvhRhMnTce5XA.jpg_800w_800h_4e",
+      "image_source_page_url": "https://product.suning.com/0000000000/000000012403974140.html",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 62900,
+      "sha256": "11dda00b8000cad530b7c36306836e3b23db74220e2b575aa34b7e8fdb4e439a",
+      "visually_verified": true,
+      "image_kind": "零售商商品图库发布的蓝色电饭煲场景图，含原图营销文字，未修改",
+      "image_http_status": 200,
+      "reuse_info": {
+        "rights_holder": "SUPOR苏泊尔品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer and image owners."
+      },
+      "source_page_url": "https://product.suning.com/0000000000/000000012403974140.html",
+      "retailer_source_page_url": "https://product.suning.com/0000000000/000000012403974140.html",
+      "source_role": "中国大陆苏宁自营直接商品页，非苏泊尔品牌官网",
+      "retailer_page_title": "苏泊尔(SUPOR)2L电饭煲小型迷你小容量电饭锅不粘煮饭锅小功率1-2-3人单人宿舍多功能智能预约 SF20FC45",
+      "status": "image_verified_public_energy_label_producer_read",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆苏宁自营商品目录。未登录、下单或检查实际收货批次；页面隐藏模板不作为库存或下架结论。",
+      "image_match_scope": "原页标题及参数明确SF20FC45、2L、蓝色；同页能效标识明确SF20FC45，详情参数图为额定容量2.0L。主图是这一页面图库第7张。未用3L或Z变款。",
+      "brand_as_read": "SUPOR",
+      "product_body_transcription": [
+        {
+          "text": "SUPOR",
+          "location": "主图机身正面品牌位置",
+          "scope": "品牌字样，非制造法人"
+        }
+      ],
+      "packaging_transcription": [],
+      "packaging_model_as_read": null,
+      "nameplate_model_as_read": null,
+      "capacity_as_read_from_packaging_or_nameplate": null,
+      "manufacturer_as_read": null,
+      "producer_as_read_from_energy_label": "浙江苏泊尔家电制造有限公司",
+      "producer_label_role_as_read": "生产者名称",
+      "factory_address_as_read": null,
+      "country_as_read_from_packaging": null,
+      "retailer_page_fields": {
+        "model": "SF20FC45",
+        "color": "蓝色",
+        "capacity": "2L",
+        "listed_origin": "中国浙江绍兴市"
+      },
+      "supporting_images": [
+        {
+          "filename": "supor-sf20fc45-energy-label.jpg",
+          "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/_ulu7CdpD4NIkyY1m37PZA.jpg_800w_800h_4e",
+          "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/_ulu7CdpD4NIkyY1m37PZA.jpg_800w_800h_4e",
+          "image_source_page_url": "https://product.suning.com/0000000000/000000012403974140.html",
+          "content_type": "image/jpeg",
+          "width": 800,
+          "height": 800,
+          "bytes": 149450,
+          "sha256": "29a0dacc4e914aed2ddf8a8b156f8f3ec3d9d17ebd0196578157f96738c0a152",
+          "visually_verified": true,
+          "image_kind": "零售页图库公开的独立中国能效标识资料图；不是拍在消费者到货机身上的铭牌",
+          "image_http_status": 200,
+          "reuse_info": {
+            "rights_holder": "SUPOR苏泊尔品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer and image owners."
+          },
+          "transcription": [
+            {
+              "text": "中国能效标识",
+              "location": "图片上方标题"
+            },
+            {
+              "text": "生产者名称：浙江苏泊尔家电制造有限公司",
+              "location": "图片中部偏下，生产者名称一行"
+            },
+            {
+              "text": "规格型号：SF20FC45",
+              "location": "生产者名称下一行"
+            }
+          ],
+          "evidence_scope": "逐字读取零售页提供的能效标识图，标签角色为“生产者”；不确认其系当前消费者批次、不等同已核实实际生产工厂。图中没有厂址、产地字样。"
+        },
+        {
+          "filename": "supor-sf20fc45-capacity.jpg",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/HAPLfL6-Vs8R-xpxS3vLnA.jpg",
+          "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/HAPLfL6-Vs8R-xpxS3vLnA.jpg",
+          "image_source_page_url": "https://product.suning.com/0000000000/000000012403974140.html",
+          "content_type": "image/jpeg",
+          "width": 750,
+          "height": 900,
+          "bytes": 49709,
+          "sha256": "5d34d3da67566a68576f29edea102f1a7c0dee1a4dc11e8b8cfe211500c0d9b6",
+          "visually_verified": true,
+          "image_kind": "零售页商品详情中的参数与尺寸图，非实拍包装/铭牌",
+          "image_http_status": 200,
+          "reuse_info": {
+            "rights_holder": "SUPOR苏泊尔品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer and image owners."
+          },
+          "transcription": [
+            {
+              "text": "额定容量 2.0L",
+              "location": "图片上方左列"
+            },
+            {
+              "text": "额定功率 350W",
+              "location": "图片上方右列"
+            },
+            {
+              "text": "电源电压 220V",
+              "location": "图片上方左列第二行"
+            },
+            {
+              "text": "净重 2.1KG",
+              "location": "图片上方右列第二行"
+            }
+          ],
+          "evidence_scope": "2.0L为同一准确商品页引用的详情参数图文字；并非物理铭牌上的容量。详情图净重2.1KG与页面参数3.1千克不一致，未采用净重作为确定规格。"
+        }
+      ],
+      "china_sale_evidence": {
+        "status": "mainland_direct_product_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://product.suning.com/0000000000/000000012403974140.html"
+        ],
+        "evidence": "苏宁自营直接商品页的标题、参数和同页图片明确SF20FC45，容量2L，颜色蓝色。",
+        "limitation": "仅公开目录资料，不证明实时可配送、当前库存或到货包装批次。"
+      },
+      "china_production_evidence": {
+        "status": "public_energy_label_names_producer_retailer_declares_china_origin_factory_unverified",
+        "country_declared_by_retailer": "中国浙江绍兴市",
+        "country_as_read_from_packaging": null,
+        "declared_producer_legal_entity": "浙江苏泊尔家电制造有限公司",
+        "label_role_as_read": "生产者名称",
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://product.suning.com/0000000000/000000012403974140.html",
+          "https://imgservice.suning.cn/uimg1/b2c/image/_ulu7CdpD4NIkyY1m37PZA.jpg_800w_800h_4e"
+        ],
+        "evidence": "同页公开中国能效标识图逐字写“生产者名称：浙江苏泊尔家电制造有限公司”“规格型号：SF20FC45”；零售网页产地参数为“中国浙江绍兴市”。",
+        "evidence_scope": "能效标识是零售页提供的公开资料图，非已核实消费者批次的机身铭牌。记录其生产者字段原角色，不直接推断实际生产工厂；厂址、包装产地均未读到。"
+      },
+      "access_boundaries": {
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "scope": "只读取所给主商品页及引用图库/详情原图；备用苏宁页未需访问，已返回403的苏泊尔官网路径未重试。"
+      },
+      "notes": [
+        "主图、能效标识图和容量图均已目视核对，原始字节未改造。",
+        "生产者名称来自可读能效标识图，不是店名或零售参数推断。",
+        "详情图净重2.1KG与零售参数3.1千克不一致，净重未作为本条确定规格。"
+      ],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 147841,
+        "sha256": "fcc46aa80c729a843940cfdc208e19b55c6f5bb43ffcae2073e72f40886626c8"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "supor-sw17s59a-kettle17l",
+      "product_name": "苏泊尔 SW-17S59A 电水壶 1.7L 奶杏色",
+      "model": "SW-17S59A",
+      "capacity_value": 1.7,
+      "capacity_unit": "L",
+      "color_as_listed": "奶杏色",
+      "filename": "images/supor-sw17s59a-kettle17l.webp",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/vmFZYZquUQGVq-leGUOHdA.png_800w_800h_4e_80Q_is",
+      "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/vmFZYZquUQGVq-leGUOHdA.png_800w_800h_4e_80Q_is",
+      "image_source_page_url": "https://m.suning.com/product/0000000000/000000012441520395.html",
+      "content_type": "image/png",
+      "width": 800,
+      "height": 800,
+      "bytes": 9094,
+      "sha256": "52f9a7a6f46c9f5aa595d0663495fbdc0c14efa0ebba78f39e5854f9071e16f9",
+      "visually_verified": true,
+      "image_kind": "零售商原始白底整机主图，奶杏色壶身，无外包装或底部铭牌",
+      "image_http_status": 200,
+      "reuse_info": {
+        "rights_holder": "SUPOR苏泊尔品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer and image owners."
+      },
+      "source_page_url": "https://m.suning.com/product/0000000000/000000012441520395.html",
+      "retailer_source_page_url": "https://m.suning.com/product/0000000000/000000012441520395.html",
+      "canonical_desktop_source_page_url": "https://product.suning.com/0000000000/12441520395.html",
+      "source_role": "中国大陆苏宁自营移动直接商品页及其实际canonical桌面页，非苏泊尔品牌官网",
+      "retailer_page_title": "苏泊尔(SUPOR) 电水壶烧水壶316不锈钢内胆恒温电热水壶开水壶多段调温1.7L大容量 SW-17S59A",
+      "status": "image_verified_manufacturer_unknown",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆苏宁自营商品目录；当前库存、配送及实际包装批次未验证。",
+      "image_match_scope": "移动商品页及其canonical桌面页型号均SW-17S59A，容量1.7升/1.7L，颜色奶杏色；交付原主图与同页明确型号容量参数图。",
+      "brand_as_read": "SUPOR",
+      "product_body_transcription": [
+        {
+          "text": "SUPOR",
+          "location": "主图壶身正面上部",
+          "scope": "品牌字样，非制造法人"
+        }
+      ],
+      "packaging_transcription": [],
+      "packaging_model_as_read": null,
+      "nameplate_model_as_read": null,
+      "capacity_as_read_from_packaging_or_nameplate": null,
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read_from_packaging": null,
+      "retailer_page_fields": {
+        "model": "SW-17S59A",
+        "capacity": "1.7升",
+        "color": "奶杏色",
+        "listed_origin": "中国大陆"
+      },
+      "supporting_images": [
+        {
+          "filename": "supor-sw17s59a-parameters.jpg",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/_G2duUm2jathTSeDrNPBlg.jpg",
+          "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/_G2duUm2jathTSeDrNPBlg.jpg",
+          "image_source_page_url": "https://product.suning.com/0000000000/12441520395.html",
+          "content_type": "image/jpeg",
+          "width": 790,
+          "height": 1482,
+          "bytes": 77761,
+          "sha256": "555d72b1259289dd971962387a5953f2f87533f16c8e54df3cb31965943b460e",
+          "visually_verified": true,
+          "image_kind": "零售页商品详情参数图，非实拍包装或物理铭牌",
+          "image_http_status": 200,
+          "reuse_info": {
+            "rights_holder": "SUPOR苏泊尔品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer and image owners."
+          },
+          "transcription": [
+            {
+              "text": "产品型号 SW-17S59A",
+              "location": "图片下半部参数区，左列首行"
+            },
+            {
+              "text": "产品容量 1.7L",
+              "location": "图片下半部参数区，右列第二行"
+            },
+            {
+              "text": "额定功率 1500W",
+              "location": "图片下半部参数区，左列第三行"
+            },
+            {
+              "text": "额定电压 220V",
+              "location": "图片下半部参数区，左列第四行"
+            }
+          ],
+          "evidence_scope": "逐字读取该准确商品页引用的参数图；未见制造法人、厂址或产地。不是消费者到货铭牌证据。"
+        }
+      ],
+      "china_sale_evidence": {
+        "status": "mainland_direct_product_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://m.suning.com/product/0000000000/000000012441520395.html",
+          "https://product.suning.com/0000000000/12441520395.html"
+        ],
+        "evidence": "指定苏宁移动商品页和其HTML明确指向的canonical桌面页对应同一型号SW-17S59A，参数容量1.7升、颜色奶杏色。",
+        "limitation": "未登录、下单；未根据隐藏“有货/下架”模板判定库存。"
+      },
+      "china_production_evidence": {
+        "status": "retailer_declares_mainland_origin_packaging_and_manufacturer_unknown",
+        "country_declared_by_retailer": "中国大陆",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://m.suning.com/product/0000000000/000000012441520395.html",
+          "https://product.suning.com/0000000000/12441520395.html"
+        ],
+        "evidence": "零售页参数原文产地“中国大陆”。",
+        "evidence_scope": "仅零售参数声明。主图及同页已读参数图未见物理包装、铭牌、制造法人或厂址；品牌及组件描述不作为制造法人或工厂证据。"
+      },
+      "access_boundaries": {
+        "source_page_http_status": 200,
+        "canonical_desktop_page_http_status": 200,
+        "image_http_status": 200,
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "scope": "读取指定移动商品页、它明确引用的canonical桌面页及同页引用原图；不访问已返回403的苏泊尔官网路径。"
+      },
+      "notes": [
+        "交付主图和规格图均已目视核对，未经裁切、合成、生成或去水印。",
+        "容量型号来自零售页面及参数图片，不能写为物理包装/铭牌实拍证据。",
+        "未采用页面与图片存在不一致的其他功能参数，也未据组件品牌推断原料或组件产地。"
+      ],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 63291,
+        "sha256": "3a7051fa07bbea0eb5d96ff9bb107d56eb46ac1d1a153d3de99e6406a4f97bef"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "supor-sy50fc03q-pressure5l",
+      "productId": "supor-sy50fc03q-pressure5l",
+      "product_name": "苏泊尔 SY-50FC03Q 电压力锅 5L",
+      "model": "SY-50FC03Q",
+      "capacity_value": 5,
+      "capacity_unit": "L",
+      "capacity_label_as_read": "额定容积 5L",
+      "filename": "images/supor-sy50fc03q-pressure5l.webp",
+      "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/Cj9TlQU-U3gOzo70YYRYWQ.jpg",
+      "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/Cj9TlQU-U3gOzo70YYRYWQ.jpg",
+      "image_source_page_url": "https://product.suning.com/0070064923/11887558782.html",
+      "content_type": "image/jpeg",
+      "width": 750,
+      "height": 704,
+      "bytes": 47988,
+      "sha256": "45f57588491752090fdb155169ad6e2c61daf5acac2c129a2cf50424fc8faad5",
+      "visually_verified": true,
+      "image_kind": "指定零售页详情发布的整机场景主图，图片明确印有SY-50FC03Q；保留原图品牌和宣传文字",
+      "reuse_info": {
+        "rights_holder": "SUPOR苏泊尔品牌、苏宁页面图片提供方及原图相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer and image owners."
+      },
+      "source_page_url": "https://product.suning.com/0070064923/11887558782.html",
+      "retailer_source_page_url": "https://product.suning.com/0070064923/11887558782.html",
+      "source_role": "中国大陆苏宁平台直接商品页；店名仅按平台展示文字记录，非品牌官网或自营认定",
+      "retailer_display_name": "苏泊尔官方旗舰店",
+      "retailer_legal_entity": null,
+      "retailer_page_title": "苏泊尔(SUPOR)电压力锅全自动高压锅家用电压锅5L升大容量3-5-6人专柜同款",
+      "status": "image_verified_model_capacity_read_manufacturer_unknown",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆苏宁平台公开直接商品资料；没有确认当前库存、配送范围、授权关系或消费者到货批次。",
+      "image_match_scope": "指定页面标题/型号参数为SY-50FC03Q、容量5L；主图明确写SY-50FC03Q，同页产品信息图也写SY-50FC03Q、额定容积5L。未访问关联变款商品或用4L/6L及其他型号替代。",
+      "brand_as_read": "SUPOR 苏泊尔",
+      "image_text_transcription": [
+        {
+          "text": "SUPOR 苏泊尔",
+          "location": "主图左上角品牌标识"
+        },
+        {
+          "text": "美味智能球釜方煲",
+          "location": "主图上部标题文字"
+        },
+        {
+          "text": "SY-50FC03Q",
+          "location": "主图上部标题下方型号"
+        }
+      ],
+      "product_body_transcription": [
+        {
+          "text": "SUPOR",
+          "location": "主图锅盖正面品牌字样",
+          "scope": "品牌标识，不是制造法人"
+        }
+      ],
+      "packaging_transcription": [],
+      "packaging_model_as_read": null,
+      "nameplate_model_as_read": null,
+      "capacity_as_read_from_packaging_or_nameplate": null,
+      "manufacturer_as_read": null,
+      "producer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read_from_packaging": null,
+      "retailer_page_fields": {
+        "model": "SY-50FC03Q",
+        "capacity": "5L",
+        "listed_origin": "中国浙江绍兴市",
+        "packing_list": "电压力锅x1"
+      },
+      "supporting_images": [
+        {
+          "filename": "supor-sy50fc03q-parameters.jpg",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/LecoztCVX4mOaRQS_44q5A.jpg",
+          "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/LecoztCVX4mOaRQS_44q5A.jpg",
+          "image_source_page_url": "https://product.suning.com/0070064923/11887558782.html",
+          "content_type": "image/jpeg",
+          "width": 750,
+          "height": 954,
+          "bytes": 247113,
+          "sha256": "e4dfa0ebf36a3d9a87f6450b133ec248473d53f5f659e87c71edf43fe4d5f104",
+          "visually_verified": true,
+          "image_kind": "同页详情原图：上部为菜谱，下部为该电压力锅整机及产品信息表；不是实拍外包装或机身铭牌",
+          "reuse_info": {
+            "rights_holder": "SUPOR苏泊尔品牌、苏宁页面图片提供方及原图相关权利人；确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer and image owners."
+          },
+          "transcription": [
+            {
+              "text": "产品名称 智能电压力锅",
+              "location": "图片下方产品信息区左列首行"
+            },
+            {
+              "text": "产品型号 SY-50FC03Q",
+              "location": "图片下方产品信息区左列第二行",
+              "note": "末字符目视核为字母Q，OCR曾误识为0，已按原图核正。"
+            },
+            {
+              "text": "条形码 6950610221163",
+              "location": "图片下方产品信息区左列第三行"
+            },
+            {
+              "text": "额定功率 900W",
+              "location": "图片下方产品信息区左列第四行"
+            },
+            {
+              "text": "额定容积 5L",
+              "location": "图片下方产品信息区左列第五行"
+            },
+            {
+              "text": "额定电压 220V",
+              "location": "图片下方产品信息区右列首行"
+            },
+            {
+              "text": "额定频率 50Hz",
+              "location": "图片下方产品信息区右列第二行"
+            }
+          ],
+          "evidence_scope": "可独立目视核对型号和5L容积，是零售详情资料图文字；未出现制造商、生产者、厂址或产地。不是当前消费者批次包装/铭牌照片。"
+        }
+      ],
+      "china_sale_evidence": {
+        "status": "mainland_direct_product_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://product.suning.com/0070064923/11887558782.html"
+        ],
+        "evidence": "苏宁平台准确商品页公开型号SY-50FC03Q及容量5L，配套主图和参数图与型号一致。店铺展示名为“苏泊尔官方旗舰店”。",
+        "limitation": "店名不是制造商或店铺实际经营法人；没有登录、下单，未据隐藏“此商品已下架/此款有货”模板判断库存。"
+      },
+      "china_production_evidence": {
+        "status": "retailer_declares_china_origin_packaging_and_manufacturer_unknown",
+        "country_declared_by_retailer": "中国浙江绍兴市",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "declared_producer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://product.suning.com/0070064923/11887558782.html"
+        ],
+        "evidence": "网页商品参数产地原文为“中国浙江绍兴市”。",
+        "evidence_scope": "仅零售参数产地声明。主图、产品信息图未见生产者、制造商、厂址或实体产地标签；不能据同品牌其他型号或店名补制造法人。"
+      },
+      "access_boundaries": {
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "scope": "只访问指定商品页以及它引用的图库/详情图片。未访问关联4L/6L或其他型号、未访问品牌受阻路径、未登录或调用挑战接口。"
+      },
+      "notes": [
+        "两张交付图片均逐图目视确认型号及容积对应，SHA256校验与来源下载文件一致。",
+        "主图及支持图都是零售页公开原图，未裁切、放大复原、去水印、重绘或合成。",
+        "同页公告提示生产批次及新旧包装可能不同；本清单只转录公开示例图，不保证消费者到货包装一致。",
+        "支撑图包含同页原有菜谱，作为原始整张规格资料保存，未删改。",
+        "逐字转录限请求相关字段，不作性能、认证、劳动、制造现场或批次判断。"
+      ],
+      "source_image_metadata": {
+        "width": 750,
+        "height": 704,
+        "bytes": 259868,
+        "sha256": "730ee1d896a22c8e86785d32a2f45ed1c4bf74b9a8e982c654357a0696d8f640"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
