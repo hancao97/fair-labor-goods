@@ -2154,6 +2154,162 @@
       "checkedAt": "2026-09-12",
       "locator": "京东 SKU 66658092051 候选主图与瓶身前标；人工目视核对",
       "type": "零售商商品资料"
+    },
+    {
+      "id": "shiyue-esg-2025",
+      "title": "十月稻田 2025 年环境、社会及管治报告",
+      "publisher": "十月稻田集团股份有限公司（香港交易所披露）",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042402648_c.pdf",
+      "summary": "报告披露工时与休假合规制度、五险一金及沈阳信昌工厂的职工沟通；原粮、包材和物流供应商另有管理流程。",
+      "limitation": "企业自报制度及供应商管理不等于具体分装岗位和种植、运输人员的独立履行记录；未披露可对应该款的每周 40 小时及每周两天休息数据。",
+      "publishedAt": "2026-04-24",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 18 页（印刷 32—33）、第 29—30 页（印刷 54—57）及第 34 页（印刷 64—65）",
+      "type": "企业 ESG 报告"
+    },
+    {
+      "id": "shiyue-millet-suning",
+      "title": "十月稻田磨米世家黄小米 1kg 商品资料",
+      "publisher": "苏宁易购（页面标识苏宁自营）",
+      "url": "https://product.suning.com/0000000000/12445617523.html",
+      "summary": "直接商品页的标题、袋装规格及正面实拍均对应磨米世家黄小米 1kg；参数有国产及辽宁省新民市生产商地址。",
+      "limitation": "未核实当前地区库存；页面的隐藏下架模板不能单独判断在售状态。商品图为样例包装，卖场参数不能替代具体批次背标。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品标题、核心参数、包装参数及前后包装图",
+      "type": "大陆零售商品页"
+    },
+    {
+      "id": "shiyue-millet-packaging",
+      "title": "黄小米 1kg 样例包装：分装受委托方及地址代码",
+      "publisher": "苏宁商品页展示的十月稻田包装",
+      "url": "https://imgservice.suning.cn/uimg1/b2c/image/nPepTuBnlN8A3yLHYn5AKw.jpg_800w_800h_4e",
+      "summary": "同款背标列受委托方沈阳信昌粮食贸易有限公司（分装），许可证 SC10121018102219，并列 XC1、XC2 两处生产地址代码；XC1 为辽宁新民金五台子乡皂角树村。",
+      "limitation": "只能证明公开样例包装所列分装法人和地址；实际批次需核对生产日期后代码。另一地址未完整转录，原粮种植地及劳动条件未验证。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "同一苏宁商品页第 4 张包装图，左下生产信息区；人工目视核对",
+      "type": "商品包装图"
+    },
+    {
+      "id": "sanquan-esg-2025",
+      "title": "三全食品 2025 年环境、社会和公司治理报告",
+      "publisher": "三全食品股份有限公司（东方财富承载原报告）",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202604261821589427_1.pdf",
+      "summary": "报告范围为公司及下属分子公司，列明国内生产基地和食品质量供应链管理，并披露一线员工在淡季新增 8 天带薪休假。",
+      "limitation": "淡季额外休假不是每周双休证明；国内基地列表、员工权益制度和食品安全全链管理不能替代所选水饺产线与上游的实际劳动记录。",
+      "publishedAt": "2026-04-27",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 4、7、26—27、41—43 页；第 43 页休假措施经原图核对",
+      "type": "企业 ESG 报告"
+    },
+    {
+      "id": "sanquan-dumpling-suning",
+      "title": "三全猪肉白菜灌汤水饺 1kg 商品资料",
+      "publisher": "苏宁易购（页面标识苏宁自营）",
+      "url": "https://product.suning.com/0000000000/000000011503830126.html",
+      "summary": "直接商品页明确三全、白菜猪肉馅、1000 克及冷冻保存；参数标注国产和河南郑州产地。",
+      "limitation": "平台产地字段不足以确定生产法人、产线与当前批次。地区库存未核实，不根据静态 HTML 的隐藏下架模板判断商品是否停售。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品标题、核心参数和包装参数",
+      "type": "大陆零售商品页"
+    },
+    {
+      "id": "sanquan-dumpling-jd-store",
+      "title": "三全食品京东自营旗舰店：猪肉白菜水饺 1kg 条目",
+      "publisher": "京东（三全食品京东自营旗舰店）",
+      "url": "https://mall.jd.com/view_search-613963-19879963-1-0-20-1.html",
+      "summary": "店内明确展示灌汤猪肉白菜水饺 1kg，链接指向商品编号 100058931871，能区分三鲜及其他口味。",
+      "limitation": "本次具体商品详情请求只有空壳，未取得库存与包装生产资料；店内条目用于型号和大陆渠道定位，不是已下单或任意地区有货证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "销售排行中猪肉白菜水饺条目及其商品链接",
+      "type": "大陆零售店铺"
+    },
+    {
+      "id": "sanquan-dumpling-jingan-2025",
+      "title": "静安区电商平台民生商品（水饺）价格监测表",
+      "publisher": "上海市静安区发展和改革委员会",
+      "url": "https://www.jingan.gov.cn/govxxgk/JA2/2025-12-17/0a9e93d6-8161-47c9-b672-89f8384c4251.html",
+      "summary": "2025 年 12 月 17 日监测表第 71 行记录三全猪肉白菜灌汤水饺 1kg/袋，在百联商超列有价格。",
+      "limitation": "属于历史地区销售记录，不代表当前价格库存，也不提供具体制造工厂或劳动检查结果；其他口味及相邻品牌分开。",
+      "publishedAt": "2025-12-17",
+      "checkedAt": "2026-09-12",
+      "locator": "商品表第 71 行及表头",
+      "type": "政府价格监测"
+    },
+    {
+      "id": "sanquan-dumpling-packaging",
+      "title": "三全水饺 1kg 样例背标：企业及生产代码",
+      "publisher": "苏宁商品页展示的三全包装（保留家乐福图片水印）",
+      "url": "https://imgservice.suning.cn/uimg1/b2c/image/2byxSHF8dydk5dhK3g2LbA.jpg_800w_800h_4e",
+      "summary": "同页细节图可读三全食品股份有限公司、代码 A、郑州市综合投资区长兴路中段及 SC11141010800034；完整背面还有其他企业代码组。",
+      "limitation": "部分角色前缀和其他企业小字受褶皱反光影响，未完整转录；未取得当前消费者批次代码，不把 A 组企业指定为所有批次的制造商。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "同一商品页第 4 张原有细节图左下企业信息区；与第 2 张完整背面交叉核对",
+      "type": "商品包装图"
+    },
+    {
+      "id": "chinasalt-dongxing-intro",
+      "title": "中盐东兴企业简介",
+      "publisher": "中盐东兴盐化股份有限公司",
+      "url": "http://dongxing.chinasalt.com.cn/dxgywm/dxqyjj",
+      "summary": "官网介绍食用盐生产、安徽定远联系地址及云梦子公司，并明确东兴、琅琊山品牌线索。",
+      "limitation": "企业介绍与管理体系认证不证明具体产线的每周工时、休息或全体工人国籍；定远和云梦应分别核对。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "企业简介正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "chinasalt-dongxing-jobs-2026",
+      "title": "中盐东兴 2026 年 8 月招聘公告",
+      "publisher": "定远县人民政府（来源：中盐东兴盐化股份有限公司）",
+      "url": "https://www.dingyuan.gov.cn/zwdt/tzgg/278430872.html",
+      "summary": "制盐加药岗与汽机岗要求能够倒班；招聘承诺入职合同、五险一金和法定休假，报名条件要求中国国籍。",
+      "limitation": "倒班未披露班次长度或每周休息；招聘国籍条件只适用于应聘者，不证明现有全部工人及供应商人员的国籍。招聘承诺也不等于实际履行。",
+      "publishedAt": "2026-08-13",
+      "checkedAt": "2026-09-12",
+      "locator": "第三节岗位表、第四节基本条件及第六节薪酬福利；公告落款 2026-08-12",
+      "type": "政府发布企业招聘"
+    },
+    {
+      "id": "chinasalt-langyashan-product",
+      "title": "琅琊山食盐官网资料及包装",
+      "publisher": "中盐东兴盐化股份有限公司",
+      "url": "http://dongxing.chinasalt.com.cn/dxcpzx/dxycp/ff80808190057da70190061541dc0029.html",
+      "summary": "官网展示用于烹饪调味的岩盐产品与加碘包装，正面有中盐东兴名称。",
+      "limitation": "图中净含量只完整读到数字 500，单位不可见，也没有可读制造背标或交易入口；暂不创建家庭装商品条目。",
+      "publishedAt": "2024-06-12",
+      "checkedAt": "2026-09-12",
+      "locator": "产品正文及包装正面，已核原图",
+      "type": "企业官网"
+    },
+    {
+      "id": "chinasalt-dongxing-iodized-product",
+      "title": "精制食用盐（加碘）官网大袋资料",
+      "publisher": "中盐东兴盐化股份有限公司",
+      "url": "http://dongxing.chinasalt.com.cn/dxcpzx/dxycp/ff80808190057da70190063951e70055.html",
+      "summary": "官网大袋包装能核对精制食用盐与加碘属性，所列中国盐业股份有限公司角色为总经销商。",
+      "limitation": "净含量文字在图片边缘不完整，不能改写成家庭小袋；经销商不能作为制造商，未创建消费者商品条目。",
+      "publishedAt": "2024-06-12",
+      "checkedAt": "2026-09-12",
+      "locator": "产品正文及图示大袋包装",
+      "type": "企业官网"
+    },
+    {
+      "id": "jinjian-esg-summary-2025",
+      "title": "金健米业 2025 年 ESG 报告摘要（5 页）",
+      "publisher": "金健米业股份有限公司（巨潮资讯披露）",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-09/1225085579.PDF",
+      "summary": "摘要确认报告覆盖公司及合并子公司，列出员工、生产安全与供应链等治理议题和员工沟通方式。",
+      "limitation": "本次取得的是 5 页摘要，未取得完整报告正文；摘要无具体周工时或休息数据，不能作为完整报告已审阅或合规证明。",
+      "publishedAt": "2026-04-09",
+      "checkedAt": "2026-09-12",
+      "locator": "摘要第 2—5 页，尤其第 3 页报告范围与员工沟通",
+      "type": "企业 ESG 报告摘要"
     }
   ],
   "companies": [
@@ -3371,21 +3527,26 @@
       "restDays": null,
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
-      "cardNote": "工时与休息资料待补",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "cardNote": "2025 摘要已查 · 排班待核",
+      "scope": "官方米业商品页及 2025 年 ESG 摘要；完整报告和实际生产劳动证据尚待补充。",
+      "finding": "已查到员工与供应链治理议题，但取得的 5 页摘要没有周工时及休息数据；玉针香 5kg 当前零售与生产背标也需补核。",
       "caveats": [
-        "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "本档案尚未取得实际考勤、加班和每周休息记录。"
+        "ESG 摘要不能冒充全文审阅，完整报告本次未能正常读取。",
+        "品牌官网展示不等于当前具体商品在售；实际制造主体、原粮和包装岗位均需对应。",
+        "未取得实际考勤、工资社保及每周休息记录。"
       ],
-      "sourceIds": [],
+      "sourceIds": [
+        "product-jinjian-yuzhenxiang-rice",
+        "jinjian-esg-summary-2025"
+      ],
       "supply": [
         {
           "stage": "品牌与运营",
           "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "detail": "2025 ESG 摘要列员工和供应链治理议题，未披露具体工时安排。",
+          "sourceIds": [
+            "jinjian-esg-summary-2025"
+          ]
         },
         {
           "stage": "生产或门店服务",
@@ -5406,6 +5567,177 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "先核对当前普通与特殊工时生产岗位的范围及履行，再寻找名称、净含量和制造背标一致的具体洗发产品。"
+    },
+    {
+      "id": "shiyue",
+      "name": "十月稻田 / 沈阳信昌",
+      "legalName": "十月稻田集团股份有限公司；包装分装受委托方：沈阳信昌粮食贸易有限公司",
+      "location": "辽宁沈阳新民（所查包装分装地址）；集团其他基地分别核查",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "分装法人已对应 · 工时待核",
+      "scope": "集团 2025 年员工制度与沈阳信昌工厂线索；具体黄小米包装列分装受委托方。",
+      "finding": "已将 1kg 黄小米样例包装对应到沈阳信昌，报告也提及该厂职工沟通；具体批次、实际周工时与每周休息仍未取得独立记录。",
+      "caveats": [
+        "依法安排工时、假期和五险一金属于企业披露，不能补成已验证的 40 小时双休。",
+        "包装列多处地址，须用当前批次代码确定实际分装地点；国内分装不证明原粮种植全链在中国。",
+        "供应商质量、资质和绩效考核不能替代种植、加工、包材与物流工人的劳动记录。"
+      ],
+      "sourceIds": [
+        "shiyue-esg-2025",
+        "shiyue-millet-suning",
+        "shiyue-millet-packaging"
+      ],
+      "supply": [
+        {
+          "stage": "集团员工制度",
+          "status": "policy",
+          "detail": "2025 报告披露工时、休假与社保制度，未给出对应产线的实际周工时。",
+          "sourceIds": [
+            "shiyue-esg-2025"
+          ]
+        },
+        {
+          "stage": "黄小米分装",
+          "status": "unknown",
+          "detail": "样例背标列沈阳信昌及两处地址代码；当前批次、分装班组和每周休息待核。",
+          "sourceIds": [
+            "shiyue-millet-packaging",
+            "shiyue-esg-2025"
+          ]
+        },
+        {
+          "stage": "种植、包材与物流",
+          "status": "unknown",
+          "detail": "报告有原粮和物流供应商管理，但该款种植地、雇佣主体及劳动履行尚未逐项对应。",
+          "sourceIds": [
+            "shiyue-esg-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "以实际包装生产日期后的 XC 代码锁定分装地址，补充该岗位和原粮、包材、物流人员的考勤、工资、社保与休息资料。"
+    },
+    {
+      "id": "sanquan",
+      "name": "三全食品",
+      "legalName": "三全食品股份有限公司",
+      "location": "河南郑州及集团其他境内基地；具体水饺生产厂待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "淡季休假披露 · 周休待核",
+      "scope": "集团 2025 年报告与猪肉白菜灌汤水饺 1kg 的大陆零售资料。",
+      "finding": "报告披露一线员工淡季新增带薪休假，尚不能证明每周两天休息；所选水饺的生产法人、班组与实际排班待补。",
+      "caveats": [
+        "淡季新增 8 天带薪休假不等于每周双休，年度福利无法换算为具体周工时。",
+        "集团多处国内基地不自动对应某款水饺；当前批次与受托厂需依据包装核对。",
+        "食品安全供应链体系不是劳动全链认证，种植养殖、制馅、包材和冷链岗位需另核。"
+      ],
+      "sourceIds": [
+        "sanquan-esg-2025",
+        "sanquan-dumpling-suning",
+        "sanquan-dumpling-jd-store",
+        "sanquan-dumpling-jingan-2025",
+        "sanquan-dumpling-packaging"
+      ],
+      "supply": [
+        {
+          "stage": "集团员工制度",
+          "status": "policy",
+          "detail": "报告披露员工权益及淡季增加休假，未取得逐周工作与休息记录。",
+          "sourceIds": [
+            "sanquan-esg-2025"
+          ]
+        },
+        {
+          "stage": "水饺制造",
+          "status": "unknown",
+          "detail": "样例包装含三全代码 A 等多组企业信息；当前批次未对应其中具体制造主体和产线。",
+          "sourceIds": [
+            "sanquan-dumpling-suning",
+            "sanquan-dumpling-packaging"
+          ]
+        },
+        {
+          "stage": "农牧原料与冷链",
+          "status": "unknown",
+          "detail": "报告的全链管理指食品质量安全，相关供应商及运输人员劳动安排需独立核对。",
+          "sourceIds": [
+            "sanquan-esg-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补齐猪肉白菜 1kg 当前在售包装、生产法人及批次，再核制造、原料和冷链岗位的工时、休息、工资社保。"
+    },
+    {
+      "id": "chinasalt-dongxing",
+      "name": "中盐东兴",
+      "legalName": "中盐东兴盐化股份有限公司",
+      "location": "安徽定远；云梦子公司岗位另列",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "制盐倒班岗位 · 排班待核",
+      "scope": "2026 年 8 月定远制盐岗位招聘与中盐东兴官网产品资料；云梦属于另一个法人。",
+      "finding": "生产岗位要求能够倒班并披露合同社保，实际班次和周休未明；家庭食盐规格与当前零售入口尚未完整锁定，暂只保留企业档案。",
+      "caveats": [
+        "招聘没有给出生产岗位每周 40 小时与每周两天休息，不从人事咨询时段推算。",
+        "应聘者中国国籍条件不是全体在岗工人或上游人员的国籍证明。",
+        "集团其他盐企的历史劳动评价不适用于该法人；包装上经销商也不等于制造工厂。"
+      ],
+      "sourceIds": [
+        "chinasalt-dongxing-intro",
+        "chinasalt-dongxing-jobs-2026",
+        "chinasalt-langyashan-product",
+        "chinasalt-dongxing-iodized-product"
+      ],
+      "supply": [
+        {
+          "stage": "招聘与直接雇佣",
+          "status": "policy",
+          "detail": "公告承诺合同、五险一金及法定假；实际履行未知。",
+          "sourceIds": [
+            "chinasalt-dongxing-jobs-2026"
+          ]
+        },
+        {
+          "stage": "定远制盐与包装",
+          "status": "unknown",
+          "detail": "制盐加药和汽机岗明确倒班要求；工作时长、班表及具体消费商品产线尚未对应。",
+          "sourceIds": [
+            "chinasalt-dongxing-jobs-2026",
+            "chinasalt-langyashan-product"
+          ]
+        },
+        {
+          "stage": "采矿、包材与运输",
+          "status": "unknown",
+          "detail": "官网有岩盐与生产业务线索，外包和上游劳动条件未查实。",
+          "sourceIds": [
+            "chinasalt-dongxing-intro"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "先锁定完整家庭食盐规格、大陆零售入口和制造背标，再核对定远相关产线、采矿及运输岗位排班和劳动履行。"
     }
   ],
   "products": [
@@ -7030,8 +7362,8 @@
       "imageRights": "金健米业股份有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "金健米业大陆官网产品中心明确标示“金健玉针香5kg”并直接使用此图片。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "官网展示可确认玉针香 5kg 的品牌与规格，尚未补齐当前同款零售条目；官网陈列不单独作为可购买证明。",
           "sourceIds": [
             "product-jinjian-yuzhenxiang-rice"
           ]
@@ -7043,8 +7375,10 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
-          "sourceIds": []
+          "detail": "2025 ESG 摘要列员工治理议题，但未取得该米业产线实际工时、休息、工资及社保记录。",
+          "sourceIds": [
+            "jinjian-esg-summary-2025"
+          ]
         }
       },
       "needs": [
@@ -9826,6 +10160,113 @@
           ]
         }
       }
+    },
+    {
+      "id": "shiyue-millet1kg",
+      "name": "磨米世家黄小米 1kg",
+      "brand": "十月稻田",
+      "companyId": "shiyue",
+      "category": "food",
+      "description": "用于煮粥、杂粮饭的袋装黄小米，净含量 1kg；资料图与页面规格一致。",
+      "tags": [
+        "小米",
+        "杂粮",
+        "主食"
+      ],
+      "needs": [
+        "小米"
+      ],
+      "url": "https://product.suning.com/0000000000/12445617523.html",
+      "relationshipSourceIds": [
+        "shiyue-millet-suning",
+        "shiyue-millet-packaging",
+        "shiyue-esg-2025"
+      ],
+      "market": "苏宁自营有同名同规格直接商品资料，当前送达地区及库存仍需核实。",
+      "relationship": "公开背标列沈阳信昌为分装受委托方；集团 ESG 提及沈阳信昌工厂，不能据此推断当前批次采用哪处厂址。",
+      "image": "images/shiyue-millet1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/xRf-Wp8SA3BpiazkGuiypw.jpg_800w_800h_4e",
+      "imageRights": "十月稻田品牌及苏宁自营商品图相关权利人；确切图片著作权法人未公开核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已找到大陆同款 1kg 直接销售资料，当前库存与地区配送未核实；隐藏页面模板不用于判断在售状态。",
+          "sourceIds": [
+            "shiyue-millet-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "样例背标明确辽宁沈阳的分装受委托方与多处厂址代码；实际批次地点及原粮种植来源尚未对应。",
+          "sourceIds": [
+            "shiyue-millet-packaging"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团工时、休假和社保披露尚未对应分装产线实际考勤；原粮及物流岗位也缺少独立履行记录。",
+          "sourceIds": [
+            "shiyue-esg-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sanquan-pork-cabbage1kg",
+      "name": "灌汤猪肉白菜水饺 1kg",
+      "brand": "三全",
+      "companyId": "sanquan",
+      "category": "food",
+      "description": "白菜猪肉馅速冻水饺，净含量 1kg；需冷冻保存并按包装说明熟制。",
+      "tags": [
+        "速冻饺子",
+        "白菜猪肉馅",
+        "冷冻主食"
+      ],
+      "needs": [
+        "速冻饺子"
+      ],
+      "url": "https://product.suning.com/0000000000/000000011503830126.html",
+      "relationshipSourceIds": [
+        "sanquan-dumpling-suning",
+        "sanquan-dumpling-jd-store",
+        "sanquan-dumpling-jingan-2025",
+        "sanquan-dumpling-packaging",
+        "sanquan-esg-2025"
+      ],
+      "market": "苏宁直接商品页和京东自营店内条目均有该口味与规格；静安另有历史价格监测。当前地区库存待核。",
+      "relationship": "同款包装可读三全食品股份有限公司代码 A 及郑州地址，但还有其他企业代码组；当前批次实际生产者尚未锁定。",
+      "image": "images/sanquan-pork-cabbage1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/vwXiXt2Ph9XlMmcFQicZxQ.jpg_800w_800h_4e",
+      "imageRights": "三全品牌及原商品图相关权利人；图片带家乐福/Carrefour水印，来源为苏宁自营商品页，确切图片权利法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已找到大陆精确口味规格的销售资料与历史价格监测，当前到货地区和库存待核。",
+          "sourceIds": [
+            "sanquan-dumpling-suning",
+            "sanquan-dumpling-jd-store",
+            "sanquan-dumpling-jingan-2025"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "平台标国产、河南郑州，样例背标列代码 A 等多组企业；角色前缀部分不清，当前实际批次工厂和原料来源待核。",
+          "sourceIds": [
+            "sanquan-dumpling-suning",
+            "sanquan-dumpling-packaging"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "淡季增加带薪休假不能证明每周双休；对应工厂及原料、冷链人员的实际劳动记录仍缺。",
+          "sourceIds": [
+            "sanquan-esg-2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -9937,13 +10378,26 @@
           "query": "速冻调理肉"
         }
       ],
-      "note": "已补大米、家庭装面粉、挂面、三种食用油、酱醋蚝油、腐乳、酵母、饼干及原味脆皮炸鸡 250g。开兰、嘉士利、广中皇有 2025 年政府劳动评价，圣农报告有国内基地线索；各款当前批次与实际岗位仍待核。杂粮、食盐和速冻饺子继续查。",
+      "note": "新增黄小米 1kg 与猪肉白菜速冻水饺 1kg 的具体资料。黄小米背标可对应辽宁分装法人，当前批次及种植来源仍待核；三全淡季额外休假不等于每周双休。中盐东兴有制盐倒班招聘，但所查家庭盐净含量单位不清、零售未锁定，暂只记企业线索。其余杂粮、大豆油、老抽、白糖、辣椒酱与坚果继续查。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
         "jinhe-production-2026",
         "cofco-oils-products",
-        "shishi-food-sampling-2025"
+        "shishi-food-sampling-2025",
+        "shiyue-esg-2025",
+        "shiyue-millet-suning",
+        "shiyue-millet-packaging",
+        "sanquan-esg-2025",
+        "sanquan-dumpling-suning",
+        "sanquan-dumpling-jd-store",
+        "sanquan-dumpling-jingan-2025",
+        "sanquan-dumpling-packaging",
+        "chinasalt-dongxing-intro",
+        "chinasalt-dongxing-jobs-2026",
+        "chinasalt-langyashan-product",
+        "chinasalt-dongxing-iodized-product",
+        "jinjian-esg-summary-2025"
       ]
     },
     {

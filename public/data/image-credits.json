@@ -2875,6 +2875,365 @@
         "bytes": 161726,
         "sha256": "ed7ff1858121de52aede832d8a6eaaad63ab96212041673a19248246ee68213d"
       }
+    },
+    {
+      "id": "shiyue-millet1kg",
+      "product_name": "十月稻田 磨米世家黄小米 1kg",
+      "brand_as_read": "十月稻田",
+      "model": "磨米世家黄小米 1kg",
+      "net_content": 1,
+      "net_content_unit": "kg",
+      "packaging": "黄色袋装，正面磨米世家、黄小米与净含量1kg；图示单袋",
+      "retailer_source_page_url": "https://product.suning.com/0000000000/12445617523.html",
+      "image_source_page_url": "https://product.suning.com/0000000000/12445617523.html",
+      "source_role": "中国大陆苏宁自营直接商品页，不是京东聚合页或品牌官网",
+      "retailer_page_title": "十月稻田 磨米世家黄小米1kg黄小米",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/xRf-Wp8SA3BpiazkGuiypw.jpg_800w_800h_4e",
+      "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/xRf-Wp8SA3BpiazkGuiypw.jpg_800w_800h_4e",
+      "content_type": "image/jpeg",
+      "researched_on": "2026-09-12",
+      "status": "image_verified",
+      "catalog_eligible": true,
+      "catalog_eligibility_scope": "仅表示图片精确匹配指定黄小米1kg，非劳动合规、当前库存或特定批次判定",
+      "market_scope": "中国大陆直接零售页面展示；当前库存未验证",
+      "retailer_page_product_fields": {
+        "brand": "十月稻田(SHIYUEDAOTIAN)",
+        "net_weight": "1000克",
+        "category": "小米",
+        "packaging": "袋装",
+        "domestic_imported": "国产",
+        "manufacturer_address_as_page_text": "辽宁省新民市金五台子乡",
+        "manufacturer_name_as_page_text": null,
+        "selected_specification": "【易煮粘稠】黄小米1kg"
+      },
+      "packaging_transcription": [
+        {
+          "text": "十月稻田",
+          "location": "主图正面右上绿色品牌标识",
+          "scope": "品牌名"
+        },
+        {
+          "text": "磨米世家／黄小米",
+          "location": "主图正面左右大字",
+          "scope": "包装系列及准确品种"
+        },
+        {
+          "text": "净含量1kg",
+          "location": "主图右下部竖排净含量框",
+          "scope": "实际主图独立确认净含量1kg"
+        }
+      ],
+      "image_match_scope": "主图直接来自该苏宁商品页首张800×800图。包装读到黄小米1kg；已检查同页5张图，没有以金苗、赤峰、山西800g或柴火大院包装替换。",
+      "china_sale_evidence": {
+        "status": "mainland_direct_retail_listing_confirmed_current_stock_unverified",
+        "source_urls": [
+          "https://product.suning.com/0000000000/12445617523.html"
+        ],
+        "evidence": "苏宁自营商品页标题、规格与图示均为十月稻田磨米世家黄小米1kg。",
+        "limitation": "页面有默认隐藏的下架模板，不能据静态HTML确认当前库存；没有执行下单。"
+      },
+      "china_production_evidence": {
+        "status": "packaging_explicit_mainland_subcontract_packing_operator_multiple_sites",
+        "country": "中国",
+        "production_activity_supported": "分装／包装所列食品生产",
+        "manufacturer_legal_entity": "沈阳信昌粮食贸易有限公司",
+        "manufacturer_role_as_read": "受委托方（分装）",
+        "food_production_license_as_read": "SC10121018102219",
+        "factory_address": "辽宁省沈阳市新民市金五台子乡皂角树村",
+        "factory_address_site_code": "XC1",
+        "additional_site_code": "XC2",
+        "specific_current_batch_factory": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://product.suning.com/0000000000/12445617523.html",
+          "https://imgservice.suning.cn/uimg1/b2c/image/nPepTuBnlN8A3yLHYn5AKw.jpg_800w_800h_4e"
+        ],
+        "readable_manufacturer_fields": [
+          "受委托方：沈阳信昌粮食贸易有限公司（分装）",
+          "SC10121018102219",
+          "辽宁省沈阳市新民市金五台子乡皂角树村（XC1）"
+        ],
+        "evidence_scope": "示例包装明确列中国境内分装受委托方及多处地址代码；未确认当前购买批次对应哪个地点，也不因此证明小米种植全链产地或劳动条件。",
+        "limitation": "第二地址完整字串未可靠读出；实际地址须看消费者包装生产日期后代码。"
+      },
+      "agricultural_origin_evidence": {
+        "status": "not_verified_for_farm_or_consumer_batch",
+        "scope": "本任务读取包装分装信息，没有追溯种植地或原粮批次。"
+      },
+      "supporting_images": [
+        {
+          "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/nPepTuBnlN8A3yLHYn5AKw.jpg_800w_800h_4e",
+          "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/nPepTuBnlN8A3yLHYn5AKw.jpg_800w_800h_4e",
+          "content_type": "image/jpeg",
+          "image_source_page_url": "https://product.suning.com/0000000000/12445617523.html",
+          "role": "packaging_back_label_evidence",
+          "reuse_info": {
+            "rights_holder": "十月稻田品牌及苏宁自营商品图相关权利人；确切图片著作权法人未公开核实",
+            "license": "No open reuse license identified. Copyright remains with the respective image, brand and retailer rights holders."
+          },
+          "readable_transcription": [
+            {
+              "text": "黄小米",
+              "location": "背面上部竖排大字与下部参数区产品名称",
+              "scope": "与主图同款背标"
+            },
+            {
+              "text": "受委托方：沈阳信昌粮食贸易有限公司（分装）",
+              "location": "背标左侧参数区中部，委托方地址之后",
+              "scope": "分装受委托法人，不能替代为整个十月稻田集团或所有供应商"
+            },
+            {
+              "text": "食品生产许可证编号：SC10121018102219",
+              "location": "受委托方下一行",
+              "scope": "示例包装所列食品生产许可证编号"
+            },
+            {
+              "text": "生产地址：辽宁省沈阳市新民市金五台子乡皂角树村（XC1）",
+              "location": "许可证编号下方第一组生产地址两行",
+              "scope": "包装列出的XC1分装生产地点；未确认消费者当前批次对应此代码"
+            },
+            {
+              "text": "具体生产地址以生产日期后代码为准",
+              "location": "背标左下部注释",
+              "scope": "包装有多处生产地址，需实际批次代码才能选定"
+            }
+          ],
+          "other_address_line": {
+            "additional_site_code": "XC2",
+            "exists": true,
+            "full_address_transcribed": false,
+            "reason": "另有第二组生产地址，但800×800原图的细小字符不足以可靠完整转录；不补猜村名或门牌。"
+          },
+          "untranscribed_fields": [
+            "委托方名称和地址较小，未作完整可靠转录",
+            "第二生产地址XC2的完整字串"
+          ],
+          "evidence_scope": "同一苏宁直接销售页面第4张商品图，人工目视核对；这是公开示例包装，没有核实当前到货批次。",
+          "filename": "shiyue-millet1kg-back.jpg",
+          "width": 800,
+          "height": 800,
+          "bytes": 126972,
+          "sha256": "a11be3e1eb95b5d84286c96ed6ce28b12863118d931d5430697e88c56257c04b",
+          "visually_verified": true
+        }
+      ],
+      "reuse_info": {
+        "rights_holder": "十月稻田品牌及苏宁自营商品图相关权利人；确切图片著作权法人未公开核实",
+        "license": "No open reuse license identified. Copyright remains with the respective image, brand and retailer rights holders."
+      },
+      "access_boundaries": {
+        "preferred_source": "https://shop.jiheyunyi.com/goods-89.html",
+        "preferred_source_result": "HTTPS连接出现SSL UNEXPECTED_EOF_WHILE_READING；公开HTTP地址返回502。没有关闭SSL验证。",
+        "accepted_source": "https://product.suning.com/0000000000/12445617523.html",
+        "accepted_source_result": "正常HTTPS读取苏宁直接商品页及所列图像，未登录。",
+        "jd_locator": "https://www.jd.com/jiage/13207895cdad1dec725d.html",
+        "jd_candidate": "https://item.jd.com/100014774324.html",
+        "jd_candidate_result": "重定向到风险处理页，未继续或绕过。聚合页未作图片来源。"
+      },
+      "notes": [
+        "原包装小字含图片仅供参考；保留公开样例包装范围。",
+        "背标资料没有证明当前工厂劳动条件，须由根代理独立核实。"
+      ],
+      "filename": "images/shiyue-millet1kg.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 47026,
+      "sha256": "4a54043fa5e4ab731e1e57c1bdceb56d7b79f008c77accb5e2bcfd1b5c332fd3",
+      "visually_verified": true,
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 122023,
+        "sha256": "c553cbb6562c3878923d18bce339b32be224c6c5754fc4da12e554cf054a2929"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "filename": "images/sanquan-pork-cabbage1kg.webp",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/vwXiXt2Ph9XlMmcFQicZxQ.jpg_800w_800h_4e",
+      "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/vwXiXt2Ph9XlMmcFQicZxQ.jpg_800w_800h_4e",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 56298,
+      "sha256": "9aff5710cfb566f64d7cbd8030b647d0f2f21471a13465f49da2f69d0dfad0b1",
+      "visually_verified": true,
+      "image_source_page_url": "https://product.suning.com/0000000000/000000011503830126.html",
+      "reuse_info": {
+        "rights_holder": "三全品牌及原商品图相关权利人；图片带家乐福/Carrefour水印，来源为苏宁自营商品页，确切图片权利法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the respective brand, retailer and image owners."
+      },
+      "id": "sanquan-pork-cabbage1kg",
+      "product_name": "三全灌汤猪肉白菜水饺 1kg",
+      "model": "猪肉白菜口味，1千克简装",
+      "brand_as_read": "三全",
+      "net_content": 1,
+      "net_content_unit": "kg",
+      "packaging": "红白色袋装，图示单袋；正面“1千克量贩装”",
+      "retailer_source_page_url": "https://product.suning.com/0000000000/000000011503830126.html",
+      "source_role": "中国大陆苏宁超市自营直接商品页，非品牌官网",
+      "retailer_page_title": "三全简装猪肉白菜灌汤水饺1kg",
+      "researched_on": "2026-09-12",
+      "status": "image_verified",
+      "market_scope": "中国大陆直接零售页面资料图；当前库存与实际到货批次未验证",
+      "retailer_page_product_fields": {
+        "brand": "三全",
+        "category": "水饺",
+        "domestic_imported": "国产",
+        "place_of_origin": "中国河南郑州市",
+        "packaging": "简装",
+        "net_weight": "1000克",
+        "flavor": "白菜猪肉馅",
+        "storage": "冷冻-18℃"
+      },
+      "packaging_transcription": [
+        {
+          "text": "三全",
+          "location": "主图左上部红色商标",
+          "scope": "品牌确认"
+        },
+        {
+          "text": "灌汤水饺",
+          "location": "主图中央白色大字",
+          "scope": "包装品类／系列确认"
+        },
+        {
+          "text": "猪肉白菜",
+          "location": "主图中央下方口味字样",
+          "scope": "准确口味确认，未混用三鲜"
+        },
+        {
+          "text": "1千克量贩装",
+          "location": "主图右上角橙色标识",
+          "scope": "包装规格确认"
+        },
+        {
+          "text": "净含量：1千克",
+          "location": "主图底部中央",
+          "scope": "独立从包装确认1kg，未使用455g规格"
+        }
+      ],
+      "supporting_images": [
+        {
+          "filename": "sanquan-pork-cabbage1kg-back.jpg",
+          "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/Tw5LixGwO2rYWMgNkef5RA.jpg_800w_800h_4e",
+          "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/Tw5LixGwO2rYWMgNkef5RA.jpg_800w_800h_4e",
+          "content_type": "image/jpeg",
+          "width": 800,
+          "height": 800,
+          "bytes": 136303,
+          "sha256": "6515f50b6bdcfabd62e93a0fae2782f01ac7d63e3dcc44f5c4aadecb321fcbd2",
+          "visually_verified": true,
+          "image_source_page_url": "https://product.suning.com/0000000000/000000011503830126.html",
+          "reuse_info": {
+            "rights_holder": "三全品牌及原商品图相关权利人；图片带家乐福/Carrefour水印，来源为苏宁自营商品页，确切图片权利法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the respective brand, retailer and image owners."
+          },
+          "role": "overall_same_product_back_label",
+          "readable_transcription": [
+            {
+              "text": "三全食品",
+              "location": "背标左下部企业资料区上方标识",
+              "scope": "品牌／企业资料区标识，不单独据此确定当前批次工厂"
+            }
+          ],
+          "evidence_scope": "同页第2张图为完整背面，展示多家企业与代码所在的标签布局；小字和反光限制完整转录。保留作为与近景关联的全貌，未将全部企业或厂址视为已读清。"
+        },
+        {
+          "filename": "sanquan-pork-cabbage1kg-company-label.jpg",
+          "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/2byxSHF8dydk5dhK3g2LbA.jpg_800w_800h_4e",
+          "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/2byxSHF8dydk5dhK3g2LbA.jpg_800w_800h_4e",
+          "content_type": "image/jpeg",
+          "width": 800,
+          "height": 800,
+          "bytes": 223154,
+          "sha256": "4468b1ddc1206e82559069a445ae4a1f2dd7a509b7c11aae23da2e85e898e3f0",
+          "visually_verified": true,
+          "image_source_page_url": "https://product.suning.com/0000000000/000000011503830126.html",
+          "reuse_info": {
+            "rights_holder": "三全品牌及原商品图相关权利人；图片带家乐福/Carrefour水印，来源为苏宁自营商品页，确切图片权利法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the respective brand, retailer and image owners."
+          },
+          "role": "source_provided_back_label_closeup",
+          "readable_transcription": [
+            {
+              "text": "三全食品股份有限公司（代码：A）",
+              "location": "图像左下部三全食品标识下第一行公司文字",
+              "scope": "公司名称和代码在源图可读；角色前缀与褶皱处未完整可靠读取"
+            },
+            {
+              "text": "郑州市综合投资区长兴路中段",
+              "location": "上述公司名下的地址行",
+              "scope": "包装公司资料区地址；不据此选定消费者当前批次工厂"
+            },
+            {
+              "text": "SC11141010800034",
+              "location": "地址下方生产许可证号行",
+              "scope": "同一包装企业资料组内食品生产许可证号"
+            }
+          ],
+          "partial_fields": {
+            "company_role_prefix": "unconfirmed_due_to_fold_and_glare",
+            "other_company_codes_present": true,
+            "other_company_names_transcribed": false,
+            "other_factory_addresses_transcribed": false
+          },
+          "evidence_scope": "这是苏宁原有第4张细节图，非本任务裁切或改造。下方另有其他企业代码区域，且图片底边裁切；只转录上述可可靠辨认字串。没有读到或核对消费批次代码。"
+        }
+      ],
+      "image_match_scope": "同一直接商品页5张图库均已目视核对；第1张作为完整主图，第2张完整背面与第4张企业标签近景作证据。口味、品牌与1kg规格一致。",
+      "china_sale_evidence": {
+        "status": "mainland_direct_product_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://product.suning.com/0000000000/000000011503830126.html"
+        ],
+        "evidence": "苏宁自营直接商品页标题、口味字段和包装照片均对应三全猪肉白菜灌汤水饺1kg。",
+        "limitation": "没有验证实时可售库存、配送范围或消费者当前批次；页面默认隐藏的“此商品已下架”模板不作为库存结论。"
+      },
+      "china_production_evidence": {
+        "status": "retailer_declares_china_origin_packaging_entity_and_license_partially_readable",
+        "country_declared_by_retailer": "中国",
+        "place_declared_by_retailer": "中国河南郑州市",
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "packaging_named_entity": "三全食品股份有限公司",
+        "packaging_entity_code": "A",
+        "packaging_address_as_read": "郑州市综合投资区长兴路中段",
+        "food_production_license_as_read": "SC11141010800034",
+        "producer_role_prefix_verified": false,
+        "actual_manufacturer_for_consumer_batch": null,
+        "consumer_batch_verified": false,
+        "multiple_company_code_groups_on_label": true,
+        "source_urls": [
+          "https://product.suning.com/0000000000/000000011503830126.html",
+          "https://imgservice.suning.cn/uimg1/b2c/image/2byxSHF8dydk5dhK3g2LbA.jpg_800w_800h_4e",
+          "https://imgservice.suning.cn/uimg1/b2c/image/Tw5LixGwO2rYWMgNkef5RA.jpg_800w_800h_4e"
+        ],
+        "evidence_scope": "页面明确标国产及中国河南郑州；包装可读公司名、地址、代码A和SC号，但角色前缀受褶皱/反光影响且背标有其他企业代码，未指定此公司为当前消费批次实际制造商。",
+        "limitation": "不把品牌名、店名或单个标签公司自动覆盖同袋上其他企业及所有批次；原料种植/养殖来源未核对。"
+      },
+      "access_boundaries": {
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "jd_candidate_page": "https://item.jd.com/100058931871.html",
+        "jd_candidate_role": "根代理提供的定位链接；已有苏宁直接图源，本批未继续请求或绕过JD验证。",
+        "scope": "只读取指定苏宁单款商品页及其5张公开商品图库，未研究其他产品、企业新闻或劳动制度。"
+      },
+      "notes": [
+        "保留原图家乐福水印，没有生成、合成或去水印。",
+        "可读背标仅作公开示例包装证据，不能证明当前消费者批次、库存或工厂劳动条件。",
+        "本批仅此1款，完成后停止。"
+      ],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 150759,
+        "sha256": "0dbdac8547c5f0192265334943948fb4347069839dedecf56650ef4ad8d27680"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
