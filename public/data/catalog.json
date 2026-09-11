@@ -1650,6 +1650,282 @@
       "checkedAt": "2026-09-12",
       "locator": "页面正文",
       "type": "企业官网"
+    },
+    {
+      "id": "sunner-annual-2025",
+      "title": "圣农发展 2025 年年度报告：生产基地、食品子公司与员工情况",
+      "publisher": "福建圣农发展股份有限公司",
+      "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-04-13/e9b4de33-9e36-4da2-a7b1-10ae9537bbc9.PDF",
+      "summary": "报告列明食品子公司关系，介绍福建、江西、甘肃、安徽生产基地及冻鲜鸡肉产品，并披露员工人数、薪酬与培训安排。",
+      "limitation": "员工章节没有具体产线的每周工时、休息日和考勤数据；上市公司整体数据不能替代某一袋产品对应工厂的记录。",
+      "publishedAt": "2026-04-13",
+      "checkedAt": "2026-09-12",
+      "locator": "第 4、9—11、54—57 页",
+      "type": "企业报告"
+    },
+    {
+      "id": "sunner-crispy-official",
+      "title": "圣农脆皮炸鸡：风味、单袋规格及类型",
+      "publisher": "福建圣农食品有限公司",
+      "url": "http://www.sunnersp.com/product_130.html",
+      "summary": "官网列出原汁原味和秘制川辣味，单袋 250g，产品类型为速冻生制调制肉食。",
+      "limitation": "官网的产品介绍不证明当前库存；本目录只取原汁原味这一款，未将其当作未经调理的鲜肉。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "sunner-crispy-suning",
+      "title": "圣农原味脆皮炸鸡 250g×4 包销售资料",
+      "publisher": "苏宁自营",
+      "url": "https://product.suning.com/0000000000/12422440261.html",
+      "summary": "商品标题与参数可核对 250g×4 包组合，参数标示国产、产地福建南平；图库中的单袋正面写明原汁原味及 250g。",
+      "limitation": "仅有零售商产地声明，未读到制造商背标；网页包含下架与库存模板文案，不能据静态页面保证当前可下单。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "零售商商品资料"
+    },
+    {
+      "id": "sunner-breast-retailer",
+      "title": "圣农鸡胸肉 500g：商城规格与正反包装",
+      "publisher": "海口兆海隆食品有限公司",
+      "url": "http://sc.hkzhl.com/pd.jsp?pid=616",
+      "summary": "公开商城列出圣农鸡胸肉 500g，整箱规格为 500g×20。示例背标配料仅为鸡胸肉，委托商是福建圣农食品有限公司。",
+      "limitation": "这是商城提供的示例包装。背标并列多家受托制造商，未读到锁定实际批次的喷码；商城销售整箱，个人购买权限、零售拆售、现货与配送范围未核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品名称、规格及正反包装图片",
+      "type": "零售商商品资料"
+    },
+    {
+      "id": "sunner-breast-label",
+      "title": "圣农鸡胸肉 500g 示例背标的受托生产商",
+      "publisher": "海口兆海隆食品有限公司商品图库",
+      "url": "https://31580227.s21i.faimallusr.com/2/ABUIABACGAAgrK-wpwYoqv3lrAYwoAY4oAY.jpg",
+      "summary": "可读委托商福建圣农食品有限公司；受托名单中包括福建圣农发展股份有限公司（GZ）、福建圣农发展（浦城）有限公司（PC）及福建地址。",
+      "limitation": "没有该件实际生产商代码喷码，不能任选名单企业充当批次制造商。背标还有其他企业，受小字和水印影响未完整转录；标签的地址不直接等于实际屠宰加工厂址。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "背面左侧文字：委托商、受委托生产商",
+      "type": "商品包装"
+    },
+    {
+      "id": "suntissue-company",
+      "title": "幸福阳光品牌与太阳生活用纸生产基地",
+      "publisher": "山东太阳生活用纸有限公司",
+      "url": "https://www.suntissue.com/gongsijieshao/",
+      "summary": "官网确认幸福阳光由山东太阳生活用纸有限公司运营，介绍山东和广西生产基地，提供国内品牌店铺入口。",
+      "limitation": "生产基地介绍尚未对应具体 SKU 当前批次；纸浆采购、造纸、后加工及物流的雇佣主体分别核查。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "sunpaper-esg-2025",
+      "title": "太阳纸业 2025 ESG 报告：四班三运转制度",
+      "publisher": "山东太阳纸业股份有限公司",
+      "url": "https://www.sunpapergroup.com/uploads/soft/20260413/1-2604130S93Q12.pdf",
+      "summary": "报告描述每班 8 小时、每 8 天工作 6 天休息 2 天的四班三运转制度；长期平均折算约每周 42 小时，非每周固定休息两天。",
+      "limitation": "这是报告所述班制，非本站审核的个人考勤，也未明确区分每件生活用纸的加工线。轮班与项目筛选条件不同，不据此认定企业违法。",
+      "publishedAt": "2026-04-13",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 4、81—84 页，班制见第 83 页（印刷第 82 页）",
+      "type": "企业报告"
+    },
+    {
+      "id": "product-suntissue-e3l1150ec",
+      "title": "太阳花三层抽纸 150抽×18包 E3L1150EC官方规格",
+      "publisher": "山东太阳生活用纸有限公司",
+      "url": "https://www.suntissue.com/taiyanghuaxilie325.html",
+      "summary": "每包 150 抽，18 包/箱，纸张 153×200mm，三层。 官网明确列出相应 SKU。",
+      "limitation": "可识别具体款式与包装，但“订购链接”为空，页面仅有品牌旗舰店入口；不能据此保证该 SKU 的当前库存。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-suntissue-e1xb200n",
+      "title": "太阳花三层无芯卷纸 200g×10卷 E1XB200N官方规格",
+      "publisher": "山东太阳生活用纸有限公司",
+      "url": "https://www.suntissue.com/taiyanghuaxilie319.html",
+      "summary": "每卷 200g，10 卷/提，纸张 172×110mm，三层；官网另列 6 提/箱。 官网明确列出相应 SKU。",
+      "limitation": "可识别具体款式与包装，但“订购链接”为空，页面仅有品牌旗舰店入口；不能据此保证该 SKU 的当前库存。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "weigang-yogurt1500",
+      "title": "卫岗风味酸牛奶 1500g 官方产品资料",
+      "publisher": "南京卫岗乳业有限公司",
+      "url": "https://www.weigangdairy.com/ppcp",
+      "summary": "品牌产品列表明确列出风味酸牛奶及净含量 1500g。",
+      "limitation": "官网当前直连受限，通过近期官方检索缓存核到名称与规格；未取得可读背标、当前下单状态和对应批次工厂。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "yanjing-xiandu-sampling2026",
+      "title": "燕京仙都工厂与 500mL 啤酒的官方抽检记录",
+      "publisher": "张家港市市场监督管理局",
+      "url": "https://www.zjg.gov.cn/zjgszwz/spaqhh/202604/1bd96e27df4f421488e9203fa03a815a.shtml",
+      "summary": "合格明细第 293 行列出燕京啤酒（浙江仙都）有限公司、缙云鼎湖路 1 号，商品 500mL/瓶、酒精度不低于 3.1%vol。",
+      "limitation": "2026 年公告记录的是 2025-05-09 批次；仅支持所列工厂与该批食品，不证明当前库存、其他燕京产品或劳动合规。",
+      "publishedAt": "2026-04-23",
+      "checkedAt": "2026-09-12",
+      "locator": "附件 1 合格明细第 293 行",
+      "type": "政府抽检"
+    },
+    {
+      "id": "yanjing-xiaopao-sampling2026",
+      "title": "燕京小炮 500mL 的近期生产与商超销售记录",
+      "publisher": "淮安区市场监督管理局（中国质量新闻网转载）",
+      "url": "https://www.cqn.com.cn/ms/content/2026-09/03/content_9171176.htm",
+      "summary": "转载的合格表第 391 行记载燕京小炮 500mL/罐、酒精度不低于 3.1%vol，生产商为燕京仙都公司，批次日期 2026-05-15，在淮安区状元府生活超市抽样。",
+      "limitation": "本次读到政府通告的媒体转载，未成功取得政府原页；批次、销售门店及规格明确，但不能保证其他门店现货。食品检测不是劳动检查。",
+      "publishedAt": "2026-09-03",
+      "checkedAt": "2026-09-12",
+      "locator": "合格表第 391 行，抽样编号 XBJ26320803921830432",
+      "type": "政府通告转载"
+    },
+    {
+      "id": "nongfu-employment-policy2026",
+      "title": "农夫山泉人才发展与雇佣政策：不同岗位的工时制度",
+      "publisher": "农夫山泉股份有限公司",
+      "url": "https://file-cloud.yst.com.cn/photo/website/2026/04/17/09f94f1092c94a5094bddfe46d4e3d23.pdf",
+      "summary": "2026 年官网发布的政策文件中，人才与雇佣政策修订于 2025 年 11 月。文件明确按岗位采用标准、综合及不定时工时制，并说明加班管理、薪酬、社保及承包商劳动标准。",
+      "limitation": "文件是企业政策，没有具体产线每周工时、逐周休息和个人履行记录；对供应商的倡议也不是已完成的全链验证。",
+      "publishedAt": "2026-04-17",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 6—8 页：人才发展与雇佣政策",
+      "type": "企业政策"
+    },
+    {
+      "id": "nongfu-esg2025",
+      "title": "农夫山泉 2025 可持续发展报告：用工与供应商管理",
+      "publisher": "农夫山泉股份有限公司",
+      "url": "https://file-cloud.yst.com.cn/photo/website/2026/04/17/563939b9449941d3acc0afe1e8300fcf.pdf",
+      "summary": "用工章节说明不同岗位的工时制度；供应商章节描述筛选、风险评估及劳动权益要求。",
+      "limitation": "已按原页图像核对 PDF 第 51—52、60—61 页。制度与供应商管理没有对应本目录商品的实际考勤，不推导所有工厂与供应商已符合项目条件。",
+      "publishedAt": "2026-04-17",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 51—52、60—61 页",
+      "type": "企业报告"
+    },
+    {
+      "id": "nongfu-water550-official",
+      "title": "农夫山泉饮用天然水 550mL 官方产品图与规格",
+      "publisher": "农夫山泉股份有限公司",
+      "url": "https://www.nongfuspring.com/goods/detail-all.html?id=6&pid=4&product_id=5",
+      "summary": "官网对应商品的示例正面包装标明饮用天然水、净含量 550mL，为红色瓶盖和红色标签。",
+      "limitation": "示例正面不显示本批制造商与水源地址；不可将同容量的饮用纯净水、矿泉水混为这一款。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "nongfu-water550-sampling2026",
+      "title": "农夫山泉 550mL 天然水与建德工厂的抽检记录",
+      "publisher": "张家港市市场监督管理局",
+      "url": "https://www.zjg.gov.cn/zjgszwz/spaqhh/202607/f68c440173a747c9b43f813bdfe97ace.shtml",
+      "summary": "2026 年第 15 期公告合格表第 21 行记载 550mL/瓶饮用天然水、2026-03-13 批次，标称制造商农夫山泉（建德）新安江饮用水有限公司，厂址浙江省杭州市建德市新安江街道梅坪村。",
+      "limitation": "只对应记录中的批次；同表也列出其他生产主体，不能把一个建德工厂推广到全国所有 550mL 商品。食品抽检不核验劳动条件。",
+      "publishedAt": "2026-06-29",
+      "checkedAt": "2026-09-12",
+      "locator": "附件 1 合格明细，第 20—21 行",
+      "type": "政府抽检"
+    },
+    {
+      "id": "nongfu-water550-sale2026",
+      "title": "农夫山泉 550mL 天然水的大陆商超价格记录",
+      "publisher": "芜湖市发展和改革委员会",
+      "url": "https://whfgw.wuhu.gov.cn/xmjf/jbsj/8938746.html",
+      "summary": "第四百九十九期商超价格公示列出农夫山泉饮用天然水 550mL，并注明 2026-06-24 采价。",
+      "limitation": "本次网页直连受限，通过官方检索索引核对品名、容量及采价日期。这是当时的商超记录，不保证今天的价格、库存或全国所有收货地址。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "饮用天然水 550mL 行及表下注明的采价日期",
+      "type": "政府市场信息"
+    },
+    {
+      "id": "nongfu-apple300-official",
+      "title": "农夫山泉 100%NFC 新疆苹果汁 300mL 官方规格",
+      "publisher": "农夫山泉股份有限公司",
+      "url": "https://www.nongfuspring.com/goods/detail-all.html?id=2&pid=11&product_id=57",
+      "summary": "官网列出 100%NFC 新疆苹果汁；官方正面包装明确净含量 300mL。",
+      "limitation": "新疆描述所宣传的苹果产区，不能直接当作灌装工厂地址。未取得该款当前生产批次背标、供应果园及在售店铺核验。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "nongfu-coffee270-origin",
+      "title": "炭仌无糖黑咖 270mL 的咖啡豆来源说明",
+      "publisher": "农夫山泉股份有限公司",
+      "url": "https://www.nongfuspring.com/goods/detail-all.html?id=12&pid=19&product_id=42",
+      "summary": "官方 270mL 示例包装明确提到巴西咖啡豆。",
+      "limitation": "因此本轮不将这一款用于填补全生产链在中国的咖啡候选；原料来源不等于成品灌装地点，也不说明当地劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "官方产品图正面下部的咖啡豆说明",
+      "type": "企业官网"
+    },
+    {
+      "id": "hogood-liujin58-official",
+      "title": "后谷鎏金58 大颗粒冻干黑咖啡 100 克官方资料",
+      "publisher": "后谷咖啡品牌官网",
+      "url": "https://www.hogoodcoffee.com/index.html#/product-detail/4",
+      "summary": "官方鎏金58 产品记录及配套图片对应金色标签玻璃瓶；正面净含量与详情参数均为 100 克，配料标为冻干咖啡。",
+      "limitation": "示例图与参数没有可读的法定制造商、厂址或当前批次背标。官网展示不代表已验证零售库存。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "鎏金58 产品页：主图与规格参数详情图",
+      "type": "企业官网"
+    },
+    {
+      "id": "hogood-liujin58-yunnan",
+      "title": "后谷鎏金58 官方详情中的云南原料线索",
+      "publisher": "后谷咖啡品牌官网",
+      "url": "https://www.hogoodcoffee.com/upload/userfiles/images/20260119161009_699.jpg",
+      "summary": "同一款官方详情介绍云南小粒咖啡风味，并提及后谷观音山种植园。",
+      "limitation": "这是产品宣传中的产区关联，未说明全部原料比例、每个批次的采购来源或实际加工厂；不能据此排除其他产区原料。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "详情图下半部分的云南小粒咖啡及种植园介绍",
+      "type": "官方商品图片"
+    },
+    {
+      "id": "hogood-group-members",
+      "title": "辽宁中泽集团成员中的后谷控股（云南）有限公司",
+      "publisher": "辽宁中泽集团",
+      "url": "https://www.lnzzgroup.com/product.html",
+      "summary": "集团产业及成员介绍将后谷控股（云南）有限公司列于咖啡相关业务，支持当前品牌业务关联。",
+      "limitation": "集团成员关系不是商品制造商证明；未由此把旧公司、种植园或其他加工法人等同为这瓶咖啡的生产企业。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "大消费产业及成员企业：后谷控股（云南）有限公司",
+      "type": "企业官网"
+    },
+    {
+      "id": "hogood-responsibility",
+      "title": "后谷咖啡对种植合作及咖农支持的公开介绍",
+      "publisher": "后谷咖啡品牌官网",
+      "url": "https://www.hogoodcoffee.com/index.html#/responsibility",
+      "summary": "官网责任页面介绍与农户、合作社的合作，以及种苗、技术和采购方面的支持措施。",
+      "limitation": "产业扶持与公益介绍未提供该商品种植、采摘、加工和外包岗位的实际工时、休息、工资或社保履行资料。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "后谷责任：产业合作及咖农支持部分",
+      "type": "企业官网"
     }
   ],
   "companies": [
@@ -3655,14 +3931,15 @@
       "restLabel": "每周两天休息待核",
       "cardNote": "有政府记录 · 当前产线待核",
       "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "finding": "2022 年全国示范名单可对应南京卫岗乳业有限公司。官网可核 1500g 风味酸牛奶，当前制造批次及奶源、灌装和配送人员实际劳动条件未核验。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
         "本档案尚未取得实际考勤、加班和每周休息记录。"
       ],
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "weigang-yogurt1500"
       ],
       "supply": [
         {
@@ -4400,6 +4677,272 @@
           "limitation": "保留历史年份；不扩大到集团关联公司、合作社、代工及当前全员劳动履行。"
         }
       ]
+    },
+    {
+      "id": "sunner",
+      "name": "圣农食品",
+      "legalName": "福建圣农食品有限公司",
+      "location": "福建南平；具体生产商按包装代码核对",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "已查背标，批次工厂待核",
+      "scope": "福建圣农食品有限公司及所售鸡肉产品；上市母公司、受托加工企业与各养殖场分别核查。",
+      "finding": "已对应原味脆皮炸鸡 250g 和配料仅鸡胸肉的 500g 包装。2025 年报告确认国内生产布局，但未提供与这些商品对应的生产工时与休息记录。",
+      "caveats": [
+        "鸡胸肉示例背标列出多个受托厂代码，尚未锁定消费者批次。",
+        "养殖、屠宰、调理加工和冷链属于不同环节，不能共用一个排班结论。",
+        "上市公司人数、薪酬及培训披露不能证明每位生产人员的实际工时。"
+      ],
+      "sourceIds": [
+        "sunner-annual-2025",
+        "sunner-crispy-official",
+        "sunner-breast-retailer",
+        "sunner-breast-label"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "福建圣农食品有限公司及所售鸡肉产品；上市母公司、受托加工企业与各养殖场分别核查。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "suntissue",
+      "name": "幸福阳光",
+      "legalName": "山东太阳生活用纸有限公司",
+      "location": "山东、广西；按实际包装核生产厂",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "报告披露每 8 天休 2 天",
+      "scope": "幸福阳光生活用纸品牌；上市公司示范记录及集团报告均保留具体主体和适用范围。",
+      "finding": "官网可核抽纸和卷纸的 SKU。2025 年集团报告写明四班三运转、每 8 天上 6 天休 2 天，不能认定符合每周 40 小时及周休两天的项目条件。",
+      "caveats": [
+        "山东太阳纸业与山东太阳生活用纸是不同法人。",
+        "集团班制折算平均约每周 42 小时；尚未核对具体后加工线和实际考勤。",
+        "山东、广西和海外纸浆业务不能合并为全体人员均在中国的生产链。"
+      ],
+      "sourceIds": [
+        "suntissue-company",
+        "sunpaper-esg-2025",
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "幸福阳光生活用纸品牌；上市公司示范记录及集团报告均保留具体主体和适用范围。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "山东太阳纸业股份有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "上市公司记录，不直接授予生活用纸子公司；同时保留 2025 年报告的轮班安排，不用称号替代工时核验。"
+        }
+      ]
+    },
+    {
+      "id": "yanjing-xiandu",
+      "name": "燕京啤酒·仙都工厂",
+      "legalName": "燕京啤酒（浙江仙都）有限公司",
+      "location": "浙江缙云五云街道鼎湖路 1 号",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "已对应工厂及啤酒批次",
+      "scope": "仅核对燕京啤酒（浙江仙都）有限公司；其他燕京工厂单独调查。",
+      "finding": "2022 年示范名单与近期食品抽检可对应同一个生产法人；已找到小炮 500mL 的具体生产批次和大陆商超记录，尚缺工厂实际排班、工时及每周休息记录。",
+      "caveats": [
+        "食品抽检只说明所检项目，不是劳动法合规认定。",
+        "麦芽、酒花、包装及物流供应链仍需分别核查。",
+        "历史示范称号不自动延续为当前每个生产岗位的结论。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022",
+        "yanjing-xiandu-sampling2026",
+        "yanjing-xiaopao-sampling2026"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "仅核对燕京啤酒（浙江仙都）有限公司；其他燕京工厂单独调查。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "燕京啤酒（浙江仙都）有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为该法人历史记录；不扩大到其他燕京公司、当前排班及原料供应链。"
+        }
+      ]
+    },
+    {
+      "id": "nongfu",
+      "name": "农夫山泉",
+      "legalName": "农夫山泉股份有限公司",
+      "location": "总部浙江杭州；具体工厂按商品背标和批次对应",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "政策含多种工时制",
+      "scope": "农夫山泉品牌的 550mL 天然水与 300mL 新疆苹果汁；制造子公司、果园、包材及物流分别核验。",
+      "finding": "已核具体包装规格及天然水建德工厂的抽检批次。现行公开政策区分标准、综合和不定时工时制，不能认定所有生产人员都每周 40 小时、周休两天。",
+      "caveats": [
+        "天然水存在多个生产法人，抽检批次不能代替消费者待购批次。",
+        "苹果产区与果汁灌装厂分开，果农、季节工、包材和运输劳动资料均待补。",
+        "人才政策与供应商管理属于制度披露，缺少产线和外包岗位的实际记录。"
+      ],
+      "sourceIds": [
+        "nongfu-employment-policy2026",
+        "nongfu-esg2025",
+        "nongfu-water550-sampling2026"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "雇佣政策区分岗位工时制度，承诺工资、社保与加班管理；尚未验证实际履行。",
+          "sourceIds": [
+            "nongfu-employment-policy2026"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "hogood",
+      "name": "后谷咖啡",
+      "legalName": "后谷控股（云南）有限公司",
+      "location": "云南；所选商品的实际制造法人和厂址待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "云南原料线索，制造及用工待核",
+      "scope": "以集团当前成员介绍建立后谷品牌业务关联；只调查鎏金58 金色包装 100 克，实际制造商与原料生产者另核。",
+      "finding": "已对应具体品名、100 克规格和官方云南小粒咖啡宣传。当前品牌业务主体不能代替包装制造商，咖农扶持说明也不能证明生产岗位的劳动条件。",
+      "caveats": [
+        "没有取得这款咖啡的当前批次背标和制造厂址。",
+        "云南小粒风味及种植园宣传不证明全部原料来自同一地点。",
+        "种植、采摘、冻干加工、包装与运输的实际工时和逐周休息均待补。"
+      ],
+      "sourceIds": [
+        "hogood-group-members",
+        "hogood-liujin58-official",
+        "hogood-responsibility"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "以集团当前成员介绍建立后谷品牌业务关联；只调查鎏金58 金色包装 100 克，实际制造商与原料生产者另核。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
     }
   ],
   "products": [
@@ -8169,6 +8712,452 @@
           ]
         }
       }
+    },
+    {
+      "id": "sunner-raw-chicken-breast500",
+      "name": "未调理鸡胸肉 500g/袋",
+      "brand": "圣农",
+      "companyId": "sunner",
+      "category": "fresh",
+      "description": "示例背标配料仅为鸡胸肉，净含量 500g；须冷冻保存并充分加热后食用。",
+      "tags": [
+        "鸡肉",
+        "鸡胸肉"
+      ],
+      "needs": [
+        "鸡肉"
+      ],
+      "url": "http://sc.hkzhl.com/pd.jsp?pid=616",
+      "relationshipSourceIds": [
+        "sunner-breast-retailer",
+        "sunner-breast-label",
+        "sunner-annual-2025"
+      ],
+      "market": "已找到海口商城的 500g×20 整箱资料；图片为其中一袋。个人零售、现货和收货地配送仍待核。",
+      "relationship": "背标明确福建圣农食品有限公司为委托商，另列 GZ、PC 等多个受托工厂代码；未取得当前批次代码。",
+      "image": "images/sunner-raw-chicken-breast500.webp",
+      "imageMode": "contain",
+      "imageSource": "https://31580227.s21i.faimallusr.com/2/ABUIABACGAAgrK-wpwYo9PX_4gQwoAY4oAY.jpg",
+      "imageRights": "圣农品牌相关权利人、海口兆海隆食品有限公司及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "大陆商城有准确 500g 商品及整箱规格；尚未确认个人消费者能否拆零购买、当前现货与配送范围。",
+          "sourceIds": [
+            "sunner-breast-retailer"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "背标可读 GZ、PC 等境内受托企业及地址；当前批次代码和实际养殖、屠宰加工场所尚未锁定。",
+          "sourceIds": [
+            "sunner-breast-label",
+            "sunner-annual-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "没有对应养殖、屠宰、分装和冷链岗位的实际工时、休息、工资及社保核验。",
+          "sourceIds": [
+            "sunner-annual-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sunner-crispy-chicken-original250",
+      "name": "原汁原味脆皮炸鸡 250g/袋",
+      "brand": "圣农",
+      "companyId": "sunner",
+      "category": "food",
+      "description": "250g 袋装速冻生制调制肉食；图片是单袋，所查零售组合为 4 袋。",
+      "tags": [
+        "速冻调理肉",
+        "脆皮炸鸡"
+      ],
+      "needs": [
+        "速冻调理肉"
+      ],
+      "url": "http://www.sunnersp.com/product_130.html",
+      "relationshipSourceIds": [
+        "sunner-crispy-official",
+        "sunner-crispy-suning"
+      ],
+      "market": "中国品牌官网与苏宁自营资料可核规格；苏宁页面实际销售状态仍待确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/sunner-crispy-chicken-original250.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/1MWoGdA8863rqIpBAGSWMA.jpg_800w_800h_4e",
+      "imageRights": "圣农品牌相关权利人、苏宁自营商品图相关权利人；未确定摄影著作权单独归属",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官方 250g 产品与苏宁 250g×4 组合可对应，但网页保留多种库存状态模板，尚未确认当前在售。",
+          "sourceIds": [
+            "sunner-crispy-official",
+            "sunner-crispy-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售参数写国产及福建南平，仍缺该款背标的生产法人、厂址和批次代码。",
+          "sourceIds": [
+            "sunner-crispy-suning",
+            "sunner-annual-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "不能以品牌鸡肉全产业链介绍替代实际岗位记录；养殖、调理和包装人员均待核。",
+          "sourceIds": [
+            "sunner-annual-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "suntissue-e3l1150ec",
+      "name": "太阳花三层抽纸 150抽×18包 E3L1150EC",
+      "brand": "幸福阳光",
+      "companyId": "suntissue",
+      "category": "daily",
+      "description": "每包 150 抽，18 包/箱，纸张 153×200mm，三层。",
+      "tags": [
+        "抽纸"
+      ],
+      "needs": [
+        "抽纸"
+      ],
+      "url": "https://www.suntissue.com/taiyanghuaxilie325.html",
+      "relationshipSourceIds": [
+        "product-suntissue-e3l1150ec",
+        "suntissue-company"
+      ],
+      "market": "官网有准确 SKU 及国内品牌店铺入口；对应型号当前库存由销售渠道核对。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/suntissue-e3l1150ec.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.suntissue.com/uploads/allimg/200707/1-200FG52H3.jpg",
+      "imageRights": "太阳纸业幸福阳光生活用纸及相关权利人（官网页脚版权署名）",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网可核型号并链接大陆品牌旗舰店，但该款订购链接为空，具体 SKU 当前在售状态仍待核。",
+          "sourceIds": [
+            "product-suntissue-e3l1150ec",
+            "suntissue-company"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "品牌介绍有山东、广西生产基地；该 SKU 的包装制造商、厂址与原纸来源尚未对应。",
+          "sourceIds": [
+            "suntissue-company"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2025 年集团报告的每 8 天休 2 天安排不等于每周 40 小时、周休两天；具体产线和外包岗位仍需实证。",
+          "sourceIds": [
+            "sunpaper-esg-2025",
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "suntissue-e1xb200n",
+      "name": "太阳花三层无芯卷纸 200g×10卷 E1XB200N",
+      "brand": "幸福阳光",
+      "companyId": "suntissue",
+      "category": "daily",
+      "description": "每卷 200g，10 卷/提，纸张 172×110mm，三层；官网另列 6 提/箱。",
+      "tags": [
+        "卷纸"
+      ],
+      "needs": [
+        "卷纸"
+      ],
+      "url": "https://www.suntissue.com/taiyanghuaxilie319.html",
+      "relationshipSourceIds": [
+        "product-suntissue-e1xb200n",
+        "suntissue-company"
+      ],
+      "market": "官网有准确 SKU 及国内品牌店铺入口；对应型号当前库存由销售渠道核对。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/suntissue-e1xb200n.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.suntissue.com/uploads/allimg/200707/1-200FG51603.jpg",
+      "imageRights": "太阳纸业幸福阳光生活用纸及相关权利人（官网页脚版权署名）",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网可核型号并链接大陆品牌旗舰店，但该款订购链接为空，具体 SKU 当前在售状态仍待核。",
+          "sourceIds": [
+            "product-suntissue-e1xb200n",
+            "suntissue-company"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "品牌介绍有山东、广西生产基地；该 SKU 的包装制造商、厂址与原纸来源尚未对应。",
+          "sourceIds": [
+            "suntissue-company"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2025 年集团报告的每 8 天休 2 天安排不等于每周 40 小时、周休两天；具体产线和外包岗位仍需实证。",
+          "sourceIds": [
+            "sunpaper-esg-2025",
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "weigang-yogurt1500",
+      "name": "风味酸牛奶 1500g",
+      "brand": "卫岗",
+      "companyId": "weigang",
+      "category": "drinks",
+      "description": "官网产品列表明确净含量 1500g 的风味酸牛奶。",
+      "tags": [
+        "酸奶"
+      ],
+      "needs": [
+        "酸奶"
+      ],
+      "url": "https://www.weigangdairy.com/ppcp",
+      "relationshipSourceIds": [
+        "weigang-yogurt1500"
+      ],
+      "market": "已核官方产品规格；现售状态、低温配送范围和商品背标待补。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已通过官方检索缓存确认 1500g 商品；官网直连受限，当前可下单渠道需补核。",
+          "sourceIds": [
+            "weigang-yogurt1500"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "品牌归属南京公司，未取得该桶背标对应的生产法人、厂址及奶源。",
+          "sourceIds": [
+            "weigang-yogurt1500"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2022 年南京公司的示范记录不能替代养殖、发酵、灌装、配送及关联公司的实际岗位核验。",
+          "sourceIds": [
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "yanjing-xiaopao500",
+      "name": "小炮啤酒 500mL/罐（仙都工厂线索）",
+      "brand": "燕京",
+      "companyId": "yanjing-xiandu",
+      "category": "drinks",
+      "description": "已找到 2026-05-15 批次，酒精度不低于 3.1%vol 的 500mL 罐装商品记录。",
+      "tags": [
+        "啤酒"
+      ],
+      "needs": [
+        "啤酒"
+      ],
+      "url": "https://www.cqn.com.cn/ms/content/2026-09/03/content_9171176.htm",
+      "relationshipSourceIds": [
+        "yanjing-xiaopao-sampling2026"
+      ],
+      "market": "近期通告记录江苏淮安具体超市售卖的商品；未取得可直接下单的同厂当前批次链接。",
+      "relationship": "所列小炮批次的标称制造商为燕京啤酒（浙江仙都）有限公司；不能将其他燕京产品套用此厂记录。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "2026 年通告转载列明淮安商超、规格及批次；当前在售状态和其他地区供应仍待核。",
+          "sourceIds": [
+            "yanjing-xiaopao-sampling2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已锁定记录中的仙都生产法人和浙江地址；当前待售批次、麦芽酒花来源仍需核验。",
+          "sourceIds": [
+            "yanjing-xiaopao-sampling2026",
+            "yanjing-xiandu-sampling2026"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "示范称号之外尚缺具体酿造、灌装、包装、原料和物流岗位的实际工时与休息记录。",
+          "sourceIds": [
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "nongfu-natural-water550",
+      "name": "饮用天然水 550mL/瓶",
+      "brand": "农夫山泉",
+      "companyId": "nongfu",
+      "category": "drinks",
+      "description": "红盖、红色标签的 550mL 饮用天然水；包装与同容量纯净水区分。",
+      "tags": [
+        "饮用水"
+      ],
+      "needs": [
+        "饮用水"
+      ],
+      "url": "https://www.nongfuspring.com/goods/detail-all.html?id=6&pid=4&product_id=5",
+      "relationshipSourceIds": [
+        "nongfu-water550-official"
+      ],
+      "market": "已核官方商品规格、芜湖商超价格记录及张家港具体批次；当前收货地库存另核。",
+      "relationship": "抽检资料对应 2026-03-13 批次的建德新安江饮用水公司，不将其扩展到全国全部同规格商品。",
+      "image": "images/nongfu-natural-water550.webp",
+      "imageMode": "contain",
+      "imageSource": "https://file-cloud.yst.com.cn/photo/website/2025/02/26/11444598f1ae49118f988a1748a433f0.png",
+      "imageRights": "农夫山泉股份有限公司及相关产品图片/包装权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官方规格与大陆商超历史销售可对应；仍需核对当前在售渠道和收货地。",
+          "sourceIds": [
+            "nongfu-water550-official",
+            "nongfu-water550-sale2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "抽检已锁定一个 2026 年批次的浙江制造法人和地址；待购批次、水源与包材仍需逐项核对。",
+          "sourceIds": [
+            "nongfu-water550-official",
+            "nongfu-water550-sampling2026"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "公开政策采用多种工时制度，尚无对应生产、原料、包材和物流岗位的实际工时与逐周休息记录。",
+          "sourceIds": [
+            "nongfu-employment-policy2026",
+            "nongfu-esg2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "nongfu-nfc-xinjiang-apple300",
+      "name": "100%NFC 新疆苹果汁 300mL/瓶",
+      "brand": "农夫山泉",
+      "companyId": "nongfu",
+      "category": "drinks",
+      "description": "官方黑色标签款新疆苹果汁，净含量 300mL。只用于果汁需求，不充当鲜苹果覆盖。",
+      "tags": [
+        "果汁"
+      ],
+      "needs": [
+        "果汁"
+      ],
+      "url": "https://www.nongfuspring.com/goods/detail-all.html?id=2&pid=11&product_id=57",
+      "relationshipSourceIds": [
+        "nongfu-apple300-official"
+      ],
+      "market": "官方商品与容量可核，具体销售店铺和当前配送范围仍待补。",
+      "relationship": "品牌产品资料可对应品名和包装；苹果产区并不能锁定实际果园及灌装工厂。",
+      "image": "images/nongfu-nfc-xinjiang-apple300.webp",
+      "imageMode": "contain",
+      "imageSource": "https://file-cloud.yst.com.cn/website/2023/03/26/8d766321e5f14ce1a183564a6f6e883c.png",
+      "imageRights": "农夫山泉股份有限公司及相关产品图片/包装权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核官方产品及 300mL 包装；当前零售销售主体和库存待核。",
+          "sourceIds": [
+            "nongfu-apple300-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "新疆是官方标示的苹果产区，尚未对应具体果园、加工及灌装厂址和批次。",
+          "sourceIds": [
+            "nongfu-apple300-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "公开政策采用多种工时制度，尚无对应生产、原料、包材和物流岗位的实际工时与逐周休息记录。",
+          "sourceIds": [
+            "nongfu-employment-policy2026",
+            "nongfu-esg2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "hogood-liujin58",
+      "name": "鎏金58 大颗粒冻干黑咖啡 100g/瓶",
+      "brand": "后谷咖啡",
+      "companyId": "hogood",
+      "category": "drinks",
+      "description": "金色标签玻璃瓶款，官方正面和参数均标明 100 克；“58”为系列名称。",
+      "tags": [
+        "咖啡",
+        "冻干咖啡"
+      ],
+      "needs": [
+        "咖啡"
+      ],
+      "url": "https://www.hogoodcoffee.com/index.html#/product-detail/4",
+      "relationshipSourceIds": [
+        "hogood-liujin58-official",
+        "hogood-group-members"
+      ],
+      "market": "中国大陆品牌官网列有这一款 100 克咖啡；当前在售店铺、库存及收货地仍待核。",
+      "relationship": "后谷官网对应具体商品，集团成员资料对应后谷控股（云南）有限公司；尚不能把该业务主体认定为本瓶咖啡的制造商。",
+      "image": "images/hogood-liujin58.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.hogoodcoffee.com/upload/Image/20260114/4543f3db63a54394ae45bb42ff362d7e.png",
+      "imageRights": "HOGOOD／后谷咖啡品牌、图片及相关权利人；具体权利法人未从所核包装图确认",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "具体品名、金色包装和 100 克规格已对应官网；可购买的当前零售渠道与配送范围待补。",
+          "sourceIds": [
+            "hogood-liujin58-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官方资料有云南小粒咖啡及种植园线索，但没有当前批次制造法人、厂址与全部原料追溯；不能据此作全链境内生产保证。",
+          "sourceIds": [
+            "hogood-liujin58-official",
+            "hogood-liujin58-yunnan",
+            "hogood-group-members"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "咖农合作与支持措施不等于劳动履行记录；种植、采摘、加工、包装和物流岗位的实际工时、休息与其他劳动义务仍待核。",
+          "sourceIds": [
+            "hogood-responsibility"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -8274,9 +9263,13 @@
         {
           "label": "速冻饺子",
           "query": "速冻饺子"
+        },
+        {
+          "label": "速冻调理肉",
+          "query": "速冻调理肉"
         }
       ],
-      "note": "已补大米、家庭装面粉、挂面、三种食用油、酱醋蚝油、腐乳、酵母和饼干。开兰、嘉士利、广中皇有 2025 年政府劳动评价；需继续锁定各商品当前生产厂与岗位。杂粮、食盐和速冻食品仍缺具体条目。",
+      "note": "已补大米、家庭装面粉、挂面、三种食用油、酱醋蚝油、腐乳、酵母、饼干及原味脆皮炸鸡 250g。开兰、嘉士利、广中皇有 2025 年政府劳动评价，圣农报告有国内基地线索；各款当前批次与实际岗位仍待核。杂粮、食盐和速冻饺子继续查。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -8341,11 +9334,14 @@
           "query": "虾"
         }
       ],
-      "note": "已查圣迪乐 20 枚鸡蛋和连湖番茄基地。番茄尚未对应当前零售规格与供货农场，不计入蔬菜具体商品覆盖。其他水果、肉类、水产仍缺满足主体对应要求的条目。",
+      "note": "新增有 500g 正反包装的未调理鸡胸肉，背标并列多个受托厂代码，当前批次与个人零售仍待核。连湖番茄没有明确零售规格，不计入蔬菜覆盖；水果、猪牛羊肉、水产继续查。",
       "sourceIds": [
         "national-harmony-2022",
         "nxnk-lianhu-production-2026",
-        "nxnk-lianhu-market"
+        "nxnk-lianhu-market",
+        "sunner-breast-retailer",
+        "sunner-breast-label",
+        "sunner-annual-2025"
       ]
     },
     {
@@ -8392,9 +9388,20 @@
           "query": "葡萄酒"
         }
       ],
-      "note": "已有具体牛奶、白酒及盒装桑叶代用茶资料；桑茶当前官网访问与生产法人待核。啤酒、水、果汁、酸奶等继续调查。",
+      "note": "已补 1500g 酸奶、500mL 仙都啤酒、550mL 天然水、300mL 新疆苹果汁及后谷鎏金58 冻干咖啡 100g。咖啡有云南原料宣传，实际制造主体及原料追溯仍待核；天然水有建德批次记录，各款销售和实际岗位仍待补。所查炭仌咖啡使用巴西豆，未列入全链境内候选。豆奶和葡萄酒继续查。",
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "weigang-yogurt1500",
+        "yanjing-xiaopao-sampling2026",
+        "nongfu-employment-policy2026",
+        "nongfu-water550-sampling2026",
+        "nongfu-water550-sale2026",
+        "nongfu-apple300-official",
+        "nongfu-coffee270-origin",
+        "hogood-liujin58-official",
+        "hogood-liujin58-yunnan",
+        "hogood-group-members",
+        "hogood-responsibility"
       ]
     },
     {
@@ -8563,12 +9570,14 @@
           "query": "湿巾"
         }
       ],
-      "note": "新增具体物料号的洗脸巾、如厕湿巾及裤型尿裤。相关天门工厂历史招聘出现 12 小时白班，不能由集团称号认定双休。牙刷、洗发水、洗洁精、纸品与卫生巾仍缺完整条目。",
+      "note": "新增明确 SKU 的抽纸和无芯卷纸。太阳纸业报告的每 8 天休 2 天、稳健天门招聘的 12 小时班次都不能当作每周双休依据。牙刷、洗发水、洗洁精、香皂和卫生巾仍待补。",
       "sourceIds": [
         "jahwa-2025",
         "darlie-hours",
         "winner-tianmen-hiring-2024",
-        "purcotton-brand"
+        "purcotton-brand",
+        "sunpaper-esg-2025",
+        "suntissue-company"
       ]
     },
     {

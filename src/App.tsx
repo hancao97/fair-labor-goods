@@ -163,7 +163,7 @@ function ProductImage({
   return (
     <img
       src={BASE + product.image}
-      alt={`${product.brand} ${product.name}官方产品图`}
+      alt={`${product.brand} ${product.name}商品资料图`}
       loading={large ? "eager" : "lazy"}
       decoding="async"
       className={product.imageMode}
@@ -292,7 +292,7 @@ function ProductDetail({
             </div>
             <div className="detail-actions">
               <a className="button primary" href={product.url} {...external}>
-                查看官方商品资料
+                查看商品资料
                 <ArrowUpRight size={16} />
               </a>
               <button
@@ -435,7 +435,7 @@ function ProductDetail({
                 图片来源：
                 {product.imageSource ? (
                   <a href={product.imageSource} {...external}>
-                    官方产品图片
+                    查看原图
                   </a>
                 ) : (
                   "未使用商品照片"
@@ -546,7 +546,7 @@ function Method() {
       </div>
       <section className="method-principles">
         {[
-          ["大陆可以买到", "需要中国大陆的官方销售渠道与对应型号；海外网页、中文介绍或品牌在华经营不能单独证明商品可购买。"],
+          ["大陆可以买到", "需要可核验的中国大陆销售渠道与对应型号；海外网页、中文介绍或品牌在华经营不能单独证明商品可购买。"],
           ["中国境内生产或服务", "实体商品需有对应型号、批次的中国制造商或产地依据。餐饮、住宿需对应境内具体门店；数字商品需对应境内开发及服务团队。中国品牌不等于中国制造。"],
           ["核对境内生产工人的劳动条件", "核验对象是实际生产、门店及外包人员。总部招聘、年报承诺不能替代生产现场的履行记录；还需核对工资、社保、合同与劳动保护。"],
           [
@@ -1309,7 +1309,7 @@ export default function App() {
             </div>
             <p className="help-text" aria-live="polite">
               {visibleSources.length} 条来源 · 最近查阅 {data.updatedAt} ·
-              产品官网仅用于核对商品关联
+              商品关联与劳动条件分别核验
             </p>
             <div className="source-list library">
               {visibleSources.map((s) => (
@@ -1344,7 +1344,7 @@ export default function App() {
         <p>
           以公开证据，连接日常选择。
           <br />
-          独立资料项目 · 图片版权归各品牌所有
+          独立资料项目 · 图片版权归原权利人所有
         </p>
         <div className="footer-links">
           <a href="#/sources">资料库</a>

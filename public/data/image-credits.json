@@ -1954,6 +1954,676 @@
       "manufacturer_or_factory_address_readability": "未知。选用的正面包装原图没有可读制造商、生产厂址或产地；14×18cm、10包/袋和PPC20700001仅在官网正文确认。",
       "notes": "已排除同一官网图库的另一张60片装照片（20210206111747_912262.jpg）；该图规格不符，不可用于本8片×10包条目。",
       "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "sunner-crispy-chicken-original250",
+      "product_name": "圣农原汁原味脆皮炸鸡 250g/袋",
+      "model": "原汁原味，250g/袋",
+      "official_source_page_url": "http://www.sunnersp.com/product_130.html",
+      "retailer_source_page_url": "https://product.suning.com/0000000000/12422440261.html",
+      "image_source_page_url": "https://product.suning.com/0000000000/12422440261.html",
+      "source_role": "Suning first-party retail product gallery",
+      "filename": "images/sunner-crispy-chicken-original250.webp",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/1MWoGdA8863rqIpBAGSWMA.jpg_800w_800h_4e",
+      "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/1MWoGdA8863rqIpBAGSWMA.jpg_800w_800h_4e",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 209499,
+      "sha256": "b4ae9c52e7dc89a26b6aae78fb710d54de7cfc9a5370d851177d2638f0819552",
+      "visually_verified": true,
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "圣农品牌相关权利人、苏宁自营商品图相关权利人；未确定摄影著作权单独归属",
+        "license": "No open reuse license identified. Product/package photographs and graphics remain copyrighted."
+      },
+      "source_page_title": "圣农脆皮炸鸡原味鸡伴翅韩式炸鸡250g*4包半成品裹粉油炸小食轻油多肉",
+      "official_page_product_fields": {
+        "name": "脆皮炸鸡",
+        "flavors": [
+          "原汁原味",
+          "秘制川辣味"
+        ],
+        "ingredient": "鸡肩胛骨",
+        "product_type": "速冻生制调制肉食",
+        "specification": "250g/袋",
+        "storage": "-18℃或以下冷冻保存",
+        "shelf_life": "12个月"
+      },
+      "image_match_scope": "所选苏宁自营商品图库第5张为白底单袋，正面明确“原汁原味脆皮炸鸡”“净含量:250g”。页面销售组合是250g×4包，图片展示该组合的一包；不是4包合影。官方单张图片同时出现原味和川辣味，未用它冒充单一原味图。",
+      "packaging_transcription": [
+        {
+          "text": "原汁原味 脆皮炸鸡",
+          "location": "800×800原图包装正面中部",
+          "scope": "零售商公开示例包装"
+        },
+        {
+          "text": "净含量:250g",
+          "location": "原图右下方包装正面，约x=580–675、y=579–603",
+          "scope": "单袋净含量"
+        },
+        {
+          "text": "速冻生制调制肉食",
+          "location": "包装正面下方绿色区域",
+          "scope": "与品牌官网产品类型一致"
+        }
+      ],
+      "china_sale_evidence": {
+        "status": "official_mainland_and_first_party_retail_product_information",
+        "source_urls": [
+          "http://www.sunnersp.com/product_130.html",
+          "https://product.suning.com/0000000000/12422440261.html"
+        ],
+        "evidence": "品牌中国官网列250g/袋及原汁原味选项；苏宁自营页列250g×4包准确组合。零售页面含“此商品已下架”及模板库存字样，未确认当前可下单。",
+        "inventory_status": "not_verified_page_contains_off_shelf_message"
+      },
+      "china_production_evidence": {
+        "status": "retailer_origin_claim_only_no_readable_manufacturer_on_selected_packaging",
+        "country": "中国",
+        "manufacturer": null,
+        "production_address": null,
+        "retailer_declared_origin": "中国福建南平市",
+        "source_urls": [
+          "https://product.suning.com/0000000000/12422440261.html",
+          "https://imgservice.suning.cn/uimg1/b2c/image/1MWoGdA8863rqIpBAGSWMA.jpg_800w_800h_4e"
+        ],
+        "evidence": "苏宁自营商品参数写“国产/进口：国产”“产地：中国福建南平市”。选用的包装正面无可读制造商或厂址。",
+        "evidence_scope": "产地来自对应250g×4包零售参数，不是从背标读取；不据品牌官网主办单位推断生产商。",
+        "consumer_batch_status": "not_verified"
+      },
+      "manufacturer_or_factory_address_readability": "未知。品牌官网图片和所核零售图库没有可读取制造商/地址的背标；未交付背标证据图。",
+      "back_label_evidence": null,
+      "notes": "官方产品页确认250g和两种风味；采用零售商精确原味250g包装图。图库其余4张为食物/场景图片，不提供包装制造字段。",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "sunner-raw-chicken-breast500",
+      "product_name": "圣农鸡胸肉 500g（背标配料仅鸡胸肉）",
+      "model": "鸡胸肉，净含量500克；包装条码6924766600035",
+      "official_source_page_url": null,
+      "retailer_source_page_url": "http://sc.hkzhl.com/pd.jsp?pid=616",
+      "image_source_page_url": "http://sc.hkzhl.com/pd.jsp?pid=616",
+      "source_role": "Retailer first-party product catalog",
+      "source_operator": "海口兆海隆食品有限公司",
+      "filename": "images/sunner-raw-chicken-breast500.webp",
+      "image_url": "https://31580227.s21i.faimallusr.com/2/ABUIABACGAAgrK-wpwYo9PX_4gQwoAY4oAY.jpg",
+      "final_image_url": "https://31580227.s21i.faimallusr.com/2/ABUIABACGAAgrK-wpwYo9PX_4gQwoAY4oAY.jpg",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 65536,
+      "sha256": "c54a7fba3ea476eda7b7ad91924fe5366974f83b73a0649ff3019bf6aa6da492",
+      "visually_verified": true,
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "圣农品牌相关权利人、海口兆海隆食品有限公司及相关图片权利人",
+        "license": "No open reuse license identified. Product/package photographs and graphics remain copyrighted."
+      },
+      "source_page_title": "圣农鸡胸肉500g - 兆海隆速冻优选商城",
+      "retailer_page_product_fields": {
+        "name": "圣农鸡胸肉500g",
+        "specification": "500g*20",
+        "unit_weight": "500g",
+        "public_home_page_link": "http://sc.hkzhl.com/"
+      },
+      "image_match_scope": "公开商品页和其首页商品卡均准确写圣农鸡胸肉500g。所选正面与背面均显示鸡胸肉、净含量500克；背标配料仅鸡胸肉。单袋图片对应商城500g×20的整箱销售规格之一袋。图像带原有零售商水印，完整保留。",
+      "packaging_transcription": [
+        {
+          "text": "鸡胸肉；净含量:500克",
+          "location": "主图正面金色品名条与右下方",
+          "scope": "零售商公开示例500g包装"
+        },
+        {
+          "text": "产品品名：鸡胸肉；配料表：鸡胸肉",
+          "location": "背标800×800原图约x=125–216、y=242–265",
+          "scope": "示例包装，支持未调理鸡胸肉识别"
+        },
+        {
+          "text": "产品标准号：GB 2707；净含量:500克",
+          "location": "背标左侧文字第一列",
+          "scope": "示例包装可读字段"
+        },
+        {
+          "text": "委托商：福建圣农食品有限公司",
+          "location": "背标左上文字第二列顶部，约x=270–418、y=241–251",
+          "scope": "委托商，不等于该批次实际制造商"
+        },
+        {
+          "text": "福建圣农发展股份有限公司（代码:GZ）",
+          "location": "背标第二列受委托生产商名单第一组",
+          "scope": "名单中的可能生产商之一"
+        },
+        {
+          "text": "福建圣农发展（浦城）有限公司（代码:PC）",
+          "location": "背标第二列名单第二组",
+          "scope": "名单中的可能生产商之一"
+        },
+        {
+          "text": "*新旧版包装替换，以产品实物为准",
+          "location": "正反两张图最下方右侧",
+          "scope": "零售商图片自带说明"
+        }
+      ],
+      "china_sale_evidence": {
+        "status": "mainland_retailer_first_party_product_information",
+        "source_urls": [
+          "http://sc.hkzhl.com/",
+          "http://sc.hkzhl.com/pd.jsp?pid=616"
+        ],
+        "evidence": "海口兆海隆食品有限公司公开商城首页链接圣农鸡胸肉500g，对应pd.jsp?pid=616，整箱规格500g*20。未登录、未查收货地址可配送性或购买权限。",
+        "inventory_status": "not_independently_checked"
+      },
+      "china_production_evidence": {
+        "status": "multiple_domestic_manufacturers_on_official_retail_sample_label_batch_unresolved",
+        "country": "中国",
+        "manufacturer": null,
+        "production_address": null,
+        "commissioning_company": "福建圣农食品有限公司",
+        "listed_manufacturers": [
+          {
+            "name": "福建圣农发展股份有限公司",
+            "manufacturer_code": "GZ",
+            "address_as_written": "福建省光泽县十里铺圣农总部办公大楼",
+            "label_address_field": "地址",
+            "declared_origin": "福建省南平市",
+            "location": "背标左上文字第二列、受委托生产商标题下的第一组"
+          },
+          {
+            "name": "福建圣农发展（浦城）有限公司",
+            "manufacturer_code": "PC",
+            "address_as_written": "福建省浦城县梦笔大道396号",
+            "label_address_field": "地址",
+            "declared_origin": "福建省南平市",
+            "location": "背标左上文字第二列、第一组下方"
+          }
+        ],
+        "source_urls": [
+          "http://sc.hkzhl.com/pd.jsp?pid=616",
+          "https://31580227.s21i.faimallusr.com/2/ABUIABACGAAgrK-wpwYoqv3lrAYwoAY4oAY.jpg"
+        ],
+        "evidence": "示例背标“受委托生产商”名单中可读福建圣农发展股份有限公司（GZ）、福建圣农发展（浦城）有限公司（PC）及对应地址；另有其他企业/代码，受文字尺寸及水印影响未完整转录。",
+        "evidence_scope": "只确认零售商公开示例包装列有境内企业和地址。地址字段按标签原样记录，不能据此确定实际屠宰/加工地点或某个消费者批次工厂。海口兆海隆食品有限公司是图片水印/商城运营者，不能当作制造商。",
+        "consumer_batch_status": "not_verified",
+        "batch_limitation": "图片同时列多家受委托生产商；未读到该件实际生产日期或生产商代码喷码。不可将任何单一名单企业认定为本批次生产商。"
+      },
+      "manufacturer_or_factory_address_readability": "可读部分受委托生产商名称和其标签地址；名单并非完整转录，当前批次制造商与实际厂址未知。",
+      "back_label_evidence": {
+        "filename": "sunner-raw-chicken-breast500-back.jpg",
+        "image_url": "https://31580227.s21i.faimallusr.com/2/ABUIABACGAAgrK-wpwYoqv3lrAYwoAY4oAY.jpg",
+        "final_image_url": "https://31580227.s21i.faimallusr.com/2/ABUIABACGAAgrK-wpwYoqv3lrAYwoAY4oAY.jpg",
+        "content_type": "image/jpeg",
+        "width": 800,
+        "height": 800,
+        "bytes": 131072,
+        "sha256": "8a0b3b2471b130e07bf820e4a6e7eff80dd9cff90e2f3eec0cbab1b2bd93fb9b",
+        "visually_verified": true,
+        "role": "manufacturer_back_label_evidence",
+        "source_page_url": "http://sc.hkzhl.com/pd.jsp?pid=616",
+        "reuse_info": {
+          "rights_holder": "圣农品牌相关权利人、海口兆海隆食品有限公司及相关图片权利人",
+          "license": "No open reuse license identified. Product/package photographs and graphics remain copyrighted."
+        },
+        "evidence_scope": "零售商提供的示例背标，带海口兆海隆食品有限公司水印。多家受委托生产商并列，未展示可锁定批次生产商的喷码。小字/水印遮挡处不作猜读。"
+      },
+      "access_notes": [
+        "原给定https://sc.hkzhl.com/pr.jsp?groupId=99证书域名不匹配，未绕过校验。",
+        "http://sc.hkzhl.com/正常返回公开商城内容，通过页面真实href进入http://sc.hkzhl.com/pd.jsp?pid=616。",
+        "图片URL取自该商品页公开HTML的picPathList，使用CDN正常HTTPS验证。没有登录、改变权限或提交订单。"
+      ],
+      "notes": "照片正背标均明确500克；配料表仅鸡胸肉，没有替换为香煎调理鸡排、鸡小胸或海外版本。背标水印与小字导致未完整读取所有生产企业，所读名单不能对应当前批次。",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "suntissue-e3l1150ec",
+      "product_name": "幸福阳光太阳花抽纸 E3L1150EC，3层、150抽/包×18包/箱",
+      "model": "E3L1150EC",
+      "official_source_page_url": "https://www.suntissue.com/taiyanghuaxilie325.html",
+      "image_source_page_url": "https://www.suntissue.com/taiyanghuaxilie325.html",
+      "source_role": "Official exact-SKU product page",
+      "filename": "images/suntissue-e3l1150ec.webp",
+      "image_url": "https://www.suntissue.com/uploads/allimg/200707/1-200FG52H3.jpg",
+      "final_image_url": "https://www.suntissue.com/uploads/allimg/200707/1-200FG52H3.jpg",
+      "content_type": "image/jpeg",
+      "width": 1024,
+      "height": 817,
+      "bytes": 203131,
+      "sha256": "99221c575d54ad88918cd04aa80a332ea8ff786938f3dfa8f16bbb4994d823f9",
+      "visually_verified": true,
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "太阳纸业幸福阳光生活用纸及相关权利人（官网页脚版权署名）",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "source_page_title": "E3L1150EC",
+      "official_page_product_fields": {
+        "name": "幸福阳光太阳花系列3层中规格抽取式面纸150抽18包",
+        "sku": "E3L1150EC",
+        "specification": "150/包*18包/箱",
+        "paper_dimensions": "153mm*200mm*3层"
+      },
+      "image_match_scope": "官方精确E3L1150EC商品页主图展示18包外箱及6个陈列样包。外箱18包/箱、每包150抽、200×153mm、3层与官网正文完全匹配。前景6包是陈列示例，不表示额外赠送6包或总数24包；未使用其他SKU整箱图。",
+      "packaging_transcription": [
+        {
+          "text": "18包/箱；200mm×153mm×150抽/包",
+          "location": "纸箱右上方蓝色规格框",
+          "scope": "精确SKU官方包装主图"
+        },
+        {
+          "text": "3层；太阳花 柔韧",
+          "location": "纸箱中央及前景单包包装",
+          "scope": "官方示例包装"
+        }
+      ],
+      "china_sale_evidence": {
+        "status": "official_mainland_exact_sku_product_information",
+        "source_urls": [
+          "https://www.suntissue.com/taiyanghuaxilie325.html"
+        ],
+        "evidence": "幸福阳光/太阳纸业中文官网精确SKU产品页列完整产品名、组合数量、纸张尺寸，并提供订购链接区域；未核对渠道当前库存或是否继续销售该旧包装。",
+        "inventory_status": "not_checked"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [
+          "https://www.suntissue.com/taiyanghuaxilie325.html",
+          "https://www.suntissue.com/uploads/allimg/200707/1-200FG52H3.jpg"
+        ],
+        "evidence": "所选官方包装主图无可读的法定制造商、厂址或明确产地。包装品牌“太阳纸业”“幸福阳光”不等于本SKU生产工厂证据。",
+        "evidence_scope": "仅核验公开官方示例主图及产品页规格；未扩展背标搜索。",
+        "consumer_batch_status": "not_verified"
+      },
+      "manufacturer_or_factory_address_readability": "未知。主图未读到法定制造商或生产地址；没有根据品牌或中文官网推断产地。",
+      "back_label_evidence": null,
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "suntissue-e1xb200n",
+      "product_name": "幸福阳光太阳花无芯卷纸 E1XB200N，3层、200g/卷×10卷/提",
+      "model": "E1XB200N",
+      "official_source_page_url": "https://www.suntissue.com/taiyanghuaxilie319.html",
+      "image_source_page_url": "https://www.suntissue.com/taiyanghuaxilie319.html",
+      "source_role": "Official exact-SKU product page",
+      "filename": "images/suntissue-e1xb200n.webp",
+      "image_url": "https://www.suntissue.com/uploads/allimg/200707/1-200FG51603.jpg",
+      "final_image_url": "https://www.suntissue.com/uploads/allimg/200707/1-200FG51603.jpg",
+      "content_type": "image/jpeg",
+      "width": 1443,
+      "height": 632,
+      "bytes": 122650,
+      "sha256": "b50d0bca957af2883b03c6a56bd790fed2d497f64193f15010a6de03741607b2",
+      "visually_verified": true,
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "太阳纸业幸福阳光生活用纸及相关权利人（官网页脚版权署名）",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "source_page_title": "E1XB200N",
+      "official_page_product_fields": {
+        "name": "幸福阳光太阳花系列3层长卷无芯卷纸200克10卷",
+        "sku": "E1XB200N",
+        "specification": "200克/卷*10卷/提*6提/箱",
+        "paper_dimensions": "172mm*110mm*3层",
+        "selected_sale_unit": "1提10卷，共2.0千克"
+      },
+      "image_match_scope": "官方精确E1XB200N商品页主图是一提10卷，包装标3层、10卷、2.0千克。对应正文200克/卷×10卷/提；官网另列6提/箱是运输/整箱组合，本条目与主图均表示单提10卷，不表示60卷整箱。",
+      "packaging_transcription": [
+        {
+          "text": "太阳纸业 SUN PAPER；幸福阳光",
+          "location": "主图包装正面左上及中部",
+          "scope": "品牌标识，不是法定生产商/厂址"
+        },
+        {
+          "text": "3层紧实装 10卷 2.0千克",
+          "location": "包装正面左下方",
+          "scope": "单提规格；每卷200克由官方正文确认"
+        }
+      ],
+      "china_sale_evidence": {
+        "status": "official_mainland_exact_sku_product_information",
+        "source_urls": [
+          "https://www.suntissue.com/taiyanghuaxilie319.html"
+        ],
+        "evidence": "幸福阳光/太阳纸业中文官网精确SKU产品页列完整产品名、组合数量、纸张尺寸，并提供订购链接区域；未核对渠道当前库存或是否继续销售该旧包装。",
+        "inventory_status": "not_checked"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [
+          "https://www.suntissue.com/taiyanghuaxilie319.html",
+          "https://www.suntissue.com/uploads/allimg/200707/1-200FG51603.jpg"
+        ],
+        "evidence": "所选官方包装主图无可读的法定制造商、厂址或明确产地。包装品牌“太阳纸业”“幸福阳光”不等于本SKU生产工厂证据。",
+        "evidence_scope": "仅核验公开官方示例主图及产品页规格；未扩展背标搜索。",
+        "consumer_batch_status": "not_verified"
+      },
+      "manufacturer_or_factory_address_readability": "未知。主图未读到法定制造商或生产地址；没有根据品牌或中文官网推断产地。",
+      "back_label_evidence": null,
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "nongfu-natural-water550",
+      "product_name": "农夫山泉饮用天然水 550mL",
+      "model": "饮用天然水，550mL/瓶",
+      "product_id": 5,
+      "capacity_ml": 550,
+      "official_source_page_url": "https://www.nongfuspring.com/goods/detail-all.html?id=6&pid=4&product_id=5",
+      "image_url": "https://file-cloud.yst.com.cn/photo/website/2025/02/26/11444598f1ae49118f988a1748a433f0.png",
+      "packaging_transcription": [
+        {
+          "text": "农夫山泉 NONGFU SPRING",
+          "location": "瓶身正面红色标签",
+          "scope": "官方示例正面包装"
+        },
+        {
+          "text": "饮用天然水 净含量550ml",
+          "location": "瓶身正面红色标签下方；原图下部另标550ml",
+          "scope": "从包装与图中文字核对容量"
+        }
+      ],
+      "notes": "单瓶红盖饮用天然水550mL；未替换为婴幼儿饮用水、矿泉水或其他容量。",
+      "filename": "images/nongfu-natural-water550.webp",
+      "final_image_url": "https://file-cloud.yst.com.cn/photo/website/2025/02/26/11444598f1ae49118f988a1748a433f0.png",
+      "content_type": "image/png",
+      "width": 600,
+      "height": 642,
+      "bytes": 66908,
+      "sha256": "a3a2c6b940deaee12fe49e5ca4b761a33430bb5bf28e93cbb5bcf6ece44fc9fb",
+      "visually_verified": true,
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆",
+      "source_role": "Official brand product page and publicly exposed matching product-image record",
+      "image_kind": "official_product_packshot",
+      "reuse_info": {
+        "rights_holder": "农夫山泉股份有限公司及相关产品图片/包装权利人",
+        "license": "No open reuse license identified. Official product imagery; copyright remains with its respective owners."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_product_information",
+        "source_urls": [
+          "https://www.nongfuspring.com/goods/detail-all.html?id=6&pid=4&product_id=5"
+        ],
+        "evidence": "农夫山泉中国官网对应产品页面与公开产品记录匹配此原图；从示例包装核对品名和容量。未核对销售库存或收货地配送。",
+        "inventory_status": "not_checked"
+      },
+      "china_production_evidence": {
+        "status": "unknown_no_readable_manufacturer_or_address_on_front_image",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [
+          "https://www.nongfuspring.com/goods/detail-all.html?id=6&pid=4&product_id=5",
+          "https://file-cloud.yst.com.cn/photo/website/2025/02/26/11444598f1ae49118f988a1748a433f0.png"
+        ],
+        "evidence": "本批只核对指定官方正面产品图；没有背标，也没有可读的法定制造商、生产厂址或产地字段。",
+        "evidence_scope": "品牌名称和原料来源不作为生产主体/地点证明。",
+        "consumer_batch_status": "not_verified"
+      },
+      "manufacturer_or_factory_address_readability": "未读到；没有按品牌、中文官网或原料产区推断生产地点。",
+      "back_label_evidence": null,
+      "official_product_metadata_evidence": {
+        "product_id": 5,
+        "matching_image_url_confirmed": true,
+        "capacity_source": "visual inspection of front package net-content label"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "nongfu-nfc-xinjiang-apple300",
+      "product_name": "农夫山泉100%NFC新疆苹果汁 300mL",
+      "model": "100%NFC 新疆苹果汁，300mL/瓶",
+      "product_id": 57,
+      "capacity_ml": 300,
+      "official_source_page_url": "https://www.nongfuspring.com/goods/detail-all.html?id=2&pid=11&product_id=57",
+      "image_url": "https://file-cloud.yst.com.cn/website/2023/03/26/8d766321e5f14ce1a183564a6f6e883c.png",
+      "packaging_transcription": [
+        {
+          "text": "NFC；100%；新疆苹果汁",
+          "location": "瓶身正面黑色标签上半部",
+          "scope": "官方示例正面包装"
+        },
+        {
+          "text": "净含量300ml",
+          "location": "瓶身黑色标签底部，紧邻红色农夫山泉标识",
+          "scope": "直接从瓶身净含量字段确认容量"
+        }
+      ],
+      "notes": "容量300mL直接从正面标签确认。新疆是品名中的苹果产区信息，不据此认定产品制造地址。",
+      "filename": "images/nongfu-nfc-xinjiang-apple300.webp",
+      "final_image_url": "https://file-cloud.yst.com.cn/website/2023/03/26/8d766321e5f14ce1a183564a6f6e883c.png",
+      "content_type": "image/png",
+      "width": 600,
+      "height": 642,
+      "bytes": 84427,
+      "sha256": "67087d0a31f97ce293e30dad8d2c8e177a211807de6c4e8cf20948a0bb6d6b3e",
+      "visually_verified": true,
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆",
+      "source_role": "Official brand product page and publicly exposed matching product-image record",
+      "image_kind": "official_product_packshot",
+      "reuse_info": {
+        "rights_holder": "农夫山泉股份有限公司及相关产品图片/包装权利人",
+        "license": "No open reuse license identified. Official product imagery; copyright remains with its respective owners."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_product_information",
+        "source_urls": [
+          "https://www.nongfuspring.com/goods/detail-all.html?id=2&pid=11&product_id=57"
+        ],
+        "evidence": "农夫山泉中国官网对应产品页面与公开产品记录匹配此原图；从示例包装核对品名和容量。未核对销售库存或收货地配送。",
+        "inventory_status": "not_checked"
+      },
+      "china_production_evidence": {
+        "status": "unknown_no_readable_manufacturer_or_address_on_front_image",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [
+          "https://www.nongfuspring.com/goods/detail-all.html?id=2&pid=11&product_id=57",
+          "https://file-cloud.yst.com.cn/website/2023/03/26/8d766321e5f14ce1a183564a6f6e883c.png"
+        ],
+        "evidence": "本批只核对指定官方正面产品图；没有背标，也没有可读的法定制造商、生产厂址或产地字段。",
+        "evidence_scope": "品牌名称和原料来源不作为生产主体/地点证明。",
+        "consumer_batch_status": "not_verified"
+      },
+      "manufacturer_or_factory_address_readability": "未读到；没有按品牌、中文官网或原料产区推断生产地点。",
+      "back_label_evidence": null,
+      "official_product_metadata_evidence": {
+        "product_id": 57,
+        "matching_image_url_confirmed": true,
+        "capacity_source": "visual inspection of front package net-content label"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "hogood-liujin58",
+      "product_id": 4,
+      "product_name": "后谷鎏金58·大颗粒冻干黑咖啡 100克",
+      "model": "鎏金58，100克/瓶",
+      "net_content": 100,
+      "net_content_unit": "g",
+      "packaging": "金色标签玻璃瓶，图示单瓶",
+      "official_source_page_url": "https://www.hogoodcoffee.com/index.html#/product-detail/4",
+      "image_source_page_url": "https://www.hogoodcoffee.com/index.html#/product-detail/4",
+      "source_role": "Official product record Id=4 and matching official product image/detail assets",
+      "source_page_access_status": "HTTP 200 for index.html hash-route share URL",
+      "filename": "images/hogood-liujin58.webp",
+      "image_url": "https://www.hogoodcoffee.com/upload/Image/20260114/4543f3db63a54394ae45bb42ff362d7e.png",
+      "final_image_url": "https://www.hogoodcoffee.com/upload/Image/20260114/4543f3db63a54394ae45bb42ff362d7e.png",
+      "content_type": "image/png",
+      "width": 2496,
+      "height": 2496,
+      "bytes": 1069374,
+      "sha256": "e045fcbeaf619cadd3377880e67755158e3a66990ebcf5d22e7338173222d678",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "HOGOOD／后谷咖啡品牌、图片及相关权利人；具体权利法人未从所核包装图确认",
+        "license": "No open reuse license identified. Official public product and packaging imagery; copyright remains with the respective owners."
+      },
+      "researched_on": "2026-09-12",
+      "status": "image_verified",
+      "market_scope": "中国大陆",
+      "official_page_product_fields": {
+        "product_id": 4,
+        "title": "鎏金58",
+        "name_as_read_in_detail": "鎏金58·大颗粒冻干黑咖啡",
+        "ingredient_as_read_in_detail": "冻干咖啡",
+        "net_content_as_read": "100克",
+        "shelf_life_as_read": "24个月",
+        "roast_as_written": "Dark Roast／深度烘焙"
+      },
+      "packaging_transcription": [
+        {
+          "text": "后谷咖啡 HOGOOD",
+          "location": "主图瓶颈金色标签与瓶身正面",
+          "scope": "官方示例包装品牌名称，不是法定制造商名称"
+        },
+        {
+          "text": "鎏金58·大颗粒冻干黑咖啡",
+          "location": "主图金色瓶身标签中央图案下方弧形名称",
+          "scope": "与官方产品Id=4对应的示例包装"
+        },
+        {
+          "text": "净含量100克",
+          "location": "2496×2496原图瓶身标签左下部",
+          "scope": "从瓶身净含量直接确认100克"
+        }
+      ],
+      "supporting_images": [
+        {
+          "filename": "hogood-liujin58-yunnan-detail.jpg",
+          "image_url": "https://www.hogoodcoffee.com/upload/userfiles/images/20260119161009_699.jpg",
+          "final_image_url": "https://www.hogoodcoffee.com/upload/userfiles/images/20260119161009_699.jpg",
+          "content_type": "image/jpeg",
+          "width": 900,
+          "height": 3133,
+          "bytes": 523865,
+          "sha256": "b2377b7ec658e574fbc873ea94218de64892ef38e4bff0880cfbe7b24d707731",
+          "visually_verified": true,
+          "reuse_info": {
+            "rights_holder": "HOGOOD／后谷咖啡品牌、图片及相关权利人；具体权利法人未从所核包装图确认",
+            "license": "No open reuse license identified. Official public product and packaging imagery; copyright remains with the respective owners."
+          },
+          "role": "bean_origin_product_detail_evidence",
+          "official_source_page_url": "https://www.hogoodcoffee.com/index.html#/product-detail/4",
+          "readable_transcription": [
+            {
+              "text": "一瓶装尽云南小粒好风味",
+              "location": "900×3133官方详情图下半部，“高山高标准 种出高品质”标题下方",
+              "scope": "此产品详情中的云南小粒咖啡关联宣传文案"
+            },
+            {
+              "text": "后谷观音山种植园",
+              "location": "上述云南小粒文案后面的种植园介绍开头",
+              "scope": "详情提及种植园，未证明本SKU全部批次仅使用该园咖啡豆"
+            }
+          ],
+          "evidence_scope": "明确记录该产品官方详情存在云南小粒咖啡表述；不将风味/种植园宣传扩展为100%云南豆比例、无进口或无拼配证明。"
+        },
+        {
+          "filename": "hogood-liujin58-specification-detail.jpg",
+          "image_url": "https://www.hogoodcoffee.com/upload/userfiles/images/20260119161105_968.jpg",
+          "final_image_url": "https://www.hogoodcoffee.com/upload/userfiles/images/20260119161105_968.jpg",
+          "content_type": "image/jpeg",
+          "width": 900,
+          "height": 2414,
+          "bytes": 319688,
+          "sha256": "d9c1ce54c5eaf46513f8a3050964816eb3e72c2da0eafe70e3158a4a6bd7edf8",
+          "visually_verified": true,
+          "reuse_info": {
+            "rights_holder": "HOGOOD／后谷咖啡品牌、图片及相关权利人；具体权利法人未从所核包装图确认",
+            "license": "No open reuse license identified. Official public product and packaging imagery; copyright remains with the respective owners."
+          },
+          "role": "product_name_ingredient_net_weight_evidence",
+          "official_source_page_url": "https://www.hogoodcoffee.com/index.html#/product-detail/4",
+          "readable_transcription": [
+            {
+              "text": "名称：鎏金58·大颗粒冻干黑咖啡",
+              "location": "900×2414官方详情图下部，瓶身图下方参数区",
+              "scope": "官方产品详情参数"
+            },
+            {
+              "text": "配料：冻干咖啡；保质期：24个月；规格：100克",
+              "location": "同参数区第二行",
+              "scope": "产品配料与净含量；未列咖啡豆产区比例或工厂"
+            }
+          ],
+          "evidence_scope": "确认品名、配料、100克规格；并非包装背标，未包含制造商/厂址。上部品牌荣誉宣传不作为本SKU劳动条件或生产主体证据。"
+        }
+      ],
+      "image_match_scope": "主图URL来自官网产品Id=4、Title=鎏金58的ImageUrl字段。主图金色包装明确100克，与同记录第8张详情图规格100克一致。未将58理解为净含量，未替换为其他包装或规格。",
+      "coffee_bean_origin_evidence": {
+        "status": "explicit_yunnan_xiaoli_product_detail_wording",
+        "declared_region": "云南",
+        "source_urls": [
+          "https://www.hogoodcoffee.com/index.html#/product-detail/4",
+          "https://www.hogoodcoffee.com/upload/userfiles/images/20260119161009_699.jpg"
+        ],
+        "exact_readable_text": "一瓶装尽云南小粒好风味",
+        "garden_reference": "后谷观音山种植园",
+        "statement_type": "官方产品详情中的产区/风味关联宣传",
+        "explicit_100_percent_yunnan_statement_found": false,
+        "all_beans_from_named_garden_confirmed": false,
+        "consumer_batch_traceability": "not_verified",
+        "limitation": "有云南小粒相关表述，但未读到100%云南豆、具体原料比例或批次原料追溯证明。"
+      },
+      "imported_or_blended_materials_check": {
+        "reviewed_scope": "该产品公开记录的主图及Content字段全部10张详情图；仅视觉核对产品图片，未研究其他商品、新闻或劳动制度。",
+        "imported_raw_material_statement_found": false,
+        "blended_coffee_raw_material_statement_found": false,
+        "imported_raw_materials_ruled_out": false,
+        "blended_coffee_raw_materials_ruled_out": false,
+        "imported_raw_materials_actual_status": "unknown",
+        "blended_coffee_raw_materials_actual_status": "unknown",
+        "ingredient_statement": "产品参数仅列“冻干咖啡”；第5张详情另写“配料只有咖啡粉”。这些文字不说明咖啡豆产区比例。",
+        "scope_note": "未见进口/拼配说明不等于证明无进口、无拼配。德国Probat工艺、引进种苗及饮用DIY配方等文字不是本产品进口咖啡原料或原豆拼配声明。"
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_product_information",
+        "source_urls": [
+          "https://www.hogoodcoffee.com/index.html#/product-detail/4"
+        ],
+        "evidence": "后谷中文官网公开产品记录Id=4、Title=鎏金58提供所选产品主图及详情，包装为中文100克；未验证销售渠道当前库存。",
+        "inventory_status": "not_checked"
+      },
+      "china_production_evidence": {
+        "status": "unknown_no_readable_product_manufacturer_or_factory_address",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [
+          "https://www.hogoodcoffee.com/index.html#/product-detail/4",
+          "https://www.hogoodcoffee.com/upload/Image/20260114/4543f3db63a54394ae45bb42ff362d7e.png",
+          "https://www.hogoodcoffee.com/upload/userfiles/images/20260119161105_968.jpg"
+        ],
+        "evidence": "所核主图为包装正面；参数详情列品名、配料、保质期、规格，没有可读法定制造商或生产厂址。其余产品详情也未提供能对应本SKU的完整制造商/厂址标签。",
+        "evidence_scope": "云南小粒与种植园宣传属于原料关联信息，不能据此确定本产品实际加工企业或工厂地址；未按旧公司名称、品牌名或历史主体推断制造商。",
+        "consumer_batch_status": "not_verified"
+      },
+      "manufacturer_or_factory_address_readability": "未读到可核对的法定制造商或厂址；没有包装背标证据。",
+      "back_label_evidence": null,
+      "access_notes": [
+        "官方使用hash详情路由，主来源采用https://www.hogoodcoffee.com/index.html#/product-detail/4，正常返回HTTP 200。",
+        "最初不带hash的/product-detail/4返回HTTP 404，已不作为主来源。",
+        "图片均从官方产品Id=4记录列出的真实URL正常下载。"
+      ],
+      "notes": "“云南小粒”产品宣传已确认；100%云南原料、无进口/无拼配、实际加工企业及批次厂址仍未知。不评价劳动条件或据品牌荣誉推断合规。",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
