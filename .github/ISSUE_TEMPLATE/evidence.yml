@@ -1,0 +1,37 @@
+name: 劳动资料补充与纠正
+description: 补充商品、企业工作安排或供应链的公开证据
+title: "[资料补充] "
+body:
+  - type: input
+    id: subject
+    attributes:
+      label: 商品与企业主体
+      description: 品牌、型号、企业法人、工作地点与岗位
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 原始来源
+      description: 提供公开链接、发布日期、相关段落或 PDF 页码
+    validations:
+      required: true
+  - type: textarea
+    id: schedule
+    attributes:
+      label: 工时、休息与例外
+      description: 分别说明标准工时、实际执行证据、加班、轮休及旺季安排；未知部分请明确写出
+    validations:
+      required: true
+  - type: textarea
+    id: supply
+    attributes:
+      label: 商品和供应链关联
+      description: 制造商、开发商、发行商或外包团队是谁？有什么公开资料证明与该商品对应？
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 公开信息检查
+      options:
+        - label: 我已隐去与公开核验无关的个人信息，未提交未经允许的内部材料。
+          required: true

@@ -1,0 +1,1225 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-11",
+  "categories": [
+    {
+      "id": "electronics",
+      "name": "电子数码",
+      "description": "让科技服务日常"
+    },
+    {
+      "id": "home",
+      "name": "家居生活",
+      "description": "安放每一个生活细节"
+    },
+    {
+      "id": "appliances",
+      "name": "家用电器",
+      "description": "把更多时间还给自己"
+    },
+    {
+      "id": "daily",
+      "name": "日用快消",
+      "description": "从每天都会用的东西开始"
+    },
+    {
+      "id": "culture",
+      "name": "文化娱乐",
+      "description": "给兴趣和创作留一点时间"
+    },
+    {
+      "id": "games",
+      "name": "电子游戏",
+      "description": "认真工作，也好好游玩"
+    }
+  ],
+  "sources": [
+    {
+      "id": "law-hours",
+      "title": "国务院关于职工工作时间的规定",
+      "publisher": "湖南省人力资源和社会保障厅",
+      "type": "法规原文",
+      "url": "https://rst.hunan.gov.cn/rst/xzfg/202211/t20221110_29122053.html",
+      "publishedAt": "2022-11-10",
+      "checkedAt": "2026-09-11",
+      "locator": "第三、五、七条",
+      "summary": "标准工时为每日八小时、每周四十小时；企业可根据实际情况灵活安排周休息日。",
+      "limitation": "本项目的每周两天休息是筛选口径，不等同于对全部劳动法律义务的认定。"
+    },
+    {
+      "id": "anker-2024",
+      "title": "2024 年可持续发展报告",
+      "publisher": "安克创新 / 巨潮资讯",
+      "type": "企业年报",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-04-29/1223379908.PDF",
+      "publishedAt": "2025-04-29",
+      "checkedAt": "2026-09-11",
+      "locator": "PDF 第 43 页，印刷页 81–82，工作时长",
+      "summary": "报告披露全员标准工时，以每日八小时、每周四十小时进行基准考勤管理。",
+      "limitation": "披露对应 2024 年；基准考勤不代表包含加班后的实际总工时。2025 年报告未复述这一明确数值。"
+    },
+    {
+      "id": "anker-2027-campus",
+      "title": "2027 届全球校园招聘简章",
+      "publisher": "安克创新供稿 / 南开大学就业网",
+      "type": "企业校招",
+      "url": "https://career.nankai.edu.cn/correcruit/content/id/116865.html",
+      "publishedAt": "2026-08-21",
+      "checkedAt": "2026-09-11",
+      "locator": "四、薪酬福利 → 福利体系",
+      "summary": "2027 届校招福利列明双休，覆盖研发、采购供应链、品质等岗位类别。",
+      "limitation": "招聘承诺；未提供逐岗位实际考勤，也不能据此替代供应商员工安排。"
+    },
+    {
+      "id": "anker-2025",
+      "title": "2025 年可持续发展报告",
+      "publisher": "安克创新 / 巨潮资讯",
+      "type": "企业年报",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-10/1225090998.PDF",
+      "publishedAt": "2026-04-10",
+      "checkedAt": "2026-09-11",
+      "locator": "可持续供应链管理；PDF 第 68 页，社会绩效表",
+      "summary": "报告披露供应商劳工等领域的评估机制，2025 年开展社会影响评估的供应商为 51 家。",
+      "limitation": "评估未公开到本目录具体型号的制造商及实际工时；报告下载约 186 MB。"
+    },
+    {
+      "id": "anker-brands",
+      "title": "安克创新社会责任与品牌入口",
+      "publisher": "安克创新",
+      "type": "企业官网",
+      "url": "https://www.anker.com.cn/responsibility",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面底部品牌入口",
+      "summary": "安克官网列出 Anker Charging、Anker eufy、Anker soundcore 等品牌入口。",
+      "limitation": "品牌关联资料，不是劳动条件证据。"
+    },
+    {
+      "id": "xd-2025",
+      "title": "心动有限公司 2025 年报",
+      "publisher": "心动有限公司",
+      "type": "企业年报",
+      "url": "https://img.xdcdn.net/xdwp/2026/04/20260429130340311.pdf",
+      "publishedAt": "2026-04-29",
+      "checkedAt": "2026-09-11",
+      "locator": "印刷页 60（PDF 第 61 页）；供应商管理在印刷页 53",
+      "summary": "集团披露每周五天、每天八小时的标准工作安排，并列有特殊工时岗位和休息日加班审批；供应商包括美术与行政服务。",
+      "limitation": "集团制度自述；部分岗位实行综合或不定时工时。未披露具体游戏外包人员的实际周工时。"
+    },
+    {
+      "id": "ifi-hiring",
+      "title": "深圳悦尔法科技有限公司企业招聘介绍",
+      "publisher": "企业供稿 / 智联招聘",
+      "type": "企业招聘",
+      "url": "https://www.zhaopin.com/companydetail/CZL1473008130.htm",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "企业介绍 → 上班时间",
+      "summary": "招聘介绍列明八小时工作制、双休，并自述为 iFi audio 中国研发中心。",
+      "limitation": "仅为招聘主体自述，日期未标明；品牌关系及适用人员还需进一步核验，不能代表制造工厂。"
+    },
+    {
+      "id": "opple-campus",
+      "title": "欧普照明 2025 届秋季校园招聘简章",
+      "publisher": "欧普照明供稿 / 华东师范大学",
+      "type": "企业校招",
+      "url": "https://career.ecnu.edu.cn/commonpage/JobInfDetail.aspx?oid=gO85sJvJAWr7vvrC9rqlnw%3D%3D&sn=2020023730",
+      "publishedAt": "2024-10-18",
+      "checkedAt": "2026-09-11",
+      "locator": "四、福利时刻（2）工作时间",
+      "summary": "校招资料列明标准五天八小时工作制，岗位地点包括上海、苏州、中山。",
+      "limitation": "历史校招承诺；距本次整理已超过一年，未获得生产一线及外包实际考勤。"
+    },
+    {
+      "id": "opple-current",
+      "title": "欧普照明 2026 届春季全球校园招聘简章",
+      "publisher": "淮北师范大学就业网",
+      "type": "企业校招",
+      "url": "https://jyzd.chnu.edu.cn/xsfw/gwxx/content_145472",
+      "publishedAt": "2026-04-09",
+      "checkedAt": "2026-09-11",
+      "locator": "招聘岗位及公司简介",
+      "summary": "提供当期校园招聘岗位与地点；本次读取的正文未找到明确的五天八小时承诺。",
+      "limitation": "不能用新页面的发布日期更新旧工时证据的有效期。"
+    },
+    {
+      "id": "lianyou-hiring",
+      "title": "广州联友办公家具企业招聘介绍",
+      "publisher": "企业供稿 / 卓博人才网",
+      "type": "企业招聘",
+      "url": "https://www.jobcn.com/position/home.xhtml?comId=546769&redirect=0&s=page%2Fhome",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "公司简介及职员福利",
+      "summary": "广州联友的企业介绍披露五天八小时，并列举集团内中山保友等公司。",
+      "limitation": "资料主体是广州联友；尚未证明该安排适用于中山保友或金豪 L2 的生产人员。页面访问可能超时。"
+    },
+    {
+      "id": "shokken-hiring",
+      "title": "操作工（苏州工业园区）招聘",
+      "publisher": "食研食品（中国）供稿 / 智联招聘",
+      "type": "企业招聘",
+      "url": "https://www.zhaopin.com/jobdetail/CC448177280J40871557401.htm",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "职位描述 → 工作时间",
+      "summary": "液体或粉体产线岗位披露五天八小时、周末双休；节前繁忙期可能在休息日出勤后调休。",
+      "limitation": "存在明确旺季例外。招聘主体与实际工厂、劳动合同主体及具体商品的对应关系待核验。"
+    },
+    {
+      "id": "shokken-group",
+      "title": "日本食研集团企业概要",
+      "publisher": "日本食研集团",
+      "type": "企业官网",
+      "url": "https://www.nihonshokken.co.jp/profile.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "中国 → 苏州食研、食研食品（中国）",
+      "summary": "集团官网分别列出苏州食研与位于南通的食研食品（中国），业务包括液体和粉体复合调味料制造与销售。",
+      "limitation": "集团内法人分别记录，不能互相套用用工安排；未提供具体在售 SKU 对应工厂。"
+    },
+    {
+      "id": "lego-rbp",
+      "title": "负责任商业原则（中文）",
+      "publisher": "LEGO Group",
+      "type": "供应商准则",
+      "url": "https://www.lego.com/cdn/cs/sustainability/assets/bltf1fc7eeb48ca0135/ZHCN_Chinese_Responsible_Business_Principles_%28RBP%29.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "6.3 工作时间；6.4 休息时间",
+      "summary": "原则要求遵守当地更严格法规；全球条款设定标准周工时不超过四十八小时，并规定最低休息时间。",
+      "limitation": "不是四十小时加每周两天休息的证明，也没有把具体套装追溯到工厂考勤。"
+    },
+    {
+      "id": "bsh-code",
+      "title": "博西集团供应商行为准则",
+      "publisher": "BSH 家用电器集团",
+      "type": "供应商准则",
+      "url": "https://media3.bsh-group.com/Documents/MCDOC03279188_Code_of_Conduct_for_Suppliers.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "第 2 页，Hours of work 与 Supply chain",
+      "summary": "准则通常限制标准周工时四十八小时、含加班六十小时及每七天至少一天休息，须遵守当地更严格法律。",
+      "limitation": "全球最低准则不等于本项目四十小时加双休口径；缺少该产品的工厂与实际履约记录。"
+    },
+    {
+      "id": "pathea-hiring",
+      "title": "帕斯亚科技招聘资料",
+      "publisher": "帕斯亚招聘 / GameRes",
+      "type": "历史招聘",
+      "url": "https://www.gameres.com/882758.html",
+      "publishedAt": "2021-04-12",
+      "checkedAt": "2026-09-11",
+      "locator": "福利待遇",
+      "summary": "历史招聘资料列出双休和弹性工作安排。",
+      "limitation": "资料较旧，未明确每日或每周小时数，不能用来认定当前实际工时。"
+    },
+    {
+      "id": "product-anker-nano-65w",
+      "title": "Nano II 65W 充电器 · 官方产品资料",
+      "publisher": "Anker",
+      "type": "产品官网",
+      "url": "https://www.anker.com/products/a2663",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "Anker 官方商品；安克创新官网链接至该充电品牌。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-heartopia",
+      "title": "心动小镇 · 官方产品资料",
+      "publisher": "心动 XD",
+      "type": "产品官网",
+      "url": "https://heartopia.xd.com/cn/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "心动官方游戏页面；2025 年报介绍自研游戏心动小镇。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-soundcore-space-one",
+      "title": "Space One 降噪耳机 · 官方产品资料",
+      "publisher": "soundcore",
+      "type": "产品官网",
+      "url": "https://www.soundcore.com/uk/products/space-one-a3035011",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "soundcore 官方商品；安克创新官网列出该品牌。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-eufy-x10-pro-omni",
+      "title": "X10 Pro Omni 扫拖机器人 · 官方产品资料",
+      "publisher": "eufy",
+      "type": "产品官网",
+      "url": "https://www.eufy.com/us/products//t2351111",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "eufy 官方商品；安克创新官网列出该品牌。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-opple-boruipro",
+      "title": "博睿 Pro 护眼台灯 · 官方产品资料",
+      "publisher": "欧普照明",
+      "type": "产品官网",
+      "url": "https://www.opple.com.cn/products/customerproducts/boruipro/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "欧普照明官方产品页面。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-ifi-zen-dac-3",
+      "title": "ZEN DAC 3 解码耳放 · 官方产品资料",
+      "publisher": "iFi audio",
+      "type": "产品官网",
+      "url": "https://ifi-audio.com/collections/home-audio/products/zen-dac-3",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "iFi 官方产品；深圳悦尔法在招聘介绍中自述为其中国研发中心，主体关系仍待补证。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-shokken",
+      "title": "液体与粉体复合调味料 · 集团业务介绍",
+      "publisher": "日本食研集团",
+      "type": "产品官网",
+      "url": "https://www.nihonshokken.co.jp/profile.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "中国集团公司业务说明",
+      "summary": "中国集团公司业务包含液体与粉体复合调味料生产和销售。",
+      "limitation": "产品系列资料，不对应具体零售单品、配方、工厂或售价。"
+    },
+    {
+      "id": "product-ergonor-jinhao-l2",
+      "title": "金豪 L2 人体工学椅 · 官方产品资料",
+      "publisher": "保友",
+      "type": "产品官网",
+      "url": "https://www.ergonor.cn/product/jinhao-l2",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "保友官方产品；劳动资料来自广州联友，尚未对应到本商品制造主体。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-ikea-billy",
+      "title": "BILLY 毕利书柜 · 官方产品资料",
+      "publisher": "IKEA 宜家",
+      "type": "产品官网",
+      "url": "https://www.ikea.com/ch/en/p/billy-bookcase-white-90401932/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "宜家官方商品页面及相应尺寸产品图。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-lego-tiny-plants",
+      "title": "迷你植物 10329 · 官方产品资料",
+      "publisher": "LEGO 乐高",
+      "type": "产品官网",
+      "url": "https://www.lego.com/en-us/product/tiny-plants-10329",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "乐高官方 Botanicals 套装。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-my-time-at-sandrock",
+      "title": "沙石镇时光 · 官方产品资料",
+      "publisher": "帕斯亚 Pathea",
+      "type": "产品官网",
+      "url": "https://www.patheagames.com/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "帕斯亚官网展示其开发的沙石镇时光。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-ikea-raskog",
+      "title": "RÅSKOG 拉斯克手推车 · 官方产品资料",
+      "publisher": "IKEA 宜家",
+      "type": "产品官网",
+      "url": "https://www.ikea.com/us/en/p/raskog-utility-cart-white-30586783/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "宜家官方商品页面及相应型号产品图。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-jiangnan",
+      "title": "江南百景图 · 官方产品资料",
+      "publisher": "椰岛游戏",
+      "type": "产品官网",
+      "url": "https://www.coconut.is/game/jiangnan",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "椰岛官网展示江南百景图。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    },
+    {
+      "id": "product-bosch-sks68bb008",
+      "title": "SKS68BB008 台式洗碗机 · 官方产品资料",
+      "publisher": "Bosch 博世家电",
+      "type": "产品官网",
+      "url": "https://www.bosch-home.com.hk/zh/product/dishwashers/free-standing-dishwashers/compact-dishwasher/SKS68BB008",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "官方商品介绍与图像",
+      "summary": "博世家电香港官网商品；供应商资料来自 BSH 集团。",
+      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+    }
+  ],
+  "companies": [
+    {
+      "id": "anker",
+      "name": "安克创新",
+      "legalName": "安克创新科技股份有限公司",
+      "location": "湖南长沙 / 广东深圳等",
+      "level": "disclosure",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "40 小时基准",
+      "restLabel": "校招披露双休",
+      "scope": "2024 年集团标准工时制度；2027 届校招岗位",
+      "finding": "2024 年 ESG 的四十小时基准，与 2026 年发布的双休校招承诺，提供两项公开依据。",
+      "caveats": [
+        "四十小时数值来自 2024 年报告，2025 年报告未再次明确披露。",
+        "没有包含加班的实际总工时记录。",
+        "各型号制造商及派遣、供应商人员未逐一核验。"
+      ],
+      "sourceIds": [
+        "anker-2024",
+        "anker-2027-campus",
+        "anker-2025",
+        "anker-brands"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与研发",
+          "status": "policy",
+          "detail": "已找到标准工时制度与双休招聘披露；适用年份及范围不同。",
+          "sourceIds": [
+            "anker-2024",
+            "anker-2027-campus"
+          ]
+        },
+        {
+          "stage": "制造与外包",
+          "status": "policy",
+          "detail": "2025 年报告披露对 51 家供应商开展社会影响评估，未对应到具体 SKU 与工时。",
+          "sourceIds": [
+            "anker-2025"
+          ]
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "本目录尚无逐级供应商的四十小时、双休履约证据。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    },
+    {
+      "id": "xd",
+      "name": "心动",
+      "legalName": "心动有限公司及报告范围内附属公司",
+      "location": "上海为主",
+      "level": "disclosure",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "标准每周 40 小时",
+      "restLabel": "标准每周工作 5 天",
+      "scope": "2025 年报披露的标准工时岗位",
+      "finding": "最新年报同时明确每周五天、每天八小时，并保留特殊岗位和加班审批例外。",
+      "caveats": [
+        "部分岗位采用综合计算工时或不定时工时。",
+        "休息日及法定假期加班需要主管审批，不能视为每周实际都不加班。",
+        "年报属于企业自述；外包美术等合作方的实际工时未获证实。"
+      ],
+      "sourceIds": [
+        "xd-2025"
+      ],
+      "supply": [
+        {
+          "stage": "开发与运营",
+          "status": "policy",
+          "detail": "集团年报披露五天、八小时的标准工作制度；存在特殊工时岗位。",
+          "sourceIds": [
+            "xd-2025"
+          ]
+        },
+        {
+          "stage": "美术与服务外包",
+          "status": "policy",
+          "detail": "披露供应商管理与反强迫劳动要求，未给出具体游戏外包商工时。",
+          "sourceIds": [
+            "xd-2025"
+          ]
+        },
+        {
+          "stage": "发行与基础设施",
+          "status": "unknown",
+          "detail": "服务器、发行渠道及其他外部服务人员的劳动条件待核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    },
+    {
+      "id": "ifi",
+      "name": "iFi audio 中国研发线索",
+      "legalName": "深圳悦尔法科技有限公司",
+      "location": "广东深圳",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "招聘称每天 8 小时",
+      "restLabel": "招聘称双休",
+      "scope": "深圳悦尔法招聘介绍；品牌关联为其自述",
+      "finding": "企业招聘介绍同时列出八小时工作制和双休，按五个工作日计算为四十小时。",
+      "caveats": [
+        "工时为招聘承诺，发布时间不详。",
+        "其自述为 iFi 中国研发中心，需补充品牌官方的主体对应证明。",
+        "不能将研发岗位安排扩展至生产及零部件供应商。"
+      ],
+      "sourceIds": [
+        "ifi-hiring"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与研发",
+          "status": "unknown",
+          "detail": "未取得适用主体的当前实际工时与休息记录。",
+          "sourceIds": [
+            "ifi-hiring"
+          ]
+        },
+        {
+          "stage": "制造与外包",
+          "status": "unknown",
+          "detail": "具体生产或服务承接主体、岗位工时尚待核验。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "上游材料、运输及仓储环节尚无足够劳动条件证据。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    },
+    {
+      "id": "opple",
+      "name": "欧普照明",
+      "legalName": "欧普照明股份有限公司",
+      "location": "上海 / 苏州 / 中山",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "历史校招 5 × 8 小时",
+      "restLabel": "每周工作 5 天",
+      "scope": "2025 届校园招聘岗位（2024 年发布）",
+      "finding": "校招简章披露标准五天八小时；当前岗位及实际执行仍需补充证据。",
+      "caveats": [
+        "证据已超过一年；2026 年春招正文未复述该明确工时。",
+        "校招福利不代表全部生产线、经销商及施工安装人员。"
+      ],
+      "sourceIds": [
+        "opple-campus",
+        "opple-current"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与研发",
+          "status": "unknown",
+          "detail": "未取得适用主体的当前实际工时与休息记录。",
+          "sourceIds": [
+            "opple-campus",
+            "opple-current"
+          ]
+        },
+        {
+          "stage": "制造与外包",
+          "status": "unknown",
+          "detail": "具体生产或服务承接主体、岗位工时尚待核验。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "上游材料、运输及仓储环节尚无足够劳动条件证据。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    },
+    {
+      "id": "ergonor",
+      "name": "保友 / 联友",
+      "legalName": "中山保友办公家具有限公司（商品品牌）；广州联友（招聘资料主体）",
+      "location": "广东中山 / 广州",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "主体对应待核",
+      "restLabel": "主体对应待核",
+      "scope": "五天八小时资料来自关联公司广州联友",
+      "finding": "已发现关联公司职员工时线索，但不能自动套用到保友商品的制造企业。",
+      "caveats": [
+        "广州联友与中山保友分别为不同法人。",
+        "金豪 L2 制造岗位的工时、双休安排及实际执行待补证。"
+      ],
+      "sourceIds": [
+        "lianyou-hiring"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与研发",
+          "status": "unknown",
+          "detail": "未取得适用主体的当前实际工时与休息记录。",
+          "sourceIds": [
+            "lianyou-hiring"
+          ]
+        },
+        {
+          "stage": "制造与外包",
+          "status": "unknown",
+          "detail": "具体生产或服务承接主体、岗位工时尚待核验。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "上游材料、运输及仓储环节尚无足够劳动条件证据。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    },
+    {
+      "id": "shokken",
+      "name": "食研食品",
+      "legalName": "食研食品（中国）有限公司",
+      "location": "江苏南通 / 招聘岗位在苏州",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "岗位披露 5 × 8 小时",
+      "restLabel": "周末双休，有旺季例外",
+      "scope": "苏州工业园区液体 / 粉体产线操作工招聘",
+      "finding": "岗位资料直接涉及产线，并明确正常双休与节前繁忙期调休安排。",
+      "caveats": [
+        "春节、国庆前繁忙期偶有休息日出勤，之后调休。",
+        "集团官网分别列出苏州和南通工厂；具体合同主体与商品工厂尚待对应。",
+        "本条目展示产品系列，尚无可核对的单品 SKU 与消费者零售渠道。"
+      ],
+      "sourceIds": [
+        "shokken-hiring",
+        "shokken-group"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与研发",
+          "status": "unknown",
+          "detail": "未取得适用主体的当前实际工时与休息记录。",
+          "sourceIds": [
+            "shokken-hiring",
+            "shokken-group"
+          ]
+        },
+        {
+          "stage": "制造与外包",
+          "status": "unknown",
+          "detail": "具体生产或服务承接主体、岗位工时尚待核验。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "上游材料、运输及仓储环节尚无足够劳动条件证据。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    },
+    {
+      "id": "ikea",
+      "name": "宜家",
+      "legalName": "宜家在华运营及相关商品供应商（具体主体待核）",
+      "location": "中国业务 / 全球采购",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "缺少明确证据",
+      "restLabel": "缺少明确证据",
+      "scope": "本次仅完成产品资料对应",
+      "finding": "商品与品牌可确认；中国具体岗位的四十小时、每周两天休息资料尚不足。",
+      "caveats": [
+        "不能由海外办公福利推断中国商场、物流和家具生产企业的安排。",
+        "官方产品页来自海外站点，规格与中国市场可能不同。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与研发",
+          "status": "unknown",
+          "detail": "未取得适用主体的当前实际工时与休息记录。",
+          "sourceIds": []
+        },
+        {
+          "stage": "制造与外包",
+          "status": "unknown",
+          "detail": "具体生产或服务承接主体、岗位工时尚待核验。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "上游材料、运输及仓储环节尚无足够劳动条件证据。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    },
+    {
+      "id": "lego",
+      "name": "乐高",
+      "legalName": "乐高在华运营及相关商品供应商（具体主体待核）",
+      "location": "中国业务 / 全球生产",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "缺少明确证据",
+      "restLabel": "缺少明确证据",
+      "scope": "全球负责任商业原则；不是中国岗位考勤",
+      "finding": "查到供应链劳动准则，但全球准则并未承诺每周四十小时加两天休息。",
+      "caveats": [
+        "准则要求遵守当地更严格的法律，不能据此认定具体工厂实际合规或违规。",
+        "具体套装制造工厂与工时仍需核对。"
+      ],
+      "sourceIds": [
+        "lego-rbp"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与研发",
+          "status": "unknown",
+          "detail": "中国适用岗位的实际工时与休息资料不足。",
+          "sourceIds": []
+        },
+        {
+          "stage": "制造与外包",
+          "status": "policy",
+          "detail": "全球劳动准则的工时与休息基线不同于本项目口径。",
+          "sourceIds": [
+            "lego-rbp"
+          ]
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "尚无具体套装上游人员的劳动条件证据。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    },
+    {
+      "id": "bsh",
+      "name": "博世家电",
+      "legalName": "BSH 家用电器集团及相关制造主体（具体工厂待核）",
+      "location": "中国业务 / 全球生产",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "缺少明确证据",
+      "restLabel": "缺少明确证据",
+      "scope": "BSH 全球供应商准则",
+      "finding": "供应商准则可以追溯，但无法单凭准则确认该洗碗机供应链符合四十小时加双休。",
+      "caveats": [
+        "准则写明全球最低要求，并要求遵守当地更严格法律。",
+        "商品是香港官网型号，未确认中国大陆销售或生产主体。"
+      ],
+      "sourceIds": [
+        "bsh-code"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与研发",
+          "status": "unknown",
+          "detail": "中国岗位工作安排尚无足够证据。",
+          "sourceIds": []
+        },
+        {
+          "stage": "制造与外包",
+          "status": "policy",
+          "detail": "全球准则有劳工要求，不是该型号的工厂执行记录。",
+          "sourceIds": [
+            "bsh-code"
+          ]
+        },
+        {
+          "stage": "原料与物流",
+          "status": "policy",
+          "detail": "准则要求向子供应商传递要求，但未验证逐级实际执行。",
+          "sourceIds": [
+            "bsh-code"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    },
+    {
+      "id": "pathea",
+      "name": "帕斯亚",
+      "legalName": "重庆帕斯亚科技有限公司",
+      "location": "重庆",
+      "level": "research",
+      "hours": null,
+      "restDays": 2,
+      "hoursLabel": "每周小时数待核",
+      "restLabel": "2021 年招聘列出双休",
+      "scope": "2021 年历史招聘资料",
+      "finding": "历史招聘有双休线索；缺少当前每周工时及项目外包资料。",
+      "caveats": [
+        "旧招聘资料不能作为今天工作安排的保证。",
+        "数字游戏仍涉及美术、测试、发行等外部劳动。"
+      ],
+      "sourceIds": [
+        "pathea-hiring"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与研发",
+          "status": "unknown",
+          "detail": "未取得适用主体的当前实际工时与休息记录。",
+          "sourceIds": [
+            "pathea-hiring"
+          ]
+        },
+        {
+          "stage": "制造与外包",
+          "status": "unknown",
+          "detail": "具体生产或服务承接主体、岗位工时尚待核验。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "上游材料、运输及仓储环节尚无足够劳动条件证据。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    },
+    {
+      "id": "coconut",
+      "name": "椰岛游戏",
+      "legalName": "上海可那信息科技有限公司",
+      "location": "上海",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "当前工时待核",
+      "restLabel": "当前安排待核",
+      "scope": "本次仅完成游戏与开发品牌对应",
+      "finding": "已核对官方游戏页面，当前四十小时与双休安排缺少可直接验证的证据。",
+      "caveats": [
+        "官网热线时间不能作为员工工作时间。",
+        "缺少当前劳动制度及外包团队排班证据。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与研发",
+          "status": "unknown",
+          "detail": "未取得适用主体的当前实际工时与休息记录。",
+          "sourceIds": []
+        },
+        {
+          "stage": "制造与外包",
+          "status": "unknown",
+          "detail": "具体生产或服务承接主体、岗位工时尚待核验。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "上游材料、运输及仓储环节尚无足够劳动条件证据。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+    }
+  ],
+  "products": [
+    {
+      "id": "anker-nano-65w",
+      "name": "Nano II 65W 充电器",
+      "brand": "Anker",
+      "companyId": "anker",
+      "category": "electronics",
+      "description": "让每天的充电，轻一点。",
+      "tags": [
+        "USB-C",
+        "充电器",
+        "A2663"
+      ],
+      "image": "images/anker-nano-65w.webp",
+      "imageMode": "contain",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A2663111-Anker_715_Charger_Nano_II_65W.png?v=1767756360",
+      "imageRights": "Anker Innovations",
+      "url": "https://www.anker.com/products/a2663",
+      "market": "海外官网型号 A2663；购买前确认插头与本地规格。",
+      "relationship": "Anker 官方商品；安克创新官网链接至该充电品牌。",
+      "relationshipSourceIds": [
+        "product-anker-nano-65w",
+        "anker-brands"
+      ]
+    },
+    {
+      "id": "heartopia",
+      "name": "心动小镇",
+      "brand": "心动 XD",
+      "companyId": "xd",
+      "category": "games",
+      "description": "在自己的节奏里，过另一种小镇生活。",
+      "tags": [
+        "生活模拟",
+        "手机游戏",
+        "Heartopia"
+      ],
+      "image": "images/heartopia.webp",
+      "imageMode": "cover",
+      "imageSource": "https://website.xdcdn.net/poster/133737826/home/s1/LmnilHQT.jpg",
+      "imageRights": "XD Inc. / 心动网络",
+      "url": "https://heartopia.xd.com/cn/",
+      "market": "官方中文游戏入口；游玩平台与服务地区以官网为准。",
+      "relationship": "心动官方游戏页面；2025 年报介绍自研游戏心动小镇。",
+      "relationshipSourceIds": [
+        "product-heartopia",
+        "xd-2025"
+      ]
+    },
+    {
+      "id": "soundcore-space-one",
+      "name": "Space One 降噪耳机",
+      "brand": "soundcore",
+      "companyId": "anker",
+      "category": "electronics",
+      "description": "给通勤与独处，留一点安静。",
+      "tags": [
+        "耳机",
+        "降噪",
+        "A3035"
+      ],
+      "image": "images/soundcore-space-one.webp",
+      "imageMode": "contain",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0519/2355/0368/files/20230907-202756-Photoroom.png?v=1756457126",
+      "imageRights": "Anker Innovations / soundcore",
+      "url": "https://www.soundcore.com/uk/products/space-one-a3035011",
+      "market": "图片与链接来自英国官网；型号和售后地区需核对。",
+      "relationship": "soundcore 官方商品；安克创新官网列出该品牌。",
+      "relationshipSourceIds": [
+        "product-soundcore-space-one",
+        "anker-brands"
+      ]
+    },
+    {
+      "id": "eufy-x10-pro-omni",
+      "name": "X10 Pro Omni 扫拖机器人",
+      "brand": "eufy",
+      "companyId": "anker",
+      "category": "appliances",
+      "description": "把扫拖交给机器，把时间还给生活。",
+      "tags": [
+        "扫地机器人",
+        "清洁",
+        "智能家电"
+      ],
+      "image": "images/eufy-x10-pro-omni.webp",
+      "imageMode": "contain",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/Maskgroup-1.png?v=1773055636",
+      "imageRights": "Anker Innovations / eufy",
+      "url": "https://www.eufy.com/us/products//t2351111",
+      "market": "美国官网产品资料；电压、插头及本地销售需确认。",
+      "relationship": "eufy 官方商品；安克创新官网列出该品牌。",
+      "relationshipSourceIds": [
+        "product-eufy-x10-pro-omni",
+        "anker-brands"
+      ]
+    },
+    {
+      "id": "opple-boruipro",
+      "name": "博睿 Pro 护眼台灯",
+      "brand": "欧普照明",
+      "companyId": "opple",
+      "category": "home",
+      "description": "把书桌上的每一页，照得更清楚。",
+      "tags": [
+        "台灯",
+        "阅读",
+        "照明"
+      ],
+      "image": "images/opple-boruipro.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.opple.com.cn/assets/imgs/activity/borui/product.png",
+      "imageRights": "欧普照明股份有限公司",
+      "url": "https://www.opple.com.cn/products/customerproducts/boruipro/",
+      "market": "中国官网产品资料，具体配置以官网为准。",
+      "relationship": "欧普照明官方产品页面。",
+      "relationshipSourceIds": [
+        "product-opple-boruipro"
+      ]
+    },
+    {
+      "id": "ifi-zen-dac-3",
+      "name": "ZEN DAC 3 解码耳放",
+      "brand": "iFi audio",
+      "companyId": "ifi",
+      "category": "electronics",
+      "description": "为桌面听音，添一个小小的仪式。",
+      "tags": [
+        "Hi-Fi",
+        "桌面音频",
+        "解码耳放"
+      ],
+      "image": "images/ifi-zen-dac-3.webp",
+      "imageMode": "contain",
+      "imageSource": "https://ifi-audio.com/cdn/shop/files/Zen_dac_3.png?v=1750435047",
+      "imageRights": "iFi audio",
+      "url": "https://ifi-audio.com/collections/home-audio/products/zen-dac-3",
+      "market": "国际官网产品资料；中国销售与售后以品牌确认为准。",
+      "relationship": "iFi 官方产品；深圳悦尔法在招聘介绍中自述为其中国研发中心，主体关系仍待补证。",
+      "relationshipSourceIds": [
+        "product-ifi-zen-dac-3",
+        "ifi-hiring"
+      ]
+    },
+    {
+      "id": "shokken-seasoning",
+      "name": "液体与粉体复合调味料",
+      "brand": "食研食品",
+      "companyId": "shokken",
+      "category": "daily",
+      "description": "从日常调味，追问食物背后的劳动。",
+      "tags": [
+        "调味料",
+        "餐饮采购",
+        "产品系列"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "url": "https://www.nihonshokken.co.jp/profile.html",
+      "market": "中国业务产品系列，主要面向餐饮与食品加工；零售 SKU 待补充。",
+      "relationship": "集团官网确认中国公司生产销售该类调味料；具体商品与工厂对应尚未完成。",
+      "relationshipSourceIds": [
+        "shokken-group",
+        "product-shokken"
+      ]
+    },
+    {
+      "id": "ergonor-jinhao-l2",
+      "name": "金豪 L2 人体工学椅",
+      "brand": "保友",
+      "companyId": "ergonor",
+      "category": "home",
+      "description": "久坐的书桌，也需要认真照顾。",
+      "tags": [
+        "办公椅",
+        "人体工学",
+        "Ergohuman"
+      ],
+      "image": "images/ergonor-jinhao-l2.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.ergonor.cn/uploads/image/20250529/1748513360.jpg",
+      "imageRights": "中山市保友办公家具有限公司",
+      "url": "https://www.ergonor.cn/product/jinhao-l2",
+      "market": "中国官网产品资料；关联公司用工安排不可混用。",
+      "relationship": "保友官方产品；劳动资料来自广州联友，尚未对应到本商品制造主体。",
+      "relationshipSourceIds": [
+        "product-ergonor-jinhao-l2"
+      ]
+    },
+    {
+      "id": "ikea-billy",
+      "name": "BILLY 毕利书柜",
+      "brand": "IKEA 宜家",
+      "companyId": "ikea",
+      "category": "home",
+      "description": "为书和小收藏，安一个家。",
+      "tags": [
+        "书柜",
+        "收纳",
+        "白色"
+      ],
+      "image": "images/ikea-billy.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.ikea.com/ch/en/images/products/billy-bookcase-white__1590325_pe1038963_s5.jpg",
+      "imageRights": "Inter IKEA Systems B.V.",
+      "url": "https://www.ikea.com/ch/en/p/billy-bookcase-white-90401932/",
+      "market": "瑞士官网 80 × 39 × 202 cm、904.019.32；不是中国在售 SKU 证明。",
+      "relationship": "宜家官方商品页面及相应尺寸产品图。",
+      "relationshipSourceIds": [
+        "product-ikea-billy"
+      ]
+    },
+    {
+      "id": "lego-tiny-plants",
+      "name": "迷你植物 10329",
+      "brand": "LEGO 乐高",
+      "companyId": "lego",
+      "category": "culture",
+      "description": "九盆小植物，留一段专注拼搭的时间。",
+      "tags": [
+        "积木",
+        "拼搭",
+        "植物",
+        "手作"
+      ],
+      "image": "images/lego-tiny-plants.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.lego.com/cdn/cs/set/assets/bltb2f845ffd52a25b0/10329.png?dpr=1&fit=bounds&format=jpg&height=1500&quality=80&width=1500",
+      "imageRights": "The LEGO Group",
+      "url": "https://www.lego.com/en-us/product/tiny-plants-10329",
+      "market": "美国官网套装 10329；购买渠道以所在地官网为准。",
+      "relationship": "乐高官方 Botanicals 套装。",
+      "relationshipSourceIds": [
+        "product-lego-tiny-plants"
+      ]
+    },
+    {
+      "id": "my-time-at-sandrock",
+      "name": "沙石镇时光",
+      "brand": "帕斯亚 Pathea",
+      "companyId": "pathea",
+      "category": "games",
+      "description": "在荒漠小镇，经营属于自己的工坊。",
+      "tags": [
+        "模拟经营",
+        "PC游戏",
+        "My Time at Sandrock"
+      ],
+      "image": "images/my-time-at-sandrock.webp",
+      "imageMode": "cover",
+      "imageSource": "https://www.patheagames.com/assets/imgs/MyTimeAtSandrock.jpg",
+      "imageRights": "Pathea Games",
+      "url": "https://www.patheagames.com/",
+      "market": "中国开发商官网游戏入口。",
+      "relationship": "帕斯亚官网展示其开发的沙石镇时光。",
+      "relationshipSourceIds": [
+        "product-my-time-at-sandrock"
+      ]
+    },
+    {
+      "id": "ikea-raskog",
+      "name": "RÅSKOG 拉斯克手推车",
+      "brand": "IKEA 宜家",
+      "companyId": "ikea",
+      "category": "home",
+      "description": "厨房与书桌之间，随手推走的收纳。",
+      "tags": [
+        "收纳",
+        "手推车",
+        "白色"
+      ],
+      "image": "images/ikea-raskog.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.ikea.com/us/en/images/products/raskog-utility-cart-white__1366882_pe957173_s5.jpg",
+      "imageRights": "Inter IKEA Systems B.V.",
+      "url": "https://www.ikea.com/us/en/p/raskog-utility-cart-white-30586783/",
+      "market": "美国官网 35 × 45 × 77 cm、305.867.83；中国市场配置可能不同。",
+      "relationship": "宜家官方商品页面及相应型号产品图。",
+      "relationshipSourceIds": [
+        "product-ikea-raskog"
+      ]
+    },
+    {
+      "id": "jiangnan",
+      "name": "江南百景图",
+      "brand": "椰岛游戏",
+      "companyId": "coconut",
+      "category": "games",
+      "description": "在水墨江南里，慢慢经营一座城。",
+      "tags": [
+        "模拟经营",
+        "手机游戏",
+        "国风"
+      ],
+      "image": "images/jiangnan.webp",
+      "imageMode": "contain",
+      "imageSource": "https://wwwcdn.coconut.is/s/jnnb/img/350.jpg",
+      "imageRights": "上海可那信息科技有限公司 / Coconut Island Games",
+      "url": "https://www.coconut.is/game/jiangnan",
+      "market": "开发商官方游戏入口。",
+      "relationship": "椰岛官网展示江南百景图。",
+      "relationshipSourceIds": [
+        "product-jiangnan"
+      ]
+    },
+    {
+      "id": "bosch-sks68bb008",
+      "name": "SKS68BB008 台式洗碗机",
+      "brand": "Bosch 博世家电",
+      "companyId": "bsh",
+      "category": "appliances",
+      "description": "给厨房台面，留一个洗碗帮手。",
+      "tags": [
+        "洗碗机",
+        "台式",
+        "厨房电器"
+      ],
+      "image": "images/bosch-sks68bb008.webp",
+      "imageMode": "contain",
+      "imageSource": "https://media3.bsh-group.com/Product_Shots/16245138_SKS68BB008_STP_def.webp",
+      "imageRights": "BSH / Robert Bosch Hausgeräte GmbH",
+      "url": "https://www.bosch-home.com.hk/zh/product/dishwashers/free-standing-dishwashers/compact-dishwasher/SKS68BB008",
+      "market": "香港官网型号；未确认中国大陆渠道与本地适配。",
+      "relationship": "博世家电香港官网商品；供应商资料来自 BSH 集团。",
+      "relationshipSourceIds": [
+        "product-bosch-sks68bb008",
+        "bsh-code"
+      ]
+    }
+  ]
+}
