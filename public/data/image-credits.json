@@ -3457,6 +3457,496 @@
         "sha256": "ba39ccc1287723d1919b45389c4d6c89a2b62441511cbe0d3c0ae2d3ab77cda1"
       },
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "filename": "images/dareworks-taiyi-dm011-f.webp",
+      "image_url": "https://www.chinastationeryfair.com/ueditor/php/upload/file/20250513/1747108183358494.png",
+      "final_image_url": "https://www.chinastationeryfair.com/ueditor/php/upload/file/20250513/1747108183358494.png",
+      "content_type": "image/png",
+      "width": 900,
+      "height": 753,
+      "bytes": 45128,
+      "sha256": "3a5aa3bc0515ff5aeb52ef1ea8dcb3a82b2d1ec89e771d204b60e2c82c4e55ff",
+      "visually_verified": true,
+      "image_source_page_url": "https://www.chinastationeryfair.com/exhibition/goods/7150.html",
+      "role": "main",
+      "reuse_info": {
+        "rights_holder": "逗万DareWorks品牌、参展企业东莞司贸文教赠品有限公司及原图相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, exhibitor, retailer and image owners."
+      },
+      "id": "dareworks-taiyi-dm011-f",
+      "product_name": "逗万太一钢笔 DM011-F",
+      "model": "DM011-F",
+      "nib": "F尖",
+      "writing_width_declared": "0.5mm",
+      "source_role": "CSF文化用品商品交易会线上展厅，展商提交的产品展示素材；非大陆直接零售商品页",
+      "source_page_url": "https://www.chinastationeryfair.com/exhibition/goods/7150.html",
+      "official_exhibitor_page_url": "https://www.chinastationeryfair.com/exhibition/merchant/4548.html",
+      "source_page_title": "逗万太一钢笔/钢珠笔",
+      "source_page_specification_as_read": "DM011-F 渐变色 四色可选 磨砂质感 磁吸开合笔帽 可换钢珠笔头 黄铜+PVD镀金笔环 F尖书写0.5mm",
+      "source_price_mode_as_read": "价格面议",
+      "exhibitor_legal_entity_as_listed": "东莞司贸文教赠品有限公司",
+      "status": "exhibitor_image_verified_retail_sale_unknown",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国境内展会平台的展品信息；不证明在售库存、实际零售套装或当前到货包装。",
+      "image_kind": "原展商产品效果图及礼盒配置展示，非本任务生成；未断言为相机实拍",
+      "image_match_scope": "附件由该DM011-F展品页直接链接。上半部两支笔已开帽，目视为钢笔尖；没有把闭帽、共用钢笔/钢珠笔主图当作笔尖类别证明。",
+      "visual_variant_scope": "一张官方展品附件同时展示四种配色；F/0.5mm来自页面规格，图上没有清晰印出的型号或F字。不是四支装销售组合。",
+      "packaging_transcription": [],
+      "image_text_transcription": [
+        {
+          "text": "烟雨粉",
+          "location": "左上图配色标签",
+          "scope": "展品图配色文字，非外包装标签"
+        },
+        {
+          "text": "暮霞紫",
+          "location": "右上图配色标签",
+          "scope": "展品图配色文字"
+        },
+        {
+          "text": "天青蓝",
+          "location": "左下图配色标签",
+          "scope": "展品图配色文字"
+        },
+        {
+          "text": "极光绿",
+          "location": "右下图配色标签",
+          "scope": "展品图配色文字"
+        }
+      ],
+      "packaging_observation": "下半部显示黑色礼盒、手提袋、单支闭帽笔和墨水瓶示意；瓶容量、实际零售配件数量和包装制造标签未读到，未推定。",
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read": null,
+      "china_sale_evidence": {
+        "status": "exhibition_listing_only_direct_mainland_retail_unknown",
+        "source_urls": [
+          "https://www.chinastationeryfair.com/exhibition/goods/7150.html",
+          "https://www.chinastationeryfair.com/exhibition/merchant/4548.html"
+        ],
+        "evidence": "中国展会线上展厅将该型号列为东莞司贸参展商品，价格面议。",
+        "limitation": "未找到或声称存在直接零售页；展会样品/展品展示不等于当前大陆消费者可购买。"
+      },
+      "china_production_evidence": {
+        "status": "unknown_no_readable_manufacturing_label",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://www.chinastationeryfair.com/exhibition/goods/7150.html"
+        ],
+        "evidence_scope": "图中未读到制造法人或厂址；展商名称及其公司地址不当作产品包装制造标签。"
+      },
+      "supporting_images": [],
+      "rejected_visual_candidates": [
+        {
+          "image_url": "https://file.chinastationeryfair.com/202505131149472a3018755.png",
+          "reason": "同页共用闭帽外观主图，无法从图单独区别钢笔和钢珠笔，未作为交付主图。"
+        }
+      ],
+      "access_boundaries": {
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "scope": "只读指定展商页、其太一展品页及同页附件；没有登录、预约咨询或访问其他商品。"
+      },
+      "notes": [
+        "主图选择原站附件，未裁切四宫格、抠图、合成或重绘。",
+        "制造标签未知，未把展商认定为本消费批次的实际生产商。"
+      ],
+      "source_image_metadata": {
+        "width": 997,
+        "height": 834,
+        "bytes": 315454,
+        "sha256": "8d5006ee5331d8afd57bb79d84b6392359a75062f7421ef2cfbadf67df1824c3"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "filename": "images/mg-k35-gel-pen.webp",
+      "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/eXanpLZM2CE3DUIkm5E0RA.jpg",
+      "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/eXanpLZM2CE3DUIkm5E0RA.jpg",
+      "content_type": "image/jpeg",
+      "width": 612,
+      "height": 800,
+      "bytes": 24454,
+      "sha256": "a9cd90629aaa5935930b8d585fb0d77f2838bb83f5211fcdd0fa3892444ebfd6",
+      "visually_verified": true,
+      "image_source_page_url": "https://product.suning.com/0000000000/12447132783.html",
+      "role": "main",
+      "reuse_info": {
+        "rights_holder": "晨光品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, exhibitor, retailer and image owners."
+      },
+      "id": "mg-k35-gel-pen",
+      "product_name": "晨光 K35 按动中性笔 0.5mm 黑色 12支装",
+      "model": "K35",
+      "tip_size": "0.5mm",
+      "tip_shape": "子弹头",
+      "ink_color": "黑色",
+      "retail_quantity_declared": 12,
+      "retail_quantity_unit": "支/盒",
+      "source_role": "中国大陆苏宁自营直接商品详情页；非品牌官网图源",
+      "source_page_url": "https://product.suning.com/0000000000/12447132783.html",
+      "retailer_source_page_url": "https://product.suning.com/0000000000/12447132783.html",
+      "official_product_listing_url": "https://www.mg-pen.com/zycp/list.aspx?lcid=38&sub=36",
+      "retailer_page_title": "晨光(M&G) K35 按动 中性笔 学生0.5黑笔签字笔商务子弹头考试专用水笔高颜值办公用品 黑色 12支/盒",
+      "status": "exact_product_partial_detail_image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "大陆直接零售页经典K35黑色0.5mm、12支装资料；未核对实时库存、配送和实际到货批次。",
+      "image_kind": "零售页原有产品效果图的单张连续详情切片，显示笔帽/按压结构与笔杆上部",
+      "not_full_product_view": true,
+      "image_match_scope": "该图与上一详情切片的“经典K35 / 0.5mm 子弹头 黑色 12支装”文字连续，来自准确K35直接商品页。仅展示原文件能看到的笔杆上部，不拼接或伪造完整主视图。",
+      "packaging_transcription": [],
+      "product_body_transcription": [
+        {
+          "text": "M&G",
+          "location": "中间与右边笔身银色印刷区域",
+          "scope": "笔身品牌字样"
+        },
+        {
+          "text": "晨光",
+          "location": "中间与右边笔身下方品牌区域",
+          "scope": "笔身品牌字样；不是制造法人全称"
+        }
+      ],
+      "visual_quantity_note": "图中三支笔为按压状态对比效果，不是三支零售包装；12支装来自同页规格图与标题。",
+      "retailer_page_product_fields": {
+        "model": "K35",
+        "type": "中性笔",
+        "erasable": "不可擦",
+        "opening_method": "按动式",
+        "tip_size_range": "0.5-0.7mm",
+        "packaging_quantity": "12支"
+      },
+      "specification_evidence_note": "页面参数的“0.5-0.7mm”为区间，准确0.5mm以直接标题及清晰规格图为依据；未取得外盒净数量印刷。",
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read": null,
+      "china_sale_evidence": {
+        "status": "mainland_direct_retail_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://product.suning.com/0000000000/12447132783.html"
+        ],
+        "evidence": "苏宁自营直接商品页与同页规格图均写K35、0.5、黑色和12支装。",
+        "limitation": "页面默认隐藏的下架/有货模板不作库存结论；未取得实时可售或消费者批次信息。"
+      },
+      "china_production_evidence": {
+        "status": "unknown_no_readable_manufacturing_label",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://product.suning.com/0000000000/12447132783.html"
+        ],
+        "evidence_scope": "主图和规格图未提供可读制造法人、厂址或产地；品牌官网所属公司不能自动视为本包装生产者。"
+      },
+      "supporting_images": [
+        {
+          "filename": "mg-k35-gel-pen-specification.jpg",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/zinGHwPyCscbm-8GsUtQrw.jpg",
+          "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/zinGHwPyCscbm-8GsUtQrw.jpg",
+          "content_type": "image/jpeg",
+          "width": 790,
+          "height": 663,
+          "bytes": 76516,
+          "sha256": "32158d557eef80d037f19ab76e37d7eff1841bb8ca53587967f2fc074079a109",
+          "visually_verified": true,
+          "image_source_page_url": "https://product.suning.com/0000000000/12447132783.html",
+          "role": "same_product_retailer_specification_image",
+          "reuse_info": {
+            "rights_holder": "晨光品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the relevant brand, exhibitor, retailer and image owners."
+          },
+          "is_packaging_back_label": false,
+          "readable_transcription": [
+            {
+              "text": "K-35",
+              "location": "左上角型号字样"
+            },
+            {
+              "text": "M&G晨光文具",
+              "location": "右上角品牌字样"
+            },
+            {
+              "text": "只为打造经典K35",
+              "location": "中央下部文案"
+            },
+            {
+              "text": "0.5mm 子弹头 黑色 12支装",
+              "location": "底部蓝色参数条"
+            }
+          ],
+          "evidence_scope": "同一直接商品详情图片的规格文字，不是盒装背标；型号与0.5mm黑色12支可从图核对，不能补出制造信息。"
+        }
+      ],
+      "rejected_visual_candidates": [
+        {
+          "source_page_url": "https://product.suning.com/0000000000/12447132783.html",
+          "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/Kdn6KAaOIyXRFdF-Pnji7Q.jpg_800w_800h_4e",
+          "reason": "该页完整主图库与未附尺寸后缀的图片资源均模糊，不提供为可读主图；未进行图像复原。"
+        },
+        {
+          "source_page_url": "https://product.suning.com/0000000000/12219530450.html",
+          "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/ymcSF6EJNrIsB4zzKuk3rQ.jpg_800w_800h_4e",
+          "reason": "清晰图库实际印“金品K-35 / KING-35”，为避免把变款替代经典K35，本批未接收。"
+        }
+      ],
+      "access_boundaries": {
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "official_list_http_status": 200,
+        "blocked_official_image_url": "https://www.mg-pen.com/uploadfiles/2019/03/20190322175323942.jpg?MC0wLmpwZw==",
+        "blocked_official_image_response": "HTTP200却返回15999字节text/html，含Aliyun验证码界面代码，不是JPEG。",
+        "blocked_route_stopped": true,
+        "scope": "官网图片验证路径已停；只另核两个明确K35零售商品页，排除金品图库，未使用GP1008或联名变款。"
+      },
+      "notes": [
+        "作为局部目录素材交付，不称为完整单支实拍或外包装图。",
+        "未把原站的多个切片拼成新图，所有交付文件原样保存。"
+      ],
+      "source_image_metadata": {
+        "width": 790,
+        "height": 1032,
+        "bytes": 95995,
+        "sha256": "4dbec46c23c9d45d34fe23755ac41924d7812068726fbb8a9bb294c745688822"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "filename": "images/deli-25996-notebook.webp",
+      "image_url": "https://www.nbdeli.com/bocupload/product/100152441/1.jpg",
+      "final_image_url": "https://www.nbdeli.com/bocupload/product/100152441/1.jpg",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 26022,
+      "sha256": "43bd2cf3a4f19da508ea5a755017d39194505cee83382e54a2067c14dc1ea458",
+      "visually_verified": true,
+      "image_source_page_url": "https://www.nbdeli.com/products/productinfo/24237.html",
+      "role": "main",
+      "reuse_info": {
+        "rights_holder": "得力品牌及原商品图相关权利人；来源为得力集团官网，确切图片著作权法人未另核",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, exhibitor, retailer and image owners."
+      },
+      "id": "deli-25996-notebook",
+      "product_name": "得力 25996 B5 备考活页本（高效笔记本）",
+      "model": "25996",
+      "material_code": "100152441",
+      "size": "B5",
+      "sheet_count": 60,
+      "minimum_sales_unit": "本",
+      "source_role": "得力中国官网准确物料产品页",
+      "source_page_url": "https://www.nbdeli.com/products/productinfo/24237.html",
+      "official_source_page_url": "https://www.nbdeli.com/products/productinfo/24237.html",
+      "source_page_title": "得力25996备考活页本B5(高效笔记本)(本)",
+      "status": "official_product_image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国官网产品目录物料；页面显示最小销售单位本，当前直接零售库存未验证。",
+      "image_kind": "官网原始产品展示图，四种同货号封面标识设计并列",
+      "image_match_scope": "主图来自物料100152441的官网页面，前封可读NO.25996、B5、60张。未以相近活页本替代。",
+      "visual_quantity_note": "主图并列展示四种封面标识颜色，不代表购买单位为四本；官网最小销售单位为一本。未选择不明确的特定配色发货。",
+      "official_page_product_fields": {
+        "material_code": "100152441",
+        "minimum_sales_unit": "本",
+        "packaging_quantity_string": "48 / 12 / 0 / 1",
+        "item_number": "25996",
+        "material_description": "得力25996备考活页本B5(高效笔记本)(本)"
+      },
+      "packaging_transcription": [
+        {
+          "text": "高效笔记本",
+          "location": "主图最前一本上方白色分类标签",
+          "scope": "封面品名"
+        },
+        {
+          "text": "B5 60 sheets",
+          "location": "同一标签品名下方",
+          "scope": "尺寸系列及张数"
+        },
+        {
+          "text": "B5 活页本 NO.25996 60张",
+          "location": "最前一本封面下半部左下文字区",
+          "scope": "从封面独立确认货号/尺寸/60张"
+        },
+        {
+          "text": "deli 得力文具",
+          "location": "最前一本封面下部右上红色品牌标志",
+          "scope": "封面品牌，非制造法人全称"
+        }
+      ],
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read": null,
+      "china_sale_evidence": {
+        "status": "mainland_official_product_catalog_verified_retail_stock_unknown",
+        "source_urls": [
+          "https://www.nbdeli.com/products/productinfo/24237.html"
+        ],
+        "evidence": "得力中国官网列具体物料100152441、货号25996及最小销售单位本。",
+        "limitation": "官网目录资料不能单独证明今天某店有货；没有访问或完成购买。"
+      },
+      "china_production_evidence": {
+        "status": "unknown_no_readable_manufacturing_label",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://www.nbdeli.com/products/productinfo/24237.html"
+        ],
+        "evidence_scope": "5张图库及长详情图中未找到可读制造法人、厂址/产地背标；不以得力品牌或官网地址推定产地。"
+      },
+      "supporting_images": [],
+      "inspected_detail_image_url": "https://www.nbdeli.com/bocupload/product/100152441/xq.jpg",
+      "access_boundaries": {
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "scope": "品牌官网准确单物料页面及页面所列5张图库和1张长详情图；没有另查公司劳动制度或仓库修改。"
+      },
+      "notes": [
+        "包装层级字符串48/12/0/1按官网原样保存，没有解释为消费者必须购买48本。",
+        "未把官网页脚公司主体自动当作包装生产商。"
+      ],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 252045,
+        "sha256": "63a9b9aaac60f36601fd64fc0762766a7e008b9d1397908bfb2b9cc6031351c5"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "comix-b3252-ruler40",
+      "product_name": "齐心 B3252 透明直尺 40cm",
+      "model": "B3252",
+      "retailer_product_id": "B611A4B8AFD5",
+      "length_value": 40,
+      "length_unit": "cm",
+      "requested_sales_unit": "1把",
+      "packaging_quantity_as_read": null,
+      "quantity_evidence_scope": "主图呈现单条尺套/直尺，未见10把装外盒或10把装文字；包装本身未读到“1把”标注。页面购买数量默认1不作为包装数量证明。",
+      "filename": "images/comix-b3252-ruler40.webp",
+      "image_url": "https://zsemall.com/upload/product/20211029/447d481a-8193-45fe-8e28-d8055a643265_400px.jpg",
+      "final_image_url": "https://zsemall.com/upload/product/20211029/447d481a-8193-45fe-8e28-d8055a643265_400px.jpg",
+      "image_source_page_url": "https://zsemall.com/zsemall_frontend/todetail?productid=B611A4B8AFD5",
+      "source_page_url": "https://zsemall.com/zsemall_frontend/todetail?productid=B611A4B8AFD5",
+      "retailer_source_page_url": "https://zsemall.com/zsemall_frontend/todetail?productid=B611A4B8AFD5",
+      "source_role": "中国大陆中盛云商直接商品页，非齐心品牌官网",
+      "retailer_page_title": "齐心（COMIX） 刻度测量尺子/直尺 办公文具 40cm B3252",
+      "status": "image_verified_packaging_manufacturer_unknown",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆直接商品目录页面，记录上架时间为2021-11-11；当前库存、配送和实际包装批次未验证。",
+      "content_type": "image/jpeg",
+      "width": 400,
+      "height": 400,
+      "bytes": 8368,
+      "sha256": "af9e717f69f14c1e25a381afee10663a4190c786764260f1d53b02b06dcdd0e2",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "齐心COMIX品牌、中盛云商商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer and image owners."
+      },
+      "image_kind": "零售页发布的单条透明直尺尺套主图，未修改的400px源文件",
+      "image_match_scope": "商品页标题及型号文字为B3252、40cm，主图包装可独立确认品牌与40cm。未用B3251/30cm或10把装替代。包装印刷型号小字未能独立可靠读清，型号依据为该直接商品页。",
+      "brand_as_read": "Comix 齐心",
+      "packaging_transcription": [
+        {
+          "text": "Comix 齐心",
+          "location": "尺套顶端红色区域",
+          "scope": "品牌标识，不是制造法人全称"
+        },
+        {
+          "text": "40 cm",
+          "location": "尺套上方红白长度标识",
+          "scope": "包装独立核对40cm长度"
+        },
+        {
+          "text": "符合国家轻工行业标准",
+          "location": "尺套中央黑色竖排字样",
+          "scope": "包装营销/标准描述逐字转录，不另作合规认证判断"
+        },
+        {
+          "text": "直尺 RULER",
+          "location": "尺套下半部白色区域",
+          "scope": "包装品类名称"
+        }
+      ],
+      "packaging_model_as_read": null,
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read_from_packaging": null,
+      "retailer_page_fields": {
+        "product_name": "齐心（COMIX） 刻度测量尺子/直尺 办公文具 40cm B3252",
+        "product_number": "B611A4B8AFD5",
+        "brand": "齐心（COMIX）",
+        "listed_origin": "中国",
+        "listed_at": "Thu Nov 11 17:41:00 CST 2021",
+        "packing_list": "齐心（COMIX） 刻度测量尺子/直尺 办公文具 40cm B3252"
+      },
+      "china_sale_evidence": {
+        "status": "mainland_direct_product_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://zsemall.com/zsemall_frontend/todetail?productid=B611A4B8AFD5"
+        ],
+        "evidence": "中盛云商公开商品页标题、型号和图片均对应齐心40cm直尺，标题明确B3252。",
+        "limitation": "未登录、未下单；当前库存与配送范围未知，购买输入框的数量1不代表读取到了1把包装标签。"
+      },
+      "china_production_evidence": {
+        "status": "retailer_declares_china_origin_packaging_origin_and_manufacturer_unknown",
+        "country_declared_by_retailer": "中国",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://zsemall.com/zsemall_frontend/todetail?productid=B611A4B8AFD5"
+        ],
+        "evidence": "页面商品介绍参数原文“商品产地：中国”。",
+        "evidence_scope": "仅零售商页面产地声明；主图未给出可读产地、制造法人或厂址，不能从齐心品牌或中国参数补法人。"
+      },
+      "supporting_images": [],
+      "inspected_gallery_references": [
+        {
+          "image_url": "https://zsemall.com/upload/product/20211029/5b68e0d7-250d-48f3-b3de-af909d6ebf54_68px.jpg",
+          "finding": "原页引用的68px缩略图为透明尺局部，无可读生产标签；未用作交付主图。"
+        },
+        {
+          "image_url": "https://zsemall.com/upload/product/20211029/43a3e015-b50f-4f9c-b309-e7dccc9b20c9_68px.jpg",
+          "finding": "原页引用的68px缩略图为尺刻度/使用展示，无可读生产标签；未用作交付主图。"
+        }
+      ],
+      "access_boundaries": {
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "scope": "仅请求指定准确商品页和其直接引用的1张400px主图、2张图库缩略图；没有读取其他商品、搜索外部来源或调用登录接口。"
+      },
+      "notes": [
+        "400×400为该页面直接引用的图片文件，保存原始字节，未放大复原、重绘、裁切、合成或去水印。",
+        "包装制造信息缺失保持未知；没有以中国品牌或零售页面产地推断制造法人。",
+        "本批仅这一款，完成后停止。"
+      ],
+      "source_image_metadata": {
+        "width": 400,
+        "height": 400,
+        "bytes": 11245,
+        "sha256": "751c1413d1fc672f1bd3c6e31314c01caf6c5e6216e22b7bf1588c516660aac0"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

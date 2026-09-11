@@ -2,7 +2,7 @@
 
 让好商品背后，也有好工作。为中国消费者整理 **大陆可以买到、中国境内生产、生产岗位劳动权益有证据支持** 的具体商品与服务。继续坚持每周 40 小时、每周至少休息 2 天的筛选起点，并核对工资、合同、社保、劳动保护及供应链。
 
-[访问网站](https://hancao97.github.io/fair-labor-goods/) · [资料共建](CONTRIBUTING.md) · [研究记录](docs/research.md)
+[访问网站](https://hancao97.github.io/fair-labor-goods/) · [资料共建](CONTRIBUTING.md) · [研究记录](docs/research.md) · [销售证据复核](docs/sales-evidence-review.md)
 
 当前资料覆盖 15 个生活领域，消费清单列出 163 项细分需求，逐项显示已有资料和缺口。**正式商品目录与待核查资料分开**：大陆销售、境内生产、生产劳动证据必须同时满足收录条件。现有资料尚未达到全部条件，正式目录暂为 0 件；不能把待核查数量理解为达标数量。
 

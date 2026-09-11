@@ -792,10 +792,10 @@
       "title": "海口索菲特大酒店客房及餐饮",
       "publisher": "索菲特 / 雅高",
       "url": "https://sofitel.accor.com/zh/hotels/7970.html",
-      "summary": "官方页面列明海口酒店地址、客房及锦厨、乐轩华等餐饮服务。",
-      "limitation": "服务资料不证明劳动条件；预订及菜单以当日官方信息为准。",
+      "summary": "官网列酒店编号 7970、地址、对应客房订房链接，以及锦厨、乐轩华的餐厅介绍。",
+      "limitation": "客房预订链接不等于餐饮订位或餐券；入住日期和房态另核。餐厅具体日期、餐段、菜单和可下单记录未取得，服务介绍不证明劳动条件。",
       "publishedAt": null,
-      "checkedAt": "2026-09-11",
+      "checkedAt": "2026-09-12",
       "locator": "页面正文",
       "type": "企业官网"
     },
@@ -1213,7 +1213,7 @@
       "publisher": "吉利银河",
       "url": "https://galaxy.geely.com/E5",
       "summary": "大陆官网列明 2026 款、530km 启航版，提供订购与授权经销商试驾入口。",
-      "limitation": "续航为官方车型标识，不代表实际驾驶续航；车系宣传图不能自动对应低配外观，具体交付配置和制造厂另核。",
+      "limitation": "仅核具体车型报价及官方定购入口，未核某地经销商现车或交付日期。续航为官方车型标识，宣传图不自动对应低配外观，制造厂仍需对应交付车辆。",
       "publishedAt": null,
       "checkedAt": "2026-09-12",
       "locator": "页面正文",
@@ -1344,11 +1344,11 @@
       "title": "联想小新 Pro14 2025 官网货号 1044736",
       "publisher": "联想中国商城",
       "url": "https://item.lenovo.com.cn/product/1044736.html",
-      "summary": "联想中国商城提供小新 Pro14 2025 款、西子绿、14 英寸的具体商品页面。",
-      "limitation": "未从本次可读正文获得准确 CPU、内存或生产厂信息；用官网货号标识，避免混用相似配置。库存另核。",
+      "summary": "货号 1044736 的主标题和配置表列 Core 5-220H、24GB DDR5、1TB SSD、西子绿，型号为小新 Pro 14c IRH10R。",
+      "limitation": "本轮已读到准确配置，纠正此前无法读取的记录。价格与库存未核；页面共存的购买、预售和下架模板不能作为实际销售状态。制造工厂及批次仍未知。",
       "publishedAt": null,
       "checkedAt": "2026-09-12",
-      "locator": "页面正文",
+      "locator": "商品主标题及基本参数、处理器和存储设备表",
       "type": "企业官网"
     },
     {
@@ -1439,12 +1439,12 @@
       "id": "qingming-ticket-booking",
       "title": "清明上河园全价票官方预订",
       "publisher": "开封清明上河园股份有限公司",
-      "url": "http://www.qingmings.com/shop_list.php?cid=1",
-      "summary": "官网票务页明确列出清明上河园全价票、预订入口，以及河南开封龙亭西路 5 号景区地址。",
-      "limitation": "票务页面未标更新时间；价格、日期限制、入园权益和实名规则均以实际官方订单为准，不将网页长期展示值当作实时票价。",
+      "url": "http://www.qingmings.com/shop_info.php?softid=1",
+      "summary": "全价票详情列实名制分时预约购票二维码及当天购买使用说明，并给出河南开封景区地址。",
+      "limitation": "页面未标发布日期；仅核官方票种及购买渠道，实际订单价格、可选日期、票额和入园权益需进一步确认。不能将二维码存在等同于任意日期有票。",
       "publishedAt": null,
       "checkedAt": "2026-09-12",
-      "locator": "页面正文",
+      "locator": "全价票商品详情、购票二维码及购买使用说明",
       "type": "企业官网"
     },
     {
@@ -1548,11 +1548,11 @@
       "title": "25996 B5 备考活页本官方资料",
       "publisher": "得力集团",
       "url": "https://www.nbdeli.com/products/productinfo/24237.html",
-      "summary": "物料编码 100152441；B5 活页笔记本。",
-      "limitation": "官方规格和物料号只用于识别产品；当前批次的生产商、厂址和生产人员劳动条件仍需核验。本次官网直连返回 403，通过官网检索缓存读取；当前渠道库存未核。",
+      "summary": "官网列物料 100152441、货号 25996 和最小销售单位本；主图可读 B5、60 张。",
+      "limitation": "本轮成功读取官网页及原图，纠正此前仅能读取缓存的访问记录。官网展示不证明现在有货；多封面合照不是四本装，制造法人、厂址和产线仍待核。",
       "publishedAt": null,
       "checkedAt": "2026-09-12",
-      "locator": "页面正文",
+      "locator": "具体物料参数和官网主图封面",
       "type": "企业官网"
     },
     {
@@ -2430,6 +2430,114 @@
       "checkedAt": "2026-09-12",
       "locator": "页面标题及优惠文章入口；直接零售对应未完成",
       "type": "第三方销售线索"
+    },
+    {
+      "id": "simao-production-hiring-2025",
+      "title": "东莞司贸普工招聘及企业工作制度介绍",
+      "publisher": "智通直聘（东莞司贸发布）",
+      "url": "https://www.job5156.com/dongguan/job_ZrNL2pBB9Ci96hz2U8fiAA",
+      "summary": "企业介绍披露五天、每日八小时及双休福利；同页加工部生产线普工岗位提及加班计酬，并介绍自有品牌逗万。页面显示岗位已过期、暂停招聘。",
+      "limitation": "刷新日期为 2025-11-13，不是现招保证；企业简介的标准制度没有说明该产线实际每周加班与休息，不能把加班计酬承诺当作实际合规。未取得太一钢笔的班组记录。",
+      "publishedAt": "2025-11-13",
+      "checkedAt": "2026-09-12",
+      "locator": "普工岗位描述、公司介绍及职位过期提示；日期为页面刷新日期",
+      "type": "企业招聘披露"
+    },
+    {
+      "id": "dareworks-exhibitor",
+      "title": "逗万参展企业与东莞司贸主体资料",
+      "publisher": "CSF 文化用品商品交易会（展商提交）",
+      "url": "https://www.chinastationeryfair.com/exhibition/merchant/4548.html",
+      "summary": "线上展厅将逗万笔类商品列于东莞司贸文教赠品有限公司，并列广东东莞厚街镇司贸路 12 号联系地址。",
+      "limitation": "展商及联系地址不等于某件零售商品的包装制造法人和实际生产厂址；展商目录不证明当前零售供货或劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "展商名称、联系地址及展品列表",
+      "type": "展会展商资料"
+    },
+    {
+      "id": "dareworks-dm011-f-product",
+      "title": "逗万太一钢笔 DM011-F 展品规格",
+      "publisher": "CSF 文化用品商品交易会（东莞司贸展品）",
+      "url": "https://www.chinastationeryfair.com/exhibition/goods/7150.html",
+      "summary": "展品页列 DM011-F、F 尖及 0.5mm 书写规格，页面附件可见开帽钢笔和四种配色展示。",
+      "limitation": "页面为价格面议及预约咨询，不是直接零售订单；四色不是四支装。其他展品的进口笔尖描述不适用于此型号，本款笔尖来源、零售配件及制造背标均待核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "产品规格、展商信息及附件 16.png",
+      "type": "展会商品资料"
+    },
+    {
+      "id": "comix-esg-2025",
+      "title": "齐心集团 2025 年环境、社会和公司治理报告",
+      "publisher": "深圳齐心集团股份有限公司 / 东方财富公告附件",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202604241821559324_1.pdf",
+      "summary": "报告披露员工权益管理制度、劳动合同及社保覆盖自述；供应商准则要求合法工时、薪酬福利，另有整改与退出机制。",
+      "limitation": "属于集团制度及汇总披露，未取得 B3252 制尺、包材或外包岗位的实际周工时、休息及工资社保记录；不能将供应商准则当作所有供应商已达标。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 37 页（印刷 35）员工权益；第 49 页（印刷 47）供应商准则，均已核原页",
+      "type": "企业 ESG 报告"
+    },
+    {
+      "id": "comix-b3252-procurement-2022",
+      "title": "西安市中心血站采购合同中的齐心 B3252 直尺",
+      "publisher": "陕西省政府采购网 / 西安市中心血站",
+      "url": "https://www.ccgp-shaanxi.gov.cn/uploader-gpms/upload/commoninfo/2022/12/13/1670922088110_8653.pdf",
+      "summary": "合同 SCHT-西安市-2022-263539 第 38 项列齐心 B3252、40cm、1 把装；参数写中国大陆。",
+      "limitation": "这是 2022 年采购记录，不能证明当前零售库存。参数把地区填在生产厂商栏，未给出制造法人或厂址，不能据此认定当前批次国产及劳动合规。",
+      "publishedAt": "2022-12-13",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 1 页合同名称；第 11—12 页第 38 项，已目视核对跨页行",
+      "type": "政府采购合同"
+    },
+    {
+      "id": "comix-b3252-zsemall",
+      "title": "齐心 B3252 40cm 直尺直接商品资料",
+      "publisher": "中盛云商（零售平台商品页）",
+      "url": "https://zsemall.com/zsemall_frontend/todetail?productid=B611A4B8AFD5",
+      "summary": "直接商品页对应齐心 B3252 40cm 直尺，商品编号 B611A4B8AFD5，平台产地字段填中国。",
+      "limitation": "属于第三方销售资料，不暗示品牌授权。页面上架时间为 2021 年，现时库存和发货范围未核；平台也说明资料及实际包装可能不同，产地字段不替代当前制造背标。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品名称、商品编号、上架时间及商品产地参数",
+      "type": "大陆零售商商品资料"
+    },
+    {
+      "id": "mg-k35-suning",
+      "title": "晨光 K35 黑色 0.5mm 12支装直接商品资料",
+      "publisher": "苏宁易购（苏宁自营商品页）",
+      "url": "https://product.suning.com/0000000000/12447132783.html",
+      "summary": "商品标题与同页规格图共同对应经典 K35、0.5mm 子弹头、黑色、12 支装；有可辨认笔杆的局部详情图。",
+      "limitation": "页面参数另写笔尖区间，准确 0.5mm 以同页标题及规格图交叉核对。现时库存与配送未取得；隐藏的有货、下架模板都不当作销售状态。图片没有可读制造法人或产地。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "直接商品标题及同页经典 K35 详情图",
+      "type": "大陆零售商商品资料"
+    },
+    {
+      "id": "mg-k35-spec-image",
+      "title": "K35 黑色 0.5mm 12支装同页规格图",
+      "publisher": "苏宁自营商品页 / 晨光商品资料图",
+      "url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/zinGHwPyCscbm-8GsUtQrw.jpg",
+      "summary": "规格图可读 K-35 和黑色 0.5mm 子弹头、12 支装，与直接商品标题对应。",
+      "limitation": "这不是外包装制造标签；没有制造法人、厂址或生产国信息。未使用清晰但属于金品 K-35 的另一变款图片。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "左上型号及底部参数条，已核原图",
+      "type": "商品详情图片"
+    },
+    {
+      "id": "honor-600-shop",
+      "title": "荣耀600 超级版 12GB/512GB 官方商城配置",
+      "publisher": "荣耀中国官方商城",
+      "url": "https://www.honor.com/cn/shop/product/10086616452914.html",
+      "summary": "官方直接商品页列荣耀600 超级版、12GB/512GB、幸运星、双卡全网通及商品编码 10001030032906。",
+      "limitation": "本次读取的价格与库存为动态区域，未取得可售结果；不能用页面共存的购物车、到货通知或弹窗模板推断有货或下架。没有对应制造厂或设备批次信息。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品主标题、主要参数及商品编码",
+      "type": "官方商城商品资料"
     }
   ],
   "companies": [
@@ -5978,6 +6086,118 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "先补同款清晰背标与批次追溯，澄清虾原料养殖地和加工法人，再核对产线、养殖和冷链岗位的劳动记录。"
+    },
+    {
+      "id": "simao",
+      "name": "司贸 / 逗万",
+      "legalName": "东莞司贸文教赠品有限公司",
+      "location": "广东东莞厚街；实际钢笔批次与产线待核",
+      "origin": "unconfirmed",
+      "originNote": "展商明确为东莞境内法人；逗万品牌创立地区本轮未单独核验，具体商品生产地另查。",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "企业介绍 5 天 × 8 小时",
+      "restLabel": "企业介绍双休 · 实际待核",
+      "cardNote": "标准工时线索 · 产线加班待核",
+      "scope": "2025 年已过期普工招聘所附企业制度与太一钢笔展品；标准工时自述、产线加班及零售制造关系分别核验。",
+      "finding": "企业介绍写五天八小时双休，同页加工部普工招聘提及加班。只能记录标准制度线索，不能证明该钢笔生产工人每周实际不超过 40 小时、休息两天。",
+      "caveats": [
+        "招聘岗位已过期，刷新日期不代表当前继续执行同样安排。",
+        "企业简介福利不等于对应普工班组实际排班；加班计酬承诺不证明工资或休息已经履行。",
+        "展商列太一 DM011-F，当前零售包装、具体制造厂及笔尖原料来源尚未锁定。"
+      ],
+      "sourceIds": [
+        "simao-production-hiring-2025",
+        "dareworks-exhibitor",
+        "dareworks-dm011-f-product"
+      ],
+      "supply": [
+        {
+          "stage": "企业标准工作制度",
+          "status": "policy",
+          "detail": "已过期招聘所附企业简介提供五天八小时、双休线索；不能当作现时履约记录。",
+          "sourceIds": [
+            "simao-production-hiring-2025"
+          ]
+        },
+        {
+          "stage": "钢笔加工与装配",
+          "status": "unknown",
+          "detail": "加工部普工岗位提及加班，未取得 DM011-F 对应班组及实际排班；当前批次制造标签待补。",
+          "sourceIds": [
+            "simao-production-hiring-2025",
+            "dareworks-dm011-f-product"
+          ]
+        },
+        {
+          "stage": "笔尖、墨水及外包运输",
+          "status": "unknown",
+          "detail": "本型号笔尖等部件来源和雇佣主体尚未锁定，不能套用展厅其他型号的部件描述。",
+          "sourceIds": [
+            "dareworks-dm011-f-product"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "找到 DM011-F 的大陆直接零售与制造背标，确认加工装配、笔尖等部件供应商，再取得对应岗位当前工时、休息和工资社保记录。"
+    },
+    {
+      "id": "comix",
+      "name": "齐心集团",
+      "legalName": "深圳齐心集团股份有限公司",
+      "location": "广东深圳；B3252 实际制尺工厂待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "供应商劳动制度 · 制尺岗位待核",
+      "scope": "集团 2025 年员工与供应商制度，以及 B3252 40cm 直尺的历史采购和零售资料；实际制造法人另核。",
+      "finding": "报告有员工权益制度和供应商合法工时要求，未取得 B3252 对应制造、包材及外包人员的每周 40 小时和两天实际休息记录。",
+      "caveats": [
+        "员工合同及社保覆盖率属于企业汇总披露，不能替代具体产线记录。",
+        "供应商准则、整改和退出机制不表示本款供应商实际全部通过。",
+        "采购合同及零售商产地字段未指明当前制造法人；集团品牌与具体生产者不能混用。"
+      ],
+      "sourceIds": [
+        "comix-esg-2025",
+        "comix-b3252-procurement-2022",
+        "comix-b3252-zsemall"
+      ],
+      "supply": [
+        {
+          "stage": "集团员工制度",
+          "status": "policy",
+          "detail": "2025 ESG 披露员工权益、合同与社保管理，实际岗位工时和休息待补。",
+          "sourceIds": [
+            "comix-esg-2025"
+          ]
+        },
+        {
+          "stage": "直尺制造与包装",
+          "status": "unknown",
+          "detail": "B3252 有具体型号资料，当前制造法人、厂址、生产批次和排班尚未对应。",
+          "sourceIds": [
+            "comix-b3252-procurement-2022",
+            "comix-b3252-zsemall"
+          ]
+        },
+        {
+          "stage": "材料供应、外包及配送",
+          "status": "policy",
+          "detail": "报告列供应商合法工时等要求；尚未取得此款实际供应商名单和履约记录。",
+          "sourceIds": [
+            "comix-esg-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "核对 B3252 当前包装与制尺工厂，再补工厂、原料和配送岗位的实际工时、逐周休息及工资社保记录。"
     }
   ],
   "products": [
@@ -6174,15 +6394,15 @@
       "imageSource": "https://www.opple.com.cn/assets/imgs/activity/borui/product.png",
       "imageRights": "欧普照明股份有限公司",
       "url": "https://www.opple.com.cn/products/customerproducts/boruipro/",
-      "market": "中国官网产品资料，具体配置以官网为准。",
+      "market": "官网可核博睿 Pro，但门店查询和展示页尚未对应具体门店或直接商品订单；现售依据待补。",
       "relationship": "欧普照明官方产品页面。",
       "relationshipSourceIds": [
         "product-opple-boruipro"
       ],
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "欧普大陆官网可核小灯塔系列博睿 Pro，提供官方线下门店查询入口；门店现货另核。",
+          "status": "pending",
+          "detail": "官网可核博睿 Pro，但门店查询和展示页尚未对应具体门店或直接商品订单；现售依据待补。",
           "sourceIds": [
             "product-opple-boruipro"
           ]
@@ -6303,15 +6523,15 @@
       "imageSource": "https://www.ergonor.cn/uploads/image/20250529/1748513360.jpg",
       "imageRights": "中山市保友办公家具有限公司",
       "url": "https://www.ergonor.cn/product/jinhao-l2",
-      "market": "中国官网产品资料；关联公司用工安排不可混用。",
+      "market": "官网可核金豪 L2，购买渠道页仍为通用渠道，未对应当前规格的直接销售结果。",
       "relationship": "保友官方产品；劳动资料来自广州联友，尚未对应到本商品制造主体。",
       "relationshipSourceIds": [
         "product-ergonor-jinhao-l2"
       ],
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "保友大陆官网介绍金豪 L2 2025 款，并提供官方购买渠道页面；具体规格和现货另核。",
+          "status": "pending",
+          "detail": "官网可核金豪 L2，购买渠道页仍为通用渠道，未对应当前规格的直接销售结果。",
           "sourceIds": [
             "product-ergonor-jinhao-l2"
           ]
@@ -6797,7 +7017,7 @@
       "admission": {
         "chinaSale": {
           "status": "supported",
-          "detail": "Apple 中国大陆商店当前提供 iPhone 17 具体容量、颜色的购买选择；不代表所售设备均在中国制造。",
+          "detail": "Apple 中国大陆商店提供 iPhone 17 的容量、配色、人民币报价及具体购买选择；所选地区交付另核，制造地不由销售渠道推断。",
           "sourceIds": [
             "product-apple-iphone-17"
           ]
@@ -6842,7 +7062,7 @@
       "admission": {
         "chinaSale": {
           "status": "supported",
-          "detail": "Apple 中国大陆商店当前可核 13 英寸 M5、天蓝色、16GB/512GB 配置的购买页面；具体地区交付时间另核。",
+          "detail": "Apple 中国大陆商店有此 13 英寸 M5、16GB/512GB、天蓝色配置的报价和购买页；具体地区交付另核。",
           "sourceIds": [
             "product-apple-macbook-air-13-m5"
           ]
@@ -6887,7 +7107,7 @@
       "admission": {
         "chinaSale": {
           "status": "supported",
-          "detail": "Apple 中国大陆商店当前列出 A16 iPad 的容量和连接方式购买选择；制造地仍按具体设备核查。",
+          "detail": "Apple 中国大陆商店有 A16 iPad 的容量、连接方式、人民币报价及购买选择；地区供货及设备制造地分别核验。",
           "sourceIds": [
             "product-apple-ipad-a16"
           ]
@@ -7331,7 +7551,7 @@
       "admission": {
         "chinaSale": {
           "status": "supported",
-          "detail": "雅高中国页面提供该酒店住宿及餐饮服务的预订联系入口。",
+          "detail": "官方酒店页有酒店编号 7970 及对应客房的订房链接；支持海口住宿预订渠道，入住日期和房态另核，不扩展到餐饮。",
           "sourceIds": [
             "sofitel-haikou-services"
           ]
@@ -7372,7 +7592,7 @@
       "relationshipSourceIds": [
         "sofitel-haikou-services"
       ],
-      "market": "限海口索菲特乐轩华；菜单与开放时间以酒店为准。",
+      "market": "已核乐轩华餐厅介绍，但客房预订链接不证明餐厅餐位或具体餐品可售；餐厅专属预订待补。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -7380,8 +7600,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "雅高中国页面提供该酒店住宿及餐饮服务的预订联系入口。",
+          "status": "pending",
+          "detail": "已核乐轩华餐厅介绍，但客房预订链接不证明餐厅餐位或具体餐品可售；餐厅专属预订待补。",
           "sourceIds": [
             "sofitel-haikou-services"
           ]
@@ -7421,7 +7641,7 @@
       "relationshipSourceIds": [
         "sofitel-haikou-services"
       ],
-      "market": "限海口索菲特锦厨；不同餐期的内容以酒店为准。",
+      "market": "已核锦厨自助餐厅介绍，尚未对应日期、餐段或餐券；不能沿用酒店客房的预订依据。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -7429,8 +7649,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "雅高中国页面提供该酒店住宿及餐饮服务的预订联系入口。",
+          "status": "pending",
+          "detail": "已核锦厨自助餐厅介绍，尚未对应日期、餐段或餐券；不能沿用酒店客房的预订依据。",
           "sourceIds": [
             "sofitel-haikou-services"
           ]
@@ -7642,7 +7862,7 @@
       "relationshipSourceIds": [
         "product-yili-zhennong-pure-milk"
       ],
-      "market": "伊利大陆官网“臻浓金装纯牛奶”产品条目直接配置此图片。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "官网资料可识别 250mL 产品，本轮直连受限；没有对应当前大陆直接零售，不能凭官网图片判定可售。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/yili-zhennong-pure-milk.webp",
       "imageMode": "contain",
@@ -7650,8 +7870,8 @@
       "imageRights": "内蒙古伊利实业集团股份有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "伊利大陆官网“臻浓金装纯牛奶”产品条目直接配置此图片。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "官网资料可识别 250mL 产品，本轮直连受限；没有对应当前大陆直接零售，不能凭官网图片判定可售。",
           "sourceIds": [
             "product-yili-zhennong-pure-milk"
           ]
@@ -7687,7 +7907,7 @@
       "relationshipSourceIds": [
         "product-deli-vp481m-eraser"
       ],
-      "market": "得力大陆官网产品列表返回该名称、商品编号及图片，详情页链接对应同一产品。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "已核型号的官网资料，当前直接零售渠道尚未对应；官网访问受限不作为下架结论。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/deli-vp481m-eraser.webp",
       "imageMode": "contain",
@@ -7695,8 +7915,8 @@
       "imageRights": "得力集团有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "得力大陆官网产品列表返回该名称、商品编号及图片，详情页链接对应同一产品。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "已核型号的官网资料，当前直接零售渠道尚未对应；官网访问受限不作为下架结论。",
           "sourceIds": [
             "product-deli-vp481m-eraser"
           ]
@@ -7732,7 +7952,7 @@
       "relationshipSourceIds": [
         "product-haday-gold-label-soy-sauce"
       ],
-      "market": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "官方产品橱窗可核 500mL，尚未补到同规格的当前直接销售渠道。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/haday-gold-label-soy-sauce.webp",
       "imageMode": "contain",
@@ -7740,8 +7960,8 @@
       "imageRights": "佛山市海天调味食品股份有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "官方产品橱窗可核 500mL，尚未补到同规格的当前直接销售渠道。",
           "sourceIds": [
             "product-haday-gold-label-soy-sauce"
           ]
@@ -7779,7 +7999,7 @@
       "relationshipSourceIds": [
         "product-haday-aged-vinegar"
       ],
-      "market": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "官方产品橱窗可核 450mL，尚未补到同规格的当前直接销售渠道。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/haday-aged-vinegar.webp",
       "imageMode": "contain",
@@ -7787,8 +8007,8 @@
       "imageRights": "佛山市海天调味食品股份有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "官方产品橱窗可核 450mL，尚未补到同规格的当前直接销售渠道。",
           "sourceIds": [
             "product-haday-aged-vinegar"
           ]
@@ -7823,7 +8043,7 @@
       "relationshipSourceIds": [
         "product-haday-gold-label-oyster-sauce"
       ],
-      "market": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "官方产品橱窗可核 635g，尚未补到同规格的当前直接销售渠道。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/haday-gold-label-oyster-sauce.webp",
       "imageMode": "contain",
@@ -7831,8 +8051,8 @@
       "imageRights": "佛山市海天调味食品股份有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "官方产品橱窗可核 635g，尚未补到同规格的当前直接销售渠道。",
           "sourceIds": [
             "product-haday-gold-label-oyster-sauce"
           ]
@@ -7868,7 +8088,7 @@
       "relationshipSourceIds": [
         "product-deli-pe148-folder"
       ],
-      "market": "得力大陆官网产品分类接口中的名称、型号、图片和详情页精确对应。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "PE148 官网目录可识别产品，尚未取得同规格直接零售及可售依据。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/deli-pe148-folder.webp",
       "imageMode": "contain",
@@ -7876,8 +8096,8 @@
       "imageRights": "得力集团有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "得力大陆官网产品分类接口中的名称、型号、图片和详情页精确对应。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "PE148 官网目录可识别产品，尚未取得同规格直接零售及可售依据。",
           "sourceIds": [
             "product-deli-pe148-folder"
           ]
@@ -7914,7 +8134,7 @@
       "relationshipSourceIds": [
         "product-deli-zf7774-a4-paper"
       ],
-      "market": "得力大陆官网产品分类条目名称、型号、配图及详情页直接对应。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "官网物料可识别 ZF7774-10，产品目录未对应当前零售规格和库存。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/deli-zf7774-a4-paper.webp",
       "imageMode": "contain",
@@ -7922,8 +8142,8 @@
       "imageRights": "得力集团有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "得力大陆官网产品分类条目名称、型号、配图及详情页直接对应。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "官网物料可识别 ZF7774-10，产品目录未对应当前零售规格和库存。",
           "sourceIds": [
             "product-deli-zf7774-a4-paper"
           ]
@@ -7960,7 +8180,7 @@
       "relationshipSourceIds": [
         "product-septwolves-carrier-jacket"
       ],
-      "market": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "品牌展示页及通用商城入口没有对应这款夹克的货号、尺码和当前售卖记录。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/septwolves-carrier-jacket.webp",
       "imageMode": "contain",
@@ -7968,8 +8188,8 @@
       "imageRights": "福建七匹狼实业股份有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "品牌展示页及通用商城入口没有对应这款夹克的货号、尺码和当前售卖记录。",
           "sourceIds": [
             "product-septwolves-carrier-jacket"
           ]
@@ -8006,7 +8226,7 @@
       "relationshipSourceIds": [
         "product-septwolves-supercar-jacket"
       ],
-      "market": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "品牌展示页及通用商城入口没有对应这款夹克的货号、尺码和当前售卖记录。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/septwolves-supercar-jacket.webp",
       "imageMode": "contain",
@@ -8014,8 +8234,8 @@
       "imageRights": "福建七匹狼实业股份有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "品牌展示页及通用商城入口没有对应这款夹克的货号、尺码和当前售卖记录。",
           "sourceIds": [
             "product-septwolves-supercar-jacket"
           ]
@@ -8037,30 +8257,32 @@
     },
     {
       "id": "honor-600",
-      "name": "荣耀 600 超级版",
+      "name": "荣耀600 超级版（12GB/512GB）",
       "brand": "荣耀",
       "companyId": "honor",
       "category": "electronics",
-      "description": "中国大陆官网展示的智能手机。",
+      "description": "官方商城对应 12GB/512GB、幸运星配色、双卡全网通，商品编码 10001030032906。",
       "tags": [
         "手机",
         "智能手机"
       ],
-      "url": "https://www.honor.com/cn/phones/honor-600/",
+      "url": "https://www.honor.com/cn/shop/product/10086616452914.html",
       "relationshipSourceIds": [
-        "product-honor-600"
+        "product-honor-600",
+        "honor-600-shop"
       ],
-      "market": "荣耀中国大陆官网 /cn/ 的荣耀600产品页；有购买渠道入口。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
-      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "market": "已补官方商城 12GB/512GB 具体配置和商品编码，动态价格、可售状态与地区配送仍待核。",
+      "relationship": "官方产品页链接到同款商城记录，已核容量及商品编码；现有配图为官网产品宣传图，制造地仍须对应设备批次。",
       "image": "images/honor-600.webp",
       "imageMode": "contain",
       "imageSource": "https://www-file.honor.com/content/dam/honor/cn/product/smartphone/honor-600/product/imgs/section-kv/honor600series-kv-bg%402x.jpg",
       "imageRights": "HONOR 及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "荣耀中国大陆官网 /cn/ 的荣耀600产品页；有购买渠道入口。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "已补官方商城 12GB/512GB 具体配置和商品编码，动态价格、可售状态与地区配送仍待核。",
           "sourceIds": [
+            "honor-600-shop",
             "product-honor-600"
           ]
         },
@@ -8095,7 +8317,7 @@
       "relationshipSourceIds": [
         "product-laoxiangji-hen-soup"
       ],
-      "market": "品牌官网介绍中国大陆门店，并列出该菜品。具体门店、价格与当日供应未核实。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "官网菜单列此汤品，未对应实际门店、餐段及可下单记录；通用门店介绍不足以确认。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/laoxiangji-hen-soup.webp",
       "imageMode": "contain",
@@ -8103,8 +8325,8 @@
       "imageRights": "安徽老乡鸡餐饮有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "品牌官网介绍中国大陆门店，并列出该菜品。具体门店、价格与当日供应未核实。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "官网菜单列此汤品，未对应实际门店、餐段及可下单记录；通用门店介绍不足以确认。",
           "sourceIds": [
             "product-laoxiangji-hen-soup"
           ]
@@ -8140,7 +8362,7 @@
       "relationshipSourceIds": [
         "product-shuanghui-wangzhongwang-children-sausage"
       ],
-      "market": "双汇大陆官网视频中心标注“王中王儿童肠”，官网链接双汇商城。未核实时点库存。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "market": "官网视频及通用商城入口仅提供产品线索，准确包装规格和当前直接商品订单待补。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/shuanghui-wangzhongwang-children-sausage.webp",
       "imageMode": "contain",
@@ -8148,8 +8370,8 @@
       "imageRights": "双汇及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "双汇大陆官网视频中心标注“王中王儿童肠”，官网链接双汇商城。未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "status": "pending",
+          "detail": "官网视频及通用商城入口仅提供产品线索，准确包装规格和当前直接商品订单待补。",
           "sourceIds": [
             "product-shuanghui-wangzhongwang-children-sausage"
           ]
@@ -8183,7 +8405,7 @@
       "relationshipSourceIds": [
         "product-yadea-guanneng-3m9"
       ],
-      "market": "雅迪中国大陆官网参数页标明冠能3 M9旅行版 YD1200DB-E，配有线上商城二维码；未核实时点库存。 官网资料不能替代实时购买渠道核对。",
+      "market": "官网提供车型资料与通用销售入口，尚未核实旅行版 YD1200DB-E 在具体门店的现售记录。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/yadea-guanneng-3m9.webp",
       "imageMode": "contain",
@@ -8191,8 +8413,8 @@
       "imageRights": "雅迪及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "雅迪大陆官网型号页列明冠能 3 M9 旅行版 YD1200DB-E，提供官方商城入口；门店现货和地区销售政策另核。",
+          "status": "pending",
+          "detail": "官网提供车型资料与通用销售入口，尚未核实旅行版 YD1200DB-E 在具体门店的现售记录。",
           "sourceIds": [
             "product-yadea-guanneng-3m9"
           ]
@@ -8228,7 +8450,7 @@
       "relationshipSourceIds": [
         "product-forever-ruiying80"
       ],
-      "market": "永久大陆官网具体车型页列出锐影80规格、人民币指导零售价与线下门店入口；未核实时点库存。 官网资料不能替代实时购买渠道核对。",
+      "market": "官方车型展示和门店入口没有对应锐影 80 的当前直接销售结果；车架规格及门店库存待核。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/forever-ruiying80.webp",
       "imageMode": "contain",
@@ -8236,8 +8458,8 @@
       "imageRights": "中路股份有限公司（原上海永久股份有限公司）及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "永久大陆官网具体车型页列出锐影 80 的规格、官方销售及门店入口；地区库存另核。",
+          "status": "pending",
+          "detail": "官方车型展示和门店入口没有对应锐影 80 的当前直接销售结果；车架规格及门店库存待核。",
           "sourceIds": [
             "product-forever-ruiying80"
           ]
@@ -8273,7 +8495,7 @@
       "relationshipSourceIds": [
         "product-luckin-coconut-latte"
       ],
-      "market": "瑞幸中国大陆官网产品菜单，页脚服务法人瑞幸咖啡（北京）有限公司，并提供中国大陆 APP/小程序渠道。具体门店当日供应未核实。 官网资料不能替代实时购买渠道核对。",
+      "market": "官网菜单及通用 APP、小程序渠道尚未对应具体门店、生椰拿铁规格和当日可下单情况。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/luckin-coconut-latte.webp",
       "imageMode": "contain",
@@ -8281,8 +8503,8 @@
       "imageRights": "瑞幸咖啡及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "瑞幸大陆官网菜单列有生椰拿铁，并提供大陆 APP、小程序渠道；供应范围与门店当日库存另核。",
+          "status": "pending",
+          "detail": "官网菜单及通用 APP、小程序渠道尚未对应具体门店、生椰拿铁规格和当日可下单情况。",
           "sourceIds": [
             "product-luckin-coconut-latte"
           ]
@@ -8317,7 +8539,7 @@
       "relationshipSourceIds": [
         "product-xiaomi-17"
       ],
-      "market": "小米中国大陆官网产品页，public product_info 显示 product_id 21931、名称 Xiaomi 17、is_enable 为 true、购买入口至 /shop/buy/detail?product_id=21931；未核实时点库存。 官网资料不能替代实时购买渠道核对。",
+      "market": "可读页面有 Xiaomi 17 产品资料，但本次未取得同型号有效直接购买链接；相邻新机型不能替代。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/xiaomi-17.webp",
       "imageMode": "contain",
@@ -8325,8 +8547,8 @@
       "imageRights": "小米及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "小米大陆官网具体产品资料提供 Xiaomi 17 的官方购买入口；地区库存、交付配置和制造地另核。",
+          "status": "pending",
+          "detail": "可读页面有 Xiaomi 17 产品资料，但本次未取得同型号有效直接购买链接；相邻新机型不能替代。",
           "sourceIds": [
             "product-xiaomi-17"
           ]
@@ -8364,7 +8586,7 @@
         "product-kailan-bread-flour-1kg",
         "kailan-products"
       ],
-      "market": "中国大陆厂家官网提供家庭装和联系订购入口；购买前确认当前规格与供货。",
+      "market": "制造商列 1kg 面包粉及联系渠道，尚未核实面向个人消费者的直接零售、起订量和当前供货。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/kailan-bread-flour-1kg.webp",
       "imageMode": "contain",
@@ -8372,8 +8594,8 @@
       "imageRights": "广东开兰面粉有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "国内制造商官网列出该家庭装规格及联系订购渠道，具体地区库存须另确认。",
+          "status": "pending",
+          "detail": "制造商列 1kg 面包粉及联系渠道，尚未核实面向个人消费者的直接零售、起订量和当前供货。",
           "sourceIds": [
             "product-kailan-bread-flour-1kg"
           ]
@@ -8414,7 +8636,7 @@
         "product-kailan-dumpling-flour-1kg",
         "kailan-products"
       ],
-      "market": "中国大陆厂家官网提供家庭装和联系订购入口；购买前确认当前规格与供货。",
+      "market": "制造商列 1kg 饺子粉及联系渠道，尚未核实面向个人消费者的直接零售、起订量和当前供货。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/kailan-dumpling-flour-1kg.webp",
       "imageMode": "contain",
@@ -8422,8 +8644,8 @@
       "imageRights": "广东开兰面粉有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "国内制造商官网列出该家庭装规格及联系订购渠道，具体地区库存须另确认。",
+          "status": "pending",
+          "detail": "制造商列 1kg 饺子粉及联系渠道，尚未核实面向个人消费者的直接零售、起订量和当前供货。",
           "sourceIds": [
             "product-kailan-dumpling-flour-1kg"
           ]
@@ -8464,7 +8686,7 @@
         "product-kailan-cake-flour-1kg",
         "kailan-products"
       ],
-      "market": "中国大陆厂家官网提供家庭装和联系订购入口；购买前确认当前规格与供货。",
+      "market": "制造商列 1kg 糕点粉及联系渠道，尚未核实面向个人消费者的直接零售、起订量和当前供货。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/kailan-cake-flour-1kg.webp",
       "imageMode": "contain",
@@ -8472,8 +8694,8 @@
       "imageRights": "广东开兰面粉有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "国内制造商官网列出该家庭装规格及联系订购渠道，具体地区库存须另确认。",
+          "status": "pending",
+          "detail": "制造商列 1kg 糕点粉及联系渠道，尚未核实面向个人消费者的直接零售、起订量和当前供货。",
           "sourceIds": [
             "product-kailan-cake-flour-1kg"
           ]
@@ -8514,7 +8736,7 @@
         "product-kailan-yam-noodles",
         "kailan-products"
       ],
-      "market": "中国大陆厂家官网提供家庭装和联系订购入口；购买前确认当前规格与供货。",
+      "market": "制造商列 1.2kg 淮山面及联系渠道，尚未核实面向个人消费者的直接零售、起订量和当前供货。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -8522,8 +8744,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "国内制造商官网列出该家庭装规格及联系订购渠道，具体地区库存须另确认。",
+          "status": "pending",
+          "detail": "制造商列 1.2kg 淮山面及联系渠道，尚未核实面向个人消费者的直接零售、起订量和当前供货。",
           "sourceIds": [
             "product-kailan-yam-noodles"
           ]
@@ -8563,7 +8785,7 @@
       "relationshipSourceIds": [
         "guangzhonghuang-products"
       ],
-      "market": "官网主推产品合照左上红盖瓶为本条，另有其他商品；官网链接大陆电商渠道，库存另核。",
+      "market": "官网展示 328g 微辣腐乳，通用电商入口未对应当前同规格直接商品订单。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/guangzhonghuang-fermented-tofu-mild-328g.webp",
       "imageMode": "contain",
@@ -8571,8 +8793,8 @@
       "imageRights": "佛山市海天调味食品股份有限公司、广东广中皇食品有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "官网展示此规格并链接大陆官方电商渠道，具体库存另核。",
+          "status": "pending",
+          "detail": "官网展示 328g 微辣腐乳，通用电商入口未对应当前同规格直接商品订单。",
           "sourceIds": [
             "guangzhonghuang-products"
           ]
@@ -8612,7 +8834,7 @@
         "yanghe-haizhilan-product",
         "yanghe-sales"
       ],
-      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "market": "已核官方 42%vol、480mL 产品与通用购买渠道，尚未锁定同规格当前直接商品订单。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/yanghe-haizhilan-42-480.webp",
       "imageMode": "contain",
@@ -8620,8 +8842,8 @@
       "imageRights": "江苏洋河酒厂股份有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "status": "pending",
+          "detail": "已核官方 42%vol、480mL 产品与通用购买渠道，尚未锁定同规格当前直接商品订单。",
           "sourceIds": [
             "yanghe-haizhilan-product",
             "yanghe-sales"
@@ -8672,7 +8894,7 @@
       "admission": {
         "chinaSale": {
           "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "detail": "官网列 2026 款 530km 启航版的具体销售报价及定购入口；仅支持车型销售渠道，具体门店库存和交付条件另核。",
           "sourceIds": [
             "geely-e5-product"
           ]
@@ -8710,7 +8932,7 @@
       "relationshipSourceIds": [
         "sundaily-omega-product"
       ],
-      "market": "采用官方儿童包装版本；包装营养字样仅作识别，不表示本站作出健康或营养比较结论。",
+      "market": "官网可核 20 枚 / 1000g，通用电商入口未对应同款直接商品及当前地区配送。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/sundaily-omega3-eggs20.webp",
       "imageMode": "contain",
@@ -8718,8 +8940,8 @@
       "imageRights": "圣迪乐及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "status": "pending",
+          "detail": "官网可核 20 枚 / 1000g，通用电商入口未对应同款直接商品及当前地区配送。",
           "sourceIds": [
             "sundaily-omega-product"
           ]
@@ -8803,7 +9025,7 @@
         "jiashili-breakfast-product",
         "jiashili-factories"
       ],
-      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "market": "已有 800g 官方展示资料，本轮直连受限；具体包装当前零售待补，不据访问失败判断停产。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -8811,8 +9033,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "status": "pending",
+          "detail": "已有 800g 官方展示资料，本轮直连受限；具体包装当前零售待补，不据访问失败判断停产。",
           "sourceIds": [
             "jiashili-breakfast-product",
             "jiashili-factories"
@@ -8834,39 +9056,45 @@
     },
     {
       "id": "mg-k35-gel-pen",
-      "name": "K35 按动中性笔",
+      "name": "K35 按动中性笔（黑色 0.5mm / 12支）",
       "brand": "晨光",
       "companyId": "mg",
       "category": "stationery",
-      "description": "日常书写用的 K35 型号按动中性笔。",
+      "description": "经典 K35 按动中性笔，黑色、0.5mm 子弹头、12 支装；资料图展示笔杆按压结构局部。",
       "tags": [
         "中性笔"
       ],
       "needs": [
         "中性笔"
       ],
-      "url": "https://www.mg-pen.com/zycp/list.aspx?lcid=38&sub=36",
+      "url": "https://product.suning.com/0000000000/12447132783.html",
       "relationshipSourceIds": [
-        "mg-k35-product"
+        "mg-k35-product",
+        "mg-k35-suning",
+        "mg-k35-spec-image"
       ],
-      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
-      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
-      "image": null,
-      "imageMode": "typography",
-      "imageSource": null,
-      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "market": "已补苏宁同款黑色 0.5mm、12 支装直接商品资料，现时库存和地区配送仍待核。",
+      "relationship": "品牌官网列 K35，苏宁同款标题与清晰规格图确认黑色 0.5mm、12 支装；使用原站局部详情图，当前制造背标待核。",
+      "image": "images/mg-k35-gel-pen.webp",
+      "imageMode": "contain",
+      "imageSource": "https://uimgproxy.suning.cn/uimg1/sop/commodity/eXanpLZM2CE3DUIkm5E0RA.jpg",
+      "imageRights": "晨光品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "status": "pending",
+          "detail": "已补苏宁同款黑色 0.5mm、12 支装直接商品资料，现时库存和地区配送仍待核。",
           "sourceIds": [
-            "mg-k35-product"
+            "mg-k35-suning",
+            "mg-k35-spec-image"
           ]
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "尚需把当前具体规格、批次与中国境内生产厂或实际服务团队对应；不按品牌国别推断。",
-          "sourceIds": []
+          "detail": "商品图可核品牌、型号和规格，但没有可读制造法人、厂址或产地背标；不以晨光品牌推断。",
+          "sourceIds": [
+            "mg-k35-suning",
+            "mg-k35-spec-image"
+          ]
         },
         "productionLabor": {
           "status": "pending",
@@ -8880,11 +9108,11 @@
     },
     {
       "id": "lenovo-xiaoxin-pro14-2025-1044736",
-      "name": "小新 Pro14 2025款（官网货号1044736）",
+      "name": "小新 Pro14 2025（Core 5-220H / 24GB / 1TB）",
       "brand": "联想",
       "companyId": "lenovo",
       "category": "electronics",
-      "description": "14 英寸笔记本电脑，西子绿；配置以对应官网货号为准。",
+      "description": "西子绿 14 英寸笔记本，官网货号 1044736；参数型号小新 Pro 14c IRH10R，24GB DDR5、1TB SSD。",
       "tags": [
         "笔记本"
       ],
@@ -8895,16 +9123,16 @@
       "relationshipSourceIds": [
         "lenovo-xiaoxin-product"
       ],
-      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
-      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "market": "已核官网货号 1044736 的 Core 5-220H、24GB/1TB 配置，但动态价格与库存待核；页面模板不作为下架或有货结论。",
+      "relationship": "联想中国商城货号 1044736 的主标题及配置表可核 CPU、内存和硬盘；具体制造工厂与设备批次待核。",
       "image": null,
       "imageMode": "typography",
       "imageSource": null,
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "status": "pending",
+          "detail": "已核官网货号 1044736 的 Core 5-220H、24GB/1TB 配置，但动态价格与库存待核；页面模板不作为下架或有货结论。",
           "sourceIds": [
             "lenovo-xiaoxin-product"
           ]
@@ -8940,7 +9168,7 @@
         "cofco-oils-products",
         "cofco-fulinmen-brand"
       ],
-      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "market": "中粮产品目录提供 5L 花生油及全渠道线索，尚未对应当前同规格直接零售订单；目录不等于库存。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -8948,8 +9176,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "status": "pending",
+          "detail": "中粮产品目录提供 5L 花生油及全渠道线索，尚未对应当前同规格直接零售订单；目录不等于库存。",
           "sourceIds": [
             "cofco-oils-products",
             "cofco-fulinmen-brand"
@@ -8988,7 +9216,7 @@
         "cofco-oils-products",
         "cofco-fulinmen-brand"
       ],
-      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "market": "中粮产品目录提供 5L 玉米油及全渠道线索，尚未对应当前同规格直接零售订单；目录不等于库存。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -8996,8 +9224,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "status": "pending",
+          "detail": "中粮产品目录提供 5L 玉米油及全渠道线索，尚未对应当前同规格直接零售订单；目录不等于库存。",
           "sourceIds": [
             "cofco-oils-products",
             "cofco-fulinmen-brand"
@@ -9036,7 +9264,7 @@
         "cofco-oils-products",
         "cofco-fulinmen-brand"
       ],
-      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "market": "中粮产品目录提供 5L 菜籽油及全渠道线索，尚未对应当前同规格直接零售订单；目录不等于库存。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -9044,8 +9272,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "status": "pending",
+          "detail": "中粮产品目录提供 5L 菜籽油及全渠道线索，尚未对应当前同规格直接零售订单；目录不等于库存。",
           "sourceIds": [
             "cofco-oils-products",
             "cofco-fulinmen-brand"
@@ -9082,7 +9310,7 @@
       "relationshipSourceIds": [
         "lkk-fortune-oyster"
       ],
-      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "market": "官方厨师产品页可核 907g 财神蚝油，展示及菜谱资料没有对应当前直接商品订单。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -9090,8 +9318,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "status": "pending",
+          "detail": "官方厨师产品页可核 907g 财神蚝油，展示及菜谱资料没有对应当前直接商品订单。",
           "sourceIds": [
             "lkk-fortune-oyster"
           ]
@@ -9125,7 +9353,7 @@
       "needs": [
         "景区"
       ],
-      "url": "http://www.qingmings.com/shop_list.php?cid=1",
+      "url": "http://www.qingmings.com/shop_info.php?softid=1",
       "relationshipSourceIds": [
         "qingming-official",
         "qingming-ticket-booking"
@@ -9139,7 +9367,7 @@
       "admission": {
         "chinaSale": {
           "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "detail": "景区官网全价票详情提供实名分时预约购票二维码；支持该景区的官方入园票渠道，具体日期和票额另核。",
           "sourceIds": [
             "qingming-official",
             "qingming-ticket-booking"
@@ -9177,7 +9405,7 @@
         "qingming-menghua",
         "qingming-official"
       ],
-      "market": "官网提供预订入口；不同日期、日夜场、演出席位与入园权益需按官方当日票务说明确认。",
+      "market": "官网可核演出名称，但通用预订入口未对应具体日期、场次和座席票；不能沿用普通入园票依据。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -9185,8 +9413,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "status": "pending",
+          "detail": "官网可核演出名称，但通用预订入口未对应具体日期、场次和座席票；不能沿用普通入园票依据。",
           "sourceIds": [
             "qingming-menghua",
             "qingming-official"
@@ -9229,7 +9457,7 @@
       "relationshipSourceIds": [
         "jingmen-mingting-project"
       ],
-      "market": "官网提供项目地址、户型和销售咨询入口；不转载可能变化的售价、剩余房源数量或购房资格结论。",
+      "market": "企业官网列约 112㎡ 现房，但页面未标更新时间，所列剩余数量不能当作当前库存；具体房号及现售条件待核。",
       "relationship": "所属企业官网明确开发主体为中房集团荆门公司；施工、分包及物业用工不由开发商的历史称号代替核查。",
       "image": null,
       "imageMode": "typography",
@@ -9237,8 +9465,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "所属企业官网列出约 112㎡ 高层现房及官方咨询入口；具体房号、当前库存、交付与购买条件由项目进一步确认。",
+          "status": "pending",
+          "detail": "企业官网列约 112㎡ 现房，但页面未标更新时间，所列剩余数量不能当作当前库存；具体房号及现售条件待核。",
           "sourceIds": [
             "jingmen-mingting-project"
           ]
@@ -9276,7 +9504,7 @@
       "relationshipSourceIds": [
         "product-purcotton-pearl-face-towel80"
       ],
-      "market": "图片与 P322030100003、200×200mm、80片/盒对应；制造商和厂址尚未从所见包装确认。",
+      "market": "官网可核此 80 片物料，通用门店查询未对应同款当前直接销售结果。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/purcotton-pearl-face-towel80.webp",
       "imageMode": "contain",
@@ -9284,8 +9512,8 @@
       "imageRights": "深圳全棉时代科技有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "大陆品牌官网可核此物料号并提供门店查询；具体门店和当前库存另核。",
+          "status": "pending",
+          "detail": "官网可核此 80 片物料，通用门店查询未对应同款当前直接销售结果。",
           "sourceIds": [
             "product-purcotton-pearl-face-towel80",
             "purcotton-brand"
@@ -9326,7 +9554,7 @@
       "relationshipSourceIds": [
         "product-purcotton-toilet-wipes8x10"
       ],
-      "market": "图片展示组合内的 8 片小包装；整袋 10 包，组合规格由官网正文确认。",
+      "market": "官网可核 8 片×10 包物料，通用门店查询未对应同款当前直接销售结果。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": "images/purcotton-toilet-wipes8x10.webp",
       "imageMode": "contain",
@@ -9334,8 +9562,8 @@
       "imageRights": "深圳全棉时代科技有限公司及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "大陆品牌官网可核此物料号并提供门店查询；具体门店和当前库存另核。",
+          "status": "pending",
+          "detail": "官网可核 8 片×10 包物料，通用门店查询未对应同款当前直接销售结果。",
           "sourceIds": [
             "product-purcotton-toilet-wipes8x10",
             "purcotton-brand"
@@ -9378,7 +9606,7 @@
       "relationshipSourceIds": [
         "product-purcotton-ningxia-bedding"
       ],
-      "market": "按厂家具体规格与物料号核对；地区库存、售后和现货由官方渠道另行确认。",
+      "market": "官网可核 PBT221035UD06150，通用门店查询未对应该规格当前直接销售结果。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -9386,8 +9614,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "大陆品牌官网可核此物料号并提供门店查询；具体门店和当前库存另核。",
+          "status": "pending",
+          "detail": "官网可核 PBT221035UD06150，通用门店查询未对应该规格当前直接销售结果。",
           "sourceIds": [
             "product-purcotton-ningxia-bedding",
             "purcotton-brand"
@@ -9428,7 +9656,7 @@
       "relationshipSourceIds": [
         "product-purcotton-six-layer-towel"
       ],
-      "market": "按厂家具体规格与物料号核对；地区库存、售后和现货由官方渠道另行确认。",
+      "market": "官网可核此 80×140cm 浴巾，通用门店查询未对应同款当前直接销售结果。",
       "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
       "image": null,
       "imageMode": "typography",
@@ -9436,8 +9664,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "大陆品牌官网可核此物料号并提供门店查询；具体门店和当前库存另核。",
+          "status": "pending",
+          "detail": "官网可核此 80×140cm 浴巾，通用门店查询未对应同款当前直接销售结果。",
           "sourceIds": [
             "product-purcotton-six-layer-towel",
             "purcotton-brand"
@@ -9560,11 +9788,11 @@
     },
     {
       "id": "deli-25996-notebook",
-      "name": "25996 B5 备考活页本",
+      "name": "25996 B5 备考活页本（60张 / 1本）",
       "brand": "得力",
       "companyId": "deli",
       "category": "stationery",
-      "description": "物料编码 100152441；B5 活页笔记本。",
+      "description": "物料编码 100152441；B5 活页笔记本，封面可读 60 张，最小销售单位为一本。",
       "tags": [
         "本子"
       ],
@@ -9575,16 +9803,16 @@
       "relationshipSourceIds": [
         "product-deli-25996-notebook"
       ],
-      "market": "按厂家具体规格与物料号核对；地区库存、售后和现货由官方渠道另行确认。",
-      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
-      "image": null,
-      "imageMode": "typography",
-      "imageSource": null,
-      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "market": "官网已核准确物料、规格及图片；商品展示页没有核实当前直接零售库存。",
+      "relationship": "官网物料 100152441 与主图 NO.25996、B5、60 张一致；配图并列封面设计，不代表四本装，制造背标仍缺。",
+      "image": "images/deli-25996-notebook.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.nbdeli.com/bocupload/product/100152441/1.jpg",
+      "imageRights": "得力品牌及原商品图相关权利人；来源为得力集团官网，确切图片著作权法人未另核",
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "官网检索缓存可核型号，但当前直连未成功，现售渠道需补核。",
+          "detail": "本轮已成功核对官网准确物料及图片；这是产品目录，仍需补当前直接销售渠道。",
           "sourceIds": [
             "product-deli-25996-notebook"
           ]
@@ -10561,6 +10789,109 @@
           ]
         }
       }
+    },
+    {
+      "id": "dareworks-taiyi-dm011-f",
+      "name": "太一钢笔 DM011-F（F尖 0.5mm）",
+      "brand": "逗万",
+      "companyId": "simao",
+      "category": "stationery",
+      "description": "磁吸笔帽钢笔，展品规格为 F 尖、书写 0.5mm；图示四种配色，不表示四支装。",
+      "tags": [
+        "钢笔",
+        "DM011-F",
+        "0.5mm"
+      ],
+      "needs": [
+        "钢笔"
+      ],
+      "url": "https://www.chinastationeryfair.com/exhibition/goods/7150.html",
+      "relationshipSourceIds": [
+        "dareworks-dm011-f-product",
+        "dareworks-exhibitor"
+      ],
+      "market": "中国境内展会平台的准确型号资料，价格面议；大陆直接零售和当前库存待核。",
+      "relationship": "展品列于东莞司贸参展主体，配图来自同页附件；尚未取得当前零售包装制造商与产线对应。",
+      "image": "images/dareworks-taiyi-dm011-f.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.chinastationeryfair.com/ueditor/php/upload/file/20250513/1747108183358494.png",
+      "imageRights": "逗万DareWorks品牌、参展企业东莞司贸文教赠品有限公司及原图相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核展品 DM011-F，页面仅提供面议及咨询；当前大陆消费者的直接购买渠道待补。",
+          "sourceIds": [
+            "dareworks-dm011-f-product"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "展商是东莞法人，但当前包装制造厂、笔尖来源和实际批次待核；联系地址不作为制造标签。",
+          "sourceIds": [
+            "dareworks-exhibitor",
+            "dareworks-dm011-f-product"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "招聘简介的五天八小时双休与产线加班并存，岗位已过期，尚未取得此款实际生产工时及休息记录。",
+          "sourceIds": [
+            "simao-production-hiring-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "comix-b3252-ruler40",
+      "name": "B3252 透明直尺 40cm（1把）",
+      "brand": "齐心",
+      "companyId": "comix",
+      "category": "stationery",
+      "description": "办公测量用 40cm 透明直尺，具体型号 B3252；历史采购合同列 1 把装。",
+      "tags": [
+        "尺子",
+        "直尺",
+        "40cm"
+      ],
+      "needs": [
+        "尺子"
+      ],
+      "url": "https://zsemall.com/zsemall_frontend/todetail?productid=B611A4B8AFD5",
+      "relationshipSourceIds": [
+        "comix-b3252-procurement-2022",
+        "comix-b3252-zsemall"
+      ],
+      "market": "中盛云商列同型号 40cm 直尺，现时库存和地区配送待核；不暗示该平台获得品牌授权。",
+      "relationship": "历史采购合同和零售页均对应齐心 B3252，产地仅为地区字段，未锁定当前制造法人。",
+      "image": "images/comix-b3252-ruler40.webp",
+      "imageMode": "contain",
+      "imageSource": "https://zsemall.com/upload/product/20211029/447d481a-8193-45fe-8e28-d8055a643265_400px.jpg",
+      "imageRights": "齐心COMIX品牌、中盛云商商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "有大陆直接零售资料和 2022 年采购记录，当前库存与实际可配送范围仍待核。",
+          "sourceIds": [
+            "comix-b3252-zsemall",
+            "comix-b3252-procurement-2022"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "合同及平台产地标为中国或中国大陆，但缺少当前制造法人、厂址和批次背标。",
+          "sourceIds": [
+            "comix-b3252-procurement-2022",
+            "comix-b3252-zsemall"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "齐心集团员工及供应商准则尚未对应 B3252 制尺、包材和物流人员的实际履行。",
+          "sourceIds": [
+            "comix-esg-2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -11188,9 +11519,16 @@
           "query": "打印机"
         }
       ],
-      "note": "已对应得力自动铅笔、B5 活页本、省力订书机以及笔、纸、橡皮和文件夹。新增得力条目本次仅能读取官网缓存，当前销售和产线仍待核。尺子、书包和打印机待补。",
+      "note": "已补 DM011-F 钢笔和 B3252 40cm 直尺，文具资料覆盖 9 项细分需求；另核 K35 黑色 0.5mm / 12 支及得力 B5 60 张。司贸招聘的标准双休与产线加班需区分，齐心供应商准则未替代实际工时。当前零售和制造批次仍待核，书包、打印机继续查。",
       "sourceIds": [
-        "deli-campus-2025"
+        "deli-campus-2025",
+        "simao-production-hiring-2025",
+        "dareworks-dm011-f-product",
+        "comix-esg-2025",
+        "comix-b3252-procurement-2022",
+        "comix-b3252-zsemall",
+        "mg-k35-suning",
+        "product-deli-25996-notebook"
       ]
     },
     {

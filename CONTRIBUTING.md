@@ -26,6 +26,8 @@
 
 每项商品的 `admission.chinaSale`、`admission.chinaProduction`、`admission.productionLabor` 都须有独立说明和来源。未通过全部收录条件的资料只进入待核查区；未找到商品的细分需求保留在消费清单中。国内生产地不等于全体工人国籍证明，不收集工人的身份证件或个人国籍资料。
 
+大陆销售检查不能只依赖产品展示、通用商城或门店入口。需要对应具体型号、规格的销售报价与购买选择，或具体地点的预订渠道，并注明地区、日期及库存限制。直接商品页若缺少动态可售结果，继续标为待核；页面共存的下架、有货或预售模板都不是库存证据。访问受限也不表示商品已停产。参见 [2026-09-12 销售证据复核](docs/sales-evidence-review.md)。
+
 ## 修改数据
 
 编辑 `public/data/catalog.json` 中的 `sources`、`companies`、`products` 和 `coverage`。所有 ID 应唯一、稳定，引用必须能解析。图片需确认准确型号及来源，保留 `public/data/image-credits.json` 中的版权信息。海外型号不能因图片相似而通过大陆销售或境内生产检查；缺少准确图片可保留文字卡。
