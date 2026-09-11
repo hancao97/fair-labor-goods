@@ -3738,6 +3738,126 @@
       "checkedAt": "2026-09-12",
       "locator": "PDF 第 1 页表头、第 34 页第 477 项；已核原页",
       "type": "政府食品监督抽检原表"
+    },
+    {
+      "id": "wufeng-rice1kg-jd",
+      "title": "五丰江西细米粉 1kg：准确大陆零售卡片",
+      "publisher": "京东公开分类商品资料",
+      "url": "https://www.jd.com/chanpin/2650507.html",
+      "summary": "准确卡片为五丰江西米粉细粉 1kg，链接指向 100298544313；实际引用原图的宣传栏也写江西米粉、细米粉 1kg。",
+      "limitation": "直接数值详情页本次返回通用内容，未取得现时库存、制造背标或实际批次。原图仅 220×220，包装袋小字不能完整辨认；不合并银丝米粉、其他重量或搭配调料套装。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号 100298544313 的准确卡片、实际链接和对应原图；已核静态 HTML 与图片",
+      "type": "零售分类页的准确商品卡片"
+    },
+    {
+      "id": "wufeng-jiangxi-employer-profile",
+      "title": "江西五丰食品：米粉生产主体的企业介绍",
+      "publisher": "江西五丰食品有限公司 / 卓博人才网",
+      "url": "https://www.jobcn.com/position/home.xhtml?comId=112551817&redirect=0&s=page%2Fhome",
+      "summary": "企业介绍称生产、销售五丰等品牌米粉，列江西会昌城南街 168 号及与华润五丰的投资关系。",
+      "limitation": "招聘企业介绍发布日期未明，部分规模数据为历史自述；没有所选 1kg 包装或当前批次对应。页面底部工作日客服时间属于招聘平台，不能算作米粉厂工时。食品质量体系不是劳动认证。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "企业简介与地址；不采用页面底部卓博联系方式的客服作息",
+      "type": "招聘平台企业自述"
+    },
+    {
+      "id": "wufeng-huichang-jobs-2026jan",
+      "title": "会昌 2026 年 1 月招聘汇总：江西五丰操作岗位",
+      "publisher": "会昌县人民政府信息公开 / 会昌县就业之家",
+      "url": "https://www.huichang.gov.cn/hcxxxgk/jycyhcxz22/202603/35c4e7025db34291b6e1868c689154d5.shtml",
+      "summary": "政府公开表列江西五丰食品、会昌县环城南路、普工/操作工 5 人，薪资为计件；相邻研发员另列月薪。",
+      "limitation": "表头的“是”为是否能住宿，不是社保或双休。未披露周工时、休息、计件定额、实际加班和社保履行；研发薪资不套用操作工。已核公开网页正文，直接请求受限。页面生成日期为 2025-12-22，标题为 2026 年 1 月招聘，路径月份不作发布日期。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "网页生成日期、完整表头及江西五丰普工/操作工行；公开正文",
+      "type": "政府发布的招聘汇总公开文本"
+    },
+    {
+      "id": "wufeng-esg2024-index",
+      "title": "华润五丰 2024 报告：员工权益公开索引线索",
+      "publisher": "华润五丰有限公司",
+      "url": "https://www.nfh.com.hk/report/2025-11-05/7b3fc260-658f-4ae3-a877-7bb0352c78c0.pdf",
+      "summary": "报告员工权益部分的公开索引介绍劳动合同、社会保险、企业年金、休假及民主管理，属于集团层面的制度自述。",
+      "limitation": "此次只取得公开索引摘录，原 PDF 返回 404，未写成已下载或逐页核验。索引内容没有所选米粉产线的实际周工时和逐周休息；不从报告汇总指标、年假或五星报告评级推定工厂达标。2024 是报告期间，上传路径不作发布日期。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公开索引中印刷第 42—43 页“维护员工权益”“完善薪酬福利”；原 PDF 当前不可读",
+      "type": "企业报告公开索引，原文待复核"
+    },
+    {
+      "id": "jiayili-white454-jd",
+      "title": "佳一粒精幼白砂糖 454g：准确单包货号",
+      "publisher": "京东公开分类商品资料",
+      "url": "https://www.jd.com/jiage/1320731d2c6f131bc982.html",
+      "summary": "卡片链接 10047977738327 明确精幼白砂糖 454 克×1 包，所引用蓝白单袋图品名相符，图注为一包/454克。",
+      "limitation": "卡片中的精制级是等级用词，不改写商品品名。另一个货号 10182070435488 标题末尾与包装品名不一致，未采用。数值详情页仅返回通用内容，当前可售、制造背标及批次未知；220px 小图不用于猜读制造字段。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "准确货号 10047977738327 的卡片、实际链接与蓝白单包原图",
+      "type": "零售分类页的准确商品卡片"
+    },
+    {
+      "id": "jiayili-white454-jinjiang2024",
+      "title": "晋江抽检原表：佳一粒精幼白砂糖与南海嘉润",
+      "publisher": "晋江市市场监督管理局",
+      "url": "https://www.jinjiang.gov.cn/xxgk/zfxxgkzl/bmzfxxgk/scjdglj/zfxxgkml/202409/P020240902328923180858.pdf",
+      "summary": "2024 年上半年经营环节抽检表第 38 项列精幼白砂糖、佳一粒、454克/袋、生产日期 2023-11-15，生产企业为佛山市南海嘉润食品饮料有限公司，地址为里水镇得胜幸福新村南八巷八号；抽样日期 2024-05-22。",
+      "limitation": "已下载并目视原 PDF 第 6 页表头和第 38 项，纠正搜索摘要对品名、厂家和地址的误读。记录仅对应历史样品，不能锁定当前零售批次或原糖种植地；食品抽检不证明生产岗位劳动合规。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 6 页第 38 项及本页表头；已核原页",
+      "type": "政府食品监督抽检原表"
+    },
+    {
+      "id": "nanz-annual2024-labor",
+      "title": "南字科技 2024 年报：品牌、加工子公司与用工披露范围",
+      "publisher": "广东南字科技股份有限公司 / 公开披露文件",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202504291664553937_1.pdf?1745954423000.pdf=",
+      "summary": "第 7 页对应南字牌与佳一粒品牌，第 98 页列南海嘉润为全资加工、贸易子公司；第 25—26 页列公司及控股子公司员工，第 28 页的合同说明特指从集团转移的核心销售人员。",
+      "limitation": "第 26 页薪酬政策等说明栏写无，不能推定企业没有发工资或没有制度。年报未提供所选白糖加工、分装岗位的周工时、逐周休息及逐项劳动履行；销售人员合同不扩展为全厂验证。该文件报告期为 2024 年，未取得 2025 年完整年报，不把已读摘要当劳动报告。",
+      "publishedAt": "2025-04-29",
+      "checkedAt": "2026-09-12",
+      "locator": "原 PDF 第 7、25—26、28、98 页；第 26、28 页已目视",
+      "type": "上市挂牌企业年度报告"
+    },
+    {
+      "id": "qiaqia-organic-walnut500-jd",
+      "title": "洽洽有机核桃仁 500g/10袋：准确大陆货号",
+      "publisher": "京东公开分类商品资料",
+      "url": "https://www.jd.com/chanpin/2059203.html",
+      "summary": "卡片为洽洽有机核桃仁 500g/10袋，实际链接指向 100200778405，原始宣传图可读洽洽和有机核桃仁。",
+      "limitation": "总重与袋数来自准确卡片，220px 原图不能独立核对十袋总量或每袋净含量；不改写成包装背标已证明的 50g×10。当前可售、制造背标、原果产地和有机认证码均待核，原图促销价格不是本项目确认的现价。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号 100200778405 的准确卡片与对应原图；数值详情页仅返回通用内容",
+      "type": "零售分类页的准确商品卡片"
+    },
+    {
+      "id": "qiaqia-esg2025-labor",
+      "title": "洽洽 2025 ESG：多种工时制及员工权益自述",
+      "publisher": "洽洽食品股份有限公司 / 公开披露文件",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202604201821351898_1.pdf",
+      "summary": "报告按岗位性质实行多种工时制，介绍五险一金、休假及派遣管理；印刷第 65 页披露合同和社保覆盖率均为 100%，员工地域区分中国大陆与海外。供应商管理另列审核制度。",
+      "limitation": "企业汇总自述不等于独立验证，也不单列该款核桃仁工厂、班组与供应方。没有实际周工时和逐周休息记录；中国大陆员工统计不是国籍统计。供应商质量审核与职业健康体系不替代工资、工时、社保等劳动履行证据。",
+      "publishedAt": "2026-04-21",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 3、46、58—59、67 页（印刷 1、44、56—57、65）；第 58、67 页已目视",
+      "type": "企业环境社会治理报告"
+    },
+    {
+      "id": "qiaqia-yunnan-walnut-2026",
+      "title": "云南省提案答复：洽洽与云南核桃基地",
+      "publisher": "云南省投资促进局",
+      "url": "https://invest.yn.gov.cn/zwgk/fdzdgknr/jggk/rddbjyzxtablqk/202607/t20260709_3204803.html",
+      "summary": "答复介绍洽洽于 2022 年控股云核农业，在大理巍山、漾濞布局核桃基地；落款为 2026-04-03，网页发布于 2026-07-09。",
+      "limitation": "这是产业和基地关系说明，没有指定本款 500g/10袋的原果批次、精加工及包装工厂或用工记录。种植、初加工、成品加工分别核对，不由集团境内基地推定所有洽洽坚果国产。",
+      "publishedAt": "2026-07-09",
+      "checkedAt": "2026-09-12",
+      "locator": "第二部分第（一）项的洽洽段落、网页发布日期与答复落款",
+      "type": "政府提案答复"
     }
   ],
   "companies": [
@@ -8254,6 +8374,187 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "取得淮盐井矿盐现供实物背标及批号，核实具体制盐、包装及盐矿主体，再查当前班组工时、逐周休息、工资社保及外包履行。"
+    },
+    {
+      "id": "wufeng-jiangxi",
+      "name": "华润五丰 / 江西米粉生产线索",
+      "legalName": "江西五丰食品有限公司",
+      "location": "江西赣州会昌；企业介绍列城南街 168 号，2026 年招聘表列环城南路",
+      "origin": "china",
+      "originNote": "中国品牌和江西生产主体线索；具体商品的现供制造与原粮来源另核，不推定每名工人的国籍。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "已查会昌操作岗 · 实际工时与休息待核",
+      "scope": "江西五丰米粉生产主体及会昌操作岗位；华润五丰集团报告仅为制度线索，所选零售包装批次未锁定。",
+      "finding": "江西生产企业和计件操作工招聘可对应，但未披露产线周工时与每周休息。集团报告原文当前不可读，仅有权益制度公开索引；不能据此认定该款米粉达标。",
+      "caveats": [
+        "招聘平台客服工作时间不是企业工时；招聘表能住宿一栏也不是双休或社保承诺。",
+        "计件工资不提供实际工时或定额合理性的证明，研发岗位待遇不套用生产工。",
+        "食品质量、绿色食品、文明单位等称号不替代生产劳动记录。",
+        "江西米粉名称和品牌不能确定本批原粮、加工厂、外包及运输人员。"
+      ],
+      "sourceIds": [
+        "wufeng-jiangxi-employer-profile",
+        "wufeng-huichang-jobs-2026jan",
+        "wufeng-esg2024-index",
+        "wufeng-rice1kg-jd"
+      ],
+      "supply": [
+        {
+          "stage": "集团员工制度",
+          "status": "policy",
+          "detail": "只有 2024 报告权益部分公开索引，原文 404，未独立验证所选工厂履行。",
+          "sourceIds": [
+            "wufeng-esg2024-index"
+          ]
+        },
+        {
+          "stage": "米粉加工与包装",
+          "status": "unknown",
+          "detail": "会昌操作岗薪资为计件，未列实际工时与休息；当前 1kg 包装制造背标仍缺。",
+          "sourceIds": [
+            "wufeng-jiangxi-employer-profile",
+            "wufeng-huichang-jobs-2026jan",
+            "wufeng-rice1kg-jd"
+          ]
+        },
+        {
+          "stage": "原粮、包材与运输",
+          "status": "unknown",
+          "detail": "原粮来源、供应方与雇佣主体未对应，尚无具体岗位的劳动记录。",
+          "sourceIds": [
+            "wufeng-jiangxi-employer-profile"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "先取得现供细米粉 1kg 背标及批次、完整集团报告，再核米粉产线计件定额、实际周工时、逐周休息和工资社保，向原粮加工及运输追溯。"
+    },
+    {
+      "id": "nanz-jiayili",
+      "name": "南字科技 / 佳一粒白糖生产线索",
+      "legalName": "广东南字科技股份有限公司",
+      "location": "广东广州品牌主体；历史抽检样品生产者为佛山南海嘉润",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "白糖历史厂家已对应 · 当前分装劳动待核",
+      "scope": "南字科技与加工子公司南海嘉润的历史披露；精幼白砂糖 454g 历史样品及准确零售卡片。",
+      "finding": "原始抽检表可对应佳一粒精幼白砂糖 454g 和南海嘉润。年报仅有人员及部分销售合同说明，未取得现供加工、分装班组的工时、休息、工资社保或原糖追溯。",
+      "caveats": [
+        "抽检表厂家为南海嘉润食品饮料，不采用搜索摘要误识别的海润商贸。",
+        "2023 年生产的抽检样品不能证明当前制造厂和原糖种植地，精幼品名与精制级等级分别记录。",
+        "2024 年报销售人员合同和公司独立用工说明不代表全厂合同社保履行；说明栏无不作违法判断。",
+        "食品检验、国内品牌、集团办公福利和财务薪酬金额均不等于生产岗位劳动验证。"
+      ],
+      "sourceIds": [
+        "nanz-annual2024-labor",
+        "jiayili-white454-jinjiang2024",
+        "jiayili-white454-jd"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与用工范围",
+          "status": "unknown",
+          "detail": "2024 年报可核品牌及南海嘉润子公司关系，核心销售人员合同说明不扩大为全部员工验证。",
+          "sourceIds": [
+            "nanz-annual2024-labor"
+          ]
+        },
+        {
+          "stage": "白糖加工与分装",
+          "status": "unknown",
+          "detail": "历史 454g 样品对应南海嘉润，当前包装版本和生产班组实际工时、休息、社保仍待核。",
+          "sourceIds": [
+            "jiayili-white454-jinjiang2024",
+            "jiayili-white454-jd"
+          ]
+        },
+        {
+          "stage": "原糖、包材与物流",
+          "status": "unknown",
+          "detail": "未锁定原糖生产及种植来源，供应和运输雇主的实际劳动条件未核。",
+          "sourceIds": [
+            "nanz-annual2024-labor",
+            "jiayili-white454-jinjiang2024"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "获取现供精幼白砂糖 454g 背标、批号和最新生产许可，确认加工或分装角色及原糖来源，再补南海嘉润相应班组和上游劳动履行。"
+    },
+    {
+      "id": "qiaqia",
+      "name": "洽洽 / 核桃生产线索",
+      "legalName": "洽洽食品股份有限公司",
+      "location": "安徽合肥品牌集团；云南大理有核桃基地线索，所选成品工厂待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "合同社保有自述 · 多种工时与制造厂待核",
+      "scope": "洽洽 2025 ESG 合并范围、云南核桃基地关系及有机核桃仁 500g/10袋零售资料；未指定此款生产厂。",
+      "finding": "报告自述合同社保覆盖，同时说明按岗位实行多种工时制。云南基地提供原果来源调查方向，但尚无该款批次和制造背标，实际种植、加工、包装劳动均未核验。",
+      "caveats": [
+        "集团境内外员工按地域统计，不代表全部生产者国籍；本项目不收集工人身份资料。",
+        "按岗位实行多种工时制与每周 40 小时、双休的实际履行不能画等号，派遣和外包另核。",
+        "有云南基地不等于所有坚果国产，不能借混合坚果或其他核桃款的工厂信息。",
+        "有机为所选商品名称及图片宣称，认证码未独立核验，不能替代劳动或批次溯源证明。"
+      ],
+      "sourceIds": [
+        "qiaqia-esg2025-labor",
+        "qiaqia-yunnan-walnut-2026",
+        "qiaqia-organic-walnut500-jd"
+      ],
+      "supply": [
+        {
+          "stage": "集团员工及派遣制度",
+          "status": "policy",
+          "detail": "2025 ESG 自述合同社保覆盖及按岗位实行多种工时制，未给出所选产线实际周记录。",
+          "sourceIds": [
+            "qiaqia-esg2025-labor"
+          ]
+        },
+        {
+          "stage": "核桃种植与初加工",
+          "status": "unknown",
+          "detail": "政府提案答复提供云南云核农业与核桃基地关系，未对应当前 10袋装原果批次及用工。",
+          "sourceIds": [
+            "qiaqia-yunnan-walnut-2026"
+          ]
+        },
+        {
+          "stage": "成品加工与包装",
+          "status": "unknown",
+          "detail": "精加工、包装法人及厂址没有可读背标；不能从品牌或集团注册地址指定工厂。",
+          "sourceIds": [
+            "qiaqia-organic-walnut500-jd"
+          ]
+        },
+        {
+          "stage": "包材及运输",
+          "status": "unknown",
+          "detail": "供应商审核制度未给出此款包材、运输雇主或实际劳动履行记录。",
+          "sourceIds": [
+            "qiaqia-esg2025-labor"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "获取有机核桃仁 500g/10袋现供背标及批号，沿原果、初加工、精加工与包装逐个锁定境内生产者，再核实际工时、逐周休息、工资社保及派遣外包。"
     }
   ],
   "products": [
@@ -14377,6 +14678,162 @@
           ]
         }
       }
+    },
+    {
+      "id": "wufeng-rice-noodles1kg",
+      "name": "江西细米粉 1kg",
+      "brand": "五丰",
+      "companyId": "wufeng-jiangxi",
+      "category": "food",
+      "description": "家庭煮汤粉、拌粉或炒粉用的细米粉，记录 1kg 单袋。",
+      "tags": [
+        "米粉",
+        "细米粉",
+        "主食"
+      ],
+      "needs": [
+        "米粉"
+      ],
+      "url": "https://item.jd.com/100298544313.html",
+      "relationshipSourceIds": [
+        "wufeng-rice1kg-jd",
+        "wufeng-jiangxi-employer-profile"
+      ],
+      "market": "大陆准确 1kg 细粉卡片可核；当前地区可售和实际发货批次待核。",
+      "relationship": "卡片与原图为五丰江西细米粉；江西五丰企业介绍为品牌米粉生产线索，现供包装制造法人未锁定。",
+      "image": "images/wufeng-rice-noodles1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img14.360buyimg.com/n7/jfs/t1/502025/33/3697/2907367/6a7bf2c8F7689b0df/00834db4db7689c0.png",
+      "imageRights": "华润五丰品牌及原商品图片相关权利人；京东页面公开展示，具体摄影或设计著作权法人未确认；220px 原始零售宣传图，规格由准确卡片和图注核对，制造小字未核。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "准确货号 100298544313 对应 1kg 单袋细粉；直接详情仅返回通用内容，销售法人、当前供货和配送范围待核。",
+          "sourceIds": [
+            "wufeng-rice1kg-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "企业介绍及会昌招聘提供江西制造方向，未取得此款背标、批次及原粮来源；不以江西米粉名称认定产地。",
+          "sourceIds": [
+            "wufeng-jiangxi-employer-profile",
+            "wufeng-huichang-jobs-2026jan",
+            "wufeng-rice1kg-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "操作工招聘列计件，未披露周工时和休息；集团权益摘录没有该班组实际履行，生产及上游工资社保仍待补。",
+          "sourceIds": [
+            "wufeng-huichang-jobs-2026jan",
+            "wufeng-esg2024-index"
+          ]
+        }
+      }
+    },
+    {
+      "id": "jiayili-white-sugar454",
+      "name": "精幼白砂糖 454g",
+      "brand": "佳一粒",
+      "companyId": "nanz-jiayili",
+      "category": "food",
+      "description": "用于家庭调味、饮品或烘焙的白砂糖，记录 454g 单包。",
+      "tags": [
+        "白糖",
+        "白砂糖",
+        "精幼白砂糖"
+      ],
+      "needs": [
+        "白糖"
+      ],
+      "url": "https://item.jd.com/10047977738327.html",
+      "relationshipSourceIds": [
+        "jiayili-white454-jd",
+        "jiayili-white454-jinjiang2024",
+        "nanz-annual2024-labor"
+      ],
+      "market": "大陆精幼白砂糖 454g 准确卡片与单包图相符；当前供货及到货版本待核。",
+      "relationship": "南字科技年报对应佳一粒品牌；同名同规格历史样品生产者为南海嘉润，当前到货不直接沿用历史工厂。",
+      "image": "images/jiayili-white-sugar454.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/276366/20/22827/82891/6800a278Ff0a75182/e9a00dc525dbbfa2.png",
+      "imageRights": "佳一粒及南字牌品牌及原商品图片相关权利人；京东页面公开展示，具体摄影或设计著作权法人未确认；220px 原始单包图，品名精幼白砂糖，454克由准确卡片和图注确认；制造背标未知。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "货号 10047977738327 对应精幼白砂糖 454g×1；准确静态卡片不是当前库存证明，销售法人和配送待核。",
+          "sourceIds": [
+            "jiayili-white454-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "原始抽检第 38 项将 2023-11-15 的 454g 样品对应佛山南海嘉润；当前背标、工厂、加工或分装角色及原糖来源待核。",
+          "sourceIds": [
+            "jiayili-white454-jinjiang2024",
+            "nanz-annual2024-labor"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "年报人员及核心销售合同说明没有提供白糖加工、分装班组实际周工时、逐周休息与工资社保，原糖及运输劳动也未核。",
+          "sourceIds": [
+            "nanz-annual2024-labor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "qiaqia-organic-walnut500",
+      "name": "有机核桃仁 500g（10袋装）",
+      "brand": "洽洽",
+      "companyId": "qiaqia",
+      "category": "food",
+      "description": "去壳核桃仁零食，记录零售标题标注的 500g、10袋装。",
+      "tags": [
+        "坚果",
+        "核桃",
+        "核桃仁"
+      ],
+      "needs": [
+        "坚果"
+      ],
+      "url": "https://item.jd.com/100200778405.html",
+      "relationshipSourceIds": [
+        "qiaqia-organic-walnut500-jd",
+        "qiaqia-yunnan-walnut-2026"
+      ],
+      "market": "大陆准确货号标注总重 500g、10袋；当前供货、每袋实物规格与包装批次待核。",
+      "relationship": "准确卡片和原图为洽洽有机核桃仁；云南核桃基地仅提供调查方向，未指定此款原果和成品生产者。",
+      "image": "images/qiaqia-organic-walnut500.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img14.360buyimg.com/n7/jfs/t1/513772/26/4830/163811/6a967183Fffbfc42e/00833203202cded2.jpg",
+      "imageRights": "洽洽品牌及原商品图片相关权利人；京东页面公开展示，具体摄影或设计著作权法人未确认；220px 原始宣传图，总重与十袋来自准确卡片；图中促销价和有机宣称不是本项目核实的现价或认证。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "卡片 100200778405 为 500g/10袋；原图不能清点整套或独立读出每袋净含量，当前销售法人和地区供货待核。",
+          "sourceIds": [
+            "qiaqia-organic-walnut500-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "政府答复说明洽洽云南核桃业务，尚未把该款批次对应到原果基地、初加工、精加工和包装厂；品牌与有机字样均不替代溯源。",
+          "sourceIds": [
+            "qiaqia-yunnan-walnut-2026",
+            "qiaqia-organic-walnut500-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2025 报告按岗位实行多种工时制；合同社保汇总自述不证明本款生产班组每周 40 小时、两天休息和供应链劳动履行。",
+          "sourceIds": [
+            "qiaqia-esg2025-labor"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -14488,7 +14945,7 @@
           "query": "速冻调理肉"
         }
       ],
-      "note": "新增燕麦米 1kg、绿豆 1kg、红小豆 1kg、黑糯玉米 200g×8 根和大豆油 5L。燕麦米有分装标签，食用油有张家港历史样品与工厂劳动评价；当前供货、制造批次及实际劳动均待核。米粉、白糖和坚果仍缺准确候选，不以混合粥料或包装变体填数。",
+      "note": "已补江西细米粉 1kg、精幼白砂糖 454g 和有机核桃仁 500g/10袋，26 项粮油食品需求均有具体研究资料。白糖仅对应历史样品厂家，米粉与核桃仍缺制造背标；所有条目的现供批次、原料追溯和实际劳动证据继续核查，研究覆盖不代表合格收录。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -14534,7 +14991,17 @@
         "cofco-eastsea-instrument-job",
         "fulinmen-soybean5l-suning",
         "fulinmen-soybean5l-retail-information",
-        "fulinmen-soybean5l-chongchuan-2024"
+        "fulinmen-soybean5l-chongchuan-2024",
+        "wufeng-rice1kg-jd",
+        "wufeng-jiangxi-employer-profile",
+        "wufeng-huichang-jobs-2026jan",
+        "wufeng-esg2024-index",
+        "jiayili-white454-jd",
+        "jiayili-white454-jinjiang2024",
+        "nanz-annual2024-labor",
+        "qiaqia-organic-walnut500-jd",
+        "qiaqia-esg2025-labor",
+        "qiaqia-yunnan-walnut-2026"
       ]
     },
     {

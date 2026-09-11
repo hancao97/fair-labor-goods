@@ -6191,6 +6191,81 @@
       },
       "filename": "images/fulinmen-soybean-oil-5l.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "wufeng-rice-noodles1kg",
+      "name": "五丰江西米粉细粉 1kg",
+      "image_url": "https://img14.360buyimg.com/n7/jfs/t1/502025/33/3697/2907367/6a7bf2c8F7689b0df/00834db4db7689c0.png",
+      "source_page": "https://www.jd.com/chanpin/2650507.html",
+      "direct_product_page_url": "https://item.jd.com/100298544313.html",
+      "width": 220,
+      "height": 220,
+      "bytes": 15056,
+      "sha256": "2dcb3d1d112633ed7df891ba2d7f98fc7248f2fd0c704619aa4688b84382d12c",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "华润五丰品牌及原商品图片相关权利人；京东页面公开展示，具体摄影或设计著作权法人未确认",
+        "license": "未发现明确开放复用许可；公开可访问不等于授权无限制转载或商业复用。"
+      },
+      "review_note": "原始零售宣传图，保留 220px；1kg 来自准确卡片与图注，袋上小字及制造背标未独立读清。",
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 102257,
+        "sha256": "ae7b9bee09b82d9dbec57b97df23f6c49a7481e6ffd0c2df8be58ae014ed02f0"
+      },
+      "filename": "images/wufeng-rice-noodles1kg.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "jiayili-white-sugar454",
+      "name": "佳一粒精幼白砂糖 454g（1包）",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/276366/20/22827/82891/6800a278Ff0a75182/e9a00dc525dbbfa2.png",
+      "source_page": "https://www.jd.com/jiage/1320731d2c6f131bc982.html",
+      "direct_product_page_url": "https://item.jd.com/10047977738327.html",
+      "width": 220,
+      "height": 220,
+      "bytes": 6988,
+      "sha256": "776db7d0c48b765dcaa32b264ac7bf754543d07fe46c2cecf9a72436eacec7cd",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "佳一粒及南字牌品牌及原商品图片相关权利人；京东页面公开展示，具体摄影或设计著作权法人未确认",
+        "license": "未发现明确开放复用许可；公开可访问不等于授权无限制转载或商业复用。"
+      },
+      "review_note": "原始 220px 单包图，精幼白砂糖与一包/454克图注和准确卡片一致；制造背标未知。",
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 43537,
+        "sha256": "50ee09ac15913f2a01654b99f34664aeb3f718a66759d5972b98c326effa1f46"
+      },
+      "filename": "images/jiayili-white-sugar454.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "qiaqia-organic-walnut500",
+      "name": "洽洽有机核桃仁 500g/10袋",
+      "image_url": "https://img14.360buyimg.com/n7/jfs/t1/513772/26/4830/163811/6a967183Fffbfc42e/00833203202cded2.jpg",
+      "source_page": "https://www.jd.com/chanpin/2059203.html",
+      "direct_product_page_url": "https://item.jd.com/100200778405.html",
+      "width": 220,
+      "height": 220,
+      "bytes": 15686,
+      "sha256": "bd35fb7661b7f56c1790d5568d60c1123538b190fb7228ea54a5ca768fdc3ab7",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "洽洽品牌及原商品图片相关权利人；京东页面公开展示，具体摄影或设计著作权法人未确认",
+        "license": "未发现明确开放复用许可；公开可访问不等于授权无限制转载或商业复用。"
+      },
+      "review_note": "原始 220px 零售宣传图；总重 500g、10袋来自准确卡片，未核每袋重量。原图促销价及有机宣称不是已独立验证的现价或认证。",
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 31933,
+        "sha256": "28366f1316937eb18068b7275b414baaaab75ec5d59e513c61d8d284f8f06b42"
+      },
+      "filename": "images/qiaqia-organic-walnut500.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
