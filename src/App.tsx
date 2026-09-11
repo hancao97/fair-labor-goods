@@ -30,6 +30,8 @@ import {
   readFilters,
   writeFilters,
   hasVerifiedChain,
+  isAdmitted,
+  selectAdmittedProducts,
 } from "./catalog.mjs";
 import type { Catalog, Product, Source, Filters, EvidenceLevel } from "./types";
 
@@ -55,7 +57,33 @@ const sourceMap = new Map(data.sources.map((s) => [s.id, s]));
 const categoryMap = new Map(data.categories.map((c) => [c.id, c]));
 const external = { target: "_blank", rel: "noopener noreferrer" } as const;
 const categoryIds = data.categories.map((c) => c.id);
+const admittedProducts = selectAdmittedProducts(data);
+const researchProducts = data.products.filter((p) => !isAdmitted(p, companyMap.get(p.companyId)!));
+const admissionLabels = { chinaSale: "大陆销售", chinaProduction: "境内生产 / 服务", productionLabor: "生产岗位劳动证据" } as const;
 const quickSearches = [
+  { label: "大米", category: "food", query: "大米", featured: true },
+  { label: "面粉", category: "food", query: "面粉", featured: true },
+  { label: "杂粮", category: "food", query: "杂粮" },
+  { label: "食用油", category: "food", query: "食用油", featured: true },
+  { label: "酱醋调味", category: "food", query: "调味" },
+  { label: "牛奶", category: "drinks", query: "牛奶", featured: true },
+  { label: "酒水", category: "drinks", query: "酒" },
+  { label: "水果生鲜", category: "fresh", query: "", featured: true },
+  { label: "汽车", category: "cars", query: "", featured: true },
+  { label: "住房", category: "housing", query: "", featured: true },
+  { label: "衣服", category: "clothing", query: "", featured: true },
+  { label: "鞋履", category: "clothing", query: "鞋" },
+  { label: "内衣", category: "clothing", query: "内衣" },
+  { label: "笔", category: "stationery", query: "笔", featured: true },
+  { label: "纸本", category: "stationery", query: "纸", featured: true },
+  { label: "橡皮", category: "stationery", query: "橡皮" },
+  { label: "文件收纳", category: "stationery", query: "文件" },
+  { label: "自行车", category: "transport", query: "自行车" },
+  { label: "电动车", category: "transport", query: "电动车" },
+  { label: "住宿", category: "transport", query: "住宿" },
+  { label: "餐饮", category: "dining", query: "", featured: true },
+  { label: "正餐", category: "dining", query: "正餐" },
+  { label: "咖啡", category: "dining", query: "咖啡" },
   { label: "手机", category: "electronics", query: "手机", featured: true },
   { label: "笔记本", category: "electronics", query: "笔记本", featured: true },
   { label: "平板", category: "electronics", query: "平板" },
@@ -69,7 +97,7 @@ const quickSearches = [
   { label: "洗碗机", category: "appliances", query: "洗碗机" },
   { label: "扫拖机器人", category: "appliances", query: "扫拖" },
   { label: "清洁洗护", category: "daily", query: "洗护", featured: true },
-  { label: "食品", category: "daily", query: "食品", featured: true },
+  { label: "床品", category: "home", query: "床品" },
   { label: "阅读", category: "culture", query: "阅读", featured: true },
   { label: "玩具积木", category: "culture", query: "积木" },
   { label: "游戏手柄", category: "culture", query: "手柄" },
@@ -87,7 +115,7 @@ function loadSaved(): string[] {
 }
 function currentRoute() {
   const hash = location.hash.replace(/^#\/?/, "");
-  return ["companies", "method", "sources"].includes(hash) ? hash : "catalog";
+  return ["research", "coverage", "companies", "method", "sources"].includes(hash) ? hash : "catalog";
 }
 function issueUrl(product?: Product) {
   return `${REPO}/issues/new?template=evidence.yml${product ? `&title=${encodeURIComponent("[资料补充] " + product.brand + " " + product.name)}` : ""}`;
@@ -201,7 +229,7 @@ function ProductDetail({
   const copy = async () => {
     try {
       await navigator.clipboard.writeText(
-        `${location.origin}${location.pathname}?product=${encodeURIComponent(product.id)}#/catalog`,
+        `${location.origin}${location.pathname}?product=${encodeURIComponent(product.id)}#/${isAdmitted(product, c) ? "catalog" : "research"}`,
       );
       setCopied(true);
     } catch {
@@ -209,7 +237,12 @@ function ProductDetail({
     }
   };
   const sources = [
-    ...new Set([...c.sourceIds, ...product.relationshipSourceIds]),
+    ...new Set([
+      ...c.sourceIds,
+      ...(c.assessments || []).map((a) => a.sourceId),
+      ...product.relationshipSourceIds,
+      ...Object.values(product.admission).flatMap((check) => check.sourceIds),
+    ]),
   ]
     .map((id) => sourceMap.get(id)!)
     .filter(Boolean);
@@ -228,7 +261,7 @@ function ProductDetail({
     >
       <div className="dialog-inner">
         <div className="dialog-top">
-          <span>商品与劳动档案</span>
+          <span>{isAdmitted(product, c) ? "商品与劳动档案" : "待核查资料 · 尚未正式收录"}</span>
           <button
             autoFocus
             className="icon-button"
@@ -272,6 +305,7 @@ function ProductDetail({
               </button>
             </div>
             <small className="market-note">{product.market}</small>
+            <small className="market-note">{c.originNote}</small>
           </div>
         </div>
         <div className="detail-tabs" aria-label="商品档案">
@@ -292,6 +326,16 @@ function ProductDetail({
           ))}
         </div>
         <div className="detail-content">
+          <section className="admission-checks" aria-label="商品收录条件检查">
+            {Object.entries(admissionLabels).map(([key, label]) => {
+              const check = product.admission[key as keyof typeof product.admission];
+              return <div key={key} className={check.status}>
+                <strong>{label}<small>{check.status === "supported" ? "有对应来源" : "未通过核查"}</small></strong>
+                <p>{check.detail}</p>
+                {check.sourceIds.map((id) => <a key={id} href={sourceMap.get(id)!.url} {...external}>{sourceMap.get(id)!.title}<ArrowUpRight size={12} /></a>)}
+              </div>;
+            })}
+          </section>
           {tab === "evidence" && (
             <>
               <div className="evidence-summary">
@@ -397,8 +441,7 @@ function ProductDetail({
                   "未使用商品照片"
                 )}
                 。
-                {product.imageRights &&
-                  `图片版权归 ${product.imageRights} 所有。`}
+                {product.imageRights}
                 本站整理的资料不代表品牌背书。
               </p>
             </>
@@ -453,11 +496,15 @@ function ProductCard({
         </button>
       </div>
       <div className="card-body">
-        <span className="product-brand">{product.brand}</span>
+        <div className="card-brand-row">
+          <span className="product-brand">{product.brand}</span>
+          {c.origin === "china" && <span className="origin-tag">中国品牌</span>}
+        </div>
         <button className="product-name" onClick={onOpen}>
           {product.name}
         </button>
         <p className="product-desc">{product.description}</p>
+        <p className="admission-card-note">{isAdmitted(product, c) ? "三项收录条件已核查" : "待核查 · 不作合规推荐"}</p>
         <div className="card-evidence">
           <Badge level={c.level} />
           <span>
@@ -492,13 +539,16 @@ function Method() {
           从尊重劳动开始。
         </h1>
         <p>
-          我们寻找在中国开展业务、公开披露合理工作安排的企业及其商品。
+          正式目录只接受大陆可购买、境内生产或服务、生产岗位劳动条件有证据支持的商品。
           <br className="desktop" />
-          也把未能确认的部分，留在你看得见的地方。
+          任何一项缺失，都留在独立的待核查区。
         </p>
       </div>
       <section className="method-principles">
         {[
+          ["大陆可以买到", "需要中国大陆的官方销售渠道与对应型号；海外网页、中文介绍或品牌在华经营不能单独证明商品可购买。"],
+          ["中国境内生产或服务", "实体商品需有对应型号、批次的中国制造商或产地依据。餐饮、住宿需对应境内具体门店；数字商品需对应境内开发及服务团队。中国品牌不等于中国制造。"],
+          ["核对境内生产工人的劳动条件", "核验对象是实际生产、门店及外包人员。总部招聘、年报承诺不能替代生产现场的履行记录；还需核对工资、社保、合同与劳动保护。"],
           [
             "每周不超过 40 小时",
             "分别记录标准制度与包含加班的实际工作时间。只有上下班时刻、未明确午休的资料，不据此推算工时。",
@@ -538,8 +588,12 @@ function Method() {
         </div>
         <p className="notice-line">
           <CircleHelp size={17} />
-          当前目录没有获得独立考勤验证的商品，也没有任何商品被认定为全供应链达标。
+          当前正式目录为 {admittedProducts.length} 件；待核查区的制度和招聘资料不构成合规保证。
         </p>
+      </section>
+      <section className="method-section text-section">
+        <h2>关注的是在哪里劳动、劳动权益是否受到保障。</h2>
+        <p>中国境内生产不能推断每位工人的国籍。本站以境内生产和服务岗位为核查范围，不收集工人的身份证件或个人国籍信息，也不作全体工人均为中国国籍的保证。</p>
       </section>
       <section className="method-section text-section">
         <h2>为什么不直接给企业贴“合规”标签？</h2>
@@ -559,7 +613,7 @@ function Method() {
       <section className="method-section text-section">
         <h2>什么样的证据值得保留？</h2>
         <p>
-          优先保存企业原始制度、上市公司报告、企业发布的招聘资料和能明确主体的劳动记录。高校转载的企业招聘仍是企业承诺，不是学校审核结果。匿名评价只能作为继续调查的线索，不能单独用于肯定或否定一家企业。
+          优先查找具体生产企业的政府劳动守法评价，再核对原始制度、上市公司报告、生产岗位资料与实际劳动记录。政府评价保留所列法人和评价年份；高校转载的企业招聘仍是企业承诺。匿名评价只能作为继续调查的线索。
         </p>
         <p>
           每条记录包含资料主体、发布日期、查阅日期、适用范围和例外。超过一年的明确工时披露会标记为历史资料；更新页面不自动更新旧承诺。争议或反证需保留来源、核对时间与主体，再修订结论。
@@ -607,12 +661,23 @@ export default function App() {
   const [companyQuery, setCompanyQuery] = useState("");
   const [sourceType, setSourceType] = useState("all");
   const selectedProduct = data.products.find((p) => p.id === selected);
+  const researching = route === "research";
+  const routeProducts = researching ? researchProducts : admittedProducts;
   const products = useMemo(
-    () => selectProducts(data, filters, saved),
-    [filters, saved],
+    () => selectProducts({ ...data, products: routeProducts }, filters, saved),
+    [filters, saved, routeProducts],
   );
   const update = (part: Partial<Filters>) =>
-    setFilters((f) => ({ ...f, ...part }));
+    setFilters((f) => ({ ...f, ...((part.category !== undefined || part.query !== undefined) && part.need === undefined ? {need: ""} : {}), ...part }));
+  const navigateWithFilters = (nextRoute: string, nextFilters: Filters) => {
+    const query = writeFilters(nextFilters);
+    history.pushState(null, "", `${location.pathname}${query ? "?" + query : ""}#/${nextRoute}`);
+    setFilters(nextFilters);
+    setSelected(null);
+    setRoute(nextRoute);
+    setMobileNav(false);
+    window.scrollTo({top: 0, behavior: "instant"});
+  };
   const save = (id: string) =>
     setSaved((ids) =>
       ids.includes(id) ? ids.filter((x) => x !== id) : [...ids, id],
@@ -656,6 +721,8 @@ export default function App() {
   useEffect(() => {
     const names: Record<string, string> = {
       catalog: "商品目录",
+      research: "待核查资料",
+      coverage: "消费清单",
       companies: "企业档案",
       method: "收录标准",
       sources: "资料库",
@@ -702,6 +769,8 @@ export default function App() {
         <nav className={mobileNav ? "mobile-open" : ""} aria-label="主要导航">
           {[
             ["catalog", "商品目录"],
+            ["research", "待核查"],
+            ["coverage", "消费清单"],
             ["companies", "企业档案"],
             ["method", "收录标准"],
           ].map(([id, name]) => (
@@ -718,10 +787,7 @@ export default function App() {
         <div className="header-actions">
           <button
             className="header-saved"
-            onClick={() => {
-              location.hash = "/catalog";
-              update({ saved: !filters.saved });
-            }}
+            onClick={() => navigateWithFilters("research", {...defaults, saved: !filters.saved})}
             aria-label="查看收藏商品"
           >
             <Bookmark size={18} />
@@ -742,7 +808,7 @@ export default function App() {
         </div>
       </header>
       <main id="main-content">
-        {route === "catalog" && (
+        {(route === "catalog" || researching) && (
           <>
             <section className="intro">
               <div>
@@ -750,14 +816,14 @@ export default function App() {
                   <span className="rule" /> 每一次选择，都有分量
                 </div>
                 <h1>
-                  好商品背后，
+                  {researching ? "把每个日常所需，" : "支持境内劳动，"}
                   <br />
-                  也该有<span>好工作。</span>
+                  {researching ? <>都<span>查得更清楚。</span></> : <>从<span>有据可查</span>开始。</>}
                 </h1>
                 <p>
-                  从一件日用品，到一款游戏。让尊重劳动的企业，
+                  {researching ? "这里是尚未通过收录检查的研究资料，不是合规推荐清单。" : "大陆买得到、中国境内生产、境内生产岗位劳动条件有据可查。"}
                   <br className="desktop" />
-                  成为你日常消费里的一个选择。
+                  {researching ? "从一袋米、一支笔，到一部手机、一顿饭，逐项补齐证据。" : "三项必须同时满足；品牌国别不能替代产地和工人权益证据。"}
                 </p>
                 <a className="intro-link" href="#/method">
                   了解我们如何收录
@@ -790,14 +856,15 @@ export default function App() {
             <div className="catalog-summary">
               <div>
                 <span className="live-dot" />
-                公开资料持续整理中
+                {researching ? "待核查资料，尚未正式收录" : "正式收录条件逐项核查"}
               </div>
               <span>
-                <b>{data.products.length}</b> 件商品与系列
+                <b>{admittedProducts.length}</b> 件正式收录
               </span>
               <span>
-                <b>{data.companies.length}</b> 份企业档案
+                <b>{researchProducts.length}</b> 件待核查资料
               </span>
+              <span><b>{data.categories.length}</b> 类日常所需</span>
               <span className="summary-date">
                 最近整理 {data.updatedAt.replaceAll("-", ".")}
                 <a href="#/sources">
@@ -812,7 +879,7 @@ export default function App() {
                   <span className="eyebrow section-eyebrow">
                     THE EVERYDAY COLLECTION
                   </span>
-                  <h2>把好选择，带回生活。</h2>
+                  <h2>{researching ? "日常所需，逐项核查。" : "符合收录条件的商品"}</h2>
                 </div>
                 <a className="quiet text-button" href="#/method">
                   有依据的收录，可追溯的选择
@@ -820,7 +887,7 @@ export default function App() {
                 </a>
               </div>
               <div className="categories" aria-label="商品分类">
-                {[{ id: "all", name: "全部好物" }, ...data.categories].map(
+                {[{ id: "all", name: researching ? "全部资料" : "全部商品" }, ...data.categories].map(
                   (c) => (
                     <button
                       key={c.id}
@@ -829,14 +896,10 @@ export default function App() {
                       onClick={() => update({ category: c.id, query: "" })}
                     >
                       {c.name}
-                      {filters.category === c.id && (
-                        <span>
-                          {c.id === "all"
-                            ? data.products.length
-                            : data.products.filter((p) => p.category === c.id)
-                                .length}
-                        </span>
-                      )}
+                      <span>{routeProducts.filter((p) =>
+                        (c.id === "all" || p.category === c.id) &&
+                        (filters.origin === "all" || companyMap.get(p.companyId)?.origin === "china")
+                      ).length}</span>
                     </button>
                   ),
                 )}
@@ -885,6 +948,14 @@ export default function App() {
                   </button>
                 </div>
               </div>
+              <div className="origin-filters" aria-label="品牌背景筛选">
+                <div>
+                  <button aria-pressed={filters.origin === "all"} onClick={() => update({ origin: "all" })}>全部品牌</button>
+                  <button aria-pressed={filters.origin === "china"} onClick={() => update({ origin: "china" })}>中国品牌</button>
+                </div>
+                <span>按品牌创立背景整理；具体产地见商品档案。</span>
+              </div>
+              {filters.need && <p className="need-selection">细分需求：<strong>{filters.need}</strong><button className="text-button" onClick={() => update({need: ""})}>取消需求筛选<X size={13} /></button></p>}
               <div className="quick-searches">
                 <span>常用物品</span>
                 <div
@@ -957,9 +1028,7 @@ export default function App() {
               <div className="evidence-note">
                 <BookOpen size={17} />
                 <p>
-                  从公开资料出发，分别标明<span>制度披露</span>、
-                  <span>岗位线索</span>和<span>待补证</span>
-                  。收录不等于实际合规认证。
+                  {researching ? "本区商品尚未通过正式收录检查。制度披露和岗位线索只说明已找到的资料，不能视为生产工人劳动条件达标。" : "只有大陆销售、境内生产或服务、对应生产岗位劳动证据三项齐备，才能进入本目录。"}
                 </p>
                 <a href="#/method" aria-label="了解资料分级">
                   <CircleHelp size={17} />
@@ -971,6 +1040,7 @@ export default function App() {
                     ? "全部分类"
                     : categoryMap.get(filters.category)?.name}{" "}
                   <b>{products.length}</b> 件
+                  {filters.origin === "china" && " · 中国品牌"}
                   {filters.evidence !== "all" &&
                     ` · ${levels[filters.evidence as EvidenceLevel].name}`}
                   {filters.saved && " · 我的收藏"}
@@ -1015,24 +1085,28 @@ export default function App() {
                 <div className="empty-state">
                   <Search size={30} />
                   <h3>
-                    {filters.supply
+                    {!researching && admittedProducts.length === 0
+                      ? "目前还没有通过三项检查的商品"
+                      : filters.supply
                       ? "暂时还没有全供应链已核实的商品"
                       : "没有找到符合当前筛选的商品"}
                   </h3>
                   <p>
-                    {filters.supply
+                    {!researching && admittedProducts.length === 0
+                      ? `已整理 ${researchProducts.length} 件候选资料。产地或生产岗位证据未齐全，暂不作合规推荐；这不等于认定相关企业违法。`
+                      : filters.supply
                       ? "这意味着证据还不够。你仍可查看已公开的制度与岗位资料。"
                       : filters.saved
                         ? "收藏感兴趣的商品，稍后再回来逐项查阅。"
                         : "试试品牌、商品名称，或减少筛选条件。"}
                   </p>
-                  <button
+                  {!researching && admittedProducts.length === 0 ? <a className="button primary" href="#/research">查看待核查资料<ArrowRight size={15} /></a> : <button
                     className="button primary"
                     onClick={() => setFilters({ ...defaults })}
                   >
                     <RotateCcw size={15} />
                     重置筛选，查看全部
-                  </button>
+                  </button>}
                 </div>
               )}
               <div className="catalog-end">
@@ -1071,6 +1145,21 @@ export default function App() {
           </>
         )}
         {route === "method" && <Method />}
+        {route === "coverage" && (
+          <div className="document-page coverage-page">
+            <div className="page-heading"><span className="eyebrow">日常消费调查清单</span><h1>把日常所需，逐项查全。</h1><p>每个细分品类都保留位置。数字是已整理的候选资料数；只有通过销售、产地和生产岗位劳动检查，才能正式收录。</p></div>
+            <div className="coverage-grid">{data.coverage.map((group) => <section key={group.category}>
+              <h2>{categoryMap.get(group.category)?.name}</h2>
+              <div className="coverage-needs">{group.needs.map((need) => {
+                const found = selectProducts(data, { ...defaults, category: group.category, need: need.label });
+                const admitted = found.filter((p) => isAdmitted(p, companyMap.get(p.companyId)!)).length;
+                return <button key={need.label} onClick={() => navigateWithFilters("research", {...defaults, category:group.category, need:need.label})}><span>{need.label}</span><small>{found.length ? `${found.length} 份资料 · ${admitted} 件收录` : "尚无具体商品"}</small></button>;
+              })}</div>
+              <p>{group.note}</p>
+              {group.sourceIds.map((id) => <a key={id} href={sourceMap.get(id)!.url} {...external}>{sourceMap.get(id)!.title}<ArrowUpRight size={12} /></a>)}
+            </section>)}</div>
+          </div>
+        )}
         {route === "companies" && (
           <div className="document-page">
             <div className="page-heading">
@@ -1130,6 +1219,11 @@ export default function App() {
                     <Badge level={c.level} />
                   </div>
                   <p>{c.finding}</p>
+                  {c.assessments?.map((a) => <div className="official-assessment" key={a.sourceId + a.subject}>
+                    <strong>{a.result}<span>{a.period}</span></strong>
+                    <p>评价对象：{a.subject}。{a.limitation}</p>
+                    <a href={sourceMap.get(a.sourceId)!.url} {...external}>查看政府原始记录<ArrowUpRight size={13} /></a>
+                  </div>)}
                   <dl>
                     <div>
                       <dt>工作安排</dt>

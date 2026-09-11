@@ -7,10 +7,27 @@ import {
   selectProducts,
   readFilters,
   writeFilters,
+  isAdmitted,
+  selectAdmittedProducts,
 } from "../src/catalog.mjs";
 const data = JSON.parse(
   await readFile(new URL("../public/data/catalog.json", import.meta.url)),
 );
+test("official shop pages and headquarters policies cannot admit a product", () => {
+  assert.equal(selectAdmittedProducts(data).length, 0);
+  const c = data.companies.find((c) => c.id === "anker");
+  const p = data.products.find((p) => p.companyId === c.id);
+  const candidate = { ...p, admission: Object.fromEntries(["chinaSale", "chinaProduction", "productionLabor"].map((key) => [key, {status: "supported", sourceIds: ["source"]}])) };
+  assert.equal(isAdmitted(candidate, c), false);
+});
+test("missing or sourceless domestic-production evidence blocks admission", () => {
+  const c = { ...data.companies[0], actualHoursVerified: true, actualRestVerified: true, hours: 40, restDays: 2 };
+  const p = { ...data.products[0], admission: Object.fromEntries(["chinaSale", "chinaProduction", "productionLabor"].map((key) => [key, {status: "supported", sourceIds: ["source"]}])) };
+  p.admission.chinaProduction.sourceIds = [];
+  assert.equal(isAdmitted(p, c), false);
+  delete p.admission.chinaProduction;
+  assert.equal(isAdmitted(p, c), false);
+});
 
 test("supplier policies and self-reporting never qualify as actual verification", () => {
   assert.equal(selectProducts(data, { ...defaults, supply: true }).length, 0);
@@ -74,6 +91,8 @@ test("category, status, saved and search constraints are combined", () => {
 test("shareable filters round-trip with Chinese text and punctuation", () => {
   const filters = {
     category: "games",
+    need: "手机游戏",
+    origin: "china",
     query: "心动 & 小镇",
     evidence: "disclosure",
     supply: true,
@@ -90,13 +109,23 @@ test("shareable filters round-trip with Chinese text and punctuation", () => {
 });
 test("untrusted URL values fall back safely without throwing", () => {
   const f = readFilters(
-    "category=bogus&evidence=certified&sort=hack&q=%ZZ&product=x",
+    "category=bogus&origin=bogus&evidence=certified&sort=hack&q=%ZZ&product=x",
     data.categories.map((c) => c.id),
   );
   assert.equal(f.category, "all");
+  assert.equal(f.origin, "all");
   assert.equal(f.evidence, "all");
   assert.equal(f.sort, "evidence");
   assert.equal(readFilters("q=" + "x".repeat(1000), []).query.length, 200);
+});
+test("Chinese brand filter combines with other constraints and survives shared URLs", () => {
+  const filters = { ...defaults, origin: "china", category: "electronics" };
+  const found = selectProducts(data, filters);
+  assert(found.some((p) => p.companyId === "anker"));
+  assert(!found.some((p) => p.companyId === "apple"));
+  assert(found.every((p) => data.companies.find((c) => c.id === p.companyId).origin === "china"));
+  assert.deepEqual(readFilters(writeFilters(filters), data.categories.map((c) => c.id)), filters);
+  assert.equal(selectProducts(data, { ...filters, supply: true }).length, 0);
 });
 test("known hiring caveats and supplier differences remain present", () => {
   const shokken = data.companies.find((c) => c.id === "shokken");
@@ -111,4 +140,13 @@ test("known hiring caveats and supplier differences remain present", () => {
       .find((c) => c.id === "anker")
       .caveats.some((t) => t.includes("2024")),
   );
+});
+
+test("coverage matches actual uses, not company names or product flavours", () => {
+  const flour = selectProducts(data, {...defaults, category: "food", need: "面粉"});
+  assert(flour.some((p) => p.id === "kailan-bread-flour-1kg"));
+  assert(!flour.some((p) => p.id === "kailan-yam-noodles"));
+  assert(!selectProducts(data, {...defaults, category: "food", need: "红豆"}).some((p) => p.companyId === "meiji-ice"));
+  const filter = {...defaults, category: "food", need: "面粉"};
+  assert.deepEqual(readFilters(writeFilters(filter), data.categories.map((c) => c.id)), filter);
 });

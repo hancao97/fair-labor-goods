@@ -1,5 +1,7 @@
 export const defaults = {
   category: "all",
+  need: "",
+  origin: "all",
   query: "",
   evidence: "all",
   supply: false,
@@ -8,6 +10,20 @@ export const defaults = {
 };
 
 // Published policies and audits of suppliers are not proof of actual weekly schedules.
+export function isAdmitted(product, company) {
+  const checks = product.admission;
+  return Boolean(checks && company &&
+    [checks.chinaSale, checks.chinaProduction, checks.productionLabor].every(
+      (check) => check?.status === "supported" && check.sourceIds?.length > 0,
+    ) && company.actualHoursVerified === true && company.actualRestVerified === true &&
+    typeof company.hours === "number" && company.hours <= 40 &&
+    typeof company.restDays === "number" && company.restDays >= 2
+  );
+}
+export function selectAdmittedProducts(data) {
+  const companies = new Map(data.companies.map((c) => [c.id, c]));
+  return data.products.filter((p) => isAdmitted(p, companies.get(p.companyId)));
+}
 export function hasVerifiedChain(company) {
   return (
     company.actualHoursVerified === true &&
@@ -41,6 +57,8 @@ export function selectProducts(data, filters, savedIds = []) {
       .toLocaleLowerCase();
     return (
       (filters.category === "all" || p.category === filters.category) &&
+      (!filters.need || p.needs?.includes(filters.need)) &&
+      (filters.origin !== "china" || c.origin === "china") &&
       words.every((w) => haystack.includes(w)) &&
       (filters.evidence === "all" || c.level === filters.evidence) &&
       (!filters.supply || hasVerifiedChain(c)) &&
@@ -63,6 +81,8 @@ export function readFilters(search, categoryIds) {
       ? p.get("category")
       : "all",
     query: (p.get("q") || "").slice(0, 200),
+    need: (p.get("need") || "").slice(0, 50),
+    origin: p.get("origin") === "china" ? "china" : "all",
     evidence: ["disclosure", "hiring", "research"].includes(p.get("evidence"))
       ? p.get("evidence")
       : "all",
@@ -75,6 +95,8 @@ export function writeFilters(filters) {
   const p = new URLSearchParams();
   if (filters.category !== "all") p.set("category", filters.category);
   if (filters.query) p.set("q", filters.query);
+  if (filters.need) p.set("need", filters.need);
+  if (filters.origin === "china") p.set("origin", "china");
   if (filters.evidence !== "all") p.set("evidence", filters.evidence);
   if (filters.supply) p.set("supply", "verified");
   if (filters.saved) p.set("saved", "1");

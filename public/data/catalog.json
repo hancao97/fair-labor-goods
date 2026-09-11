@@ -1,36 +1,81 @@
 {
-  "version": 1,
+  "version": 3,
   "updatedAt": "2026-09-11",
   "categories": [
     {
-      "id": "electronics",
-      "name": "电子数码",
-      "description": "让科技服务日常"
+      "id": "food",
+      "name": "粮油食品",
+      "description": "大米、面粉、杂粮、食用油、调味与包装食品"
+    },
+    {
+      "id": "fresh",
+      "name": "水果生鲜",
+      "description": "水果、蔬菜、肉禽、鸡蛋与水产"
+    },
+    {
+      "id": "drinks",
+      "name": "饮料酒水",
+      "description": "牛奶、饮用水、茶饮、果汁、啤酒与白酒"
+    },
+    {
+      "id": "clothing",
+      "name": "服装鞋履",
+      "description": "上衣、裤装、内衣、睡衣与鞋履"
     },
     {
       "id": "home",
       "name": "家居生活",
-      "description": "安放每一个生活细节"
+      "description": "床品、座椅、照明与收纳"
+    },
+    {
+      "id": "daily",
+      "name": "日用洗护",
+      "description": "身体、口腔与家庭清洁"
+    },
+    {
+      "id": "electronics",
+      "name": "电子数码",
+      "description": "手机、电脑、平板与数码配件"
     },
     {
       "id": "appliances",
       "name": "家用电器",
-      "description": "把更多时间还给自己"
+      "description": "大小家电与厨房电器"
     },
     {
-      "id": "daily",
-      "name": "日用快消",
-      "description": "从每天都会用的东西开始"
+      "id": "stationery",
+      "name": "办公学习",
+      "description": "书写、纸品与文具收纳"
+    },
+    {
+      "id": "transport",
+      "name": "出行住宿",
+      "description": "自行车、电动车与境内住宿"
+    },
+    {
+      "id": "cars",
+      "name": "汽车",
+      "description": "家用轿车、SUV与新能源汽车"
+    },
+    {
+      "id": "housing",
+      "name": "住房家装",
+      "description": "具体住房项目、建筑施工、装修及建材"
+    },
+    {
+      "id": "dining",
+      "name": "餐饮饮品",
+      "description": "中式正餐、咖啡与餐厅服务"
     },
     {
       "id": "culture",
       "name": "文化娱乐",
-      "description": "给兴趣和创作留一点时间"
+      "description": "阅读、电影、玩具与文娱服务"
     },
     {
       "id": "games",
       "name": "电子游戏",
-      "description": "认真工作，也好好游玩"
+      "description": "境内开发与运营团队待核查"
     }
   ],
   "sources": [
@@ -669,6 +714,450 @@
       "locator": "公告标题与首段自研说明",
       "summary": "官方公告明确本游戏为心动自研，并公布 2023 年 11 月 23 日全平台公测。",
       "limitation": "游戏与研发主体的关联资料；具体项目团队、外包与发行服务人员工时仍需核验。"
+    },
+    {
+      "id": "deli-campus-2025",
+      "title": "得力集团 2025 届管培生招聘",
+      "publisher": "得力集团 / 浙江大学就业服务平台",
+      "url": "https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=294E36F9B088C6D4E0653A68DD0E9B18",
+      "summary": "宁波的产品、研发、设计、采购、财务管培生招聘列明五天八小时、双休，并提及周末加班调休。",
+      "limitation": "2025 届岗位承诺，不等于所有生产岗位的当前实际排班。",
+      "publishedAt": "2024-12-16",
+      "checkedAt": "2026-09-11",
+      "locator": "入职礼遇；招聘需求",
+      "type": "高校招聘"
+    },
+    {
+      "id": "septwolves-hiring",
+      "title": "七匹狼企业招聘档案",
+      "publisher": "福建七匹狼实业股份有限公司 / 实习僧",
+      "url": "https://www.shixiseng.com/com/com_dz3fmmbxozbr",
+      "summary": "企业福利栏标示五天八小时；档案列明品牌与招聘法人。",
+      "limitation": "福利标签无可确认的发布日期，也未列出适用工厂、门店与岗位。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "企业资料、企业福利",
+      "type": "企业招聘"
+    },
+    {
+      "id": "doximi-hiring",
+      "title": "深粮多喜米企业招聘档案",
+      "publisher": "深圳市深粮多喜米商务有限公司 / 实习僧",
+      "url": "https://www.shixiseng.com/com/com_as14wylceb7c",
+      "summary": "企业招聘页标示五天八小时；资料列明其为深圳创立、深粮控股旗下的粮油商务公司。",
+      "limitation": "未注明福利发布日期或适用岗位，不能推广到深粮其他子公司或种植、加工人员。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "企业介绍、企业福利",
+      "type": "企业招聘"
+    },
+    {
+      "id": "jinhe-hiring-2026",
+      "title": "广东金禾面粉大宗商品贸易员招聘",
+      "publisher": "广东金禾面粉 / 五邑大学就业平台",
+      "url": "https://career.wyu.edu.cn/detail/job?id=2692924",
+      "summary": "贸易员招聘写明五天八小时、周末双休，同时提及依法支付加班报酬。",
+      "limitation": "适用于贸易员职位，不直接证明车间、包装和倒班员工的休息安排。",
+      "publishedAt": "2026-04-20",
+      "checkedAt": "2026-09-11",
+      "locator": "其他描述第 1 项",
+      "type": "高校招聘"
+    },
+    {
+      "id": "jinhe-hiring-2022",
+      "title": "广东金禾面粉大学生招聘与培养方案",
+      "publisher": "广东金禾面粉 / 河南工业贸易职业学院",
+      "url": "https://www.hngm.edu.cn/lsgcxy/info/1062/1438.htm",
+      "summary": "历史生产技术管培生资料列明五天八小时及三班轮换，并介绍专用面粉品类。",
+      "limitation": "2022 年资料较旧；当前包装工与其他岗位仍须分别核实。",
+      "publishedAt": "2022-03-14",
+      "checkedAt": "2026-09-11",
+      "locator": "公司简介；生产技术管培生",
+      "type": "高校招聘"
+    },
+    {
+      "id": "sofitel-haikou-campus",
+      "title": "海口索菲特大酒店校园招聘介绍",
+      "publisher": "海口索菲特大酒店 / 海南职业技术学院",
+      "url": "https://www.hcvt.cn/uploadfile/2025/0514/20250514110647979.pdf",
+      "summary": "校园资料福利页列出五天八小时工时制，酒店介绍包括客房与餐厅。",
+      "limitation": "文件路径标示 2025 年 5 月上传，正文无明确发布日期；仅限海口该酒店，实际及外包岗位未知。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "PDF「我们的福利」页（页内标号 17）",
+      "type": "高校招聘"
+    },
+    {
+      "id": "sofitel-haikou-services",
+      "title": "海口索菲特大酒店客房及餐饮",
+      "publisher": "索菲特 / 雅高",
+      "url": "https://sofitel.accor.com/zh/hotels/7970.html",
+      "summary": "官方页面列明海口酒店地址、客房及锦厨、乐轩华等餐饮服务。",
+      "limitation": "服务资料不证明劳动条件；预订及菜单以当日官方信息为准。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "hodo-brand",
+      "title": "红豆居家品牌与产品系列",
+      "publisher": "红豆集团",
+      "url": "https://www.hongdou.com/industry/jj.html",
+      "summary": "集团介绍红豆居家及内衣、文胸、睡衣、内裤、袜子等品类，并列出具体产品系列。",
+      "limitation": "品牌资料没有提供 40 小时和每周两天休息的岗位证据。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "mercury-campus",
+      "title": "水星家纺电商校园招聘简章",
+      "publisher": "水星家纺 / 高校就业平台",
+      "url": "https://51uns.bysjy.com.cn/Announce/Details/3381496?schoolCode=10729",
+      "summary": "电商校园招聘的福利提到双休，介绍水星家纺及其业务。",
+      "limitation": "页标题届次与正文存在差异，且没有明确每周工时；不能据此升级为同时满足两项条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "企业简介；基础保障",
+      "type": "高校招聘"
+    },
+    {
+      "id": "jinhe-production-2026",
+      "title": "广东金禾面粉生产技术管培生招聘",
+      "publisher": "广东金禾面粉 / 五邑大学就业平台",
+      "url": "https://career.wyu.edu.cn/detail/job?id=2692921",
+      "summary": "生产技术管培生的招聘列明五天八小时、周末双休、五险一金，也要求能三班倒并接受加班。",
+      "limitation": "这是生产岗位承诺，仍未提供实际加班、休息日及包装等其他岗位记录，不能视作实际达标。",
+      "publishedAt": "2026-04-20",
+      "checkedAt": "2026-09-11",
+      "locator": "岗位要求；其他描述",
+      "type": "高校招聘"
+    },
+    {
+      "id": "product-jinjian-yuzhenxiang-rice",
+      "title": "玉针香大米 5kg 官方资料",
+      "publisher": "金健",
+      "url": "https://www.jjmy.cn/product/list",
+      "summary": "金健米业大陆官网产品中心明确标示“金健玉针香5kg”并直接使用此图片。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-yili-zhennong-pure-milk",
+      "title": "臻浓金装纯牛奶 250mL 官方资料",
+      "publisher": "伊利",
+      "url": "https://www.yili.com/product/1827",
+      "summary": "伊利大陆官网“臻浓金装纯牛奶”产品条目直接配置此图片。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-deli-vp481m-eraser",
+      "title": "VP481-M 纳米净橡皮 官方资料",
+      "publisher": "得力",
+      "url": "https://www.nbdeli.com/products/productinfo/68389.html",
+      "summary": "得力大陆官网产品列表返回该名称、商品编号及图片，详情页链接对应同一产品。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-haday-gold-label-soy-sauce",
+      "title": "金标生抽 500mL 官方资料",
+      "publisher": "海天",
+      "url": "https://www.haday.com/product-family/",
+      "summary": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-haday-aged-vinegar",
+      "title": "老陈醋 450mL 官方资料",
+      "publisher": "海天",
+      "url": "https://www.haday.com/product-family/",
+      "summary": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-haday-gold-label-oyster-sauce",
+      "title": "金标蚝油 635g 官方资料",
+      "publisher": "海天",
+      "url": "https://www.haday.com/product-family/",
+      "summary": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-deli-pe148-folder",
+      "title": "PE148 双强力夹 官方资料",
+      "publisher": "得力",
+      "url": "https://www.nbdeli.com/products/productinfo/67286.html",
+      "summary": "得力大陆官网产品分类接口中的名称、型号、图片和详情页精确对应。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-deli-zf7774-a4-paper",
+      "title": "ZF7774-10 白令海 A4 复印纸 官方资料",
+      "publisher": "得力",
+      "url": "https://www.nbdeli.com/products/productinfo/70643.html",
+      "summary": "得力大陆官网产品分类条目名称、型号、配图及详情页直接对应。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-septwolves-carrier-jacket",
+      "title": "航母纪念款双面夹克 官方资料",
+      "publisher": "七匹狼",
+      "url": "http://www.septwolves.com/website/Double_jacket.html",
+      "summary": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-septwolves-supercar-jacket",
+      "title": "超跑双面夹克 官方资料",
+      "publisher": "七匹狼",
+      "url": "http://www.septwolves.com/website/Double_jacket.html",
+      "summary": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-honor-600",
+      "title": "荣耀 600 超级版 官方资料",
+      "publisher": "荣耀",
+      "url": "https://www.honor.com/cn/phones/honor-600/",
+      "summary": "荣耀中国大陆官网 /cn/ 的荣耀600产品页；有购买渠道入口。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-laoxiangji-hen-soup",
+      "title": "金牌老母鸡汤 官方资料",
+      "publisher": "老乡鸡",
+      "url": "https://lxjchina.com.cn/",
+      "summary": "品牌官网介绍中国大陆门店，并列出该菜品。具体门店、价格与当日供应未核实。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-shuanghui-wangzhongwang-children-sausage",
+      "title": "王中王儿童肠 官方资料",
+      "publisher": "双汇",
+      "url": "https://www.shuanghui.net/",
+      "summary": "双汇大陆官网视频中心标注“王中王儿童肠”，官网链接双汇商城。未核实时点库存。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-yadea-guanneng-3m9",
+      "title": "冠能 3 M9 旅行版 官方资料",
+      "publisher": "雅迪",
+      "url": "https://www.yadea.com.cn/parameter/parameter_82/index.html",
+      "summary": "雅迪中国大陆官网参数页标明冠能3 M9旅行版 YD1200DB-E，配有线上商城二维码；未核实时点库存。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-forever-ruiying80",
+      "title": "白金系列锐影 80 山地自行车 官方资料",
+      "publisher": "永久",
+      "url": "http://www.cnforever.com/product/detail/id=3973",
+      "summary": "永久大陆官网具体车型页列出锐影80规格、人民币指导零售价与线下门店入口；未核实时点库存。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-luckin-coconut-latte",
+      "title": "生椰拿铁 官方资料",
+      "publisher": "瑞幸咖啡",
+      "url": "https://www.lkcoffee.com/products/lattes/coconut-latte",
+      "summary": "瑞幸中国大陆官网产品菜单，页脚服务法人瑞幸咖啡（北京）有限公司，并提供中国大陆 APP/小程序渠道。具体门店当日供应未核实。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-xiaomi-17",
+      "title": "Xiaomi 17 官方资料",
+      "publisher": "Xiaomi 小米",
+      "url": "https://www.mi.com/prod/xiaomi-17",
+      "summary": "小米中国大陆官网产品页，public product_info 显示 product_id 21931、名称 Xiaomi 17、is_enable 为 true、购买入口至 /shop/buy/detail?product_id=21931；未核实时点库存。",
+      "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "labor-rating-rules",
+      "title": "企业劳动保障守法诚信等级评价办法",
+      "publisher": "人力资源和社会保障部 / 深圳光明区政府",
+      "url": "https://www.szgm.gov.cn/szgm/132104/132207/132452/content/post_8722060.html",
+      "summary": "评价范围涵盖合同、工时休息、工资、社保、派遣和特殊保护；A级为所述评价条件下的守法诚信等级。",
+      "limitation": "行政信用评价有时间和执法覆盖范围，不是逐名员工当前考勤证明。",
+      "publishedAt": "2016-07-25",
+      "checkedAt": "2026-09-11",
+      "locator": "第六、七条",
+      "type": "法规政策"
+    },
+    {
+      "id": "kaiping-labor-2025",
+      "title": "开平市 2025 年度劳动保障守法诚信等级评价结果",
+      "publisher": "开平市人力资源和社会保障局",
+      "url": "https://www.kaiping.gov.cn/jmkpsrsj/gkmlpt/content/3/3501/post_3501327.html",
+      "summary": "公布对 2025 全年的评价结果；广东嘉士利、开兰面粉、广中皇食品等具体法人列为 A 级。",
+      "limitation": "只适用于名单所列法人及 2025 评价期；不等于全部商品、子公司或当前生产岗位已独立核实。",
+      "publishedAt": "2026-06-03",
+      "checkedAt": "2026-09-11",
+      "locator": "附件企业名单第 2、5、222 行等",
+      "type": "政府评价"
+    },
+    {
+      "id": "national-harmony-2022",
+      "title": "2022 年全国和谐劳动关系创建示范企业正式名单",
+      "publisher": "人力资源和社会保障部等四部门",
+      "url": "https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/gggs/tg/202209/W020220919516320167307.docx",
+      "summary": "正式命名名单列有红豆集团、安踏（中国）、雅戈尔等具体主体，可作为企业调查起点。",
+      "limitation": "历史示范称号不是商品认证，也不能代替当前工厂排班或跨法人推断。",
+      "publishedAt": "2022-09-16",
+      "checkedAt": "2026-09-11",
+      "locator": "正式决定附件 1",
+      "type": "政府评价"
+    },
+    {
+      "id": "kailan-products",
+      "title": "开兰面粉家庭装及面条产品",
+      "publisher": "广东开兰面粉有限公司",
+      "url": "https://gdkailan.com/",
+      "summary": "官网列出面包粉、饺子粉、糕点粉的 1kg 家庭装及淮山面等，并提供订购联系方式。",
+      "limitation": "型号介绍与联系方式不能保证特定地区即时库存；厂址与包装版本需分别核对。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "kailan-license",
+      "title": "开兰面粉官网展示的食品生产许可证",
+      "publisher": "广东开兰面粉有限公司展示的生产许可证",
+      "url": "https://gdkailan.com/upfile/2025/04/22/20250422154456_511.jpg",
+      "summary": "许可证 SC10144078300694 列明广东开兰面粉有限公司及江门开平三埠区虹桥路 1 号之二生产地址，证面有效期至 2027-05-15。",
+      "limitation": "证明该主体具有所列国内生产地址；不单独证明每个现售批次或劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "证面：生产者、生产地址、许可证编号、有效期",
+      "type": "生产许可"
+    },
+    {
+      "id": "product-kailan-bread-flour-1kg",
+      "title": "开兰 面包粉 1kg",
+      "publisher": "广东开兰面粉有限公司",
+      "url": "https://gdkailan.com/products/detail/108/",
+      "summary": "官网具体产品页面给出名称、规格与订购联系入口。",
+      "limitation": "当前包装生产商、库存和生产劳动履行仍应对应到批次。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-kailan-dumpling-flour-1kg",
+      "title": "开兰 饺子粉 1kg",
+      "publisher": "广东开兰面粉有限公司",
+      "url": "https://gdkailan.com/products/detail/107/",
+      "summary": "官网具体产品页面给出名称、规格与订购联系入口。",
+      "limitation": "当前包装生产商、库存和生产劳动履行仍应对应到批次。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-kailan-cake-flour-1kg",
+      "title": "开兰 糕点粉 1kg",
+      "publisher": "广东开兰面粉有限公司",
+      "url": "https://gdkailan.com/products/detail/106/",
+      "summary": "官网具体产品页面给出名称、规格与订购联系入口。",
+      "limitation": "当前包装生产商、库存和生产劳动履行仍应对应到批次。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-kailan-yam-noodles",
+      "title": "开兰 淮山面 1.2kg",
+      "publisher": "广东开兰面粉有限公司",
+      "url": "https://gdkailan.com/products/detail/201/",
+      "summary": "官网具体产品页面给出名称、规格与订购联系入口。",
+      "limitation": "当前包装生产商、库存和生产劳动履行仍应对应到批次。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "guangzhonghuang-products",
+      "title": "广中皇品牌与腐乳产品",
+      "publisher": "海天味业 / 广中皇",
+      "url": "https://www.haday.com/subbrand-gzh/",
+      "summary": "海天旗下品牌页面介绍广中皇，并展示微辣腐乳 328g 的包装。",
+      "limitation": "本条采用官网产品合照，所选微辣 328g 是图中左上红盖瓶；同图其他商品未合并算作本条。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
     }
   ],
   "companies": [
@@ -723,7 +1212,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "40 小时基准 · 双休披露"
+      "cardNote": "40 小时基准 · 双休披露",
+      "origin": "china",
+      "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
     },
     {
       "id": "xd",
@@ -772,7 +1263,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "5 × 8 小时 · 有制度例外"
+      "cardNote": "5 × 8 小时 · 有制度例外",
+      "origin": "china",
+      "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
     },
     {
       "id": "ifi",
@@ -819,7 +1312,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "5 × 8 小时 · 招聘资料"
+      "cardNote": "5 × 8 小时 · 招聘资料",
+      "origin": "international",
+      "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
     },
     {
       "id": "opple",
@@ -867,7 +1362,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "5 × 8 小时 · 历史校招"
+      "cardNote": "5 × 8 小时 · 历史校招",
+      "origin": "china",
+      "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
     },
     {
       "id": "ergonor",
@@ -913,7 +1410,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "40 小时 + 双休待补证"
+      "cardNote": "40 小时 + 双休待补证",
+      "origin": "china",
+      "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
     },
     {
       "id": "shokken",
@@ -962,7 +1461,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "5 × 8 小时 · 旺季有例外"
+      "cardNote": "5 × 8 小时 · 旺季有例外",
+      "origin": "international",
+      "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
     },
     {
       "id": "ikea",
@@ -1004,7 +1505,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "40 小时 + 双休待补证"
+      "cardNote": "40 小时 + 双休待补证",
+      "origin": "international",
+      "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
     },
     {
       "id": "lego",
@@ -1050,7 +1553,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "40 小时 + 双休待补证"
+      "cardNote": "40 小时 + 双休待补证",
+      "origin": "international",
+      "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
     },
     {
       "id": "bsh",
@@ -1098,7 +1603,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "40 小时 + 双休待补证"
+      "cardNote": "40 小时 + 双休待补证",
+      "origin": "international",
+      "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
     },
     {
       "id": "pathea",
@@ -1144,7 +1651,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "40 小时 + 双休待补证"
+      "cardNote": "40 小时 + 双休待补证",
+      "origin": "china",
+      "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
     },
     {
       "id": "coconut",
@@ -1186,7 +1695,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
-      "cardNote": "40 小时 + 双休待补证"
+      "cardNote": "40 小时 + 双休待补证",
+      "origin": "china",
+      "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
     },
     {
       "id": "apple",
@@ -1240,7 +1751,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
-      "cardNote": "40 小时 · 在线商店岗位"
+      "cardNote": "40 小时 · 在线商店岗位",
+      "origin": "international",
+      "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
     },
     {
       "id": "darlie",
@@ -1289,7 +1802,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
-      "cardNote": "≤40 小时 · 招聘双休披露"
+      "cardNote": "≤40 小时 · 招聘双休披露",
+      "origin": "unconfirmed",
+      "originNote": "品牌创立、品牌归属与在华合资业务背景需分别核对，暂不纳入中国品牌筛选。"
     },
     {
       "id": "meiji-ice",
@@ -1341,7 +1856,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
-      "cardNote": "5 × 8 小时 · 生产另排班"
+      "cardNote": "5 × 8 小时 · 生产另排班",
+      "origin": "international",
+      "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
     },
     {
       "id": "vista",
@@ -1390,7 +1907,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
-      "cardNote": "5 × 8 小时 · 招聘福利"
+      "cardNote": "5 × 8 小时 · 招聘福利",
+      "origin": "china",
+      "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
     },
     {
       "id": "jahwa",
@@ -1437,7 +1956,9 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
-      "cardNote": "40 小时已披露 · 双休待补"
+      "cardNote": "40 小时已披露 · 双休待补",
+      "origin": "china",
+      "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
     },
     {
       "id": "microsoft",
@@ -1483,7 +2004,1484 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "核对中国岗位与手柄具体生产工厂，补充实际工时和休息记录。"
+      "nextCheck": "核对中国岗位与手柄具体生产工厂，补充实际工时和休息记录。",
+      "origin": "international",
+      "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
+    },
+    {
+      "id": "deli",
+      "name": "得力",
+      "legalName": "得力集团有限公司",
+      "location": "浙江宁波",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "招聘披露 5 天 × 8 小时",
+      "restLabel": "招聘披露每周两天休息",
+      "cardNote": "5 天 × 8 小时岗位线索",
+      "scope": "2025 届宁波产品、研发、设计、采购及财务管培生岗位。",
+      "finding": "管培生招聘同时给出五天八小时和双休；周末可能加班并安排调休。",
+      "caveats": [
+        "资料发布于 2024-12-16，适用 2025 届所列岗位。",
+        "招聘明确存在周末加班调休，不能视为每周实际必休两天。",
+        "纸浆、油墨、外包生产和其他工厂岗位未验证。"
+      ],
+      "sourceIds": [
+        "deli-campus-2025"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "2025 届宁波产品、研发、设计、采购及财务管培生岗位。",
+          "sourceIds": [
+            "deli-campus-2025"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "septwolves",
+      "name": "七匹狼",
+      "legalName": "福建七匹狼实业股份有限公司",
+      "location": "福建晋江 / 厦门",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "招聘披露 5 天 × 8 小时",
+      "restLabel": "招聘披露每周两天休息",
+      "cardNote": "招聘福利标签 · 范围待核",
+      "scope": "招聘企业页的福利标签；具体适用岗位和年份未明。",
+      "finding": "招聘页标示五天八小时，仍需确认哪些岗位适用。",
+      "caveats": [
+        "页面标题随年份变化，不能用作福利发布年份。",
+        "不能将企业页福利扩展至工厂、加盟门店或代工厂。",
+        "未取得当前实际工时与休息记录。"
+      ],
+      "sourceIds": [
+        "septwolves-hiring"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "招聘企业页的福利标签；具体适用岗位和年份未明。",
+          "sourceIds": [
+            "septwolves-hiring"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "doximi",
+      "name": "深粮多喜米",
+      "legalName": "深圳市深粮多喜米商务有限公司",
+      "location": "广东深圳",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "招聘披露 5 天 × 8 小时",
+      "restLabel": "招聘披露每周两天休息",
+      "cardNote": "商务公司招聘 · 5 天 × 8 小时",
+      "scope": "多喜米商务公司的招聘福利；不涵盖深粮全部粮油生产企业。",
+      "finding": "多喜米招聘档案给出五天八小时；粮油加工与种植人员的安排仍未核实。",
+      "caveats": [
+        "福利标签发布日期和岗位范围未注明。",
+        "只对应多喜米公司，不能套用到平台上销售的所有品牌。",
+        "供应链的产地、加工厂和物流实际工时未知。"
+      ],
+      "sourceIds": [
+        "doximi-hiring"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "多喜米商务公司的招聘福利；不涵盖深粮全部粮油生产企业。",
+          "sourceIds": [
+            "doximi-hiring"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "jinhe",
+      "name": "金禾面粉",
+      "legalName": "广东金禾面粉有限公司",
+      "location": "广东佛山顺德",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "招聘披露 5 天 × 8 小时",
+      "restLabel": "招聘披露每周两天休息",
+      "cardNote": "2026 生产岗位 · 接受加班",
+      "scope": "2026 年生产技术管培生及贸易员；包装等岗位另核。",
+      "finding": "2026 年生产技术岗位披露五天八小时、双休，也明确要求接受三班倒及加班。",
+      "caveats": [
+        "2026 年生产岗位明确要求接受加班和三班倒，不能保证实际每周 40 小时及两天休息。",
+        "管培生不代表全部包装、装卸及其他生产岗位。",
+        "具体面粉批次与工厂、原粮及运输人员仍需对应。"
+      ],
+      "sourceIds": [
+        "jinhe-production-2026",
+        "jinhe-hiring-2026",
+        "jinhe-hiring-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "2026 年大宗商品贸易员；2022 年生产技术管培生仅作历史参考。",
+          "sourceIds": [
+            "jinhe-hiring-2026",
+            "jinhe-hiring-2022"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "policy",
+          "detail": "生产技术管培生招聘有五天八小时承诺，但实际加班和其他工种未核验。",
+          "sourceIds": [
+            "jinhe-production-2026"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "sofitel-haikou",
+      "name": "海口索菲特大酒店",
+      "legalName": "海口索菲特大酒店（具体签约法人待补）",
+      "location": "海南海口滨海大道 105 号",
+      "origin": "international",
+      "originNote": "国际品牌在中国大陆的具体业务；本档案的岗位资料不代表全球或其他门店。",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "招聘披露 5 天 × 8 小时",
+      "restLabel": "招聘披露每周两天休息",
+      "cardNote": "5 天 × 8 小时岗位线索",
+      "scope": "海口索菲特大酒店校园招聘福利；不代表雅高其他酒店或所有外包人员。",
+      "finding": "该酒店校园招聘材料披露五天八小时；仍需确认各部门实际排班。",
+      "caveats": [
+        "正文未注明发布日期，2025 年上传路径仅作来源时间线索。",
+        "招聘资料使用酒店名称，劳动合同法人仍需核对。",
+        "旺季、厨房与外包服务人员未取得独立排班记录。"
+      ],
+      "sourceIds": [
+        "sofitel-haikou-campus"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "海口索菲特大酒店校园招聘福利；不代表雅高其他酒店或所有外包人员。",
+          "sourceIds": [
+            "sofitel-haikou-campus"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "hodo",
+      "name": "红豆居家",
+      "legalName": "红豆集团旗下红豆居家业务（具体生产及零售法人待逐项核对）",
+      "location": "江苏无锡等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "hodo-brand"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "红豆集团有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "称号对象是集团，不自动覆盖红豆居家每个制造、零售及外包法人。"
+        }
+      ]
+    },
+    {
+      "id": "mercury",
+      "name": "水星家纺",
+      "legalName": "上海水星家用纺织品股份有限公司",
+      "location": "上海奉贤等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "电商校招的双休福利；工厂、缝纫工及具体门店另核。",
+      "finding": "已找到电商招聘的双休表述，仍缺明确的 40 小时依据。",
+      "caveats": [
+        "页面标题届次与正文存在差异，来源日期不能确定。",
+        "电商办公室福利不能代表缝纫、车间或加盟店。",
+        "尚未核对实际工时和产品对应的生产主体。"
+      ],
+      "sourceIds": [
+        "mercury-campus"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "电商校招的双休福利；工厂、缝纫工及具体门店另核。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "jinjian",
+      "name": "金健米业",
+      "legalName": "金健米业股份有限公司",
+      "location": "湖南常德",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "yili",
+      "name": "伊利",
+      "legalName": "内蒙古伊利实业集团股份有限公司",
+      "location": "内蒙古呼和浩特等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "haday",
+      "name": "海天味业",
+      "legalName": "佛山市海天调味食品股份有限公司（各生产子公司另核）",
+      "location": "广东佛山等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "honor",
+      "name": "荣耀",
+      "legalName": "荣耀品牌境内业务（具体制造法人待核）",
+      "location": "广东深圳等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "laoxiangji",
+      "name": "老乡鸡",
+      "legalName": "安徽老乡鸡餐饮有限公司（具体门店另核）",
+      "location": "安徽合肥及各境内门店",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "shuanghui",
+      "name": "双汇",
+      "legalName": "河南双汇投资发展股份有限公司（各生产法人另核）",
+      "location": "河南漯河等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "yadea",
+      "name": "雅迪",
+      "legalName": "雅迪品牌中国业务（具体制造法人待核）",
+      "location": "江苏无锡等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "forever",
+      "name": "永久",
+      "legalName": "永久品牌中国业务（具体制造法人待核）",
+      "location": "上海等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "luckin",
+      "name": "瑞幸咖啡",
+      "legalName": "瑞幸咖啡境内运营及门店主体（具体门店另核）",
+      "location": "福建厦门及各境内门店",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "xiaomi",
+      "name": "小米",
+      "legalName": "小米集团境内业务（具体制造法人待核）",
+      "location": "北京等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "kailan",
+      "name": "开兰面粉",
+      "legalName": "广东开兰面粉有限公司",
+      "location": "广东江门开平",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "kaiping-labor-2025"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "广东开兰面粉有限公司",
+          "result": "劳动守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "jiashili",
+      "name": "嘉士利",
+      "legalName": "广东嘉士利食品集团有限公司",
+      "location": "广东江门开平",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "kaiping-labor-2025"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "广东嘉士利食品集团有限公司",
+          "result": "劳动守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "guangzhonghuang",
+      "name": "广中皇",
+      "legalName": "广东广中皇食品有限公司",
+      "location": "广东江门开平水口",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "kaiping-labor-2025"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "广东广中皇食品有限公司",
+          "result": "劳动守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "anta",
+      "name": "安踏",
+      "legalName": "安踏（中国）有限公司",
+      "location": "福建晋江等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "安踏（中国）有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "youngor",
+      "name": "雅戈尔",
+      "legalName": "雅戈尔集团股份有限公司（2022 年名单主体）",
+      "location": "浙江宁波等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "雅戈尔集团股份有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "angel",
+      "name": "安琪酵母",
+      "legalName": "安琪酵母股份有限公司",
+      "location": "湖北宜昌等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "安琪酵母股份有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "weigang",
+      "name": "卫岗乳业",
+      "legalName": "南京卫岗乳业有限公司",
+      "location": "江苏南京等",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "南京卫岗乳业有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "yanghe",
+      "name": "洋河",
+      "legalName": "江苏洋河酒厂股份有限公司",
+      "location": "江苏宿迁",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "江苏洋河酒厂股份有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "geely",
+      "name": "吉利",
+      "legalName": "浙江吉利控股集团有限公司（下属整车制造法人另核）",
+      "location": "浙江杭州及各制造基地",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "浙江吉利控股集团有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "qingming-riverside",
+      "name": "清明上河园",
+      "legalName": "开封清明上河园股份有限公司",
+      "location": "河南开封",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "开封清明上河园股份有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "canton-tower",
+      "name": "广州塔",
+      "legalName": "广州塔旅游文化发展股份有限公司",
+      "location": "广东广州",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "广州塔旅游文化发展股份有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "jingmen-zhongfang",
+      "name": "荆门中房",
+      "legalName": "中房集团荆门房地产开发有限责任公司",
+      "location": "湖北荆门",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有政府记录 · 当前产线待核",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "中房集团荆门房地产开发有限责任公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
     }
   ],
   "products": [
@@ -1509,6 +3507,26 @@
       "relationshipSourceIds": [
         "product-anker-nano-65w",
         "anker-brands"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "充电器"
       ]
     },
     {
@@ -1533,6 +3551,26 @@
       "relationshipSourceIds": [
         "product-heartopia",
         "xd-2025"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "手机游戏"
       ]
     },
     {
@@ -1557,6 +3595,26 @@
       "relationshipSourceIds": [
         "product-soundcore-space-one",
         "anker-brands"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "耳机"
       ]
     },
     {
@@ -1581,6 +3639,26 @@
       "relationshipSourceIds": [
         "product-eufy-x10-pro-omni",
         "anker-brands"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "扫拖"
       ]
     },
     {
@@ -1604,6 +3682,26 @@
       "relationship": "欧普照明官方产品页面。",
       "relationshipSourceIds": [
         "product-opple-boruipro"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "台灯"
       ]
     },
     {
@@ -1628,14 +3726,32 @@
       "relationshipSourceIds": [
         "product-ifi-zen-dac-3",
         "ifi-hiring"
-      ]
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": []
     },
     {
       "id": "shokken-seasoning",
       "name": "液体与粉体复合调味料",
       "brand": "食研食品",
       "companyId": "shokken",
-      "category": "daily",
+      "category": "food",
       "description": "从日常调味，追问食物背后的劳动。",
       "tags": [
         "调味料",
@@ -1652,7 +3768,25 @@
       "relationshipSourceIds": [
         "shokken-group",
         "product-shokken"
-      ]
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": []
     },
     {
       "id": "ergonor-jinhao-l2",
@@ -1675,6 +3809,26 @@
       "relationship": "保友官方产品；劳动资料来自广州联友，尚未对应到本商品制造主体。",
       "relationshipSourceIds": [
         "product-ergonor-jinhao-l2"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "椅"
       ]
     },
     {
@@ -1698,6 +3852,26 @@
       "relationship": "宜家官方商品页面及相应尺寸产品图。",
       "relationshipSourceIds": [
         "product-ikea-billy"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "书柜"
       ]
     },
     {
@@ -1722,6 +3896,26 @@
       "relationship": "乐高官方 Botanicals 套装。",
       "relationshipSourceIds": [
         "product-lego-tiny-plants"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "积木"
       ]
     },
     {
@@ -1745,6 +3939,27 @@
       "relationship": "帕斯亚官网展示其开发的沙石镇时光。",
       "relationshipSourceIds": [
         "product-my-time-at-sandrock"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "电脑游戏",
+        "角色扮演"
       ]
     },
     {
@@ -1768,6 +3983,26 @@
       "relationship": "宜家官方商品页面及相应型号产品图。",
       "relationshipSourceIds": [
         "product-ikea-raskog"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "收纳"
       ]
     },
     {
@@ -1791,6 +4026,27 @@
       "relationship": "椰岛官网展示江南百景图。",
       "relationshipSourceIds": [
         "product-jiangnan"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "手机游戏",
+        "策略"
       ]
     },
     {
@@ -1814,6 +4070,26 @@
       "relationship": "品牌官网页脚与招聘主体同为好来化工（中山）；尚未核到具体批次生产线。",
       "relationshipSourceIds": [
         "darlie-mint-product"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "牙膏"
       ]
     },
     {
@@ -1821,7 +4097,7 @@
       "name": "炼乳红豆雪糕 87g",
       "brand": "明治",
       "companyId": "meiji-ice",
-      "category": "daily",
+      "category": "food",
       "description": "给寻常的一天，留一点甜。",
       "tags": [
         "食品",
@@ -1839,14 +4115,32 @@
       "relationshipSourceIds": [
         "meiji-cn-ice",
         "meiji-cn-companies"
-      ]
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": []
     },
     {
       "id": "meiji-matcha",
       "name": "抹茶白玉雪糕 76g",
       "brand": "明治",
       "companyId": "meiji-ice",
-      "category": "daily",
+      "category": "food",
       "description": "抹茶与白玉，装进一份小小的休息。",
       "tags": [
         "食品",
@@ -1864,7 +4158,25 @@
       "relationshipSourceIds": [
         "meiji-cn-ice",
         "meiji-cn-companies"
-      ]
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": []
     },
     {
       "id": "vista-magazine",
@@ -1888,6 +4200,26 @@
       "relationship": "海丰官网把杂志列入产品矩阵；北京招聘福利不能自动扩大到各地业务主体。",
       "relationshipSourceIds": [
         "vista-products"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "杂志"
       ]
     },
     {
@@ -1913,6 +4245,26 @@
       "relationship": "海丰官网列有锋绘产品；编辑、版权、印刷和发行各主体劳动安排仍需分别核对。",
       "relationshipSourceIds": [
         "vista-products"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "杂志"
       ]
     },
     {
@@ -1936,6 +4288,26 @@
       "relationship": "Apple 中国官方商品；劳动线索仅来自上海在线商店客服，不能代表制造商。",
       "relationshipSourceIds": [
         "product-apple-iphone-17"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "手机"
       ]
     },
     {
@@ -1959,6 +4331,26 @@
       "relationship": "Apple 中国官方商品；劳动线索仅来自上海在线商店客服，不能代表制造商。",
       "relationshipSourceIds": [
         "product-apple-macbook-air-13-m5"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "笔记本"
       ]
     },
     {
@@ -1982,6 +4374,26 @@
       "relationship": "Apple 中国官方商品；劳动线索仅来自上海在线商店客服，不能代表制造商。",
       "relationshipSourceIds": [
         "product-apple-ipad-a16"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "平板"
       ]
     },
     {
@@ -2005,6 +4417,26 @@
       "relationship": "博世中国官方目录型号；中国品牌业务与具体工厂的工时需要分别核对。",
       "relationshipSourceIds": [
         "product-bosch-kcb89e420c"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "冰箱"
       ]
     },
     {
@@ -2028,6 +4460,26 @@
       "relationship": "博世中国官方目录型号；中国品牌业务与具体工厂的工时需要分别核对。",
       "relationshipSourceIds": [
         "product-bosch-wgp774f80w"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "洗衣机"
       ]
     },
     {
@@ -2051,6 +4503,26 @@
       "relationship": "博世中国官方目录型号；中国品牌业务与具体工厂的工时需要分别核对。",
       "relationshipSourceIds": [
         "product-bosch-sju4emw26c"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "洗碗机"
       ]
     },
     {
@@ -2075,6 +4547,26 @@
       "relationship": "Xbox 中国官方商品；没有取得中国岗位或具体手柄制造厂的 40 + 2 证据。",
       "relationshipSourceIds": [
         "product-xbox-controller-pulse-red"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "手柄"
       ]
     },
     {
@@ -2099,6 +4591,26 @@
       "relationship": "乐高中国官方套装；制造工厂与本项目工时标准尚未核实。",
       "relationshipSourceIds": [
         "product-lego-classic-11045"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "积木"
       ]
     },
     {
@@ -2122,6 +4634,26 @@
       "relationship": "上海家化官网确认品牌及该产品；集团报告的 40 小时制度不能证明本产品工厂双休。",
       "relationshipSourceIds": [
         "jahwa-homeaegis"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "洗衣液"
       ]
     },
     {
@@ -2145,6 +4677,26 @@
       "relationship": "上海家化官网确认品牌及该产品；集团报告的 40 小时制度不能证明本产品工厂双休。",
       "relationshipSourceIds": [
         "jahwa-liushen"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "沐浴露"
       ]
     },
     {
@@ -2170,6 +4722,28 @@
       "relationshipSourceIds": [
         "product-torchlight-infinite",
         "xd-2025"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "手机游戏",
+        "电脑游戏",
+        "角色扮演"
       ]
     },
     {
@@ -2195,6 +4769,2094 @@
       "relationship": "官方资料确认心动研发运营；集团年报的标准制度有特殊工时与加班例外，不能代替本项目实际考勤。",
       "relationshipSourceIds": [
         "product-sword-of-convallaria",
+        "xd-2025"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "手机游戏",
+        "电脑游戏",
+        "策略"
+      ]
+    },
+    {
+      "id": "sofitel-haikou-stay",
+      "name": "海口索菲特住宿",
+      "brand": "Sofitel",
+      "companyId": "sofitel-haikou",
+      "category": "transport",
+      "description": "海口滨海大道的酒店住宿服务。",
+      "tags": [
+        "住宿",
+        "酒店",
+        "旅行",
+        "海南"
+      ],
+      "url": "https://sofitel.accor.com/zh/hotels/7970.html",
+      "relationshipSourceIds": [
+        "sofitel-haikou-services"
+      ],
+      "market": "限海南海口这家酒店；不将岗位线索推广到同品牌其他门店。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "雅高中国页面提供该酒店住宿及餐饮服务的预订联系入口。",
+          "sourceIds": [
+            "sofitel-haikou-services"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "具体服务地点为中国海南海口滨海大道 105 号；不能据地点推断每名服务人员国籍。",
+          "sourceIds": [
+            "sofitel-haikou-services"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": [
+            "sofitel-haikou-campus"
+          ]
+        }
+      },
+      "needs": [
+        "酒店"
+      ]
+    },
+    {
+      "id": "sofitel-haikou-chinese",
+      "name": "乐轩华中餐厅",
+      "brand": "海口索菲特",
+      "companyId": "sofitel-haikou",
+      "category": "dining",
+      "description": "海南菜与粤菜的酒店中餐服务。",
+      "tags": [
+        "正餐",
+        "餐饮",
+        "粤菜",
+        "海南菜"
+      ],
+      "url": "https://sofitel.accor.com/zh/hotels/7970.html",
+      "relationshipSourceIds": [
+        "sofitel-haikou-services"
+      ],
+      "market": "限海口索菲特乐轩华；菜单与开放时间以酒店为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "雅高中国页面提供该酒店住宿及餐饮服务的预订联系入口。",
+          "sourceIds": [
+            "sofitel-haikou-services"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "具体服务地点为中国海南海口滨海大道 105 号；不能据地点推断每名服务人员国籍。",
+          "sourceIds": [
+            "sofitel-haikou-services"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": [
+            "sofitel-haikou-campus"
+          ]
+        }
+      },
+      "needs": [
+        "正餐"
+      ]
+    },
+    {
+      "id": "sofitel-haikou-buffet",
+      "name": "锦厨自助餐",
+      "brand": "海口索菲特",
+      "companyId": "sofitel-haikou",
+      "category": "dining",
+      "description": "早餐、午晚餐时段的自助餐服务。",
+      "tags": [
+        "正餐",
+        "餐饮",
+        "自助餐"
+      ],
+      "url": "https://sofitel.accor.com/zh/hotels/7970.html",
+      "relationshipSourceIds": [
+        "sofitel-haikou-services"
+      ],
+      "market": "限海口索菲特锦厨；不同餐期的内容以酒店为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "雅高中国页面提供该酒店住宿及餐饮服务的预订联系入口。",
+          "sourceIds": [
+            "sofitel-haikou-services"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "具体服务地点为中国海南海口滨海大道 105 号；不能据地点推断每名服务人员国籍。",
+          "sourceIds": [
+            "sofitel-haikou-services"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": [
+            "sofitel-haikou-campus"
+          ]
+        }
+      },
+      "needs": [
+        "自助餐"
+      ]
+    },
+    {
+      "id": "hodo-thermal-underwear",
+      "name": "红豆绒发热内衣系列",
+      "brand": "红豆居家",
+      "companyId": "hodo",
+      "category": "clothing",
+      "description": "秋冬打底的保暖内衣系列。",
+      "tags": [
+        "内衣",
+        "秋衣",
+        "秋裤",
+        "服装"
+      ],
+      "url": "https://www.hongdou.com/industry/jj.html",
+      "relationshipSourceIds": [
+        "hodo-brand"
+      ],
+      "market": "官网系列收录；不同款式和尺码合并展示，不按颜色重复计数。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": []
+    },
+    {
+      "id": "hodo-homewear",
+      "name": "居家绒舒适睡衣系列",
+      "brand": "红豆居家",
+      "companyId": "hodo",
+      "category": "clothing",
+      "description": "居家穿着的绒面睡衣系列。",
+      "tags": [
+        "睡衣",
+        "家居服",
+        "服装"
+      ],
+      "url": "https://www.hongdou.com/industry/jj.html",
+      "relationshipSourceIds": [
+        "hodo-brand"
+      ],
+      "market": "官网系列收录；不同款式和尺码合并展示，不按颜色重复计数。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": []
+    },
+    {
+      "id": "hodo-bra",
+      "name": "婴儿绵柔软型文胸系列",
+      "brand": "红豆居家",
+      "companyId": "hodo",
+      "category": "clothing",
+      "description": "日常穿着的贴身衣物系列。",
+      "tags": [
+        "文胸",
+        "内衣",
+        "女装"
+      ],
+      "url": "https://www.hongdou.com/industry/jj.html",
+      "relationshipSourceIds": [
+        "hodo-brand"
+      ],
+      "market": "官网系列收录；不同款式和尺码合并展示，不按颜色重复计数。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "sourceIds": []
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "sourceIds": []
+        }
+      },
+      "needs": []
+    },
+    {
+      "id": "jinjian-yuzhenxiang-rice",
+      "name": "玉针香大米 5kg",
+      "brand": "金健",
+      "companyId": "jinjian",
+      "category": "food",
+      "description": "日常蒸饭用的大米。",
+      "tags": [
+        "大米",
+        "主食",
+        "粮食"
+      ],
+      "url": "https://www.jjmy.cn/product/list",
+      "relationshipSourceIds": [
+        "product-jinjian-yuzhenxiang-rice"
+      ],
+      "market": "金健米业大陆官网产品中心明确标示“金健玉针香5kg”并直接使用此图片。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/jinjian-yuzhenxiang-rice.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.jjmy.cn/profile/upload/2025/11/24/1-2105222350260-L_20251124183113A047.png",
+      "imageRights": "金健米业股份有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "金健米业大陆官网产品中心明确标示“金健玉针香5kg”并直接使用此图片。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-jinjian-yuzhenxiang-rice"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "大米"
+      ]
+    },
+    {
+      "id": "yili-zhennong-pure-milk",
+      "name": "臻浓金装纯牛奶 250mL",
+      "brand": "伊利",
+      "companyId": "yili",
+      "category": "drinks",
+      "description": "盒装常温纯牛奶。",
+      "tags": [
+        "牛奶",
+        "乳品",
+        "早餐",
+        "饮料"
+      ],
+      "url": "https://www.yili.com/product/1827",
+      "relationshipSourceIds": [
+        "product-yili-zhennong-pure-milk"
+      ],
+      "market": "伊利大陆官网“臻浓金装纯牛奶”产品条目直接配置此图片。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/yili-zhennong-pure-milk.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.yili.com/uploads/2024-03-10/6271e5ad-7df0-41f1-9ba9-e36f86b76d9d1710059460053.jpg",
+      "imageRights": "内蒙古伊利实业集团股份有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "伊利大陆官网“臻浓金装纯牛奶”产品条目直接配置此图片。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-yili-zhennong-pure-milk"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "牛奶"
+      ]
+    },
+    {
+      "id": "deli-vp481m-eraser",
+      "name": "VP481-M 纳米净橡皮",
+      "brand": "得力",
+      "companyId": "deli",
+      "category": "stationery",
+      "description": "铅笔书写时使用的橡皮擦。",
+      "tags": [
+        "橡皮",
+        "学习",
+        "文具"
+      ],
+      "url": "https://www.nbdeli.com/products/productinfo/68389.html",
+      "relationshipSourceIds": [
+        "product-deli-vp481m-eraser"
+      ],
+      "market": "得力大陆官网产品列表返回该名称、商品编号及图片，详情页链接对应同一产品。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/deli-vp481m-eraser.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.nbdeli.com/bocupload/product/140058030/1.jpg",
+      "imageRights": "得力集团有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "得力大陆官网产品列表返回该名称、商品编号及图片，详情页链接对应同一产品。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-deli-vp481m-eraser"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "橡皮"
+      ]
+    },
+    {
+      "id": "haday-gold-label-soy-sauce",
+      "name": "金标生抽 500mL",
+      "brand": "海天",
+      "companyId": "haday",
+      "category": "food",
+      "description": "厨房烹调和凉拌用的生抽。",
+      "tags": [
+        "酱油",
+        "生抽",
+        "调味"
+      ],
+      "url": "https://www.haday.com/product-family/",
+      "relationshipSourceIds": [
+        "product-haday-gold-label-soy-sauce"
+      ],
+      "market": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/haday-gold-label-soy-sauce.webp",
+      "imageMode": "contain",
+      "imageSource": "https://static.haday.com/upload/2025/10/28/53cde3eacf3448e58778eee604680b62.png",
+      "imageRights": "佛山市海天调味食品股份有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-haday-gold-label-soy-sauce"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "酱油"
+      ]
+    },
+    {
+      "id": "haday-aged-vinegar",
+      "name": "老陈醋 450mL",
+      "brand": "海天",
+      "companyId": "haday",
+      "category": "food",
+      "description": "炒菜、凉拌与蘸食用的陈醋。",
+      "tags": [
+        "醋",
+        "陈醋",
+        "调味"
+      ],
+      "url": "https://www.haday.com/product-family/",
+      "relationshipSourceIds": [
+        "product-haday-aged-vinegar"
+      ],
+      "market": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/haday-aged-vinegar.webp",
+      "imageMode": "contain",
+      "imageSource": "https://static.haday.com/upload/2025/10/29/2030b8d1cd1b436cb1a29674f815462d.png",
+      "imageRights": "佛山市海天调味食品股份有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-haday-aged-vinegar"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "醋"
+      ]
+    },
+    {
+      "id": "haday-gold-label-oyster-sauce",
+      "name": "金标蚝油 635g",
+      "brand": "海天",
+      "companyId": "haday",
+      "category": "food",
+      "description": "炒菜与调馅用的蚝油。",
+      "tags": [
+        "蚝油",
+        "调味"
+      ],
+      "url": "https://www.haday.com/product-family/",
+      "relationshipSourceIds": [
+        "product-haday-gold-label-oyster-sauce"
+      ],
+      "market": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/haday-gold-label-oyster-sauce.webp",
+      "imageMode": "contain",
+      "imageSource": "https://static.haday.com/upload/2025/10/29/a0b567bdc1b041659bb0bd603338779d.png",
+      "imageRights": "佛山市海天调味食品股份有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-haday-gold-label-oyster-sauce"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "蚝油"
+      ]
+    },
+    {
+      "id": "deli-pe148-folder",
+      "name": "PE148 双强力夹",
+      "brand": "得力",
+      "companyId": "deli",
+      "category": "stationery",
+      "description": "归类收纳日常纸质文件。",
+      "tags": [
+        "文件夹",
+        "收纳",
+        "办公"
+      ],
+      "url": "https://www.nbdeli.com/products/productinfo/67286.html",
+      "relationshipSourceIds": [
+        "product-deli-pe148-folder"
+      ],
+      "market": "得力大陆官网产品分类接口中的名称、型号、图片和详情页精确对应。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/deli-pe148-folder.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.nbdeli.com/bocupload/product/140055110/1.jpg",
+      "imageRights": "得力集团有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "得力大陆官网产品分类接口中的名称、型号、图片和详情页精确对应。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-deli-pe148-folder"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "文件夹"
+      ]
+    },
+    {
+      "id": "deli-zf7774-a4-paper",
+      "name": "ZF7774-10 白令海 A4 复印纸",
+      "brand": "得力",
+      "companyId": "deli",
+      "category": "stationery",
+      "description": "办公打印与复印用纸，75g。",
+      "tags": [
+        "纸",
+        "A4",
+        "打印纸",
+        "办公"
+      ],
+      "url": "https://www.nbdeli.com/products/productinfo/70643.html",
+      "relationshipSourceIds": [
+        "product-deli-zf7774-a4-paper"
+      ],
+      "market": "得力大陆官网产品分类条目名称、型号、配图及详情页直接对应。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/deli-zf7774-a4-paper.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.nbdeli.com/bocupload/product/140062975/1.jpg",
+      "imageRights": "得力集团有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "得力大陆官网产品分类条目名称、型号、配图及详情页直接对应。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-deli-zf7774-a4-paper"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "复印纸"
+      ]
+    },
+    {
+      "id": "septwolves-carrier-jacket",
+      "name": "航母纪念款双面夹克",
+      "brand": "七匹狼",
+      "companyId": "septwolves",
+      "category": "clothing",
+      "description": "双面穿着的日常外套。",
+      "tags": [
+        "夹克",
+        "上衣",
+        "男装",
+        "衣服"
+      ],
+      "url": "http://www.septwolves.com/website/Double_jacket.html",
+      "relationshipSourceIds": [
+        "product-septwolves-carrier-jacket"
+      ],
+      "market": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/septwolves-carrier-jacket.webp",
+      "imageMode": "contain",
+      "imageSource": "http://www.septwolves.com/web2024/upload/images/page0504bg.jpg",
+      "imageRights": "福建七匹狼实业股份有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-septwolves-carrier-jacket"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "夹克"
+      ]
+    },
+    {
+      "id": "septwolves-supercar-jacket",
+      "name": "超跑双面夹克",
+      "brand": "七匹狼",
+      "companyId": "septwolves",
+      "category": "clothing",
+      "description": "品牌官网展示的双面夹克款式。",
+      "tags": [
+        "夹克",
+        "上衣",
+        "男装",
+        "衣服"
+      ],
+      "url": "http://www.septwolves.com/website/Double_jacket.html",
+      "relationshipSourceIds": [
+        "product-septwolves-supercar-jacket"
+      ],
+      "market": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/septwolves-supercar-jacket.webp",
+      "imageMode": "contain",
+      "imageSource": "http://www.septwolves.com/web2024/upload/images/page0503bg.jpg",
+      "imageRights": "福建七匹狼实业股份有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-septwolves-supercar-jacket"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "夹克"
+      ]
+    },
+    {
+      "id": "honor-600",
+      "name": "荣耀 600 超级版",
+      "brand": "荣耀",
+      "companyId": "honor",
+      "category": "electronics",
+      "description": "中国大陆官网展示的智能手机。",
+      "tags": [
+        "手机",
+        "智能手机"
+      ],
+      "url": "https://www.honor.com/cn/phones/honor-600/",
+      "relationshipSourceIds": [
+        "product-honor-600"
+      ],
+      "market": "荣耀中国大陆官网 /cn/ 的荣耀600产品页；有购买渠道入口。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/honor-600.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www-file.honor.com/content/dam/honor/cn/product/smartphone/honor-600/product/imgs/section-kv/honor600series-kv-bg%402x.jpg",
+      "imageRights": "HONOR 及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "荣耀中国大陆官网 /cn/ 的荣耀600产品页；有购买渠道入口。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-honor-600"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "手机"
+      ]
+    },
+    {
+      "id": "laoxiangji-hen-soup",
+      "name": "金牌老母鸡汤",
+      "brand": "老乡鸡",
+      "companyId": "laoxiangji",
+      "category": "dining",
+      "description": "中式快餐门店的鸡汤菜品。",
+      "tags": [
+        "鸡汤",
+        "正餐",
+        "餐饮"
+      ],
+      "url": "https://lxjchina.com.cn/",
+      "relationshipSourceIds": [
+        "product-laoxiangji-hen-soup"
+      ],
+      "market": "品牌官网介绍中国大陆门店，并列出该菜品。具体门店、价格与当日供应未核实。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/laoxiangji-hen-soup.webp",
+      "imageMode": "contain",
+      "imageSource": "https://lxjchina.com.cn/upload/2026-01/176844395170904800.png",
+      "imageRights": "安徽老乡鸡餐饮有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "品牌官网介绍中国大陆门店，并列出该菜品。具体门店、价格与当日供应未核实。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-laoxiangji-hen-soup"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官网页脚服务法人为安徽老乡鸡餐饮有限公司，总部地址在合肥；官网说明在中国大陆经营门店。尚未核实所选具体门店或该菜品的中央厨房/现场制作单位，因此不将总部地址当作该菜品生产证据。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "快餐"
+      ]
+    },
+    {
+      "id": "shuanghui-wangzhongwang-children-sausage",
+      "name": "王中王儿童肠",
+      "brand": "双汇",
+      "companyId": "shuanghui",
+      "category": "food",
+      "description": "品牌官网列出的火腿肠产品。",
+      "tags": [
+        "火腿肠",
+        "肉制品",
+        "包装食品"
+      ],
+      "url": "https://www.shuanghui.net/",
+      "relationshipSourceIds": [
+        "product-shuanghui-wangzhongwang-children-sausage"
+      ],
+      "market": "双汇大陆官网视频中心标注“王中王儿童肠”，官网链接双汇商城。未核实时点库存。 官网展示不等于特定地区实时库存；未下单或核对邮编库存。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/shuanghui-wangzhongwang-children-sausage.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.shuanghui.net/static/upload/images/article/2026/09/11/1789119239278523.jpg",
+      "imageRights": "双汇及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "双汇大陆官网视频中心标注“王中王儿童肠”，官网链接双汇商城。未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-shuanghui-wangzhongwang-children-sausage"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": []
+    },
+    {
+      "id": "yadea-guanneng-3m9",
+      "name": "冠能 3 M9 旅行版",
+      "brand": "雅迪",
+      "companyId": "yadea",
+      "category": "transport",
+      "description": "用于日常出行的两轮电动车。",
+      "tags": [
+        "电动车",
+        "电动两轮车",
+        "通勤"
+      ],
+      "url": "https://www.yadea.com.cn/parameter/parameter_82/index.html",
+      "relationshipSourceIds": [
+        "product-yadea-guanneng-3m9"
+      ],
+      "market": "雅迪中国大陆官网参数页标明冠能3 M9旅行版 YD1200DB-E，配有线上商城二维码；未核实时点库存。 官网资料不能替代实时购买渠道核对。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/yadea-guanneng-3m9.webp",
+      "imageMode": "contain",
+      "imageSource": "https://osswebsite.yadea.com.cn/parameter/M9/static/da5e8104dc580f0d892d6b22d540ac1f.png",
+      "imageRights": "雅迪及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "雅迪中国大陆官网参数页标明冠能3 M9旅行版 YD1200DB-E，配有线上商城二维码；未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-yadea-guanneng-3m9"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "具体商品的中国境内制造商与产地证据尚未找到。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "电动车"
+      ]
+    },
+    {
+      "id": "forever-ruiying80",
+      "name": "白金系列锐影 80 山地自行车",
+      "brand": "永久",
+      "companyId": "forever",
+      "category": "transport",
+      "description": "山地车款式的自行车。",
+      "tags": [
+        "自行车",
+        "山地车",
+        "通勤"
+      ],
+      "url": "http://www.cnforever.com/product/detail/id=3973",
+      "relationshipSourceIds": [
+        "product-forever-ruiying80"
+      ],
+      "market": "永久大陆官网具体车型页列出锐影80规格、人民币指导零售价与线下门店入口；未核实时点库存。 官网资料不能替代实时购买渠道核对。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/forever-ruiying80.webp",
+      "imageMode": "contain",
+      "imageSource": "http://www.cnforever.com/data/upload/images/large/178295916495.jpg",
+      "imageRights": "中路股份有限公司（原上海永久股份有限公司）及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "永久大陆官网具体车型页列出锐影80规格、人民币指导零售价与线下门店入口；未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-forever-ruiying80"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "具体商品的中国境内制造商与产地证据尚未找到。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "自行车"
+      ]
+    },
+    {
+      "id": "luckin-coconut-latte",
+      "name": "生椰拿铁",
+      "brand": "瑞幸咖啡",
+      "companyId": "luckin",
+      "category": "dining",
+      "description": "咖啡与椰乳搭配的现制饮品。",
+      "tags": [
+        "咖啡",
+        "拿铁",
+        "餐饮"
+      ],
+      "url": "https://www.lkcoffee.com/products/lattes/coconut-latte",
+      "relationshipSourceIds": [
+        "product-luckin-coconut-latte"
+      ],
+      "market": "瑞幸中国大陆官网产品菜单，页脚服务法人瑞幸咖啡（北京）有限公司，并提供中国大陆 APP/小程序渠道。具体门店当日供应未核实。 官网资料不能替代实时购买渠道核对。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/luckin-coconut-latte.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img.luckincoffeecdn.com/luckymediaadmin/2026/05/26/3ccfa61293814670b0ef6bca9b828264.png",
+      "imageRights": "瑞幸咖啡及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "瑞幸中国大陆官网产品菜单，页脚服务法人瑞幸咖啡（北京）有限公司，并提供中国大陆 APP/小程序渠道。具体门店当日供应未核实。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-luckin-coconut-latte"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "具体商品的中国境内制造商与产地证据尚未找到。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "咖啡"
+      ]
+    },
+    {
+      "id": "xiaomi-17",
+      "name": "Xiaomi 17",
+      "brand": "Xiaomi 小米",
+      "companyId": "xiaomi",
+      "category": "electronics",
+      "description": "中国大陆官网展示的智能手机。",
+      "tags": [
+        "手机",
+        "智能手机"
+      ],
+      "url": "https://www.mi.com/prod/xiaomi-17",
+      "relationshipSourceIds": [
+        "product-xiaomi-17"
+      ],
+      "market": "小米中国大陆官网产品页，public product_info 显示 product_id 21931、名称 Xiaomi 17、is_enable 为 true、购买入口至 /shop/buy/detail?product_id=21931；未核实时点库存。 官网资料不能替代实时购买渠道核对。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/xiaomi-17.webp",
+      "imageMode": "contain",
+      "imageSource": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/new-product-images/xiaomi-17_55032/images/4245.png",
+      "imageRights": "小米及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "小米中国大陆官网产品页，public product_info 显示 product_id 21931、名称 Xiaomi 17、is_enable 为 true、购买入口至 /shop/buy/detail?product_id=21931；未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "sourceIds": [
+            "product-xiaomi-17"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "具体商品的中国境内制造商与产地证据尚未找到。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
+          "sourceIds": []
+        }
+      },
+      "needs": [
+        "手机"
+      ]
+    },
+    {
+      "id": "kailan-bread-flour-1kg",
+      "name": "面包粉 1kg",
+      "brand": "开兰",
+      "companyId": "kailan",
+      "category": "food",
+      "description": "家庭烘焙面包用的小包装面粉。",
+      "tags": [
+        "面粉",
+        "高筋粉",
+        "面包",
+        "主食"
+      ],
+      "url": "https://gdkailan.com/products/detail/108/",
+      "relationshipSourceIds": [
+        "product-kailan-bread-flour-1kg",
+        "kailan-products"
+      ],
+      "market": "中国大陆厂家官网提供家庭装和联系订购入口；购买前确认当前规格与供货。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/kailan-bread-flour-1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://gdkailan.com/upfile/2019/01/19/20190119101500_467.png",
+      "imageRights": "广东开兰面粉有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "国内制造商官网列出该家庭装规格及联系订购渠道，具体地区库存须另确认。",
+          "sourceIds": [
+            "product-kailan-bread-flour-1kg"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已核对国内厂址与食品生产许可证；仍需当前具体 SKU 包装或批次与该厂的直接对应。",
+          "sourceIds": [
+            "kailan-license"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "对应法人获 2025 年度劳动守法诚信 A 级评价，但本目录尚未验证当前产线实际工时、休息或全体员工劳动条件。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        }
+      },
+      "needs": [
+        "面粉"
+      ]
+    },
+    {
+      "id": "kailan-dumpling-flour-1kg",
+      "name": "饺子粉 1kg",
+      "brand": "开兰",
+      "companyId": "kailan",
+      "category": "food",
+      "description": "制作饺子皮等面食的小包装面粉。",
+      "tags": [
+        "面粉",
+        "饺子粉",
+        "主食"
+      ],
+      "url": "https://gdkailan.com/products/detail/107/",
+      "relationshipSourceIds": [
+        "product-kailan-dumpling-flour-1kg",
+        "kailan-products"
+      ],
+      "market": "中国大陆厂家官网提供家庭装和联系订购入口；购买前确认当前规格与供货。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/kailan-dumpling-flour-1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://gdkailan.com/upfile/2019/01/19/20190119101438_974.png",
+      "imageRights": "广东开兰面粉有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "国内制造商官网列出该家庭装规格及联系订购渠道，具体地区库存须另确认。",
+          "sourceIds": [
+            "product-kailan-dumpling-flour-1kg"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已核对国内厂址与食品生产许可证；仍需当前具体 SKU 包装或批次与该厂的直接对应。",
+          "sourceIds": [
+            "kailan-license"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "对应法人获 2025 年度劳动守法诚信 A 级评价，但本目录尚未验证当前产线实际工时、休息或全体员工劳动条件。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        }
+      },
+      "needs": [
+        "面粉"
+      ]
+    },
+    {
+      "id": "kailan-cake-flour-1kg",
+      "name": "糕点粉 1kg",
+      "brand": "开兰",
+      "companyId": "kailan",
+      "category": "food",
+      "description": "家庭烘焙糕点用的小包装面粉。",
+      "tags": [
+        "面粉",
+        "低筋粉",
+        "糕点"
+      ],
+      "url": "https://gdkailan.com/products/detail/106/",
+      "relationshipSourceIds": [
+        "product-kailan-cake-flour-1kg",
+        "kailan-products"
+      ],
+      "market": "中国大陆厂家官网提供家庭装和联系订购入口；购买前确认当前规格与供货。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/kailan-cake-flour-1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://gdkailan.com/upfile/2019/01/19/20190119101426_373.png",
+      "imageRights": "广东开兰面粉有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "国内制造商官网列出该家庭装规格及联系订购渠道，具体地区库存须另确认。",
+          "sourceIds": [
+            "product-kailan-cake-flour-1kg"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已核对国内厂址与食品生产许可证；仍需当前具体 SKU 包装或批次与该厂的直接对应。",
+          "sourceIds": [
+            "kailan-license"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "对应法人获 2025 年度劳动守法诚信 A 级评价，但本目录尚未验证当前产线实际工时、休息或全体员工劳动条件。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        }
+      },
+      "needs": [
+        "面粉"
+      ]
+    },
+    {
+      "id": "kailan-yam-noodles",
+      "name": "淮山面 1.2kg",
+      "brand": "开兰",
+      "companyId": "kailan",
+      "category": "food",
+      "description": "家庭主食用的袋装淮山面。",
+      "tags": [
+        "面条",
+        "挂面",
+        "主食"
+      ],
+      "url": "https://gdkailan.com/products/detail/201/",
+      "relationshipSourceIds": [
+        "product-kailan-yam-noodles",
+        "kailan-products"
+      ],
+      "market": "中国大陆厂家官网提供家庭装和联系订购入口；购买前确认当前规格与供货。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "国内制造商官网列出该家庭装规格及联系订购渠道，具体地区库存须另确认。",
+          "sourceIds": [
+            "product-kailan-yam-noodles"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已核对国内厂址与食品生产许可证；仍需当前具体 SKU 包装或批次与该厂的直接对应。",
+          "sourceIds": [
+            "kailan-license"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "对应法人获 2025 年度劳动守法诚信 A 级评价，但本目录尚未验证当前产线实际工时、休息或全体员工劳动条件。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        }
+      },
+      "needs": [
+        "挂面"
+      ]
+    },
+    {
+      "id": "guangzhonghuang-fermented-tofu-mild-328g",
+      "name": "微辣腐乳 328g",
+      "brand": "广中皇",
+      "companyId": "guangzhonghuang",
+      "category": "food",
+      "description": "配粥、佐餐和烹调用的微辣腐乳。",
+      "tags": [
+        "腐乳",
+        "豆制品",
+        "调味"
+      ],
+      "url": "https://www.haday.com/subbrand-gzh/",
+      "relationshipSourceIds": [
+        "guangzhonghuang-products"
+      ],
+      "market": "官网主推产品合照左上红盖瓶为本条，另有其他商品；官网链接大陆电商渠道，库存另核。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/guangzhonghuang-fermented-tofu-mild-328g.webp",
+      "imageMode": "contain",
+      "imageSource": "https://static.haday.com/upload/2025/12/11/eab1cd2d7e6148349ae5a6e4fbcc4c61.jpg",
+      "imageRights": "佛山市海天调味食品股份有限公司、广东广中皇食品有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "官网展示此规格并链接大陆官方电商渠道，具体库存另核。",
+          "sourceIds": [
+            "guangzhonghuang-products"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "待对应型号、批次的境内制造或具体门店资料。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2025 年度 A 级评价对应广东广中皇食品有限公司；当前具体工序与外包人员履行仍待核。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        }
+      },
+      "needs": [
+        "腐乳"
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "category": "food",
+      "needs": [
+        {
+          "label": "大米",
+          "query": "大米"
+        },
+        {
+          "label": "面粉",
+          "query": "面粉"
+        },
+        {
+          "label": "挂面",
+          "query": "挂面"
+        },
+        {
+          "label": "米粉",
+          "query": "米粉"
+        },
+        {
+          "label": "小米",
+          "query": "小米"
+        },
+        {
+          "label": "燕麦",
+          "query": "燕麦"
+        },
+        {
+          "label": "玉米",
+          "query": "玉米"
+        },
+        {
+          "label": "绿豆",
+          "query": "绿豆"
+        },
+        {
+          "label": "红豆",
+          "query": "红豆"
+        },
+        {
+          "label": "花生油",
+          "query": "花生油"
+        },
+        {
+          "label": "菜籽油",
+          "query": "菜籽油"
+        },
+        {
+          "label": "大豆油",
+          "query": "大豆油"
+        },
+        {
+          "label": "玉米油",
+          "query": "玉米油"
+        },
+        {
+          "label": "酱油",
+          "query": "酱油"
+        },
+        {
+          "label": "老抽",
+          "query": "老抽"
+        },
+        {
+          "label": "醋",
+          "query": "醋"
+        },
+        {
+          "label": "食盐",
+          "query": "食盐"
+        },
+        {
+          "label": "白糖",
+          "query": "白糖"
+        },
+        {
+          "label": "蚝油",
+          "query": "蚝油"
+        },
+        {
+          "label": "辣椒酱",
+          "query": "辣椒酱"
+        },
+        {
+          "label": "腐乳",
+          "query": "腐乳"
+        },
+        {
+          "label": "酵母",
+          "query": "酵母"
+        },
+        {
+          "label": "饼干",
+          "query": "饼干"
+        },
+        {
+          "label": "坚果",
+          "query": "坚果"
+        },
+        {
+          "label": "速冻饺子",
+          "query": "速冻饺子"
+        }
+      ],
+      "note": "已查粮油、调味生产企业，开兰和广中皇有 2025 年度政府劳动评价；杂粮和食用油的具体型号、生产岗位还需继续查。",
+      "sourceIds": [
+        "kaiping-labor-2025",
+        "doximi-hiring",
+        "jinhe-production-2026"
+      ]
+    },
+    {
+      "category": "fresh",
+      "needs": [
+        {
+          "label": "苹果",
+          "query": "苹果"
+        },
+        {
+          "label": "柑橘",
+          "query": "柑橘"
+        },
+        {
+          "label": "香蕉",
+          "query": "香蕉"
+        },
+        {
+          "label": "葡萄",
+          "query": "葡萄"
+        },
+        {
+          "label": "蔬菜",
+          "query": "蔬菜"
+        },
+        {
+          "label": "土豆",
+          "query": "土豆"
+        },
+        {
+          "label": "猪肉",
+          "query": "猪肉"
+        },
+        {
+          "label": "牛肉",
+          "query": "牛肉"
+        },
+        {
+          "label": "羊肉",
+          "query": "羊肉"
+        },
+        {
+          "label": "鸡肉",
+          "query": "鸡肉"
+        },
+        {
+          "label": "鸡蛋",
+          "query": "鸡蛋"
+        },
+        {
+          "label": "鱼",
+          "query": "鱼"
+        },
+        {
+          "label": "虾",
+          "query": "虾"
+        }
+      ],
+      "note": "已找到养殖、农业企业的历史劳动关系示范名单，尚未完成水果、蔬菜、肉蛋水产的具体基地与生产者核对。此处明确保留缺口。",
+      "sourceIds": [
+        "national-harmony-2022"
+      ]
+    },
+    {
+      "category": "drinks",
+      "needs": [
+        {
+          "label": "牛奶",
+          "query": "牛奶"
+        },
+        {
+          "label": "酸奶",
+          "query": "酸奶"
+        },
+        {
+          "label": "饮用水",
+          "query": "饮用水"
+        },
+        {
+          "label": "豆奶",
+          "query": "豆奶"
+        },
+        {
+          "label": "茶",
+          "query": "茶"
+        },
+        {
+          "label": "果汁",
+          "query": "果汁"
+        },
+        {
+          "label": "咖啡",
+          "query": "咖啡"
+        },
+        {
+          "label": "啤酒",
+          "query": "啤酒"
+        },
+        {
+          "label": "白酒",
+          "query": "白酒"
+        },
+        {
+          "label": "葡萄酒",
+          "query": "葡萄酒"
+        }
+      ],
+      "note": "已确认伊利具体牛奶资料；卫岗、洋河等有历史企业劳动关系记录，仍需逐项对应现售产品、生产厂和当前工人安排。",
+      "sourceIds": [
+        "national-harmony-2022"
+      ]
+    },
+    {
+      "category": "clothing",
+      "needs": [
+        {
+          "label": "T恤",
+          "query": "T恤"
+        },
+        {
+          "label": "衬衫",
+          "query": "衬衫"
+        },
+        {
+          "label": "夹克",
+          "query": "夹克"
+        },
+        {
+          "label": "裤子",
+          "query": "裤子"
+        },
+        {
+          "label": "内衣",
+          "query": "内衣"
+        },
+        {
+          "label": "文胸",
+          "query": "文胸"
+        },
+        {
+          "label": "睡衣",
+          "query": "睡衣"
+        },
+        {
+          "label": "袜子",
+          "query": "袜子"
+        },
+        {
+          "label": "跑鞋",
+          "query": "跑鞋"
+        },
+        {
+          "label": "童装",
+          "query": "童装"
+        }
+      ],
+      "note": "七匹狼招聘福利与红豆、安踏、雅戈尔的政府记录正在分别对应具体款式和工厂，不将集团记录扩展到全部代工商品。",
+      "sourceIds": [
+        "septwolves-hiring",
+        "national-harmony-2022"
+      ]
+    },
+    {
+      "category": "home",
+      "needs": [
+        {
+          "label": "床单",
+          "query": "床单"
+        },
+        {
+          "label": "被套",
+          "query": "被套"
+        },
+        {
+          "label": "被芯",
+          "query": "被芯"
+        },
+        {
+          "label": "枕头",
+          "query": "枕头"
+        },
+        {
+          "label": "床垫",
+          "query": "床垫"
+        },
+        {
+          "label": "毛巾",
+          "query": "毛巾"
+        },
+        {
+          "label": "椅",
+          "query": "椅"
+        },
+        {
+          "label": "书桌",
+          "query": "书桌"
+        },
+        {
+          "label": "书柜",
+          "query": "书柜"
+        },
+        {
+          "label": "收纳",
+          "query": "收纳"
+        },
+        {
+          "label": "台灯",
+          "query": "台灯"
+        }
+      ],
+      "note": "床品电商招聘的双休不等于车间双休；家居制造商、具体款式与上游待补。",
+      "sourceIds": [
+        "mercury-campus",
+        "lianyou-hiring"
+      ]
+    },
+    {
+      "category": "daily",
+      "needs": [
+        {
+          "label": "牙膏",
+          "query": "牙膏"
+        },
+        {
+          "label": "牙刷",
+          "query": "牙刷"
+        },
+        {
+          "label": "洗发水",
+          "query": "洗发水"
+        },
+        {
+          "label": "沐浴露",
+          "query": "沐浴露"
+        },
+        {
+          "label": "洗衣液",
+          "query": "洗衣液"
+        },
+        {
+          "label": "洗洁精",
+          "query": "洗洁精"
+        },
+        {
+          "label": "香皂",
+          "query": "香皂"
+        },
+        {
+          "label": "卷纸",
+          "query": "卷纸"
+        },
+        {
+          "label": "抽纸",
+          "query": "抽纸"
+        },
+        {
+          "label": "卫生巾",
+          "query": "卫生巾"
+        },
+        {
+          "label": "纸尿裤",
+          "query": "纸尿裤"
+        },
+        {
+          "label": "清洁工具",
+          "query": "清洁工具"
+        }
+      ],
+      "note": "已有牙膏、洗衣液和沐浴露资料；生产线工时、双休和具体包装制造商尚未齐备。",
+      "sourceIds": [
+        "jahwa-2025",
+        "darlie-hours"
+      ]
+    },
+    {
+      "category": "electronics",
+      "needs": [
+        {
+          "label": "手机",
+          "query": "手机"
+        },
+        {
+          "label": "笔记本",
+          "query": "笔记本"
+        },
+        {
+          "label": "台式电脑",
+          "query": "台式电脑"
+        },
+        {
+          "label": "平板",
+          "query": "平板"
+        },
+        {
+          "label": "显示器",
+          "query": "显示器"
+        },
+        {
+          "label": "充电器",
+          "query": "充电器"
+        },
+        {
+          "label": "移动电源",
+          "query": "移动电源"
+        },
+        {
+          "label": "耳机",
+          "query": "耳机"
+        },
+        {
+          "label": "键盘",
+          "query": "键盘"
+        },
+        {
+          "label": "鼠标",
+          "query": "鼠标"
+        },
+        {
+          "label": "路由器",
+          "query": "路由器"
+        }
+      ],
+      "note": "手机电脑已有具体型号；客服和总部工时不替代装配厂，海外资料的型号也不进入正式目录。",
+      "sourceIds": [
+        "apple-rcc-job",
+        "anker-2024"
+      ]
+    },
+    {
+      "category": "appliances",
+      "needs": [
+        {
+          "label": "冰箱",
+          "query": "冰箱"
+        },
+        {
+          "label": "洗衣机",
+          "query": "洗衣机"
+        },
+        {
+          "label": "空调",
+          "query": "空调"
+        },
+        {
+          "label": "电视",
+          "query": "电视"
+        },
+        {
+          "label": "电饭煲",
+          "query": "电饭煲"
+        },
+        {
+          "label": "电压力锅",
+          "query": "电压力锅"
+        },
+        {
+          "label": "电水壶",
+          "query": "电水壶"
+        },
+        {
+          "label": "油烟机",
+          "query": "油烟机"
+        },
+        {
+          "label": "燃气灶",
+          "query": "燃气灶"
+        },
+        {
+          "label": "洗碗机",
+          "query": "洗碗机"
+        },
+        {
+          "label": "扫拖",
+          "query": "扫拖"
+        },
+        {
+          "label": "吹风机",
+          "query": "吹风机"
+        },
+        {
+          "label": "剃须刀",
+          "query": "剃须刀"
+        }
+      ],
+      "note": "已查大陆博世型号和部分安克产品；具体原产地和生产岗位不足，空调、电视及厨电继续调查。",
+      "sourceIds": [
+        "bsh-code",
+        "anker-2025"
+      ]
+    },
+    {
+      "category": "stationery",
+      "needs": [
+        {
+          "label": "中性笔",
+          "query": "中性笔"
+        },
+        {
+          "label": "铅笔",
+          "query": "铅笔"
+        },
+        {
+          "label": "钢笔",
+          "query": "钢笔"
+        },
+        {
+          "label": "本子",
+          "query": "本子"
+        },
+        {
+          "label": "复印纸",
+          "query": "复印纸"
+        },
+        {
+          "label": "橡皮",
+          "query": "橡皮"
+        },
+        {
+          "label": "尺子",
+          "query": "尺子"
+        },
+        {
+          "label": "文件夹",
+          "query": "文件夹"
+        },
+        {
+          "label": "订书机",
+          "query": "订书机"
+        },
+        {
+          "label": "书包",
+          "query": "书包"
+        },
+        {
+          "label": "打印机",
+          "query": "打印机"
+        }
+      ],
+      "note": "得力已对应 A4 纸、橡皮和文件夹；2025 届管培生福利不代表造纸、注塑等产线，笔和本子继续补。",
+      "sourceIds": [
+        "deli-campus-2025"
+      ]
+    },
+    {
+      "category": "transport",
+      "needs": [
+        {
+          "label": "自行车",
+          "query": "自行车"
+        },
+        {
+          "label": "电动车",
+          "query": "电动车"
+        },
+        {
+          "label": "摩托车",
+          "query": "摩托车"
+        },
+        {
+          "label": "公交",
+          "query": "公交"
+        },
+        {
+          "label": "铁路",
+          "query": "铁路"
+        },
+        {
+          "label": "酒店",
+          "query": "酒店"
+        },
+        {
+          "label": "行李箱",
+          "query": "行李箱"
+        },
+        {
+          "label": "雨伞",
+          "query": "雨伞"
+        }
+      ],
+      "note": "自行车和电动车已查官网型号；海口酒店有具体地点及招聘。交通运营、车辆制造、外包需分别核对。",
+      "sourceIds": [
+        "sofitel-haikou-campus"
+      ]
+    },
+    {
+      "category": "cars",
+      "needs": [
+        {
+          "label": "轿车",
+          "query": "轿车"
+        },
+        {
+          "label": "SUV",
+          "query": "SUV"
+        },
+        {
+          "label": "纯电汽车",
+          "query": "纯电汽车"
+        },
+        {
+          "label": "插混汽车",
+          "query": "插混汽车"
+        },
+        {
+          "label": "轮胎",
+          "query": "轮胎"
+        }
+      ],
+      "note": "已从国家劳动关系示范名单找到吉利、华晨宝马等候选主体；尚未完成国内具体车型、对应整车工厂和当前生产岗位验证。",
+      "sourceIds": [
+        "national-harmony-2022"
+      ]
+    },
+    {
+      "category": "housing",
+      "needs": [
+        {
+          "label": "商品房",
+          "query": "商品房"
+        },
+        {
+          "label": "长租公寓",
+          "query": "长租公寓"
+        },
+        {
+          "label": "保障性住房",
+          "query": "保障性住房"
+        },
+        {
+          "label": "装修",
+          "query": "装修"
+        },
+        {
+          "label": "瓷砖",
+          "query": "瓷砖"
+        },
+        {
+          "label": "地板",
+          "query": "地板"
+        },
+        {
+          "label": "门窗",
+          "query": "门窗"
+        },
+        {
+          "label": "涂料",
+          "query": "涂料"
+        },
+        {
+          "label": "卫浴",
+          "query": "卫浴"
+        }
+      ],
+      "note": "已从官方名单找到荆门中房等线索，但开发商办公室、施工总包和分包工人的劳动条件不可混用。具体楼盘和施工单位正在调查。",
+      "sourceIds": [
+        "national-harmony-2022"
+      ]
+    },
+    {
+      "category": "dining",
+      "needs": [
+        {
+          "label": "正餐",
+          "query": "正餐"
+        },
+        {
+          "label": "快餐",
+          "query": "快餐"
+        },
+        {
+          "label": "饺子",
+          "query": "饺子"
+        },
+        {
+          "label": "面食",
+          "query": "面食"
+        },
+        {
+          "label": "火锅",
+          "query": "火锅"
+        },
+        {
+          "label": "咖啡",
+          "query": "咖啡"
+        },
+        {
+          "label": "茶饮",
+          "query": "茶饮"
+        },
+        {
+          "label": "烘焙",
+          "query": "烘焙"
+        },
+        {
+          "label": "自助餐",
+          "query": "自助餐"
+        }
+      ],
+      "note": "老乡鸡、瑞幸已有具体菜品资料；海口酒店有岗位线索。门店、中央厨房、加盟和外包人员分别核验。",
+      "sourceIds": [
+        "sofitel-haikou-campus"
+      ]
+    },
+    {
+      "category": "culture",
+      "needs": [
+        {
+          "label": "图书",
+          "query": "图书"
+        },
+        {
+          "label": "杂志",
+          "query": "杂志"
+        },
+        {
+          "label": "电影",
+          "query": "电影"
+        },
+        {
+          "label": "视频",
+          "query": "视频"
+        },
+        {
+          "label": "音乐",
+          "query": "音乐"
+        },
+        {
+          "label": "景区",
+          "query": "景区"
+        },
+        {
+          "label": "积木",
+          "query": "积木"
+        },
+        {
+          "label": "手柄",
+          "query": "手柄"
+        }
+      ],
+      "note": "阅读和玩具已有资料；广州塔、清明上河园有历史政府劳动记录。门票、演出与外包岗位仍需对应。",
+      "sourceIds": [
+        "national-harmony-2022",
+        "vista-hiring"
+      ]
+    },
+    {
+      "category": "games",
+      "needs": [
+        {
+          "label": "手机游戏",
+          "query": "手机游戏"
+        },
+        {
+          "label": "电脑游戏",
+          "query": "电脑游戏"
+        },
+        {
+          "label": "角色扮演",
+          "query": "角色扮演"
+        },
+        {
+          "label": "策略",
+          "query": "策略"
+        }
+      ],
+      "note": "具体游戏与开发主体已核对；集团制度中的特殊工时、加班和美术外包仍不能略过。",
+      "sourceIds": [
         "xd-2025"
       ]
     }

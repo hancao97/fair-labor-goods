@@ -17,10 +17,17 @@ body:
     validations:
       required: true
   - type: textarea
+    id: domestic
+    attributes:
+      label: 大陆购买与中国生产依据
+      description: 提供具体型号、批次的大陆购买入口，以及生产商、厂址或境内服务门店来源。品牌国别不能替代产地证据。
+    validations:
+      required: true
+  - type: textarea
     id: schedule
     attributes:
       label: 工时、休息与例外
-      description: 分别说明标准工时、实际执行证据、加班、轮休及旺季安排；未知部分请明确写出
+      description: 分别说明生产岗位的标准工时、实际加班、轮休、工资、社保等；政府评级须列法人和年度。未知部分请明确写出。
     validations:
       required: true
   - type: textarea

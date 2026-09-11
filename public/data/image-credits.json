@@ -750,6 +750,909 @@
       },
       "filename": "images/sword-of-convallaria.webp",
       "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "jinjian-yuzhenxiang-rice",
+      "product_name": "金健玉针香大米 5kg",
+      "model": "玉针香，5kg",
+      "official_source_page_url": "https://www.jjmy.cn/product/list",
+      "image_url": "https://www.jjmy.cn/profile/upload/2025/11/24/1-2105222350260-L_20251124183113A047.png",
+      "market_verification": "金健米业大陆官网产品中心明确标示“金健玉针香5kg”并直接使用此图片。",
+      "notes": "官方袋装商品图。",
+      "filename": "images/jinjian-yuzhenxiang-rice.webp",
+      "final_image_url": "https://www.jjmy.cn/profile/upload/2025/11/24/1-2105222350260-L_20251124183113A047.png",
+      "content_type": "image/png",
+      "width": 360,
+      "height": 438,
+      "bytes": 154367,
+      "sha256": "30b9a8c490ea2fe9e5ecaff91ef4c5838bc358b40234f7b1bc711cfa2c00c1c4",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "金健米业股份有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.jjmy.cn/product/list"
+        ],
+        "evidence": "金健米业大陆官网产品中心明确标示“金健玉针香5kg”并直接使用此图片。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "yili-zhennong-pure-milk",
+      "product_name": "伊利臻浓金装纯牛奶",
+      "model": "臻浓金装纯牛奶",
+      "official_source_page_url": "https://www.yili.com/product/1827",
+      "image_url": "https://www.yili.com/uploads/2024-03-10/6271e5ad-7df0-41f1-9ba9-e36f86b76d9d1710059460053.jpg",
+      "market_verification": "伊利大陆官网“臻浓金装纯牛奶”产品条目直接配置此图片。",
+      "notes": "视觉核对“伊利 臻浓金装 纯牛奶”与净含量250mL；单盒蓝背景产品图。",
+      "filename": "images/yili-zhennong-pure-milk.webp",
+      "final_image_url": "https://www.yili.com/uploads/2024-03-10/6271e5ad-7df0-41f1-9ba9-e36f86b76d9d1710059460053.jpg",
+      "content_type": "image/jpeg",
+      "width": 280,
+      "height": 380,
+      "bytes": 11817,
+      "sha256": "0b5eab94468cc1bb7ae0b0819105b9863c915954d034b0935ce4bc36568d96e0",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "内蒙古伊利实业集团股份有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.yili.com/product/1827"
+        ],
+        "evidence": "伊利大陆官网“臻浓金装纯牛奶”产品条目直接配置此图片。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "deli-vp481m-eraser",
+      "product_name": "得力VP481-M纳米净橡皮擦(白)(块)",
+      "model": "VP481-M",
+      "official_source_page_url": "https://www.nbdeli.com/products/productinfo/68389.html",
+      "image_url": "https://www.nbdeli.com/bocupload/product/140058030/1.jpg",
+      "market_verification": "得力大陆官网产品列表返回该名称、商品编号及图片，详情页链接对应同一产品。",
+      "notes": "画面为三块同型号 VP481-M 橡皮，包装文字清晰；官网销售单位为块，不将画面三块解读为三块装。",
+      "supporting_source_urls": [
+        "https://www.nbdeli.com/products/lists.html"
+      ],
+      "filename": "images/deli-vp481m-eraser.webp",
+      "final_image_url": "https://www.nbdeli.com/bocupload/product/140058030/1.jpg",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 267591,
+      "sha256": "a2750ce55d775160aba288b2c0880134a156cf544b5d0e63e4a32eaf45f6f1be",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "得力集团有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.nbdeli.com/products/productinfo/68389.html"
+        ],
+        "evidence": "得力大陆官网产品列表返回该名称、商品编号及图片，详情页链接对应同一产品。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "haday-gold-label-soy-sauce",
+      "product_name": "海天金标生抽 500mL",
+      "model": "金标生抽 500mL",
+      "official_source_page_url": "https://www.haday.com/product-family/",
+      "image_url": "https://static.haday.com/upload/2025/10/28/53cde3eacf3448e58778eee604680b62.png",
+      "market_verification": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。",
+      "notes": "官方产品主图。",
+      "source_verification": {
+        "api_url": "https://api.haday.com/zh-cn/v1/api/productFamilyNew/list",
+        "method": "POST",
+        "matching_record": {
+          "name": "金标生抽",
+          "size": "500mL",
+          "pic": "https://static.haday.com/upload/2025/10/28/53cde3eacf3448e58778eee604680b62.png"
+        }
+      },
+      "filename": "images/haday-gold-label-soy-sauce.webp",
+      "final_image_url": "https://static.haday.com/upload/2025/10/28/53cde3eacf3448e58778eee604680b62.png",
+      "content_type": "image/png",
+      "width": 354,
+      "height": 745,
+      "bytes": 179225,
+      "sha256": "8a2d6804f274fdeeb4891c85f26e35a29612a4ae7f634311f8079c7a6a12f54d",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "佛山市海天调味食品股份有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.haday.com/product-family/"
+        ],
+        "evidence": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "haday-aged-vinegar",
+      "product_name": "海天老陈醋 450mL",
+      "model": "老陈醋 450mL",
+      "official_source_page_url": "https://www.haday.com/product-family/",
+      "image_url": "https://static.haday.com/upload/2025/10/29/2030b8d1cd1b436cb1a29674f815462d.png",
+      "market_verification": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。",
+      "notes": "官方产品主图。",
+      "source_verification": {
+        "api_url": "https://api.haday.com/zh-cn/v1/api/productFamilyNew/list",
+        "method": "POST",
+        "matching_record": {
+          "name": "老陈醋",
+          "size": "450mL",
+          "pic": "https://static.haday.com/upload/2025/10/29/2030b8d1cd1b436cb1a29674f815462d.png"
+        }
+      },
+      "filename": "images/haday-aged-vinegar.webp",
+      "final_image_url": "https://static.haday.com/upload/2025/10/29/2030b8d1cd1b436cb1a29674f815462d.png",
+      "content_type": "image/png",
+      "width": 354,
+      "height": 745,
+      "bytes": 200220,
+      "sha256": "30fed18ff2b6773dda51c4409b5f8325347765c79b148945055a984046d72cd8",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "佛山市海天调味食品股份有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.haday.com/product-family/"
+        ],
+        "evidence": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "haday-gold-label-oyster-sauce",
+      "product_name": "海天金标蚝油 635g",
+      "model": "金标蚝油 635g",
+      "official_source_page_url": "https://www.haday.com/product-family/",
+      "image_url": "https://static.haday.com/upload/2025/10/29/a0b567bdc1b041659bb0bd603338779d.png",
+      "market_verification": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。",
+      "notes": "官方产品主图。",
+      "source_verification": {
+        "api_url": "https://api.haday.com/zh-cn/v1/api/productFamilyNew/list",
+        "method": "POST",
+        "matching_record": {
+          "name": "金标蚝油",
+          "size": "635g",
+          "pic": "https://static.haday.com/upload/2025/10/29/a0b567bdc1b041659bb0bd603338779d.png"
+        }
+      },
+      "filename": "images/haday-gold-label-oyster-sauce.webp",
+      "final_image_url": "https://static.haday.com/upload/2025/10/29/a0b567bdc1b041659bb0bd603338779d.png",
+      "content_type": "image/png",
+      "width": 354,
+      "height": 745,
+      "bytes": 189438,
+      "sha256": "9fa7e99e1fd82f7c60eff7530bacd58ddae9f65d77d73e0d001c789d9b8b8f4b",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "佛山市海天调味食品股份有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.haday.com/product-family/"
+        ],
+        "evidence": "海天中国大陆官网全系产品橱窗通过公开接口返回同一产品名称、容量与图片。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "deli-pe148-folder",
+      "product_name": "得力PE148_双强力夹(黑)(个)",
+      "model": "PE148_双强力夹(黑)",
+      "official_source_page_url": "https://www.nbdeli.com/products/productinfo/67286.html",
+      "image_url": "https://www.nbdeli.com/bocupload/product/140055110/1.jpg",
+      "market_verification": "得力大陆官网产品分类接口中的名称、型号、图片和详情页精确对应。",
+      "notes": "官方商品主图。",
+      "filename": "images/deli-pe148-folder.webp",
+      "final_image_url": "https://www.nbdeli.com/bocupload/product/140055110/1.jpg",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 161816,
+      "sha256": "3e0efda79469a1f474b156c9139429ac1fd49549e0e8cc92ae21c6ddbae56abf",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "得力集团有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.nbdeli.com/products/productinfo/67286.html"
+        ],
+        "evidence": "得力大陆官网产品分类接口中的名称、型号、图片和详情页精确对应。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "deli-zf7774-a4-paper",
+      "product_name": "得力ZF7774-10白令海复印纸A4-75g-10包(混)(箱)",
+      "model": "ZF7774-10，A4，75g，10包/箱",
+      "official_source_page_url": "https://www.nbdeli.com/products/productinfo/70643.html",
+      "image_url": "https://www.nbdeli.com/bocupload/product/140062975/1.jpg",
+      "market_verification": "得力大陆官网产品分类条目名称、型号、配图及详情页直接对应。",
+      "notes": "官方包装图清楚显示白令海 A4 75g 复印纸整箱，货号与官网 ZF7774-10 商品页对应；不是早先排除的至联纸错配图片。",
+      "filename": "images/deli-zf7774-a4-paper.webp",
+      "final_image_url": "https://www.nbdeli.com/bocupload/product/140062975/1.jpg",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 222115,
+      "sha256": "7f91a06c61eb606c18a6e95cd47fce29935183720d4afaf0fcb6a6985115bb14",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "得力集团有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.nbdeli.com/products/productinfo/70643.html"
+        ],
+        "evidence": "得力大陆官网产品分类条目名称、型号、配图及详情页直接对应。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "septwolves-carrier-jacket",
+      "product_name": "七匹狼航母纪念款双面夹克",
+      "model": "航母纪念款（官网未显示完整商品货号）",
+      "official_source_page_url": "http://www.septwolves.com/website/Double_jacket.html",
+      "image_url": "http://www.septwolves.com/web2024/upload/images/page0504bg.jpg",
+      "market_verification": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。",
+      "notes": "官网款式系列展示图，非单独 SKU 包装照；勿将商城搜索词当完整货号。",
+      "filename": "images/septwolves-carrier-jacket.webp",
+      "final_image_url": "http://www.septwolves.com/web2024/upload/images/page0504bg.jpg",
+      "content_type": "image/jpeg",
+      "width": 2650,
+      "height": 1130,
+      "bytes": 440329,
+      "sha256": "87333649eef244fd80e3c048e7d965256587db6bf2d66220ebdce91b3efc5d28",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "福建七匹狼实业股份有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "http://www.septwolves.com/website/Double_jacket.html"
+        ],
+        "evidence": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "septwolves-supercar-jacket",
+      "product_name": "七匹狼超跑双面夹克",
+      "model": "超跑双面夹克（官网未显示完整商品货号）",
+      "official_source_page_url": "http://www.septwolves.com/website/Double_jacket.html",
+      "image_url": "http://www.septwolves.com/web2024/upload/images/page0503bg.jpg",
+      "market_verification": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。",
+      "notes": "官网款式系列展示图，非单独 SKU 包装照。",
+      "filename": "images/septwolves-supercar-jacket.webp",
+      "final_image_url": "http://www.septwolves.com/web2024/upload/images/page0503bg.jpg",
+      "content_type": "image/jpeg",
+      "width": 2650,
+      "height": 1135,
+      "bytes": 86038,
+      "sha256": "d3bcf4dffa4abeb2efb8bcda5eb6a4ea4ae75b4b39f25feb9ec25580034ac8e6",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "福建七匹狼实业股份有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "http://www.septwolves.com/website/Double_jacket.html"
+        ],
+        "evidence": "大陆品牌官网双面夹克专区；相邻购买链接指向七匹狼官方商城。未核实时点库存。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "honor-600",
+      "product_name": "荣耀600超级版",
+      "model": "荣耀600超级版；未限定存储配置",
+      "official_source_page_url": "https://www.honor.com/cn/phones/honor-600/",
+      "image_url": "https://www-file.honor.com/content/dam/honor/cn/product/smartphone/honor-600/product/imgs/section-kv/honor600series-kv-bg%402x.jpg",
+      "market_verification": "荣耀中国大陆官网 /cn/ 的荣耀600产品页；有购买渠道入口。",
+      "notes": "荣耀大陆官网荣耀600超级版主视觉，人物手持手机；不限定存储配置，未用海外同名型号配图。",
+      "filename": "images/honor-600.webp",
+      "final_image_url": "https://www-file.honor.com/content/dam/honor/cn/product/smartphone/honor-600/product/imgs/section-kv/honor600series-kv-bg%402x.jpg",
+      "content_type": "image/jpeg",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 619797,
+      "sha256": "4285cbb477746bd3f5a779fcd38ffba23d55d1918ba0cb3f3483e081cc820d4b",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "HONOR 及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.honor.com/cn/phones/honor-600/"
+        ],
+        "evidence": "荣耀中国大陆官网 /cn/ 的荣耀600产品页；有购买渠道入口。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "laoxiangji-hen-soup",
+      "product_name": "老乡鸡金牌老母鸡汤",
+      "model": "金牌老母鸡汤（单品，非套餐）",
+      "official_source_page_url": "https://lxjchina.com.cn/",
+      "image_url": "https://lxjchina.com.cn/upload/2026-01/176844395170904800.png",
+      "market_verification": "品牌官网介绍中国大陆门店，并列出该菜品。具体门店、价格与当日供应未核实。",
+      "service_legal_entity": "安徽老乡鸡餐饮有限公司",
+      "notes": "餐饮菜单展示；不是包装商品或全国统一套餐。",
+      "filename": "images/laoxiangji-hen-soup.webp",
+      "final_image_url": "https://lxjchina.com.cn/upload/2026-01/176844395170904800.png",
+      "content_type": "image/png",
+      "width": 676,
+      "height": 676,
+      "bytes": 265029,
+      "sha256": "e0887d15c2a7c9be605a6c3f871a609e8c4a70aac0d824741e9cf3afea1ed61b",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "安徽老乡鸡餐饮有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://lxjchina.com.cn/"
+        ],
+        "evidence": "品牌官网介绍中国大陆门店，并列出该菜品。具体门店、价格与当日供应未核实。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "官网页脚服务法人为安徽老乡鸡餐饮有限公司，总部地址在合肥；官网说明在中国大陆经营门店。尚未核实所选具体门店或该菜品的中央厨房/现场制作单位，因此不将总部地址当作该菜品生产证据。"
+      },
+      "service_legal_entity_source_url": "https://lxjchina.com.cn/",
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "shuanghui-wangzhongwang-children-sausage",
+      "product_name": "双汇王中王儿童肠",
+      "model": "王中王儿童肠；未限定净含量",
+      "official_source_page_url": "https://www.shuanghui.net/",
+      "image_url": "https://www.shuanghui.net/static/upload/images/article/2026/09/11/1789119239278523.jpg",
+      "market_verification": "双汇大陆官网视频中心标注“王中王儿童肠”，官网链接双汇商城。未核实时点库存。",
+      "notes": "原图为官方视频封面，展示双汇王中王儿童肠两种包装（含京东定制款），并非单一包装 SKU；可见“特级火腿肠”“儿童肠”。净含量与产地不作推断。",
+      "filename": "images/shuanghui-wangzhongwang-children-sausage.webp",
+      "final_image_url": "https://www.shuanghui.net/static/upload/images/article/2026/09/11/1789119239278523.jpg",
+      "content_type": "image/jpeg",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 595845,
+      "sha256": "f95bd1029d748f4a42de2dc4bcca5c8cdf69659e4545d2b013c17f12a2d990e7",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "双汇及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.shuanghui.net/"
+        ],
+        "evidence": "双汇大陆官网视频中心标注“王中王儿童肠”，官网链接双汇商城。未核实时点库存。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "yadea-guanneng-3m9",
+      "product_name": "雅迪冠能3 M9旅行版",
+      "model": "YD1200DB-E；60V38Ah",
+      "official_source_page_url": "https://www.yadea.com.cn/parameter/parameter_82/index.html",
+      "image_url": "https://osswebsite.yadea.com.cn/parameter/M9/static/da5e8104dc580f0d892d6b22d540ac1f.png",
+      "market_verification": "雅迪中国大陆官网参数页标明冠能3 M9旅行版 YD1200DB-E，配有线上商城二维码；未核实时点库存。",
+      "notes": "官网参数页车辆图片；这是三轮车型，不可写作两轮电动自行车。产地未知。",
+      "filename": "images/yadea-guanneng-3m9.webp",
+      "final_image_url": "https://osswebsite.yadea.com.cn/parameter/M9/static/da5e8104dc580f0d892d6b22d540ac1f.png",
+      "content_type": "image/png",
+      "width": 1125,
+      "height": 643,
+      "bytes": 354555,
+      "sha256": "99619a4c16c7ced062440e31990e015cd92ff5cf06d190af4178772f3ca6c167",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "雅迪及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.yadea.com.cn/parameter/parameter_82/index.html"
+        ],
+        "evidence": "雅迪中国大陆官网参数页标明冠能3 M9旅行版 YD1200DB-E，配有线上商城二维码；未核实时点库存。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "forever-ruiying80",
+      "product_name": "永久白金系列锐影80山地自行车（珍珠白）",
+      "model": "锐影80；页面提供26英寸和27.5英寸配置",
+      "official_source_page_url": "http://www.cnforever.com/product/detail/id=3973",
+      "image_url": "http://www.cnforever.com/data/upload/images/large/178295916495.jpg",
+      "market_verification": "永久大陆官网具体车型页列出锐影80规格、人民币指导零售价与线下门店入口；未核实时点库存。",
+      "notes": "官方原图清楚标注“白金永久锐影80 珍珠白”，可见整车。页面有26英寸和27.5英寸配置，图上未写轮径，不自行指定轮径。",
+      "filename": "images/forever-ruiying80.webp",
+      "final_image_url": "http://www.cnforever.com/data/upload/images/large/178295916495.jpg",
+      "content_type": "image/jpeg",
+      "width": 640,
+      "height": 640,
+      "bytes": 129729,
+      "sha256": "a1b12167d8ccb9cd12c8a94e2016a63eecbbd6955e218ad11774dfefb6a3e7c3",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "中路股份有限公司（原上海永久股份有限公司）及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "http://www.cnforever.com/product/detail/id=3973"
+        ],
+        "evidence": "永久大陆官网具体车型页列出锐影80规格、人民币指导零售价与线下门店入口；未核实时点库存。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "luckin-coconut-latte",
+      "product_name": "瑞幸生椰拿铁",
+      "model": "生椰拿铁（门店现制饮品）",
+      "official_source_page_url": "https://www.lkcoffee.com/products/lattes/coconut-latte",
+      "image_url": "https://img.luckincoffeecdn.com/luckymediaadmin/2026/05/26/3ccfa61293814670b0ef6bca9b828264.png",
+      "market_verification": "瑞幸中国大陆官网产品菜单，页脚服务法人瑞幸咖啡（北京）有限公司，并提供中国大陆 APP/小程序渠道。具体门店当日供应未核实。",
+      "service_legal_entity": "瑞幸咖啡（北京）有限公司",
+      "notes": "现制饮品官方菜单图；包含进口原料，不意味着全部原料产自中国。具体制作门店未核实。",
+      "filename": "images/luckin-coconut-latte.webp",
+      "final_image_url": "https://img.luckincoffeecdn.com/luckymediaadmin/2026/05/26/3ccfa61293814670b0ef6bca9b828264.png",
+      "content_type": "image/png",
+      "width": 480,
+      "height": 480,
+      "bytes": 82377,
+      "sha256": "1b3ede57faabdd2c8e468f595a5097d6bbdd214e099688a794e0626902be5b43",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "瑞幸咖啡及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.lkcoffee.com/products/lattes/coconut-latte"
+        ],
+        "evidence": "瑞幸中国大陆官网产品菜单，页脚服务法人瑞幸咖啡（北京）有限公司，并提供中国大陆 APP/小程序渠道。具体门店当日供应未核实。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "这是门店现制饮品。官网页脚服务法人为瑞幸咖啡（北京）有限公司；具体制作门店/门店经营法人未核实。官网说明使用东南亚生椰等原料，不将国内售卖等同全部原料国产。"
+      },
+      "service_legal_entity_source_url": "https://www.lkcoffee.com/products/lattes/coconut-latte",
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "xiaomi-17",
+      "product_name": "Xiaomi 17",
+      "model": "Xiaomi 17（中国大陆版，未限定存储配置）",
+      "official_source_page_url": "https://www.mi.com/prod/xiaomi-17",
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/new-product-images/xiaomi-17_55032/images/4245.png",
+      "market_verification": "小米中国大陆官网产品页，public product_info 显示 product_id 21931、名称 Xiaomi 17、is_enable 为 true、购买入口至 /shop/buy/detail?product_id=21931；未核实时点库存。",
+      "source_image_discovery": "官网产品页所加载 xiaomi-17 entry-1760062419654.js 明确以生产环境 imgPath + /images/4245.png 显示 floor_0 主视觉。",
+      "notes": "原始大陆官网图片；不根据品牌国别推断产地。",
+      "filename": "images/xiaomi-17.webp",
+      "final_image_url": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/new-product-images/xiaomi-17_55032/images/4245.png",
+      "content_type": "image/png",
+      "width": 5120,
+      "height": 2600,
+      "bytes": 2965925,
+      "sha256": "02f2c84461166c0fd6f821671dd16aa5c3728603f42f9d9e5fb3b79581802045",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "小米及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.mi.com/prod/xiaomi-17"
+        ],
+        "evidence": "小米中国大陆官网产品页，public product_info 显示 product_id 21931、名称 Xiaomi 17、is_enable 为 true、购买入口至 /shop/buy/detail?product_id=21931；未核实时点库存。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "kailan-bread-flour-1kg",
+      "product_name": "开兰面包粉 1kg",
+      "model": "开兰面包粉（1kg）",
+      "official_source_page_url": "https://gdkailan.com/products/detail/108/",
+      "image_url": "https://gdkailan.com/upfile/2019/01/19/20190119101500_467.png",
+      "market_verification": "广东开兰面粉有限公司官网具体产品页面；列明家庭装1kg、用途制作各式面包及联系订购渠道。未核实门店即时库存。",
+      "notes": "图源为同一官网首页与具体产品页对应的面包粉包装；图片最初上传2019年，现官网仍展示。",
+      "filename": "images/kailan-bread-flour-1kg.webp",
+      "final_image_url": "https://gdkailan.com/upfile/2019/01/19/20190119101500_467.png",
+      "content_type": "image/png",
+      "width": 600,
+      "height": 600,
+      "bytes": 168419,
+      "sha256": "99dbe922258e51e50d37d1e462a05c4ab3d4feddcb0830e70f19b2cdc4199ede",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "广东开兰面粉有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://gdkailan.com/products/detail/108/"
+        ],
+        "evidence": "广东开兰面粉有限公司官网具体产品页面；列明家庭装1kg、用途制作各式面包及联系订购渠道。未核实门店即时库存。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "manufacturer_and_domestic_site_verified",
+        "product_origin_status": "not_verified_at_individual_batch_level",
+        "country": "中国（已证实的是下列制造主体及生产地址）",
+        "manufacturer": "广东开兰面粉有限公司",
+        "production_address": "广东省江门市开平市三埠区虹桥路1号之二",
+        "source_urls": [
+          "https://gdkailan.com/products/detail/108/",
+          "https://gdkailan.com/",
+          "https://gdkailan.com/page/52/",
+          "https://gdkailan.com/upfile/2025/04/22/20250422154456_511.jpg"
+        ],
+        "evidence": "官网将该具体1kg面粉列为自有产品，公司简介明确称专业生产开兰、珠江牌专用面粉；同一官网食品生产许可证明确给出该公司及上述中国境内生产地址。",
+        "scope_and_limitation": "证据可对应官方制造主体与自有面粉系列；SKU到具体工厂的关联基于同一官网产品/制造介绍，属于有来源的关联判断。未读取实际到货包装背标或批次追溯，不将此证据推广到其他品牌、其他厂家或代工品。",
+        "certificate_number": "SC10144078300694",
+        "certificate_printed_expiry": "2027-05-15",
+        "certificate_image": {
+          "filename": "kailan-food-production-license.jpg",
+          "image_url": "https://gdkailan.com/upfile/2025/04/22/20250422154456_511.jpg",
+          "official_source_page_url": "https://gdkailan.com/page/52/",
+          "width": 3144,
+          "height": 2212,
+          "sha256": "9e8ab086eab6f6e1670ca2d04bcf8065b026b5f3c129f3094b456a6b210fb80f",
+          "description": "食品生产许可证：生产者广东开兰面粉有限公司；SC10144078300694；生产地址广东省江门市开平市三埠区虹桥路1号之二；食品类别粮食加工品、方便食品；发证日期2023-08-08，有效期至2027-05-15。仅转录官网证面，未在线核验许可证状态。",
+          "reuse_info": "Officially published document image. No open reuse license identified; rights remain with the rights holder. Not a product photo.",
+          "certificate_number": "SC10144078300694",
+          "printed_expiry_date": "2027-05-15"
+        }
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "kailan-dumpling-flour-1kg",
+      "product_name": "开兰饺子粉 1kg",
+      "model": "开兰饺子粉（1kg）",
+      "official_source_page_url": "https://gdkailan.com/products/detail/107/",
+      "image_url": "https://gdkailan.com/upfile/2019/01/19/20190119101438_974.png",
+      "market_verification": "广东开兰面粉有限公司官网具体产品页面；列明家庭装1kg和联系订购渠道。未核实门店即时库存。",
+      "notes": "图源为同一官网首页与具体产品页对应的饺子粉包装；图片最初上传2019年，现官网仍展示。",
+      "filename": "images/kailan-dumpling-flour-1kg.webp",
+      "final_image_url": "https://gdkailan.com/upfile/2019/01/19/20190119101438_974.png",
+      "content_type": "image/png",
+      "width": 600,
+      "height": 600,
+      "bytes": 178547,
+      "sha256": "6a4128f5bd99761e18ebf78ba1cd13435140772ba4a4cf91fef8f64dc026ea53",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "广东开兰面粉有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://gdkailan.com/products/detail/107/"
+        ],
+        "evidence": "广东开兰面粉有限公司官网具体产品页面；列明家庭装1kg和联系订购渠道。未核实门店即时库存。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "manufacturer_and_domestic_site_verified",
+        "product_origin_status": "not_verified_at_individual_batch_level",
+        "country": "中国（已证实的是下列制造主体及生产地址）",
+        "manufacturer": "广东开兰面粉有限公司",
+        "production_address": "广东省江门市开平市三埠区虹桥路1号之二",
+        "source_urls": [
+          "https://gdkailan.com/products/detail/107/",
+          "https://gdkailan.com/",
+          "https://gdkailan.com/page/52/",
+          "https://gdkailan.com/upfile/2025/04/22/20250422154456_511.jpg"
+        ],
+        "evidence": "官网将该具体1kg面粉列为自有产品，公司简介明确称专业生产开兰、珠江牌专用面粉；同一官网食品生产许可证明确给出该公司及上述中国境内生产地址。",
+        "scope_and_limitation": "证据可对应官方制造主体与自有面粉系列；SKU到具体工厂的关联基于同一官网产品/制造介绍，属于有来源的关联判断。未读取实际到货包装背标或批次追溯，不将此证据推广到其他品牌、其他厂家或代工品。",
+        "certificate_number": "SC10144078300694",
+        "certificate_printed_expiry": "2027-05-15",
+        "certificate_image": {
+          "filename": "kailan-food-production-license.jpg",
+          "image_url": "https://gdkailan.com/upfile/2025/04/22/20250422154456_511.jpg",
+          "official_source_page_url": "https://gdkailan.com/page/52/",
+          "width": 3144,
+          "height": 2212,
+          "sha256": "9e8ab086eab6f6e1670ca2d04bcf8065b026b5f3c129f3094b456a6b210fb80f",
+          "description": "食品生产许可证：生产者广东开兰面粉有限公司；SC10144078300694；生产地址广东省江门市开平市三埠区虹桥路1号之二；食品类别粮食加工品、方便食品；发证日期2023-08-08，有效期至2027-05-15。仅转录官网证面，未在线核验许可证状态。",
+          "reuse_info": "Officially published document image. No open reuse license identified; rights remain with the rights holder. Not a product photo.",
+          "certificate_number": "SC10144078300694",
+          "printed_expiry_date": "2027-05-15"
+        }
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "kailan-cake-flour-1kg",
+      "product_name": "开兰糕点粉 1kg",
+      "model": "开兰糕点粉（1kg）",
+      "official_source_page_url": "https://gdkailan.com/products/detail/106/",
+      "image_url": "https://gdkailan.com/upfile/2019/01/19/20190119101426_373.png",
+      "market_verification": "广东开兰面粉有限公司官网具体产品页面；列明家庭装1kg和联系订购渠道。未核实门店即时库存。",
+      "notes": "图源为同一官网首页与具体产品页对应的糕点粉包装；图片最初上传2019年，现官网仍展示。",
+      "filename": "images/kailan-cake-flour-1kg.webp",
+      "final_image_url": "https://gdkailan.com/upfile/2019/01/19/20190119101426_373.png",
+      "content_type": "image/png",
+      "width": 600,
+      "height": 600,
+      "bytes": 181281,
+      "sha256": "5700f6a678c12f9982b40b371c8fa5746213b1001423e7e7062b4ae86bd8addb",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "广东开兰面粉有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://gdkailan.com/products/detail/106/"
+        ],
+        "evidence": "广东开兰面粉有限公司官网具体产品页面；列明家庭装1kg和联系订购渠道。未核实门店即时库存。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "manufacturer_and_domestic_site_verified",
+        "product_origin_status": "not_verified_at_individual_batch_level",
+        "country": "中国（已证实的是下列制造主体及生产地址）",
+        "manufacturer": "广东开兰面粉有限公司",
+        "production_address": "广东省江门市开平市三埠区虹桥路1号之二",
+        "source_urls": [
+          "https://gdkailan.com/products/detail/106/",
+          "https://gdkailan.com/",
+          "https://gdkailan.com/page/52/",
+          "https://gdkailan.com/upfile/2025/04/22/20250422154456_511.jpg"
+        ],
+        "evidence": "官网将该具体1kg面粉列为自有产品，公司简介明确称专业生产开兰、珠江牌专用面粉；同一官网食品生产许可证明确给出该公司及上述中国境内生产地址。",
+        "scope_and_limitation": "证据可对应官方制造主体与自有面粉系列；SKU到具体工厂的关联基于同一官网产品/制造介绍，属于有来源的关联判断。未读取实际到货包装背标或批次追溯，不将此证据推广到其他品牌、其他厂家或代工品。",
+        "certificate_number": "SC10144078300694",
+        "certificate_printed_expiry": "2027-05-15",
+        "certificate_image": {
+          "filename": "kailan-food-production-license.jpg",
+          "image_url": "https://gdkailan.com/upfile/2025/04/22/20250422154456_511.jpg",
+          "official_source_page_url": "https://gdkailan.com/page/52/",
+          "width": 3144,
+          "height": 2212,
+          "sha256": "9e8ab086eab6f6e1670ca2d04bcf8065b026b5f3c129f3094b456a6b210fb80f",
+          "description": "食品生产许可证：生产者广东开兰面粉有限公司；SC10144078300694；生产地址广东省江门市开平市三埠区虹桥路1号之二；食品类别粮食加工品、方便食品；发证日期2023-08-08，有效期至2027-05-15。仅转录官网证面，未在线核验许可证状态。",
+          "reuse_info": "Officially published document image. No open reuse license identified; rights remain with the rights holder. Not a product photo.",
+          "certificate_number": "SC10144078300694",
+          "printed_expiry_date": "2027-05-15"
+        }
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "guangzhonghuang-fermented-tofu-mild-328g",
+      "product_name": "广中皇腐乳（微辣）328g",
+      "model": "广中皇腐乳，微辣，328g",
+      "official_source_page_url": "https://www.haday.com/subbrand-gzh/",
+      "image_url": "https://static.haday.com/upload/2025/12/11/eab1cd2d7e6148349ae5a6e4fbcc4c61.jpg",
+      "market_verification": "海天中国大陆官网旗下广中皇品牌页直接展示广中皇腐乳与微辣口味；包装可见328g，官网链接海天天猫及京东店。未核实当前具体渠道库存。",
+      "notes": "这是官网完整主推产品说明图，所选商品是左上角红盖广中皇腐乳（微辣）328g；图中另含其他产品，不能把整张图当作单瓶包装照。不裁改官方原图。",
+      "filename": "images/guangzhonghuang-fermented-tofu-mild-328g.webp",
+      "final_image_url": "https://static.haday.com/upload/2025/12/11/eab1cd2d7e6148349ae5a6e4fbcc4c61.jpg",
+      "content_type": "image/jpeg",
+      "width": 1200,
+      "height": 2070,
+      "bytes": 868761,
+      "sha256": "bf8cdf8217bab33e3d9783274fa4f6c1a7d8310f74b2ed879309c1361b85e13a",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "佛山市海天调味食品股份有限公司、广东广中皇食品有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_listing",
+        "source_urls": [
+          "https://www.haday.com/subbrand-gzh/"
+        ],
+        "evidence": "海天中国大陆官网旗下广中皇品牌页直接展示广中皇腐乳与微辣口味；包装可见328g，官网链接海天天猫及京东店。未核实当前具体渠道库存。",
+        "limitation": "官网展示不等于特定地区实时库存；未下单或核对邮编库存。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "source_urls": [],
+        "evidence": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
+        "follow_up_lead": {
+          "source_url": "https://www.luoding.gov.cn/attachment/0/121/121880/1975658.pdf",
+          "evidence": "政府抽检搜索文本有广中皇腐乳328g/瓶、2025-06-18批次、广东广中皇食品有限公司、开平市水口镇龙塘西路；未在本素材任务中阅读全文并核实是否微辣口味，因此仅为后续线索，不升级产地状态。"
+        }
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

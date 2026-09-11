@@ -19,6 +19,9 @@ export interface SupplyStage {
 }
 export interface Company {
   id: string;
+  origin: "china" | "international" | "unconfirmed";
+  originNote: string;
+  assessments?: { subject: string; result: string; period: string; sourceId: string; limitation: string }[];
   name: string;
   legalName: string;
   location: string;
@@ -45,6 +48,7 @@ export interface Product {
   category: string;
   description: string;
   tags: string[];
+  needs: string[];
   image: string | null;
   imageMode: string;
   imageSource: string | null;
@@ -53,6 +57,16 @@ export interface Product {
   market: string;
   relationship: string;
   relationshipSourceIds: string[];
+  admission: {
+    chinaSale: AdmissionCheck;
+    chinaProduction: AdmissionCheck;
+    productionLabor: AdmissionCheck;
+  };
+}
+export interface AdmissionCheck {
+  status: "supported" | "pending";
+  detail: string;
+  sourceIds: string[];
 }
 export interface Catalog {
   version: number;
@@ -61,9 +75,12 @@ export interface Catalog {
   sources: Source[];
   companies: Company[];
   products: Product[];
+  coverage: { category: string; needs: { label: string; query: string }[]; note: string; sourceIds: string[] }[];
 }
 export interface Filters {
   category: string;
+  need: string;
+  origin: "all" | "china";
   query: string;
   evidence: string;
   supply: boolean;
