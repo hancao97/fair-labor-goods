@@ -314,7 +314,7 @@
       "type": "产品官网",
       "url": "https://www.opple.com.cn/products/customerproducts/boruipro/",
       "publishedAt": null,
-      "checkedAt": "2026-09-11",
+      "checkedAt": "2026-09-12",
       "locator": "官方商品介绍与图像",
       "summary": "欧普照明官方产品页面。",
       "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
@@ -350,7 +350,7 @@
       "type": "产品官网",
       "url": "https://www.ergonor.cn/product/jinhao-l2",
       "publishedAt": null,
-      "checkedAt": "2026-09-11",
+      "checkedAt": "2026-09-12",
       "locator": "官方商品介绍与图像",
       "summary": "保友官方产品；劳动资料来自广州联友，尚未对应到本商品制造主体。",
       "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
@@ -485,7 +485,7 @@
       "summary": "中国官网展示双重薄荷牙膏及多种规格，页脚主体为好来化工（中山）。",
       "limitation": "商品与主体关联资料；不提供本批次的生产线考勤。",
       "publishedAt": null,
-      "checkedAt": "2026-09-11"
+      "checkedAt": "2026-09-12"
     },
     {
       "id": "meiji-ice-hiring",
@@ -605,7 +605,7 @@
       "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
       "locator": "产品详情及型号",
       "publishedAt": null,
-      "checkedAt": "2026-09-11"
+      "checkedAt": "2026-09-12"
     },
     {
       "id": "product-apple-macbook-air-13-m5",
@@ -617,7 +617,7 @@
       "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
       "locator": "产品详情及型号",
       "publishedAt": null,
-      "checkedAt": "2026-09-11"
+      "checkedAt": "2026-09-12"
     },
     {
       "id": "product-apple-ipad-a16",
@@ -629,7 +629,7 @@
       "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
       "locator": "产品详情及型号",
       "publishedAt": null,
-      "checkedAt": "2026-09-11"
+      "checkedAt": "2026-09-12"
     },
     {
       "id": "product-bosch-kcb89e420c",
@@ -999,7 +999,7 @@
       "summary": "雅迪中国大陆官网参数页标明冠能3 M9旅行版 YD1200DB-E，配有线上商城二维码；未核实时点库存。",
       "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
       "publishedAt": null,
-      "checkedAt": "2026-09-11",
+      "checkedAt": "2026-09-12",
       "locator": "页面正文",
       "type": "企业官网"
     },
@@ -1011,7 +1011,7 @@
       "summary": "永久大陆官网具体车型页列出锐影80规格、人民币指导零售价与线下门店入口；未核实时点库存。",
       "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
       "publishedAt": null,
-      "checkedAt": "2026-09-11",
+      "checkedAt": "2026-09-12",
       "locator": "页面正文",
       "type": "企业官网"
     },
@@ -1023,7 +1023,7 @@
       "summary": "瑞幸中国大陆官网产品菜单，页脚服务法人瑞幸咖啡（北京）有限公司，并提供中国大陆 APP/小程序渠道。具体门店当日供应未核实。",
       "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
       "publishedAt": null,
-      "checkedAt": "2026-09-11",
+      "checkedAt": "2026-09-12",
       "locator": "页面正文",
       "type": "企业官网"
     },
@@ -1035,7 +1035,7 @@
       "summary": "小米中国大陆官网产品页，public product_info 显示 product_id 21931、名称 Xiaomi 17、is_enable 为 true、购买入口至 /shop/buy/detail?product_id=21931；未核实时点库存。",
       "limitation": "商品与图片资料仅证明品牌展示；不是产地、库存或劳动合规证明。",
       "publishedAt": null,
-      "checkedAt": "2026-09-11",
+      "checkedAt": "2026-09-12",
       "locator": "页面正文",
       "type": "企业官网"
     },
@@ -1442,6 +1442,210 @@
       "url": "http://www.qingmings.com/shop_list.php?cid=1",
       "summary": "官网票务页明确列出清明上河园全价票、预订入口，以及河南开封龙亭西路 5 号景区地址。",
       "limitation": "票务页面未标更新时间；价格、日期限制、入园权益和实名规则均以实际官方订单为准，不将网页长期展示值当作实时票价。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "winner-tianmen-hiring-2024",
+      "title": "稳健医疗天门生产岗位招聘简章",
+      "publisher": "天门市人民政府转载天门招工网",
+      "url": "https://www.tianmen.gov.cn/zwgk/bmhxzxxgkml/bm/srlzyhshbzj/zfxxgk/fdzdgknr/gysjjs/jy/qz/202405/t20240507_5181867.shtml",
+      "summary": "招聘对象为天门岳口镇建设南路 47 号工厂；开机工需两班倒与夜班，发料员、包装工写明白班 12 小时。",
+      "limitation": "2024 年岗位安排不代表今天，也不能单独据此作法律违法结论。它与每周 40 小时、周休两天的筛选条件并不等价；尚未对应本目录具体商品。",
+      "publishedAt": "2024-05-07",
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "政府招聘"
+    },
+    {
+      "id": "purcotton-brand",
+      "title": "全棉时代品牌起源与稳健医疗关系",
+      "publisher": "深圳全棉时代科技有限公司",
+      "url": "https://www.purcotton.com/origin/",
+      "summary": "官网介绍全棉时代与稳健医疗的品牌关系，并提供中国大陆门店与品牌渠道。",
+      "limitation": "集团关系不等于某件商品在天门或其他指定工厂生产；商品制造商、供应商与雇佣主体须另核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-purcotton-pearl-face-towel80",
+      "title": "纯棉洗脸巾·珍珠棉纹 80片/盒官方资料",
+      "publisher": "深圳全棉时代科技有限公司",
+      "url": "https://www.purcotton.com/chunmianxilianjin/305.html",
+      "summary": "200×200mm，物料号 P322030100003。用于日常洗脸擦拭。",
+      "limitation": "官方规格和物料号只用于识别产品；当前批次的生产商、厂址和生产人员劳动条件仍需核验。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-purcotton-toilet-wipes8x10",
+      "title": "便携如厕湿巾 8片×10包官方资料",
+      "publisher": "深圳全棉时代科技有限公司",
+      "url": "https://www.purcotton.com/shijin/609.html",
+      "summary": "14×18cm，物料号 PPC20700001。用于如厕后的清洁擦拭。",
+      "limitation": "官方规格和物料号只用于识别产品；当前批次的生产商、厂址和生产人员劳动条件仍需核验。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-purcotton-ningxia-bedding",
+      "title": "宁夏四件套 PBT221035UD06150官方资料",
+      "publisher": "深圳全棉时代科技有限公司",
+      "url": "https://www.purcotton.com/chuangshangyongpin/749.html",
+      "summary": "含 200×230cm 被套、250×245cm 床单和两件 48×74cm 枕套。宁夏是款式名，不能当作产地。",
+      "limitation": "官方规格和物料号只用于识别产品；当前批次的生产商、厂址和生产人员劳动条件仍需核验。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-purcotton-six-layer-towel",
+      "title": "花园颂歌绿＋梧枝绿六层浴巾 80×140cm官方资料",
+      "publisher": "深圳全棉时代科技有限公司",
+      "url": "https://www.purcotton.com/weiyuyongpin/752.html",
+      "summary": "六层一体浴巾，物料号 PTY222002AA06080。",
+      "limitation": "官方规格和物料号只用于识别产品；当前批次的生产商、厂址和生产人员劳动条件仍需核验。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-purcotton-nicebaby-l56",
+      "title": "奈丝宝宝宝护裤 L码 56片/包官方资料",
+      "publisher": "深圳全棉时代科技有限公司",
+      "url": "https://www.purcotton.com/naisibaobao/574.html",
+      "summary": "官网标注 20 款、物料号 PMB20700024 的裤型尿裤；款式较早，当前销售状态待核。",
+      "limitation": "官方规格和物料号只用于识别产品；当前批次的生产商、厂址和生产人员劳动条件仍需核验。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-deli-sh148-pencil",
+      "title": "SH148 自动书写铅笔套装 HB 0.9mm官方资料",
+      "publisher": "得力集团",
+      "url": "https://www.nbdeli.com/products/productinfo/36698.html",
+      "summary": "物料编码 140002730；HB 0.9mm 自动铅笔套装。",
+      "limitation": "官方规格和物料号只用于识别产品；当前批次的生产商、厂址和生产人员劳动条件仍需核验。本次官网直连返回 403，通过官网检索缓存读取；当前渠道库存未核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-deli-25996-notebook",
+      "title": "25996 B5 备考活页本官方资料",
+      "publisher": "得力集团",
+      "url": "https://www.nbdeli.com/products/productinfo/24237.html",
+      "summary": "物料编码 100152441；B5 活页笔记本。",
+      "limitation": "官方规格和物料号只用于识别产品；当前批次的生产商、厂址和生产人员劳动条件仍需核验。本次官网直连返回 403，通过官网检索缓存读取；当前渠道库存未核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "product-deli-0371s-stapler",
+      "title": "0371S 省力平钉订书机（黑色）官方资料",
+      "publisher": "得力集团",
+      "url": "https://www.nbdeli.com/products/productinfo/36785.html",
+      "summary": "物料编码 140002746；桌面用省力平钉订书机。",
+      "limitation": "官方规格和物料号只用于识别产品；当前批次的生产商、厂址和生产人员劳动条件仍需核验。本次官网直连返回 403，通过官网检索缓存读取；当前渠道库存未核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "nxnk-lianhu-production-2026",
+      "title": "连湖番茄基地建设与生产主体线索",
+      "publisher": "宁夏农垦集团",
+      "url": "https://www.nxnk.com/nxnk/qqxk/202607/t20260724_1140162.html",
+      "summary": "2026 年报道介绍宁垦种业集团在连湖推进蔬菜基地与番茄生产设施建设。",
+      "limitation": "新温棚建设不等于已经供货；同名连湖西红柿还涉及合作社、家庭农场和种植户，不能共用一个劳动结论。",
+      "publishedAt": "2026-07-24",
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "nxnk-lianhu-market",
+      "title": "连湖西红柿产地与销售方式",
+      "publisher": "宁夏农垦集团",
+      "url": "https://www.nxnk.com/spxc/202203/t20220311_519695.html",
+      "summary": "官网介绍连湖农场番茄由当地合作社、家庭农场和种植大户供货，通过商超、社区配送及线上销售。",
+      "limitation": "这是 2022 年销售方式记录，没有当前可下单的指定经营主体、包装或批次。",
+      "publishedAt": "2022-03-11",
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "nxnk-lianhu-season",
+      "title": "连湖鲜食番茄供应季节资料",
+      "publisher": "宁夏农垦集团",
+      "url": "https://www.nxnk.com/tptt/202311/t20231103_790511.html",
+      "summary": "2023 年官网技术报告记载连湖鲜食番茄的历史供应期由 2—4 月扩展到 1—6 月。",
+      "limitation": "历史生产季节不能保证当前月份有货；本项目不编造包装重量和订单。",
+      "publishedAt": "2023-11-03",
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "shanghao-mulberry-products",
+      "title": "尚好桑叶茶产品规格与渠道",
+      "publisher": "四川尚好茶业有限公司",
+      "url": "https://www.scshmc.cn/product/one/",
+      "summary": "官网列出复合型桑叶茶 40g（4g×10）的盒装商品，所属公司官网提供国内直营、批销和电商销售线索。",
+      "limitation": "官网直连遇证书验证错误，通过近期官网检索缓存读取；不能据此保证当前库存，也未获得该盒背标生产企业。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "shanghao-company",
+      "title": "尚好产业与品牌关系",
+      "publisher": "四川尚好茶业有限公司",
+      "url": "https://www.scshmc.cn/",
+      "summary": "官网介绍南充的种植、加工与销售业务，并列出多个子公司及合作社。",
+      "limitation": "多个关联主体和合作社不是同一雇主；不得将公司示范记录扩展为所有种植加工工人的合规结论。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "shuanghui-wangkui-csr-2024",
+      "title": "望奎双汇 2024 企业社会责任报告",
+      "publisher": "望奎双汇北大荒食品有限公司",
+      "url": "https://www.shuanghui.net/static/upload/file/article/2025/08/27/1756254298431373.pdf",
+      "summary": "报告披露望奎肉类加工主体、东北销售范围及合同、福利、培训、安全管理等员工政策。",
+      "limitation": "已读取 6 页；没有每周工时、每周休息日或实际考勤数据，也未对应到本站儿童肠的生产批次。",
+      "publishedAt": "2024-12-31",
+      "checkedAt": "2026-09-12",
+      "locator": "第 2—4 页",
+      "type": "企业报告"
+    },
+    {
+      "id": "lego-tiny-plants-cn",
+      "title": "乐高 10329 中国大陆产品资料",
+      "publisher": "乐高中国",
+      "url": "https://www.lego.com/zh-cn/product/tiny-plants-10329",
+      "summary": "已找到 10329 在乐高中国站的中文商品资料，名称为迷你盆栽。",
+      "limitation": "中国站商品介绍不能单独确认当前官方商店库存或国内制造；仍需核对包装产地及具体生产厂。",
       "publishedAt": null,
       "checkedAt": "2026-09-12",
       "locator": "页面正文",
@@ -2888,13 +3092,15 @@
       "restLabel": "每周两天休息待核",
       "cardNote": "工时与休息资料待补",
       "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "finding": "已读取望奎双汇 2024 年工厂社会责任报告，包含员工权益与安全管理政策，但没有每周工时和休息日数据；不能套用于其他工厂及本目录商品批次。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
         "本档案尚未取得实际考勤、加班和每周休息记录。"
       ],
-      "sourceIds": [],
+      "sourceIds": [
+        "shuanghui-wangkui-csr-2024"
+      ],
       "supply": [
         {
           "stage": "品牌与运营",
@@ -4021,6 +4227,179 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "purcotton",
+      "name": "全棉时代",
+      "legalName": "深圳全棉时代科技有限公司",
+      "location": "广东深圳；具体制造地待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "生产招聘存在不同班制",
+      "scope": "全棉时代消费品品牌及稳健医疗相关制造线索；天门工厂记录只用于核查该法人。",
+      "finding": "已找到品牌和具体物料号。稳健医疗（天门）有 2022 年示范记录，但 2024 年生产招聘出现两班倒、12 小时白班，不能推定全部生产岗位符合本项目工时条件。",
+      "caveats": [
+        "当前商品背标尚未对应天门工厂。",
+        "12 小时招聘描述不能替代实际排班，也不构成本站对整个集团的违法认定。",
+        "棉花采购、织造、加工、外包与门店人员均需分别核查。"
+      ],
+      "sourceIds": [
+        "purcotton-brand",
+        "winner-tianmen-hiring-2024",
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "全棉时代消费品品牌及稳健医疗相关制造线索；天门工厂记录只用于核查该法人。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "稳健医疗（天门）有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "与品牌同集团的生产法人记录，不是深圳全棉时代或每个消费品的评价；同时保留其 2024 年生产招聘的长班次线索。"
+        }
+      ]
+    },
+    {
+      "id": "nxnk-lianhu",
+      "name": "宁夏农垦连湖农场",
+      "legalName": "宁夏农垦连湖农场有限公司",
+      "location": "宁夏青铜峡",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "连湖农场基地、合作社和种植户需按具体供货批次区分；集团历史示范记录不直接覆盖他们。",
+      "finding": "已找到连湖番茄的生产基地及销售方式。宁夏农垦集团有 2022 年劳动关系示范记录，但实际供货者、季节工和采收包装人员尚未核验。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022",
+        "nxnk-lianhu-production-2026",
+        "nxnk-lianhu-market"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "连湖农场基地、合作社和种植户需按具体供货批次区分；集团历史示范记录不直接覆盖他们。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "宁夏农垦集团有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "集团记录，不扩展到连湖农场、合作社、家庭农场或季节用工。"
+        }
+      ]
+    },
+    {
+      "id": "shanghao",
+      "name": "四川尚好",
+      "legalName": "四川尚好茶业有限公司",
+      "location": "四川南充",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "公司列入 2022 年示范企业正式名单；现有资料可以对应桑茶商品和产业布局，当前工厂排班与合作社劳动条件仍未知。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022",
+        "shanghao-company"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "四川尚好茶业有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "保留历史年份；不扩大到集团关联公司、合作社、代工及当前全员劳动履行。"
+        }
+      ]
     }
   ],
   "products": [
@@ -4224,9 +4603,11 @@
       ],
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "status": "supported",
+          "detail": "欧普大陆官网可核小灯塔系列博睿 Pro，提供官方线下门店查询入口；门店现货另核。",
+          "sourceIds": [
+            "product-opple-boruipro"
+          ]
         },
         "chinaProduction": {
           "status": "pending",
@@ -4351,9 +4732,11 @@
       ],
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "status": "supported",
+          "detail": "保友大陆官网介绍金豪 L2 2025 款，并提供官方购买渠道页面；具体规格和现货另核。",
+          "sourceIds": [
+            "product-ergonor-jinhao-l2"
+          ]
         },
         "chinaProduction": {
           "status": "pending",
@@ -4415,7 +4798,7 @@
     },
     {
       "id": "lego-tiny-plants",
-      "name": "迷你植物 10329",
+      "name": "迷你盆栽 10329",
       "brand": "LEGO 乐高",
       "companyId": "lego",
       "category": "culture",
@@ -4430,17 +4813,20 @@
       "imageMode": "contain",
       "imageSource": "https://www.lego.com/cdn/cs/set/assets/bltb2f845ffd52a25b0/10329.png?dpr=1&fit=bounds&format=jpg&height=1500&quality=80&width=1500",
       "imageRights": "The LEGO Group",
-      "url": "https://www.lego.com/en-us/product/tiny-plants-10329",
+      "url": "https://www.lego.com/zh-cn/product/tiny-plants-10329",
       "market": "美国官网套装 10329；购买渠道以所在地官网为准。",
       "relationship": "乐高官方 Botanicals 套装。",
       "relationshipSourceIds": [
-        "product-lego-tiny-plants"
+        "product-lego-tiny-plants",
+        "lego-tiny-plants-cn"
       ],
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "detail": "已找到同型号的乐高中国站资料并替换原美国商品入口；当前大陆销售与库存仍待进一步核对。",
+          "sourceIds": [
+            "lego-tiny-plants-cn"
+          ]
         },
         "chinaProduction": {
           "status": "pending",
@@ -4612,9 +4998,11 @@
       ],
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "status": "supported",
+          "detail": "好来大陆官网明确列有 225g 规格，并将立即购买入口指向品牌天猫店；具体规格库存另核。",
+          "sourceIds": [
+            "darlie-mint-product"
+          ]
         },
         "chinaProduction": {
           "status": "pending",
@@ -4830,9 +5218,11 @@
       ],
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "status": "supported",
+          "detail": "Apple 中国大陆商店当前提供 iPhone 17 具体容量、颜色的购买选择；不代表所售设备均在中国制造。",
+          "sourceIds": [
+            "product-apple-iphone-17"
+          ]
         },
         "chinaProduction": {
           "status": "pending",
@@ -4851,7 +5241,7 @@
     },
     {
       "id": "apple-macbook-air-13-m5",
-      "name": "13 英寸 MacBook Air M5",
+      "name": "13英寸 MacBook Air M5（16GB/512GB）",
       "brand": "Apple",
       "companyId": "apple",
       "category": "electronics",
@@ -4873,9 +5263,11 @@
       ],
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "status": "supported",
+          "detail": "Apple 中国大陆商店当前可核 13 英寸 M5、天蓝色、16GB/512GB 配置的购买页面；具体地区交付时间另核。",
+          "sourceIds": [
+            "product-apple-macbook-air-13-m5"
+          ]
         },
         "chinaProduction": {
           "status": "pending",
@@ -4916,9 +5308,11 @@
       ],
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "status": "supported",
+          "detail": "Apple 中国大陆商店当前列出 A16 iPad 的容量和连接方式购买选择；制造地仍按具体设备核查。",
+          "sourceIds": [
+            "product-apple-ipad-a16"
+          ]
         },
         "chinaProduction": {
           "status": "pending",
@@ -4960,7 +5354,7 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "detail": "已核大陆官网的具体型号页面；静态 HTML 同时包含在售与退市模板，不能从模板文字判断型号实时销售状态。",
           "sourceIds": []
         },
         "chinaProduction": {
@@ -5003,7 +5397,7 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "detail": "已核大陆官网的具体型号页面；静态 HTML 同时包含在售与退市模板，不能从模板文字判断型号实时销售状态。",
           "sourceIds": []
         },
         "chinaProduction": {
@@ -5046,7 +5440,7 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "detail": "已核大陆官网的具体型号页面；静态 HTML 同时包含在售与退市模板，不能从模板文字判断型号实时销售状态。",
           "sourceIds": []
         },
         "chinaProduction": {
@@ -5177,7 +5571,7 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "detail": "品牌官网提供大陆天猫官方渠道；仍需确认本条具体款式、规格当前销售状态，不能仅从品牌店存在推定该款有货。",
           "sourceIds": []
         },
         "chinaProduction": {
@@ -5220,7 +5614,7 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
+          "detail": "品牌官网提供大陆天猫官方渠道；仍需确认本条具体款式、规格当前销售状态，不能仅从品牌店存在推定该款有货。",
           "sourceIds": []
         },
         "chinaProduction": {
@@ -6217,8 +6611,8 @@
       "imageRights": "雅迪及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "雅迪中国大陆官网参数页标明冠能3 M9旅行版 YD1200DB-E，配有线上商城二维码；未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "status": "supported",
+          "detail": "雅迪大陆官网型号页列明冠能 3 M9 旅行版 YD1200DB-E，提供官方商城入口；门店现货和地区销售政策另核。",
           "sourceIds": [
             "product-yadea-guanneng-3m9"
           ]
@@ -6262,8 +6656,8 @@
       "imageRights": "中路股份有限公司（原上海永久股份有限公司）及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "永久大陆官网具体车型页列出锐影80规格、人民币指导零售价与线下门店入口；未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "status": "supported",
+          "detail": "永久大陆官网具体车型页列出锐影 80 的规格、官方销售及门店入口；地区库存另核。",
           "sourceIds": [
             "product-forever-ruiying80"
           ]
@@ -6307,8 +6701,8 @@
       "imageRights": "瑞幸咖啡及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "瑞幸中国大陆官网产品菜单，页脚服务法人瑞幸咖啡（北京）有限公司，并提供中国大陆 APP/小程序渠道。具体门店当日供应未核实。 官方展示不保证任意地区实时有货。",
+          "status": "supported",
+          "detail": "瑞幸大陆官网菜单列有生椰拿铁，并提供大陆 APP、小程序渠道；供应范围与门店当日库存另核。",
           "sourceIds": [
             "product-luckin-coconut-latte"
           ]
@@ -6351,8 +6745,8 @@
       "imageRights": "小米及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "小米中国大陆官网产品页，public product_info 显示 product_id 21931、名称 Xiaomi 17、is_enable 为 true、购买入口至 /shop/buy/detail?product_id=21931；未核实时点库存。 官方展示不保证任意地区实时有货。",
+          "status": "supported",
+          "detail": "小米大陆官网具体产品资料提供 Xiaomi 17 的官方购买入口；地区库存、交付配置和制造地另核。",
           "sourceIds": [
             "product-xiaomi-17"
           ]
@@ -7284,6 +7678,497 @@
           ]
         }
       }
+    },
+    {
+      "id": "purcotton-pearl-face-towel80",
+      "name": "纯棉洗脸巾·珍珠棉纹 80片/盒",
+      "brand": "全棉时代",
+      "companyId": "purcotton",
+      "category": "daily",
+      "description": "200×200mm，物料号 P322030100003。用于日常洗脸擦拭。",
+      "tags": [
+        "洗脸巾"
+      ],
+      "needs": [
+        "洗脸巾"
+      ],
+      "url": "https://www.purcotton.com/chunmianxilianjin/305.html",
+      "relationshipSourceIds": [
+        "product-purcotton-pearl-face-towel80"
+      ],
+      "market": "图片与 P322030100003、200×200mm、80片/盒对应；制造商和厂址尚未从所见包装确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/purcotton-pearl-face-towel80.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.purcotton.com/uploads/20200811122358_625996.jpg",
+      "imageRights": "深圳全棉时代科技有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "大陆品牌官网可核此物料号并提供门店查询；具体门店和当前库存另核。",
+          "sourceIds": [
+            "product-purcotton-pearl-face-towel80",
+            "purcotton-brand"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已找到具体物料号，仍需产品背标或制造记录明确生产法人、厂址；不以中国品牌或款式名称推定产地。",
+          "sourceIds": [
+            "product-purcotton-pearl-face-towel80"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "相关天门工厂的政府招聘存在两班倒及 12 小时白班；具体产品与工厂关系、当前实际工时仍待核。",
+          "sourceIds": [
+            "purcotton-brand",
+            "winner-tianmen-hiring-2024",
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "purcotton-toilet-wipes8x10",
+      "name": "便携如厕湿巾 8片×10包",
+      "brand": "全棉时代",
+      "companyId": "purcotton",
+      "category": "daily",
+      "description": "14×18cm，物料号 PPC20700001。用于如厕后的清洁擦拭。",
+      "tags": [
+        "湿巾"
+      ],
+      "needs": [
+        "湿巾"
+      ],
+      "url": "https://www.purcotton.com/shijin/609.html",
+      "relationshipSourceIds": [
+        "product-purcotton-toilet-wipes8x10"
+      ],
+      "market": "图片展示组合内的 8 片小包装；整袋 10 包，组合规格由官网正文确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/purcotton-toilet-wipes8x10.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.purcotton.com/uploads/20210206111747_927890.png",
+      "imageRights": "深圳全棉时代科技有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "大陆品牌官网可核此物料号并提供门店查询；具体门店和当前库存另核。",
+          "sourceIds": [
+            "product-purcotton-toilet-wipes8x10",
+            "purcotton-brand"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已找到具体物料号，仍需产品背标或制造记录明确生产法人、厂址；不以中国品牌或款式名称推定产地。",
+          "sourceIds": [
+            "product-purcotton-toilet-wipes8x10"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "相关天门工厂的政府招聘存在两班倒及 12 小时白班；具体产品与工厂关系、当前实际工时仍待核。",
+          "sourceIds": [
+            "purcotton-brand",
+            "winner-tianmen-hiring-2024",
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "purcotton-ningxia-bedding",
+      "name": "宁夏四件套 PBT221035UD06150",
+      "brand": "全棉时代",
+      "companyId": "purcotton",
+      "category": "home",
+      "description": "含 200×230cm 被套、250×245cm 床单和两件 48×74cm 枕套。宁夏是款式名，不能当作产地。",
+      "tags": [
+        "床单",
+        "被套"
+      ],
+      "needs": [
+        "床单",
+        "被套"
+      ],
+      "url": "https://www.purcotton.com/chuangshangyongpin/749.html",
+      "relationshipSourceIds": [
+        "product-purcotton-ningxia-bedding"
+      ],
+      "market": "按厂家具体规格与物料号核对；地区库存、售后和现货由官方渠道另行确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "大陆品牌官网可核此物料号并提供门店查询；具体门店和当前库存另核。",
+          "sourceIds": [
+            "product-purcotton-ningxia-bedding",
+            "purcotton-brand"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已找到具体物料号，仍需产品背标或制造记录明确生产法人、厂址；不以中国品牌或款式名称推定产地。",
+          "sourceIds": [
+            "product-purcotton-ningxia-bedding"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "相关天门工厂的政府招聘存在两班倒及 12 小时白班；具体产品与工厂关系、当前实际工时仍待核。",
+          "sourceIds": [
+            "purcotton-brand",
+            "winner-tianmen-hiring-2024",
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "purcotton-six-layer-towel",
+      "name": "花园颂歌绿＋梧枝绿六层浴巾 80×140cm",
+      "brand": "全棉时代",
+      "companyId": "purcotton",
+      "category": "home",
+      "description": "六层一体浴巾，物料号 PTY222002AA06080。",
+      "tags": [
+        "毛巾"
+      ],
+      "needs": [
+        "毛巾"
+      ],
+      "url": "https://www.purcotton.com/weiyuyongpin/752.html",
+      "relationshipSourceIds": [
+        "product-purcotton-six-layer-towel"
+      ],
+      "market": "按厂家具体规格与物料号核对；地区库存、售后和现货由官方渠道另行确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "大陆品牌官网可核此物料号并提供门店查询；具体门店和当前库存另核。",
+          "sourceIds": [
+            "product-purcotton-six-layer-towel",
+            "purcotton-brand"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已找到具体物料号，仍需产品背标或制造记录明确生产法人、厂址；不以中国品牌或款式名称推定产地。",
+          "sourceIds": [
+            "product-purcotton-six-layer-towel"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "相关天门工厂的政府招聘存在两班倒及 12 小时白班；具体产品与工厂关系、当前实际工时仍待核。",
+          "sourceIds": [
+            "purcotton-brand",
+            "winner-tianmen-hiring-2024",
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "purcotton-nicebaby-l56",
+      "name": "奈丝宝宝宝护裤 L码 56片/包",
+      "brand": "奈丝宝宝",
+      "companyId": "purcotton",
+      "category": "daily",
+      "description": "官网标注 20 款、物料号 PMB20700024 的裤型尿裤；款式较早，当前销售状态待核。",
+      "tags": [
+        "纸尿裤"
+      ],
+      "needs": [
+        "纸尿裤"
+      ],
+      "url": "https://www.purcotton.com/naisibaobao/574.html",
+      "relationshipSourceIds": [
+        "product-purcotton-nicebaby-l56"
+      ],
+      "market": "按厂家具体规格与物料号核对；地区库存、售后和现货由官方渠道另行确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网保留 20 款的 L 码 56 片物料号；由于型号较早，未将仍在官网展示当作当前在售保证。",
+          "sourceIds": [
+            "product-purcotton-nicebaby-l56",
+            "purcotton-brand"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已找到具体物料号，仍需产品背标或制造记录明确生产法人、厂址；不以中国品牌或款式名称推定产地。",
+          "sourceIds": [
+            "product-purcotton-nicebaby-l56"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "相关天门工厂的政府招聘存在两班倒及 12 小时白班；具体产品与工厂关系、当前实际工时仍待核。",
+          "sourceIds": [
+            "purcotton-brand",
+            "winner-tianmen-hiring-2024",
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "deli-sh148-pencil",
+      "name": "SH148 自动书写铅笔套装 HB 0.9mm",
+      "brand": "得力",
+      "companyId": "deli",
+      "category": "stationery",
+      "description": "物料编码 140002730；HB 0.9mm 自动铅笔套装。",
+      "tags": [
+        "铅笔"
+      ],
+      "needs": [
+        "铅笔"
+      ],
+      "url": "https://www.nbdeli.com/products/productinfo/36698.html",
+      "relationshipSourceIds": [
+        "product-deli-sh148-pencil"
+      ],
+      "market": "按厂家具体规格与物料号核对；地区库存、售后和现货由官方渠道另行确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网检索缓存可核型号，但当前直连未成功，现售渠道需补核。",
+          "sourceIds": [
+            "product-deli-sh148-pencil"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已找到具体物料号，仍需产品背标或制造记录明确生产法人、厂址；不以中国品牌或款式名称推定产地。",
+          "sourceIds": [
+            "product-deli-sh148-pencil"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "得力管培生招聘的五天八小时安排不代表此物料号制造工厂的生产岗位。",
+          "sourceIds": [
+            "deli-campus-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "deli-25996-notebook",
+      "name": "25996 B5 备考活页本",
+      "brand": "得力",
+      "companyId": "deli",
+      "category": "stationery",
+      "description": "物料编码 100152441；B5 活页笔记本。",
+      "tags": [
+        "本子"
+      ],
+      "needs": [
+        "本子"
+      ],
+      "url": "https://www.nbdeli.com/products/productinfo/24237.html",
+      "relationshipSourceIds": [
+        "product-deli-25996-notebook"
+      ],
+      "market": "按厂家具体规格与物料号核对；地区库存、售后和现货由官方渠道另行确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网检索缓存可核型号，但当前直连未成功，现售渠道需补核。",
+          "sourceIds": [
+            "product-deli-25996-notebook"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已找到具体物料号，仍需产品背标或制造记录明确生产法人、厂址；不以中国品牌或款式名称推定产地。",
+          "sourceIds": [
+            "product-deli-25996-notebook"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "得力管培生招聘的五天八小时安排不代表此物料号制造工厂的生产岗位。",
+          "sourceIds": [
+            "deli-campus-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "deli-0371s-stapler",
+      "name": "0371S 省力平钉订书机（黑色）",
+      "brand": "得力",
+      "companyId": "deli",
+      "category": "stationery",
+      "description": "物料编码 140002746；桌面用省力平钉订书机。",
+      "tags": [
+        "订书机"
+      ],
+      "needs": [
+        "订书机"
+      ],
+      "url": "https://www.nbdeli.com/products/productinfo/36785.html",
+      "relationshipSourceIds": [
+        "product-deli-0371s-stapler"
+      ],
+      "market": "按厂家具体规格与物料号核对；地区库存、售后和现货由官方渠道另行确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网检索缓存可核型号，但当前直连未成功，现售渠道需补核。",
+          "sourceIds": [
+            "product-deli-0371s-stapler"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已找到具体物料号，仍需产品背标或制造记录明确生产法人、厂址；不以中国品牌或款式名称推定产地。",
+          "sourceIds": [
+            "product-deli-0371s-stapler"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "得力管培生招聘的五天八小时安排不代表此物料号制造工厂的生产岗位。",
+          "sourceIds": [
+            "deli-campus-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lianhu-fresh-tomatoes",
+      "name": "连湖鲜食西红柿（供货农场待核）",
+      "brand": "连湖",
+      "companyId": "nxnk-lianhu",
+      "category": "fresh",
+      "description": "宁夏连湖产区的鲜食番茄；已核种植和销售线索，未取得可对应供货农场的当前零售包装。",
+      "tags": [
+        "蔬菜",
+        "番茄",
+        "西红柿"
+      ],
+      "needs": [],
+      "url": "https://www.nxnk.com/spxc/202203/t20220311_519695.html",
+      "relationshipSourceIds": [
+        "nxnk-lianhu-market",
+        "nxnk-lianhu-production-2026"
+      ],
+      "market": "季节性供应；没有编造零售规格、即时库存或可直接下单链接。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已找到国内商超、社区和线上销售的历史说明；尚未核实当前经营主体、商品规格及供应日期。",
+          "sourceIds": [
+            "nxnk-lianhu-market",
+            "nxnk-lianhu-season"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已核宁夏连湖种植基地；同名商品可由不同种植者供货，当前订单来源农场尚未对应。",
+          "sourceIds": [
+            "nxnk-lianhu-production-2026",
+            "nxnk-lianhu-market"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团历史示范记录不能代表具体种植户或季节工；采收、分级、包装、运输各岗位均待核。",
+          "sourceIds": [
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shanghao-mulberry-tea40",
+      "name": "复合型桑叶茶 40g（4g×10）",
+      "brand": "尚好",
+      "companyId": "shanghao",
+      "category": "drinks",
+      "description": "盒装桑叶代用茶，4g×10 袋。",
+      "tags": [
+        "茶",
+        "代用茶"
+      ],
+      "needs": [
+        "茶"
+      ],
+      "url": "https://www.scshmc.cn/product/one/",
+      "relationshipSourceIds": [
+        "shanghao-mulberry-products"
+      ],
+      "market": "官网检索缓存可核规格；官网直连证书异常，当前销售状态待核。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官方缓存列出该具体盒装商品和国内渠道；当前官网直连未成功，暂不确认现售。",
+          "sourceIds": [
+            "shanghao-mulberry-products"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官网介绍南充种植与加工业务；具体盒装的生产法人、工厂和原料来源尚待背标核对。",
+          "sourceIds": [
+            "shanghao-company"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "生产、种植和外包岗位尚未对应到当前记录；2022 年公司的示范称号只作为调查线索。",
+          "sourceIds": [
+            "national-harmony-2022"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -7456,9 +8341,11 @@
           "query": "虾"
         }
       ],
-      "note": "已对应圣迪乐具体 20 枚装，广东子公司有政府评价，但此盒来源基地未明。水果、蔬菜、猪牛羊肉、鸡肉与水产的生产者和具体商品仍未完成核对。",
+      "note": "已查圣迪乐 20 枚鸡蛋和连湖番茄基地。番茄尚未对应当前零售规格与供货农场，不计入蔬菜具体商品覆盖。其他水果、肉类、水产仍缺满足主体对应要求的条目。",
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "nxnk-lianhu-production-2026",
+        "nxnk-lianhu-market"
       ]
     },
     {
@@ -7505,7 +8392,7 @@
           "query": "葡萄酒"
         }
       ],
-      "note": "已对应伊利牛奶和洋河海之蓝具体规格；后者有企业劳动关系历史记录及示例包装生产者。啤酒、茶、水、果汁、酸奶等继续调查。",
+      "note": "已有具体牛奶、白酒及盒装桑叶代用茶资料；桑茶当前官网访问与生产法人待核。啤酒、水、果汁、酸奶等继续调查。",
       "sourceIds": [
         "national-harmony-2022"
       ]
@@ -7608,10 +8495,12 @@
           "query": "台灯"
         }
       ],
-      "note": "床品电商招聘的双休不等于车间双休；家居制造商、具体款式与上游待补。",
+      "note": "新增含床单、被套的明确四件套和 80×140cm 浴巾；款式名不等于产地，制造商、织造及原料劳动条件仍需核对。枕头、被芯、床垫和书桌继续调查。",
       "sourceIds": [
         "mercury-campus",
-        "lianyou-hiring"
+        "lianyou-hiring",
+        "winner-tianmen-hiring-2024",
+        "purcotton-brand"
       ]
     },
     {
@@ -7664,12 +8553,22 @@
         {
           "label": "清洁工具",
           "query": "清洁工具"
+        },
+        {
+          "label": "洗脸巾",
+          "query": "洗脸巾"
+        },
+        {
+          "label": "湿巾",
+          "query": "湿巾"
         }
       ],
-      "note": "已有牙膏、洗衣液和沐浴露资料；生产线工时、双休和具体包装制造商尚未齐备。",
+      "note": "新增具体物料号的洗脸巾、如厕湿巾及裤型尿裤。相关天门工厂历史招聘出现 12 小时白班，不能由集团称号认定双休。牙刷、洗发水、洗洁精、纸品与卫生巾仍缺完整条目。",
       "sourceIds": [
         "jahwa-2025",
-        "darlie-hours"
+        "darlie-hours",
+        "winner-tianmen-hiring-2024",
+        "purcotton-brand"
       ]
     },
     {
@@ -7836,7 +8735,7 @@
           "query": "打印机"
         }
       ],
-      "note": "已有得力复印纸、橡皮、文件夹与晨光 K35 笔；得力管培生福利不代表制造线，晨光历史岗位的双休与单休差异已保留。本子、铅笔、尺子等仍缺具体条目。",
+      "note": "已对应得力自动铅笔、B5 活页本、省力订书机以及笔、纸、橡皮和文件夹。新增得力条目本次仅能读取官网缓存，当前销售和产线仍待核。尺子、书包和打印机待补。",
       "sourceIds": [
         "deli-campus-2025"
       ]

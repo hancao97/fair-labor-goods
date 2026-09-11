@@ -1801,6 +1801,159 @@
         }
       ],
       "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "purcotton-pearl-face-towel80",
+      "product_name": "纯棉洗脸巾（一次性毛巾）-珍珠棉纹，200×200mm、80片/盒",
+      "model": "P322030100003",
+      "official_source_page_url": "https://www.purcotton.com/chunmianxilianjin/305.html",
+      "filename": "images/purcotton-pearl-face-towel80.webp",
+      "image_url": "https://www.purcotton.com/uploads/20200811122358_625996.jpg",
+      "final_image_url": "https://www.purcotton.com/uploads/20200811122358_625996.jpg",
+      "content_type": "image/jpeg",
+      "width": 518,
+      "height": 518,
+      "bytes": 65516,
+      "sha256": "2790ffce29e4a43eeb9657a42763bdedc5571f8ee6491e90854bd1d632eac9d4",
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "status": "image_verified",
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "深圳全棉时代科技有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "image_kind": "official_product_packaging_photo",
+      "image_match_scope": "对应物料号商品页的白底单盒正面/顶面原图；支持照片可读80片与200mm×200mm。物料号以官网正文核对，照片未读到印刷物料号。",
+      "market_verification": "全棉时代中国官网精确物料号商品页，站内提供“查找门店”入口；仅确认大陆官方产品信息，未查具体门店库存。",
+      "china_sale_evidence": {
+        "status": "official_mainland_product_information",
+        "source_urls": [
+          "https://www.purcotton.com/chunmianxilianjin/305.html"
+        ],
+        "evidence": "全棉时代中国官网正文列P322030100003、200mm×200mm、80片/盒，并有“查找门店”入口（https://www.purcotton.com/store/）。未查具体库存。",
+        "inventory_status": "not_independently_checked"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [
+          "https://www.purcotton.com/chunmianxilianjin/305.html",
+          "https://www.purcotton.com/uploads/20200811122358_625996.jpg"
+        ],
+        "evidence": "已查看对应官网商品正文及正面包装原图，未读到制造商、生产厂址或明确产地。",
+        "evidence_scope": "仅核验官方示例图片及规格正文。网页页脚的深圳全棉时代科技有限公司是网站署名，不据此认定本物料号的生产企业或厂址。",
+        "consumer_batch_status": "not_verified",
+        "batch_limitation": "未查验当前到货或消费者持有包装；不证明任一实际生产批次的产地。"
+      },
+      "official_page_product_fields": {
+        "name": "纯棉洗脸巾(一次性毛巾)-珍珠棉纹",
+        "specification": "200mm×200mm,80片/盒",
+        "material_number": "P322030100003"
+      },
+      "packaging_transcription": [
+        {
+          "text": "纯棉洗脸巾",
+          "location": "主图盒盖左侧",
+          "scope": "官方示例包装"
+        },
+        {
+          "text": "规格:80片；200mm×200mm",
+          "location": "支持照片518×518右下方盒体正面",
+          "scope": "同一准确商品页的官方示例包装；不是批次证明"
+        }
+      ],
+      "supporting_images": [
+        {
+          "filename": "purcotton-pearl-face-towel80-spec-detail.jpg",
+          "image_url": "https://www.purcotton.com/uploads/20200811122358_704187.jpg",
+          "final_image_url": "https://www.purcotton.com/uploads/20200811122358_704187.jpg",
+          "content_type": "image/jpeg",
+          "width": 518,
+          "height": 518,
+          "bytes": 116163,
+          "sha256": "f396745c147c267145c37cda678994481a6699e28b61bb3c9aeb76bcc6eede1b",
+          "visually_verified": true,
+          "role": "same_product_official_gallery_supporting_photo",
+          "reuse_info": {
+            "rights_holder": "深圳全棉时代科技有限公司及相关权利人",
+            "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+          },
+          "visual_check": "同商品页的开盒照片右下可读“规格:80片”与“200mm×200mm”；画面含一盒前景及另一盒局部，不代表销售数量是两盒。"
+        }
+      ],
+      "manufacturer_or_factory_address_readability": "未知。两张官网原图均未显示可读生产商、生产厂址或产地；未查看到背面标签。",
+      "notes": "官网产品名明确为珍珠棉纹，80片/盒、200×200mm与请求一致。未用其他规格或其他纹理图片。",
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "purcotton-toilet-wipes8x10",
+      "product_name": "全棉便携如厕湿巾，14×18cm、8片/包×10包/袋",
+      "model": "PPC20700001",
+      "official_source_page_url": "https://www.purcotton.com/shijin/609.html",
+      "filename": "images/purcotton-toilet-wipes8x10.webp",
+      "image_url": "https://www.purcotton.com/uploads/20210206111747_927890.png",
+      "final_image_url": "https://www.purcotton.com/uploads/20210206111747_927890.png",
+      "content_type": "image/png",
+      "width": 518,
+      "height": 518,
+      "bytes": 121668,
+      "sha256": "97aec46eb427e22d969bbc0baf7237f844d77b344ab49ec1fb1741574c3615c0",
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "status": "image_verified",
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "深圳全棉时代科技有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "image_kind": "official_inner_pack_photo",
+      "image_match_scope": "原图正面清楚标注8 PIECES与便携装，展示销售组合中的一包8片内包装；10包/袋、14×18cm与物料号来自精确官网商品正文，图片没有展示十包组合。",
+      "market_verification": "全棉时代中国官网精确物料号商品页，列8片/包、10包/袋；仅确认大陆官方产品信息，未查具体门店库存。",
+      "china_sale_evidence": {
+        "status": "official_mainland_product_information",
+        "source_urls": [
+          "https://www.purcotton.com/shijin/609.html"
+        ],
+        "evidence": "全棉时代中国官网正文列PPC20700001、50gsm、14x18cm、8片/包、10包/袋，并有“查找门店”入口（https://www.purcotton.com/store/）。未查具体库存。",
+        "inventory_status": "not_independently_checked"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [
+          "https://www.purcotton.com/shijin/609.html",
+          "https://www.purcotton.com/uploads/20210206111747_927890.png"
+        ],
+        "evidence": "已查看对应官网商品正文及正面包装原图，未读到制造商、生产厂址或明确产地。",
+        "evidence_scope": "仅核验官方示例图片及规格正文。网页页脚的深圳全棉时代科技有限公司是网站署名，不据此认定本物料号的生产企业或厂址。",
+        "consumer_batch_status": "not_verified",
+        "batch_limitation": "未查验当前到货或消费者持有包装；不证明任一实际生产批次的产地。"
+      },
+      "official_page_product_fields": {
+        "name": "全棉便携如厕湿巾",
+        "specification": "50gsm,14x18cm,8片/包,10包/袋",
+        "material_number": "PPC20700001"
+      },
+      "packaging_transcription": [
+        {
+          "text": "全棉如厕湿巾",
+          "location": "518×518原图包装正面左上",
+          "scope": "官方8片内包装示例"
+        },
+        {
+          "text": "8 PIECES；便携装",
+          "location": "包装正面右部",
+          "scope": "明确匹配8片内包装，不能据单包照片断言图示十包组合"
+        }
+      ],
+      "manufacturer_or_factory_address_readability": "未知。选用的正面包装原图没有可读制造商、生产厂址或产地；14×18cm、10包/袋和PPC20700001仅在官网正文确认。",
+      "notes": "已排除同一官网图库的另一张60片装照片（20210206111747_912262.jpg）；该图规格不符，不可用于本8片×10包条目。",
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
