@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "assets": [
     {
       "id": "anker-nano-65w",
@@ -1652,6 +1652,154 @@
           "evidence": "政府抽检搜索文本有广中皇腐乳328g/瓶、2025-06-18批次、广东广中皇食品有限公司、开平市水口镇龙塘西路；未在本素材任务中阅读全文并核实是否微辣口味，因此仅为后续线索，不升级产地状态。"
         }
       },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "yanghe-haizhilan-42-480",
+      "product_name": "洋河海之蓝 42%vol 480mL",
+      "model": "海之蓝，42%vol，480mL",
+      "official_source_page_url": "https://www.chinayanghe.com/product/yanghe/lsjdxl/19.html",
+      "image_url": "https://www.chinayanghe.com/static/upload/2026/05/08/202605086127.jpg",
+      "market_verification": "洋河中国官网产品页列出海之蓝480ml及42%vol选项，提供在线销售渠道入口。未核查具体地址库存。",
+      "notes": "已视觉核对图片确为42%vol、480mL；虽然同一页列四种酒精度，本次原图所显示的是所选42%vol。生产者公司署名可读，具体厂址和到货批次未知。",
+      "filename": "images/yanghe-haizhilan-42-480.webp",
+      "final_image_url": "https://www.chinayanghe.com/static/upload/2026/05/08/202605086127.jpg",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 155744,
+      "sha256": "d4fdf1ed36b3ef6da7b142d6599a2e480e7cc73dedf6b80a8bba8de084d38cc8",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "江苏洋河酒厂股份有限公司及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "researched_on": "2026-09-12",
+      "china_production_evidence": {
+        "status": "manufacturer_name_read_from_official_sample_packaging",
+        "country": null,
+        "manufacturer": "江苏洋河酒厂股份有限公司",
+        "manufacturer_evidence_type": "包装正面公司署名",
+        "production_address": null,
+        "source_urls": [
+          "https://www.chinayanghe.com/product/yanghe/lsjdxl/19.html",
+          "https://www.chinayanghe.com/static/upload/2026/05/08/202605086127.jpg"
+        ],
+        "evidence": "官方800×800产品图酒盒正面下部可读“江苏洋河酒厂股份有限公司”；同页正文列食品生产许可证SC11532139200465。",
+        "evidence_scope": "仅核验官方示例包装及官网规格正文。该图片没有可完整读取的具体生产厂址，未据公司名称、许可证编码或总部地址推断生产地点。",
+        "consumer_batch_status": "not_verified",
+        "batch_limitation": "未查验当前到货、消费者持有包装或具体生产批次。此项不是所有在售批次产地或代工关系证明。"
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_product_information",
+        "source_urls": [
+          "https://www.chinayanghe.com/product/yanghe/lsjdxl/19.html"
+        ],
+        "evidence": "洋河中国官网产品页列出海之蓝480ml及42%vol选项，提供在线销售渠道入口。未核查具体地址库存。",
+        "inventory_status": "not_checked"
+      },
+      "status": "image_verified",
+      "packaging_transcription": [
+        {
+          "text": "海之蓝",
+          "location": "酒盒正面上半部及瓶身正面蓝色标签",
+          "scope": "官方示例包装"
+        },
+        {
+          "text": "酒精度:42%vol 净含量:480mL",
+          "location": "800×800原图酒盒正面底部蓝白铭牌，上行，约x=400–545、y=665–684",
+          "scope": "官方示例包装；与网页列出的42%vol/480ml规格一致"
+        },
+        {
+          "text": "江苏洋河酒厂股份有限公司",
+          "location": "800×800原图酒盒正面底部蓝白铭牌，下行，约x=416–542、y=683–697",
+          "scope": "官方示例包装中的公司署名；未读取侧面完整生产地址"
+        }
+      ],
+      "official_page_product_fields": {
+        "name": "海之蓝",
+        "net_content": "480ml",
+        "alcohol_options": [
+          "38%vol",
+          "42%vol",
+          "46%vol",
+          "52%vol"
+        ],
+        "selected_alcohol": "42%vol",
+        "food_production_license_number": "SC11532139200465",
+        "license_evidence_location": "官方网站产品规格正文；不是从本图包装背面读取"
+      },
+      "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "sundaily-omega3-eggs20",
+      "product_name": "圣迪乐儿童超级营养蛋（OMEGA-3系列）20枚 / 1000g",
+      "model": "儿童包装版本；OMEGA-3营养蛋系列；20枚；1000g",
+      "official_source_page_url": "https://www.sundaily.cn/product.aspx?t=2&type=4",
+      "image_url": "https://www.sundaily.cn/Uploadfiles/Picture/2025-7-5/2025751337486329.png",
+      "market_verification": "圣迪乐中国官网该页正文明确OMEGA-3营养蛋、1000g（20枚），并链接天猫购买。未以旧导航“谷物鲜蛋”替代正文品名。",
+      "notes": "正文为OMEGA-3营养蛋系列，实际所用图是橙粉色儿童超级营养蛋包装版本；条目名称保留儿童版本。不按旧导航“谷物鲜蛋”或URL参数猜测商品。未从所见正面与右侧图读取到生产商或具体产地。",
+      "filename": "images/sundaily-omega3-eggs20.webp",
+      "final_image_url": "https://www.sundaily.cn/Uploadfiles/Picture/2025-7-5/2025751337486329.png",
+      "content_type": "image/png",
+      "width": 800,
+      "height": 800,
+      "bytes": 384169,
+      "sha256": "21155c5fb16f182948514916c7408cba24aadf1ae159b495413d115cb9ec7c13",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "圣迪乐及相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "researched_on": "2026-09-12",
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [],
+        "evidence": "官方图片可见包装正面及部分右侧；未读到生产者名称、农场/包装厂地址或具体产地。不能按品牌或国内官网推断该20枚装的生产农场。",
+        "consumer_batch_status": "not_verified",
+        "scope": "No consumer-supplied package or delivered batch was inspected."
+      },
+      "china_sale_evidence": {
+        "status": "official_mainland_product_information",
+        "source_urls": [
+          "https://www.sundaily.cn/product.aspx?t=2&type=4"
+        ],
+        "evidence": "圣迪乐中国官网该页正文明确OMEGA-3营养蛋、1000g（20枚），并链接天猫购买。未以旧导航“谷物鲜蛋”替代正文品名。",
+        "inventory_status": "not_checked"
+      },
+      "status": "image_verified",
+      "official_page_product_fields": {
+        "section_heading": "OMEGA-3营养蛋",
+        "product_name": "圣迪乐OMEGA-3营养蛋系列",
+        "net_content": "1000g（20枚）"
+      },
+      "packaging_transcription": [
+        {
+          "text": "圣迪乐",
+          "location": "包装正面左上",
+          "scope": "官方儿童包装版本"
+        },
+        {
+          "text": "儿童超级营养蛋",
+          "location": "包装正面左半部大字",
+          "scope": "必须在条目名称保留的包装版本名称"
+        },
+        {
+          "text": "2倍OMEGA-3",
+          "location": "包装正面名称下方",
+          "scope": "仅转录品牌包装文字，未进行营养比较验证"
+        },
+        {
+          "text": "鲜鸡蛋 20枚装；净含量:1千克",
+          "location": "包装正面右下",
+          "scope": "与正文1000g（20枚）一致"
+        }
+      ],
       "usage": "Attributed official product illustration. No labor-compliance or origin conclusion from the image alone."
     }
   ]

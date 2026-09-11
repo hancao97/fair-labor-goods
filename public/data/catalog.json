@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "categories": [
     {
       "id": "food",
@@ -1156,6 +1156,294 @@
       "limitation": "本条采用官网产品合照，所选微辣 328g 是图中左上红盖瓶；同图其他商品未合并算作本条。",
       "publishedAt": null,
       "checkedAt": "2026-09-11",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "shishi-food-sampling-2025",
+      "title": "石狮市 2025 年食品抽检合格产品资料",
+      "publisher": "石狮市市场监督管理局",
+      "url": "https://www.shishi.gov.cn/zwgk/zwgkzdgz/wshspypaq/ccqk/202511/P020251104642197170906.pdf",
+      "summary": "第 8 页第 117 行把海天金标生抽 500mL、2025-04-16 批次对应到佛山市海天（高明）调味食品有限公司及高明沧江工业园东园；第 2 页有新会李锦记财神蚝油 907g 的对应批次。",
+      "limitation": "食品抽检只支持表中标称生产者及所抽批次，合格是食品检验结果，不是劳动合规认证；不能保证今后每个到货批次。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "第 8 页第 117 行；第 2 页第 32 行",
+      "type": "政府抽检"
+    },
+    {
+      "id": "yanghe-haizhilan-product",
+      "title": "海之蓝官方规格与示例包装",
+      "publisher": "江苏洋河酒厂股份有限公司",
+      "url": "https://www.chinayanghe.com/product/yanghe/lsjdxl/19.html",
+      "summary": "页面列 480mL、42%vol 等酒精度和 SC11532139200465；所用官方包装图可读 42%vol、480mL 及江苏洋河酒厂股份有限公司署名。",
+      "limitation": "所见为官方示例包装；没有完整可读的工厂地址，不是消费者当前批次核验。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "yanghe-sales",
+      "title": "洋河官方在线销售指引",
+      "publisher": "江苏洋河酒厂股份有限公司",
+      "url": "https://www.chinayanghe.com/service/yxwl/zxxs/",
+      "summary": "官网指引通过天猫、京东官方旗舰店和洋河 1 号购买。",
+      "limitation": "渠道指引不等于每个地区、每个规格实时有货。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "yanghe-sampling-2021",
+      "title": "河源食品抽检中海之蓝生产者记录",
+      "publisher": "河源市市场监督管理局",
+      "url": "https://www.heyuan.gov.cn/attachment/0/109/109710/463438.pdf",
+      "summary": "第 356 条海之蓝白酒 480mL、2021-01-11 批次的标称生产者为江苏洋河酒厂股份有限公司，地址为宿迁市洋河中大街 118 号。",
+      "limitation": "通过政府原表检索索引查阅；批次历史较久，不作为当前批次、具体酒精度或劳动条件保证。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "第 356 条",
+      "type": "政府抽检"
+    },
+    {
+      "id": "geely-e5-product",
+      "title": "2026 款吉利银河 E5 官方车型与配置",
+      "publisher": "吉利银河",
+      "url": "https://galaxy.geely.com/E5",
+      "summary": "大陆官网列明 2026 款、530km 启航版，提供订购与授权经销商试驾入口。",
+      "limitation": "续航为官方车型标识，不代表实际驾驶续航；车系宣传图不能自动对应低配外观，具体交付配置和制造厂另核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "geely-guiyang-production",
+      "title": "在吉利贵阳整车生产基地调研银河 E5",
+      "publisher": "贵州省投资促进局",
+      "url": "https://invest.guizhou.gov.cn/dtzx/gzdt/jdt/202409/t20240911_85684691.html",
+      "summary": "政府报道记载在贵阳电池与整车总装车间调研，并观摩银河 E5；为车型和国内基地的生产关系提供历史线索。",
+      "limitation": "2024 年报道不单独证明 2026 款每一车辆的制造工厂，也不披露生产岗位实际工时。",
+      "publishedAt": "2024-09-11",
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "政府报道"
+    },
+    {
+      "id": "sundaily-omega-product",
+      "title": "圣迪乐 OMEGA-3 营养蛋官方 20 枚装",
+      "publisher": "四川圣迪乐生态食品股份有限公司",
+      "url": "https://www.sundaily.cn/product.aspx?t=2&type=4",
+      "summary": "页面正文为 OMEGA-3 营养蛋、1000g（20 枚），图片实际为儿童超级营养蛋包装，并链接天猫购买。",
+      "limitation": "旧导航写谷物鲜蛋；本条按正文和包装核对。营养字样为产品名称，不代表本站验证营养比较或儿童健康效果；产地仍待背标核对。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "sundaily-company",
+      "title": "圣迪乐企业与国内养殖基地介绍",
+      "publisher": "四川圣迪乐生态食品股份有限公司",
+      "url": "https://www.sundaily.cn/about.aspx?t=1",
+      "summary": "官网介绍国内多个省份的养殖基地、生产分级中心和线下商超、电商销售渠道。",
+      "limitation": "集团基地布局不能确定一盒鸡蛋来自哪一农场；广东子公司劳动评价不自动覆盖其他基地。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "angel-dry-yeast-product",
+      "title": "安琪官方商城高活性干酵母 100g / 500g",
+      "publisher": "安琪官方商城",
+      "url": "https://shop.angelyeast.com/goods/819",
+      "summary": "检索缓存显示高活性干酵母 100g / 500g，商品编码 E80000040；本条只取 100g 家庭用规格。",
+      "limitation": "本次官方商城直连失败，所见缓存约一年，不能证明当前库存；尚未取得该规格包装生产者或厂址。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "angel-consumer-channels",
+      "title": "安琪个人及家庭产品销售入口",
+      "publisher": "安琪酵母股份有限公司",
+      "url": "https://www.angelyeast.com/",
+      "summary": "官网家庭产品入口链接酵母等大陆电商渠道。",
+      "limitation": "集团还经营境外工厂和外部品牌，不能用集团渠道证明所有商品均为境内自产。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "jiashili-breakfast-product",
+      "title": "嘉士利 800g 原味早餐饼干",
+      "publisher": "广东嘉士利食品集团有限公司",
+      "url": "https://www.gdjsl.com/product/27.html",
+      "summary": "官网具体产品页列出 800g 原味早餐饼干，提供大陆电商渠道线索。",
+      "limitation": "图片 CDN 本次访问受限；没有用其他品牌或规格的图片替代，当前包装制造法人及库存另核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "jiashili-factories",
+      "title": "嘉士利公司及生产基地介绍",
+      "publisher": "广东嘉士利食品集团有限公司",
+      "url": "https://www.gdjsl.com/about/2.html",
+      "summary": "官网介绍广东、江苏、河北生产厂房，可继续调查饼干制造主体。",
+      "limitation": "三个地区不等于同一法人，不能把开平 A 级记录扩展到其他工厂或全部集团品牌。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "mg-k35-product",
+      "title": "晨光 K35 按动中性笔产品介绍",
+      "publisher": "上海晨光文具股份有限公司",
+      "url": "https://www.mg-pen.com/zycp/list.aspx?lcid=38&sub=36",
+      "summary": "官网经典产品列表介绍 K35 按动中性笔；按已核型号建立条目，不推断未读到的笔尖规格。",
+      "limitation": "本次准确原图被站点验证拦截；没有使用相似笔款图片，也未验证具体批次产地。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "mg-esg-index",
+      "title": "晨光 ESG 报告与劳工政策目录",
+      "publisher": "上海晨光文具股份有限公司",
+      "url": "https://www.mg-pen.com/ESG/list.aspx?lcid=55",
+      "summary": "官网列出 2025 ESG 报告及反歧视、职业健康安全、供应商准则等原始政策。",
+      "limitation": "目录可直接读取，最新报告原 PDF 直连返回验证页，镜像下载不完整；本条不声称已完整阅读报告或已核实产线工时。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "mg-production-hiring-2023",
+      "title": "晨光生产岗位招聘中的不同工时安排",
+      "publisher": "江西应用技术职业学院转载企业招聘",
+      "url": "https://jxgcxy.jxpu.edu.cn/info/1287/7097.htm",
+      "summary": "招聘材料分别出现 8 小时双休值班制与 11 小时单休制，提示岗位安排存在差异。",
+      "limitation": "2023 年招聘线索有历史性，不能替代当前排班，不能仅凭招聘文字认定整个公司实际违法。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "招聘工作时间说明",
+      "type": "高校招聘"
+    },
+    {
+      "id": "lenovo-xiaoxin-product",
+      "title": "联想小新 Pro14 2025 官网货号 1044736",
+      "publisher": "联想中国商城",
+      "url": "https://item.lenovo.com.cn/product/1044736.html",
+      "summary": "联想中国商城提供小新 Pro14 2025 款、西子绿、14 英寸的具体商品页面。",
+      "limitation": "未从本次可读正文获得准确 CPU、内存或生产厂信息；用官网货号标识，避免混用相似配置。库存另核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "cofco-oils-products",
+      "title": "中粮油脂小包装食用油产品表",
+      "publisher": "中粮集团",
+      "url": "https://productandservice.cofco.com/upload/1/zl/platform/2008608579132067840.pdf",
+      "summary": "官方产品表列福临门压榨一级花生油、黄金产地玉米油、家香味老家土榨菜籽油等 5L 规格，供应中国大陆、B2C 全渠道。",
+      "limitation": "本次通过原 PDF 的检索索引读取，直连超时；表内“自产”和营销主体不能替代具体生产厂与当前批次证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "小包装食用油第 5、16、27 行等",
+      "type": "官方产品表"
+    },
+    {
+      "id": "cofco-fulinmen-brand",
+      "title": "中粮油脂与福临门品牌产品入口",
+      "publisher": "中粮集团",
+      "url": "https://productandservice.cofco.com/search/category/66/67/11?pageNo=1&pageSize=20",
+      "summary": "中粮官方产品平台提供小包装油品牌与产品资料。",
+      "limitation": "平台中不同品牌可能有不同生产地，不能把营销、进口分装与国内制造混用。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "lkk-fortune-oyster",
+      "title": "李锦记财神蚝油官方 907g 规格",
+      "publisher": "李锦记中国",
+      "url": "https://china-chef.lkk.com.cn/chef/zh-CN/Products/Star/%E6%9D%8E%E9%94%A6%E8%AE%B0%E8%B4%A2%E7%A5%9E%E8%9A%9D%E6%B2%B9/",
+      "summary": "中国官网财神蚝油页面列出 255g、510g、907g 规格；本条取 907g。",
+      "limitation": "产品配方、版本和供应地区需以当前包装为准；此页本身不证明生产岗位劳动安排。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "lkk-xinhui-hiring",
+      "title": "李锦记新会工厂水处理技术员招聘",
+      "publisher": "李锦记（新会）食品有限公司在智联发布",
+      "url": "https://www.zhaopin.com/jobdetail/CC136071350J40842499707.htm",
+      "summary": "水处理技术员招聘披露五天八小时、依法支付加班费及轮班等安排。",
+      "limitation": "岗位资料发布日期未明确；不得扩大到所有产线岗位，承诺不等于实际履行记录。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业招聘"
+    },
+    {
+      "id": "qingming-official",
+      "title": "清明上河园景区与订购入口",
+      "publisher": "开封清明上河园股份有限公司",
+      "url": "http://www.qingmings.com/",
+      "summary": "官网提供景区、实景演出和预订入口，地址为河南开封龙亭西路 5 号。",
+      "limitation": "本次可访问 HTTP 官网，HTTPS 直连超时；联系电话服务时段不作为员工工作时间。票务安排按实际预订日确认。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "qingming-menghua",
+      "title": "大宋·东京梦华官方演出介绍",
+      "publisher": "开封清明上河园股份有限公司",
+      "url": "http://www.qingmings.com/m.php",
+      "summary": "景区官网介绍在开封园区景龙湖进行的大型水上实景演出。",
+      "limitation": "演出时长不是员工工时；演员、设备及其他外包团队仍需分别核对。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "jingmen-mingting-project",
+      "title": "铭庭世家官方现房与户型资料",
+      "publisher": "荆门城市更新建设发展有限公司",
+      "url": "https://www.jmcsgxgs.com/jingpinxiangmu/267.html",
+      "summary": "官网将城控铭庭世家对应到旗下中房集团荆门公司，地点为荆门漳河新区天鹅小区东侧；页面列有约 112㎡ 高层住宅及现房销售说明。",
+      "limitation": "本次直接读取的页面正文与旧检索缓存不同，按当前正文记录；页面未标发布日期，剩余套数和销售条件可能变化。开发主体、物业公司和施工企业不是同一劳动主体。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面正文",
+      "type": "企业官网"
+    },
+    {
+      "id": "qingming-ticket-booking",
+      "title": "清明上河园全价票官方预订",
+      "publisher": "开封清明上河园股份有限公司",
+      "url": "http://www.qingmings.com/shop_list.php?cid=1",
+      "summary": "官网票务页明确列出清明上河园全价票、预订入口，以及河南开封龙亭西路 5 号景区地址。",
+      "limitation": "票务页面未标更新时间；价格、日期限制、入园权益和实名规则均以实际官方订单为准，不将网页长期展示值当作实时票价。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
       "locator": "页面正文",
       "type": "企业官网"
     }
@@ -3440,15 +3728,73 @@
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
       "cardNote": "有政府记录 · 当前产线待核",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "scope": "中房集团荆门房地产开发有限责任公司及城控铭庭世家项目；建设总包、分包、物业服务另核。",
+      "finding": "2022 年正式名单列有该开发法人；所属企业官网当前介绍铭庭世家现房及约 112㎡ 户型。尚无该项目施工人员实际工时、工资和社保记录。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
         "本档案尚未取得实际考勤、加班和每周休息记录。"
       ],
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "jingmen-mingting-project"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "核对项目施工许可证、总包与分包名单，以及相应施工时期的考勤、工资支付和社保资料；另核物业人员的雇佣主体。",
+      "assessments": [
+        {
+          "subject": "中房集团荆门房地产开发有限责任公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+        }
+      ]
+    },
+    {
+      "id": "sundaily",
+      "name": "圣迪乐",
+      "legalName": "四川圣迪乐生态食品股份有限公司（广东生产法人另列）",
+      "location": "四川及国内各养殖基地",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "集团下属广东生产法人有政府劳动评价，具体鸡蛋包装和生产基地仍需对应。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "sundaily-company",
+        "kaiping-labor-2025"
       ],
       "supply": [
         {
@@ -3475,13 +3821,206 @@
       "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
       "assessments": [
         {
-          "subject": "中房集团荆门房地产开发有限责任公司",
-          "result": "全国和谐劳动关系创建示范企业",
-          "period": "2022 年命名",
-          "sourceId": "national-harmony-2022",
-          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+          "subject": "广东圣迪乐村生态食品有限公司",
+          "result": "劳动守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "仅对应广东子公司；本条 20 枚装来源基地未明，不能适用该评价。"
         }
       ]
+    },
+    {
+      "id": "mg",
+      "name": "晨光",
+      "legalName": "上海晨光文具股份有限公司",
+      "location": "上海奉贤等；具体生产主体另核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "生产岗位历史招聘存在双休与单休的不同安排，不能给全部文具套用同一工时。",
+      "caveats": [
+        "2023 年招聘的部分岗位注明 11 小时单休，与本项目筛选起点不同；当前实际安排待核。",
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "mg-esg-index",
+        "mg-production-hiring-2023"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "lenovo",
+      "name": "联想",
+      "legalName": "联想（北京）有限公司（商城主体；具体制造法人另核）",
+      "location": "北京及各生产基地",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "lenovo-xiaoxin-product"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "cofco-fulinmen",
+      "name": "福临门",
+      "legalName": "中粮福临门食品营销有限公司（营销主体；制造厂另核）",
+      "location": "中国大陆销售及各生产基地",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "工时与休息资料待补",
+      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "cofco-oils-products"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "lkk-xinhui",
+      "name": "李锦记新会",
+      "legalName": "李锦记（新会）食品有限公司",
+      "location": "广东江门新会七堡工贸城",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "招聘披露 5 天 × 8 小时",
+      "restLabel": "招聘披露每周两天休息",
+      "cardNote": "5 天 × 8 小时岗位线索",
+      "scope": "新会工厂水处理技术员岗位；不自动覆盖酿造、包装、物流及其他岗位。",
+      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "caveats": [
+        "招聘包含轮班和加班安排，实际每周总工时及休息需要另核。",
+        "商品介绍不证明劳动条件。",
+        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "本档案尚未取得实际考勤、加班和每周休息记录。"
+      ],
+      "sourceIds": [
+        "lkk-xinhui-hiring"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "sourceIds": [
+            "lkk-xinhui-hiring"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
     }
   ],
   "products": [
@@ -5235,8 +5774,10 @@
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "尚未取得该具体型号/规格的官方产地、生产工厂或可清晰辨认的包装生产商证据。中国品牌、大陆官网、公司总部地址均不自动证明境内生产。",
-          "sourceIds": []
+          "detail": "政府 2025 年抽检已将 500mL、2025-04-16 批次对应到佛山市海天（高明）调味食品有限公司，厂址为佛山高明沧江工业园东园；当前待购批次是否来自同厂仍待核对。",
+          "sourceIds": [
+            "shishi-food-sampling-2025"
+          ]
         },
         "productionLabor": {
           "status": "pending",
@@ -6078,6 +6619,671 @@
       "needs": [
         "腐乳"
       ]
+    },
+    {
+      "id": "yanghe-haizhilan-42-480",
+      "name": "海之蓝 42%vol 480mL",
+      "brand": "洋河",
+      "companyId": "yanghe",
+      "category": "drinks",
+      "description": "海之蓝浓香型白酒的 42 度、480mL 规格。",
+      "tags": [
+        "白酒"
+      ],
+      "needs": [
+        "白酒"
+      ],
+      "url": "https://www.chinayanghe.com/product/yanghe/lsjdxl/19.html",
+      "relationshipSourceIds": [
+        "yanghe-haizhilan-product",
+        "yanghe-sales"
+      ],
+      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/yanghe-haizhilan-42-480.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.chinayanghe.com/static/upload/2026/05/08/202605086127.jpg",
+      "imageRights": "江苏洋河酒厂股份有限公司及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "yanghe-haizhilan-product",
+            "yanghe-sales"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官方 42%vol / 480mL 示例包装可读生产企业署名和官网生产许可证；政府历史批次记录指向宿迁工厂，现售批次厂址仍待核对。",
+          "sourceIds": [
+            "yanghe-haizhilan-product",
+            "yanghe-sampling-2021"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": [
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "geely-galaxy-e5-2026-530-start",
+      "name": "银河 E5 2026款 530km 启航版",
+      "brand": "吉利银河",
+      "companyId": "geely",
+      "category": "cars",
+      "description": "国内官网列出的纯电 SUV 具体配置版本。",
+      "tags": [
+        "SUV",
+        "纯电汽车"
+      ],
+      "needs": [
+        "SUV",
+        "纯电汽车"
+      ],
+      "url": "https://galaxy.geely.com/E5",
+      "relationshipSourceIds": [
+        "geely-e5-product"
+      ],
+      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "geely-e5-product"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "政府 2024 年报道明确银河 E5 与贵阳整车基地关系；2026 款启航版当前交付车辆的制造厂仍需合格证或制造标牌核对。",
+          "sourceIds": [
+            "geely-guiyang-production"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": [
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sundaily-omega3-eggs20",
+      "name": "儿童超级营养蛋（OMEGA-3系列）20枚 / 1000g",
+      "brand": "圣迪乐",
+      "companyId": "sundaily",
+      "category": "fresh",
+      "description": "官网展示的儿童包装版本鲜鸡蛋，按名称和枚数核对。",
+      "tags": [
+        "鸡蛋"
+      ],
+      "needs": [
+        "鸡蛋"
+      ],
+      "url": "https://www.sundaily.cn/product.aspx?t=2&type=4",
+      "relationshipSourceIds": [
+        "sundaily-omega-product"
+      ],
+      "market": "采用官方儿童包装版本；包装营养字样仅作识别，不表示本站作出健康或营养比较结论。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": "images/sundaily-omega3-eggs20.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.sundaily.cn/Uploadfiles/Picture/2025-7-5/2025751337486329.png",
+      "imageRights": "圣迪乐及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "sundaily-omega-product"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚需把当前具体规格、批次与中国境内生产厂或实际服务团队对应；不按品牌国别推断。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "A级记录对象为广东圣迪乐村生态食品有限公司；本条鸡蛋来源基地未明，不能套用该子公司评价。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "angel-high-active-dry-yeast100",
+      "name": "高活性干酵母 100g",
+      "brand": "安琪",
+      "companyId": "angel",
+      "category": "food",
+      "description": "家庭制作包子、馒头和面包使用的干酵母。",
+      "tags": [
+        "酵母"
+      ],
+      "needs": [
+        "酵母"
+      ],
+      "url": "https://shop.angelyeast.com/goods/819",
+      "relationshipSourceIds": [
+        "angel-dry-yeast-product",
+        "angel-consumer-channels"
+      ],
+      "market": "官方商城检索缓存为 100g / 500g 组合页面，本条仅取 100g；当前库存未核。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官方商城历史缓存能核 100g 规格与货号，当前官网直连未成功，现售状态仍需补核；不以旧库存数字保证可购买。",
+          "sourceIds": [
+            "angel-dry-yeast-product",
+            "angel-consumer-channels"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚需把当前具体规格、批次与中国境内生产厂或实际服务团队对应；不按品牌国别推断。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": [
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "jiashili-original-breakfast-biscuits-800g",
+      "name": "原味早餐饼干 800g",
+      "brand": "嘉士利",
+      "companyId": "jiashili",
+      "category": "food",
+      "description": "官网列出的原味早餐饼干家庭装。",
+      "tags": [
+        "饼干"
+      ],
+      "needs": [
+        "饼干"
+      ],
+      "url": "https://www.gdjsl.com/product/27.html",
+      "relationshipSourceIds": [
+        "jiashili-breakfast-product",
+        "jiashili-factories"
+      ],
+      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "jiashili-breakfast-product",
+            "jiashili-factories"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚需把当前具体规格、批次与中国境内生产厂或实际服务团队对应；不按品牌国别推断。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mg-k35-gel-pen",
+      "name": "K35 按动中性笔",
+      "brand": "晨光",
+      "companyId": "mg",
+      "category": "stationery",
+      "description": "日常书写用的 K35 型号按动中性笔。",
+      "tags": [
+        "中性笔"
+      ],
+      "needs": [
+        "中性笔"
+      ],
+      "url": "https://www.mg-pen.com/zycp/list.aspx?lcid=38&sub=36",
+      "relationshipSourceIds": [
+        "mg-k35-product"
+      ],
+      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "mg-k35-product"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚需把当前具体规格、批次与中国境内生产厂或实际服务团队对应；不按品牌国别推断。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": [
+            "mg-esg-index",
+            "mg-production-hiring-2023"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lenovo-xiaoxin-pro14-2025-1044736",
+      "name": "小新 Pro14 2025款（官网货号1044736）",
+      "brand": "联想",
+      "companyId": "lenovo",
+      "category": "electronics",
+      "description": "14 英寸笔记本电脑，西子绿；配置以对应官网货号为准。",
+      "tags": [
+        "笔记本"
+      ],
+      "needs": [
+        "笔记本"
+      ],
+      "url": "https://item.lenovo.com.cn/product/1044736.html",
+      "relationshipSourceIds": [
+        "lenovo-xiaoxin-product"
+      ],
+      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "lenovo-xiaoxin-product"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚需把当前具体规格、批次与中国境内生产厂或实际服务团队对应；不按品牌国别推断。",
+          "sourceIds": []
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "fulinmen-peanut-oil-5l",
+      "name": "压榨一级花生油 5L",
+      "brand": "福临门",
+      "companyId": "cofco-fulinmen",
+      "category": "food",
+      "description": "家庭炒菜用的桶装花生油。",
+      "tags": [
+        "花生油",
+        "食用油"
+      ],
+      "needs": [
+        "花生油"
+      ],
+      "url": "https://productandservice.cofco.com/upload/1/zl/platform/2008608579132067840.pdf",
+      "relationshipSourceIds": [
+        "cofco-oils-products",
+        "cofco-fulinmen-brand"
+      ],
+      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "cofco-oils-products",
+            "cofco-fulinmen-brand"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "中粮官方表标为自产、中国大陆供应，所列主体是食品营销公司；具体灌装厂和原料加工地点仍未锁定。",
+          "sourceIds": [
+            "cofco-oils-products"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "fulinmen-corn-oil-5l",
+      "name": "黄金产地玉米油 5L",
+      "brand": "福临门",
+      "companyId": "cofco-fulinmen",
+      "category": "food",
+      "description": "家庭烹调用的桶装玉米油。",
+      "tags": [
+        "玉米油",
+        "食用油"
+      ],
+      "needs": [
+        "玉米油"
+      ],
+      "url": "https://productandservice.cofco.com/upload/1/zl/platform/2008608579132067840.pdf",
+      "relationshipSourceIds": [
+        "cofco-oils-products",
+        "cofco-fulinmen-brand"
+      ],
+      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "cofco-oils-products",
+            "cofco-fulinmen-brand"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "中粮官方表标为自产、中国大陆供应，所列主体是食品营销公司；具体灌装厂和原料加工地点仍未锁定。",
+          "sourceIds": [
+            "cofco-oils-products"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "fulinmen-rapeseed-oil-5l",
+      "name": "家香味老家土榨菜籽油 5L",
+      "brand": "福临门",
+      "companyId": "cofco-fulinmen",
+      "category": "food",
+      "description": "家庭烹调用的桶装菜籽油。",
+      "tags": [
+        "菜籽油",
+        "食用油"
+      ],
+      "needs": [
+        "菜籽油"
+      ],
+      "url": "https://productandservice.cofco.com/upload/1/zl/platform/2008608579132067840.pdf",
+      "relationshipSourceIds": [
+        "cofco-oils-products",
+        "cofco-fulinmen-brand"
+      ],
+      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "cofco-oils-products",
+            "cofco-fulinmen-brand"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "中粮官方表标为自产、中国大陆供应，所列主体是食品营销公司；具体灌装厂和原料加工地点仍未锁定。",
+          "sourceIds": [
+            "cofco-oils-products"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "lkk-fortune-oyster-907",
+      "name": "财神蚝油 907g",
+      "brand": "李锦记",
+      "companyId": "lkk-xinhui",
+      "category": "food",
+      "description": "炒菜、调馅和烹调用的瓶装蚝油。",
+      "tags": [
+        "蚝油"
+      ],
+      "needs": [
+        "蚝油"
+      ],
+      "url": "https://china-chef.lkk.com.cn/chef/zh-CN/Products/Star/%E6%9D%8E%E9%94%A6%E8%AE%B0%E8%B4%A2%E7%A5%9E%E8%9A%9D%E6%B2%B9/",
+      "relationshipSourceIds": [
+        "lkk-fortune-oyster"
+      ],
+      "market": "中国大陆官方商品资料；具体规格、在售状态与生产主体以商品页和包装为准。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "lkk-fortune-oyster"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "政府抽检中财神蚝油 907g、2024-11-08 批次对应李锦记（新会）食品有限公司和江门新会七堡工贸城；当前批次与该厂关系仍待确认。",
+          "sourceIds": [
+            "shishi-food-sampling-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": [
+            "lkk-xinhui-hiring"
+          ]
+        }
+      }
+    },
+    {
+      "id": "qingming-park-admission",
+      "name": "清明上河园全价入园票",
+      "brand": "清明上河园",
+      "companyId": "qingming-riverside",
+      "category": "culture",
+      "description": "位于河南开封龙亭西路 5 号的景区游览服务。",
+      "tags": [
+        "景区"
+      ],
+      "needs": [
+        "景区"
+      ],
+      "url": "http://www.qingmings.com/shop_list.php?cid=1",
+      "relationshipSourceIds": [
+        "qingming-official",
+        "qingming-ticket-booking"
+      ],
+      "market": "官网提供预订入口；不同日期、日夜场、演出席位与入园权益需按官方当日票务说明确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "qingming-official",
+            "qingming-ticket-booking"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "具体游览、演出在河南开封清明上河园内提供；服务地点明确，员工国籍及各承包团队条件不能由地点推断。",
+          "sourceIds": [
+            "qingming-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": [
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "qingming-menghua-show",
+      "name": "《大宋·东京梦华》实景演出票",
+      "brand": "清明上河园",
+      "companyId": "qingming-riverside",
+      "category": "culture",
+      "description": "开封清明上河园内的大型水上实景演出。",
+      "tags": [],
+      "needs": [
+        "演出"
+      ],
+      "url": "http://www.qingmings.com/m.php",
+      "relationshipSourceIds": [
+        "qingming-menghua",
+        "qingming-official"
+      ],
+      "market": "官网提供预订入口；不同日期、日夜场、演出席位与入园权益需按官方当日票务说明确认。",
+      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已找到该具体产品的大陆官方资料和销售或预订线索；具体地区、日期和当前库存须以实际渠道确认。",
+          "sourceIds": [
+            "qingming-menghua",
+            "qingming-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "具体游览、演出在河南开封清明上河园内提供；服务地点明确，员工国籍及各承包团队条件不能由地点推断。",
+          "sourceIds": [
+            "qingming-menghua",
+            "qingming-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "sourceIds": [
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "jingmen-mingting-112",
+      "name": "城控铭庭世家高层住宅（约112㎡）",
+      "brand": "荆门中房",
+      "companyId": "jingmen-zhongfang",
+      "category": "housing",
+      "description": "荆门漳河新区的具体住宅项目与户型；官网列为现房，可按项目咨询购买。",
+      "tags": [
+        "商品房",
+        "住宅",
+        "荆门",
+        "112㎡"
+      ],
+      "needs": [
+        "商品房"
+      ],
+      "url": "https://www.jmcsgxgs.com/jingpinxiangmu/267.html",
+      "relationshipSourceIds": [
+        "jingmen-mingting-project"
+      ],
+      "market": "官网提供项目地址、户型和销售咨询入口；不转载可能变化的售价、剩余房源数量或购房资格结论。",
+      "relationship": "所属企业官网明确开发主体为中房集团荆门公司；施工、分包及物业用工不由开发商的历史称号代替核查。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "所属企业官网列出约 112㎡ 高层现房及官方咨询入口；具体房号、当前库存、交付与购买条件由项目进一步确认。",
+          "sourceIds": [
+            "jingmen-mingting-project"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "住宅项目位于湖北荆门漳河新区天鹅小区东侧，开发地点明确；具体施工总包、分包和材料来源仍需核对。",
+          "sourceIds": [
+            "jingmen-mingting-project"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "开发法人列入 2022 年示范企业名单；不能据此证明此项目施工阶段、分包队伍或物业服务的实际劳动条件。",
+          "sourceIds": [
+            "national-harmony-2022"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -6185,11 +7391,13 @@
           "query": "速冻饺子"
         }
       ],
-      "note": "已查粮油、调味生产企业，开兰和广中皇有 2025 年度政府劳动评价；杂粮和食用油的具体型号、生产岗位还需继续查。",
+      "note": "已补大米、家庭装面粉、挂面、三种食用油、酱醋蚝油、腐乳、酵母和饼干。开兰、嘉士利、广中皇有 2025 年政府劳动评价；需继续锁定各商品当前生产厂与岗位。杂粮、食盐和速冻食品仍缺具体条目。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
-        "jinhe-production-2026"
+        "jinhe-production-2026",
+        "cofco-oils-products",
+        "shishi-food-sampling-2025"
       ]
     },
     {
@@ -6248,7 +7456,7 @@
           "query": "虾"
         }
       ],
-      "note": "已找到养殖、农业企业的历史劳动关系示范名单，尚未完成水果、蔬菜、肉蛋水产的具体基地与生产者核对。此处明确保留缺口。",
+      "note": "已对应圣迪乐具体 20 枚装，广东子公司有政府评价，但此盒来源基地未明。水果、蔬菜、猪牛羊肉、鸡肉与水产的生产者和具体商品仍未完成核对。",
       "sourceIds": [
         "national-harmony-2022"
       ]
@@ -6297,7 +7505,7 @@
           "query": "葡萄酒"
         }
       ],
-      "note": "已确认伊利具体牛奶资料；卫岗、洋河等有历史企业劳动关系记录，仍需逐项对应现售产品、生产厂和当前工人安排。",
+      "note": "已对应伊利牛奶和洋河海之蓝具体规格；后者有企业劳动关系历史记录及示例包装生产者。啤酒、茶、水、果汁、酸奶等继续调查。",
       "sourceIds": [
         "national-harmony-2022"
       ]
@@ -6512,7 +7720,7 @@
           "query": "路由器"
         }
       ],
-      "note": "手机电脑已有具体型号；客服和总部工时不替代装配厂，海外资料的型号也不进入正式目录。",
+      "note": "已补中国品牌手机和联想具体笔记本货号；总部、客服和供应商汇总资料不能替代装配工厂。型号与国内制造批次继续核对。",
       "sourceIds": [
         "apple-rcc-job",
         "anker-2024"
@@ -6628,7 +7836,7 @@
           "query": "打印机"
         }
       ],
-      "note": "得力已对应 A4 纸、橡皮和文件夹；2025 届管培生福利不代表造纸、注塑等产线，笔和本子继续补。",
+      "note": "已有得力复印纸、橡皮、文件夹与晨光 K35 笔；得力管培生福利不代表制造线，晨光历史岗位的双休与单休差异已保留。本子、铅笔、尺子等仍缺具体条目。",
       "sourceIds": [
         "deli-campus-2025"
       ]
@@ -6698,7 +7906,7 @@
           "query": "轮胎"
         }
       ],
-      "note": "已从国家劳动关系示范名单找到吉利、华晨宝马等候选主体；尚未完成国内具体车型、对应整车工厂和当前生产岗位验证。",
+      "note": "已对应 2026 款吉利银河 E5 530km 启航版；存在车型与贵阳制造基地的政府报道，但 2026 款当前制造厂和实际生产岗位条件仍待核。",
       "sourceIds": [
         "national-harmony-2022"
       ]
@@ -6743,9 +7951,10 @@
           "query": "卫浴"
         }
       ],
-      "note": "已从官方名单找到荆门中房等线索，但开发商办公室、施工总包和分包工人的劳动条件不可混用。具体楼盘和施工单位正在调查。",
+      "note": "已对应荆门中房铭庭世家约 112㎡ 现房；开发法人有历史劳动关系记录，施工总包、分包与物业劳动条件仍待查。长租、保障性住房和装修建材继续补充。",
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "jingmen-mingting-project"
       ]
     },
     {
@@ -6827,12 +8036,17 @@
         {
           "label": "手柄",
           "query": "手柄"
+        },
+        {
+          "label": "演出",
+          "query": "演出"
         }
       ],
-      "note": "阅读和玩具已有资料；广州塔、清明上河园有历史政府劳动记录。门票、演出与外包岗位仍需对应。",
+      "note": "新增清明上河园门票和《大宋·东京梦华》实景演出，服务地点和预订入口明确，员工及外包团队劳动履行未知；电影、视频、音乐等仍有缺口。",
       "sourceIds": [
         "national-harmony-2022",
-        "vista-hiring"
+        "vista-hiring",
+        "qingming-official"
       ]
     },
     {
