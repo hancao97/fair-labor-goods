@@ -2788,6 +2788,93 @@
         "license": "No open reuse license identified. Copyright remains with the respective image and brand owners."
       },
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "darlie-charcoal-deep-clean",
+      "product_name": "好来炭丝深洁牙刷（标准刷头，图示单支装）",
+      "model": null,
+      "model_note": "官网包装资产文件名为t27_1_770.png，含T27线索；正面未读到T27型号，官网is-product-code元字段为空，故不将文件名当作包装型号确认。",
+      "pack_count": 1,
+      "pack_count_unit": "支",
+      "pack_count_evidence": "目视官网包装图仅含一支牙刷，未读到单独印刷的支数文字。",
+      "head_size": "标准刷头",
+      "bristle_type": "软毛",
+      "packaging": "绿色单支吸塑卡装；图示黑色刷柄、黄色握位，实际颜色选择及库存未核实。",
+      "official_source_page_url": "https://www.darlie.com.cn/zh/chan-pin/suo-you-chan-pin/hao-lai-tan-si-shen-jie-ya-shua",
+      "image_source_page_url": "https://www.darlie.com.cn/zh/chan-pin/suo-you-chan-pin/hao-lai-tan-si-shen-jie-ya-shua",
+      "source_role": "好来中国大陆官网精确商品页的 is-product-image-package 图片",
+      "image_url": "https://cms-cdn.darlie.com.hk/media/3964/t27_1_770.png",
+      "final_image_url": "https://cms-cdn.darlie.com.hk/media/3964/t27_1_770.png",
+      "content_type": "image/png",
+      "researched_on": "2026-09-12",
+      "status": "image_verified",
+      "visually_verified": true,
+      "market_scope": "中国大陆官网产品展示；当前库存、批次未验证",
+      "official_page_product_fields": {
+        "title": "好来炭丝深洁牙刷",
+        "product_name_metadata": "好来炭丝深洁牙刷（原黑人牙膏）",
+        "series_caption": "炭丝深洁牙刷（标准刷头）",
+        "head_design_caption": "标准刷头设计",
+        "bristle_type": "细丝软毛",
+        "is_product_code": ""
+      },
+      "packaging_transcription": [
+        {
+          "text": "DARLIE／好来",
+          "location": "卡装顶部和下部品牌区域",
+          "scope": "品牌标识，非制造商法人名称"
+        },
+        {
+          "text": "炭丝深洁／NANO CHARCOAL CLEANSING",
+          "location": "包装左侧中央竖排名称",
+          "scope": "官网示例包装产品名称"
+        },
+        {
+          "text": "软毛 S",
+          "location": "包装右上角",
+          "scope": "包装刷毛软硬标识"
+        }
+      ],
+      "image_match_scope": "所交付原图直接来自指定大陆官网商品页包装元数据，目视名称炭丝深洁、单支牙刷，与同页标准刷头说明相对应；未用小巧刷头T27C图替换。",
+      "china_sale_evidence": {
+        "status": "mainland_official_product_page_and_shop_link_found",
+        "source_urls": [
+          "https://www.darlie.com.cn/zh/chan-pin/suo-you-chan-pin/hao-lai-tan-si-shen-jie-ya-shua",
+          "https://darlie.tmall.com/"
+        ],
+        "evidence": "大陆官网该具体产品页展示标准刷头并链接天猫品牌店。",
+        "limitation": "未验证当前可下单、库存或消费者实际到货批次。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "readable_manufacturer_fields": [],
+        "consumer_batch_verified": false,
+        "evidence_scope": "仅有正面包装图，未读到法定制造商、厂址或原产地；官网页脚公司属于网站权利主体，不移作本包装生产信息。"
+      },
+      "supporting_images": [],
+      "reuse_info": {
+        "rights_holder": "好来化工(中山)有限公司及相关图片权利人（大陆官网页脚版权声明）",
+        "license": "No open reuse license identified. Official website footer identifies 好来化工(中山)有限公司 as copyright holder for 2023, with all rights reserved."
+      },
+      "notes": [
+        "图片CDN域名为cms-cdn.darlie.com.hk，但来源是指定中国大陆官网；域名不构成香港SKU或任何制造产地证据。",
+        "有限检索未取得准确同款且可读制造商／厂址的背标，不借用港澳台或其他款式图片。"
+      ],
+      "filename": "images/darlie-charcoal-deep-clean.webp",
+      "width": 141,
+      "height": 770,
+      "bytes": 28626,
+      "sha256": "e1ab9d9980f2c57ce9745dc45923301dc60d6b7dab9f144fe824deba77a28c2a",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone.",
+      "source_image_metadata": {
+        "width": 141,
+        "height": 770,
+        "bytes": 161726,
+        "sha256": "ed7ff1858121de52aede832d8a6eaaad63ab96212041673a19248246ee68213d"
+      }
     }
   ]
 }

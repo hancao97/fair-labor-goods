@@ -2058,6 +2058,102 @@
       "checkedAt": "2026-09-12",
       "locator": "第一部分品牌支持、第四部分数字农业示范基地",
       "type": "政府公开信息"
+    },
+    {
+      "id": "darlie-charcoal-product",
+      "title": "好来炭丝深洁牙刷：标准刷头",
+      "publisher": "好来化工（中山）有限公司",
+      "url": "https://www.darlie.com.cn/zh/chan-pin/suo-you-chan-pin/hao-lai-tan-si-shen-jie-ya-shua",
+      "summary": "大陆官网列出炭丝深洁牙刷、标准刷头和细丝软毛；官方包装图为单支卡装，购买入口指向品牌天猫店。",
+      "limitation": "品牌店入口未锁定该款当前库存。正面包装没有可读的制造商、厂址或批次；图片文件名不作为商品型号。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "产品简介、标准刷头说明、立即购买入口及官网包装图",
+      "type": "企业官网"
+    },
+    {
+      "id": "baiya-brand-factory",
+      "title": "关于百亚：自由点品牌与重庆制造线索",
+      "publisher": "重庆百亚卫生用品股份有限公司",
+      "url": "https://www.baiya.cn/about-us/",
+      "summary": "官网说明公司成立于 2010 年、旗下拥有自由点品牌，并介绍卫生巾生产线、重庆智能工厂及大陆电商入口。",
+      "limitation": "集团工厂介绍没有把每个货号对应到当前生产线；品牌电商入口也不证明所选货号现货。绿色工厂等荣誉不作为劳动合规评价。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "企业介绍、工厂展示、天猫与京东品牌店入口",
+      "type": "企业官网"
+    },
+    {
+      "id": "baiya-esg-2025",
+      "title": "百亚股份 2025 年度可持续发展暨 ESG 报告",
+      "publisher": "重庆百亚卫生用品股份有限公司（报告由东方财富托管）",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202604171821292475_1.pdf",
+      "summary": "员工章节披露工时与加班补偿、合同、社保及薪酬制度；供应商章节列准入、现场审核和质量绩效管理。",
+      "limitation": "属于企业报告，未提供具体卫生巾产线每周 40 小时、每周两天休息的独立履行记录；供应商质量考核不能替代劳动审查。",
+      "publishedAt": "2026-04-18",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 35 页（印刷页 65—66）、第 31 页（印刷页 57—58）",
+      "type": "企业报告"
+    },
+    {
+      "id": "baiya-annual-2025",
+      "title": "百亚股份 2025 年年度报告：登记主体与劳务外包",
+      "publisher": "重庆百亚卫生用品股份有限公司（巨潮资讯）",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-18/1225115225.PDF",
+      "summary": "公司登记地址在重庆巴南；年报单列劳务外包，披露年度外包工时总量为 2,231,328 小时。",
+      "limitation": "年度外包工时总量不能换算成个人每周工时或休息天数；登记地址不能单独证明具体商品当前批次的制造地点。",
+      "publishedAt": "2026-04-18",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 6 页公司信息、第 34 页劳务外包、第 38 页 ESG 报告披露指引",
+      "type": "企业报告"
+    },
+    {
+      "id": "hangzhou-hygiene-sampling-2025",
+      "title": "2025 年杭州网络商品抽查：自由点与奈丝公主样品",
+      "publisher": "杭州市市场监督管理局",
+      "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3246/site/attach/0/ddea944b10ec4ebdadef88be086f9733.pdf",
+      "summary": "第 34 行列自由点夜用薄款 430 卫生巾、430mm / 4 片、货号 FLC8704-EC，标称生产者为重庆百亚；第 35 行奈丝公主 245mm / 10 片标称生产者为稳健医疗（黄冈）。两行平台均为云集。",
+      "limitation": "仅对应 2025 年抽查样品及表内销售者；抽检合格是产品质量结论，不是劳动结论，也不代表当前消费者所购批次。附件未核到精确发布日期。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 1 页表头、第 3 页第 34—35 行；品名已目视核对为薄款，非薄荷",
+      "type": "政府抽查"
+    },
+    {
+      "id": "decolor-zhaoqing-intro",
+      "title": "肇庆迪彩企业介绍：五天八小时及特殊岗位例外",
+      "publisher": "肇庆迪彩日化科技有限公司（招聘平台企业介绍）",
+      "url": "https://www.zqgxqbz.cn/ESA_EnterpriseWeb/Index.aspx?cID=EnterpriseWeb20160111120513159531",
+      "summary": "企业介绍将肇庆迪彩列为广州迪彩生产基地，并称非特殊工时岗位实行五天八小时、购买社保；同时明确保留特殊岗位例外。",
+      "limitation": "本次读取搜索引擎缓存正文，源站直接访问证书验证失败；未核到发布日期、例外岗位清单和当前排班。招聘介绍不等于政府劳动评价。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公司介绍：企业理念第一项；缓存正文",
+      "type": "企业招聘"
+    },
+    {
+      "id": "decolor-zhaoqing-hiring-2019",
+      "title": "肇庆高新发布 2019 年招聘：迪彩生产岗位",
+      "publisher": "肇庆高新发布（肇庆高新区党工委、管委会办公室）",
+      "url": "https://m.thepaper.cn/newsDetail_forward_4020315",
+      "summary": "政务招聘汇总中，迪彩段落列普工、配料工、计划员、电工，地址为肇庆高新区城中工业园建设路 9 号。",
+      "limitation": "该段没有披露岗位工时和休息；其前一企业的八小时六天制不属于迪彩。2019 年招聘地址不能代表当前具体商品制造厂或实际劳动安排。",
+      "publishedAt": "2019-07-26",
+      "checkedAt": "2026-09-12",
+      "locator": "肇庆迪彩日化科技有限公司段落，止于下一企业标题",
+      "type": "政务招聘"
+    },
+    {
+      "id": "decolor-jd-variant-mismatch",
+      "title": "迪彩京东候选商品：名称与图片规格不一致",
+      "publisher": "迪彩旗舰店（京东商品资料）",
+      "url": "https://item.m.jd.com/product/66658092051.html",
+      "summary": "候选条目的资料图为去屑草本洗发露，宣传处标 750g、瓶身标 750ml，与待找的生姜洗发露名称和规格存在不一致。",
+      "limitation": "该图已排除，未创建对应商品。候选销售条目不证明目标商品在售、制造法人或工厂；页面动态展示与库存可能变化。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "京东 SKU 66658092051 候选主图与瓶身前标；人工目视核对",
+      "type": "零售商商品资料"
     }
   ],
   "companies": [
@@ -2673,7 +2769,8 @@
       ],
       "sourceIds": [
         "darlie-hours",
-        "darlie-rest"
+        "darlie-rest",
+        "darlie-charcoal-product"
       ],
       "supply": [
         {
@@ -2683,19 +2780,20 @@
           "sourceIds": [
             "darlie-hours",
             "darlie-rest",
-            "darlie-mint-product"
+            "darlie-mint-product",
+            "darlie-charcoal-product"
           ]
         },
         {
           "stage": "制造与包装",
           "status": "unknown",
-          "detail": "中山工厂信息可查，但没有具体牙膏批次对应的班组工时。",
+          "detail": "所选牙膏与牙刷尚未对应具体制造背标、生产班组和实际考勤。",
           "sourceIds": []
         },
         {
           "stage": "原料与物流",
           "status": "unknown",
-          "detail": "薄荷等原料、包装和物流人员的劳动安排待补。",
+          "detail": "牙膏原料、牙刷刷毛、包材及物流人员的劳动安排待补。",
           "sourceIds": []
         }
       ],
@@ -4658,17 +4756,18 @@
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
       "cardNote": "生产招聘存在不同班制",
-      "scope": "全棉时代消费品品牌及稳健医疗相关制造线索；天门工厂记录只用于核查该法人。",
-      "finding": "已找到品牌和具体物料号。稳健医疗（天门）有 2022 年示范记录，但 2024 年生产招聘出现两班倒、12 小时白班，不能推定全部生产岗位符合本项目工时条件。",
+      "scope": "全棉时代品牌及稳健相关制造线索；天门劳动记录与黄冈样品生产信息分别保留。",
+      "finding": "稳健天门有 2022 年示范记录及 2024 年生产长班次招聘。另查到 2025 年奈丝公主 245mm / 10 片样品标称生产者为稳健黄冈，不能沿用天门的劳动资料。",
       "caveats": [
-        "当前商品背标尚未对应天门工厂。",
+        "已列洗脸巾等商品的当前背标尚未对应天门或黄冈；奈丝公主历史样品不代表其他全棉时代商品。",
         "12 小时招聘描述不能替代实际排班，也不构成本站对整个集团的违法认定。",
         "棉花采购、织造、加工、外包与门店人员均需分别核查。"
       ],
       "sourceIds": [
         "purcotton-brand",
         "winner-tianmen-hiring-2024",
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "hangzhou-hygiene-sampling-2025"
       ],
       "supply": [
         {
@@ -4680,8 +4779,11 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
-          "sourceIds": []
+          "detail": "天门劳动招聘与奈丝公主黄冈标称生产者属于不同法人；当前具体商品产线和实际劳动条件均需另核。",
+          "sourceIds": [
+            "winner-tianmen-hiring-2024",
+            "hangzhou-hygiene-sampling-2025"
+          ]
         },
         {
           "stage": "原料、外包与物流",
@@ -5193,6 +5295,117 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "先确认招聘的签约法人和种植、采摘、包装各方，再找可溯源的具体零售包装及生产人员的实际工作记录。"
+    },
+    {
+      "id": "baiya",
+      "name": "自由点 / 百亚股份",
+      "legalName": "重庆百亚卫生用品股份有限公司",
+      "location": "重庆巴南（公司登记地址）；具体商品产线待核",
+      "origin": "china",
+      "originNote": "中国本土卫生用品品牌；具体货号的产地、原料和生产法人仍逐项核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "员工制度与外包资料已查",
+      "scope": "百亚披露主体及自由点品牌；杭州 2025 年抽查另提供特定样品的标称生产者。",
+      "finding": "已找到生产主体、员工保障制度及劳务外包披露；尚无对应卫生巾产线每周 40 小时、每周两天休息的独立记录。",
+      "caveats": [
+        "企业关于合同、社保和加班的报告不能替代实际履行资料。",
+        "外包工时总量不能用于计算单个工人的周工时；外包雇佣主体和排班需分别核查。",
+        "历史抽查样品、当前零售批次及上游供应商不能自动相互对应。"
+      ],
+      "sourceIds": [
+        "baiya-brand-factory",
+        "baiya-esg-2025",
+        "baiya-annual-2025",
+        "hangzhou-hygiene-sampling-2025"
+      ],
+      "supply": [
+        {
+          "stage": "企业员工与运营",
+          "status": "policy",
+          "detail": "ESG 报告披露工时、加班补偿、合同及社保制度；没有逐周履行记录。",
+          "sourceIds": [
+            "baiya-esg-2025"
+          ]
+        },
+        {
+          "stage": "卫生巾生产",
+          "status": "unknown",
+          "detail": "2025 年抽查样品的标称生产者为百亚；当前产线、班组和排班未核。",
+          "sourceIds": [
+            "hangzhou-hygiene-sampling-2025",
+            "baiya-brand-factory"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "已披露供应商质量管理及劳务外包工时总量；缺少上游、外包岗位的独立劳动记录。",
+          "sourceIds": [
+            "baiya-esg-2025",
+            "baiya-annual-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "对应 FLC8704-EC 当前销售批次与产线，补充直接雇员、外包及原料供应岗位的考勤、工资、社保和休息资料。"
+    },
+    {
+      "id": "decolor-zhaoqing",
+      "name": "迪彩 / 肇庆生产基地",
+      "legalName": "肇庆迪彩日化科技有限公司",
+      "location": "广东肇庆高新区；2019 年招聘列建设路 9 号",
+      "origin": "china",
+      "originNote": "企业介绍称广州迪彩创立于 1998 年，肇庆迪彩为生产基地；具体商品制造关系尚未锁定。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "非特殊岗位披露 5 天 × 8 小时",
+      "restLabel": "生产岗位每周休息待核",
+      "cardNote": "五天八小时存在岗位例外",
+      "scope": "广州迪彩的肇庆生产主体；企业介绍中的五天八小时明确排除特殊工时岗位。",
+      "finding": "找到五天八小时制度线索，但适用岗位名单、例外岗位排班及实际履行未明。候选洗发水品名和图示规格不一致，暂不添加商品。",
+      "caveats": [
+        "工时制度来自无发布日期的企业介绍缓存，不是独立劳动检查。",
+        "2019 年政务招聘列生产岗位，但没有对应工时和休息；不能套用相邻企业的福利。",
+        "广州品牌运营公司、肇庆工厂与京东销售店铺应分别核对。"
+      ],
+      "sourceIds": [
+        "decolor-zhaoqing-intro",
+        "decolor-zhaoqing-hiring-2019",
+        "decolor-jd-variant-mismatch"
+      ],
+      "supply": [
+        {
+          "stage": "企业制度",
+          "status": "policy",
+          "detail": "企业介绍有五天八小时与社保政策，同时明确特殊岗位例外；发布日期未核。",
+          "sourceIds": [
+            "decolor-zhaoqing-intro"
+          ]
+        },
+        {
+          "stage": "配料与生产",
+          "status": "unknown",
+          "detail": "2019 年政务资料列普工、配料等岗位，但缺具体工时及休息；当前实际排班未知。",
+          "sourceIds": [
+            "decolor-zhaoqing-hiring-2019"
+          ]
+        },
+        {
+          "stage": "原料、包材与物流",
+          "status": "unknown",
+          "detail": "尚无对应洗发产品的供应商、外包人员工时、工资与休息资料。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "先核对当前普通与特殊工时生产岗位的范围及履行，再寻找名称、净含量和制造背标一致的具体洗发产品。"
     }
   ],
   "products": [
@@ -5791,8 +6004,8 @@
       ],
       "admission": {
         "chinaSale": {
-          "status": "supported",
-          "detail": "好来大陆官网明确列有 225g 规格，并将立即购买入口指向品牌天猫店；具体规格库存另核。",
+          "status": "pending",
+          "detail": "大陆官网列有 225g 规格并链接品牌天猫店；尚未锁定此规格当前可下单条目和区域库存。",
           "sourceIds": [
             "darlie-mint-product"
           ]
@@ -9510,6 +9723,109 @@
           ]
         }
       }
+    },
+    {
+      "id": "darlie-charcoal-deep-clean",
+      "name": "炭丝深洁牙刷（标准刷头）",
+      "brand": "好来 DARLIE",
+      "companyId": "darlie",
+      "category": "daily",
+      "description": "标准刷头、细丝软毛；官网资料图为单支吸塑卡装。",
+      "tags": [
+        "牙刷",
+        "标准刷头",
+        "软毛"
+      ],
+      "needs": [
+        "牙刷"
+      ],
+      "url": "https://www.darlie.com.cn/zh/chan-pin/suo-you-chan-pin/hao-lai-tan-si-shen-jie-ya-shua",
+      "relationshipSourceIds": [
+        "darlie-charcoal-product"
+      ],
+      "market": "大陆官网展示该款并链接品牌天猫店；同款当前库存、刷柄颜色和到货批次未核。",
+      "relationship": "大陆官网列入好来产品，正面包装可对应品名；未读取该款制造商和厂址背标，官网权利主体不替代实际生产者。",
+      "image": "images/darlie-charcoal-deep-clean.webp",
+      "imageMode": "contain",
+      "imageSource": "https://cms-cdn.darlie.com.hk/media/3964/t27_1_770.png",
+      "imageRights": "好来化工(中山)有限公司及相关图片权利人（大陆官网页脚版权声明）",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "大陆官网有明确款式和品牌店入口；尚未取得同款当前可下单页面与区域库存。",
+          "sourceIds": [
+            "darlie-charcoal-product"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官网图只有正面包装，未读到制造商、厂址或产地；不能从品牌、网站页脚或图片域名推断境内制造。",
+          "sourceIds": [
+            "darlie-charcoal-product"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "招聘工时与双休标签未对应此款牙刷产线，实际加班、休息及其他劳动权益记录待补。",
+          "sourceIds": [
+            "darlie-hours",
+            "darlie-rest"
+          ]
+        }
+      }
+    },
+    {
+      "id": "freemore-flc8704-ec",
+      "name": "夜用薄款 430 卫生巾 FLC8704-EC · 4片",
+      "brand": "自由点",
+      "companyId": "baiya",
+      "category": "daily",
+      "description": "430mm，4 片；品名、规格与货号来自杭州 2025 年网络商品抽查样品记录。未取得可对应同货号的商品图。",
+      "tags": [
+        "卫生巾",
+        "夜用",
+        "430mm"
+      ],
+      "needs": [
+        "卫生巾"
+      ],
+      "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3246/site/attach/0/ddea944b10ec4ebdadef88be086f9733.pdf",
+      "relationshipSourceIds": [
+        "hangzhou-hygiene-sampling-2025",
+        "baiya-brand-factory"
+      ],
+      "market": "历史样品由云集平台清洁纸品自营旗舰店销售，表列销售者为浙江集享电子商务有限公司；当前在售与库存未核。",
+      "relationship": "抽查表第 34 行将该货号样品的标称生产者列为重庆百亚卫生用品股份有限公司；不将该记录扩大到品牌其他商品或当前批次。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "2025 年有大陆平台抽查销售记录，未取得此完整货号的当前零售条目；品牌通用店铺不替代同款库存。",
+          "sourceIds": [
+            "hangzhou-hygiene-sampling-2025",
+            "baiya-brand-factory"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "抽查样品标称生产者为重庆百亚；具体厂址、当前批次及原料包材来源尚未对应。",
+          "sourceIds": [
+            "hangzhou-hygiene-sampling-2025",
+            "baiya-annual-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "员工保障制度、供应商质量考核和年度外包工时总量不足以证明该产线每周工时、休息及工资社保实际履行。",
+          "sourceIds": [
+            "baiya-esg-2025",
+            "baiya-annual-2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -9927,7 +10243,7 @@
           "query": "湿巾"
         }
       ],
-      "note": "已有抽纸、卷纸和青柠洗洁精 1kg 资料。新乡立白主管双休、配料月休四天、操作上四休二，岗位范围分别保留；历史抽查生产商不代表当前到货批次。牙刷、洗发水、香皂、卫生巾及清洁工具仍待补。",
+      "note": "已有标准刷头牙刷、自由点 FLC8704-EC 夜用卫生巾及纸品、洗洁精等具体资料。牙刷缺制造背标，卫生巾只锁定历史抽查样品；实际生产劳动证据均待补。迪彩五天八小时存在特殊岗位例外，候选洗发水品名与图片规格不一致，暂不添加；香皂和清洁工具仍有缺口。",
       "sourceIds": [
         "jahwa-2025",
         "darlie-hours",
@@ -9940,7 +10256,14 @@
         "liby-xinxiang-mixing-worker",
         "liby-xinxiang-production-operator",
         "liby-qingning1kg-sampling2025",
-        "liby-qingning1kg-sale"
+        "liby-qingning1kg-sale",
+        "darlie-charcoal-product",
+        "baiya-esg-2025",
+        "baiya-annual-2025",
+        "hangzhou-hygiene-sampling-2025",
+        "decolor-zhaoqing-intro",
+        "decolor-zhaoqing-hiring-2019",
+        "decolor-jd-variant-mismatch"
       ]
     },
     {
