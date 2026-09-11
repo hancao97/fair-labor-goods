@@ -2673,7 +2673,7 @@
           "白底蓝条",
           "A010"
         ],
-        "limitation": "HTML 同时包含“此商品已下架”及通用有货模板文案，未核实当前可下单或库存，不能仅凭此页保证当前大陆买得到。"
+        "limitation": "“此商品已下架”位于默认隐藏模板，通用有货弹窗也不能表示真实库存；当前可下单状态未核，不能仅凭此页保证大陆现时可买。"
       },
       "china_production_evidence": {
         "status": "unknown",
@@ -4418,6 +4418,762 @@
         "height": 704,
         "bytes": 259868,
         "sha256": "730ee1d896a22c8e86785d32a2f45ed1c4bf74b9a8e982c654357a0696d8f640"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "hodo-bra",
+      "source_page_url": "https://product.suning.com/0000000000/12364205471.html",
+      "retailer_source_page_url": "https://product.suning.com/0000000000/12364205471.html",
+      "source_role": "中国大陆苏宁直接商品页，页面展示苏宁自营；非红豆品牌官网",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆苏宁平台公开商品资料；没有验证当前库存、配送范围或消费者到货批次。",
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read_from_packaging": null,
+      "consumer_batch_verified": false,
+      "access_boundaries": {
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "scope": "仅请求指定三个商品页及它们直接引用的图库/详情原图。未登录、未访问挑战内容、未读取其他商品页面；隐藏有货/下架模板不用于库存判定。"
+      },
+      "china_sale_evidence": {
+        "status": "mainland_direct_product_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://product.suning.com/0000000000/12364205471.html"
+        ],
+        "evidence": "该准确苏宁商品页标题、货号/款式参数及引用图片已读取。",
+        "limitation": "公开资料图不是当前库存、实际到货规格或批次证明。"
+      },
+      "product_name": "红豆居家 JBB016 婴儿绵无钢圈文胸",
+      "model": "JBB016",
+      "status": "image_verified_style_and_sample_hangtag_read_selected_size_differs_from_tag",
+      "retailer_display_name": "红豆内衣苏宁自营旗舰店",
+      "retailer_legal_entity": null,
+      "retailer_product_id": "12364205471",
+      "retailer_page_title": "红豆居家女士婴儿绵柔软型无钢圈文胸",
+      "filename": "images/hodo-bra.webp",
+      "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/fFOvgNG9ZUwq7I32L2q32A.jpg",
+      "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/fFOvgNG9ZUwq7I32L2q32A.jpg",
+      "image_source_page_url": "https://product.suning.com/0000000000/12364205471.html",
+      "content_type": "image/jpeg",
+      "width": 483,
+      "height": 800,
+      "bytes": 21256,
+      "sha256": "d0eb4338f3d6a3464826fd8a34d850ae38f7a2df5b7bf0300ede2134a362185a",
+      "visually_verified": true,
+      "image_kind": "同页原始非模特整件色选图：同一文胸款式的黑色、白色、浅灰、珍珠粉四种颜色，非四件装",
+      "reuse_info": {
+        "rights_holder": "红豆/红豆居家品牌、苏宁商品页图片提供方及原摄影/模特相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer, photographer and other image rights holders."
+      },
+      "image_match_scope": "页面货号JBB016，同页吊牌编码前缀JBB016。主图四种颜色与原页色选一致；该页具体子商品ID对应珍珠粉80B。色选图是款式展示，不把四个颜色视作购买组合。",
+      "brand_as_read": "婴儿绵 bra（主图栏目名）；页面品牌为红豆居家(Hodohome)",
+      "selected_variant": {
+        "retailer_part_number": "000000012364205471",
+        "color": "珍珠粉",
+        "size": "80B",
+        "evidence": "同页公开gInfo.charPartNumbers中与本页partNumber准确相同的颜色和尺码记录。"
+      },
+      "displayed_colors": [
+        "黑色",
+        "白色",
+        "浅灰",
+        "珍珠粉"
+      ],
+      "sales_unit": "文胸1件",
+      "sales_unit_source": "零售页包装清单原文“文胸x1”",
+      "packaging_model_as_read": null,
+      "label_code_prefix_as_read": "JBB016",
+      "label_size_as_read": "B70",
+      "label_color_as_read": "珍珠粉",
+      "fabric_as_read_from_label": {
+        "罩杯里料": "66%粘纤29%聚酯纤维5%氨纶",
+        "侧翼": "62%锦纶38%氨纶"
+      },
+      "other_fabric_components": null,
+      "packaging_transcription": [
+        {
+          "text": "产品名称：文胸",
+          "location": "吊牌顶部可见行"
+        },
+        {
+          "text": "颜色：珍珠粉",
+          "location": "吊牌上部颜色行"
+        },
+        {
+          "text": "罩杯里料：66%粘纤29%聚酯纤维5%氨纶",
+          "location": "吊牌上部成分区，罩杯里料两行"
+        },
+        {
+          "text": "侧翼：62%锦纶38%氨纶",
+          "location": "吊牌上部成分区，侧翼两行"
+        },
+        {
+          "text": "JBB016",
+          "location": "吊牌右侧竖排长编码起始部分",
+          "scope": "只可靠转录与页面货号匹配的编码前缀，未把其后内部编码/批次字符作为货号。"
+        },
+        {
+          "text": "规格：B70",
+          "location": "吊牌下方规格行"
+        }
+      ],
+      "supporting_images": [
+        {
+          "filename": "hodo-jbb016-hangtag-example.jpg",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/ry2UYKH6pFXh7B4Q6TcRTw.jpg",
+          "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/ry2UYKH6pFXh7B4Q6TcRTw.jpg",
+          "image_source_page_url": "https://product.suning.com/0000000000/12364205471.html",
+          "content_type": "image/jpeg",
+          "width": 750,
+          "height": 876,
+          "bytes": 157694,
+          "sha256": "2be09b133992ab0267fc86f66393a1ea6d188ce2ff26659c997361ba98719dae",
+          "visually_verified": true,
+          "image_kind": "同页“吊牌信息”原始详情图，内含珍珠粉B70示例吊牌照片；不同于页ID映射的80B尺码",
+          "reuse_info": {
+            "rights_holder": "红豆/红豆居家品牌、苏宁商品页图片提供方及原摄影/模特相关权利人；确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer, photographer and other image rights holders."
+          },
+          "transcription": [
+            {
+              "text": "产品名称：文胸",
+              "location": "吊牌顶部可见行"
+            },
+            {
+              "text": "颜色：珍珠粉",
+              "location": "吊牌上部颜色行"
+            },
+            {
+              "text": "罩杯里料：66%粘纤29%聚酯纤维5%氨纶",
+              "location": "吊牌上部成分区，罩杯里料两行"
+            },
+            {
+              "text": "侧翼：62%锦纶38%氨纶",
+              "location": "吊牌上部成分区，侧翼两行"
+            },
+            {
+              "text": "JBB016",
+              "location": "吊牌右侧竖排长编码起始部分",
+              "scope": "只可靠转录与页面货号匹配的编码前缀，未把其后内部编码/批次字符作为货号。"
+            },
+            {
+              "text": "规格：B70",
+              "location": "吊牌下方规格行"
+            }
+          ],
+          "evidence_scope": "零售页公开的同款吊牌示例，只能确认该图所示珍珠粉B70标签及可读面料/编码前缀。页面准确SKU为珍珠粉80B；不得将此图称为80B现货或消费者实际到货标签。未见制造商、厂址或产地。"
+        }
+      ],
+      "retailer_page_fields": {
+        "brand": "红豆居家(Hodohome)",
+        "style_number": "JBB016",
+        "underwire": "无钢圈",
+        "packing_list": "文胸x1"
+      },
+      "china_production_evidence": {
+        "status": "unknown_no_readable_manufacturer_address_or_origin",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://product.suning.com/0000000000/12364205471.html",
+          "https://uimgproxy.suning.cn/uimg1/sop/commodity/ry2UYKH6pFXh7B4Q6TcRTw.jpg"
+        ],
+        "evidence_scope": "吊牌可读品名、颜色、面料、编码前缀及B70尺码；未见制造法人、厂址、产地，不能从店名推断。"
+      },
+      "notes": [
+        "非模特整件图由零售页面原样提供，未裁切或合成；四种颜色不是四件装。",
+        "婴儿绵为商品系列/营销名称，不能据此声称棉质或纯棉；已按标签分别转录罩杯里料和侧翼成分。",
+        "吊牌是B70示例，当前URL映射80B，两者差异明确保留。",
+        "两张来源详情图返回2×2占位图，未采用、未尝试改写URL或绕过限制。"
+      ],
+      "source_image_metadata": {
+        "width": 750,
+        "height": 1243,
+        "bytes": 229972,
+        "sha256": "a5f3b7a5b84c8877aa719c21f0741e8e85a92de07a5017c83b502c6da4d8f9ea"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "hodo-thermal-underwear",
+      "source_page_url": "https://product.suning.com/0000000000/12164234417.html",
+      "retailer_source_page_url": "https://product.suning.com/0000000000/12164234417.html",
+      "source_role": "中国大陆苏宁直接商品页，页面展示苏宁自营；非红豆品牌官网",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆苏宁平台公开商品资料；没有验证当前库存、配送范围或消费者到货批次。",
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read_from_packaging": null,
+      "consumer_batch_verified": false,
+      "access_boundaries": {
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "scope": "仅请求指定三个商品页及它们直接引用的图库/详情原图。未登录、未访问挑战内容、未读取其他商品页面；隐藏有货/下架模板不用于库存判定。"
+      },
+      "china_sale_evidence": {
+        "status": "mainland_direct_product_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://product.suning.com/0000000000/12164234417.html"
+        ],
+        "evidence": "该准确苏宁商品页标题、货号/款式参数及引用图片已读取。",
+        "limitation": "公开资料图不是当前库存、实际到货规格或批次证明。"
+      },
+      "product_name": "红豆绒圆领秋衣秋裤套装（深麻灰男款）",
+      "model": null,
+      "retailer_style_number_as_listed": "02-13/14",
+      "independent_manufacturer_style_number": null,
+      "status": "image_verified_exact_male_sku_individual_style_code_unresolved",
+      "retailer_display_name": "苏宁自营",
+      "retailer_legal_entity": null,
+      "retailer_product_id": "12164234417",
+      "retailer_page_title": "红豆秋冬新款情侣色纺保暖内衣男士女士棉氨圆领磨毛弹力红豆绒秋衣秋裤套装",
+      "filename": "images/hodo-thermal-underwear.webp",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/G70zxz0cNx1dk4LSVKEa5w.jpg_800w_800h_4e",
+      "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/G70zxz0cNx1dk4LSVKEa5w.jpg_800w_800h_4e",
+      "image_source_page_url": "https://product.suning.com/0000000000/12164234417.html",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 60830,
+      "sha256": "f055de3ac97990cb443eac86279d649904d08d4c1c7f96fe787e2982bc3ad2f4",
+      "visually_verified": true,
+      "image_kind": "指定准确页主图库的深麻灰男款单人模特图；上衣完整可见，裤子局部可见，非情侣两套图",
+      "reuse_info": {
+        "rights_holder": "红豆/红豆居家品牌、苏宁商品页图片提供方及原摄影/模特相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer, photographer and other image rights holders."
+      },
+      "image_match_scope": "当前URL的partNumber在同页公开子商品记录中明确对应“深麻灰（男款）170/95”。主图为同一深麻灰男款，细节色选图也将该图示为深麻灰。未将其他男女款混作一套。",
+      "brand_as_read": "HOdo 红豆",
+      "selected_variant": {
+        "retailer_part_number": "000000012164234417",
+        "color": "深麻灰",
+        "gender_as_listed": "男款",
+        "size": "170/95",
+        "evidence": "同页gInfo.charPartNumbers中partNumber与当前URL一致的颜色和尺码记录明确写“深麻灰（男款）170/95”。"
+      },
+      "variant_resolution": {
+        "page_is_male_or_female": "男款",
+        "retailer_combined_field": "02-13/14",
+        "02-13_gender_mapping": null,
+        "02-14_gender_mapping": null,
+        "current_sku_individual_style_code": null,
+        "conclusion": "可确认准确零售SKU为男款；未读到02-13与02-14分别对应男/女款的标签或对照，不能拆分，也不把02-13/14当作制造商完整单款货号。"
+      },
+      "sales_unit": "一套：上衣1件、裤子1件",
+      "sales_unit_source": "零售页包装清单原文“内衣上衣x1、内衣裤子x1”",
+      "packaging_transcription": [],
+      "label_code_prefix_as_read": null,
+      "fabric_as_read_from_label": null,
+      "supporting_images": [],
+      "retailer_page_fields": {
+        "brand": "红豆(hongdou)",
+        "style_number_raw": "02-13/14",
+        "listed_origin": "中国江苏无锡市",
+        "main_fabric": "棉",
+        "collar": "圆领",
+        "generic_audience_parameter": "情侣",
+        "packing_list": "内衣上衣x1、内衣裤子x1"
+      },
+      "china_production_evidence": {
+        "status": "retailer_declares_china_origin_packaging_and_manufacturer_unknown",
+        "country_declared_by_retailer": "中国江苏无锡市",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://product.suning.com/0000000000/12164234417.html"
+        ],
+        "evidence": "零售网页产地参数原文“中国江苏无锡市”。",
+        "evidence_scope": "仅零售参数产地；未取得可读制造商/厂址/产地的吊牌或缝标。标题棉氨与网页面料主材质棉不能当成标签百分比。"
+      },
+      "notes": [
+        "虽然页面总标题/通用参数使用情侣，当前URL明确为深麻灰男款；销售清单一套两件，不是情侣两套。",
+        "02-13/14只保留为零售参数原文，具体男款独立货号未知，model保持null。",
+        "原图库中男女合照与其他颜色没有用作主图。",
+        "没有从照片认定模特实际穿着170/95，也没有读取到真实消费者尺码标签。"
+      ],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 435493,
+        "sha256": "f592c30f6081b848cda03ccaa7011731e1ad963e4da98c70a0f1e031b63a1f46"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "hodo-homewear",
+      "source_page_url": "https://product.suning.com/0000000000/12359912075.html",
+      "retailer_source_page_url": "https://product.suning.com/0000000000/12359912075.html",
+      "source_role": "中国大陆苏宁直接商品页，页面展示苏宁自营；非红豆品牌官网",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆苏宁平台公开商品资料；没有验证当前库存、配送范围或消费者到货批次。",
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read_from_packaging": null,
+      "consumer_batch_verified": false,
+      "access_boundaries": {
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "scope": "仅请求指定三个商品页及它们直接引用的图库/详情原图。未登录、未访问挑战内容、未读取其他商品页面；隐藏有货/下架模板不用于库存判定。"
+      },
+      "china_sale_evidence": {
+        "status": "mainland_direct_product_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://product.suning.com/0000000000/12359912075.html"
+        ],
+        "evidence": "该准确苏宁商品页标题、货号/款式参数及引用图片已读取。",
+        "limitation": "公开资料图不是当前库存、实际到货规格或批次证明。"
+      },
+      "product_name": "红豆居家 JBJ307 男士短袖睡衣套装",
+      "model": "JBJ307",
+      "status": "image_verified_style_and_sample_hangtag_read",
+      "retailer_display_name": "红豆内衣苏宁自营旗舰店",
+      "retailer_legal_entity": null,
+      "retailer_product_id": "12359912075",
+      "retailer_page_title": "红豆居家纯棉男士短袖居家服睡衣套装",
+      "filename": "images/hodo-homewear.webp",
+      "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/0c_bNtc7UVcnIdPfoRQtgg.jpg",
+      "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/0c_bNtc7UVcnIdPfoRQtgg.jpg",
+      "image_source_page_url": "https://product.suning.com/0000000000/12359912075.html",
+      "content_type": "image/jpeg",
+      "width": 531,
+      "height": 800,
+      "bytes": 27566,
+      "sha256": "47cd1283a12d1d0029f226769a7c8a60522a29dd9e4a6bc81db79ba5f1959559",
+      "visually_verified": true,
+      "image_kind": "同页原始非模特整件产品信息图，展示灰蓝色/浅麻灰两种颜色的短袖上衣和中裤；非两套组合装",
+      "reuse_info": {
+        "rights_holder": "红豆/红豆居家品牌、苏宁商品页图片提供方及原摄影/模特相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer, photographer and other image rights holders."
+      },
+      "image_match_scope": "页面货号JBJ307，同页吊牌编码前缀JBJ307；原图显示同款两种颜色的整件上衣和中裤，并写男士短袖套装、100%棉。该页面没有为当前款式级ID提供可确定的具体颜色/尺码子商品选中记录。",
+      "selected_variant": {
+        "retailer_part_number": "000000012359912075",
+        "color": null,
+        "size": null,
+        "evidence": "该ID只出现在页面itemSubCount款式级记录；对应具体颜色尺码的子商品记录使用其他ID。没有将某一子商品自动当作已选。"
+      },
+      "displayed_colors": [
+        "灰蓝色",
+        "浅麻灰"
+      ],
+      "sales_unit": "一套：短袖上衣1件、中裤1件",
+      "sales_unit_source": "零售页包装清单原文“居家服上衣x1、居家服裤子x1”及同页短袖中裤图片",
+      "label_code_prefix_as_read": "JBJ307",
+      "label_size_as_read": {
+        "上装": "170/92A",
+        "下装": "170/78A"
+      },
+      "label_color_as_read": "浅麻灰",
+      "fabric_as_read_from_label": "100%棉",
+      "packaging_transcription": [
+        {
+          "text": "男士短袖居家服套装",
+          "location": "吊牌最上方品名行"
+        },
+        {
+          "text": "浅麻灰",
+          "location": "吊牌颜色行"
+        },
+        {
+          "text": "上装：170/92A",
+          "location": "吊牌上装规格行"
+        },
+        {
+          "text": "下装：170/78A",
+          "location": "吊牌下装规格行"
+        },
+        {
+          "text": "成分：100%棉",
+          "location": "吊牌中部成分区"
+        },
+        {
+          "text": "JBJ307",
+          "location": "吊牌右侧竖排长编码起始部分",
+          "scope": "与页面货号相同的可读编码前缀；没有把其后内部编码字符作为新货号。"
+        }
+      ],
+      "image_text_transcription": [
+        {
+          "text": "名称：男士短袖套装",
+          "location": "主图左上产品信息区"
+        },
+        {
+          "text": "颜色：浅麻灰、灰蓝色",
+          "location": "主图左上产品信息区"
+        },
+        {
+          "text": "成分：100%棉",
+          "location": "主图左上产品信息区"
+        }
+      ],
+      "supporting_images": [
+        {
+          "filename": "hodo-jbj307-hangtag-example.jpg",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/d5lboMCW_5Ki1yVxivGIww.jpg",
+          "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/d5lboMCW_5Ki1yVxivGIww.jpg",
+          "image_source_page_url": "https://product.suning.com/0000000000/12359912075.html",
+          "content_type": "image/jpeg",
+          "width": 750,
+          "height": 877,
+          "bytes": 240823,
+          "sha256": "8630cf4a99e9c809484babfcb1d40339b52371cee22d2d77670dcaf201ba2fcd",
+          "visually_verified": true,
+          "image_kind": "同页“吊牌信息”原始图：浅麻灰男士短袖套装的170号示例吊牌照片",
+          "reuse_info": {
+            "rights_holder": "红豆/红豆居家品牌、苏宁商品页图片提供方及原摄影/模特相关权利人；确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer, photographer and other image rights holders."
+          },
+          "transcription": [
+            {
+              "text": "男士短袖居家服套装",
+              "location": "吊牌最上方品名行"
+            },
+            {
+              "text": "浅麻灰",
+              "location": "吊牌颜色行"
+            },
+            {
+              "text": "上装：170/92A",
+              "location": "吊牌上装规格行"
+            },
+            {
+              "text": "下装：170/78A",
+              "location": "吊牌下装规格行"
+            },
+            {
+              "text": "成分：100%棉",
+              "location": "吊牌中部成分区"
+            },
+            {
+              "text": "JBJ307",
+              "location": "吊牌右侧竖排长编码起始部分",
+              "scope": "与页面货号相同的可读编码前缀；没有把其后内部编码字符作为新货号。"
+            }
+          ],
+          "evidence_scope": "该商品页面发布的同款浅麻灰170号示例吊牌，能读到产品名称、成分、上下装号型及JBJ307编码前缀；未见制造商、厂址或产地。不是实际消费者批次证据，也不把浅麻灰吊牌当作灰蓝色到货标签。"
+        }
+      ],
+      "retailer_page_fields": {
+        "brand": "红豆居家(Hodohome)",
+        "style_number": "JBJ307",
+        "audience": "男士",
+        "main_fabric": "棉",
+        "sleeve": "短袖",
+        "packing_list": "居家服上衣x1、居家服裤子x1"
+      },
+      "china_production_evidence": {
+        "status": "unknown_no_readable_manufacturer_address_or_origin",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://product.suning.com/0000000000/12359912075.html",
+          "https://uimgproxy.suning.cn/uimg1/sop/commodity/d5lboMCW_5Ki1yVxivGIww.jpg"
+        ],
+        "evidence_scope": "已读吊牌有品名、号型、成分及货号前缀；未见制造法人、厂址、产地，不从店名或棉材质推断。"
+      },
+      "notes": [
+        "整件图为同页原有双色款式说明，图片里两种颜色各一套不代表购买收到两套。",
+        "标注了原图尺码表，但没有把170号示例吊牌当作所有颜色/尺码共同的到货标签。",
+        "原图未裁切、合成、生成或去水印，原有尺寸表保留。"
+      ],
+      "source_image_metadata": {
+        "width": 750,
+        "height": 1129,
+        "bytes": 208348,
+        "sha256": "477eb8941ec16068022432ceba947ea72ac197caf8efe8af5eb42e95c1628f69"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "mengna-2010473046147-socks",
+      "product_name": "梦娜女士纯色中筒袜（页面商品货号2010473046147）",
+      "model": null,
+      "manufacturer_style_number": null,
+      "retailer_item_number": "2010473046147",
+      "retailer_product_id": "1859066006826893313",
+      "filename": "images/mengna-2010473046147-socks.webp",
+      "image_url": "https://cdnimg.chinagoods.com/img/ylbm/img/ibank/O1CN01VBzYlL2JJFmUHzidA_!!2212984289400-0-cib.jpg",
+      "final_image_url": "https://cdnimg.chinagoods.com/img/ylbm/img/ibank/O1CN01VBzYlL2JJFmUHzidA_!!2212984289400-0-cib.jpg",
+      "image_source_page_url": "https://www.chinagoods.com/store/goodsdetail/1859066006826893313",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 53170,
+      "sha256": "9c6c2a42415e53d00948aaf9777bad9b5899701cc67ac70755ae9b0ed50058e6",
+      "visually_verified": true,
+      "image_kind": "指定商品图库的原始品牌平铺主图，展示黄、粉、黑、浅灰、白五色色选；不是五双组合装包装",
+      "reuse_info": {
+        "rights_holder": "梦娜MengNa品牌、Chinagoods商家图片提供方及原摄影/图片相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer, photographer and other image rights holders."
+      },
+      "source_page_url": "https://www.chinagoods.com/store/goodsdetail/1859066006826893313",
+      "retailer_source_page_url": "https://www.chinagoods.com/store/goodsdetail/1859066006826893313",
+      "source_role": "中国大陆Chinagoods平台直接商品资料页，商家展示名“梦娜爱国者”；非梦娜品牌官网",
+      "retailer_display_name": "梦娜爱国者",
+      "retailer_legal_entity": null,
+      "brand_authorization_verified": false,
+      "retailer_page_title": "梦娜袜子女中筒袜纯色棉袜春秋季黑色四季款中长筒袜休闲时尚女袜",
+      "status": "image_verified_detail_composition_read_pack_quantity_and_manufacturer_unknown",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆平台公开商品页面，含按颜色报价和一件起批展示。没有确认实时库存、交付包装、销售方制造商身份或品牌授权。",
+      "image_match_scope": "主图和参数图均来自该准确页面直接引用的原始图片URL。主图品牌可读MengNa梦娜，款式与同页女中筒袜相符。2010473046147只来自页面商品货号字段，不是读到的制造商型号。",
+      "brand_as_read": "MengNa 梦娜",
+      "displayed_colors": [
+        "黄色",
+        "粉色",
+        "黑色",
+        "浅灰色",
+        "白色"
+      ],
+      "selected_color": null,
+      "main_image_quantity_scope": "五色色选平铺展示，不确定每色叠放袜子数量，不把五种颜色当作本次订购组合。",
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read_from_packaging": null,
+      "packaging_transcription": [],
+      "label_style_number_as_read": null,
+      "fabric_as_read_from_label": null,
+      "fabric_as_read_from_detail_image": {
+        "棉": "74%",
+        "氨纶": "2.1%",
+        "聚酯纤维": "23.9%"
+      },
+      "specification_as_read_from_detail_image": "3双装",
+      "shoe_size_as_read_from_detail_image": "35-40",
+      "stretch_length_as_read_from_detail_image": {
+        "value": "24-26",
+        "unit": null
+      },
+      "sales_unit_as_listed": "件",
+      "minimum_order_as_listed": "一件起批",
+      "pairs_per_ordered_unit_verified": null,
+      "consumer_batch_verified": false,
+      "supporting_images": [
+        {
+          "filename": "mengna-product-information.jpg",
+          "image_url": "https://cdnimg.chinagoods.com/aimg/mt/img/ibank/O1CN01iFocsl2JJFmLiZ4W5_!!2212984289400-0-cib.jpg",
+          "final_image_url": "https://cdnimg.chinagoods.com/aimg/mt/img/ibank/O1CN01iFocsl2JJFmLiZ4W5_!!2212984289400-0-cib.jpg",
+          "image_source_page_url": "https://www.chinagoods.com/store/goodsdetail/1859066006826893313",
+          "content_type": "image/jpeg",
+          "width": 790,
+          "height": 809,
+          "bytes": 65637,
+          "sha256": "486b974a0e27f81f8ca399bf1be998238cd4218136454b18b345ba295f21d1b0",
+          "visually_verified": true,
+          "image_kind": "指定商品页原始“产品信息”详情图；是商品参数排版，不是实物吊牌或包装标签",
+          "reuse_info": {
+            "rights_holder": "梦娜MengNa品牌、Chinagoods商家图片提供方及原摄影/图片相关权利人；确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer, photographer and other image rights holders."
+          },
+          "transcription": [
+            {
+              "text": "品牌 梦娜",
+              "location": "图下部左侧品牌栏"
+            },
+            {
+              "text": "规格 3双装",
+              "location": "图下部左侧规格栏"
+            },
+            {
+              "text": "颜色 黑/白/黄/粉/浅灰",
+              "location": "图下部中间颜色栏"
+            },
+            {
+              "text": "面料 棉74% 氨纶2.1% 聚酯纤维23.9%",
+              "location": "图下部中间面料栏，两行比例"
+            },
+            {
+              "text": "伸展长度 24-26",
+              "location": "图上半部右侧表格第一行",
+              "scope": "图中没有标出长度单位，不自行补cm。"
+            },
+            {
+              "text": "对应鞋码 35-40",
+              "location": "图上半部右侧表格第二行"
+            },
+            {
+              "text": "厚度 适中",
+              "location": "图下部右侧厚度栏"
+            }
+          ],
+          "evidence_scope": "目视逐字读取同一商品详情参数图；没有制造商货号、生产法人、厂址或产地标签。3双装为图中声明，页面交易按“件”计，未确认页面一件实际交付几双。该图不证明消费者当前批次。"
+        }
+      ],
+      "retailer_page_fields": {
+        "product_item_number": "2010473046147",
+        "listed_origin": "中国",
+        "material": "其他",
+        "minimum_order": "一件起批",
+        "black_color_has_separate_quote": true
+      },
+      "field_scope_notes": [
+        {
+          "field": "商品货号",
+          "scope": "2010473046147为零售/平台商品编号，制造商型号未知。"
+        },
+        {
+          "field": "材质",
+          "scope": "页面字段是“其他”，同页产品信息图列棉74%、氨纶2.1%、聚酯纤维23.9%；分开记录，不把标题棉袜改写为100%棉。"
+        },
+        {
+          "field": "规格/交易单位",
+          "scope": "产品信息图写3双装，页面按件报价和一件起批；没有一件=三双的明确交易单位映射。"
+        },
+        {
+          "field": "黑色报价",
+          "scope": "仅记录页面有独立黑色色选报价，不保证实时价格、库存或黑色包装数量。"
+        }
+      ],
+      "china_sale_evidence": {
+        "status": "mainland_direct_product_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://www.chinagoods.com/store/goodsdetail/1859066006826893313"
+        ],
+        "evidence": "Chinagoods准确大陆商品页公开显示梦娜女中筒袜、商品货号2010473046147、一件起批及黑色等颜色报价。",
+        "limitation": "公开页面不是实时库存、当前成交价、实际包装数量或授权证明；未登录、下单或访问联系方式。"
+      },
+      "china_production_evidence": {
+        "status": "retailer_declares_china_origin_manufacturer_and_packaging_origin_unknown",
+        "country_declared_by_retailer": "中国",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://www.chinagoods.com/store/goodsdetail/1859066006826893313"
+        ],
+        "evidence": "页面商品参数原文“产地：中国”。",
+        "evidence_scope": "仅销售页面的产地字段，原图没有可读制造法人或厂址。未将梦娜爱国者店名、店铺地址、品牌宣传图或物流发货地当成制造商/厂址。"
+      },
+      "access_boundaries": {
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "web_open_result": "web工具打开超时；正常HTTP GET成功读取同一准确页面。",
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "scope": "只读取指定商品页及其直接引用的16张商品图库/详情原图；没有使用推荐商品图、访问跟踪像素、登录/联系方式或其他商品页。所有交付URL无改写，页面已直接提供不带缩略参数的原图。"
+      },
+      "notes": [
+        "主图及必要的成分/规格支持图均已目视核对，保存原始字节、尺寸和SHA256。",
+        "交付图不是实物吊牌/包装照；所有生产字段保持未知。",
+        "原图未裁切、生成、合成、复原小字或去水印；五色平铺主图保留原始MengNa梦娜标识。",
+        "本任务仅处理这一商品；未开展劳动/企业研究、未修改仓库或部署。"
+      ],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 134174,
+        "sha256": "35eeae5234a6c6b662180748cad873fd1ca1677dbee24f6ceb091442356bc953"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "semir-109326100046-tshirt",
+      "product_name": "森马 109326100046 女短袖T恤",
+      "model": "109326100046",
+      "filename": "images/semir-109326100046-tshirt.webp",
+      "image_url": "https://img14.360buyimg.com/n8/jfs/t1/410422/37/8575/144646/69c9d345Fc38553fb/00834b04b049a774.jpg",
+      "final_image_url": "https://img14.360buyimg.com/n8/jfs/t1/410422/37/8575/144646/69c9d345Fc38553fb/00834b04b049a774.jpg",
+      "image_source_page_url": "https://www.jd.com/chanpin/255012.html",
+      "content_type": "image/jpeg",
+      "width": 220,
+      "height": 282,
+      "bytes": 8030,
+      "sha256": "e3f217daef995838658f817a1d7cb5513dbd4ed978f3d145fdc2b478176d2afb",
+      "visually_verified": true,
+      "image_kind": "京东类目页准确商品卡片的220×282原引用模特图；不是直接商品详情图或吊牌图",
+      "reuse_info": {
+        "rights_holder": "森马Semir品牌、京东页面图片提供方、原摄影及模特相关权利人；确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the relevant brand, retailer, photographer and other image rights holders."
+      },
+      "source_page_url": "https://www.jd.com/chanpin/255012.html",
+      "category_source_page_url": "https://www.jd.com/chanpin/255012.html",
+      "direct_product_url": "https://item.jd.com/100245131607.html",
+      "source_role": "京东大陆类目资料页中明确对应目标货号的商品卡片；直接数值商品页本批未重新访问",
+      "retailer_display_name": null,
+      "brand_as_listed": "森马（Semir）",
+      "retailer_product_id": "100245131607",
+      "model_evidence": "同一data-sku=100245131607商品卡片标题明确以109326100046结尾；卡片图片与通往该SKU的链接同属一个商品节点。",
+      "category_card_title": "森马（Semir）短袖T恤女夏季短款V领半开襟套头衫紧身正肩2026上衣109326100046",
+      "status": "category_image_verified_low_resolution_no_readable_labels",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆京东公开类目资料；直接商品当前销售状态、库存、配送、实际尺码及批次未确认。",
+      "selected_variant": {
+        "color_as_listed": "本白10102",
+        "size": null,
+        "evidence": "该商品卡片当前色选class=curr，以及同一data-sku=100245131607的色选图片alt均为本白10102。"
+      },
+      "image_match_scope": "照片显示白色女短袖、V领半开襟短款造型，与准确卡片标题及当前色选一致。款号依据该卡片的商品文字绑定，不是图片上读到的服装标签。没有使用101926100001、109326100001或109326100002。",
+      "resolution_limit": {
+        "width": 220,
+        "height": 282,
+        "scope": "仅原类目引用分辨率；未放大修复或把它称为高清主图。"
+      },
+      "packaging_transcription": [],
+      "garment_label_transcription": [],
+      "model_as_read_from_packaging": null,
+      "fabric_as_read_from_label": null,
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "country_as_read_from_packaging": null,
+      "supporting_images": [],
+      "china_sale_evidence": {
+        "status": "mainland_category_listing_and_exact_product_link_verified_live_sale_unverified",
+        "source_urls": [
+          "https://www.jd.com/chanpin/255012.html",
+          "https://item.jd.com/100245131607.html"
+        ],
+        "evidence": "京东类目卡片明确给出109326100046及商品SKU100245131607，图片与链接同卡绑定。",
+        "limitation": "该图只作为类目商品资料；数值直达页此前返回泛化内容，本批未重试，不声称可直接成交或现货。"
+      },
+      "china_production_evidence": {
+        "status": "unknown_no_readable_production_label",
+        "country_as_read_from_packaging": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://www.jd.com/chanpin/255012.html"
+        ],
+        "evidence_scope": "可访问图片未给出可读制造商、厂址或产地；品牌和大陆网页不作为中国制造证据。"
+      },
+      "access_boundaries": {
+        "category_html_source": "父代理已保存的准确页面HTML",
+        "image_http_status": 200,
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "direct_numeric_product_page_retried": false,
+        "scope": "仅从已有类目缓存读取准确商品卡片，并下载其直接引用主图；未取相似型号或其他商品卡片图。"
+      },
+      "notes": [
+        "原文件220×282，完整保存页面图像内容，未裁切、合成、生成或去水印。",
+        "款号来自类目文本绑定，照片本身没有可读货号/生产标签。",
+        "标题包含2026是零售标题原文，不据此确认制造年份。"
+      ],
+      "source_image_metadata": {
+        "width": 220,
+        "height": 282,
+        "bytes": 17892,
+        "sha256": "2f6d774bc99b58cc092a9f04b72edeccde9828aff45b6d5a1fdd9e069953dff5"
       },
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }

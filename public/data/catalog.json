@@ -1953,14 +1953,14 @@
     },
     {
       "id": "youngor-yldp10265ija-sale",
-      "title": "雅戈尔 YLDP10265IJA 衬衫：苏宁款式资料与下架提示",
+      "title": "雅戈尔 YLDP10265IJA 衬衫：苏宁款式资料",
       "publisher": "苏宁易购商品页（页面店铺名：雅戈尔官方旗舰店）",
       "url": "https://product.suning.com/0070682847/10887087635.html",
       "summary": "商品参数列货号 YLDP10265IJA、A010 白底蓝条、纯棉尖领长袖；可对应商品主图。",
-      "limitation": "HTML 同时有下架提示和通用有货文案，当前可下单状态未确认。店铺名称不独立证明授权、制造法人或工厂；未读到产地吊牌。",
+      "limitation": "“此商品已下架”位于 display:none 的模板中，通用有货弹窗也不代表实际库存；当前可下单状态未确认。店铺名称不独立证明授权、制造法人或工厂，未读到产地吊牌。",
       "publishedAt": null,
       "checkedAt": "2026-09-12",
-      "locator": "商品标题、货号和颜色参数；页面下架提示",
+      "locator": "商品标题、货号和颜色参数；现时库存未取得",
       "type": "零售商商品页"
     },
     {
@@ -2682,6 +2682,198 @@
       "checkedAt": "2026-09-12",
       "locator": "商品主标题、主体型号、规格与产地参数，以及同页主图和规格图",
       "type": "大陆零售商商品资料"
+    },
+    {
+      "id": "hodo-annual-2025-online",
+      "title": "红豆股份 2025 年报：居家线上业务收购范围与供应商模式",
+      "publisher": "江苏红豆实业股份有限公司（年度报告附件）",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202604291821784791_1.pdf",
+      "summary": "年报披露购买剥离后的红豆居家线上业务资产组，2025-12-31 纳入合并范围；居家线上业务联合供应商开发商品，采用代销方式。",
+      "limitation": "收购对象是线上业务资产组，不是整个红豆集团或全部居家制造厂；不能据财务合并范围给三个零售货号指定制造商。",
+      "publishedAt": "2026-04-30",
+      "checkedAt": "2026-09-12",
+      "locator": "第 11—12 页：主要业务、红豆居家线上业务运营模式",
+      "type": "企业年报"
+    },
+    {
+      "id": "hodo-esg-2025-labor",
+      "title": "红豆股份 2025 ESG：员工权益与供应商管理",
+      "publisher": "江苏红豆实业股份有限公司（报告附件）",
+      "url": "http://infonotice.sylapp.cn/LC_NotTextAnnouncement/2026/04/30/830832506980.PDF",
+      "summary": "公司自述劳动合同、薪酬福利、法定假期与职工沟通安排；供应链章节列准入评审、验厂及动态考核。",
+      "limitation": "报告主体是上市公司，不能扩展到整个集团、红豆居家原有工厂或具体代工货号。所查章节没有对应商品生产人员的实际周工时、每周休息及工资社保履行记录。",
+      "publishedAt": "2026-04-30",
+      "checkedAt": "2026-09-12",
+      "locator": "印刷第 41—42、47—50 页（PDF 第 22、25—26 页）",
+      "type": "企业 ESG 报告"
+    },
+    {
+      "id": "hodo-jbb016-suning",
+      "title": "红豆居家 JBB016 文胸：珍珠粉 80B 零售资料",
+      "publisher": "苏宁易购商品页（页面标示红豆内衣苏宁自营旗舰店）",
+      "url": "https://product.suning.com/0000000000/12364205471.html",
+      "summary": "商品页列 JBB016 无钢圈文胸，当前商品编号对应珍珠粉 80B，包装清单为文胸一件；同页有四色款式图和 B70 吊牌示例。",
+      "limitation": "地区库存与当前可下单状态未核；四色展示不是四件装，B70 吊牌不是 80B 到货标签。店铺名称不能替代制造法人、厂址或授权证据。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号、包装清单及当前商品编号对应的颜色尺码；同页图库",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "hodo-jbb016-label-example",
+      "title": "JBB016 同款珍珠粉 B70 吊牌示例",
+      "publisher": "苏宁商品页公开详情图（红豆居家款式资料）",
+      "url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/ry2UYKH6pFXh7B4Q6TcRTw.jpg",
+      "summary": "可读货号前缀 JBB016、珍珠粉、B70；罩杯里料为粘纤 66%、聚酯纤维 29%、氨纶 5%，侧翼为锦纶 62%、氨纶 38%。",
+      "limitation": "未见制造商、厂址或产地。该图尺码不同于所查页面 80B，不是当前消费批次标签；“婴儿绵”是款式名称，不能推断为纯棉。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "同页“吊牌信息”图：成分、编码前缀与 B70 规格",
+      "type": "商品标签示例图"
+    },
+    {
+      "id": "hodo-021314-suning",
+      "title": "红豆绒内衣套装：02-13/14 零售货号与男款 170/95",
+      "publisher": "苏宁易购自营商品资料",
+      "url": "https://product.suning.com/0000000000/12164234417.html",
+      "summary": "页面货号合写 02-13/14，准确商品编号对应深麻灰男款 170/95；包装为上衣、裤子各一件，产地参数写中国江苏无锡市。",
+      "limitation": "未读到可把 02-13 与 02-14 分别对应性别的标签，也未读到制造法人、厂址。产地参数不是当前批次制造证明，页面情侣总标题不代表一次购买两套；现时库存待核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号、产地和包装清单；当前商品编号对应的颜色尺码及男款主图",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "hodo-jbj307-suning",
+      "title": "红豆居家 JBJ307 男士短袖睡衣套装零售资料",
+      "publisher": "苏宁易购商品页（页面标示红豆内衣苏宁自营旗舰店）",
+      "url": "https://product.suning.com/0000000000/12359912075.html",
+      "summary": "页面货号 JBJ307，包装为短袖上衣与中裤各一件；原图展示灰蓝和浅麻灰两种配色，并附浅麻灰 170 号吊牌示例。",
+      "limitation": "当前页面为款式级资料，没有可确定的已选颜色尺码；双配色图不是两套组合装。未核地区库存、制造商或当前到货批次。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号、短袖及包装参数；同页产品信息和吊牌图",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "hodo-jbj307-label-example",
+      "title": "JBJ307 浅麻灰 170 号睡衣吊牌示例",
+      "publisher": "苏宁商品页公开详情图（红豆居家款式资料）",
+      "url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/d5lboMCW_5Ki1yVxivGIww.jpg",
+      "summary": "吊牌可读男士短袖居家服套装、浅麻灰、上装 170/92A、下装 170/78A、100% 棉及 JBJ307 编码前缀。",
+      "limitation": "这是该页面发布的样例吊牌，不是所有颜色尺码或消费者实际批次标签；未见制造法人、厂址或产地。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "“吊牌信息”图中的品名、号型、成分和编码前缀",
+      "type": "商品标签示例图"
+    },
+    {
+      "id": "changning-hosiery-2025-sampling",
+      "title": "长宁区 2025 纺织服装抽查：两款居家袜品的标称生产者",
+      "publisher": "上海市长宁区政府公开抽查附件",
+      "url": "https://www.shcn.gov.cn/col7431/20260212/1305475/63c2e1dc823847dfb0950482573b90f8.pdf",
+      "summary": "抽查表列女士船袜 5W020、22—24cm 和两条装连裤袜 3W016，标称生产者均为无锡红豆居家服饰有限公司，抽样销售者为上海百联西郊购物中心。",
+      "limitation": "两款样品商标栏为未标注。记录仅支持所列样品的标称生产关系，不证明本目录三款内衣睡衣的制造者；未找到这两款袜子的当前直接零售，且质量抽查不涉及劳动履行。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 1 页表头及第 5 页前两项",
+      "type": "政府产品质量抽查"
+    },
+    {
+      "id": "mengna-social-report-2025",
+      "title": "梦娜社会责任报告：2025 年 7 月版本，回顾 2019—2024 年",
+      "publisher": "浙江梦娜袜业股份有限公司官网",
+      "url": "http://www.mengna.com.cn/custom/107",
+      "summary": "报告明确组织范围为浙江梦娜袜业股份有限公司，时期为 2019-01-01 至 2024-12-31；列袜类品牌、劳动合同、社保、申诉、职业健康及供应商评估安排。",
+      "limitation": "官网以十张报告图片发布，封面日期只精确到月份。员工和供应商章节未披露本款袜子的实际周工时或逐周休息；历史公司自评不是当前商品生产链认证。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "第 1—2 张：日期与范围；第 3—5 张：品牌、业务与职工保护；第 7 张：供应商",
+      "type": "企业社会责任自评报告"
+    },
+    {
+      "id": "mengna-brand-center",
+      "title": "梦娜官网品牌中心",
+      "publisher": "梦娜袜业股份有限公司官网",
+      "url": "http://www.mengna.com.cn/product/type/34",
+      "summary": "官网品牌中心列梦娜、原子弹、梦露、比奇、爱国者等名称，可辅助核对品牌所属业务。",
+      "limitation": "官网没有把所查零售货号 2010473046147 对应到具体工厂；同名店铺不由此自动获得官方授权或制造商身份。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "品牌中心品牌列表",
+      "type": "企业官网"
+    },
+    {
+      "id": "mengna-score-workplace-case",
+      "title": "SCORE 在梦娜：工作场所合作与性别平等案例",
+      "publisher": "Leverage / 莱巍爵供应链（项目服务提供方）",
+      "url": "https://leveragelimited.com.cn/news/925.html",
+      "summary": "服务方记述浙江梦娜袜业参加工作场所合作和性别平等两个模块，包括耳罩使用培训、员工建议收集与管理层沟通等改进。",
+      "limitation": "正文未显示明确发布日期。培训项目和案例成果不能等同于国际劳工组织对品牌的合规背书，也未提供本款制袜班组当前考勤、周休或供应链记录。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "案例分享、项目过程及项目总结",
+      "type": "项目实施方案例"
+    },
+    {
+      "id": "mengna-2010473046147-sale",
+      "title": "梦娜女中筒袜：零售货号 2010473046147 的大陆供货资料",
+      "publisher": "Chinagoods 义乌小商品城平台（店铺：梦娜爱国者）",
+      "url": "https://www.chinagoods.com/store/goodsdetail/1859066006826893313",
+      "summary": "商品页列货号 2010473046147、产地中国、一件起批及黑色等配色报价；详情图另列鞋码 35—40 和三双装。",
+      "limitation": "零售货号不当作制造商型号。详情三双装与按件报价的对应、当前供货与配送需核实；未确认店铺授权或实际制造者，不保证库存数字。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品标题、报价与起批量；产地和货号参数；详情图",
+      "type": "零售与批发平台商品页"
+    },
+    {
+      "id": "mengna-2010473046147-product-image",
+      "title": "梦娜女中筒袜同页产品信息图",
+      "publisher": "Chinagoods 梦娜爱国者店铺详情图",
+      "url": "https://cdnimg.chinagoods.com/aimg/mt/img/ibank/O1CN01iFocsl2JJFmLiZ4W5_!!2212984289400-0-cib.jpg",
+      "summary": "原图列棉 74%、氨纶 2.1%、聚酯纤维 23.9%，适穿鞋码 35—40，规格三双装。",
+      "limitation": "这是商品说明图，未取得实物吊牌、制造法人和厂址；不能确认每件报价对应三双。主图五种配色也不代表五双组合装。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "“产品信息”图的面料、对应鞋码和规格字段",
+      "type": "零售商商品说明图"
+    },
+    {
+      "id": "semir-esg-2025-labor",
+      "title": "森马服饰 2025 可持续发展报告：外包生产与多种工时制度",
+      "publisher": "浙江森马服饰股份有限公司（公告附件）",
+      "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-3/2026-03-31/12040768.PDF",
+      "summary": "报告列森马、巴拉巴拉品牌，披露产品采用 OEM、ODM 外包生产；员工章节同时列标准制每日 8 小时、每周 40 小时及综合、不定时工时，供应商有劳工权益评估与整改机制。",
+      "limitation": "标准制不能推广至所有岗位或代工厂，外包生产不代表境外生产。未取得所选货号的制造商、实际班组工时与每周两天休息记录；公司和供应商管理披露不构成商品劳动认证。",
+      "publishedAt": "2026-03-31",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 2、8—9、39、44—45 页；图像报告按原页目视核对",
+      "type": "企业可持续发展报告"
+    },
+    {
+      "id": "semir-109326100046-jd",
+      "title": "森马 109326100046 女士短袖 T 恤：大陆类目及准确商品链接",
+      "publisher": "京东公开类目商品资料",
+      "url": "https://www.jd.com/chanpin/255012.html",
+      "summary": "所读类目商品标题明确 109326100046 女士短款 V 领半开襟短袖 T 恤，链接指向京东商品 100245131607。 同一商品卡片配图色选为本白 10102。",
+      "limitation": "类目内容可能变动；准确商品页本轮仅返回通用页面，没有取得可售结果或已选尺码，不能把类目展示当现货。制造标签和产地仍未知。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "含 109326100046 的商品标题及同一条目链接",
+      "type": "零售商类目商品资料"
+    },
+    {
+      "id": "semir-109725127001-jd",
+      "title": "森马 109725127001 女士抽绳阔腿裤商品资料",
+      "publisher": "京东公开商品资料页",
+      "url": "https://item.jd.com/product/K4iU16ddwOGEfLw2DreqVA.html",
+      "summary": "页面标题对应森马 109725127001 女士抓绒、抽绳、分割式阔腿长裤，展示报价和购买入口。",
+      "limitation": "页面提示登录查看全部信息；报价与购买按钮不能证明实时库存，也未核定已选颜色尺码。未读到对应制造法人、厂址或产地，不采用未核实的功能宣传。 本轮仅取得 114×114 的同款缩略图，未用作商品主图。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面本商品标题、报价及购买信息区域（不使用推荐商品）",
+      "type": "零售商商品资料页"
     }
   ],
   "companies": [
@@ -3787,8 +3979,8 @@
     {
       "id": "hodo",
       "name": "红豆居家",
-      "legalName": "红豆集团旗下红豆居家业务（具体生产及零售法人待逐项核对）",
-      "location": "江苏无锡等",
+      "legalName": "红豆居家品牌业务（涉及无锡红豆居家服饰有限公司、江苏红豆实业股份有限公司等主体）",
+      "location": "江苏无锡等；各款实际制衣厂待核",
       "origin": "china",
       "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
       "level": "research",
@@ -3796,40 +3988,56 @@
       "restDays": null,
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
-      "cardNote": "工时与休息资料待补",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "cardNote": "线上业务与制衣工厂分别核对",
+      "scope": "区分集团历史示范主体、居家业务原有法人、上市公司收购的线上业务资产组，以及每款实际制造和零售主体。",
+      "finding": "上市公司报告披露员工与供应商制度；居家线上资产组于 2025 年底并表，不能据此确定各居家制衣厂的实际工时与每周休息。",
       "caveats": [
-        "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "本档案尚未取得实际考勤、加班和每周休息记录。"
+        "2022 年示范称号对应红豆集团有限公司，不能自动覆盖各个制衣及外包法人。",
+        "线上业务收购与代销模式不证明三款商品由上市公司自有工厂制造。",
+        "袜品质量抽查涉及另外两个货号，不能替代内衣、文胸和睡衣标签；实际周工时与逐周休息未核。"
       ],
       "sourceIds": [
-        "hodo-brand"
+        "hodo-brand",
+        "national-harmony-2022",
+        "hodo-annual-2025-online",
+        "hodo-esg-2025-labor",
+        "changning-hosiery-2025-sampling"
       ],
       "supply": [
         {
-          "stage": "品牌与运营",
-          "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "stage": "品牌及线上经营",
+          "status": "policy",
+          "detail": "年报明确居家线上资产组的收购边界；上市公司员工制度和集团历史示范记录分别保留。",
+          "sourceIds": [
+            "hodo-annual-2025-online",
+            "hodo-esg-2025-labor",
+            "national-harmony-2022"
+          ]
         },
         {
-          "stage": "生产或门店服务",
+          "stage": "裁剪、缝制与包装",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
-          "sourceIds": []
+          "detail": "三款商品的制造商与厂址尚未取得；其他袜品的标称生产者记录不移用于这三款。",
+          "sourceIds": [
+            "changning-hosiery-2025-sampling",
+            "hodo-jbb016-suning",
+            "hodo-021314-suning",
+            "hodo-jbj307-suning"
+          ]
         },
         {
-          "stage": "原料、外包与物流",
-          "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
-          "sourceIds": []
+          "stage": "纱线、面料与外包运输",
+          "status": "policy",
+          "detail": "上市公司有供应商评审制度；本款纱线织造、外包和运输人员的实际劳动记录未对应。",
+          "sourceIds": [
+            "hodo-esg-2025-labor",
+            "hodo-annual-2025-online"
+          ]
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "按当前商品标签锁定制造法人和厂址，再核查裁剪缝制、面料及外包岗位的考勤、逐周休息、工资和社保。",
       "assessments": [
         {
           "subject": "红豆集团有限公司",
@@ -6460,6 +6668,116 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "逐款核当前制造标签和厂址；分别取得实际制造法人、供应商及外包的班组工时、休息、工资社保资料，并核集团所述审计的时间与适用范围。"
+    },
+    {
+      "id": "mengna",
+      "name": "梦娜袜业 / 梦娜",
+      "legalName": "浙江梦娜袜业股份有限公司",
+      "location": "浙江义乌；所查零售袜品实际工厂待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "制袜改善案例 · 实际工时待核",
+      "scope": "公司 2019—2024 年社会责任自评与服务方工作场所改善案例；所查平台袜品、卖家和具体制造厂分别核验。",
+      "finding": "有合同、社保、职业健康和员工沟通制度，以及耳罩使用等改善案例；未取得制袜班组每周 40 小时与每周两天休息的实际记录。",
+      "caveats": [
+        "2025 年 7 月报告回顾 2019—2024 年，不能改写为 2026 年实际履行证明。",
+        "SCORE 案例仅涉及工作场所合作和性别平等模块，不等于整个品牌获得劳动合规认证。",
+        "同名店铺、零售产地字段及商品货号不能独立确认制造商或品牌授权。"
+      ],
+      "sourceIds": [
+        "mengna-social-report-2025",
+        "mengna-brand-center",
+        "mengna-score-workplace-case"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与经营主体",
+          "status": "policy",
+          "detail": "官方报告和品牌中心可对应梦娜业务；公司自述合同、社保与申诉安排，当前实际履行待核。",
+          "sourceIds": [
+            "mengna-social-report-2025",
+            "mengna-brand-center"
+          ]
+        },
+        {
+          "stage": "织袜、缝头与包装",
+          "status": "unknown",
+          "detail": "服务方记述耳罩培训等车间改善，尚未对应本货号制造厂、班组与当前实际排班。",
+          "sourceIds": [
+            "mengna-score-workplace-case",
+            "mengna-2010473046147-sale"
+          ]
+        },
+        {
+          "stage": "纱线供应与外包物流",
+          "status": "policy",
+          "detail": "报告有供应商职业健康安全评估安排；所查袜品的纱线和外包人员证据未取得。",
+          "sourceIds": [
+            "mengna-social-report-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "确认零售每件与三双装的对应及制造标签，再核织袜、缝头、纱线和物流岗位的当前考勤、逐周休息、工资社保。"
+    },
+    {
+      "id": "semir",
+      "name": "森马服饰 / 森马、巴拉巴拉",
+      "legalName": "浙江森马服饰股份有限公司",
+      "location": "浙江温州等；具体 OEM、ODM 制衣工厂待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "标准制 40 小时 · 适用岗位待核",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "外包制衣 · 多种工时制度",
+      "scope": "2025 年上市公司及分子公司报告；自有员工、加盟门店与 OEM、ODM 制造商采用不同证据核验。",
+      "finding": "报告明确产品外包生产；标准制每周 40 小时与综合、不定时制度并列，没有各款代工班组的实际工时和每周休息记录。",
+      "caveats": [
+        "品牌运营或仓储所在地不能充当衣服制造地。",
+        "标准工时披露不证明全部岗位适用，更不能直接覆盖供应商。",
+        "供应商评估和整改机制不能替代所选货号的产线实际记录；未把外包生产写成境外生产。"
+      ],
+      "sourceIds": [
+        "semir-esg-2025-labor"
+      ],
+      "supply": [
+        {
+          "stage": "品牌、设计与运营",
+          "status": "policy",
+          "detail": "报告列标准、综合与不定时工时安排；具体适用岗位、实际加班及每周休息待核。",
+          "sourceIds": [
+            "semir-esg-2025-labor"
+          ]
+        },
+        {
+          "stage": "OEM、ODM 制衣与门店",
+          "status": "unknown",
+          "detail": "报告明确外包生产及加盟等销售模式；所查服装的制造法人、厂址和服务岗位尚未对应。",
+          "sourceIds": [
+            "semir-esg-2025-labor"
+          ]
+        },
+        {
+          "stage": "面料、辅料与外包物流",
+          "status": "policy",
+          "detail": "供应商行为准则和 ESG 评估涵盖劳工权益，并有整改、退出机制；具体供应链实际履行未核。",
+          "sourceIds": [
+            "semir-esg-2025-labor"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "先以衣服标签匹配 OEM、ODM 生产法人和厂址，再取得各班组当前考勤、逐周休息、加班工资及社保记录。"
     }
   ],
   "products": [
@@ -7938,127 +8256,161 @@
     },
     {
       "id": "hodo-thermal-underwear",
-      "name": "红豆绒发热内衣系列",
+      "name": "红豆绒圆领内衣套装（深麻灰男款 170/95）",
       "brand": "红豆居家",
       "companyId": "hodo",
       "category": "clothing",
-      "description": "秋冬打底的保暖内衣系列。",
+      "description": "秋衣、秋裤各一件的男款套装。零售货号合写 02-13/14，尚未区分单款编码；不是情侣两套装。",
       "tags": [
         "内衣",
-        "秋衣",
-        "秋裤",
-        "服装"
+        "秋衣秋裤",
+        "170/95"
       ],
-      "url": "https://www.hongdou.com/industry/jj.html",
+      "url": "https://product.suning.com/0000000000/12164234417.html",
       "relationshipSourceIds": [
+        "hodo-021314-suning",
         "hodo-brand"
       ],
-      "market": "官网系列收录；不同款式和尺码合并展示，不按颜色重复计数。",
-      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
-      "image": null,
-      "imageMode": "typography",
-      "imageSource": null,
-      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "market": "苏宁准确商品编号对应深麻灰男款 170/95，当前供货和配送仍待核。",
+      "relationship": "品牌及所选男款有零售资料；合写 02-13/14 不能拆成未经核实的制造商独立型号，生产法人未知。",
+      "image": "images/hodo-thermal-underwear.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/G70zxz0cNx1dk4LSVKEa5w.jpg_800w_800h_4e",
+      "imageRights": "红豆/红豆居家品牌、苏宁商品页图片提供方及原摄影/模特相关权利人；确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "detail": "已核深麻灰男款 170/95 与上下装各一件；没有取得当前地区库存，不根据隐藏有货或下架模板判断。",
+          "sourceIds": [
+            "hodo-021314-suning"
+          ]
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
-          "sourceIds": []
+          "detail": "零售产地参数写中国江苏无锡市，但未取得制造商、厂址及当前批次的可读标签。",
+          "sourceIds": [
+            "hodo-021314-suning"
+          ]
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
-          "sourceIds": []
+          "detail": "尚未锁定本款制造工厂；上市公司供应商管理和集团历史称号不能代替实际制衣、面料与运输岗位记录。",
+          "sourceIds": [
+            "hodo-esg-2025-labor",
+            "hodo-annual-2025-online",
+            "national-harmony-2022"
+          ]
         }
       },
-      "needs": []
+      "needs": [
+        "内衣"
+      ]
     },
     {
       "id": "hodo-homewear",
-      "name": "居家绒舒适睡衣系列",
+      "name": "JBJ307 男士短袖睡衣套装",
       "brand": "红豆居家",
       "companyId": "hodo",
       "category": "clothing",
-      "description": "居家穿着的绒面睡衣系列。",
+      "description": "短袖上衣和中裤各一件。同款图片展示灰蓝与浅麻灰两种配色，非两套组合；浅麻灰 170 号样例吊牌标注 100% 棉。",
       "tags": [
         "睡衣",
-        "家居服",
-        "服装"
+        "JBJ307",
+        "短袖套装"
       ],
-      "url": "https://www.hongdou.com/industry/jj.html",
+      "url": "https://product.suning.com/0000000000/12359912075.html",
       "relationshipSourceIds": [
+        "hodo-jbj307-suning",
+        "hodo-jbj307-label-example",
         "hodo-brand"
       ],
-      "market": "官网系列收录；不同款式和尺码合并展示，不按颜色重复计数。",
-      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
-      "image": null,
-      "imageMode": "typography",
-      "imageSource": null,
-      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "market": "大陆苏宁 JBJ307 款式页及规格图已核；当前可选颜色尺码、库存与配送待核。",
+      "relationship": "苏宁货号及公开吊牌前缀均为 JBJ307；所读吊牌为浅麻灰 170 号示例，具体销售规格与制造法人另行核对。",
+      "image": "images/hodo-homewear.webp",
+      "imageMode": "contain",
+      "imageSource": "https://uimgproxy.suning.cn/uimg1/sop/commodity/0c_bNtc7UVcnIdPfoRQtgg.jpg",
+      "imageRights": "红豆/红豆居家品牌、苏宁商品页图片提供方及原摄影/模特相关权利人；确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "detail": "已找到 JBJ307 大陆款式页和一套上下装的包装清单；当前选定颜色尺码及可售结果待核。",
+          "sourceIds": [
+            "hodo-jbj307-suning"
+          ]
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
-          "sourceIds": []
+          "detail": "样例吊牌为浅麻灰、上装 170/92A、下装 170/78A，未见制造法人、厂址或产地；不代表消费者当前批次。",
+          "sourceIds": [
+            "hodo-jbj307-label-example"
+          ]
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
-          "sourceIds": []
+          "detail": "尚未取得本款缝制厂、织造厂和外包团队的实际工时、每周两天休息及其他权益履行资料。",
+          "sourceIds": [
+            "hodo-esg-2025-labor",
+            "hodo-annual-2025-online"
+          ]
         }
       },
-      "needs": []
+      "needs": [
+        "睡衣"
+      ]
     },
     {
       "id": "hodo-bra",
-      "name": "婴儿绵柔软型文胸系列",
+      "name": "JBB016 婴儿绵无钢圈文胸（珍珠粉 80B）",
       "brand": "红豆居家",
       "companyId": "hodo",
       "category": "clothing",
-      "description": "日常穿着的贴身衣物系列。",
+      "description": "所查页面为珍珠粉 80B、文胸一件。主图是同款配色展示，不是四件装；“婴儿绵”不表示纯棉成分。",
       "tags": [
         "文胸",
-        "内衣",
-        "女装"
+        "JBB016",
+        "无钢圈"
       ],
-      "url": "https://www.hongdou.com/industry/jj.html",
+      "url": "https://product.suning.com/0000000000/12364205471.html",
       "relationshipSourceIds": [
+        "hodo-jbb016-suning",
+        "hodo-jbb016-label-example",
         "hodo-brand"
       ],
-      "market": "官网系列收录；不同款式和尺码合并展示，不按颜色重复计数。",
-      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
-      "image": null,
-      "imageMode": "typography",
-      "imageSource": null,
-      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "market": "大陆苏宁准确商品编号已核，地区库存与当前可下单状态待核。",
+      "relationship": "苏宁列红豆居家品牌和 JBB016 货号；吊牌仅为同款 B70 示例，制造及零售法人仍待逐项核对。",
+      "image": "images/hodo-bra.webp",
+      "imageMode": "contain",
+      "imageSource": "https://uimgproxy.suning.cn/uimg1/sop/commodity/fFOvgNG9ZUwq7I32L2q32A.jpg",
+      "imageRights": "红豆/红豆居家品牌、苏宁商品页图片提供方及原摄影/模特相关权利人；确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "detail": "已核大陆商品编号、珍珠粉 80B 与一件装，尚未取得有效的当前库存和地区配送结果。",
+          "sourceIds": [
+            "hodo-jbb016-suning"
+          ]
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
-          "sourceIds": []
+          "detail": "B70 样例吊牌可读成分和 JBB016 前缀，但未见制造法人、厂址或产地，且不是页面 80B 的到货标签。",
+          "sourceIds": [
+            "hodo-jbb016-label-example",
+            "hodo-jbb016-suning"
+          ]
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
-          "sourceIds": []
+          "detail": "集团示范与上市公司制度均未对应本款缝制、面料或外包岗位的实际考勤和逐周休息。",
+          "sourceIds": [
+            "hodo-esg-2025-labor",
+            "hodo-annual-2025-online",
+            "national-harmony-2022"
+          ]
         }
       },
-      "needs": []
+      "needs": [
+        "文胸"
+      ]
     },
     {
       "id": "jinjian-yuzhenxiang-rice",
@@ -10705,7 +11057,7 @@
         "youngor-yldp10265ija-sale",
         "youngor-esg-2025-labor"
       ],
-      "market": "大陆苏宁商品页可核货号与配色，但出现下架提示，当前库存和可下单状态未确认。",
+      "market": "大陆苏宁商品页可核货号与配色；隐藏模板不能判断在售或下架，当前库存及可下单状态待核。",
       "relationship": "苏宁页面列雅戈尔品牌及此货号；集团报告不直接对应该件衬衫的制造、面料和外包法人。",
       "image": "images/youngor-yldp10265ija.webp",
       "imageMode": "contain",
@@ -10714,7 +11066,7 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "确切大陆商品页已找到，但有下架提示；不能保证目前可买。",
+          "detail": "准确大陆款式页已找到，但尚未取得有效的当前库存结果；不把隐藏下架模板或通用有货弹窗当作销售状态。",
           "sourceIds": [
             "youngor-yldp10265ija-sale"
           ]
@@ -11365,6 +11717,163 @@
           ]
         }
       }
+    },
+    {
+      "id": "mengna-2010473046147-socks",
+      "name": "女士中筒袜（零售货号 2010473046147）",
+      "brand": "梦娜",
+      "companyId": "mengna",
+      "category": "clothing",
+      "description": "同页参数图列适穿鞋码 35—40、棉 74%、聚酯纤维 23.9%、氨纶 2.1%。详情写三双装，与按件报价的对应待核；五色主图非五双组合。",
+      "tags": [
+        "袜子",
+        "中筒袜",
+        "35—40 码"
+      ],
+      "needs": [
+        "袜子"
+      ],
+      "url": "https://www.chinagoods.com/store/goodsdetail/1859066006826893313",
+      "relationshipSourceIds": [
+        "mengna-2010473046147-sale",
+        "mengna-2010473046147-product-image",
+        "mengna-brand-center",
+        "mengna-social-report-2025"
+      ],
+      "market": "义乌平台公开一件起批及配色报价；销售单位、当前供货和配送范围待核。",
+      "relationship": "平台商品名写梦娜，官方资料可对应该品牌；所查 2010473046147 仅是零售货号，卖家授权与实际制造法人未核。",
+      "image": "images/mengna-2010473046147-socks.webp",
+      "imageMode": "contain",
+      "imageSource": "https://cdnimg.chinagoods.com/img/ylbm/img/ibank/O1CN01VBzYlL2JJFmUHzidA_!!2212984289400-0-cib.jpg",
+      "imageRights": "梦娜MengNa品牌、Chinagoods商家图片提供方及原摄影/图片相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已取得大陆供货页及一件起批信息；三双装与每件的对应和当前地区供货仍不明确。",
+          "sourceIds": [
+            "mengna-2010473046147-sale",
+            "mengna-2010473046147-product-image"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "页面产地字段写中国，但未取得实物吊牌中的制造法人、厂址和批次，不从梦娜店名指定制袜工厂。",
+          "sourceIds": [
+            "mengna-2010473046147-sale",
+            "mengna-2010473046147-product-image"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "公司历史自评与车间改善案例不足以证明此货号制袜及纱线、外包岗位的实际周工时和每周两天休息。",
+          "sourceIds": [
+            "mengna-social-report-2025",
+            "mengna-score-workplace-case"
+          ]
+        }
+      }
+    },
+    {
+      "id": "semir-109326100046-tshirt",
+      "name": "109326100046 女士 V 领短袖 T 恤",
+      "brand": "森马",
+      "companyId": "semir",
+      "category": "clothing",
+      "description": "具体货号对应短款 V 领、半开襟短袖上衣；图示本白 10102 配色。当前可选尺码、完整成分及制造标签待核。",
+      "tags": [
+        "T恤",
+        "109326100046",
+        "V 领"
+      ],
+      "needs": [
+        "T恤"
+      ],
+      "url": "https://item.jd.com/100245131607.html",
+      "relationshipSourceIds": [
+        "semir-109326100046-jd",
+        "semir-esg-2025-labor"
+      ],
+      "market": "京东大陆类目有准确货号与商品链接；直接详情读取仅返回通用页面，现时供货待核。",
+      "relationship": "类目标题列森马及本货号，集团报告可对应品牌；没有将品牌、卖家与实际代工厂视为同一法人。",
+      "image": "images/semir-109326100046-tshirt.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img14.360buyimg.com/n8/jfs/t1/410422/37/8575/144646/69c9d345Fc38553fb/00834b04b049a774.jpg",
+      "imageRights": "森马Semir品牌、京东页面图片提供方、原摄影及模特相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核类目同一条目的准确货号和链接，未取得该商品直接详情的有效可售信息，不保证当前可买。",
+          "sourceIds": [
+            "semir-109326100046-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "没有取得本货号制造标签或产地；中国品牌和国内经营园区不能代替中国制造证明。",
+          "sourceIds": [
+            "semir-109326100046-jd",
+            "semir-esg-2025-labor"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "产品采用外包生产，集团标准工时条款不能代替本款制衣及织造岗位实际工时、休息和其他权益记录。",
+          "sourceIds": [
+            "semir-esg-2025-labor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "semir-109725127001-trousers",
+      "name": "109725127001 女士抽绳阔腿长裤",
+      "brand": "森马",
+      "companyId": "semir",
+      "category": "clothing",
+      "description": "商品资料列抓绒面料、抽绳及分割式阔腿长裤；所选颜色尺码、完整成分和制造标签待核。",
+      "tags": [
+        "裤子",
+        "109725127001",
+        "阔腿长裤"
+      ],
+      "needs": [
+        "裤子"
+      ],
+      "url": "https://item.jd.com/product/K4iU16ddwOGEfLw2DreqVA.html",
+      "relationshipSourceIds": [
+        "semir-109725127001-jd",
+        "semir-esg-2025-labor"
+      ],
+      "market": "京东具体货号资料展示报价及购买入口，完整信息提示登录，当前库存与配送待核。",
+      "relationship": "零售商品标题对应森马品牌与准确货号；集团明确采用外包生产，本货号实际制衣法人尚未锁定。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "准确货号资料与报价已核，页面购买按钮不替代有效库存结果；当前可下单状态和所选规格待核。",
+          "sourceIds": [
+            "semir-109725127001-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "没有取得可读制造法人、厂址或产地；集团供应链制度和中国品牌归属都不构成此货号的境内制造证明。",
+          "sourceIds": [
+            "semir-109725127001-jd",
+            "semir-esg-2025-labor"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "所查报告同时列多种工时制度，本货号代工、面料和物流岗位的实际周工时、逐周休息与工资社保待核。",
+          "sourceIds": [
+            "semir-esg-2025-labor"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -11680,13 +12189,24 @@
           "query": "童装"
         }
       ],
-      "note": "已核雅戈尔衬衫具体货号，但页面有下架提示，制造厂未明。安踏马赫 5 代本次未取得确切大陆销售来源；集团供应商整改与雅戈尔多种工时制度均不能替代产线记录。T恤、裤子、内衣、文胸、睡衣、袜子、跑鞋和童装继续查。",
+      "note": "已核 JBB016 文胸、零售货号合写 02-13/14 的男款内衣、JBJ307 睡衣，以及梦娜具体零售袜品和森马两个服装货号。制造标签、供货与实际生产劳动仍待核；梦娜每件与三双装的对应未明，雅戈尔衬衫现时可售状态也待核。跑鞋和童装继续查准确商品及制造链证据。",
       "sourceIds": [
         "septwolves-hiring",
         "national-harmony-2022",
         "anta-esg-2025-labor",
         "youngor-esg-2025-labor",
-        "youngor-yldp10265ija-sale"
+        "youngor-yldp10265ija-sale",
+        "hodo-annual-2025-online",
+        "hodo-esg-2025-labor",
+        "hodo-jbb016-suning",
+        "hodo-021314-suning",
+        "hodo-jbj307-suning",
+        "mengna-social-report-2025",
+        "mengna-score-workplace-case",
+        "mengna-2010473046147-sale",
+        "semir-esg-2025-labor",
+        "semir-109326100046-jd",
+        "semir-109725127001-jd"
       ]
     },
     {
