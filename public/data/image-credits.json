@@ -5730,6 +5730,196 @@
         "sha256": "9a591fc97808328967047de028d1bc25b66615befa395bc131995d3956a3058f"
       },
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "arrow-ab1116-1-305",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/156204/22/2031/160163/5fe5a533Efb55c89f/fb74339b850004c6.jpg",
+      "source_page_url": "https://www.jd.com/jiage/9855ce354ec021587bba.html",
+      "source_type": "mainland_retail_category_exact_card",
+      "width": 220,
+      "height": 220,
+      "bytes": 5676,
+      "sha256": "b0328816df95362e218ac11ce59ce71883185b7c62162b14ab6b545cd65ca290",
+      "image_role": "catalog_main_exact_retail_card_low_resolution",
+      "product_name": "箭牌 AB1116-1 坐便器 305/300mm坑距",
+      "model": "AB1116-1",
+      "specification": "305/300mm坑距；坑距依据准确京东商品卡片，图片不能独立量出坑距",
+      "image_description": "准确京东SKU卡片实际引用的白色坐便器室内外观展示图，220×220。",
+      "matching_limitations": [
+        "型号及305/300mm坑距来自同一准确卡片，非从其他AB1116类商品或页面筛选器推断。",
+        "图片上未见可读型号铭牌，视觉只能核对坐便器外观，不能独立证明坑距。",
+        "箭牌官网正文与参数表明确AB1116-1；其实际引用图片请求返回403，已停止该图片资源，没有变更请求条件或绕过。",
+        "未使用AB1116、AB1116-1L或AB1116UE的卡片、照片或标签；原图仅220×220，未猜测大图URL。",
+        "图为商品外观展示，未声称是当前发货批次实拍。"
+      ],
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "reuse_info": {
+        "rights_holder": "箭牌及商品图相关权利人；京东公开展示，具体图片著作权主体未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "supporting_images": [],
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 13936,
+        "sha256": "9c40e2ec25e99f129f3eb91261a1cb2a9ada0785f55275b45fb39a8cd3def010"
+      },
+      "filename": "images/arrow-ab1116-1-305.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "carpoly-g101-20kg",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/ulINDGpkSsy5b1N2lzWv2Q.jpg_800w_800h_4e",
+      "source_page_url": "https://product.suning.com/0000000000/11336738113.html",
+      "source_type": "mainland_direct_retail_product_page",
+      "width": 800,
+      "height": 800,
+      "bytes": 45010,
+      "sha256": "100b10006ddf9271483fb6f950eb0b2faabec908d3aa1f54d6f62d83fd2842bd",
+      "image_role": "catalog_main_single_bucket_capacity_from_page",
+      "product_name": "嘉宝莉 G101 内墙乳胶漆（白色面漆 20kg）",
+      "model": "G101",
+      "specification": "零售参数：重量20千克，容量15升；包装清单G101墙面漆×1；未把重量字段转录成桶身净含量",
+      "image_description": "该准确苏宁页第6张商品图：单只G101桶，白背景，无赠品或多桶套装。",
+      "matching_limitations": [
+        "实际图片与官网记录可确认G101内墙乳胶漆；未在所读包装或这份官网记录中见完整“亮白超惠净味二合一”名称，不把该长名称写成已核包装文字。",
+        "20kg/15L来自零售规格；桶身图片没有可读净含量，官网通用图同时覆盖20kg与25kg，因此保留容量证据来源。",
+        "选用单桶第6图，未使用60kg套装图，也不把第1张图中的“送”滚筒宣传当作当前赠品承诺。",
+        "同样不按品牌、店名、官网地址推断生产法人或生产地址。"
+      ],
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "reuse_info": {
+        "rights_holder": "嘉宝莉及商品图相关权利人；苏宁公开展示，具体图片著作权主体未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "supporting_images": [],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 139962,
+        "sha256": "7df565f91d33b00576ebd9c42908cc712fd56b36a423f8ad0062c1ce334c405c"
+      },
+      "filename": "images/carpoly-g101-20kg.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "powerdekor-gt0217",
+      "image_url": "https://www.powerdekor.com.cn/upload/jpg/202407/GT0217%20%E6%9E%AB%E6%9E%97%E5%90%AC%E9%9B%A81_resized_docsmall.comF3E11FF4003D4248995C4820929E12F1.jpg",
+      "source_page_url": "https://www.powerdekor.com.cn/44/45",
+      "source_type": "brand_official_product_page",
+      "width": 900,
+      "height": 480,
+      "bytes": 36458,
+      "sha256": "c3d998fd69cab54b4cd29e5c0af8ae31cfaf5569a674a8058f44dba1b408e83d",
+      "image_role": "catalog_main_official_flooring_room_visualization",
+      "product_name": "圣象 GT0217 枫林听雨地板",
+      "model": "GT0217",
+      "specification": "1214×200×10mm（官网正文与参数图一致）",
+      "image_description": "GT0217官网详情页的原始室内铺装效果图。用来展示该花色铺装外观，不是单块地板包装照，也不承诺为现场实拍。",
+      "matching_limitations": [
+        "官网正文型号和原始参数图都写GT0217，规格1214*200*10mm；未使用GT2017或下一个商品AL2001素材。",
+        "主图为官网室内铺装效果展示；未声称实物批次、照片拍摄地、实测尺寸或制作方式。",
+        "“枫林听雨”仅作为花色/商品名称，不由名称推断木材树种或原料产地。",
+        "没有使用第三方晒单图，也未生成、合成、改造或裁切官方图。"
+      ],
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "reuse_info": {
+        "rights_holder": "圣象集团有限公司及图像相关权利人",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "supporting_images": [
+        {
+          "id": "powerdekor-gt0217",
+          "image_url": "https://www.powerdekor.com.cn/upload/jpg/202407/DC90916B7E1E4DF8862382CE26EB1CDA.jpg",
+          "source_page_url": "https://www.powerdekor.com.cn/44/45",
+          "width": 750,
+          "height": 2261,
+          "sha256": "20b6d3642322c7dca3d8b32c4a12f73823804f053a2abbcfe48594094849d6de",
+          "image_role": "official_product_parameter_graphic",
+          "matching_limitations": [
+            "图为官网原始场景/纹理/参数组合图，未由本代理拼合或裁切。",
+            "没有制造法人/厂址或生产地包装字段，参数图不能替代消费者板材背印。",
+            "只认GT0217；没有把GT2017编号的近似销售资料并入。"
+          ]
+        }
+      ],
+      "source_image_metadata": {
+        "width": 3200,
+        "height": 1708,
+        "bytes": 1322667,
+        "sha256": "03e1d58cbcff540bf8e9c23c6d8296bdc90b6a3e67f110ec77bf314ccb8a97f3"
+      },
+      "filename": "images/powerdekor-gt0217.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "arrow-ae3498cp",
+      "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/Kd48zHS45Yvue9GWGih92A.jpg",
+      "source_page_url": "https://product.suning.com/0000000000/12209269136.html",
+      "source_type": "mainland_retail_direct_product_page",
+      "width": 626,
+      "height": 800,
+      "bytes": 39502,
+      "sha256": "6930fc59b0fdad25c3266a549f09368ecc7d8212c70f5c32a7491f72c40bc4b9",
+      "image_role": "catalog_main_exact_model_component_set_photo",
+      "product_name": "箭牌 AE3498CP 镀铬色淋浴套装",
+      "model": "AE3498CP",
+      "specification": "镀铬色；方顶喷、长方形手持花洒、喷枪及置物架配置，以同组明确型号参数图对应。",
+      "image_description": "同页AE3498CP详情组的原始产品全家福，展示淋浴管、方顶喷、长方形手持、喷枪、置物架等组件；保留原图全部文字和编号。",
+      "matching_limitations": [
+        "主图本身无可读型号，其配置通过同页明确印有AE3498CP/镀铬的参数线图核对。",
+        "排除页面首张圆顶喷/圆形手持图；该圆形配置没有被当作本型号主图。",
+        "页面HTML款式链接出现其他SKU11573578962；不据此判断当前已选变体、库存、售价或实际发货，选图依据同页明确型号的详情参数组。",
+        "标签只保留右侧AE3498CP生产者角色，未将左侧AE3498MCP信息、工厂或制造地址迁移过来。",
+        "商品全家福为页面原始照片，无裁切、合成、移除标注或变更字节。"
+      ],
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "reuse_info": {
+        "rights_holder": "箭牌及商品图相关权利人；苏宁公开展示，具体图片著作权主体未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "supporting_images": [
+        {
+          "id": "arrow-ae3498cp",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/81SO2mUtsGzUG95pmO3MsQ.jpg",
+          "source_page_url": "https://product.suning.com/0000000000/12209269136.html",
+          "width": 750,
+          "height": 1787,
+          "sha256": "53a0a61c8ffb2a3c0d193aa66072c12e02d2bbb7f6fb8322780237b0c7100cfa",
+          "image_role": "retail_exact_model_parameter_and_configuration_graphic",
+          "matching_limitations": [
+            "参数图明确型号AE3498CP/镀铬；上方线图为270×180mm方形顶喷、长方形手持花洒并配喷枪。",
+            "参数图与同组产品全家福的方顶喷、长方形手持、喷枪、置物架配置相符。",
+            "没有制造工厂或厂址字段；参数不是消费者实物铭牌。"
+          ]
+        },
+        {
+          "id": "arrow-ae3498cp",
+          "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/6MLyoC_4Gwk1Y9JCZMnXoQ.jpg_800w_800h_4e",
+          "source_page_url": "https://product.suning.com/0000000000/12209269136.html",
+          "width": 800,
+          "height": 800,
+          "sha256": "75552243faf2afd310af52f8d9aef2b19872f46bd11705715719a6aedc74b9ee",
+          "image_role": "retail_water_efficiency_label_graphic_right_model_only",
+          "matching_limitations": [
+            "整图未裁切；左栏规格型号AE3498MCP、水效3级/9.0L/min属于另一型号，绝不并入AE3498CP。",
+            "二维码未扫描，不以二维码或图中文字主张当前认证状态、实际工厂、地址或消费者批次。",
+            "这是零售商展示的水效标签示意图，不是到货实物背标照片。"
+          ]
+        }
+      ],
+      "source_image_metadata": {
+        "width": 750,
+        "height": 959,
+        "bytes": 140237,
+        "sha256": "5e38e57bf69fc3fbb0ada44e07cf676b1cc0b3dc0aeb08346f462dbf7e045b07"
+      },
+      "filename": "images/arrow-ae3498cp.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

@@ -60,7 +60,7 @@
     {
       "id": "housing",
       "name": "住房家装",
-      "description": "具体住房项目、建筑施工、装修及建材"
+      "description": "具体住房项目、装修建材、坐便器、花洒与水龙头"
     },
     {
       "id": "dining",
@@ -3114,6 +3114,306 @@
       "checkedAt": "2026-09-12",
       "locator": "页面题名及底部 G27H2Max 报价区域；排除混合评论和推荐商品",
       "type": "零售商商品页"
+    },
+    {
+      "id": "arrow-brand-intro",
+      "title": "箭牌官方品牌简介：品牌与集团关系",
+      "publisher": "箭牌家居集团股份有限公司",
+      "url": "https://www.arrow-home.cn/col46/index",
+      "summary": "官网介绍 ARROW 箭牌于 1994 年创建于广东佛山，属于箭牌家居集团，业务包括卫浴与瓷砖。",
+      "limitation": "集团生产基地介绍不对应每一件商品；品牌创立地不能证明当前商品的制造地、生产法人或工人国籍。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "品牌简介首段",
+      "type": "企业官网"
+    },
+    {
+      "id": "arrow-esg-2025",
+      "title": "箭牌家居 2025 ESG：雇佣形式、社保覆盖与供应商范围",
+      "publisher": "箭牌家居集团股份有限公司 / 新浪财经公告",
+      "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-4/2026-04-29/12247597.PDF",
+      "summary": "第 40 页区分劳动合同、实习协议和退休返聘劳务协议；养老、医疗、工伤、生育、失业保险覆盖率分别为 99.0%、98.9%、99.7%、98.9%、99.0%，公积金为 98.4%。报告说明新入职、退休返聘、其他单位缴纳及实习生等情况；第 54 页介绍供应商管理。",
+      "limitation": "比例不是全员均已独立验证合规的结论；说明亦未逐人复核。报告没有所选商品制造班组的实际周工时和逐周休息记录。供应商承诺或现场评审不替代本款生产劳动证据。",
+      "publishedAt": "2026-04-29",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 40—41、54 页，已核对原页",
+      "type": "企业 ESG 报告"
+    },
+    {
+      "id": "arrow-lehua-hiring-2022",
+      "title": "景德镇乐华 2022 招聘：法人、厂址与品牌关系",
+      "publisher": "景德镇学院经济管理学院（招聘活动资料）",
+      "url": "https://jgxy.jdzu.edu.cn/info/1047/19274.htm",
+      "summary": "景德镇乐华陶瓷洁具有限公司段落介绍其与箭牌集团的全资子公司关系，厂址在浮梁县陶瓷工业园三龙路 003 号；工艺、设备、生产等岗位列五险一金。",
+      "limitation": "2022 年招聘没有该公司的每周工时与休息天数。页面汇集多个雇主，其他企业的六天八小时或双休不能移用于乐华；也不是当前考勤。",
+      "publishedAt": "2022-06-16",
+      "checkedAt": "2026-09-12",
+      "locator": "景德镇乐华陶瓷洁具有限公司独立段落，止于下一家雇主",
+      "type": "高校发布的企业招聘"
+    },
+    {
+      "id": "building-green-directory-2024nov",
+      "title": "绿色建材目录：AB1116-1 与景德镇乐华的生产对应",
+      "publisher": "中国建筑材料联合会（汇集认证目录）",
+      "url": "https://www.cbmf.org/upload/resources/file/2025/08/15/32205.pdf",
+      "summary": "2024 年 11 月版目录第 35 页第 755 项将 AB1116-1 连体坐便器列于景德镇乐华，认证委托人、制造商、生产企业三栏为同一法人，发证机构为中国国检测试控股集团。",
+      "limitation": "绿色建材记录不是劳动认证；目录未单列 305mm 坑距、当前供货批次或证书现时状态。AB1116-1L、AB1116-1M 等其他后缀另有生产记录，不能混用。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 35 页第 755 项及表头，已核对原页",
+      "type": "行业组织公布的认证目录"
+    },
+    {
+      "id": "arrow-ab1116-1-official",
+      "title": "箭牌 AB1116-1 官方型号资料",
+      "publisher": "箭牌家居集团股份有限公司",
+      "url": "https://www.arrow-home.cn/col198/1786",
+      "summary": "官网坐便器产品页明确列 AB1116-1 型号，并提供官方渠道导航。",
+      "limitation": "页面未单列坑距和当前库存；型号与 AB1116、AB1116-1L、AB1116UE 不可互换。官方展示不证明当前批次制造与劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "产品型号 AB1116-1 与规格参数",
+      "type": "企业官网"
+    },
+    {
+      "id": "arrow-ab1116-1-305-jd",
+      "title": "AB1116-1 305/300mm：京东准确规格卡片",
+      "publisher": "京东公开分类商品资料",
+      "url": "https://www.jd.com/jiage/9855ce354ec021587bba.html",
+      "summary": "准确卡片列 AB1116-1、305/300mm 坑距，指向商品货号 10025744128494，与 400mm 和其他后缀分别展示。",
+      "limitation": "卡片可对应型号及销售规格，但没有当前地区库存、供货批次与完整销售法人信息。缩略图仅作外观参考，不作为制造铭牌。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "AB1116-1 305/300mm 卡片，货号 10025744128494",
+      "type": "零售商分类商品资料"
+    },
+    {
+      "id": "arrow-ae3498cp-suning",
+      "title": "箭牌 AE3498CP 镀铬色淋浴套装资料",
+      "publisher": "苏宁易购 / 箭牌五金苏宁自营旗舰店",
+      "url": "https://product.suning.com/0000000000/12209269136.html",
+      "summary": "商品题名和参数列 AE3498CP 镀铬色、150mm 安装孔距；准确型号参数图为长方形顶喷、长方形手持及喷枪配置，已据此核对整套组件图。零售产地参数为广东佛山。",
+      "limitation": "同页混有其他圆形外观与款式链接，未将它们当作所选变体。参数图列铜、不锈钢、PVC 和 ABS 部件，不作整套全铜保证。标签标示的生产者与实际制造工厂分别记录；当前库存及供货批次待核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品参数、准确型号配置图与整套组件图；未将隐藏库存模板当作可售证据",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "arrow-ae4141m-suning",
+      "title": "箭牌 AE4141M 亮银单孔龙头：混排型号待核",
+      "publisher": "苏宁易购 / 箭牌厨卫苏宁自营旗舰店",
+      "url": "https://product.suning.com/0000000000/12433476687.html",
+      "summary": "参数型号为 AE4141M，单孔、固定式，总高 164mm，单件包装。详情对照图将 AE4141M 标为亮银，首图哑黑外观在另一对照图中标为 AE4131MA。",
+      "limitation": "首图不用于 AE4141M；题名的单冷、冷热与参数单把双控仍需对应现供配置。同页进口陶瓷阀芯宣传未绑定准确型号，不据此判断本款部件产地。零售广东佛山产地参数尚无实际制造标签支持。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "主体参数及两张完整型号对照图；题名、首图与所选变体差异分别保留",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "marcopolo-annual-2025",
+      "title": "马可波罗 2025 年报：员工权益与境内外生产主体",
+      "publisher": "马可波罗控股股份有限公司 / 巨潮资讯",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225226366.PDF",
+      "summary": "第 55 页自述劳动合同、五险一金、职业健康及职工沟通；第 212 页将广东家美列为清远生产销售子公司，也列美国的 Wonder Porcelain Group, LLC 为生产销售主体。",
+      "limitation": "企业制度自述不是工厂实际考勤。集团拥有境内外多家生产企业，不能只凭中国品牌或家美的历史称号认定所选瓷砖由该厂在中国生产。",
+      "publishedAt": "2026-04-29",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 46—48、55、212 页；印刷第 45—47、54、211 页，关键原页已核",
+      "type": "交易所披露的企业年报"
+    },
+    {
+      "id": "marcopolo-walun-official",
+      "title": "瓦伦石：CZ8742AS 的官方规格与纹理资料",
+      "publisher": "马可波罗官方产品目录",
+      "url": "https://www.marcopolo.com.cn/catalogue/wa-lun-shi_2040",
+      "summary": "公开产品资料 id 2040 将瓦伦石列为抛釉砖；800×800mm 纹理图说明共同列出 CZ8742AS 与 CH8742AS，另有其他尺寸的不同货号。",
+      "limitation": "采用页面调用的公开产品资料核对，未执行网站脚本。共用纹理图不证明两货号完全相同，也不是实物制造标签；厂家、批次与现时库存仍缺。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "产品资料 id 2040 的 element_image 8592—8597 说明；公开产品详情资料",
+      "type": "企业官网"
+    },
+    {
+      "id": "marcopolo-walun-jd-deposit",
+      "title": "瓦伦石 800×800mm：京东官方店的预约定金",
+      "publisher": "马可波罗京东官方旗舰店",
+      "url": "https://marcopolo.jd.com/view_search-661114-6082791-5-1-24-1.html",
+      "summary": "官网链接的京东店列瓦伦石 800×800mm，货号 10069580198674；题名明确为预约到店定金、非实物。",
+      "limitation": "这不是整块瓷砖的购买价或现货证明，亦没有单列 CZ8742AS。不能把定金、系列资料或到店优惠转写为准确货号已可交付。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "瓦伦石 800×800mm 卡片及非实物定金说明",
+      "type": "品牌零售店商品资料"
+    },
+    {
+      "id": "carpoly-guangdong-labor-2022",
+      "title": "广东嘉宝莉科技材料：2022 年劳动保障守法评价线索",
+      "publisher": "江门市蓬江区人力资源和社会保障局",
+      "url": "https://www.pjq.gov.cn/attachment/0/268/268891/2871465.pdf",
+      "summary": "2022 年度 A 级名单的公开文本第 214 项列广东嘉宝莉科技材料有限公司，所属杜阮镇。",
+      "limitation": "已读取公开文本，原 PDF 下载受限，未完成原页复核。保留为历史评价线索，不作为当前独立验证，也不能覆盖集团其他法人或实际生产班组。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "2022 年 A 级名单公开文本，第 6 页第 214 项；原页复核待补",
+      "type": "政府评价名单公开文本"
+    },
+    {
+      "id": "carpoly-guangdong-rename-2025",
+      "title": "广东嘉宝莉科技材料与北新嘉宝莉广东的更名关系",
+      "publisher": "广东省科学技术厅",
+      "url": "https://gdstc.gd.gov.cn/zwgk_n/tzgg/content/post_4693485.html",
+      "summary": "2025 年第一批高新技术企业更名公告的附件公开文本第 82 项，将广东嘉宝莉科技材料有限公司对应为北新嘉宝莉涂料（广东）有限公司。",
+      "limitation": "公告正文已读取，更名明细读取附件公开索引，附件原页下载未成功。更名不更新历史劳动评价年份，高新技术资格亦不证明劳动条件。",
+      "publishedAt": "2025-04-08",
+      "checkedAt": "2026-09-12",
+      "locator": "公告附件第 5 页第 82 项公开文本；公告发布于 4 月 8 日，落款 4 月 2 日",
+      "type": "政府更名公告"
+    },
+    {
+      "id": "pengjiang-labor-2025-announcement",
+      "title": "蓬江区 2025 年劳动守法评价公告：附件待查",
+      "publisher": "江门市蓬江区人力资源和社会保障局",
+      "url": "https://www.pjq.gov.cn/jmpjqrsj/gkmlpt/content/3/3497/post_3497588.html?jump=true",
+      "summary": "2026 年 5 月发布 2025 年度劳动保障守法诚信评价结果公告，评价年度与发布日期分别保留。",
+      "limitation": "企业等级明细的 XLSX 附件无法读取，尚未核实嘉宝莉是否在本年度名单及其等级；不将全区公告推断为某企业获评。",
+      "publishedAt": "2026-05-28",
+      "checkedAt": "2026-09-12",
+      "locator": "公告正文与所附评价结果表；附件未读",
+      "type": "政府公告"
+    },
+    {
+      "id": "carpoly-g101-official",
+      "title": "嘉宝莉官方 G101 内墙乳胶漆产品资料",
+      "publisher": "嘉宝莉官方网站",
+      "url": "https://www.carpoly.com/furnish/product/detail?id=1143",
+      "summary": "官网公开产品资料 id 1143 题名为 G101 内墙乳胶漆，重量字段同时列 20kg、25kg；主图可读 G101 内墙乳胶漆，但桶身没有可读净含量。",
+      "limitation": "系列资料不能独立锁定 20kg 零售批次。官网包装长名称与 2024 抽查样品名称并非同一写法；未确认配方及包装更新关系。客服电话服务时间不作为工厂工时。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公开产品资料 id 1143 的题名、适用范围和主图；未执行站点脚本",
+      "type": "企业官网"
+    },
+    {
+      "id": "carpoly-g101-20kg-suning",
+      "title": "嘉宝莉 G101 白色面漆 20kg：单桶零售资料",
+      "publisher": "苏宁易购 / 嘉宝莉苏宁自营店",
+      "url": "https://product.suning.com/0000000000/11336738113.html",
+      "summary": "题名列 G101，参数为白色内墙面漆、20 千克，包装清单为 G101 墙面漆一件；零售产地为广东江门，同页也有 60kg 套装选项。",
+      "limitation": "本条为白色 20kg 单桶，重量来自零售参数；第 6 张单桶图只独立读到 G101 内墙乳胶漆，未读到净含量或历史长名称。现时库存、批次及销售法人待核，未使用隐藏下架、有货或活动模板认定库存。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "白色选项、20 千克重量、包装清单与第 6 张单桶图",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "carpoly-g101-hainan-2024",
+      "title": "海南 2024 抽查：G101 20kg 历史生产法人",
+      "publisher": "海南省市场监督管理局",
+      "url": "https://amr.hainan.gov.cn/zjfwcs/zlcc/202412/t20241212_3784419.html",
+      "summary": "第 8 项列 G101 亮白超惠净味二合一墙面漆、内墙面漆 20KG、2024-04-13 生产；被检主体为保亭保城嘉宝莉涂料店，标称生产企业为广东嘉宝莉科技材料有限公司。",
+      "limitation": "这是历史抽查样品及标称生产者，产品质量检验不证明劳动合规。当前 G101 零售包装、配方、制造批次与原料仍须重新对应。",
+      "publishedAt": "2024-12-12",
+      "checkedAt": "2026-09-12",
+      "locator": "结果表第 8 项，已读取政府原文表格",
+      "type": "政府产品抽查"
+    },
+    {
+      "id": "powerdekor-annual-2025",
+      "title": "大亚圣象 2025 年报：员工范围、权益与劳动纠纷披露",
+      "publisher": "大亚圣象家居股份有限公司 / 新浪财经公告",
+      "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-3/2026-03-31/12040860.PDF",
+      "summary": "第 35 页列员工与薪酬管理，第 39 页自述劳动合同及员工权益。第 118 页披露南京圣象家居有限公司因劳动合同纠纷冻结存款 62.5 万元；第 154 页将该主体列为地板等销售公司。",
+      "limitation": "报告未给出 GT0217 制造班组的实际周工时与休息。冻结披露不等于最终裁判或全集团违法，南京销售法人也不能当作所选地板生产厂。劳务外包不适用不证明没有外协、安装或其他雇主。",
+      "publishedAt": "2026-03-31",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF/印刷第 35、39、118、154 页；关键原页已核",
+      "type": "企业年度报告"
+    },
+    {
+      "id": "powerdekor-gt0217-official",
+      "title": "圣象 GT0217 枫林听雨的准确规格",
+      "publisher": "圣象集团有限公司",
+      "url": "https://www.powerdekor.com.cn/44/45",
+      "summary": "官网产品题名为 GT0217 枫林听雨，尺寸 1214×200×10mm，属于田园系列地板；详情图亦列同一规格。",
+      "limitation": "官网为产品展示，没有可核验的当前实物库存、制造标签或生产批次。款式名和木纹图不证明木材原产地。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "GT0217 标题、尺寸规格和详情图",
+      "type": "企业官网"
+    },
+    {
+      "id": "powerdekor-gt0217-guizhou-2024",
+      "title": "贵州 2024 抽查公开索引：GT0217 生产线索",
+      "publisher": "贵州省市场监督管理局",
+      "url": "https://amr.guizhou.gov.cn/zwgk/xxgkml/zdlyxx/zljd/202503/P020251222598946531120.pdf",
+      "summary": "浸渍纸层压木质地板表第 10 项公开文本列圣象 GT0217、1214×200×10mm、2023-10-15 批次；标称生产企业/上级供货商栏为圣象实业（江苏）有限公司，地址为丹阳开发区大亚木业园区。",
+      "limitation": "仅核到政府附件公开索引，原文件当前不可读取，原页及栏位角色待复核。该栏兼列生产企业与上级供货商，不能直接确认为制造厂，更不证明当前批次、木料原产地或劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "2024 年抽查附件的浸渍纸层压木质地板表第 10 项公开索引",
+      "type": "政府抽查附件公开文本"
+    },
+    {
+      "id": "powerdekor-gt2017-jd-mismatch",
+      "title": "枫林听雨零售货号差异：GT2017 不作 GT0217 证明",
+      "publisher": "京东公开分类商品资料",
+      "url": "https://www.jd.com/brand/9855599c648be52860e1.html",
+      "summary": "枫林听雨卡片列 1214×200×10mm，但货号文字是 GT2017，指向京东货号 10151616260431。",
+      "limitation": "与官网 GT0217 编号不同，虽然款式名和尺寸相同，也未擅自视为错别字或同款，不作为 GT0217 当前可售证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "枫林听雨 GT2017 卡片，货号 10151616260431",
+      "type": "零售商分类资料差异"
+    },
+    {
+      "id": "arrow-ae3498cp-configuration",
+      "title": "AE3498CP 镀铬色：准确型号的配置参数图",
+      "publisher": "苏宁易购商品详情（箭牌产品参数图）",
+      "url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/81SO2mUtsGzUG95pmO3MsQ.jpg",
+      "summary": "参数图明确 AE3498CP / 镀铬，配长方形顶喷、长方形手持花洒和喷枪；主体材质标铜，淋浴杆为不锈钢，软管为 PVC，顶喷、手持和花洒座为 ABS。",
+      "limitation": "这是零售页面展示的型号参数，不是消费者到货标签；不证明当前供货配置、制造厂或材料原产地。同页其他圆形顶喷图未用作本款主图。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "完整参数图的型号、主要材质栏及上方线图；已逐图核对",
+      "type": "零售商型号参数图"
+    },
+    {
+      "id": "arrow-ae3498cp-water-label",
+      "title": "AE3498CP 水效标签：标示的生产者角色",
+      "publisher": "苏宁易购商品详情（中国水效标识展示图）",
+      "url": "https://imgservice.suning.cn/uimg1/b2c/image/6MLyoC_4Gwk1Y9JCZMnXoQ.jpg_800w_800h_4e",
+      "summary": "整图右栏为 AE3498CP，生产者名称是箭牌家居集团股份有限公司；右栏另标 2 级、6.0 L/min。",
+      "limitation": "仅转录零售商展示图右栏，未独立核认证现状。左栏 AE3498MCP 是其他型号；标示生产者不等于已找到实际制造工厂、生产地址或当前批次，更不证明劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "完整双栏标签右栏；左栏不适用于本款，原图已核",
+      "type": "零售商展示的产品标签"
+    },
+    {
+      "id": "arrow-ae4141m-silver-parameters",
+      "title": "AE4141M 亮银：准确型号与外观参数",
+      "publisher": "苏宁易购商品详情（箭牌型号对照图）",
+      "url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/n1zEI1U5nPyNPDhuANHP8A.jpg",
+      "summary": "完整参数图左栏明确 AE4141M、亮银，标示总高 164mm、出水高度 108mm、安装孔径 35—40mm；右栏是另一型号 AE41108MSS。",
+      "limitation": "仅左栏对应本款，尺寸为商家标示，未独立实测。同页首图为另一哑黑外观，不能把多型号混排页当作准确现供变体或生产标签；主图暂留空。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "完整双栏参数图左栏 AE4141M；原图已核",
+      "type": "零售商型号参数图"
+    },
+    {
+      "id": "arrow-ae4131ma-black-exclusion",
+      "title": "龙头首图排除依据：哑黑款标为 AE4131MA",
+      "publisher": "苏宁易购商品详情（其他型号对照图）",
+      "url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/DTO1GFEE8jmzJZbRp3i7zQ.jpg",
+      "summary": "四款对照图右上将与商品首图相同的哑黑外观标为 AE4131MA，尺寸 155 / 166 / 110mm，区别于 AE4141M 亮银参数。",
+      "limitation": "本图只用于排除错配，不作为 AE4141M 图片、尺寸、产地或在售证据。多个型号共用的销售页面仍需核实所选变体。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "完整四款对照图右上 AE4131MA；已对照同页哑黑首图",
+      "type": "零售商其他型号排除证据"
     }
   ],
   "companies": [
@@ -7249,6 +7549,268 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "先核 G27H2Max 当前整机铭牌和面板供应链，再分别核查真实生产法人、班组与时期；不沿用未对应的滁州或郑州安排。"
+    },
+    {
+      "id": "arrow",
+      "name": "箭牌",
+      "legalName": "箭牌家居集团股份有限公司",
+      "location": "广东佛山；坐便器有江西景德镇生产线索",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "子公司有历史劳动记录 · 实际生产劳动待核",
+      "scope": "集团 2025 ESG 与景德镇乐华的 2022 年劳动关系称号、招聘分别记录；五金制造不能沿用陶瓷厂证据。",
+      "finding": "景德镇乐华有历史劳动关系示范记录，并在认证目录中对应 AB1116-1。集团报告的社保公积金覆盖率并非全部 100%，亦无所选三款生产班组的实际周工时和每周两天休息证据。",
+      "caveats": [
+        "示范称号对象是景德镇乐华陶瓷洁具有限公司，年份为 2022 年；不覆盖集团其他制造、加盟和外包法人。",
+        "报告区分正式劳动合同、实习协议和退休返聘劳务协议，不能一概写为所有人员同一种劳动合同。",
+        "报告对未达 100% 的覆盖率作了人员情况说明；本站未逐人核实，不据此直接作合法或违法认定。",
+        "AB1116-1 的历史制造记录不自动覆盖花洒、龙头和当前坑距批次；安装人员与原料岗位另核。"
+      ],
+      "sourceIds": [
+        "arrow-brand-intro",
+        "arrow-esg-2025",
+        "arrow-lehua-hiring-2022",
+        "national-harmony-2022",
+        "building-green-directory-2024nov",
+        "arrow-ae3498cp-water-label"
+      ],
+      "supply": [
+        {
+          "stage": "集团及品牌运营",
+          "status": "unknown",
+          "detail": "2025 ESG 介绍员工权益与覆盖率，未核实际工时、休息和每个人员的履行情况。",
+          "sourceIds": [
+            "arrow-esg-2025"
+          ]
+        },
+        {
+          "stage": "坐便器陶瓷生产",
+          "status": "unknown",
+          "detail": "AB1116-1 历史目录对应景德镇乐华；305mm 当前批次、考勤和工资社保仍待核。",
+          "sourceIds": [
+            "building-green-directory-2024nov",
+            "arrow-lehua-hiring-2022",
+            "national-harmony-2022"
+          ]
+        },
+        {
+          "stage": "五金部件、原料及安装",
+          "status": "unknown",
+          "detail": "AE3498CP 展示标签标示集团为生产者，但实际五金制造厂仍待核；AE4141M 同页存在型号错配。两款均不能套用景德镇陶瓷厂劳动记录，原料、外包及安装雇主另核。",
+          "sourceIds": [
+            "arrow-ae3498cp-suning",
+            "arrow-ae4141m-suning",
+            "arrow-esg-2025",
+            "arrow-ae3498cp-water-label",
+            "arrow-ae4141m-silver-parameters"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "核查三款现供批次的制造标签，逐一对应陶瓷、五金、部件及安装雇主，再核实际工时、逐周休息与工资社保。",
+      "assessments": [
+        {
+          "subject": "景德镇乐华陶瓷洁具有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅适用于命名文件中的该法人和年份，不等于当前三款商品或全集团劳动认证。"
+        }
+      ]
+    },
+    {
+      "id": "marcopolo",
+      "name": "马可波罗瓷砖",
+      "legalName": "马可波罗控股股份有限公司",
+      "location": "广东东莞；清远等境内基地及境外生产主体分别核查",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "家美有历史称号 · 瓷砖批次与劳动待核",
+      "scope": "上市公司 2025 年报及广东家美陶瓷有限公司 2022 年历史称号；瓦伦石具体生产批次尚未对应。",
+      "finding": "集团自述合同、五险一金和职业健康管理；广东家美有 2022 年劳动关系示范记录。尚无 CZ8742AS 的制造标签与实际劳动记录，且集团存在境外生产主体。",
+      "caveats": [
+        "全国示范称号只列广东家美陶瓷有限公司，不能扩展到品牌全系列、其他厂或施工安装团队。",
+        "集团年度权益说明未披露本款烧制、加工、包装班组实际周工时和逐周休息。",
+        "官方零售所查页面是到店预约定金、非实物；不能据此宣称本款已可下单交付。",
+        "家美 2024 社会责任页面的报告图片无法读取，没有将未读内容当作证据。"
+      ],
+      "sourceIds": [
+        "marcopolo-annual-2025",
+        "marcopolo-walun-official",
+        "national-harmony-2022"
+      ],
+      "supply": [
+        {
+          "stage": "品牌及公司员工",
+          "status": "unknown",
+          "detail": "年报自述劳动合同、五险一金与职业健康；实际履行待核。",
+          "sourceIds": [
+            "marcopolo-annual-2025"
+          ]
+        },
+        {
+          "stage": "瓷砖烧制与加工",
+          "status": "unknown",
+          "detail": "年报列清远家美等境内厂及美国生产主体；未将 CZ8742AS 对应到其中任何一家。",
+          "sourceIds": [
+            "marcopolo-annual-2025",
+            "marcopolo-walun-official"
+          ]
+        },
+        {
+          "stage": "矿物原料、运输与铺贴",
+          "status": "unknown",
+          "detail": "原料供货、运输及铺贴雇主、岗位和实际劳动记录均待核。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "先取得 CZ8742AS 瓷砖外箱制造标识和具体门店实物供货记录，再匹配当前生产、原料和铺贴人员的劳动资料。",
+      "assessments": [
+        {
+          "subject": "广东家美陶瓷有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022 年命名",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅是该法人历史劳动关系记录；当前 CZ8742AS 是否由该厂制造尚未对应。"
+        }
+      ]
+    },
+    {
+      "id": "carpoly-guangdong",
+      "name": "嘉宝莉（广东生产线索）",
+      "legalName": "北新嘉宝莉涂料（广东）有限公司",
+      "location": "广东江门；旧名称广东嘉宝莉科技材料有限公司",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "历史守法评价线索 · 当前生产岗位待核",
+      "scope": "以 2022 年评价和 2024 年抽查列名的广东生产法人为线索，并记录 2025 年更名关系；不代表整个嘉宝莉集团。",
+      "finding": "历史名单文本有广东生产法人的劳动守法 A 级线索，2024 抽查样品对应 G101 20kg。最新年度企业等级附件未读到；无当前生产班组实际工时、每周休息和工资社保记录。",
+      "caveats": [
+        "2022 年评价及更名附件目前仅核到公开文本，原页复核尚未完成，不能列为已独立验证。",
+        "2025 年全区评价公告已发布，但企业明细附件无法读取，未给本企业填写该年度等级。",
+        "旧名称与更名后名称保留在相应年份；更名不是新的劳动合规认证。",
+        "G101 当前零售款与旧抽查长名称、配方和生产批次尚未完全对应；施工、经销和原料岗位另核。"
+      ],
+      "sourceIds": [
+        "carpoly-guangdong-labor-2022",
+        "carpoly-guangdong-rename-2025",
+        "pengjiang-labor-2025-announcement",
+        "carpoly-g101-hainan-2024",
+        "carpoly-g101-official"
+      ],
+      "supply": [
+        {
+          "stage": "广东生产法人",
+          "status": "unknown",
+          "detail": "2024 年 G101 样品列旧名广东嘉宝莉科技材料；更名关系有官方公开文本，当前供货厂待核。",
+          "sourceIds": [
+            "carpoly-g101-hainan-2024",
+            "carpoly-guangdong-rename-2025"
+          ]
+        },
+        {
+          "stage": "配料、生产与灌装",
+          "status": "unknown",
+          "detail": "尚无所选 20kg 当前批次的班组、实际工时、逐周休息和工资社保证据。",
+          "sourceIds": [
+            "carpoly-guangdong-labor-2022",
+            "pengjiang-labor-2025-announcement"
+          ]
+        },
+        {
+          "stage": "原料、经销及施工",
+          "status": "unknown",
+          "detail": "化工原料供应、经销商和施工人员不能套用制造企业的历史评价，各自劳动条件待核。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "复核政府评价及更名原页，取得现供 G101 20kg 背标与制造记录，再核当前厂区、原料供应和施工人员的劳动履行。",
+      "assessments": [
+        {
+          "subject": "广东嘉宝莉科技材料有限公司",
+          "result": "2022 年劳动保障守法诚信 A 级公开文本线索",
+          "period": "2022 年度",
+          "sourceId": "carpoly-guangdong-labor-2022",
+          "limitation": "原页复核未完成，且不表示当前等级或所有生产岗位的实际履行。"
+        }
+      ]
+    },
+    {
+      "id": "powerdekor",
+      "name": "圣象地板",
+      "legalName": "大亚圣象家居股份有限公司",
+      "location": "江苏丹阳；品牌运营与销售、制造主体分别核查",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "年报有权益及纠纷披露 · 制造劳动待核",
+      "scope": "2025 年上市公司报告、圣象集团产品资料及圣象实业（江苏）的历史抽查线索；不合并不同销售和制造雇主。",
+      "finding": "年报有劳动合同、薪酬与员工权益说明，但无本款生产岗位实际工时和每周两天休息证据。报告同时披露南京销售子公司的劳动合同纠纷，尚无其最终裁判资料。",
+      "caveats": [
+        "企业制度及劳务外包不适用不证明所有生产、安装和外协人员达标。",
+        "南京圣象家居有限公司的劳动合同纠纷冻结披露不是最终违法认定，也未对应 GT0217 生产人员。",
+        "贵州历史样品来源栏兼含制造商和上级供货商，原页未读取，不能据此指定现供地板制造厂。",
+        "官网 GT0217 与京东同名 GT2017 编号不一致，未将两者合并；木材、胶黏剂和铺装劳动仍待核。"
+      ],
+      "sourceIds": [
+        "powerdekor-annual-2025",
+        "powerdekor-gt0217-official",
+        "powerdekor-gt0217-guizhou-2024"
+      ],
+      "supply": [
+        {
+          "stage": "公司及品牌员工",
+          "status": "unknown",
+          "detail": "年报自述劳动合同与员工权益，但无实际工时和休息数据。",
+          "sourceIds": [
+            "powerdekor-annual-2025"
+          ]
+        },
+        {
+          "stage": "地板制造与材料",
+          "status": "unknown",
+          "detail": "GT0217 有江苏关联主体的历史样品索引，制造角色、当前批次及木材胶黏剂来源未完成对应。",
+          "sourceIds": [
+            "powerdekor-gt0217-guizhou-2024",
+            "powerdekor-gt0217-official"
+          ]
+        },
+        {
+          "stage": "销售与铺装人员",
+          "status": "unknown",
+          "detail": "南京销售子公司另有劳动合同纠纷披露，不能外推至其他主体；各地门店、运输与铺装雇主待核。",
+          "sourceIds": [
+            "powerdekor-annual-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "先解决 GT0217 现时供货货号及原页、外箱制造标识，再核制造、原料、销售和铺装人员的实际劳动条件。"
     }
   ],
   "products": [
@@ -12620,6 +13182,338 @@
           ]
         }
       }
+    },
+    {
+      "id": "arrow-ab1116-1-305",
+      "name": "AB1116-1 坐便器（305/300mm 坑距）",
+      "brand": "箭牌",
+      "companyId": "arrow",
+      "category": "housing",
+      "description": "具体型号 AB1116-1，采用京东单独列出的 305/300mm 坑距规格。",
+      "tags": [
+        "坐便器",
+        "马桶",
+        "AB1116-1",
+        "305mm"
+      ],
+      "needs": [
+        "坐便器"
+      ],
+      "url": "https://www.arrow-home.cn/col198/1786",
+      "relationshipSourceIds": [
+        "arrow-ab1116-1-official",
+        "arrow-ab1116-1-305-jd",
+        "building-green-directory-2024nov"
+      ],
+      "market": "官方型号与京东 305/300mm 货号已对应，当前销售法人、地区供货及安装范围待核。",
+      "relationship": "历史绿色建材目录将 AB1116-1 对应景德镇乐华；没有把其他后缀和坑距批次的工厂记录合并。",
+      "image": "images/arrow-ab1116-1-305.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/156204/22/2031/160163/5fe5a533Efb55c89f/fb74339b850004c6.jpg",
+      "imageRights": "箭牌及商品图相关权利人；京东公开展示，具体图片著作权主体未单独确认",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官方型号与京东 305/300mm 货号已对应，当前销售法人、地区供货及安装范围待核。",
+          "sourceIds": [
+            "arrow-ab1116-1-305-jd",
+            "arrow-ab1116-1-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "2024 年目录提供景德镇乐华制造线索，但未单列 305mm，当前批次与其他部件的生产来源仍需核对。",
+          "sourceIds": [
+            "building-green-directory-2024nov",
+            "arrow-lehua-hiring-2022"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "景德镇乐华 2022 年称号与招聘不证明当前坐便器生产班组的实际工时、逐周休息及工资社保。",
+          "sourceIds": [
+            "national-harmony-2022",
+            "arrow-lehua-hiring-2022",
+            "arrow-esg-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "arrow-ae3498cp",
+      "name": "AE3498CP 淋浴花洒套装（镀铬色）",
+      "brand": "箭牌",
+      "companyId": "arrow",
+      "category": "housing",
+      "description": "AE3498CP 镀铬色淋浴套装；准确型号参数图对应长方形顶喷、长方形手持和喷枪。",
+      "tags": [
+        "花洒",
+        "淋浴套装",
+        "AE3498CP"
+      ],
+      "needs": [
+        "花洒"
+      ],
+      "url": "https://product.suning.com/0000000000/12209269136.html",
+      "relationshipSourceIds": [
+        "arrow-brand-intro",
+        "arrow-ae3498cp-suning",
+        "arrow-ae3498cp-configuration",
+        "arrow-ae3498cp-water-label"
+      ],
+      "market": "苏宁有 AE3498CP 镀铬色参数图；同页混有其他款式，现供变体、地区库存、销售法人和安装范围待核。",
+      "relationship": "准确型号配置图与右栏水效标签均为 AE3498CP；标签标示生产者为箭牌家居集团，实际制造工厂仍待对应。",
+      "image": "images/arrow-ae3498cp.webp",
+      "imageMode": "contain",
+      "imageSource": "https://uimgproxy.suning.cn/uimg1/sop/commodity/Kd48zHS45Yvue9GWGih92A.jpg",
+      "imageRights": "箭牌及商品图相关权利人；苏宁公开展示，具体图片著作权主体未单独确认",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "苏宁有 AE3498CP 镀铬色参数图；同页混有其他款式，现供变体、地区库存、销售法人和安装范围待核。",
+          "sourceIds": [
+            "arrow-ae3498cp-suning",
+            "arrow-ae3498cp-configuration"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售参数标为国产、广东佛山，展示标签列集团为生产者；尚无实际制造厂址、当前批次及部件来源，不能直接指定制造工厂。",
+          "sourceIds": [
+            "arrow-ae3498cp-suning",
+            "arrow-ae3498cp-water-label",
+            "arrow-ae3498cp-configuration"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "花洒实际制造及部件雇主尚未锁定；集团员工制度和景德镇陶瓷厂历史称号不能代替五金厂劳动记录。",
+          "sourceIds": [
+            "arrow-esg-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "arrow-ae4141m",
+      "name": "AE4141M 单孔面盆龙头（亮银）",
+      "brand": "箭牌",
+      "companyId": "arrow",
+      "category": "housing",
+      "description": "AE4141M 亮银单孔龙头，参数图总高 164mm、出水高 108mm；同页哑黑首图属于另一型号，主图待补。",
+      "tags": [
+        "水龙头",
+        "面盆龙头",
+        "AE4141M"
+      ],
+      "needs": [
+        "水龙头"
+      ],
+      "url": "https://product.suning.com/0000000000/12433476687.html",
+      "relationshipSourceIds": [
+        "arrow-brand-intro",
+        "arrow-ae4141m-suning",
+        "arrow-ae4141m-silver-parameters",
+        "arrow-ae4131ma-black-exclusion"
+      ],
+      "market": "已找到 AE4141M 亮银参数，但商品页混排其他型号，题名的冷热表述也有差异；现供变体、销售法人及地区库存待核。",
+      "relationship": "按完整参数图左栏 AE4141M 亮银记录；排除 AE4131MA 哑黑首图与其他型号，不将多型号混排页视为同一商品。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "准确型号为亮银；同页哑黑首图对应 AE4131MA，未用作本款照片。仅保留完整参数图为来源，主图待补。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已找到 AE4141M 亮银参数，但商品页混排其他型号，题名的冷热表述也有差异；现供变体、销售法人及地区库存待核。",
+          "sourceIds": [
+            "arrow-ae4141m-suning",
+            "arrow-ae4141m-silver-parameters",
+            "arrow-ae4131ma-black-exclusion"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "国产及广东佛山只来自零售参数，实际制造法人、厂址、批次与部件来源待核；同页进口阀芯宣传未对应准确型号，未作本款产地结论。",
+          "sourceIds": [
+            "arrow-ae4141m-suning"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未找到本款铸造、加工、装配及外包雇主的实际工时、休息和工资社保资料。",
+          "sourceIds": [
+            "arrow-esg-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "marcopolo-cz8742as",
+      "name": "瓦伦石 CZ8742AS 抛釉砖（800×800mm）",
+      "brand": "马可波罗",
+      "companyId": "marcopolo",
+      "category": "housing",
+      "description": "官网瓦伦石资料中明确列出的 CZ8742AS，800×800mm；与其他尺寸、货号分别记录。",
+      "tags": [
+        "瓷砖",
+        "地砖",
+        "瓦伦石",
+        "CZ8742AS"
+      ],
+      "needs": [
+        "瓷砖"
+      ],
+      "url": "https://www.marcopolo.com.cn/catalogue/wa-lun-shi_2040",
+      "relationshipSourceIds": [
+        "marcopolo-walun-official",
+        "marcopolo-annual-2025",
+        "marcopolo-walun-jd-deposit"
+      ],
+      "market": "官网已列准确货号；京东瓦伦石 800×800mm 为非实物预约定金，尚未取得 CZ8742AS 现时实物供货证明。",
+      "relationship": "官方产品资料确认品牌及具体型号；广东家美历史劳动称号尚未与此货号的制造批次对应。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "官方纹理图有转载限制且资源访问未成功，未加入公开商品图片；仅展示名称和官方资料链接。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网已列准确货号；京东瓦伦石 800×800mm 为非实物预约定金，尚未取得 CZ8742AS 现时实物供货证明。",
+          "sourceIds": [
+            "marcopolo-walun-official",
+            "marcopolo-walun-jd-deposit"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "集团有清远等境内基地与境外生产企业，尚无本款外箱制造标签，不能从中国品牌推断产地或指定广东家美。",
+          "sourceIds": [
+            "marcopolo-annual-2025",
+            "marcopolo-walun-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "年报制度与广东家美 2022 年称号不证明本款生产、原料及铺贴人员的实际劳动条件。",
+          "sourceIds": [
+            "marcopolo-annual-2025",
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "carpoly-g101-20kg",
+      "name": "G101 内墙乳胶漆（白色面漆 20kg）",
+      "brand": "嘉宝莉",
+      "companyId": "carpoly-guangdong",
+      "category": "housing",
+      "description": "G101 白色内墙面漆，20kg 单桶；不将 60kg 套装另算或混用图片。",
+      "tags": [
+        "涂料",
+        "内墙漆",
+        "乳胶漆",
+        "G101",
+        "20kg"
+      ],
+      "needs": [
+        "涂料"
+      ],
+      "url": "https://product.suning.com/0000000000/11336738113.html",
+      "relationshipSourceIds": [
+        "carpoly-g101-official",
+        "carpoly-g101-20kg-suning",
+        "carpoly-g101-hainan-2024",
+        "carpoly-guangdong-rename-2025"
+      ],
+      "market": "官网 G101 与苏宁白色 20kg 单桶资料已找到，当前可售、配送及具体销售法人待核。",
+      "relationship": "2024 年 G101 20KG 历史样品列广东嘉宝莉科技材料，公开更名资料对应北新嘉宝莉广东；现款长名称和配方未完全对齐。",
+      "image": "images/carpoly-g101-20kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/ulINDGpkSsy5b1N2lzWv2Q.jpg_800w_800h_4e",
+      "imageRights": "嘉宝莉及商品图相关权利人；苏宁公开展示，具体图片著作权主体未单独确认",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网 G101 与苏宁白色 20kg 单桶资料已找到，当前可售、配送及具体销售法人待核。",
+          "sourceIds": [
+            "carpoly-g101-20kg-suning",
+            "carpoly-g101-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "政府 2024-04-13 历史样品提供广东制造法人线索；当前包装、配方、灌装批次和原料来源仍待核，不能将旧样品当作现批次。",
+          "sourceIds": [
+            "carpoly-g101-hainan-2024",
+            "carpoly-g101-20kg-suning",
+            "carpoly-guangdong-rename-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2022 年守法评价公开文本尚待原页复核，2025 年企业等级附件未读到；没有当前配料、灌装及上游人员的实际劳动记录。",
+          "sourceIds": [
+            "carpoly-guangdong-labor-2022",
+            "pengjiang-labor-2025-announcement"
+          ]
+        }
+      }
+    },
+    {
+      "id": "powerdekor-gt0217",
+      "name": "枫林听雨 GT0217 地板（1214×200×10mm）",
+      "brand": "圣象",
+      "companyId": "powerdekor",
+      "category": "housing",
+      "description": "官网列 GT0217 枫林听雨田园系列，1214×200×10mm；保留完整货号。",
+      "tags": [
+        "地板",
+        "枫林听雨",
+        "GT0217"
+      ],
+      "needs": [
+        "地板"
+      ],
+      "url": "https://www.powerdekor.com.cn/44/45",
+      "relationshipSourceIds": [
+        "powerdekor-gt0217-official",
+        "powerdekor-annual-2025",
+        "powerdekor-gt0217-guizhou-2024",
+        "powerdekor-gt2017-jd-mismatch"
+      ],
+      "market": "官网有准确 GT0217；所查京东同名款写 GT2017，未当作同货号，当前实物供货仍待核。",
+      "relationship": "产品归于圣象官方目录；历史抽查索引提供江苏关联主体线索，未独立核实其制造角色或当前批次。",
+      "image": "images/powerdekor-gt0217.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.powerdekor.com.cn/upload/jpg/202407/GT0217%20%E6%9E%AB%E6%9E%97%E5%90%AC%E9%9B%A81_resized_docsmall.comF3E11FF4003D4248995C4820929E12F1.jpg",
+      "imageRights": "圣象集团有限公司及图像相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网有准确 GT0217；所查京东同名款写 GT2017，未当作同货号，当前实物供货仍待核。",
+          "sourceIds": [
+            "powerdekor-gt0217-official",
+            "powerdekor-gt2017-jd-mismatch"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "历史抽查索引的生产企业/上级供货商栏列圣象实业（江苏），角色兼容且原页未读；当前制造厂、批次和木料来源仍待核。",
+          "sourceIds": [
+            "powerdekor-gt0217-guizhou-2024",
+            "powerdekor-annual-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "年报有权益制度和南京销售法人的纠纷披露，均不替代 GT0217 实际制造、原料与铺装班组工时、休息及工资社保记录。",
+          "sourceIds": [
+            "powerdekor-annual-2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -13404,14 +14298,44 @@
           "query": "涂料"
         },
         {
-          "label": "卫浴",
-          "query": "卫浴"
+          "label": "坐便器",
+          "query": "坐便器"
+        },
+        {
+          "label": "花洒",
+          "query": "花洒"
+        },
+        {
+          "label": "水龙头",
+          "query": "水龙头"
         }
       ],
-      "note": "已对应荆门中房铭庭世家约 112㎡ 现房；开发法人有历史劳动关系记录，施工总包、分包与物业劳动条件仍待查。长租、保障性住房和装修建材继续补充。",
+      "note": "新增 CZ8742AS 瓷砖、GT0217 地板、G101 20kg 内墙漆、AB1116-1 坐便器、AE3498CP 花洒和 AE4141M 龙头；卫浴拆成三项。历史制造记录与劳动评价分别保留，当前批次、供货和实际生产劳动仍待核。瓷砖预约定金不算实物可售，地板相近货号未合并。长租、保障性住房、装修服务和门窗继续调查。",
       "sourceIds": [
         "national-harmony-2022",
-        "jingmen-mingting-project"
+        "jingmen-mingting-project",
+        "arrow-esg-2025",
+        "arrow-lehua-hiring-2022",
+        "building-green-directory-2024nov",
+        "arrow-ab1116-1-305-jd",
+        "arrow-ae3498cp-suning",
+        "arrow-ae4141m-suning",
+        "marcopolo-annual-2025",
+        "marcopolo-walun-official",
+        "marcopolo-walun-jd-deposit",
+        "carpoly-guangdong-labor-2022",
+        "pengjiang-labor-2025-announcement",
+        "carpoly-g101-hainan-2024",
+        "carpoly-guangdong-rename-2025",
+        "carpoly-g101-20kg-suning",
+        "powerdekor-annual-2025",
+        "powerdekor-gt0217-official",
+        "powerdekor-gt0217-guizhou-2024",
+        "powerdekor-gt2017-jd-mismatch",
+        "arrow-ae3498cp-configuration",
+        "arrow-ae3498cp-water-label",
+        "arrow-ae4141m-silver-parameters",
+        "arrow-ae4131ma-black-exclusion"
       ]
     },
     {
