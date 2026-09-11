@@ -5243,6 +5243,493 @@
       },
       "filename": "images/huasheng-jinzun-apples5kg.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "filename": "images/rapoo-e9350g-white.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 33280,
+      "sha256": "81773713e10c62ca9c34119ab2bc90bba63597258e5424c900ea4ee7d13cc2ce",
+      "content_type": "image/jpeg",
+      "id": "rapoo-e9350g-white",
+      "productId": "rapoo-e9350g-white",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/A1DyshduBT0li4kBLZrbJA.jpg_800w_800h_4e",
+      "imageURL": "https://imgservice.suning.cn/uimg1/b2c/image/A1DyshduBT0li4kBLZrbJA.jpg_800w_800h_4e",
+      "source_page_url": "https://product.suning.com/0000000000/12333525757.html",
+      "sourcePage": "https://product.suning.com/0000000000/12333525757.html",
+      "official_source_page_url": "https://product.suning.com/0000000000/12333525757.html",
+      "source_type": "mainland_direct_retail_product_page",
+      "dimensions": {
+        "width": 800,
+        "height": 800,
+        "unit": "px"
+      },
+      "image_role": "catalog_main",
+      "visually_verified": true,
+      "original_bytes_preserved": true,
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆商品资料；不确认实时库存或当前到货批次",
+      "reuse_info": {
+        "rights_holder": "雷柏及图片相关权利人；苏宁公开展示，具体图片著作权归属未单独核实",
+        "license": "未发现明确开放复用许可；图片公开展示不等于获得无限制转载许可。"
+      },
+      "product_name": "雷柏（RAPOO）E9350G 白色99键无线键盘",
+      "model": "E9350G",
+      "color": "白色",
+      "specification": "99键；键盘单品；网页包装清单键盘×1、接收器×1",
+      "page_title": "雷柏(RAPOO)E9350G 白色99键 无线蓝牙多模式充电键盘 笔记本电脑台式机无线键盘携带方便",
+      "image_description": "准确零售页主图，白色键盘正面、银色边框、右侧数字区，白背景；不含鼠标或其他附件。",
+      "packaging_transcription": [
+        {
+          "text": "RAPOO",
+          "location": "空格键右侧品牌标识",
+          "scope": "键盘正面主图；型号与99键依据同页明确资料另记"
+        }
+      ],
+      "supporting_images": [
+        {
+          "filename": "rapoo-e9350g-same-page-bottom-label.jpg",
+          "width": 790,
+          "height": 1100,
+          "bytes": 261320,
+          "sha256": "ae18583438636fb865e175dc487dedbab3401eb0bb0e5f62c6e0b5a77a74754b",
+          "content_type": "image/jpeg",
+          "id": "rapoo-e9350g-white",
+          "productId": "rapoo-e9350g-white",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/ocLoFQtd88ddp34MetqdHQ.jpg",
+          "imageURL": "https://uimgproxy.suning.cn/uimg1/sop/commodity/ocLoFQtd88ddp34MetqdHQ.jpg",
+          "source_page_url": "https://product.suning.com/0000000000/12333525757.html",
+          "sourcePage": "https://product.suning.com/0000000000/12333525757.html",
+          "official_source_page_url": "https://product.suning.com/0000000000/12333525757.html",
+          "source_type": "mainland_direct_retail_product_page",
+          "dimensions": {
+            "width": 790,
+            "height": 1100,
+            "unit": "px"
+          },
+          "image_role": "same_model_bottom_example_color_unresolved",
+          "visually_verified": true,
+          "original_bytes_preserved": true,
+          "status": "image_verified",
+          "researched_on": "2026-09-12",
+          "market_scope": "中国大陆商品资料；不确认实时库存或当前到货批次",
+          "reuse_info": {
+            "rights_holder": "雷柏及图片相关权利人；苏宁公开展示，具体图片著作权归属未单独核实",
+            "license": "未发现明确开放复用许可；图片公开展示不等于获得无限制转载许可。"
+          },
+          "product_name": "雷柏E9350G同页底面示例图（底壳黑色；不能独立对应白色变体）",
+          "packaging_transcription": [
+            {
+              "text": "RAPOO",
+              "location": "底面右下品牌标识",
+              "scope": "同页底面示例图"
+            },
+            {
+              "text": "Multi-mode Wireless Keyboard",
+              "location": "底面品牌标识下方",
+              "scope": "底面小字"
+            },
+            {
+              "text": "Model:E9350G",
+              "location": "底面英文品名下方左列",
+              "scope": "底面小字；不补不清楚的认证编号"
+            },
+            {
+              "text": "Made in China",
+              "location": "底面标签右列底行",
+              "scope": "同型号示例底面；颜色对应与当前到货批次未验证"
+            }
+          ],
+          "label_manufacturer": null,
+          "label_address": null,
+          "matching_limitations": [
+            "同一准确E9350G白色商品页引用的底面图；可见黑色底壳，不能根据底面画面判定其顶面是否为所选白色。",
+            "照片小字中仅转录可辨品名、型号和产地字样；制造法人、厂址及不够清楚的其他编号保留未知。",
+            "可作为同型号公开示例资料，不能升级为白色变体或用户当前批次的制造证明。"
+          ]
+        },
+        {
+          "filename": "rapoo-e9350g-99keys-parameter-graphic.jpg",
+          "width": 790,
+          "height": 824,
+          "bytes": 112872,
+          "sha256": "aef1f7e68d9c67a7d881d9bc224e4a2e7d5f23c5ce58a3416499d308dd46b6c4",
+          "content_type": "image/jpeg",
+          "id": "rapoo-e9350g-white",
+          "productId": "rapoo-e9350g-white",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/kk1PB1FGvUTTcDCdVocIKg.jpg",
+          "imageURL": "https://uimgproxy.suning.cn/uimg1/sop/commodity/kk1PB1FGvUTTcDCdVocIKg.jpg",
+          "source_page_url": "https://product.suning.com/0000000000/12333525757.html",
+          "sourcePage": "https://product.suning.com/0000000000/12333525757.html",
+          "official_source_page_url": "https://product.suning.com/0000000000/12333525757.html",
+          "source_type": "mainland_direct_retail_product_page",
+          "dimensions": {
+            "width": 790,
+            "height": 824,
+            "unit": "px"
+          },
+          "image_role": "retailer_parameter_graphic_not_physical_label",
+          "visually_verified": true,
+          "original_bytes_preserved": true,
+          "status": "image_verified",
+          "researched_on": "2026-09-12",
+          "market_scope": "中国大陆商品资料；不确认实时库存或当前到货批次",
+          "reuse_info": {
+            "rights_holder": "雷柏及图片相关权利人；苏宁公开展示，具体图片著作权归属未单独核实",
+            "license": "未发现明确开放复用许可；图片公开展示不等于获得无限制转载许可。"
+          },
+          "product_name": "E9350G键盘参数图",
+          "packaging_transcription": [],
+          "image_text_transcription": [
+            {
+              "text": "按键数 99键",
+              "location": "参数表左列",
+              "scope": "零售商品详情参数图，不是实物包装或铭牌"
+            },
+            {
+              "text": "产品尺寸 362.3*114.7*12.9mm",
+              "location": "参数表左列上方",
+              "scope": "零售参数图"
+            },
+            {
+              "text": "产品重量 394g",
+              "location": "参数表中列上方",
+              "scope": "零售参数图"
+            }
+          ],
+          "matching_limitations": [
+            "参数图没有制造法人/厂址，仅用于核对99键规格。",
+            "不把同页展示的黑色与白色键盘理解成两把装或套装。"
+          ]
+        }
+      ],
+      "china_sale_evidence": {
+        "status": "mainland_direct_retail_product_page",
+        "source_urls": [
+          "https://product.suning.com/0000000000/12333525757.html"
+        ],
+        "evidence": "准确大陆苏宁商品页标题与参数明确E9350G、白色、99键；主图实际src直接关联该标题。",
+        "inventory_status": "not_verified"
+      },
+      "china_production_evidence": {
+        "status": "same_model_example_label_readable_exact_color_unresolved",
+        "country": "China（仅同型号底面示例）",
+        "exact_selected_white_variant_origin": null,
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [
+          "https://product.suning.com/0000000000/12333525757.html",
+          "https://uimgproxy.suning.cn/uimg1/sop/commodity/ocLoFQtd88ddp34MetqdHQ.jpg"
+        ],
+        "evidence": "同页底面示例可读Model:E9350G和Made in China；底壳黑色，不能独立确认对应所选白色变体。没有可读制造法人或厂址。",
+        "scope": "零售公开示例图；不是消费者当前到货批次。",
+        "consumer_batch_status": "not_verified"
+      },
+      "matching_limitations": [
+        "主图精确匹配E9350G白色99键单品，不使用V500PRO、其他键数或套装。",
+        "页面“是否有数字键盘：无”字段与主图可见的右侧数字区不一致，未采纳该字段；99键由标题、参数图及可见布局相互核对。",
+        "主体和产地不从品牌、店名或苏宁所在地推断。"
+      ],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 190361,
+        "sha256": "94b8ae3e4b328ffd7d0a4ab84e7b9670461cefe29a06d57c4845fe50d16de239"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "filename": "images/rapoo-mt760-black.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 10704,
+      "sha256": "b6a74b6bd5bd2ee640d8bd94d5892649aea9c6ec141be31649e1d5f34db9c8e3",
+      "content_type": "image/png",
+      "id": "rapoo-mt760-black",
+      "productId": "rapoo-mt760-black",
+      "image_url": "https://rpw.rapoo.cn/goods/gallery/1730277791038.jpg",
+      "imageURL": "https://rpw.rapoo.cn/goods/gallery/1730277791038.jpg",
+      "source_page_url": "https://www.rapoo.cn/product/764",
+      "sourcePage": "https://www.rapoo.cn/product/764",
+      "official_source_page_url": "https://www.rapoo.cn/product/764",
+      "source_type": "brand_official_product_page",
+      "dimensions": {
+        "width": 600,
+        "height": 600,
+        "unit": "px"
+      },
+      "image_role": "catalog_main",
+      "visually_verified": true,
+      "original_bytes_preserved": true,
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆商品资料；不确认实时库存或当前到货批次",
+      "reuse_info": {
+        "rights_holder": "Rapoo雷柏及相关权利人",
+        "license": "未发现明确开放复用许可；图片公开展示不等于获得无限制转载许可。",
+        "page_copyright_notice": "Copyright 2020 Rapoo雷柏版权所有"
+      },
+      "product_name": "雷柏 MT760 多模式无线锂电鼠标 雅醺黑",
+      "model": "MT760",
+      "color": "雅醺黑",
+      "specification": "鼠标本体；无线充电模块/触点充电模块需另购（官网说明）",
+      "image_description": "官网雅醺黑颜色图组的鼠标本体正面展示图；带主滚轮、侧滚轮和拇指托，不是接收器或充电模块。",
+      "source_attribute_evidence": {
+        "page_model": "MT760",
+        "page_color_code": "000000",
+        "page_color_name": "雅醺黑",
+        "image_group": "img-box code=\"000000\" 引用1730277791038.jpg",
+        "file_note": "源URL扩展名为.jpg，但服务器文件实际为PNG；本地仅用.png命名，字节未变。"
+      },
+      "packaging_transcription": [
+        {
+          "text": "RAPOO",
+          "location": "鼠标上表面品牌标识",
+          "scope": "品牌官网商品展示图，不能当作可交付批次实拍铭牌"
+        }
+      ],
+      "supporting_images": [],
+      "china_sale_evidence": {
+        "status": "mainland_brand_official_product_information",
+        "source_urls": [
+          "https://www.rapoo.cn/product/764",
+          "https://www.jd.com/brand/670f0100b886f005ce9.html"
+        ],
+        "evidence": "雷柏中国官网MT760页面直接列雅醺黑颜色和人民币售价展示；本次没有订单/库存核对。 根代理另核京东分类页对应雅醺黑货号10162153427726；动态报价、销售法人及供货待核。",
+        "inventory_status": "not_verified"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [
+          "https://www.rapoo.cn/product/764"
+        ],
+        "evidence": "已目视查看官网雅醺黑5张角度图，包括底面图。底面只有按键、传感器和模块仓示意，没有可读制造法人、厂址或Made in China标签。",
+        "scope": "官方商品展示图；不是用户当前批次。",
+        "consumer_batch_status": "not_verified"
+      },
+      "matching_limitations": [
+        "页面型号明确为MT760；没有使用MT760 mini或MT760NL图。",
+        "颜色由官网颜色代码000000与雅醺黑标签、对应图组共同匹配。",
+        "无线充电模块和触点充电模块另购；主图只呈现鼠标本体，不宣称包含另购配件。",
+        "官网产品展示画面不独立证明当前量产批次的制造地，不能按官网地址填写厂址。"
+      ],
+      "source_image_metadata": {
+        "width": 600,
+        "height": 600,
+        "bytes": 193447,
+        "sha256": "d547ef7a47f4c40145682887d2f56872c654ff8580f302b763138fc5a06dadee"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "filename": "images/zhitai-tiplus7100-2tb.webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 34702,
+      "sha256": "02e196835c331ce8b5db9bb7f812aa94d8268dd10ebadd1decf589630e7697ea",
+      "content_type": "image/jpeg",
+      "id": "zhitai-tiplus7100-2tb",
+      "productId": "zhitai-tiplus7100-2tb",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/qnnV4FQmDTDslgOED16RAw.jpg_800w_800h_4e",
+      "imageURL": "https://imgservice.suning.cn/uimg1/b2c/image/qnnV4FQmDTDslgOED16RAw.jpg_800w_800h_4e",
+      "source_page_url": "https://product.suning.com/0000000000/12442318183.html",
+      "sourcePage": "https://product.suning.com/0000000000/12442318183.html",
+      "official_source_page_url": "https://product.suning.com/0000000000/12442318183.html",
+      "source_type": "mainland_direct_retail_product_page",
+      "dimensions": {
+        "width": 800,
+        "height": 800,
+        "unit": "px"
+      },
+      "image_role": "catalog_main",
+      "visually_verified": true,
+      "original_bytes_preserved": true,
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆商品资料；不确认实时库存或当前到货批次",
+      "reuse_info": {
+        "rights_holder": "致态/长江存储及图片相关权利人；苏宁公开展示，具体图片著作权归属未单独核实",
+        "license": "未发现明确开放复用许可；图片公开展示不等于获得无限制转载许可。"
+      },
+      "product_name": "致态 TiPlus7100 普通版2TB NVMe M.2固态硬盘",
+      "model": "TiPlus7100",
+      "capacity": "2TB",
+      "edition": "普通版；未见黑神话联名包装元素",
+      "brand_source_page_url": "https://www.ymtc.com/cn/products/43.html?cat=44%3Fcat%3D40",
+      "specification": "2TB；PCIe 4.0 NVMe M.2；型号和容量在同一主图标签中可读",
+      "image_description": "准确2TB零售商品页主图，黑色M.2固态硬盘正面标签、白背景。",
+      "packaging_transcription": [
+        {
+          "text": "TiPlus7100",
+          "location": "标签左上白底型号栏",
+          "scope": "零售公开商品示例图"
+        },
+        {
+          "text": "Model:TiPlus7100",
+          "location": "标签左侧参数第一行",
+          "scope": "同一张2TB主图"
+        },
+        {
+          "text": "2 TB",
+          "location": "标签右侧容量位置",
+          "scope": "同一张2TB主图"
+        },
+        {
+          "text": "PCIe 4.0 NVMe M.2",
+          "location": "容量标识右侧白底栏",
+          "scope": "同一张2TB主图"
+        },
+        {
+          "text": "Yangtze Memory Technologies Co.,Ltd",
+          "location": "标签左下第一排认证图标下方",
+          "scope": "标签所列公司名称；未印明确“制造商/生产厂”角色，不能直接补具体制造厂址"
+        },
+        {
+          "text": "Made In China",
+          "location": "标签下方中左位置、公司名右侧",
+          "scope": "此2TB零售示例标签上的产地文字，非当前到货批次"
+        }
+      ],
+      "supporting_images": [],
+      "china_sale_evidence": {
+        "status": "mainland_direct_retail_product_page",
+        "source_urls": [
+          "https://product.suning.com/0000000000/12442318183.html",
+          "https://www.ymtc.com/cn/products/43.html?cat=44%3Fcat%3D40"
+        ],
+        "evidence": "准确大陆苏宁页面标题为致态TiPlus7100 2TB，实际引用的主图标签同时显示TiPlus7100与2TB；品牌官网仅作系列来源。",
+        "inventory_status": "not_verified"
+      },
+      "china_production_evidence": {
+        "status": "same_capacity_retail_example_label_says_made_in_china",
+        "country": "China",
+        "label_country_text": "Made In China",
+        "label_entity_name": "Yangtze Memory Technologies Co.,Ltd",
+        "label_entity_role": "产品标签所列公司名称，未明确印制制造商或实际生产厂角色",
+        "manufacturer": null,
+        "production_address": null,
+        "source_urls": [
+          "https://product.suning.com/0000000000/12442318183.html",
+          "https://imgservice.suning.cn/uimg1/b2c/image/qnnV4FQmDTDslgOED16RAw.jpg_800w_800h_4e"
+        ],
+        "evidence": "准确2TB主图的标签直接可读Made In China及Yangtze Memory Technologies Co.,Ltd；不借用官网4TB图，也不按官网联系地址补制造厂。",
+        "scope": "零售商公开商品示例图；不证明用户当前到货、所有批次或某一具体工厂。",
+        "consumer_batch_status": "not_verified"
+      },
+      "matching_limitations": [
+        "选用的主图自身可读2TB；没有混入1TB、4TB或黑神话联名版。",
+        "官网前两张实际查看图为4TB，均排除，不作为本条2TB的图片或产地证据。",
+        "同零售页其他系列宣传图可能不显示容量，未用其替换本条明确2TB主图。",
+        "没有外包装背标或可读厂址；不发布示例EUI/二维码对应内容，不推断序列号所指消费批次。"
+      ],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 70472,
+        "sha256": "4fb21b25d7c85ac40107227f6158d343b92d26fead996cf8bf09fcb814af9eb6"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "filename": "images/hkc-g27h2max.webp",
+      "width": 220,
+      "height": 220,
+      "bytes": 12522,
+      "sha256": "6b320f55cfb28c52c0db0575dda1e3007a41ba6d63ada09936d9d0fc209242e8",
+      "content_type": "image/jpeg",
+      "id": "hkc-g27h2max",
+      "productId": "hkc-g27h2max",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/464645/6/10472/137026/6a42199dF8c19d695/0083320320ee46e9.jpg",
+      "imageURL": "https://img30.360buyimg.com/n7/jfs/t1/464645/6/10472/137026/6a42199dF8c19d695/0083320320ee46e9.jpg",
+      "source_page_url": "https://www.jd.com/hprm/67048763797fb286e5e.html",
+      "sourcePage": "https://www.jd.com/hprm/67048763797fb286e5e.html",
+      "official_source_page_url": "https://www.jd.com/hprm/67048763797fb286e5e.html",
+      "source_type": "mainland_retail_category_exact_product_card_not_brand_official",
+      "direct_product_page_url": "https://item.jd.com/10222417107920.html",
+      "additional_direct_product_page_url": "https://item.jd.com/product/h8gJnabnUlZI5Ctnwdok9g.html",
+      "dimensions": {
+        "width": 220,
+        "height": 220,
+        "unit": "px"
+      },
+      "image_role": "catalog_main_low_resolution_exact_product_card",
+      "visually_verified": true,
+      "original_bytes_preserved": true,
+      "status": "image_verified_low_resolution",
+      "researched_on": "2026-09-12",
+      "product_name": "HKC 猎鹰 G27H2Max 27英寸2K 220Hz显示器",
+      "model": "G27H2Max",
+      "specification": "27英寸 / 2K / 220Hz；型号和规格据准确卡片标题及直接商品页标题核对",
+      "retailer_card_title": "HKC高清电竞游戏台式电脑笔记本外接快速响应家用办公高刷新率微边框显示器屏幕 27英寸/2K/220hz/G27H2Max",
+      "image_description": "京东准确G27H2Max卡片的显示器本体宣传图，画面有HKC、G27H2MAX和2K·220Hz字样；保留原广告排版和价格文字，不作为当前售价依据。",
+      "packaging_transcription": [],
+      "image_text_transcription": [
+        {
+          "text": "HKC",
+          "location": "宣传主图左上角",
+          "scope": "零售宣传图品牌标识"
+        },
+        {
+          "text": "G27H2MAX",
+          "location": "宣传主图左列上部",
+          "scope": "零售宣传图型号；不是背部实物铭牌"
+        },
+        {
+          "text": "2K · 220Hz高刷",
+          "location": "宣传主图左列中部规格栏",
+          "scope": "零售宣传图规格；未以广告价格或“官方旗舰”文字证明实时价格、库存或店铺授权"
+        }
+      ],
+      "supporting_images": [],
+      "market_scope": "中国大陆京东商品资料；不确认当前可下单、库存或生产地",
+      "china_sale_evidence": {
+        "status": "mainland_exact_retail_card_and_direct_title",
+        "source_urls": [
+          "https://www.jd.com/hprm/67048763797fb286e5e.html",
+          "https://item.jd.com/product/h8gJnabnUlZI5Ctnwdok9g.html",
+          "https://item.jd.com/10222417107920.html"
+        ],
+        "evidence": "分类页明确G27H2Max、27英寸、2K、220Hz的准确卡片直接引用本图并指向10222417107920；另给定直接商品页标题也为猎鹰G27H2Max。数值页正常访问只有泛化内容，不作为新增可下单证明。",
+        "inventory_status": "not_verified"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "label_sales_model": null,
+        "label_product_model": null,
+        "source_urls": [
+          "https://item.jd.com/product/h8gJnabnUlZI5Ctnwdok9g.html",
+          "https://www.jd.com/hprm/67048763797fb286e5e.html"
+        ],
+        "evidence": "主图是宣传图。直接商品页原样引用背面和能效标识缩略图均114×114，不能可靠读出制造者、地址、产地或完整标签型号。本批没有将说明书型号映射当成图片上可读铭牌。",
+        "scope": "公开零售宣传与示例缩略图，非消费者当前到货批次。",
+        "consumer_batch_status": "not_verified"
+      },
+      "matching_limitations": [
+        "唯一作为主图接受的是准确27英寸/2K/220Hz/G27H2Max卡片所引220×220原图，低于400px偏好；未猜测高分辨率URL。",
+        "分类页其他标题包含G27H2Max升级款但所选为G27Max或星际G7/235Hz，已排除。",
+        "直接商品页评论混有27U165A/4K等型号，未下载、引用或转录评论照片作为本型号证据。",
+        "未用G27H2WProMax、G27Max、IG27Q或其他型号替代。",
+        "没有访问已停止的官网403或TLS不匹配域名，也未绕过登录或验证。",
+        "原图宣传标价未作为当前可售价格；官方旗舰店等图中文字不独立核实当前销售主体。"
+      ],
+      "reuse_info": {
+        "rights_holder": "HKC及商品宣传图相关权利人；京东公开展示，具体图片著作权主体未单独确认",
+        "license": "未找到明确开放复用许可；公开可访问不等于无限制转载许可。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 23062,
+        "sha256": "9a591fc97808328967047de028d1bc25b66615befa395bc131995d3956a3058f"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

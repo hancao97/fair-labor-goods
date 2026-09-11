@@ -54,3 +54,14 @@
 | 全棉时代 便携如厕湿巾 8片×10包 | 改为待核 | 官网可核 8 片×10 包物料，通用门店查询未对应同款当前直接销售结果。 | [深圳全棉时代科技有限公司](https://www.purcotton.com/shijin/609.html)、[深圳全棉时代科技有限公司](https://www.purcotton.com/origin/) |
 | 全棉时代 宁夏四件套 PBT221035UD06150 | 改为待核 | 官网可核 PBT221035UD06150，通用门店查询未对应该规格当前直接销售结果。 | [深圳全棉时代科技有限公司](https://www.purcotton.com/chuangshangyongpin/749.html)、[深圳全棉时代科技有限公司](https://www.purcotton.com/origin/) |
 | 全棉时代 花园颂歌绿＋梧枝绿六层浴巾 80×140cm | 改为待核 | 官网可核此 80×140cm 浴巾，通用门店查询未对应同款当前直接销售结果。 | [深圳全棉时代科技有限公司](https://www.purcotton.com/weiyuyongpin/752.html)、[深圳全棉时代科技有限公司](https://www.purcotton.com/origin/) |
+
+## 键鼠、显示器与固态硬盘补充检查
+
+四款新增资料的大陆销售检查均为待核；没有从隐藏库存模板、相邻 SKU 或混合评论推断当前可购买。
+
+| 商品 | 已找到的大陆资料 | 待补项 |
+| --- | --- | --- |
+| 雷柏 E9350G 白色 99 键 | [苏宁直接商品页](https://product.suning.com/0000000000/12333525757.html)，标题、主图及键数相互对应。 | 当前地区库存、销售法人和供货批次。参数表数字区字段与图片不一致，未采用该字段。 |
+| 雷柏 MT760 雅醺黑 | [官网准确型号](https://www.rapoo.cn/product/764)；[京东分类页](https://www.jd.com/brand/670f0100b886f005ce9.html)对应货号 10162153427726。 | 当前报价与地区供货、销售法人、赠品规则。邻近 mini 和 P5 底座套装不属于此货号。 |
+| 致态 TiPlus7100 普通版 2TB | [苏宁直接商品页](https://product.suning.com/0000000000/12442318183.html)，主图自身同时标示型号及 2TB。 | 当前动态可售、销售法人及配送。官网系列图中的 4TB 不能代替本款。 |
+| 惠科猎鹰 G27H2Max 27 英寸 2K | [京东准确型号商品页](https://item.jd.com/product/h8gJnabnUlZI5Ctnwdok9g.html)，标题及人民币报价。 | 当前销售法人及地区供货；评论混有 4K 型号，未用于核本款参数、产地或供货。 |

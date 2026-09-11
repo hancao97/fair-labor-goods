@@ -2946,6 +2946,174 @@
       "checkedAt": "2026-09-12",
       "locator": "京东 dGcaNsa4eFPXbndrEQAk3A 商品页引用的包装更替图",
       "type": "零售商商品宣传图"
+    },
+    {
+      "id": "rapoo-annual-2025",
+      "title": "雷柏科技 2025 年报：外协生产与员工范围",
+      "publisher": "深圳雷柏科技股份有限公司 / 深圳证券交易所",
+      "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-04-28/5d645f6b-2958-4cc3-8df2-dbd64e767c57.PDF",
+      "summary": "年报第 29 页明确继续完善外协生产模式下的供应链；第 50—51 页披露本公司员工及劳务外包情况，第 55 页介绍员工权益管理。",
+      "limitation": "劳务外包栏不适用，不等于没有外协生产。员工统计与制度不能覆盖供应商雇员；报告没有给出所选键鼠生产班组的实际周工时和每周休息记录。",
+      "publishedAt": "2026-04-28",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF/印刷第 29、50—51、55 页",
+      "type": "交易所披露的企业年报"
+    },
+    {
+      "id": "rapoo-e9350g-official",
+      "title": "雷柏刀锋系列：E9350G 的准确键数与型号",
+      "publisher": "深圳雷柏科技股份有限公司",
+      "url": "https://rapoo.cn/news/72",
+      "summary": "2021 年官方新闻将 E9050G、E9350G、E9550G 分别对应 78、99、110 键，确认 E9350G 为 99 键多模键盘。",
+      "limitation": "历史产品发布不证明当前库存；系列介绍没有具体制造法人、当前批次或劳动记录。不同型号不能互换规格。",
+      "publishedAt": "2021-12-13",
+      "checkedAt": "2026-09-12",
+      "locator": "刀法精准、构建使用场景段落及三型号键数",
+      "type": "企业官网"
+    },
+    {
+      "id": "rapoo-e9350g-white-suning",
+      "title": "E9350G 白色 99 键：苏宁直接商品资料",
+      "publisher": "苏宁易购公开商品页",
+      "url": "https://product.suning.com/0000000000/12333525757.html",
+      "summary": "标题、主图和详情列 E9350G 白色 99 键，正面可见数字区。同页底面示例可辨型号 E9350G 与 Made in China，但未能单独对应白色变体。",
+      "limitation": "参数栏是否有数字键盘与图片不一致，未采用该字段。黑色底壳示例不独立证明所选白色批次产地；制造法人、厂址和当前地区可售结果未核，不采用隐藏库存模板。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品标题、白色主图、99 键参数图及同页底面示例；排除不一致字段",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "rapoo-mt760-official",
+      "title": "雷柏 MT760 雅醺黑：官方型号与配件范围",
+      "publisher": "深圳雷柏科技股份有限公司",
+      "url": "https://www.rapoo.cn/product/764",
+      "summary": "官网列 MT760 雅醺黑、蓝牙/2.4G/有线连接、125×81×47mm，说明无线充电模块及触点充电模块需另购。",
+      "limitation": "是 MT760 全尺寸款，不能换用 mini 或 NL 型号资料。官网报价展示未对应当前订单或地区库存；底面展示图没有可读制造法人或产地标识。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "MT760 标题、雅醺黑颜色组、参数及另购充电模块说明",
+      "type": "企业官网"
+    },
+    {
+      "id": "rapoo-mt760-black-jd",
+      "title": "MT760 雅醺黑：京东准确零售货号",
+      "publisher": "京东公开商品分类页",
+      "url": "https://www.jd.com/brand/670f0100b886f005ce9.html",
+      "summary": "卡片题名明确 MT760-雅醺黑，指向货号 10162153427726，并标注送鼠标垫；与相邻 mini、其他颜色和 P5 底座套装分别列示。",
+      "limitation": "分类页可对应准确型号，未取得该卡片动态价格、销售法人及地区供货结果。赠品按商家当前规则核对；不把包含底座的相邻货号当作本款配置。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "MT760-雅醺黑送鼠标垫卡片，货号 10162153427726",
+      "type": "零售商分类商品资料"
+    },
+    {
+      "id": "ymtc-company-intro",
+      "title": "长江存储：公司名称、制造业务与致态品牌",
+      "publisher": "长江存储科技有限责任公司",
+      "url": "https://www.ymtc.com/cn/intro.html",
+      "summary": "官网介绍长江存储科技有限责任公司总部在武汉，业务包括芯片设计、生产制造、封装测试及存储系统产品，历程列致态零售 SSD 上市。",
+      "limitation": "总部与 IDM 业务范围不等于每件 SSD 所有部件和装配均在同一厂区完成；没有具体商品批次、部件来源或生产人员劳动记录。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "企业简介与 2020 年致态零售 SSD 品牌历程",
+      "type": "企业官网"
+    },
+    {
+      "id": "ymtc-nankai-hiring-2027",
+      "title": "长江存储 2027 届校招：五险一金与假期承诺",
+      "publisher": "南开大学就业指导中心（企业招聘公告）",
+      "url": "https://career.nankai.edu.cn/correcruit/content/id/117592.html",
+      "summary": "2026 年 9 月发布的 2027 届校招列制造、设计等岗位范围，福利包括五险一金、法定及公司年休假、带薪病假和商业保险。",
+      "limitation": "校招承诺没有每周工时和休息天数，不代表工厂全部工种、外包人员或当前实际履行；不能将年休假转换成每周双休。",
+      "publishedAt": "2026-09-03",
+      "checkedAt": "2026-09-12",
+      "locator": "招聘岗位范围、为什么选择长江存储及全面员工福利",
+      "type": "高校发布的企业招聘"
+    },
+    {
+      "id": "ymtc-official-benefits",
+      "title": "长江存储公开薪酬福利介绍",
+      "publisher": "长江存储科技有限责任公司",
+      "url": "https://www.ymtc.com/cn/incentives_rewards.html",
+      "summary": "官网介绍法定福利之外的商业保险、福利假期、人才公寓、通勤班车及职业健康中心。",
+      "limitation": "通用福利介绍没有各生产岗位的周工时、休息或工资社保履行记录，不能扩展为全部班组达标。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "薪资、福利及生活段落",
+      "type": "企业官网"
+    },
+    {
+      "id": "zhitai-tiplus7100-official",
+      "title": "致态 TiPlus7100 官方系列规格",
+      "publisher": "长江存储科技有限责任公司",
+      "url": "https://www.ymtc.com/cn/products/43.html?cat=44%3Fcat%3D40",
+      "summary": "官网列 TiPlus7100 普通系列、M.2 2280 与 PCIe Gen4×4，容量含 2048GB，并提示京东与天猫品牌渠道。",
+      "limitation": "系列页面包含多个容量，品牌渠道提示没有对应具体库存。当前查看的官网主图为 4TB，不能用作本条 2TB 图片或产地证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "TiPlus7100 规格表、容量与购买渠道提示",
+      "type": "企业官网"
+    },
+    {
+      "id": "zhitai-tiplus7100-2tb-suning",
+      "title": "TiPlus7100 2TB：准确零售规格与中国制造标签",
+      "publisher": "苏宁易购公开商品页",
+      "url": "https://product.suning.com/0000000000/12442318183.html",
+      "summary": "标题和同页主图均为普通 TiPlus7100 2TB；该图标签可读 Made In China 和 Yangtze Memory Technologies Co.,Ltd。",
+      "limitation": "商品示例标签未给出厂址，也没有明确公司在本批次的制造角色；当前到货、原料部件产地与劳动条件分别待核。零售动态可售结果未取得，不采用页面上市时间字段。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "直接商品标题、2TB 主图上型号/容量/产地及公司名",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "hkc-chuzhou-hiring-2025",
+      "title": "滁州惠科光电招聘：生产岗位长班与上五休一",
+      "publisher": "安徽国防科技职业学院就业信息网（企业招聘）",
+      "url": "https://www.acdt.edu.cn/jyb/info/1003/6619.htm",
+      "summary": "滁州惠科光电科技有限公司检验员、技术员招聘写明白班 8—20 点、夜班 20—8 点，含两小时吃饭休息，实际工作十小时；上五休一、月休五天。正式工列五险一金，实习生列商业保险。",
+      "limitation": "该招聘安排不满足本项目每周 40 小时及两天休息的筛选起点，但不是实际考勤或违法认定。范围是滁州面板生产岗位，未确认其为 G27H2Max 面板供应商；不能扩展至惠科全集团。",
+      "publishedAt": "2025-06-05",
+      "checkedAt": "2026-09-12",
+      "locator": "滁州惠科光电科技有限公司、班次、检验员/技术员与福利段落",
+      "type": "高校发布的企业招聘"
+    },
+    {
+      "id": "hkc-zhengzhou-hiring-2025",
+      "title": "郑州惠科光电招聘：组装与打包的用工主体",
+      "publisher": "郑州航空港经济综合实验区政府网站（转港才直通）",
+      "url": "https://m.zzhkgq.gov.cn/2025/06-30/3530570.html",
+      "summary": "公告列郑州惠科光电有限公司及电视整机生产业务；组装、打包、生产操作等为正式工，工资结构含加班费，福利列五险一金。",
+      "limitation": "没有具体周工时、每周休息和履行记录；电视生产基地不自动成为本款桌面显示器装配厂，不能套用滁州招聘班次。",
+      "publishedAt": "2025-06-30",
+      "checkedAt": "2026-09-12",
+      "locator": "企业简介与岗位名称一组装工、打包工等",
+      "type": "政府网站发布的企业招聘"
+    },
+    {
+      "id": "hkc-g27h2max-manual",
+      "title": "惠科 G27H2Max 说明书：型号与责任企业",
+      "publisher": "惠科股份有限公司",
+      "url": "https://file.szhk.com.cn/upload/download/2025-08/6892f10f6d1c6.pdf",
+      "summary": "说明书基本参数列产品型号 MG27H11QS3、销售型号 G27H2Max、27 英寸及 2560×1440；末页列惠科股份有限公司和深圳石岩地址。",
+      "limitation": "PDF 为一张长页，参数在印刷第 11 页位置。末页公司及联系地址不能独立指定当前显示器的实际装配厂；不能把本款与 235Hz G27Max 或 4K 型号合并。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "单页长幅 PDF 的印刷第 11 页基本参数与最后一栏企业名称、地址",
+      "type": "企业官方产品说明书"
+    },
+    {
+      "id": "hkc-g27h2max-jd",
+      "title": "HKC 猎鹰 G27H2Max：京东直接零售资料",
+      "publisher": "京东公开商品页",
+      "url": "https://item.jd.com/product/h8gJnabnUlZI5Ctnwdok9g.html",
+      "summary": "商品标题列猎鹰 G27H2Max、27 英寸、2K、220Hz；页面有人民币报价及购买入口。",
+      "limitation": "当前地区供货结果和具体销售法人未核。评论混有 27U165A 等不同型号，不采用这些评论的参数、照片或评价证明本款。零售标题不证明制造地及生产劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面题名及底部 G27H2Max 报价区域；排除混合评论和推荐商品",
+      "type": "零售商商品页"
     }
   ],
   "companies": [
@@ -6911,6 +7079,176 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "取得当前 5kg 礼盒的果园或批次追溯、分选包装责任者及国内配送，再分别补种植、采摘、包装和冷链实际劳动资料。"
+    },
+    {
+      "id": "rapoo",
+      "name": "雷柏",
+      "legalName": "深圳雷柏科技股份有限公司",
+      "location": "广东深圳；具体键鼠外协制造地点待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "年报披露外协生产 · 制造劳动待核",
+      "scope": "2025 年上市公司年报、E9350G 与 MT760 官方资料；品牌员工和外协生产人员分别核查。",
+      "finding": "年报明确采用外协生产模式。公司员工权益管理与劳务外包统计不能证明供应商雇员每周 40 小时、休息两天；两款键鼠的实际制造厂尚未锁定。",
+      "caveats": [
+        "外协生产和劳务外包是不同披露口径；不能用劳务外包不适用推断没有代工人员。",
+        "企业福利制度和供应商考核没有给出具体制造班组的考勤、加班、工资社保与逐周休息记录。",
+        "E9350G 同页底面样例的国产字样没有单独对应白色变体；MT760 主图也没有制造标签。"
+      ],
+      "sourceIds": [
+        "rapoo-annual-2025",
+        "rapoo-e9350g-official",
+        "rapoo-mt760-official"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与研发运营",
+          "status": "unknown",
+          "detail": "2025 年报披露员工及权益管理，未核到实际工时和每周休息。",
+          "sourceIds": [
+            "rapoo-annual-2025"
+          ]
+        },
+        {
+          "stage": "键鼠外协制造",
+          "status": "unknown",
+          "detail": "年报明确外协生产模式；E9350G 和 MT760 当前制造商、厂址及班组尚未对应。",
+          "sourceIds": [
+            "rapoo-annual-2025",
+            "rapoo-e9350g-white-suning",
+            "rapoo-mt760-official"
+          ]
+        },
+        {
+          "stage": "部件与供应商",
+          "status": "unknown",
+          "detail": "供应商考核与品质协同不等于部件厂劳动履行证明；具体供应商和实际记录仍缺。",
+          "sourceIds": [
+            "rapoo-annual-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得两款当前大陆供货批次的制造铭牌与外协厂清单，再核对工厂及关键部件人员的实际劳动记录。"
+    },
+    {
+      "id": "ymtc",
+      "name": "长江存储 / 致态",
+      "legalName": "长江存储科技有限责任公司",
+      "location": "湖北武汉；SSD 具体封装及装配厂区待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "国内存储企业 · 生产工时待核",
+      "scope": "长江存储公开企业业务与 2027 届校招福利；晶圆、封装测试、SSD 装配和相关外包分别核查。",
+      "finding": "官网和校招有五险一金、假期等承诺，未披露所选生产岗位的实际周工时与每周双休。TiPlus7100 2TB 图片有中国制造字样，但实际装配厂与劳动记录仍缺。",
+      "caveats": [
+        "法定年休假、公司福利假期与每周休息是不同概念；没有据此填入每周 40 小时或双休。",
+        "武汉总部、芯片制造业务和自主品牌不能证明所选 SSD 全部部件及装配均在同一国内厂区。",
+        "官网社会责任附件要求登录，本次未查阅；招聘网站安全验证页也未作为劳动证据。"
+      ],
+      "sourceIds": [
+        "ymtc-company-intro",
+        "ymtc-nankai-hiring-2027",
+        "ymtc-official-benefits"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与员工制度",
+          "status": "unknown",
+          "detail": "官网福利和 2027 届校招明确部分待遇，但无实际周工时或逐周休息记录。",
+          "sourceIds": [
+            "ymtc-nankai-hiring-2027",
+            "ymtc-official-benefits"
+          ]
+        },
+        {
+          "stage": "晶圆及封装测试",
+          "status": "unknown",
+          "detail": "企业介绍确认相关制造业务；本款 NAND、封装批次和生产班组仍未对应。",
+          "sourceIds": [
+            "ymtc-company-intro",
+            "zhitai-tiplus7100-official"
+          ]
+        },
+        {
+          "stage": "SSD 装配与部件",
+          "status": "unknown",
+          "detail": "2TB 示例标签写中国制造及公司英文名，没有具体装配厂址和部件来源，也没有相关外包劳动记录。",
+          "sourceIds": [
+            "zhitai-tiplus7100-2tb-suning"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "对应 TiPlus7100 2TB 当前供货批次的装配、晶圆与封装主体，核查轮班岗位实际周工时、逐周休息、工资社保及关键部件供应商。"
+    },
+    {
+      "id": "hkc",
+      "name": "惠科 / HKC",
+      "legalName": "惠科股份有限公司",
+      "location": "广东深圳；滁州面板与郑州整机招聘主体分别记录",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "关联厂区招聘：日实际工作 10 小时",
+      "restLabel": "关联厂区招聘：上五休一",
+      "cardNote": "关联厂区长班招聘 · 本款制造链待核",
+      "scope": "惠科品牌、滁州惠科光电科技有限公司生产招聘和郑州惠科光电有限公司组装招聘；不合并为同一雇佣主体。",
+      "finding": "滁州 2025 年生产招聘披露每天实际工作十小时、上五休一，不符合本项目筛选起点。郑州组装招聘有五险一金但无周工时。两家都未确认对应本款显示器生产链。",
+      "caveats": [
+        "招聘内容保留 2025 年与具体法人、岗位；不当作当前考勤，不从招聘直接作违法认定。",
+        "滁州面板、郑州整机与深圳品牌责任企业分别核查，不把一地福利或班次套用全集团。",
+        "G27H2Max 说明书地址没有锁定当前批次的面板和装配来源；尚无本款生产者的实际劳动记录。"
+      ],
+      "sourceIds": [
+        "hkc-g27h2max-manual",
+        "hkc-chuzhou-hiring-2025",
+        "hkc-zhengzhou-hiring-2025"
+      ],
+      "supply": [
+        {
+          "stage": "品牌责任企业",
+          "status": "unknown",
+          "detail": "官方说明书列惠科股份有限公司；品牌运营人员实际工时与休息未核。",
+          "sourceIds": [
+            "hkc-g27h2max-manual"
+          ]
+        },
+        {
+          "stage": "显示面板生产",
+          "status": "unknown",
+          "detail": "滁州生产招聘为十小时、上五休一；未确认该公司提供本款面板，也未取得当前班组实际记录。",
+          "sourceIds": [
+            "hkc-chuzhou-hiring-2025"
+          ]
+        },
+        {
+          "stage": "整机装配与部件",
+          "status": "unknown",
+          "detail": "郑州招聘提供整机组装主体线索，但未对应 G27H2Max；显示器装配厂、其他部件与相关外包人员仍待核。",
+          "sourceIds": [
+            "hkc-zhengzhou-hiring-2025",
+            "hkc-g27h2max-manual"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "先核 G27H2Max 当前整机铭牌和面板供应链，再分别核查真实生产法人、班组与时期；不沿用未对应的滁州或郑州安排。"
     }
   ],
   "products": [
@@ -12067,6 +12405,221 @@
           ]
         }
       }
+    },
+    {
+      "id": "rapoo-e9350g-white",
+      "name": "E9350G 99 键多模键盘（白色）",
+      "brand": "雷柏",
+      "companyId": "rapoo",
+      "category": "electronics",
+      "description": "白色 E9350G，99 键，带数字区；官方型号资料与零售主图相互对应。",
+      "tags": [
+        "键盘",
+        "E9350G",
+        "99键"
+      ],
+      "needs": [
+        "键盘"
+      ],
+      "url": "https://product.suning.com/0000000000/12333525757.html",
+      "relationshipSourceIds": [
+        "rapoo-e9350g-official",
+        "rapoo-e9350g-white-suning",
+        "rapoo-annual-2025"
+      ],
+      "market": "找到准确白色 99 键直接商品资料；当前地区库存、销售法人及供货批次待核。",
+      "relationship": "官方新闻确认 E9350G 型号，苏宁确认白色规格。年报存在外协生产，不能把雷柏总部地址填成此键盘制造厂。",
+      "image": "images/rapoo-e9350g-white.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/A1DyshduBT0li4kBLZrbJA.jpg_800w_800h_4e",
+      "imageRights": "雷柏及图片相关权利人；苏宁公开展示，具体图片著作权归属未单独核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "找到准确白色 99 键直接商品资料；当前地区库存、销售法人及供货批次待核。",
+          "sourceIds": [
+            "rapoo-e9350g-white-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "同页 E9350G 底面示例可读 Made in China，但白色变体对应、实际制造法人、厂址及当前批次仍待核。",
+          "sourceIds": [
+            "rapoo-e9350g-white-suning",
+            "rapoo-annual-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "雷柏年报披露外协生产，未取得本款外协厂的实际工时、每周休息及工资社保记录。",
+          "sourceIds": [
+            "rapoo-annual-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rapoo-mt760-black",
+      "name": "MT760 多模鼠标（雅醺黑）",
+      "brand": "雷柏",
+      "companyId": "rapoo",
+      "category": "electronics",
+      "description": "MT760 全尺寸雅醺黑，支持蓝牙、2.4G 与有线连接；无线及触点充电模块需另购。",
+      "tags": [
+        "鼠标",
+        "MT760",
+        "雅醺黑"
+      ],
+      "needs": [
+        "鼠标"
+      ],
+      "url": "https://www.rapoo.cn/product/764",
+      "relationshipSourceIds": [
+        "rapoo-mt760-official",
+        "rapoo-mt760-black-jd",
+        "rapoo-annual-2025"
+      ],
+      "market": "官网型号与京东货号 10162153427726 相互对应；地区供货、当前销售主体及赠品规则待核。",
+      "relationship": "雷柏官网直接列 MT760 雅醺黑及对应图片，零售卡片为同款颜色；尚未锁定实际生产法人。",
+      "image": "images/rapoo-mt760-black.webp",
+      "imageMode": "contain",
+      "imageSource": "https://rpw.rapoo.cn/goods/gallery/1730277791038.jpg",
+      "imageRights": "Rapoo雷柏及相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网型号与京东货号 10162153427726 相互对应；地区供货、当前销售主体及赠品规则待核。",
+          "sourceIds": [
+            "rapoo-mt760-official",
+            "rapoo-mt760-black-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官网角度图没有可读制造地或工厂标签；中国品牌及国内零售不独立证明这款鼠标在中国生产。",
+          "sourceIds": [
+            "rapoo-mt760-official",
+            "rapoo-annual-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "品牌年报的员工管理不覆盖未锁定的外协制造班组；实际工时、休息与部件供应商劳动记录待补。",
+          "sourceIds": [
+            "rapoo-annual-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zhitai-tiplus7100-2tb",
+      "name": "TiPlus7100 固态硬盘（普通版 2TB）",
+      "brand": "致态",
+      "companyId": "ymtc",
+      "category": "electronics",
+      "description": "普通版 2TB M.2 2280 固态硬盘，PCIe 4.0 NVMe；采用自身可读 2TB 标识的商品图。",
+      "tags": [
+        "固态硬盘",
+        "SSD",
+        "TiPlus7100",
+        "2TB"
+      ],
+      "needs": [
+        "固态硬盘"
+      ],
+      "url": "https://product.suning.com/0000000000/12442318183.html",
+      "relationshipSourceIds": [
+        "ymtc-company-intro",
+        "zhitai-tiplus7100-official",
+        "zhitai-tiplus7100-2tb-suning"
+      ],
+      "market": "官网规格与苏宁普通版 2TB 直接商品资料已对应；当前销售法人、库存及地区配送待核。",
+      "relationship": "官网确认致态品牌与系列；零售 2TB 标签列长江存储英文公司名及中国制造，尚无实际装配厂址或当前批次追溯。",
+      "image": "images/zhitai-tiplus7100-2tb.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/qnnV4FQmDTDslgOED16RAw.jpg_800w_800h_4e",
+      "imageRights": "致态/长江存储及图片相关权利人；苏宁公开展示，具体图片著作权归属未单独核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "官网规格与苏宁普通版 2TB 直接商品资料已对应；当前销售法人、库存及地区配送待核。",
+          "sourceIds": [
+            "zhitai-tiplus7100-official",
+            "zhitai-tiplus7100-2tb-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "2TB 零售示例标签可读 Made In China 与公司英文名，属于产地线索；实际装配法人角色、厂址和当前供货批次仍未对应，也不证明全部部件国产。",
+          "sourceIds": [
+            "zhitai-tiplus7100-2tb-suning",
+            "ymtc-company-intro"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "校招与官网福利未给出晶圆、封装、装配班组的实际周工时、每周休息及工资社保记录，尚不能确认生产劳动条件。",
+          "sourceIds": [
+            "ymtc-nankai-hiring-2027",
+            "ymtc-official-benefits"
+          ]
+        }
+      }
+    },
+    {
+      "id": "hkc-g27h2max",
+      "name": "猎鹰 G27H2Max 显示器（27 英寸 2K）",
+      "brand": "HKC 惠科",
+      "companyId": "hkc",
+      "category": "electronics",
+      "description": "官方说明书列 G27H2Max / MG27H11QS3，27 英寸、2560×1440；京东同名款标称 220Hz。",
+      "tags": [
+        "显示器",
+        "G27H2Max",
+        "27英寸",
+        "2K"
+      ],
+      "needs": [
+        "显示器"
+      ],
+      "url": "https://item.jd.com/product/h8gJnabnUlZI5Ctnwdok9g.html",
+      "relationshipSourceIds": [
+        "hkc-g27h2max-manual",
+        "hkc-g27h2max-jd"
+      ],
+      "market": "已找到准确型号的官方说明书与京东人民币报价；当前地区可售、销售法人和供货批次待核。 主图宣传标价不代表当前报价。",
+      "relationship": "说明书确认销售型号 G27H2Max 与惠科股份有限公司；实际整机装配厂和面板供应商尚未对应。",
+      "image": "images/hkc-g27h2max.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/464645/6/10472/137026/6a42199dF8c19d695/0083320320ee46e9.jpg",
+      "imageRights": "HKC及商品宣传图相关权利人；京东公开展示，具体图片著作权主体未单独确认",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已找到准确型号的官方说明书与京东人民币报价；当前地区可售、销售法人和供货批次待核。 主图宣传标价不代表当前报价。",
+          "sourceIds": [
+            "hkc-g27h2max-jd",
+            "hkc-g27h2max-manual"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "说明书列深圳企业与地址，但未取得当前整机铭牌和制造批次；不能指定滁州或郑州关联厂为本款生产者。",
+          "sourceIds": [
+            "hkc-g27h2max-manual",
+            "hkc-chuzhou-hiring-2025",
+            "hkc-zhengzhou-hiring-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未锁定本款生产人员。已查滁州关联厂招聘长班、上五休一，但不可将其当作本款已核实班次或全集团结论。",
+          "sourceIds": [
+            "hkc-chuzhou-hiring-2025",
+            "hkc-zhengzhou-hiring-2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -12594,12 +13147,24 @@
         {
           "label": "路由器",
           "query": "路由器"
+        },
+        {
+          "label": "固态硬盘",
+          "query": "固态硬盘"
         }
       ],
-      "note": "已补中国品牌手机和联想具体笔记本货号；总部、客服和供应商汇总资料不能替代装配工厂。型号与国内制造批次继续核对。",
+      "note": "新增雷柏 E9350G 键盘、MT760 鼠标、惠科 G27H2Max 显示器和致态 TiPlus7100 普通版 2TB；补固态硬盘需求。品牌福利、外协生产和具体工厂分开核查，四款当前供货、制造批次及实际劳动证据均待补。台式电脑、移动电源、路由器继续查。",
       "sourceIds": [
         "apple-rcc-job",
-        "anker-2024"
+        "anker-2024",
+        "rapoo-annual-2025",
+        "rapoo-e9350g-white-suning",
+        "rapoo-mt760-black-jd",
+        "ymtc-nankai-hiring-2027",
+        "zhitai-tiplus7100-2tb-suning",
+        "hkc-chuzhou-hiring-2025",
+        "hkc-g27h2max-manual",
+        "hkc-g27h2max-jd"
       ]
     },
     {
