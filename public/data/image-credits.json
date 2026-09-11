@@ -1738,8 +1738,8 @@
       "model": "儿童包装版本；OMEGA-3营养蛋系列；20枚；1000g",
       "official_source_page_url": "https://www.sundaily.cn/product.aspx?t=2&type=4",
       "image_url": "https://www.sundaily.cn/Uploadfiles/Picture/2025-7-5/2025751337486329.png",
-      "market_verification": "圣迪乐中国官网该页正文明确OMEGA-3营养蛋、1000g（20枚），并链接天猫购买。未以旧导航“谷物鲜蛋”替代正文品名。",
-      "notes": "正文为OMEGA-3营养蛋系列，实际所用图是橙粉色儿童超级营养蛋包装版本；条目名称保留儿童版本。不按旧导航“谷物鲜蛋”或URL参数猜测商品。未从所见正面与右侧图读取到生产商或具体产地。",
+      "market_verification": "官网儿童超级营养蛋示例为 20 枚 / 1000g；京东同名系列为儿童 OMEGA-3 20 枚 / 2 斤，宣传图提示新老包装交替。缺完整条码和生产标签，不能认定与官网示例为完全相同版本或当前可购买。",
+      "notes": "沿用橙粉色儿童超级营养蛋的官网主图。京东零售资料有名称和包装差异、并提示新老包装交替；未用其缩略图或他人晒单替换主图。所有所查示例均未取得可读养殖、分装主体及当前批次标签。",
       "filename": "images/sundaily-omega3-eggs20.webp",
       "final_image_url": "https://www.sundaily.cn/Uploadfiles/Picture/2025-7-5/2025751337486329.png",
       "content_type": "image/png",
@@ -1760,16 +1760,18 @@
         "manufacturer": null,
         "production_address": null,
         "source_urls": [],
-        "evidence": "官方图片可见包装正面及部分右侧；未读到生产者名称、农场/包装厂地址或具体产地。不能按品牌或国内官网推断该20枚装的生产农场。",
+        "evidence": "官方主图未读到生产者或具体农场、分装厂地址。官网正文明确进口亚麻籽喂养；这只说明部分喂养原料来自境外，不能据此判定鸡蛋产地，也不能声称全链原料均为国产。",
         "consumer_batch_status": "not_verified",
         "scope": "No consumer-supplied package or delivered batch was inspected."
       },
       "china_sale_evidence": {
         "status": "official_mainland_product_information",
         "source_urls": [
-          "https://www.sundaily.cn/product.aspx?t=2&type=4"
+          "https://www.sundaily.cn/product.aspx?t=2&type=4",
+          "https://item.jd.com/product/dGcaNsa4eFPXbndrEQAk3A.html",
+          "https://img12.360buyimg.com/n4/s114x114_jfs/t1/479895/7/10399/86071/6a5ee6a7F8c08d793/00833203207cf496.jpg"
         ],
-        "evidence": "圣迪乐中国官网该页正文明确OMEGA-3营养蛋、1000g（20枚），并链接天猫购买。未以旧导航“谷物鲜蛋”替代正文品名。",
+        "evidence": "官网儿童超级营养蛋示例为 20 枚 / 1000g；京东同名系列为儿童 OMEGA-3 20 枚 / 2 斤，宣传图提示新老包装交替。缺完整条码和生产标签，不能认定与官网示例为完全相同版本或当前可购买。",
         "inventory_status": "not_checked"
       },
       "status": "image_verified",
@@ -5175,6 +5177,71 @@
         "bytes": 17892,
         "sha256": "2f6d774bc99b58cc092a9f04b72edeccde9828aff45b6d5a1fdd9e069953dff5"
       },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "huasheng-jinzun-apples5kg",
+      "product_name": "华圣金尊优悦红富士苹果礼盒 5kg（京东卡片标称）",
+      "model": "金尊优悦礼盒；京东商品链接12691052092；5kg为卡片标称",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/394892/22/2950/82304/6982e636Fd4a4fcc0/00833203204a0618.jpg",
+      "official_source_page_url": "https://www.jd.com/jiage/122189511bf3a44cc461d.html",
+      "final_image_url": "https://img30.360buyimg.com/n7/jfs/t1/394892/22/2950/82304/6982e636Fd4a4fcc0/00833203204a0618.jpg",
+      "source_type": "中国大陆京东公开零售资料页面；不是品牌官网",
+      "width": 220,
+      "height": 220,
+      "bytes": 6552,
+      "content_type": "image/jpeg",
+      "sha256": "199263555e8bad620f4725b08cf952b2a234e72461f0320188c7edf39758cf0c",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "华圣及商品图片相关权利人",
+        "license": "未找到明确开放许可；公开可访问不等于无限制复用授权。"
+      },
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆零售资料；不代表当前库存或境内生产",
+      "matching_limitations": [
+        "同一张卡片的标题、商品链接12691052092和data-lazy-img直接对应，没有使用其他华圣礼盒图片。",
+        "原始实际引用文件仅220×220；未猜测更大图URL，未放大或修改，低于400px偏好。",
+        "图为红金色礼盒与苹果的零售宣传图；包装上的细字不足以独立核实“金尊优悦”、5kg、果数或果径。",
+        "直接数值商品页正常请求只返回京东泛化页面；未取得同款箱侧/背面标签，未绕过登录或风控。",
+        "“航天级”等卡片及图片宣传语不属于本次验证结论。"
+      ],
+      "china_sale_evidence": {
+        "status": "mainland_retail_category_card",
+        "source_urls": [
+          "https://www.jd.com/jiage/122189511bf3a44cc461d.html",
+          "https://item.jd.com/12691052092.html"
+        ],
+        "evidence": "大陆京东公开分类页准确卡片标称金尊优悦红富士苹果5kg并链接到12691052092。直接商品页未能核读；不确认当前销售可下单或库存。",
+        "inventory_status": "not_verified"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer": null,
+        "production_address": null,
+        "packing_entity": null,
+        "orchard": null,
+        "evidence": "准确卡片图仅220×220，未见可读箱侧产地/生产者/分装者标签。卡片标题“陕西洛川”只作为零售资料陈述，不能当作包装原产地或具体果园证明。",
+        "source_urls": [
+          "https://www.jd.com/jiage/122189511bf3a44cc461d.html"
+        ],
+        "consumer_batch_status": "not_verified"
+      },
+      "notes": "同一京东卡片将金尊优悦 5kg 标题、编号 12691052092 与此图对应。原图 220×220，仅作款式参考；未从图中认定净含量、果数、果径或箱侧产地，也未将航天宣传作为核验结论。",
+      "specification_evidence": {
+        "declared_weight": "5kg",
+        "weight_basis": "准确零售卡片标题；图片未独立读到净含量或称重记录",
+        "fruit_count": null,
+        "fruit_diameter": null
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 14699,
+        "sha256": "fca59a7d03da21c1553d5ff45d92e8123ef3c3e619114a2bfde1d46f6c9df21b"
+      },
+      "filename": "images/huasheng-jinzun-apples5kg.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]

@@ -1233,14 +1233,14 @@
     },
     {
       "id": "sundaily-omega-product",
-      "title": "圣迪乐 OMEGA-3 营养蛋官方 20 枚装",
+      "title": "圣迪乐 OMEGA-3 营养蛋官方 20 枚装及喂养原料",
       "publisher": "四川圣迪乐生态食品股份有限公司",
       "url": "https://www.sundaily.cn/product.aspx?t=2&type=4",
-      "summary": "页面正文为 OMEGA-3 营养蛋、1000g（20 枚），图片实际为儿童超级营养蛋包装，并链接天猫购买。",
-      "limitation": "旧导航写谷物鲜蛋；本条按正文和包装核对。营养字样为产品名称，不代表本站验证营养比较或儿童健康效果；产地仍待背标核对。",
+      "summary": "正文列 OMEGA-3 营养蛋、1000g（20 枚），图片为儿童超级营养蛋包装；同时明确采用进口亚麻籽喂养，并提供天猫商品跳转。",
+      "limitation": "进口的是喂养原料，不能由此判定鸡蛋在国外生产，也不能声称原料全来自境内。旧导航与正文名称不同，按正文和包装核对；营养字样不代表本站验证健康效果。实际养殖和分装基地仍待核。",
       "publishedAt": null,
       "checkedAt": "2026-09-12",
-      "locator": "页面正文",
+      "locator": "OMEGA-3 营养蛋正文、净含量、喂养原料及购买链接",
       "type": "企业官网"
     },
     {
@@ -2874,6 +2874,78 @@
       "checkedAt": "2026-09-12",
       "locator": "页面本商品标题、报价及购买信息区域（不使用推荐商品）",
       "type": "零售商商品资料页"
+    },
+    {
+      "id": "sundaily-omega-jd-retail",
+      "title": "圣迪乐 OMEGA-3 儿童鸡蛋 20 枚：京东零售资料",
+      "publisher": "京东公开商品页（标题标示京东自营源头直发）",
+      "url": "https://item.jd.com/product/dGcaNsa4eFPXbndrEQAk3A.html",
+      "summary": "页面题名为圣迪乐村 OMEGA-3 儿童鲜鸡蛋，20 枚、净重 2 斤，公开显示价格与购买入口。",
+      "limitation": "不能仅凭标题中的自营字样确认具体销售法人；当前地区库存未取得。零售包装与官网儿童版本、实际养殖及分装基地需进一步对应，不从评论推断营养、安全或劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品题名、规格与报价区域；不采用推荐商品和买家评论",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "wens-jingbao-processing-2026",
+      "title": "温氏晶宝 2026 年猪副产品招标：加工法人及用工范围",
+      "publisher": "广东温氏晶宝食品有限公司 / 温氏招标平台",
+      "url": "https://bid.wens.com.cn/zbgg/11142.jhtml",
+      "summary": "公告列出淮安温氏晶诚食品有限公司和滁州温氏晶宝食品有限公司及国内加工地点；条款规定中标客户承担加工中标产品所需人员的工资、社保等费用。",
+      "limitation": "仅为华东两家公司的指定猪副产品招标安排，不证明所有猪肉采用该用工方式，也不能指定它们为山姆顺德店肋排生产者。费用责任条款不是实际支付、考勤或休息的履行记录。",
+      "publishedAt": "2026-03-10",
+      "checkedAt": "2026-09-12",
+      "locator": "一、招标子公司简介；五、第 3 项加工人员费用责任",
+      "type": "企业招标公告"
+    },
+    {
+      "id": "huasheng-yulin-hiring-2022",
+      "title": "华圣农业种植岗位招聘及五险一金承诺",
+      "publisher": "榆林大学现代农学院（历史招聘网页）",
+      "url": "https://smkxxy.yulinu.edu.cn/info/1211/5427.htm",
+      "summary": "2022 年招聘列陕西华圣现代农业集团及下属果业、种苗、营销和工厂业务；种植工程师、技术员工作地为宝鸡千阳和渭南白水，福利列五险一金。",
+      "limitation": "历史招聘不证明当前履行，正文没有每周工时或休息天数；不能把技术岗位福利推给所有果农、临时采摘人员及分选包装人员，也不指定某礼盒来源基地。",
+      "publishedAt": "2022-03-25",
+      "checkedAt": "2026-09-12",
+      "locator": "公司简介、种植工程师/种植技术员及福利待遇",
+      "type": "高校发布的企业招聘"
+    },
+    {
+      "id": "huasheng-nwafu-visit-2026",
+      "title": "西北农林科技大学 2026 年走访华圣农业",
+      "publisher": "西北农林科技大学园艺学院",
+      "url": "https://yyxy.nwsuaf.edu.cn/xsgz/xstd/c1a3152f931c4e3aa5edc65630dff2ac.htm",
+      "summary": "学院记录 7 月 23 日走访陕西华圣现代农业集团；企业介绍苗木繁育、果园管护和鲜果供应链岗位，涉及从种源研发到终端销售。",
+      "limitation": "属于校企走访记录，不是劳动审核，没有公布实际工时、工资社保记录或当前礼盒生产基地；同文另一企业农心的制度不归给华圣。",
+      "publishedAt": "2026-07-24",
+      "checkedAt": "2026-09-12",
+      "locator": "陕西华圣现代农业集团有限公司段落",
+      "type": "高校走访记录"
+    },
+    {
+      "id": "huasheng-jinzun-jd-listing",
+      "title": "华圣金尊优悦苹果 5kg 礼盒：准确零售货号",
+      "publisher": "京东公开商品分类页",
+      "url": "https://www.jd.com/jiage/122189511bf3a44cc461d.html",
+      "summary": "金尊优悦礼盒卡片标题列华圣、5kg、陕西洛川红富士苹果，并指向商品编号 12691052092。",
+      "limitation": "页面未显示该卡片价格或具体销售法人；准确货号不等于当前库存。标题产地不是本批次果园、分选厂和包装责任者的完整证据，航天宣传不证明劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "金尊优悦礼盒卡片及编号 12691052092；不采用相邻儿童 Q 果",
+      "type": "零售商分类商品资料"
+    },
+    {
+      "id": "sundaily-omega-retail-packaging",
+      "title": "圣迪乐 OMEGA-3 京东零售页的新旧包装说明",
+      "publisher": "京东该商品页实际引用的宣传图",
+      "url": "https://img12.360buyimg.com/n4/s114x114_jfs/t1/479895/7/10399/86071/6a5ee6a7F8c08d793/00833203207cf496.jpg",
+      "summary": "图中文字说明新老包装交替发货，并列儿童人像橙粉盒与橙金色 OMEGA-3 盒。",
+      "limitation": "原图仅 114×114；只用于说明页面展示包装更替，不作为主图。没有完整条码或可读生产标签，不能确认与官网儿童超级营养蛋示例为完全相同版本，更不确认当前到货包装、产地或制造主体。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "京东 dGcaNsa4eFPXbndrEQAk3A 商品页引用的包装更替图",
+      "type": "零售商商品宣传图"
     }
   ],
   "companies": [
@@ -5247,8 +5319,8 @@
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
       "cardNote": "工时与休息资料待补",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "集团下属广东生产法人有政府劳动评价，具体鸡蛋包装和生产基地仍需对应。",
+      "scope": "品牌及境内基地介绍、广东子公司 2025 年劳动评价与 OMEGA-3 系列原料说明；不同农场和分装主体分别核对。",
+      "finding": "广东生产法人有历史劳动评价，但未对应现有 20 枚装的养殖和分装基地。OMEGA-3 系列官网披露进口亚麻籽喂养，不能写成原料全来自国内。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
@@ -5256,7 +5328,8 @@
       ],
       "sourceIds": [
         "sundaily-company",
-        "kaiping-labor-2025"
+        "kaiping-labor-2025",
+        "sundaily-omega-product"
       ],
       "supply": [
         {
@@ -5274,13 +5347,15 @@
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
-          "sourceIds": []
+          "detail": "OMEGA-3 系列官网明确使用进口亚麻籽；饲料具体供应商及相关劳动记录仍未知，不能按境内养殖基地推断全部原料来自国内。",
+          "sourceIds": [
+            "sundaily-omega-product"
+          ]
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先取得同款当前包装的养殖、分装主体与批次，再核对实际生产人员的工时、休息、工资社保及喂养原料来源。",
       "assessments": [
         {
           "subject": "广东圣迪乐村生态食品有限公司",
@@ -6339,16 +6414,18 @@
       "hoursLabel": "40 小时依据待补",
       "restLabel": "报告披露每周五天工作制",
       "cardNote": "披露每周五天制 · 产线待核",
-      "scope": "集团 2025 年员工福利披露与 2026 年山姆顺德店猪肉销售记录；合作农户、屠宰法人及外包人员分别核对。",
-      "finding": "报告明确每周五天工作制，但没有取得具体生产岗位的周工时和逐周休息记录；当前肋排包装规格与生产法人也待补。",
+      "scope": "集团 2025 年员工福利、2026 年山姆顺德店销售记录及华东两家屠宰加工公司的猪副产品招标；合作农户、中标加工客户和集团员工分别核对。",
+      "finding": "报告披露每周五天制，尚无所选生产岗位的实际周工时。华东猪副产品公告另列中标客户承担加工人员工资社保，不能把集团员工福利套到这些人员。具体零售猪肉包装仍待补。",
       "caveats": [
         "每周五天的制度披露不能补写为已验证的每周 40 小时与两天实际休息。",
-        "报告单列劳务外包工时总量，不能将集团员工福利套到外包人员；合作农户及其雇员的劳动关系也需单独辨别。",
-        "山姆上架消息来自温氏自发文章，只点名温氏晶宝屠宰厂，不能自行指定某个晶宝法人或给肋排填写重量。"
+        "年度外包总工时不能换算成个人周工时；合作农户、农户雇员和集团员工的关系需分别辨别。",
+        "华东两家公司的副产品招标只支持对应业务安排，不代表所有产品均外包，也未确认当前实际履行情况。",
+        "山姆企业发布只点名温氏晶宝屠宰厂；不能据此指定广东、淮安或滁州某一法人，也不能给肋排猜填重量。"
       ],
       "sourceIds": [
         "wens-esg-2025",
-        "wens-sams-pork-2026"
+        "wens-sams-pork-2026",
+        "wens-jingbao-processing-2026"
       ],
       "supply": [
         {
@@ -6362,18 +6439,19 @@
         {
           "stage": "猪肉屠宰与分切",
           "status": "unknown",
-          "detail": "企业销售记录提到温氏晶宝屠宰厂，尚未锁定顺德门店肋排的确切法人、批次和班组。",
+          "detail": "公告可辨别广东温氏晶宝、淮安温氏晶诚与滁州温氏晶宝的主体关系；尚未把顺德门店肋排对应到某家工厂、批次和班组。",
           "sourceIds": [
-            "wens-sams-pork-2026"
+            "wens-sams-pork-2026",
+            "wens-jingbao-processing-2026"
           ]
         },
         {
           "stage": "合作养殖、外包与冷链",
           "status": "unknown",
-          "detail": "合作家庭农场与公司员工不能混同；外包总工时也不能用于判定每名工人的周工时。",
+          "detail": "合作农户及其雇员分别核对。华东猪副产品公告要求中标客户承担其加工人员工资社保，这些人员的实际条件不能由集团五天制推定。",
           "sourceIds": [
             "wens-esg-2025",
-            "wens-sams-pork-2026"
+            "wens-jingbao-processing-2026"
           ]
         }
       ],
@@ -6778,6 +6856,61 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "先以衣服标签匹配 OEM、ODM 生产法人和厂址，再取得各班组当前考勤、逐周休息、加班工资及社保记录。"
+    },
+    {
+      "id": "huasheng-fruit",
+      "name": "华圣农业 / 华圣苹果",
+      "legalName": "陕西华圣现代农业集团有限公司",
+      "location": "陕西西安；宝鸡千阳、渭南白水为历史招聘工作地，礼盒供货果园待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "种植岗位资料 · 生产劳动待核",
+      "scope": "集团国内苹果业务、2022 年种植技术岗位招聘与 2026 年校企走访；果农、子公司及临时用工分开核查。",
+      "finding": "有国内苹果业务与种植岗位线索，历史招聘承诺五险一金；未取得实际周工时、每周两天休息及现售礼盒的果园和分选主体对应。",
+      "caveats": [
+        "五险一金招聘承诺不证明当前工资社保、工时与休息均已履行；2022 年记录保留原始年份。",
+        "集团、种苗子公司、营销公司、分选包装厂和合作果农不能当作同一雇佣主体。",
+        "自营果农与受雇采摘人员的劳动关系需分别辨别，不从农产品品牌或质量荣誉推断劳动条件。"
+      ],
+      "sourceIds": [
+        "huasheng-yulin-hiring-2022",
+        "huasheng-nwafu-visit-2026"
+      ],
+      "supply": [
+        {
+          "stage": "集团与营销",
+          "status": "unknown",
+          "detail": "大学走访确认苹果业务和岗位范围，但未给出工作时长或实际休息记录。",
+          "sourceIds": [
+            "huasheng-nwafu-visit-2026"
+          ]
+        },
+        {
+          "stage": "果园种植与采收",
+          "status": "unknown",
+          "detail": "2022 年种植技术岗位有五险一金承诺；具体供货果园、雇佣主体和采摘人员实际条件未知。",
+          "sourceIds": [
+            "huasheng-yulin-hiring-2022"
+          ]
+        },
+        {
+          "stage": "分选包装与冷链",
+          "status": "unknown",
+          "detail": "历史资料列分选工厂和营销业务，未锁定金尊优悦礼盒当前分选、包装及运输主体。",
+          "sourceIds": [
+            "huasheng-yulin-hiring-2022",
+            "huasheng-jinzun-jd-listing"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得当前 5kg 礼盒的果园或批次追溯、分选包装责任者及国内配送，再分别补种植、采摘、包装和冷链实际劳动资料。"
     }
   ],
   "products": [
@@ -9535,7 +9668,7 @@
       "brand": "圣迪乐",
       "companyId": "sundaily",
       "category": "fresh",
-      "description": "官网展示的儿童包装版本鲜鸡蛋，按名称和枚数核对。",
+      "description": "官网儿童包装版本鲜鸡蛋，20 枚 / 1000g。官网明确使用进口亚麻籽喂养；鸡蛋的具体养殖、分装基地另核。",
       "tags": [
         "鸡蛋"
       ],
@@ -9544,10 +9677,12 @@
       ],
       "url": "https://www.sundaily.cn/product.aspx?t=2&type=4",
       "relationshipSourceIds": [
-        "sundaily-omega-product"
+        "sundaily-omega-product",
+        "sundaily-omega-jd-retail",
+        "sundaily-omega-retail-packaging"
       ],
-      "market": "官网可核 20 枚 / 1000g，通用电商入口未对应同款直接商品及当前地区配送。",
-      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "market": "已找到京东儿童 OMEGA-3 20 枚 / 2 斤零售资料，页面提示新老包装交替；与官网示例的完整版本对应、当前库存及地区配送仍待核。",
+      "relationship": "官网儿童超级营养蛋示例与零售儿童 OMEGA-3 系列的名称、包装有差异；页面同时提示包装更替。没有完整条码或生产标签，不能确认完全相同版本或指定养殖、分装法人。",
       "image": "images/sundaily-omega3-eggs20.webp",
       "imageMode": "contain",
       "imageSource": "https://www.sundaily.cn/Uploadfiles/Picture/2025-7-5/2025751337486329.png",
@@ -9555,15 +9690,20 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "官网可核 20 枚 / 1000g，通用电商入口未对应同款直接商品及当前地区配送。",
+          "detail": "已找到京东儿童 OMEGA-3 20 枚 / 2 斤零售资料，页面提示新老包装交替；与官网示例的完整版本对应、当前库存及地区配送仍待核。",
           "sourceIds": [
-            "sundaily-omega-product"
+            "sundaily-omega-product",
+            "sundaily-omega-jd-retail",
+            "sundaily-omega-retail-packaging"
           ]
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "尚需把当前具体规格、批次与中国境内生产厂或实际服务团队对应；不按品牌国别推断。",
-          "sourceIds": []
+          "detail": "尚未锁定该盒鸡蛋的养殖与分装基地。官网明确喂养原料含进口亚麻籽；这不等于鸡蛋境外生产，但不支持全链原料均在中国生产。",
+          "sourceIds": [
+            "sundaily-omega-product",
+            "sundaily-company"
+          ]
         },
         "productionLabor": {
           "status": "pending",
@@ -11874,6 +12014,59 @@
           ]
         }
       }
+    },
+    {
+      "id": "huasheng-jinzun-apples5kg",
+      "name": "金尊优悦红富士苹果礼盒（标称 5kg）",
+      "brand": "华圣",
+      "companyId": "huasheng-fruit",
+      "category": "fresh",
+      "description": "京东准确货号对应的金尊优悦礼盒，题名标注陕西洛川红富士苹果和 5kg；实际果数、果径与供货果园待核。",
+      "tags": [
+        "苹果",
+        "红富士",
+        "5kg"
+      ],
+      "needs": [
+        "苹果"
+      ],
+      "url": "https://www.jd.com/jiage/122189511bf3a44cc461d.html",
+      "relationshipSourceIds": [
+        "huasheng-jinzun-jd-listing",
+        "huasheng-yulin-hiring-2022",
+        "huasheng-nwafu-visit-2026"
+      ],
+      "market": "已定位京东商品编号 12691052092；当前可售结果、销售法人及地区配送待核。",
+      "relationship": "大学资料确认华圣农业苹果业务，京东卡片列华圣品牌及准确礼盒；尚未将该货号对应到具体果园、包装和销售法人。",
+      "image": "images/huasheng-jinzun-apples5kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/394892/22/2950/82304/6982e636Fd4a4fcc0/00833203204a0618.jpg",
+      "imageRights": "华圣及商品图片相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已定位京东商品编号 12691052092；当前可售结果、销售法人及地区配送待核。",
+          "sourceIds": [
+            "huasheng-jinzun-jd-listing"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "标题标注陕西洛川，但没有当前批次的果园、分选厂和包装责任者标签；不能把其他华圣基地直接指定为本盒产地。",
+          "sourceIds": [
+            "huasheng-jinzun-jd-listing",
+            "huasheng-yulin-hiring-2022"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "种植技术岗位的历史五险一金承诺没有给出每周工时与休息，也未对应本盒苹果的采摘、分选、包装人员实际记录。",
+          "sourceIds": [
+            "huasheng-yulin-hiring-2022",
+            "huasheng-nwafu-visit-2026"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -12063,7 +12256,7 @@
           "query": "虾"
         }
       ],
-      "note": "已补 200g 翡翠生虾仁的具体资料，但原料文案有冲突，养殖地、制造批次及工时待核。温氏有五天工作制和顺德山姆猪肋排销售线索，具体包装及产线待补；农夫鲜橙仅核到历史零售页，苹果缺直接销售对应。蓝莓、番茄仍缺确切零售规格；其余水果、蔬菜、牛羊肉和鱼继续查。",
+      "note": "新增华圣金尊优悦 5kg 苹果的准确零售货号，供货果园、当前可售和生产劳动待核。圣迪乐鸡蛋补充进口喂养原料说明，不能声称全链原料均为国产；温氏补充不同屠宰法人及副产品加工人员范围。柑橘、香蕉、葡萄、蔬菜、土豆、猪牛羊肉和鱼仍继续查准确商品与生产劳动。",
       "sourceIds": [
         "national-harmony-2022",
         "nxnk-lianhu-production-2026",
@@ -12082,7 +12275,14 @@
         "guolian-jade-red-copy",
         "nongfu-fruit-bases",
         "nongfu-orange-historical-suning",
-        "nongfu-apple-retail-clue"
+        "nongfu-apple-retail-clue",
+        "sundaily-omega-product",
+        "sundaily-omega-jd-retail",
+        "wens-jingbao-processing-2026",
+        "huasheng-yulin-hiring-2022",
+        "huasheng-nwafu-visit-2026",
+        "huasheng-jinzun-jd-listing",
+        "sundaily-omega-retail-packaging"
       ]
     },
     {

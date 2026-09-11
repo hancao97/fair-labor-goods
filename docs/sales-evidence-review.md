@@ -39,7 +39,7 @@
 | 广中皇 微辣腐乳 328g | 改为待核 | 官网展示 328g 微辣腐乳，通用电商入口未对应当前同规格直接商品订单。 | [海天味业 / 广中皇](https://www.haday.com/subbrand-gzh/) |
 | 洋河 海之蓝 42%vol 480mL | 改为待核 | 已核官方 42%vol、480mL 产品与通用购买渠道，尚未锁定同规格当前直接商品订单。 | [江苏洋河酒厂股份有限公司](https://www.chinayanghe.com/product/yanghe/lsjdxl/19.html)、[江苏洋河酒厂股份有限公司](https://www.chinayanghe.com/service/yxwl/zxxs/) |
 | 吉利银河 银河 E5 2026款 530km 启航版 | 保留有依据 | 官网列 2026 款 530km 启航版的具体销售报价及定购入口；仅支持车型销售渠道，具体门店库存和交付条件另核。 | [吉利银河](https://galaxy.geely.com/E5) |
-| 圣迪乐 儿童超级营养蛋（OMEGA-3系列）20枚 / 1000g | 改为待核 | 官网可核 20 枚 / 1000g，通用电商入口未对应同款直接商品及当前地区配送。 | [四川圣迪乐生态食品股份有限公司](https://www.sundaily.cn/product.aspx?t=2&type=4) |
+| 圣迪乐 儿童超级营养蛋（OMEGA-3系列）20枚 / 1000g | 待核，已补零售线索 | 京东儿童 OMEGA-3 20 枚 / 2 斤资料提示新老包装交替；与官网示例的完整版本对应、当前库存及地区配送待核。 | [四川圣迪乐生态食品股份有限公司](https://www.sundaily.cn/product.aspx?t=2&type=4)、[京东商品资料](https://item.jd.com/product/dGcaNsa4eFPXbndrEQAk3A.html) |
 | 嘉士利 原味早餐饼干 800g | 改为待核 | 已有 800g 官方展示资料，本轮直连受限；具体包装当前零售待补，不据访问失败判断停产。 | [广东嘉士利食品集团有限公司](https://www.gdjsl.com/product/27.html)、[广东嘉士利食品集团有限公司](https://www.gdjsl.com/about/2.html) |
 | 晨光 K35 按动中性笔（黑色 0.5mm / 12支） | 改为待核 | 已补苏宁同款黑色 0.5mm、12 支装直接商品资料，现时库存和地区配送仍待核。 | [苏宁易购（苏宁自营商品页）](https://product.suning.com/0000000000/12447132783.html)、[苏宁自营商品页 / 晨光商品资料图](https://uimgproxy.suning.cn/uimg1/sop/commodity/zinGHwPyCscbm-8GsUtQrw.jpg) |
 | 联想 小新 Pro14 2025（Core 5-220H / 24GB / 1TB） | 改为待核 | 已核官网货号 1044736 的 Core 5-220H、24GB/1TB 配置，但动态价格与库存待核；页面模板不作为下架或有货结论。 | [联想中国商城](https://item.lenovo.com.cn/product/1044736.html) |
