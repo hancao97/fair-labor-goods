@@ -2310,6 +2310,126 @@
       "checkedAt": "2026-09-12",
       "locator": "摘要第 2—5 页，尤其第 3 页报告范围与员工沟通",
       "type": "企业 ESG 报告摘要"
+    },
+    {
+      "id": "wens-esg-2025",
+      "title": "温氏股份 2025 年度可持续发展报告",
+      "publisher": "温氏食品集团股份有限公司 / 巨潮资讯",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-22/1225137626.PDF",
+      "summary": "员工福利部分披露每周五天工作制和社保安排；报告另列劳务外包年度工时总量。",
+      "limitation": "未取得对应养殖、屠宰岗位的每周工时和实际休息记录。外包总工时不是个人周工时，集团员工政策不直接覆盖合作农户及其雇员。",
+      "publishedAt": "2026-04-22",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 72 页（印刷 70）员工福利；第 96 页（印刷 94）劳务外包表",
+      "type": "企业可持续发展报告"
+    },
+    {
+      "id": "wens-sams-pork-2026",
+      "title": "温氏食材入驻山姆顺德店的企业发布",
+      "publisher": "温氏股份（南方号入驻单位）",
+      "url": "https://static.nfnews.com/content/202604/26/c12373678.html?enterColumnId=44233",
+      "summary": "企业记录 4 月 23 日在山姆顺德店上架新鲜猪肉，正文点名猪肋排，并称生猪来自国内合作家庭农场、经温氏晶宝屠宰厂加工。",
+      "limitation": "属于企业在南方号自行发布的销售记录，不是平台独立核查。没有给出该肋排重量、具体屠宰法人、当前批次或现时库存；食品品质宣传不证明劳动合规。",
+      "publishedAt": "2026-04-26",
+      "checkedAt": "2026-09-12",
+      "locator": "首段、农场直抵厨房段及入驻单位声明",
+      "type": "企业发布（南方号）"
+    },
+    {
+      "id": "guolian-annual-2025",
+      "title": "国联水产 2025 年年度报告",
+      "publisher": "湛江国联水产开发股份有限公司 / 巨潮资讯",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-30/1225268221.PDF",
+      "summary": "年报列示全球水产采购及境内加工业务，披露员工权益制度；吴川黄坡、覃巴及益阳有生产基地。",
+      "limitation": "企业依法用工的自述没有对应具体虾仁产线的周工时、休息及工资社保履行。境内基地不能证明某袋虾仁的原料养殖地；全球采购也不表示每款都用进口原料。",
+      "publishedAt": "2026-04-30",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 6 页法人；第 10—11 页业务；第 44—45 页员工权益与境内基地",
+      "type": "企业年度报告"
+    },
+    {
+      "id": "guolian-jade-union-2020",
+      "title": "广东省 2020 年劳模推荐人选资料中的国联车间",
+      "publisher": "广东省总工会",
+      "url": "https://www.gdftu.org.cn/xwzx/content/mpost_259079.html",
+      "summary": "第 249 条将翡翠生虾仁的生产与湛江国联水产开发股份有限公司海洋食品智能化车间联系起来。",
+      "limitation": "这是 2020 年人员事迹与历史生产线索，未列 200g 包装或当前批次。个人推荐材料不等于工厂劳动条件认证；相邻企业的劳动关系荣誉不归于国联。",
+      "publishedAt": "2020-05-22",
+      "checkedAt": "2026-09-12",
+      "locator": "第 249 条的单位和翡翠生虾仁生产描述",
+      "type": "工会公开资料"
+    },
+    {
+      "id": "guolian-jade-suning",
+      "title": "国联翡翠生虾仁 200g（小号 71/90）商品资料",
+      "publisher": "苏宁易购（苏宁超市自营商品页）",
+      "url": "https://product.suning.com/0000000000/10740378083.html",
+      "summary": "标题、主图库包装及参数对应翡翠生虾仁 200g、71/90 规格；平台参数标注国产及广东湛江。",
+      "limitation": "未取得清晰制造背标、完整配料表、具体养殖地或实际批次；同页原料文案不一致。页面隐藏的下架和有货模板均不用于判断实时库存。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品标题、主图库第 5 张包装及商品参数",
+      "type": "大陆零售商商品资料"
+    },
+    {
+      "id": "guolian-jade-domestic-copy",
+      "title": "翡翠生虾仁详情中的国产白对虾原料文案",
+      "publisher": "苏宁自营商品页 / 国联商品资料图",
+      "url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/l89ERPdLxsQpybr8dDU39w.jpg",
+      "summary": "同款详情图将原料描述为国产鲜活南美白对虾。",
+      "limitation": "这是商品页营销图，不是包装配料表；同页另一图称红虾原料，不能选择性采用本图来确认实际养殖来源。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "精选活虾标题下首行，已核原图",
+      "type": "商品详情图片"
+    },
+    {
+      "id": "guolian-jade-red-copy",
+      "title": "翡翠生虾仁同页详情中的红虾原料文案",
+      "publisher": "苏宁自营商品页 / 国联商品资料图",
+      "url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/CGaPWIv0QKngj6dLWu8cyQ.jpg",
+      "summary": "另一张同页详情图将原料称为红虾，与国产白对虾文案不一致。",
+      "limitation": "不据此认定该袋商品实际采用红虾、进口原料或任何确定养殖地；需要同款当前包装及批次追溯资料澄清。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "清甜鲜味标题下两行，已核原图",
+      "type": "商品详情图片"
+    },
+    {
+      "id": "nongfu-fruit-bases",
+      "title": "农夫山泉水果种植基地资料",
+      "publisher": "农夫山泉官网",
+      "url": "https://www.nongfuspring.com/originplace/production-origin.html",
+      "summary": "官网公开基地资料将 17.5°橙联系到赣南安远、信丰古陂及信丰安西基地，并介绍新疆霍尔果斯苹果种植。",
+      "limitation": "基地介绍未对应具体零售包装及当前批次，也没有采摘、分选和运输岗位的实际劳动记录。接口条目更新时间不当作文章发布日期。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面公开 bases/list 接口的已发布江西基地（id 14）与新疆基地（id 15）条目",
+      "type": "企业官网"
+    },
+    {
+      "id": "nongfu-orange-historical-suning",
+      "title": "17.5°橙铂金果 5kg 的历史零售资料",
+      "publisher": "苏宁易购（昭武食品专营店商品页）",
+      "url": "https://product.suning.com/0070177421/835979199.html",
+      "summary": "商品标题对应赣南脐橙铂金果 5kg，同时明确写有 17 年新果。",
+      "limitation": "历史资料不证明当前在售或当前包装。详情混有 6 斤素材，参数又误归橙汁及杭州产地，不能用来确认本款鲜果的种植地。未据此新增柑橘商品。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品标题；与 5kg 标题不一致的详情及分类参数",
+      "type": "历史零售商商品资料"
+    },
+    {
+      "id": "nongfu-apple-retail-clue",
+      "title": "17.5°苹果 XL 级 14 枚的第三方优惠线索",
+      "publisher": "什么值得买",
+      "url": "https://www.smzdm.com/p/179049303/",
+      "summary": "第三方优惠页面列出 XL 级 87±4mm、14 枚、3.125kg 的苹果名称。",
+      "limitation": "未取得同款直接零售页及准确包装，不能证明现时库存、产地或制造关系；不采用页面推荐的其他品牌苹果替代，也未据此新增商品。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面标题及优惠文章入口；直接零售对应未完成",
+      "type": "第三方销售线索"
     }
   ],
   "companies": [
@@ -5260,17 +5380,21 @@
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
       "cardNote": "政策含多种工时制",
-      "scope": "农夫山泉品牌的 550mL 天然水与 300mL 新疆苹果汁；制造子公司、果园、包材及物流分别核验。",
+      "scope": "农夫山泉 550mL 天然水、300mL 新疆苹果汁，以及鲜橙、苹果的种植与零售线索；制造子公司、果园、包材和物流分别核验。",
       "finding": "已核具体包装规格及天然水建德工厂的抽检批次。现行公开政策区分标准、综合和不定时工时制，不能认定所有生产人员都每周 40 小时、周休两天。",
       "caveats": [
         "天然水存在多个生产法人，抽检批次不能代替消费者待购批次。",
         "苹果产区与果汁灌装厂分开，果农、季节工、包材和运输劳动资料均待补。",
-        "人才政策与供应商管理属于制度披露，缺少产线和外包岗位的实际记录。"
+        "人才政策与供应商管理属于制度披露，缺少产线和外包岗位的实际记录。",
+        "鲜橙及苹果有国内种植基地介绍，但所查橙子为历史零售页、苹果缺同款直接销售对应，未将两者计作新增水果商品。"
       ],
       "sourceIds": [
         "nongfu-employment-policy2026",
         "nongfu-esg2025",
-        "nongfu-water550-sampling2026"
+        "nongfu-water550-sampling2026",
+        "nongfu-fruit-bases",
+        "nongfu-orange-historical-suning",
+        "nongfu-apple-retail-clue"
       ],
       "supply": [
         {
@@ -5288,10 +5412,13 @@
           "sourceIds": []
         },
         {
-          "stage": "原料、外包与物流",
+          "stage": "果园、包材与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
-          "sourceIds": []
+          "detail": "官网有赣南橙及新疆苹果种植基地介绍，尚未对应待售批次，也没有采摘、分选和物流工人的实际劳动记录。",
+          "sourceIds": [
+            "nongfu-fruit-bases",
+            "nongfu-esg2025"
+          ]
         }
       ],
       "actualHoursVerified": false,
@@ -5738,6 +5865,119 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "先锁定完整家庭食盐规格、大陆零售入口和制造背标，再核对定远相关产线、采矿及运输岗位排班和劳动履行。"
+    },
+    {
+      "id": "wens",
+      "name": "温氏股份",
+      "legalName": "温氏食品集团股份有限公司",
+      "location": "境内养殖、屠宰单位分布多地；具体猪肉批次待对应",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "报告披露每周五天工作制",
+      "cardNote": "披露每周五天制 · 产线待核",
+      "scope": "集团 2025 年员工福利披露与 2026 年山姆顺德店猪肉销售记录；合作农户、屠宰法人及外包人员分别核对。",
+      "finding": "报告明确每周五天工作制，但没有取得具体生产岗位的周工时和逐周休息记录；当前肋排包装规格与生产法人也待补。",
+      "caveats": [
+        "每周五天的制度披露不能补写为已验证的每周 40 小时与两天实际休息。",
+        "报告单列劳务外包工时总量，不能将集团员工福利套到外包人员；合作农户及其雇员的劳动关系也需单独辨别。",
+        "山姆上架消息来自温氏自发文章，只点名温氏晶宝屠宰厂，不能自行指定某个晶宝法人或给肋排填写重量。"
+      ],
+      "sourceIds": [
+        "wens-esg-2025",
+        "wens-sams-pork-2026"
+      ],
+      "supply": [
+        {
+          "stage": "集团员工制度",
+          "status": "policy",
+          "detail": "2025 年报告披露五天工作制和社保安排，实际履行与周工时待核。",
+          "sourceIds": [
+            "wens-esg-2025"
+          ]
+        },
+        {
+          "stage": "猪肉屠宰与分切",
+          "status": "unknown",
+          "detail": "企业销售记录提到温氏晶宝屠宰厂，尚未锁定顺德门店肋排的确切法人、批次和班组。",
+          "sourceIds": [
+            "wens-sams-pork-2026"
+          ]
+        },
+        {
+          "stage": "合作养殖、外包与冷链",
+          "status": "unknown",
+          "detail": "合作家庭农场与公司员工不能混同；外包总工时也不能用于判定每名工人的周工时。",
+          "sourceIds": [
+            "wens-esg-2025",
+            "wens-sams-pork-2026"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得同款新鲜猪肋排的当前销售包装和屠宰法人，再分别核对养殖、分切、外包及冷链人员的实际工时、休息和工资社保。"
+    },
+    {
+      "id": "guolian",
+      "name": "国联水产",
+      "legalName": "湛江国联水产开发股份有限公司",
+      "location": "广东湛江；具体虾仁养殖地与加工厂址待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "虾仁原料与产线待核",
+      "scope": "国联水产 2025 年度披露及翡翠生虾仁 200g 的大陆零售资料；养殖、加工与冷链分开核查。",
+      "finding": "已核对明确规格的虾仁包装及历史生产车间线索。零售页原料描述不一致，实际养殖地、当前制造批次与生产劳动记录仍待补。",
+      "caveats": [
+        "年报中的员工权益自述不等于实际产线每周 40 小时、周休两天。",
+        "集团既有国内加工又有全球采购；不能从湛江加工推定所有原料国产，也不能将所有商品认定为进口原料。",
+        "工会的历史人员事迹只提供车间线索，不是当前 200g 商品的劳动认证或批次证明。"
+      ],
+      "sourceIds": [
+        "guolian-annual-2025",
+        "guolian-jade-union-2020",
+        "guolian-jade-suning"
+      ],
+      "supply": [
+        {
+          "stage": "集团员工制度",
+          "status": "policy",
+          "detail": "年报披露员工权益与培训制度，没有取得该款产线的具体周工时和实际休息。",
+          "sourceIds": [
+            "guolian-annual-2025"
+          ]
+        },
+        {
+          "stage": "虾仁加工",
+          "status": "unknown",
+          "detail": "2020 年工会材料提供翡翠生虾仁车间线索；当前 200g 批次制造法人及排班未对应。",
+          "sourceIds": [
+            "guolian-jade-union-2020",
+            "guolian-jade-suning"
+          ]
+        },
+        {
+          "stage": "养殖、包材与冷链",
+          "status": "unknown",
+          "detail": "同页原料文字不一致，养殖地及相关雇佣主体未锁定；供应链劳动履行待核。",
+          "sourceIds": [
+            "guolian-jade-domestic-copy",
+            "guolian-jade-red-copy",
+            "guolian-annual-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "先补同款清晰背标与批次追溯，澄清虾原料养殖地和加工法人，再核对产线、养殖和冷链岗位的劳动记录。"
     }
   ],
   "products": [
@@ -10267,6 +10507,60 @@
           ]
         }
       }
+    },
+    {
+      "id": "guolian-jade-shrimp200",
+      "name": "翡翠生虾仁 200g（71/90）",
+      "brand": "国联",
+      "companyId": "guolian",
+      "category": "fresh",
+      "description": "袋装冷冻生虾仁，净含量 200g；包装标示 71/90 count/lb，可用于家庭烹饪。",
+      "tags": [
+        "虾仁",
+        "冷冻水产",
+        "200g"
+      ],
+      "needs": [
+        "虾"
+      ],
+      "url": "https://product.suning.com/0000000000/10740378083.html",
+      "relationshipSourceIds": [
+        "guolian-jade-suning",
+        "guolian-jade-union-2020",
+        "guolian-annual-2025"
+      ],
+      "market": "苏宁自营有同名同规格直接商品资料；当前库存及地区配送待核。",
+      "relationship": "包装可读国联水产品牌、品名及规格；工会历史资料将同名虾仁与国联车间联系起来，但未取得当前批次制造背标。",
+      "image": "images/guolian-jade-shrimp200.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/GUvh_SE01pNbOEPdcKnFxQ.jpg_800w_800h_4e",
+      "imageRights": "国联水产品牌及原商品图相关权利人；来源为苏宁自营商品页，确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "大陆直接商品页与 200g 包装匹配，现时库存及配送范围未核实。",
+          "sourceIds": [
+            "guolian-jade-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "平台标国产、广东湛江，但同页原料文案不一致；当前包装制造商、养殖地与实际批次仍待对应。",
+          "sourceIds": [
+            "guolian-jade-suning",
+            "guolian-jade-domestic-copy",
+            "guolian-jade-red-copy"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "企业权益制度与历史车间事迹均不能证明该袋商品所涉养殖、加工及冷链岗位的实际工时和休息。",
+          "sourceIds": [
+            "guolian-annual-2025",
+            "guolian-jade-union-2020"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -10456,7 +10750,7 @@
           "query": "虾"
         }
       ],
-      "note": "未调理鸡胸肉有 500g 包装，但实际批次和个人零售待核。满时蓝莓找到种植技术员双休线索，签约主体、采摘分拣和确切在售包装不足，尚未添加商品。连湖番茄无明确零售规格；其他水果、猪牛羊肉和水产继续查。",
+      "note": "已补 200g 翡翠生虾仁的具体资料，但原料文案有冲突，养殖地、制造批次及工时待核。温氏有五天工作制和顺德山姆猪肋排销售线索，具体包装及产线待补；农夫鲜橙仅核到历史零售页，苹果缺直接销售对应。蓝莓、番茄仍缺确切零售规格；其余水果、蔬菜、牛羊肉和鱼继续查。",
       "sourceIds": [
         "national-harmony-2022",
         "nxnk-lianhu-production-2026",
@@ -10465,7 +10759,17 @@
         "sunner-breast-label",
         "sunner-annual-2025",
         "yunkc-agricultural-hiring2025",
-        "yunkc-manshi-brand2023"
+        "yunkc-manshi-brand2023",
+        "wens-esg-2025",
+        "wens-sams-pork-2026",
+        "guolian-annual-2025",
+        "guolian-jade-union-2020",
+        "guolian-jade-suning",
+        "guolian-jade-domestic-copy",
+        "guolian-jade-red-copy",
+        "nongfu-fruit-bases",
+        "nongfu-orange-historical-suning",
+        "nongfu-apple-retail-clue"
       ]
     },
     {

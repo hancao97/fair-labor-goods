@@ -3234,6 +3234,229 @@
         "sha256": "0dbdac8547c5f0192265334943948fb4347069839dedecf56650ef4ad8d27680"
       },
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "filename": "images/guolian-jade-shrimp200.webp",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/GUvh_SE01pNbOEPdcKnFxQ.jpg_800w_800h_4e",
+      "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/GUvh_SE01pNbOEPdcKnFxQ.jpg_800w_800h_4e",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 67958,
+      "sha256": "ebe5003303ed7e0a5d706917f6980e513899c1fb907bd58f9a71fa523456413a",
+      "visually_verified": true,
+      "image_source_page_url": "https://product.suning.com/0000000000/10740378083.html",
+      "reuse_info": {
+        "rights_holder": "国联水产品牌及原商品图相关权利人；来源为苏宁自营商品页，确切图片著作权法人未核实",
+        "license": "No open reuse license identified. Copyright remains with the respective brand, retailer and image owners."
+      },
+      "id": "guolian-jade-shrimp200",
+      "product_name": "国联翡翠生虾仁 200g 小号71/90",
+      "model": "71/90 count/lb，200g袋装",
+      "brand_as_read": "国联水产",
+      "net_content": 200,
+      "net_content_unit": "g",
+      "packaging": "蓝白色透明袋；前方为虾仁食品展示，后方包装为准确200g及71/90规格。",
+      "retailer_source_page_url": "https://product.suning.com/0000000000/10740378083.html",
+      "source_role": "中国大陆苏宁超市自营直接商品页，非品牌官网",
+      "retailer_page_title": "国联(GUOLIAN)翡翠生虾仁200g(小号71/90) 31/40只/袋",
+      "researched_on": "2026-09-12",
+      "status": "image_verified_origin_details_conflicted",
+      "market_scope": "中国大陆直接零售商品页资料图；当前库存、现行包装和实际到货批次未验证。",
+      "retailer_page_product_fields": {
+        "brand": "GUOLIAN国联",
+        "category": "冷冻虾仁",
+        "domestic_imported": "国产",
+        "place_of_origin": "中国广东湛江市",
+        "water_type": "海水",
+        "packaging": "袋装",
+        "net_weight": "200克",
+        "shelf_life": "540天",
+        "storage": "冷冻-18℃"
+      },
+      "packaging_transcription": [
+        {
+          "text": "国联水产",
+          "location": "袋正面顶部蓝色区域",
+          "scope": "品牌标识，非制造法人全称"
+        },
+        {
+          "text": "翡翠生虾仁",
+          "location": "袋正面上方黑色大字",
+          "scope": "商品名称"
+        },
+        {
+          "text": "Penaeus Vannamei",
+          "location": "中文商品名下英文行",
+          "scope": "正面英文物种标示；未等同完整配料表"
+        },
+        {
+          "text": "Jade Shrimp PD Raw",
+          "location": "英文物种名下蓝色条",
+          "scope": "正面英文品名"
+        },
+        {
+          "text": "71/90 count/lb",
+          "location": "袋正面右上黑色圆形规格标识",
+          "scope": "包装独立核实小号71/90规格"
+        },
+        {
+          "text": "净含量：200g",
+          "location": "袋正面左下部蓝色字样",
+          "scope": "包装独立核实200g"
+        }
+      ],
+      "supporting_images": [
+        {
+          "filename": "guolian-jade-shrimp200-retailer-parameters.jpg",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/kVa6TPp4hV0aHBlRg2bOUQ.jpg",
+          "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/kVa6TPp4hV0aHBlRg2bOUQ.jpg",
+          "content_type": "image/jpeg",
+          "width": 750,
+          "height": 823,
+          "bytes": 175493,
+          "sha256": "0bb82877143b8395ff0f3ca10c56496b647441c067864df0dfa98f222cddc2cb",
+          "visually_verified": true,
+          "image_source_page_url": "https://product.suning.com/0000000000/10740378083.html",
+          "reuse_info": {
+            "rights_holder": "国联水产品牌及原商品图相关权利人；来源为苏宁自营商品页，确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the respective brand, retailer and image owners."
+          },
+          "role": "retailer_product_detail_parameters",
+          "readable_transcription": [
+            {
+              "text": "品名：翡翠生虾仁",
+              "location": "图下方左列第一行"
+            },
+            {
+              "text": "重量：200g",
+              "location": "图下方左列第二行"
+            },
+            {
+              "text": "产地：广东湛江",
+              "location": "图下方左列第三行"
+            }
+          ],
+          "evidence_scope": "同页详情参数图片，不是包装背标。采用其页面声明范围，不将广东湛江解释为养殖场所在地。",
+          "is_packaging_back_label": false
+        },
+        {
+          "filename": "guolian-jade-shrimp200-raw-material-claim.jpg",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/l89ERPdLxsQpybr8dDU39w.jpg",
+          "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/l89ERPdLxsQpybr8dDU39w.jpg",
+          "content_type": "image/jpeg",
+          "width": 750,
+          "height": 1126,
+          "bytes": 330043,
+          "sha256": "3b8e7a06792b0898f02b61c3a7fc182132f1a50dd22f2566ada9f3fc5163a045",
+          "visually_verified": true,
+          "image_source_page_url": "https://product.suning.com/0000000000/10740378083.html",
+          "reuse_info": {
+            "rights_holder": "国联水产品牌及原商品图相关权利人；来源为苏宁自营商品页，确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the respective brand, retailer and image owners."
+          },
+          "role": "retailer_detail_claim_with_conflict",
+          "readable_transcription": [
+            {
+              "text": "精选国产鲜活南美白对虾为原料，",
+              "location": "顶部“精选活虾”标题下第一行"
+            }
+          ],
+          "evidence_scope": "同页营销详情声称国产鲜活南美白对虾原料；与另一详情图“红虾”文案不一致，不作为确定的配料表、具体养殖地或到货批次证明。",
+          "is_packaging_back_label": false
+        },
+        {
+          "filename": "guolian-jade-shrimp200-conflicting-red-shrimp-copy.jpg",
+          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/CGaPWIv0QKngj6dLWu8cyQ.jpg",
+          "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/CGaPWIv0QKngj6dLWu8cyQ.jpg",
+          "content_type": "image/jpeg",
+          "width": 750,
+          "height": 1126,
+          "bytes": 267887,
+          "sha256": "a33830743142f8e2ea6f7f19cbadaf29de2329385c4716dd457565d4666f983b",
+          "visually_verified": true,
+          "image_source_page_url": "https://product.suning.com/0000000000/10740378083.html",
+          "reuse_info": {
+            "rights_holder": "国联水产品牌及原商品图相关权利人；来源为苏宁自营商品页，确切图片著作权法人未核实",
+            "license": "No open reuse license identified. Copyright remains with the respective brand, retailer and image owners."
+          },
+          "role": "conflicting_generic_detail_copy",
+          "readable_transcription": [
+            {
+              "text": "甄选大规格的红虾为原料，",
+              "location": "顶部“清甜鲜味”标题下第一行"
+            },
+            {
+              "text": "红虾仁紧实饱满，分量足",
+              "location": "下一行"
+            }
+          ],
+          "evidence_scope": "保存同页原料文案冲突，不将此图作为翡翠生虾仁品种/配料证明。",
+          "is_packaging_back_label": false
+        }
+      ],
+      "ingredients_as_read": null,
+      "ingredient_list_status": "没有取得清晰包装背面配料表；页面原料营销文案发生冲突。",
+      "manufacturer_as_read": null,
+      "factory_address_as_read": null,
+      "china_sale_evidence": {
+        "status": "mainland_direct_product_listing_verified_stock_unverified",
+        "source_urls": [
+          "https://product.suning.com/0000000000/10740378083.html"
+        ],
+        "evidence": "苏宁直接商品页标题和主图匹配国联翡翠生虾仁200g小号71/90。",
+        "limitation": "页面默认隐藏的下架及有货模板均未用于库存判断；实际购买和配送未测试。"
+      },
+      "china_production_evidence": {
+        "status": "retailer_declares_china_origin_packaging_manufacturer_unknown",
+        "country_declared_by_retailer": "中国",
+        "place_declared_by_retailer": "中国广东湛江市",
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "packaging_named_legal_entity": null,
+        "consumer_batch_verified": false,
+        "source_urls": [
+          "https://product.suning.com/0000000000/10740378083.html",
+          "https://uimgproxy.suning.cn/uimg1/sop/commodity/kVa6TPp4hV0aHBlRg2bOUQ.jpg"
+        ],
+        "evidence_scope": "大陆商品页参数标国产及中国广东湛江，详情图写产地广东湛江；不是包装背标。未读到完整制造法人或厂址。",
+        "limitation": "广东湛江页面产地信息不自动等于虾原料养殖地。"
+      },
+      "raw_material_origin_evidence": {
+        "status": "conflicting_retailer_marketing_copy_not_confirmed",
+        "packaging_species_as_read": "Penaeus Vannamei",
+        "ingredients_list": null,
+        "farm_country_confirmed": false,
+        "farm_or_waterbody": null,
+        "raw_material_country": null,
+        "raw_material_claim_as_read": "精选国产鲜活南美白对虾为原料，",
+        "conflicting_claim_as_read": "甄选大规格的红虾为原料，",
+        "source_urls": [
+          "https://uimgproxy.suning.cn/uimg1/sop/commodity/l89ERPdLxsQpybr8dDU39w.jpg",
+          "https://uimgproxy.suning.cn/uimg1/sop/commodity/CGaPWIv0QKngj6dLWu8cyQ.jpg"
+        ],
+        "evidence_scope": "两段同页详情文案逐字目视核对；不选择性采用其中一段。公司级养殖基地/加工宣传也没有用于具体SKU或批次养殖来源。"
+      },
+      "image_match_scope": "主图库第5张确有翡翠生虾仁200g及71/90包装。其余图库主要为虾仁食品展示，没有取得清晰背标。详情中不同包装版式与混杂红虾文案另作证据范围说明。",
+      "access_boundaries": {
+        "source_page_http_status": 200,
+        "image_http_status": 200,
+        "authentication_used": false,
+        "captcha_or_risk_bypass": false,
+        "tls_verification_disabled": false,
+        "scope": "读取指定直接商品页及公开图片，未进行劳动制度或企业新闻研究。"
+      },
+      "notes": [
+        "保存原始图片与原有文字/水印，不裁切、不生成或去水印。",
+        "没有转录无法清楚辨认的小字；具体制造商、厂址、完整配料表和养殖地保持未知。"
+      ],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 180230,
+        "sha256": "ba39ccc1287723d1919b45389c4d6c89a2b62441511cbe0d3c0ae2d3ab77cda1"
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
