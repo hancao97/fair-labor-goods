@@ -6046,6 +6046,151 @@
       },
       "filename": "images/huai-iodized-salt500.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "shiyue-oats1kg",
+      "product_name": "十月稻田 磨米世家燕麦米 1kg",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/o5aA6zoEhPTZvyG5KoyHXQ.jpg_800w_800h_4e",
+      "source_page_url": "https://product.suning.com/0030000681/694150087.html",
+      "source_type": "mainland_retail_direct_product_page",
+      "width": 800,
+      "height": 800,
+      "bytes": 59846,
+      "sha256": "23a6138e75d82ccfa436313ad266a2efd0a9d2ee6c930dae078451a7573173a0",
+      "content_type": "image/jpeg",
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "specification": "燕麦米/燕麦粒，净含量1kg，单袋；不是燕麦片或混合粥米。",
+      "retailer_sku": "694150087",
+      "reuse_info": {
+        "rights_holder": "十月稻田及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "review_note": "已逐图核对原始商品图；图片不证明当前供货、制造批次或劳动条件。",
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 128551,
+        "sha256": "c1b27c0943adc7cb3298a35c4fd960e283b2b864b2ea198d1621529aa6f2d392"
+      },
+      "filename": "images/shiyue-oats1kg.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "shiyue-mung1kg",
+      "product_name": "十月稻田绿豆 1kg 单袋（2斤）",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/415414/35/4350/163048/69d3b2e4Fdba5d72f/0083320320771328.jpg",
+      "source_page_url": "https://www.jd.com/jiage/1320d4fed70357abc11e.html",
+      "source_type": "mainland_retail_category_exact_first_card",
+      "width": 220,
+      "height": 220,
+      "bytes": 15396,
+      "sha256": "37460649123c486c8a2be405fe4d988defc1b6d715710d46afc4033a2361bf4b",
+      "content_type": "image/jpeg",
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "specification": "首项准确卡片写2斤（1kg），单袋；图中容量小字不能可靠独立读清。",
+      "retailer_sku": "3243204",
+      "reuse_info": {
+        "rights_holder": "十月稻田及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "review_note": "已逐图核对原始商品图；图片不证明当前供货、制造批次或劳动条件。原始图片为220×220，未放大，1kg按准确卡片2斤标题换算；图内营养与品质宣传未独立核验。",
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 12520,
+        "sha256": "15de91de5901c934a3de6ea41256a4dc2e8c658e4159b2536a8a4cf720bee007"
+      },
+      "filename": "images/shiyue-mung1kg.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "shiyue-redbean1kg",
+      "product_name": "十月稻田红小豆 1kg 单袋（2斤）",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/418069/39/6979/167287/69dcb3a3Fd22c7f3a/0083320320067c90.jpg",
+      "source_page_url": "https://www.jd.com/jiage/1320d21830a92f080b0c.html",
+      "source_type": "mainland_retail_category_exact_first_card",
+      "width": 220,
+      "height": 220,
+      "bytes": 14848,
+      "sha256": "ed2d5f17b0d931d037a5b140259e1465c644c030169d0a1bd00604a17a2d1910",
+      "content_type": "image/jpeg",
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "specification": "首项准确卡片写2斤（1kg），单袋；图中容量小字不能可靠独立读清。",
+      "retailer_sku": "2671522",
+      "reuse_info": {
+        "rights_holder": "十月稻田及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "review_note": "已逐图核对原始商品图；图片不证明当前供货、制造批次或劳动条件。原始图片为220×220，未放大，1kg按准确卡片2斤标题换算；图内营养与品质宣传未独立核验。",
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 33379,
+        "sha256": "f5ee1ed7b0e86cc0da402f8cf944b1c2894ae6cf619ad9e8ac0b95870982dd72"
+      },
+      "filename": "images/shiyue-redbean1kg.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "shiyue-black-corn8",
+      "product_name": "十月稻田黑糯玉米 200g×8根（1.6kg）",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/Gt0D8l5ArgRjshYk23s89g.jpg_800w_800h_4e",
+      "source_page_url": "https://product.suning.com/0000000000/000000012445872584.html",
+      "source_type": "mainland_retail_direct_product_page",
+      "width": 800,
+      "height": 800,
+      "bytes": 142478,
+      "sha256": "2b5aff2663cbd0a6d1fe42d0a8849bfc57c14753160eb1e7f55f73cd95fb6e04",
+      "content_type": "image/jpeg",
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "specification": "黑糯玉米，200g×8根，净含量1.6kg，整盒。",
+      "retailer_sku": "12445872584",
+      "reuse_info": {
+        "rights_holder": "十月稻田及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "review_note": "已逐图核对原始商品图；图片不证明当前供货、制造批次或劳动条件。盒体1.6kg（200g×8）可读；花青素等宣传文字未独立核验。",
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 281104,
+        "sha256": "a6543fc08097f9c552c92299192efc39115495d1ca074f3f5952f5090cd2a24d"
+      },
+      "filename": "images/shiyue-black-corn8.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "fulinmen-soybean-oil-5l",
+      "product_name": "福临门非转基因一级大豆油 5L 单桶",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/-HrRKWN3tsrl1x_YPvbfIQ.jpg_800w_800h_4e",
+      "source_page_url": "https://product.suning.com/0030000682/139176760.html",
+      "source_type": "mainland_retail_direct_product_page",
+      "width": 800,
+      "height": 800,
+      "bytes": 39318,
+      "sha256": "b6ec09a9d9d5e54f391e980a2622eab02999e8c983dcb89874355ad253f2fa8e",
+      "content_type": "image/jpeg",
+      "visually_verified": true,
+      "researched_on": "2026-09-12",
+      "specification": "非转基因一级大豆油，净含量5升，单桶。",
+      "retailer_sku": "139176760",
+      "reuse_info": {
+        "rights_holder": "福临门及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "review_note": "已逐图核对原始商品图；图片不证明当前供货、制造批次或劳动条件。",
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 273941,
+        "sha256": "9e5519fd12fd6dbbb6f464f5a5f3b1c27d4539aacd4845c27bb4d20ea6551141"
+      },
+      "filename": "images/fulinmen-soybean-oil-5l.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

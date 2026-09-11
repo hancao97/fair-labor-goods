@@ -3582,6 +3582,162 @@
       "checkedAt": "2026-09-12",
       "locator": "散装、散称及 50kg 商品卡片；未选为具体商品",
       "type": "零售分类检索线索"
+    },
+    {
+      "id": "shiyue-oats1kg-suning",
+      "title": "十月稻田磨米世家燕麦米 1kg：准确单袋资料",
+      "publisher": "苏宁易购 / 十月稻田苏宁自营旗舰店",
+      "url": "https://product.suning.com/0030000681/694150087.html",
+      "summary": "商品标题、1000 克参数和 1kg×1 清单对应单袋；同页包装正面可读磨米世家、燕麦米及净含量 1kg。",
+      "limitation": "类别参数误写小米，未据此改品名；本款是燕麦米而非燕麦片。当前地区可售、销售法人及实际发货批次仍待核，隐藏库存模板不作为有货证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号 694150087 的标题、净含量、清单和完整正面图",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "shiyue-oats1kg-packing-label",
+      "title": "燕麦米背面包装稿：沈阳信昌分装与两处地址代码",
+      "publisher": "苏宁易购公开展示 / 十月稻田包装资料图",
+      "url": "https://imgservice.suning.cn/uimg1/b2c/image/SPJsAtWEnm2et1AzEu16XA.jpg_800w_800h_4e",
+      "summary": "完整背图将沈阳信昌粮食贸易有限公司列为受委托方并注明分装，列辽宁沈阳新民的 XC1、XC2 两处地址；说明具体生产地以生产日期后代码为准，产品产地栏为辽宁沈阳。",
+      "limitation": "这是同页包装资料图，未提供已填写的生产日期代码，不能择定当批工厂。委托方全名的小字未稳定读清，保留未知；国内分装与产品产地字段不能证明燕麦种植来源或实际劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "完整背面中下部分装角色、XC1/XC2 地址、产品产地和日期代码说明；已目视",
+      "type": "零售商展示的包装资料图"
+    },
+    {
+      "id": "shiyue-mung1kg-jd-card",
+      "title": "十月稻田绿豆 2 斤：京东准确货号 3243204",
+      "publisher": "京东公开分类商品资料",
+      "url": "https://www.jd.com/jiage/1320d4fed70357abc11e.html",
+      "summary": "首项卡片写十月稻田绿豆 2 斤，实际商品链接指向 3243204，所引用原图对应单袋绿豆；将 2 斤换算为 1kg。",
+      "limitation": "直接货号页本次仅返回通用内容；卡片自营字样不证明当前有货。原图只有 220×220，净含量和制造小字不够清晰，重量依据卡片标题，不把同页其他袋数或脱皮绿豆合并。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "首项卡片标题、实际商品链接 3243204 及该卡片原始图片",
+      "type": "零售分类页的准确商品卡片"
+    },
+    {
+      "id": "shiyue-redbean1kg-jd-card",
+      "title": "十月稻田红小豆 2 斤：京东准确货号 2671522",
+      "publisher": "京东公开分类商品资料",
+      "url": "https://www.jd.com/jiage/1320d21830a92f080b0c.html",
+      "summary": "首项卡片写十月稻田红小豆 2 斤，实际链接为 2671522，原始宣传图对应红小豆单袋；2 斤折合 1kg。",
+      "limitation": "直接货号页本次只返回通用内容，没有当前可售结果或制造背标。220×220 原图不足以独立读清重量，规格依据准确卡片；赤小豆、混合粥料及服装品牌均未混入。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "首项卡片标题、实际商品链接 2671522 及相符原图",
+      "type": "零售分类页的准确商品卡片"
+    },
+    {
+      "id": "shiyue-black-corn8-suning",
+      "title": "十月稻田黑糯玉米：200g×8 根整盒",
+      "publisher": "苏宁易购 / 十月稻田苏宁自营旗舰店",
+      "url": "https://product.suning.com/0000000000/000000012445872584.html",
+      "summary": "由参数页实际购买链接对应此货号；题名为 200g×8 根，原图盒身明确黑糯玉米、1.6kg（200g×8）。",
+      "limitation": "参数类别写玉米粉、包装写袋装，与所选整盒图不一致，按准确题名及盒体记录。厂家、厂址均为见包装；华北及 Q/SXC 0017S 字段不能确定工厂，当前供货和制造背标仍缺。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号 12445872584 的题名、1.6 千克参数、8 根整盒原图及制造商字段",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "shiyue-corn-packaging-jinghong",
+      "title": "沈阳信昌发布的景洪玉米包装班长岗位",
+      "publisher": "沈阳信昌粮食贸易有限公司 / 智联招聘公开职位索引",
+      "url": "https://www.zhaopin.com/jobdetail/CC336149030J40891161505.htm",
+      "summary": "公开职位正文列工作城市为西双版纳景洪，职责涉及玉米包装车间统筹与工人培训，福利列五险、加班费和高温补贴。",
+      "limitation": "此次核到公开索引正文，直接访问返回安全验证，未绕过。岗位未披露每周工时或休息天数，发布日期未知；发布企业名称不等于工作地点，也未锁定实际签约雇主、厂址及本目录黑糯玉米批次。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公开索引中的职位城市、薪资福利及岗位职责；直接原页受限",
+      "type": "招聘职位公开索引"
+    },
+    {
+      "id": "cofco-employees-2025-web",
+      "title": "中粮集团 2025 员工权益网页披露",
+      "publisher": "中粮集团有限公司",
+      "url": "https://www.cofco.com/cn/CSR/houzhiqiyewenhua_br_tongxinzhiyuanzengqiang/",
+      "summary": "企业责任网页介绍 2025 年劳动用工管理、薪酬体系、员工诉求渠道、技能培养和工作生活平衡安排。",
+      "limitation": "这是集团网页自述，没有具体油厂、岗位的每周工时和休息数字。已核公开网页文本，直接连接及 2025 报告 PDF 受限，不写成读过报告全文；2025 为披露期间，网页发布日期未明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "维护员工合法权益、专业人才队伍和人文关怀三段公开正文",
+      "type": "企业责任网页公开文本"
+    },
+    {
+      "id": "cofco-heze-safety-hiring-2024",
+      "title": "中粮油脂菏泽 2024 安全管理校招",
+      "publisher": "山东交通学院交通与物流工程学院 / 中粮油脂（菏泽）有限公司",
+      "url": "https://jtwl.sdjtu.edu.cn/info/1033/4685.htm",
+      "summary": "2024-10-14 的招聘列安全管理类岗位，工作地点菏泽开发区长江东路 7058 号，福利含五险二金及加班补贴；企业介绍列榨油、精炼、小包装车间及福临门品牌。",
+      "limitation": "岗位为校招应届生或实习生，未披露每周工时、休息和实际履行。企业自列的历史荣誉不等于此次独立查得的行政评价；菏泽厂也未对应本目录当前油品批次。",
+      "publishedAt": "2024-10-14",
+      "checkedAt": "2026-09-12",
+      "locator": "企业简介、招聘需求与福利待遇；已读高校原页",
+      "type": "高校发布的企业招聘"
+    },
+    {
+      "id": "cofco-eastsea-labor-credit-2022",
+      "title": "中粮东海：2022 年劳动保障 2A 级复查确认",
+      "publisher": "苏州市人力资源和社会保障局 / 苏州市人民政府",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/bmwj/202301/24f849186ea84cb2b65eacfc4d89de99.shtml",
+      "summary": "苏人保监〔2022〕24 号于 2022-12-30 成文、2023-01-16 发布，附件 1 的劳动保障 2A 级信誉单位复查确认名单明确列中粮东海粮油工业（张家港）有限公司。",
+      "limitation": "核到政府页面公开正文及附件 1 名单，直接连接受限。此项是 2A 级复查确认，不是附件 2 的 2021 年度 A 级新授予；历史评价不证明 2026 年全部岗位实际周工时、逐周休息或供应链履行。",
+      "publishedAt": "2023-01-16",
+      "checkedAt": "2026-09-12",
+      "locator": "苏人保监〔2022〕24 号成文日期、发布时间及附件 1 中粮东海条目",
+      "type": "政府劳动保障信誉评价公开文本"
+    },
+    {
+      "id": "cofco-eastsea-instrument-job",
+      "title": "中粮东海自控仪表岗位：厂区维护与承包商范围",
+      "publisher": "中粮东海粮油工业（张家港）有限公司 / 智联招聘",
+      "url": "https://www.zhaopin.com/jobdetail/CC275326910J40885468414.htm",
+      "summary": "岗位原题为中粮东海自控仪表工程师，职责涉及各生产厂区仪表维护、劳动防护、外委维修和承包商作业管理。",
+      "limitation": "本岗位正文没有每周 40 小时或双休承诺，也没有实际考勤；下方相似职位中的双休属于其他企业，未套用。职责要求不等于安全或承包商劳动义务已经履行，且未对应本款灌装产线。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公开职位正文的岗位职责 1—7 项与原标题；不包含相似职位",
+      "type": "企业招聘职位"
+    },
+    {
+      "id": "fulinmen-soybean5l-suning",
+      "title": "福临门非转基因一级大豆油 5L 单桶资料",
+      "publisher": "苏宁易购 / 中粮福临门苏宁自营旗舰店",
+      "url": "https://product.suning.com/0030000682/139176760.html",
+      "summary": "准确商品标题和包装清单对应非转基因一级大豆油 5L×1；同页黄色提手单桶原图可读品名、一级及净含量 5 升。",
+      "limitation": "制造厂址栏写见包装，尚无可读制造背标和瓶肩批号。店名、出品方和中国品牌不确定制造法人；当前库存、销售法人、配送地区及包装版本仍待核，未合并其他油种或多桶套装。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号 139176760：标题、5L×1 清单与准确单桶原图",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "fulinmen-soybean5l-retail-information",
+      "title": "福临门大豆油原始资料图：工艺与产品原产国",
+      "publisher": "苏宁易购公开展示 / 福临门商品资料图",
+      "url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/26WZJy0l45mMgi0CrIlMNQ.jpg",
+      "summary": "与 5 升非转基因一级大豆油相符的完整商品资料图列大豆加工工艺为浸出、产品原产国为中国，生产日期说明为瓶肩所示。",
+      "limitation": "这是零售资料图而非实际瓶背标签，没有制造企业、工厂地址和已填写批号。产品原产国与非转基因字样不证明原豆种植地；不把广告的营养或品质宣称用作独立结论。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "完整长图中部产品信息区；已目视原图",
+      "type": "零售商展示的商品资料图"
+    },
+    {
+      "id": "fulinmen-soybean5l-chongchuan-2024",
+      "title": "崇川 2024 四季度抽检：5 升福临门大豆油的标称生产者",
+      "publisher": "南通市崇川区市场监督管理局",
+      "url": "https://www.chongchuan.gov.cn/ntsccqscjgj/upload/c7975fb6-d05a-4998-9082-845a7a7607a9.pdf",
+      "summary": "原表第 477 项为一级大豆油（非转基因）、福临门、5 升/瓶，生产日期及批号栏为 2024-06-24；标称生产企业是中粮东海粮油工业（张家港）有限公司，地址为张家港市金港镇。",
+      "limitation": "已目视原 PDF 表头与所在页。记录仅对应历史抽检样品，未锁定当前零售包装、瓶肩日期和原豆来源；食品抽检合格不等于劳动条件合规，也不适用于其他福临门油种、规格或工厂。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 1 页表头、第 34 页第 477 项；已核原页",
+      "type": "政府食品监督抽检原表"
     }
   ],
   "companies": [
@@ -6123,40 +6279,72 @@
       "restDays": null,
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
-      "cardNote": "工时与休息资料待补",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "cardNote": "油厂有历史评价 · 现供批次与工时待核",
+      "scope": "福临门营销主体与中粮集团权益披露；张家港大豆油历史样品及工厂历史劳动评价、菏泽和张家港岗位分别核查。",
+      "finding": "5 升非转基因大豆油历史样品对应中粮东海，该法人有 2022 年 2A 级复查确认记录。集团网页与招聘未证明本目录各款当前生产厂、实际周工时、逐周休息和供应链履行。",
       "caveats": [
-        "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "本档案尚未取得实际考勤、加班和每周休息记录。"
+        "中粮福临门食品营销有限公司是营销主体；出品方、制造者、原豆供应者和承包商分别核查。",
+        "张家港 2A 级是 2022 年复查确认的历史记录，不是 2026 年全体岗位和供应链的合规保证。",
+        "菏泽安全管理校招与张家港仪表岗位不代表榨油、精炼或灌装班组；年假、社保或补贴承诺不能推算为每周双休。",
+        "2024 年 5 升大豆油样品不确定当前发货厂，也不覆盖花生油、玉米油、菜籽油或其他容量；非转基因不代表原豆一定来自中国。"
       ],
       "sourceIds": [
-        "cofco-oils-products"
+        "cofco-oils-products",
+        "cofco-employees-2025-web",
+        "cofco-heze-safety-hiring-2024",
+        "cofco-eastsea-labor-credit-2022",
+        "cofco-eastsea-instrument-job",
+        "fulinmen-soybean5l-chongchuan-2024"
       ],
       "supply": [
         {
-          "stage": "品牌与运营",
-          "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "stage": "集团与营销主体",
+          "status": "policy",
+          "detail": "2025 员工权益网页为集团自述，营销公司不是每款油的实际生产厂。",
+          "sourceIds": [
+            "cofco-employees-2025-web",
+            "cofco-oils-products"
+          ]
         },
         {
-          "stage": "生产或门店服务",
+          "stage": "榨油、精炼和灌装",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
-          "sourceIds": []
+          "detail": "5 升非转基因大豆油历史样品标称中粮东海；同法人有 2022 年劳动保障复查记录，现供批次及产线实际履行仍缺。",
+          "sourceIds": [
+            "fulinmen-soybean5l-chongchuan-2024",
+            "cofco-eastsea-labor-credit-2022"
+          ]
         },
         {
-          "stage": "原料、外包与物流",
+          "stage": "厂区安全与外委维修",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
-          "sourceIds": []
+          "detail": "菏泽安全管理及张家港仪表岗位是各自招聘要求，涉及福利、劳防与承包商；不是全部生产岗位或承包商履行报告。",
+          "sourceIds": [
+            "cofco-heze-safety-hiring-2024",
+            "cofco-eastsea-instrument-job"
+          ]
+        },
+        {
+          "stage": "原豆、包材及运输",
+          "status": "unknown",
+          "detail": "国内成品资料不证明原豆来自中国；具体供应方、加工及运输人员的实际工时和休息均待核。",
+          "sourceIds": [
+            "fulinmen-soybean5l-retail-information"
+          ]
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "逐款获取现供瓶身制造背标和瓶肩日期，锁定生产法人；更新该厂劳动评价并核产线、外委维修、原料与运输人员的实际工时、休息、工资及社保。",
+      "assessments": [
+        {
+          "subject": "中粮东海粮油工业（张家港）有限公司",
+          "result": "列入苏州市劳动保障 2A 级信誉单位复查确认名单",
+          "period": "2022-12-30 成文；2023-01-16 发布",
+          "sourceId": "cofco-eastsea-labor-credit-2022",
+          "limitation": "历史政府评价；不确定当前零售批次制造厂，也不能替代 2026 年实际周工时、逐周休息或上游劳动记录。"
+        }
+      ]
     },
     {
       "id": "lkk-xinhui",
@@ -6891,41 +7079,54 @@
       "restDays": null,
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
-      "cardNote": "分装法人已对应 · 工时待核",
-      "scope": "集团 2025 年员工制度与沈阳信昌工厂线索；具体黄小米包装列分装受委托方。",
-      "finding": "已将 1kg 黄小米样例包装对应到沈阳信昌，报告也提及该厂职工沟通；具体批次、实际周工时与每周休息仍未取得独立记录。",
+      "cardNote": "部分分装标签已对应 · 实际生产劳动待核",
+      "scope": "集团 2025 员工制度；黄小米与燕麦米样例分装标签；景洪玉米包装岗位另列，豆类和玉米的实际制造法人待核。",
+      "finding": "黄小米、燕麦米样例包装均列沈阳信昌分装，但两处厂址需靠当批代码区分。集团权益披露及景洪包装岗招聘没有所选商品班组的实际周工时、逐周休息和工资社保记录。",
       "caveats": [
-        "依法安排工时、假期和五险一金属于企业披露，不能补成已验证的 40 小时双休。",
-        "包装列多处地址，须用当前批次代码确定实际分装地点；国内分装不证明原粮种植全链在中国。",
-        "供应商质量、资质和绩效考核不能替代种植、加工、包材与物流工人的劳动记录。"
+        "依法安排工时、假期和五险一金属于集团披露，不能补成已验证的 40 小时与每周两天休息。",
+        "黄小米和燕麦米分装标签分别核对；没有当批 XC 代码，不能选定工厂，也不能由国内分装推定原粮产地。",
+        "绿豆、红小豆、黑糯玉米没有制造背标，不借用燕麦米分装者。沈阳信昌发布的景洪岗位不等于商品在沈阳或景洪制造。",
+        "集团供应商质量和绩效考核不替代种植、加工、包材与物流人员的劳动记录。"
       ],
       "sourceIds": [
         "shiyue-esg-2025",
         "shiyue-millet-suning",
-        "shiyue-millet-packaging"
+        "shiyue-millet-packaging",
+        "shiyue-oats1kg-suning",
+        "shiyue-oats1kg-packing-label",
+        "shiyue-corn-packaging-jinghong"
       ],
       "supply": [
         {
           "stage": "集团员工制度",
           "status": "policy",
-          "detail": "2025 报告披露工时、休假与社保制度，未给出对应产线的实际周工时。",
+          "detail": "2025 报告有工时休假和社保制度自述，未披露所选产线的实际周工时和逐周休息。",
           "sourceIds": [
             "shiyue-esg-2025"
           ]
         },
         {
-          "stage": "黄小米分装",
+          "stage": "黄小米与燕麦米分装",
           "status": "unknown",
-          "detail": "样例背标列沈阳信昌及两处地址代码；当前批次、分装班组和每周休息待核。",
+          "detail": "两款各有沈阳信昌受委托分装样例，现供批次代码、厂址及分装班组待核；豆类不借用这些标签。",
           "sourceIds": [
             "shiyue-millet-packaging",
-            "shiyue-esg-2025"
+            "shiyue-oats1kg-packing-label"
           ]
         },
         {
-          "stage": "种植、包材与物流",
+          "stage": "玉米加工与包装",
           "status": "unknown",
-          "detail": "报告有原粮和物流供应商管理，但该款种植地、雇佣主体及劳动履行尚未逐项对应。",
+          "detail": "景洪玉米包装班长招聘有社保和补贴承诺，没有周工时和休息数字；与所选黑糯玉米的制造关系未闭合。",
+          "sourceIds": [
+            "shiyue-corn-packaging-jinghong",
+            "shiyue-black-corn8-suning"
+          ]
+        },
+        {
+          "stage": "原粮种植、包材与物流",
+          "status": "unknown",
+          "detail": "各款实际原料来源和雇佣主体未锁定，集团供应商管理不等于上游实际劳动履行。",
           "sourceIds": [
             "shiyue-esg-2025"
           ]
@@ -6933,7 +7134,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "以实际包装生产日期后的 XC 代码锁定分装地址，补充该岗位和原粮、包材、物流人员的考勤、工资、社保与休息资料。"
+      "nextCheck": "取得各款当前包装与批次：小米、燕麦米用 XC 代码择厂，豆类和玉米先识别制造法人；再核加工、分装及原粮人员的实际考勤、逐周休息、工资社保。"
     },
     {
       "id": "sanquan",
@@ -11096,8 +11297,10 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
-          "sourceIds": []
+          "detail": "集团有员工权益网页自述，但本款现供制造厂尚未锁定。张家港大豆油样品及该厂历史评价不覆盖此油种；实际产线及上游工时、逐周休息和工资社保仍待核。",
+          "sourceIds": [
+            "cofco-employees-2025-web"
+          ]
         }
       }
     },
@@ -11144,8 +11347,10 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
-          "sourceIds": []
+          "detail": "集团有员工权益网页自述，但本款现供制造厂尚未锁定。张家港大豆油样品及该厂历史评价不覆盖此油种；实际产线及上游工时、逐周休息和工资社保仍待核。",
+          "sourceIds": [
+            "cofco-employees-2025-web"
+          ]
         }
       }
     },
@@ -11192,8 +11397,10 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
-          "sourceIds": []
+          "detail": "集团有员工权益网页自述，但本款现供制造厂尚未锁定。张家港大豆油样品及该厂历史评价不覆盖此油种；实际产线及上游工时、逐周休息和工资社保仍待核。",
+          "sourceIds": [
+            "cofco-employees-2025-web"
+          ]
         }
       }
     },
@@ -13918,6 +14125,258 @@
           ]
         }
       }
+    },
+    {
+      "id": "shiyue-oats1kg",
+      "name": "磨米世家燕麦米 1kg",
+      "brand": "十月稻田",
+      "companyId": "shiyue",
+      "category": "food",
+      "description": "用于煮饭、煮粥的燕麦米，记录 1kg 单袋。",
+      "tags": [
+        "燕麦",
+        "燕麦米",
+        "杂粮"
+      ],
+      "needs": [
+        "燕麦"
+      ],
+      "url": "https://product.suning.com/0030000681/694150087.html",
+      "relationshipSourceIds": [
+        "shiyue-oats1kg-suning",
+        "shiyue-oats1kg-packing-label"
+      ],
+      "market": "大陆单袋商品资料可核；现时地区供货及到货批次待核。",
+      "relationship": "同页正面为十月稻田磨米世家燕麦米，背面列沈阳信昌受委托分装及两处地址代码，未择定当前工厂。",
+      "image": "images/shiyue-oats1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/o5aA6zoEhPTZvyG5KoyHXQ.jpg_800w_800h_4e",
+      "imageRights": "十月稻田及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "1kg×1 的大陆直接资料与包装相符；动态可售、销售法人及配送仍待核。",
+          "sourceIds": [
+            "shiyue-oats1kg-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "背图列沈阳信昌受委托分装、辽宁沈阳及 XC1/XC2 两址；未填实际日期代码，原粮种植地与当前工厂待核。",
+          "sourceIds": [
+            "shiyue-oats1kg-packing-label"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团有工时休假与社保制度自述，未取得该燕麦米分装班组及原粮、包材、物流人员的实际周工时、逐周休息和工资社保。",
+          "sourceIds": [
+            "shiyue-esg-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shiyue-mung1kg",
+      "name": "绿豆 1kg（2斤）",
+      "brand": "十月稻田",
+      "companyId": "shiyue",
+      "category": "food",
+      "description": "可作煮粥、豆食原料的单一杂粮；记录准确卡片所列 2 斤单袋。",
+      "tags": [
+        "绿豆",
+        "杂粮",
+        "豆类"
+      ],
+      "needs": [
+        "绿豆"
+      ],
+      "url": "https://item.jd.com/3243204.html",
+      "relationshipSourceIds": [
+        "shiyue-mung1kg-jd-card"
+      ],
+      "market": "京东准确货号卡片有 2 斤单袋资料；当前直接可售、供货和销售主体待核。",
+      "relationship": "准确商品卡片与原始宣传图对应十月稻田品牌；制造标签和当前批次未知，不沿用同品牌小米或燕麦分装关系。",
+      "image": "images/shiyue-mung1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/415414/35/4350/163048/69d3b2e4Fdba5d72f/0083320320771328.jpg",
+      "imageRights": "十月稻田及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认；220×220 原始宣传图，重量按准确卡片的 2 斤标题核对，图内营养与品质宣传未独立核验。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核准确卡片标题和实际商品链接，2 斤换算为 1kg；直接页只返回通用内容，当前供货、销售法人和配送待核。",
+          "sourceIds": [
+            "shiyue-mung1kg-jd-card"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚无可读制造背标、原料来源和当批工厂；国产品牌及商品标题不能独立证明国内种植或分装。",
+          "sourceIds": [
+            "shiyue-mung1kg-jd-card"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团员工制度未对应此豆类制造班组；种植、加工、分装及运输的实际雇主、周工时、逐周休息和工资社保仍待核。",
+          "sourceIds": [
+            "shiyue-esg-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shiyue-redbean1kg",
+      "name": "红小豆 1kg（2斤）",
+      "brand": "十月稻田",
+      "companyId": "shiyue",
+      "category": "food",
+      "description": "可作煮粥、豆食原料的单一杂粮；记录准确卡片所列 2 斤单袋。",
+      "tags": [
+        "红豆",
+        "杂粮",
+        "豆类"
+      ],
+      "needs": [
+        "红豆"
+      ],
+      "url": "https://item.jd.com/2671522.html",
+      "relationshipSourceIds": [
+        "shiyue-redbean1kg-jd-card"
+      ],
+      "market": "京东准确货号卡片有 2 斤单袋资料；当前直接可售、供货和销售主体待核。",
+      "relationship": "准确商品卡片与原始宣传图对应十月稻田品牌；制造标签和当前批次未知，不沿用同品牌小米或燕麦分装关系。",
+      "image": "images/shiyue-redbean1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/418069/39/6979/167287/69dcb3a3Fd22c7f3a/0083320320067c90.jpg",
+      "imageRights": "十月稻田及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认；220×220 原始宣传图，重量按准确卡片的 2 斤标题核对，图内营养与品质宣传未独立核验。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核准确卡片标题和实际商品链接，2 斤换算为 1kg；直接页只返回通用内容，当前供货、销售法人和配送待核。",
+          "sourceIds": [
+            "shiyue-redbean1kg-jd-card"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚无可读制造背标、原料来源和当批工厂；国产品牌及商品标题不能独立证明国内种植或分装。",
+          "sourceIds": [
+            "shiyue-redbean1kg-jd-card"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团员工制度未对应此豆类制造班组；种植、加工、分装及运输的实际雇主、周工时、逐周休息和工资社保仍待核。",
+          "sourceIds": [
+            "shiyue-esg-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shiyue-black-corn8",
+      "name": "黑糯玉米 200g×8根",
+      "brand": "十月稻田",
+      "companyId": "shiyue",
+      "category": "food",
+      "description": "黑糯玉米整盒，净含量 1.6kg，可按包装说明加热食用。",
+      "tags": [
+        "玉米",
+        "黑糯玉米",
+        "杂粮"
+      ],
+      "needs": [
+        "玉米"
+      ],
+      "url": "https://product.suning.com/0000000000/000000012445872584.html",
+      "relationshipSourceIds": [
+        "shiyue-black-corn8-suning"
+      ],
+      "market": "大陆 8 根整盒商品资料与盒身净含量相符；当前可售和发货批次待核。",
+      "relationship": "准确盒体为十月稻田黑糯玉米 200g×8，厂家栏仅写见包装；不由标准字母或其他谷物标签推定制造者。",
+      "image": "images/shiyue-black-corn8.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/Gt0D8l5ArgRjshYk23s89g.jpg_800w_800h_4e",
+      "imageRights": "十月稻田及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认；原始 8 根装宣传图，盒体 1.6kg（200g×8）可读，花青素等宣传未独立核验。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "直接题名和盒体均为 200g×8 根；当前地区可售、销售法人及配送待核，未合并其他盒数或黄糯款。",
+          "sourceIds": [
+            "shiyue-black-corn8-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售参数写国产华北，但尚无可读制造背标、种植地和当前批次；类别误写玉米粉，企业标准字母也不能确定工厂。",
+          "sourceIds": [
+            "shiyue-black-corn8-suning"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "景洪包装班长招聘有社保及补贴承诺，没有周工时和休息数字，也未与此 8 根盒装对应；实际加工、包装及种植人员劳动记录仍缺。",
+          "sourceIds": [
+            "shiyue-esg-2025",
+            "shiyue-corn-packaging-jinghong"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fulinmen-soybean-oil-5l",
+      "name": "非转基因一级大豆油 5L",
+      "brand": "福临门",
+      "companyId": "cofco-fulinmen",
+      "category": "food",
+      "description": "家庭烹调用一级大豆油，记录 5L 单桶；具体食用方法以实物标签为准。",
+      "tags": [
+        "大豆油",
+        "食用油"
+      ],
+      "needs": [
+        "大豆油"
+      ],
+      "url": "https://product.suning.com/0030000682/139176760.html",
+      "relationshipSourceIds": [
+        "fulinmen-soybean5l-suning",
+        "fulinmen-soybean5l-retail-information",
+        "fulinmen-soybean5l-chongchuan-2024"
+      ],
+      "market": "大陆准确 5L 单桶资料可核，当前地区可售、包装与批次待核。",
+      "relationship": "零售资料明确福临门品牌；2024 年同名同规格历史样品标称中粮东海生产，当前发货厂仍需瓶身背标和日期核对。",
+      "image": "images/fulinmen-soybean-oil-5l.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/-HrRKWN3tsrl1x_YPvbfIQ.jpg_800w_800h_4e",
+      "imageRights": "福临门及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "大陆直接商品页和原图对应非转基因一级大豆油 5L×1；现时可售、销售法人及地区配送待核。",
+          "sourceIds": [
+            "fulinmen-soybean5l-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "2024-06-24 历史样品标称张家港中粮东海；零售图列产品原产国中国。当前批次、制造背标和原豆来源未核，非转基因不证明原豆国产。",
+          "sourceIds": [
+            "fulinmen-soybean5l-chongchuan-2024",
+            "fulinmen-soybean5l-retail-information"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "东海有 2022 年 2A 级复查确认，未取得当前产线的实际工时、逐周休息与工资社保；集团网页、仪表岗位和菏泽校招不能替代本款及上游的劳动履行。",
+          "sourceIds": [
+            "cofco-eastsea-labor-credit-2022",
+            "cofco-employees-2025-web",
+            "cofco-eastsea-instrument-job",
+            "cofco-heze-safety-hiring-2024"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -14029,7 +14488,7 @@
           "query": "速冻调理肉"
         }
       ],
-      "note": "新增特级草菇老抽 500mL、香辣香菇拌饭酱 300g 与淮盐加碘井矿盐 500g。老抽有高明加工方样例标签，盐有淮安生产者示意稿；当前供货、批次与实际劳动仍待核。贵糖家庭小包装未锁定，不以散装商品填补白糖；米粉、燕麦、玉米、绿豆、红豆、大豆油、白糖和坚果继续查。",
+      "note": "新增燕麦米 1kg、绿豆 1kg、红小豆 1kg、黑糯玉米 200g×8 根和大豆油 5L。燕麦米有分装标签，食用油有张家港历史样品与工厂劳动评价；当前供货、制造批次及实际劳动均待核。米粉、白糖和坚果仍缺准确候选，不以混合粥料或包装变体填数。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -14062,7 +14521,20 @@
         "huai-salt500-sea-salt-conflict",
         "yuegui-esg-2025-sugar-lead",
         "guihua-smallpack-2011",
-        "guihua-sugar-jd-split"
+        "guihua-sugar-jd-split",
+        "shiyue-oats1kg-suning",
+        "shiyue-oats1kg-packing-label",
+        "shiyue-mung1kg-jd-card",
+        "shiyue-redbean1kg-jd-card",
+        "shiyue-black-corn8-suning",
+        "shiyue-corn-packaging-jinghong",
+        "cofco-employees-2025-web",
+        "cofco-heze-safety-hiring-2024",
+        "cofco-eastsea-labor-credit-2022",
+        "cofco-eastsea-instrument-job",
+        "fulinmen-soybean5l-suning",
+        "fulinmen-soybean5l-retail-information",
+        "fulinmen-soybean5l-chongchuan-2024"
       ]
     },
     {
