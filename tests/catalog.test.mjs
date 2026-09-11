@@ -22,11 +22,45 @@ test("official shop pages and headquarters policies cannot admit a product", () 
 });
 test("missing or sourceless domestic-production evidence blocks admission", () => {
   const c = { ...data.companies[0], actualHoursVerified: true, actualRestVerified: true, hours: 40, restDays: 2 };
+  c.supply = c.supply.map((stage) => ({ ...stage, status: "verified", sourceIds: ["independent-record"] }));
   const p = { ...data.products[0], admission: Object.fromEntries(["chinaSale", "chinaProduction", "productionLabor"].map((key) => [key, {status: "supported", sourceIds: ["source"]}])) };
+  assert.equal(isAdmitted(p, c), true);
   p.admission.chinaProduction.sourceIds = [];
   assert.equal(isAdmitted(p, c), false);
   delete p.admission.chinaProduction;
   assert.equal(isAdmitted(p, c), false);
+});
+
+test("admission requires evidence for every production and upstream stage", () => {
+  const c = {
+    ...data.companies[0],
+    actualHoursVerified: true,
+    actualRestVerified: true,
+    hours: 40,
+    restDays: 2,
+    supply: data.companies[0].supply.map((stage) => ({
+      ...stage, status: "verified", sourceIds: ["independent-record"],
+    })),
+  };
+  const p = {
+    ...data.products[0],
+    admission: Object.fromEntries(["chinaSale", "chinaProduction", "productionLabor"].map(
+      (key) => [key, { status: "supported", sourceIds: ["product-record"] }],
+    )),
+  };
+  assert.equal(isAdmitted(p, c), true);
+  for (const [index] of c.supply.entries()) {
+    for (const unresolved of [
+      { status: "unknown", sourceIds: [] },
+      { status: "policy", sourceIds: ["company-policy"] },
+      { status: "verified", sourceIds: [] },
+    ]) {
+      const supply = c.supply.map((stage, i) => i === index ? { ...stage, ...unresolved } : stage);
+      assert.equal(isAdmitted(p, { ...c, supply }), false);
+    }
+  }
+  assert.equal(isAdmitted(p, { ...c, supply: [] }), false);
+  assert.equal(isAdmitted(p, { ...c, supply: undefined }), false);
 });
 
 test("supplier policies and self-reporting never qualify as actual verification", () => {

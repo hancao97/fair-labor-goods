@@ -1926,6 +1926,138 @@
       "checkedAt": "2026-09-12",
       "locator": "后谷责任：产业合作及咖农支持部分",
       "type": "企业官网"
+    },
+    {
+      "id": "anta-esg-2025-labor",
+      "title": "安踏 2025 ESG 报告：供应商劳动审核发现与整改口径",
+      "publisher": "安踏体育用品有限公司（香港交易所披露）",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0409/2026040900953_c.pdf",
+      "summary": "报告说明自有业务及供应链的劳工政策，并披露供应商审核发现加班超时、社保覆盖不足、化学品与防护装备管理等问题。CAP 达标口径包含整改完成或提出有效可行的整改方案。",
+      "limitation": "属于集团范围报告，未将发现逐一对应本目录具体商品、工厂与人员。整改方案不等于实际整改已经完成，不能用总体管理披露替代商品全链达标证明。",
+      "publishedAt": "2026-04-09",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 74、94—95 页（印刷第 72、92—93 页）",
+      "type": "企业报告"
+    },
+    {
+      "id": "youngor-esg-2025-labor",
+      "title": "雅戈尔 2025 ESG 报告：生产薪酬与多种工时制度",
+      "publisher": "雅戈尔时尚股份有限公司（上海证券交易所披露）",
+      "url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-04-28/600177_20260428_QHP6.pdf",
+      "summary": "报告的薪酬部分列出一线生产员工计件安排；工时及假期政策说明采用标准工时、综合工时等制度，并介绍社保、休假和职工协商渠道。",
+      "limitation": "不同岗位的制度不能合并为全员每周 40 小时、周休两天；报告没有提供所选衬衫制造人员的逐周考勤和原料、织造、外包履行记录。",
+      "publishedAt": "2026-04-28",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 及印刷第 57—58 页",
+      "type": "企业报告"
+    },
+    {
+      "id": "youngor-yldp10265ija-sale",
+      "title": "雅戈尔 YLDP10265IJA 衬衫：苏宁款式资料与下架提示",
+      "publisher": "苏宁易购商品页（页面店铺名：雅戈尔官方旗舰店）",
+      "url": "https://product.suning.com/0070682847/10887087635.html",
+      "summary": "商品参数列货号 YLDP10265IJA、A010 白底蓝条、纯棉尖领长袖；可对应商品主图。",
+      "limitation": "HTML 同时有下架提示和通用有货文案，当前可下单状态未确认。店铺名称不独立证明授权、制造法人或工厂；未读到产地吊牌。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品标题、货号和颜色参数；页面下架提示",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "liby-csr-2023",
+      "title": "立白 2023 社会责任报告：生产基地与员工、供应商政策",
+      "publisher": "广州立白企业集团有限公司",
+      "url": "https://www.liby.com.cn//media/yazgfyxb/2023-cn.pdf",
+      "summary": "生产布局列新乡立白实业有限公司；员工权益部分介绍合同、社保和协商制度，供应商管理提出劳动雇佣与工作条件要求。",
+      "limitation": "报告年份为 2023，公开发布日期未确认。集团统计不能直接覆盖每个生产基地或当前商品；没有该洗洁精产线及原料、包材工人的实际考勤和逐周休息记录。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 6、32、35 页（印刷第 8—10、61—62、67—68 页）",
+      "type": "企业报告"
+    },
+    {
+      "id": "liby-xinxiang-production-manager",
+      "title": "新乡立白生产主管招聘：岗位列五天八小时双休",
+      "publisher": "新乡立白实业有限公司（智联招聘）",
+      "url": "https://www.zhaopin.com/jobdetail/CC440186520J40837744410.htm",
+      "summary": "液洗车间生产主管职责包含配料品质、员工培训和现场管理；该岗位福利写明五天八小时及周末双休。",
+      "limitation": "发布日期未确认，仅为招聘披露及这一主管岗位的范围。配料工和操作工有不同倒班安排，不能将此福利推广到整厂或用作实际履行证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "职位描述：工作内容、福利待遇",
+      "type": "企业招聘"
+    },
+    {
+      "id": "liby-xinxiang-mixing-worker",
+      "title": "新乡立白生产配料工招聘：两班倒、月休四天",
+      "publisher": "新乡立白实业有限公司（智联招聘）",
+      "url": "https://www.zhaopin.com/jobdetail/CC440186520J40321160310.htm",
+      "summary": "岗位原名为生产配料工，职责包括生产原料领用和配备；职位标签列两班倒及月休四天，正文要求能适应倒班。",
+      "limitation": "发布日期、班次时长及实际考勤未知。页面通用公司介绍另写五天八小时，不能覆盖掉岗位具体安排；招聘标签也不能单独用于判定实际违法。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "职位标签、岗位职责与原标题",
+      "type": "企业招聘"
+    },
+    {
+      "id": "liby-xinxiang-production-operator",
+      "title": "新乡立白生产操作工招聘：白白夜夜休休",
+      "publisher": "新乡立白实业有限公司（智联招聘）",
+      "url": "https://www.zhaopin.com/jobdetail/CC440186520J40224234210.htm",
+      "summary": "岗位负责生产设备操作、记录及维护；工作时间栏列三班两倒、上四休二，循环为白白夜夜休休。",
+      "limitation": "未说明每班时长，不能换算成每周 40 小时。发布日期、逐周考勤、加班工资及外包情况未核；不同岗位和招聘版本不能合并为整厂统一制度。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "岗位职责与工作时间；原标题生产操作工",
+      "type": "企业招聘"
+    },
+    {
+      "id": "liby-qingning1kg-sale",
+      "title": "立白青柠洗洁精 1kg：大陆销售商规格页",
+      "publisher": "广州康航酒店用品有限公司",
+      "url": "https://www.kanghang.com.cn/834.html",
+      "summary": "页面列青柠洗洁精 1kg、每箱 10 瓶、单位瓶，并展示对应绿色泵头瓶装主图。",
+      "limitation": "属于销售商展示页面，未确认库存、个人零售起订量及配送；销售商地址不是制造厂址。主图没有可可靠读取的生产法人和厂址，网页注明图片仅供参考。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "详细参数：名称、规格、单位；主图",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "liby-qingning1kg-sampling2025",
+      "title": "宿州 2025 年抽查通告转载：1 千克青柠洗洁精标称新乡立白生产",
+      "publisher": "中国质量新闻网供稿／新浪财经转载宿州市市场监管局通告",
+      "url": "https://finance.sina.com.cn/jjxw/2025-12-16/doc-inhaywri8389042.shtml",
+      "summary": "表第 27 行列立白青柠洗洁精 1 千克，受检单位为砀山县时鲜超市，标称生产单位为新乡立白实业有限公司，检验结果合格。",
+      "limitation": "本次未取得政府原页，明确保留转载身份。20250915019 是检验报告编号，不是生产批次或日期；该记录不能锁定销售商当前到货来源，也不证明劳动条件。",
+      "publishedAt": "2025-12-16",
+      "checkedAt": "2026-09-12",
+      "locator": "监督抽查结果表第 27 行，检验报告编号 20250915019",
+      "type": "政府通告转载"
+    },
+    {
+      "id": "yunkc-agricultural-hiring2025",
+      "title": "云科创蓝莓种植技术岗位：云南农业大学招聘资料",
+      "publisher": "云南农业大学园林园艺学院（企业招聘资料）",
+      "url": "https://ylyy.ynau.edu.cn/info/1043/4582.htm",
+      "summary": "2025 年招聘农业、种植及生产技术员，培养方向为蓝莓种植，工作地为红河州；福利列双休及社会保险。",
+      "limitation": "标题是蒙自云科创，正文简介为陕西云科创，具体签约法人待核。未写每天或每周工时，也未明确覆盖季节性采摘、分拣、农户及外包冷链人员。",
+      "publishedAt": "2025-09-26",
+      "checkedAt": "2026-09-12",
+      "locator": "招聘岗位、工作地点与福利待遇；标题和企业简介分别核对",
+      "type": "高校招聘"
+    },
+    {
+      "id": "yunkc-manshi-brand2023",
+      "title": "红河州农业农村局：蒙自云科创蓝莓基地与满时商标",
+      "publisher": "红河州农业农村局（红河州人民政府网站）",
+      "url": "https://www.hh.gov.cn/info/12801/788412.htm",
+      "summary": "提案答复提到蒙自云科创获得满时注册商标，并列其蓝莓数字化生产示范基地。",
+      "limitation": "属于 2023 年产业资料，不能证明劳动条件或当前具体包装的零售可得性；不能将其他蓝莓公司的渠道和品牌移植到满时。",
+      "publishedAt": "2023-10-08",
+      "checkedAt": "2026-09-12",
+      "locator": "第一部分品牌支持、第四部分数字农业示范基地",
+      "type": "政府公开信息"
     }
   ],
   "companies": [
@@ -3761,23 +3893,26 @@
       "restDays": null,
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
-      "cardNote": "有政府记录 · 当前产线待核",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "cardNote": "报告披露供应商劳动整改事项",
+      "scope": "2022 年记录对应安踏（中国）有限公司；2025 年 ESG 属安踏体育集团范围，各制造与供应法人分别核对。",
+      "finding": "集团 2025 年报告披露供应商审核发现加班超时、社保覆盖不足等问题。历史示范称号与集团整改管理均不足以证明具体商品的全链实际劳动条件。",
       "caveats": [
-        "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "本档案尚未取得实际考勤、加班和每周休息记录。"
+        "报告未把审核发现对应到具体商品和工厂，不能推定每个供应商均存在同样问题。",
+        "CAP 达标包含提出有效整改方案，不等于全部问题已经完成实际整改。",
+        "所选商品的制造、原料及物流岗位仍需实际工时、逐周休息与其他劳动履行依据。"
       ],
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "anta-esg-2025-labor"
       ],
       "supply": [
         {
           "stage": "品牌与运营",
-          "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "status": "policy",
+          "detail": "集团劳工政策覆盖自有业务；具体岗位的实际履行仍待核。",
+          "sourceIds": [
+            "anta-esg-2025-labor"
+          ]
         },
         {
           "stage": "生产或门店服务",
@@ -3788,13 +3923,15 @@
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
-          "sourceIds": []
+          "detail": "供应商审核披露了工时、社保及劳动保护整改事项，未完成本目录具体商品的逐厂对应。",
+          "sourceIds": [
+            "anta-esg-2025-labor"
+          ]
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造厂，再取得该厂及上游的近期审核、整改复核和实际工作记录。",
       "assessments": [
         {
           "subject": "安踏（中国）有限公司",
@@ -3808,7 +3945,7 @@
     {
       "id": "youngor",
       "name": "雅戈尔",
-      "legalName": "雅戈尔集团股份有限公司（2022 年名单主体）",
+      "legalName": "雅戈尔时尚股份有限公司（2025 年报告主体；历史记录保留原名）",
       "location": "浙江宁波等",
       "origin": "china",
       "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
@@ -3817,23 +3954,26 @@
       "restDays": null,
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
-      "cardNote": "有政府记录 · 当前产线待核",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "cardNote": "报告含标准及综合工时制度",
+      "scope": "2025 年报告对应上市公司及其报告范围；具体衬衫的制造、销售与面料生产法人分别核对。",
+      "finding": "2025 年报告说明生产计件安排，并采用标准、综合等工时制度。不能将这些集团披露或 2022 年示范记录推导为所选商品的生产员工每周 40 小时、周休两天。",
       "caveats": [
-        "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "本档案尚未取得实际考勤、加班和每周休息记录。"
+        "计件薪酬与工时制度是不同事实，不据计件安排单独判断是否违法。",
+        "集团及上市公司资料不能替代衬衫制造厂、面料厂与外包岗位的实际记录。",
+        "具体工厂、用工时期及逐周工时休息仍需补证。"
       ],
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "youngor-esg-2025-labor"
       ],
       "supply": [
         {
           "stage": "品牌与运营",
-          "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "status": "policy",
+          "detail": "报告披露工时、假期、社保和职工协商制度，尚未核实本商品生产链的实际履行。",
+          "sourceIds": [
+            "youngor-esg-2025-labor"
+          ]
         },
         {
           "stage": "生产或门店服务",
@@ -4943,6 +5083,116 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+    },
+    {
+      "id": "liby-xinxiang",
+      "name": "立白（新乡生产基地）",
+      "legalName": "新乡立白实业有限公司",
+      "location": "河南新乡经济技术开发区",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "主管 5 天 × 8 小时；产线待核",
+      "restLabel": "配料月休四天；操作上四休二",
+      "cardNote": "生产岗位休息安排各不相同",
+      "scope": "新乡生产法人及其主管、配料、设备操作岗位；集团其他基地与外包岗位分别核对。",
+      "finding": "生产主管招聘写五天八小时、周末双休；配料岗位列两班倒及月休四天，操作岗位另列上四休二。不能依据主管福利或集团政策认定整厂符合每周 40 小时、周休两天。",
+      "caveats": [
+        "岗位页面发布日期未确认，可能涉及不同招聘时期；实际排班仍需核对。",
+        "操作工上四休二未列班次时长，配料工月休四天也不能改写成每周双休。",
+        "2025 年抽查只建立一项同名同规格商品的标称制造关系，不能证明当前消费者批次或全链劳动履行。"
+      ],
+      "sourceIds": [
+        "liby-csr-2023",
+        "liby-xinxiang-production-manager",
+        "liby-xinxiang-mixing-worker",
+        "liby-xinxiang-production-operator",
+        "liby-qingning1kg-sampling2025"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "集团披露合同、社保及员工协商政策，未验证新乡基地各岗位当前履行。",
+          "sourceIds": [
+            "liby-csr-2023"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "unknown",
+          "detail": "主管、配料工、操作工的招聘安排不同；缺少准确班次时长、实际考勤与休息记录。",
+          "sourceIds": [
+            "liby-xinxiang-production-manager",
+            "liby-xinxiang-mixing-worker",
+            "liby-xinxiang-production-operator"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "集团要求供应商遵守劳动相关要求；未取得本商品原料、包材和运输人员的实际履行依据。",
+          "sourceIds": [
+            "liby-csr-2023"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "核对在售青柠 1kg 的背标和生产批次，再分别补齐配料、灌装包装、设备操作及供应商的近期考勤、工资和休息记录。"
+    },
+    {
+      "id": "yunkc-manshi",
+      "name": "云科创 / 满时蓝莓（主体关系待核）",
+      "legalName": "蒙自云科创现代农业科技有限公司（政府资料主体）",
+      "location": "云南红河州蒙自市",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "招聘未列每周工时",
+      "restLabel": "种植技术员披露双休",
+      "cardNote": "种植技术员双休；采摘等岗位待核",
+      "scope": "政府资料中的蒙自生产主体与高校招聘标题相同，但招聘正文另介绍陕西公司，实际签约关系待核。",
+      "finding": "已找到国内蓝莓基地、满时商标及种植技术员双休线索。每周工时、采摘分拣人员待遇和确切在售包装均未核实，因此尚未添加具体蓝莓商品。",
+      "caveats": [
+        "招聘资料中的蒙自与陕西法人不可直接合并。",
+        "技术员福利不代表全部种植、采摘、分拣和冷链人员。",
+        "本次未找到可核对的满时具体包装零售页面，未用其他品牌蓝莓填补。"
+      ],
+      "sourceIds": [
+        "yunkc-agricultural-hiring2025",
+        "yunkc-manshi-brand2023"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "unknown",
+          "detail": "政府资料中的蒙自生产主体与高校招聘标题相同，但招聘正文另介绍陕西公司，实际签约关系待核。",
+          "sourceIds": []
+        },
+        {
+          "stage": "种植、采摘与分拣",
+          "status": "unknown",
+          "detail": "蓝莓技术岗位有双休招聘线索，不能推及农户、季节性工人及分拣包装人员。",
+          "sourceIds": [
+            "yunkc-agricultural-hiring2025",
+            "yunkc-manshi-brand2023"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "先确认招聘的签约法人和种植、采摘、包装各方，再找可溯源的具体零售包装及生产人员的实际工作记录。"
     }
   ],
   "products": [
@@ -9158,6 +9408,108 @@
           ]
         }
       }
+    },
+    {
+      "id": "youngor-yldp10265ija",
+      "name": "DP免熨长袖衬衫 YLDP10265IJA · A010",
+      "brand": "雅戈尔",
+      "companyId": "youngor",
+      "category": "clothing",
+      "description": "白底蓝条、纯棉尖领长袖；按货号记录，尺码不拆成多件商品。",
+      "tags": [
+        "衬衫",
+        "长袖"
+      ],
+      "needs": [
+        "衬衫"
+      ],
+      "url": "https://product.suning.com/0070682847/10887087635.html",
+      "relationshipSourceIds": [
+        "youngor-yldp10265ija-sale",
+        "youngor-esg-2025-labor"
+      ],
+      "market": "大陆苏宁商品页可核货号与配色，但出现下架提示，当前库存和可下单状态未确认。",
+      "relationship": "苏宁页面列雅戈尔品牌及此货号；集团报告不直接对应该件衬衫的制造、面料和外包法人。",
+      "image": "images/youngor-yldp10265ija.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/Req69ESaIZTpW3cmZ2k2Zg.jpg_800w_800h_4e",
+      "imageRights": "雅戈尔／YOUNGOR 及苏宁商品图相关权利人；确切图片著作权法人未公开核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "确切大陆商品页已找到，但有下架提示；不能保证目前可买。",
+          "sourceIds": [
+            "youngor-yldp10265ija-sale"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "未取得该货号可读的产地吊牌、制造法人及厂址；中国品牌和店铺名称均不能替代。",
+          "sourceIds": [
+            "youngor-yldp10265ija-sale"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团披露标准、综合等工时制度，缺少该衬衫缝制、织造和原料岗位的实际工时、休息及其他劳动履行资料。",
+          "sourceIds": [
+            "youngor-esg-2025-labor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "liby-qingning1kg",
+      "name": "青柠洗洁精 1kg",
+      "brand": "立白",
+      "companyId": "liby-xinxiang",
+      "category": "daily",
+      "description": "绿色泵头瓶装，销售商标示单瓶 1kg、10 瓶/箱；此处按一瓶资料展示。",
+      "tags": [
+        "洗洁精"
+      ],
+      "needs": [
+        "洗洁精"
+      ],
+      "url": "https://www.kanghang.com.cn/834.html",
+      "relationshipSourceIds": [
+        "liby-qingning1kg-sale",
+        "liby-qingning1kg-sampling2025",
+        "liby-csr-2023"
+      ],
+      "market": "广州销售商有同名同规格展示页；个人零售起订量、当前库存与配送范围未核。",
+      "relationship": "2025 年宿州抽查通告转载将同名 1 千克商品的标称制造商列为新乡立白；零售图没有背标，尚不能将该记录对应到当前到货批次。",
+      "image": "images/liby-qingning1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.kanghang.com.cn/content/uploadfile/202006/79de1592624831.jpg",
+      "imageRights": "立白及原图相关权利人；来源站页脚声明广州康航酒店用品有限公司版权所有，未核实具体图片权利归属",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "大陆销售商列明确 1kg 规格及按瓶单位；个人起订量、现货和配送仍待核。",
+          "sourceIds": [
+            "liby-qingning1kg-sale"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "历史抽查有新乡生产主体线索；当前销售批次的制造厂、国内原料和包材来源仍未锁定。",
+          "sourceIds": [
+            "liby-qingning1kg-sampling2025",
+            "liby-csr-2023"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "主管双休不覆盖配料工的月休四天及操作工倒班；各生产岗位和上游的实际工时、休息、工资与社保尚未验证。",
+          "sourceIds": [
+            "liby-csr-2023",
+            "liby-xinxiang-production-manager",
+            "liby-xinxiang-mixing-worker",
+            "liby-xinxiang-production-operator"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -9334,14 +9686,16 @@
           "query": "虾"
         }
       ],
-      "note": "新增有 500g 正反包装的未调理鸡胸肉，背标并列多个受托厂代码，当前批次与个人零售仍待核。连湖番茄没有明确零售规格，不计入蔬菜覆盖；水果、猪牛羊肉、水产继续查。",
+      "note": "未调理鸡胸肉有 500g 包装，但实际批次和个人零售待核。满时蓝莓找到种植技术员双休线索，签约主体、采摘分拣和确切在售包装不足，尚未添加商品。连湖番茄无明确零售规格；其他水果、猪牛羊肉和水产继续查。",
       "sourceIds": [
         "national-harmony-2022",
         "nxnk-lianhu-production-2026",
         "nxnk-lianhu-market",
         "sunner-breast-retailer",
         "sunner-breast-label",
-        "sunner-annual-2025"
+        "sunner-annual-2025",
+        "yunkc-agricultural-hiring2025",
+        "yunkc-manshi-brand2023"
       ]
     },
     {
@@ -9448,10 +9802,13 @@
           "query": "童装"
         }
       ],
-      "note": "七匹狼招聘福利与红豆、安踏、雅戈尔的政府记录正在分别对应具体款式和工厂，不将集团记录扩展到全部代工商品。",
+      "note": "已核雅戈尔衬衫具体货号，但页面有下架提示，制造厂未明。安踏马赫 5 代本次未取得确切大陆销售来源；集团供应商整改与雅戈尔多种工时制度均不能替代产线记录。T恤、裤子、内衣、文胸、睡衣、袜子、跑鞋和童装继续查。",
       "sourceIds": [
         "septwolves-hiring",
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "anta-esg-2025-labor",
+        "youngor-esg-2025-labor",
+        "youngor-yldp10265ija-sale"
       ]
     },
     {
@@ -9570,14 +9927,20 @@
           "query": "湿巾"
         }
       ],
-      "note": "新增明确 SKU 的抽纸和无芯卷纸。太阳纸业报告的每 8 天休 2 天、稳健天门招聘的 12 小时班次都不能当作每周双休依据。牙刷、洗发水、洗洁精、香皂和卫生巾仍待补。",
+      "note": "已有抽纸、卷纸和青柠洗洁精 1kg 资料。新乡立白主管双休、配料月休四天、操作上四休二，岗位范围分别保留；历史抽查生产商不代表当前到货批次。牙刷、洗发水、香皂、卫生巾及清洁工具仍待补。",
       "sourceIds": [
         "jahwa-2025",
         "darlie-hours",
         "winner-tianmen-hiring-2024",
         "purcotton-brand",
         "sunpaper-esg-2025",
-        "suntissue-company"
+        "suntissue-company",
+        "liby-csr-2023",
+        "liby-xinxiang-production-manager",
+        "liby-xinxiang-mixing-worker",
+        "liby-xinxiang-production-operator",
+        "liby-qingning1kg-sampling2025",
+        "liby-qingning1kg-sale"
       ]
     },
     {

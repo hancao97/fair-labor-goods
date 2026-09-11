@@ -2624,6 +2624,170 @@
       ],
       "notes": "“云南小粒”产品宣传已确认；100%云南原料、无进口/无拼配、实际加工企业及批次厂址仍未知。不评价劳动条件或据品牌荣誉推断合规。",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "youngor-yldp10265ija",
+      "product_name": "雅戈尔 DP免熨长袖衬衫 YLDP10265IJA（A010 白底蓝条）",
+      "model": "YLDP10265IJA",
+      "color": "A010 白底蓝条",
+      "retailer_source_page_url": "https://product.suning.com/0070682847/10887087635.html",
+      "image_source_page_url": "https://product.suning.com/0070682847/10887087635.html",
+      "source_role": "中国大陆苏宁易购商品页；页面店铺名为雅戈尔官方旗舰店，不据店铺名称确认制造主体",
+      "retailer_page_title": "Youngor/雅戈尔春季尖领条纹纯棉中青年衬衫DP免熨长袖衬衣男A010",
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆零售平台商品展示；当前库存未确认",
+      "retailer_page_product_fields": {
+        "cargo_number": "YLDP10265IJA",
+        "style_color_code": "A010",
+        "color": "白底蓝条",
+        "material": "棉100%",
+        "sleeve_length": "长袖",
+        "collar": "尖领",
+        "listed_sizes": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44"
+        ],
+        "size_in_image": "未从主图可靠读出"
+      },
+      "packaging_transcription": [
+        {
+          "text": "雅戈尔 YOUNGOR",
+          "location": "主图左上角品牌字样；衣领内品牌标 YOUNGOR",
+          "scope": "品牌名，不能据此确定法定制造商"
+        }
+      ],
+      "image_match_scope": "原图为该确切苏宁商品页首张主图，目视白底淡蓝竖条、尖领、长袖衬衫。货号及 A010/白底蓝条来自同页文字参数，主图未印完整货号。",
+      "china_sale_evidence": {
+        "status": "mainland_retail_listing_found_current_availability_unverified",
+        "source_urls": [
+          "https://product.suning.com/0070682847/10887087635.html"
+        ],
+        "exact_fields": [
+          "货号 YLDP10265IJA",
+          "白底蓝条",
+          "A010"
+        ],
+        "limitation": "HTML 同时包含“此商品已下架”及通用有货模板文案，未核实当前可下单或库存，不能仅凭此页保证当前大陆买得到。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "source_urls": [],
+        "readable_manufacturer_fields": [],
+        "evidence_scope": "主图及已检查的近景均未提供可读制造法人、厂址或产地；不把雅戈尔品牌、苏宁店名或中国页面当生产证据。",
+        "consumer_batch_verified": false
+      },
+      "supporting_images": [],
+      "notes": [
+        "交付一张未经修改的苏宁原图，不绑定消费者当前到货批次。",
+        "详情长图链接仅返回 119 字节，未作为可读吊牌或制造证据交付。"
+      ],
+      "filename": "images/youngor-yldp10265ija.webp",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/Req69ESaIZTpW3cmZ2k2Zg.jpg_800w_800h_4e",
+      "final_image_url": "https://imgservice.suning.cn/uimg1/b2c/image/Req69ESaIZTpW3cmZ2k2Zg.jpg_800w_800h_4e",
+      "content_type": "image/jpeg",
+      "width": 800,
+      "height": 800,
+      "bytes": 102864,
+      "sha256": "c7fc54a0e256cc57fe7154e9641872b86319fb0c4a30d844c81feff097f3b8c3",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "雅戈尔／YOUNGOR 及苏宁商品图相关权利人；确切图片著作权法人未公开核实",
+        "license": "No open reuse license identified. Copyright remains with the respective image and brand owners."
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "liby-qingning1kg",
+      "product_name": "立白青柠洗洁精 1kg",
+      "model": "青柠洗洁精 1kg",
+      "net_content": 1,
+      "net_content_unit": "kg",
+      "packaging": "绿色泵头透明瓶，图示单瓶；零售页面列 1kg×10瓶/箱，单位瓶",
+      "retailer_source_page_url": "https://www.kanghang.com.cn/834.html",
+      "image_source_page_url": "https://www.kanghang.com.cn/834.html",
+      "source_role": "中国大陆销售商广州康航酒店用品有限公司自有商品页面；不是立白品牌官网",
+      "retailer_page_title": "立白青柠洗洁精1kg瓶洗涤剂洗碗液包邮家用果蔬家庭装大桶",
+      "status": "image_verified",
+      "researched_on": "2026-09-12",
+      "market_scope": "中国大陆零售／批发商商品展示",
+      "retailer_page_product_fields": {
+        "name": "立白青柠洗洁精1kg",
+        "specification": "1kg*10瓶/箱",
+        "unit": "瓶",
+        "image_alt": "立白青柠洗洁精1kg",
+        "seller": "广州康航酒店用品有限公司",
+        "page_image_disclaimer": "图片仅供参考，请以实物为准"
+      },
+      "packaging_transcription": [
+        {
+          "text": "立白",
+          "location": "瓶身前标上部红色大字",
+          "scope": "品牌名称，非制造商法人"
+        },
+        {
+          "text": "青柠洗洁精",
+          "location": "立白标识正下方黑字",
+          "scope": "正面可读产品名称"
+        }
+      ],
+      "net_content_evidence": {
+        "status": "retailer_text_confirmed_image_text_not_reliably_legible",
+        "value": "1kg",
+        "source_url": "https://www.kanghang.com.cn/834.html",
+        "limitation": "500×500原图的净含量小字不够清晰，1kg来自该确切页面名称和规格，未声称从包装净含量独立读得。"
+      },
+      "image_match_scope": "使用该商品页 alt 为立白青柠洗洁精1kg的原图，目视为绿色泵头瓶装青柠洗洁精。单瓶图与页面单位瓶一致；10瓶为整箱组合，不将照片声称为整箱。",
+      "china_sale_evidence": {
+        "status": "mainland_seller_product_page_confirmed",
+        "source_urls": [
+          "https://www.kanghang.com.cn/834.html"
+        ],
+        "exact_fields": [
+          "名称：立白青柠洗洁精1kg",
+          "规格：1kg*10瓶/箱",
+          "单位：瓶",
+          "由广州康航酒店用品有限公司提供"
+        ],
+        "limitation": "页面展示和规格已核对；未下单核实库存或实际到货包装。"
+      },
+      "china_production_evidence": {
+        "status": "unknown",
+        "country": null,
+        "manufacturer_legal_entity": null,
+        "factory_address": null,
+        "source_urls": [],
+        "readable_manufacturer_fields": [],
+        "evidence_scope": "交付图只有正面，未读到法定制造商、厂址或中国原产地。页面销售商名称与页脚地址属于销售主体，不用作工厂证据；不把其他抽查批次制造商移植到本图片。",
+        "consumer_batch_verified": false
+      },
+      "supporting_images": [],
+      "notes": [
+        "零售商注明产品图片仅供参考，以实物为准。",
+        "图像下载 URL 路径含202006；仅说明源路径，不据此推定生产日期或当前批次。"
+      ],
+      "filename": "images/liby-qingning1kg.webp",
+      "image_url": "https://www.kanghang.com.cn/content/uploadfile/202006/79de1592624831.jpg",
+      "final_image_url": "https://www.kanghang.com.cn/content/uploadfile/202006/79de1592624831.jpg",
+      "content_type": "image/jpeg",
+      "width": 500,
+      "height": 500,
+      "bytes": 27278,
+      "sha256": "2134906ebd47fc4968ad5bd670d903ea42315ef45ca9fc8fbfda6048dc7a656f",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "立白及原图相关权利人；来源站页脚声明广州康航酒店用品有限公司版权所有，未核实具体图片权利归属",
+        "license": "No open reuse license identified. Copyright remains with the respective image and brand owners."
+      },
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

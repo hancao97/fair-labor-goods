@@ -15,9 +15,7 @@ export function isAdmitted(product, company) {
   return Boolean(checks && company &&
     [checks.chinaSale, checks.chinaProduction, checks.productionLabor].every(
       (check) => check?.status === "supported" && check.sourceIds?.length > 0,
-    ) && company.actualHoursVerified === true && company.actualRestVerified === true &&
-    typeof company.hours === "number" && company.hours <= 40 &&
-    typeof company.restDays === "number" && company.restDays >= 2
+    ) && hasVerifiedChain(company)
   );
 }
 export function selectAdmittedProducts(data) {
@@ -32,7 +30,7 @@ export function hasVerifiedChain(company) {
     company.hours <= 40 &&
     typeof company.restDays === "number" &&
     company.restDays >= 2 &&
-    company.supply.length >= 3 &&
+    Array.isArray(company.supply) && company.supply.length >= 3 &&
     company.supply.every(
       (s) => s.status === "verified" && s.sourceIds.length > 0,
     )
