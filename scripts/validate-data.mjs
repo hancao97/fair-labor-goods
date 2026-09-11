@@ -63,6 +63,7 @@ for (const c of data.companies) {
     "location",
     "hoursLabel",
     "restLabel",
+    "cardNote",
     "scope",
     "finding",
     "nextCheck",

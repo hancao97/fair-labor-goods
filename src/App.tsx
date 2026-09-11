@@ -55,6 +55,26 @@ const sourceMap = new Map(data.sources.map((s) => [s.id, s]));
 const categoryMap = new Map(data.categories.map((c) => [c.id, c]));
 const external = { target: "_blank", rel: "noopener noreferrer" } as const;
 const categoryIds = data.categories.map((c) => c.id);
+const quickSearches = [
+  { label: "手机", category: "electronics", query: "手机", featured: true },
+  { label: "笔记本", category: "electronics", query: "笔记本", featured: true },
+  { label: "平板", category: "electronics", query: "平板" },
+  { label: "充电器", category: "electronics", query: "充电器" },
+  { label: "耳机", category: "electronics", query: "耳机" },
+  { label: "书桌照明", category: "home", query: "台灯" },
+  { label: "座椅", category: "home", query: "椅" },
+  { label: "收纳", category: "home", query: "收纳" },
+  { label: "冰箱", category: "appliances", query: "冰箱", featured: true },
+  { label: "洗衣机", category: "appliances", query: "洗衣机", featured: true },
+  { label: "洗碗机", category: "appliances", query: "洗碗机" },
+  { label: "扫拖机器人", category: "appliances", query: "扫拖" },
+  { label: "清洁洗护", category: "daily", query: "洗护", featured: true },
+  { label: "食品", category: "daily", query: "食品", featured: true },
+  { label: "阅读", category: "culture", query: "阅读", featured: true },
+  { label: "玩具积木", category: "culture", query: "积木" },
+  { label: "游戏手柄", category: "culture", query: "手柄" },
+  { label: "电子游戏", category: "games", query: "", featured: true },
+];
 function loadSaved(): string[] {
   try {
     const ids = JSON.parse(localStorage.getItem("gongdao:saved:v1") || "[]");
@@ -93,7 +113,7 @@ function ProductImage({
       <div className="type-art">
         <span>{product.brand}</span>
         <b>
-          {failed ? (
+          {failed || product.id !== "shokken-seasoning" ? (
             product.name
           ) : (
             <>
@@ -103,7 +123,13 @@ function ProductImage({
             </>
           )}
         </b>
-        <small>{failed ? "图片暂不可用" : "复合调味料 · 产品系列"}</small>
+        <small>
+          {failed
+            ? "图片暂不可用"
+            : product.id === "shokken-seasoning"
+              ? "复合调味料 · 产品系列"
+              : "商品资料"}
+        </small>
       </div>
     );
   return (
@@ -445,15 +471,7 @@ function ProductCard({
         <div className="card-bottom">
           <span>
             <Clock3 size={13} />
-            {c.level === "research"
-              ? "40 小时 + 双休待补证"
-              : c.id === "anker"
-                ? "40 小时基准 · 双休披露"
-                : c.id === "shokken"
-                  ? "5 × 8 小时 · 旺季有例外"
-                  : c.id === "opple"
-                    ? "5 × 8 小时 · 历史校招"
-                    : "5 × 8 小时 · 有公开资料"}
+            {c.cardNote}
           </span>
           <button onClick={onOpen} aria-label={`打开 ${product.name} 详情`}>
             <ArrowUpRight size={19} />
@@ -808,7 +826,7 @@ export default function App() {
                       key={c.id}
                       className={filters.category === c.id ? "selected" : ""}
                       aria-pressed={filters.category === c.id}
-                      onClick={() => update({ category: c.id })}
+                      onClick={() => update({ category: c.id, query: "" })}
                     >
                       {c.name}
                       {filters.category === c.id && (
@@ -848,6 +866,7 @@ export default function App() {
                   <button
                     className={`filter-button ${filters.saved ? "is-active" : ""}`}
                     aria-pressed={filters.saved}
+                    aria-label="我的收藏"
                     onClick={() => update({ saved: !filters.saved })}
                   >
                     <Bookmark size={16} />
@@ -864,6 +883,35 @@ export default function App() {
                     筛选依据
                     <ChevronDown size={14} />
                   </button>
+                </div>
+              </div>
+              <div className="quick-searches">
+                <span>常用物品</span>
+                <div
+                  className="quick-search-list"
+                  aria-label="常用商品快捷查找"
+                >
+                  {quickSearches
+                    .filter((item) =>
+                      filters.category === "all"
+                        ? item.featured
+                        : item.category === filters.category,
+                    )
+                    .map((item) => (
+                      <button
+                        key={item.label}
+                        aria-label={`查找${item.label}`}
+                        aria-pressed={
+                          filters.category === item.category &&
+                          filters.query === item.query
+                        }
+                        onClick={() =>
+                          update({ category: item.category, query: item.query })
+                        }
+                      >
+                        {item.label}
+                      </button>
+                    ))}
                 </div>
               </div>
               {filterOpen && (

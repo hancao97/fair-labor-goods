@@ -371,16 +371,304 @@
       "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
     },
     {
-      "id": "product-bosch-sks68bb008",
-      "title": "SKS68BB008 台式洗碗机 · 官方产品资料",
+      "id": "apple-rcc-hours",
+      "title": "上海在线支持岗位列表",
+      "publisher": "Apple 招贤纳才",
+      "type": "企业招聘",
+      "url": "https://jobs.apple.com/en-mo/search?team=online-support-CUST-ONSPT",
+      "locator": "Senior Customer Service Specialist, Retail Customer Care，岗位 200665373-3715",
+      "summary": "Apple 自有招聘列表把上海在线商店客服岗位的每周工时列为 40 小时。",
+      "limitation": "仅适用于所列岗位；动态招聘列表可能调整，需与岗位详情一起阅读。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "apple-rcc-job",
+      "title": "上海在线商店高级客服招聘",
+      "publisher": "Apple 招贤纳才",
+      "type": "企业招聘",
+      "url": "https://jobs.apple.com/zh-cn/details/200665373/senior-customer-service-specialist-retail-customer-care",
+      "locator": "岗位 200665373；Minimum Qualifications 最后一项",
+      "summary": "每周工作五天，班次可能分布在 9:00–23:00；可能涉及周末、节假日和业务高峰的额外工作。",
+      "limitation": "轮休不等于周六周日固定休息；旺季额外工作是明确例外，岗位页面没有列明劳动合同法人。",
+      "publishedAt": "2026-09-02",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "apple-supplier-code",
+      "title": "供应商行为准则与责任标准，版本 5",
+      "publisher": "Apple",
+      "type": "供应商准则",
+      "url": "https://s203.q4cdn.com/367071867/files/doc_downloads/2025/11/Supplier-Code-of-Conduct-and-Supplier-Responsibility-Standards.pdf",
+      "locator": "PDF 第 6 页 1.6；第 39 页 Working Hours Management",
+      "summary": "供应商须遵守适用法律，准则的一般上限为含加班每周 60 小时、每七天至少休息一天，并列出例外与管理要求。",
+      "limitation": "这不是 40 小时加每周两天休息的供应链承诺；当地更严格法律仍适用，不能单凭全球上限认定中国工厂违规。",
+      "publishedAt": "2025-11-11",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "darlie-hours",
+      "title": "好来化工企业招聘与福利",
+      "publisher": "好来化工供稿 / 一览化工英才网",
+      "type": "企业招聘",
+      "url": "https://chem.job1001.com/vvip/cm1642749455357/",
+      "locator": "公司福利第 1 项",
+      "summary": "企业招聘介绍披露平均每周正常工作时间不超过 40 小时。",
+      "limitation": "页面未注明发布时间；正常工时不是含加班的实际总工时。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "darlie-rest",
+      "title": "好来化工招聘企业主页",
+      "publisher": "好来化工供稿 / 猎聘",
+      "type": "企业招聘",
+      "url": "https://www.liepin.com/company-jobs/8855314/",
+      "locator": "企业福利及平台适用范围说明",
+      "summary": "企业提供的福利标签列明周末双休。",
+      "limitation": "平台明确提示不同岗位可能不同；不能将公司福利标签视作生产班组实际排班。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "darlie-mint-product",
+      "title": "好来双重薄荷牙膏产品页",
+      "publisher": "好来化工（中山）有限公司",
+      "type": "商品官网",
+      "url": "https://www.darlie.com.cn/zh/chan-pin/suo-you-chan-pin/hao-lai-shuang-chong-bo-he-ya-gao",
+      "locator": "产品简介、净含量与页脚主体",
+      "summary": "中国官网展示双重薄荷牙膏及多种规格，页脚主体为好来化工（中山）。",
+      "limitation": "商品与主体关联资料；不提供本批次的生产线考勤。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "meiji-ice-hiring",
+      "title": "明治雪糕（广州）企业招聘介绍",
+      "publisher": "明治雪糕供稿 / 智联招聘",
+      "type": "企业招聘",
+      "url": "https://www.zhaopin.com/companydetail/CC532575825.htm",
+      "locator": "企业介绍 → 工作时间",
+      "summary": "招聘介绍列明五天八小时；同时说明工厂生产及相关部门按生产部门排班执行。",
+      "limitation": "页面日期未知，访问可能需要跳转；不能省略生产排班例外，也不能套用到其他明治法人。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "meiji-cn-companies",
+      "title": "明治在中国的公司与工厂",
+      "publisher": "明治（中国）投资有限公司",
+      "type": "企业官网",
+      "url": "https://www.meiji.com.cn/company/",
+      "locator": "明治雪糕（广州）、上海食品工厂及集团介绍",
+      "summary": "官网分别列出在华雪糕、食品和乳业法人，并说明 2022 年销售部门重组。",
+      "limitation": "同品牌不同工厂分别核对；重组后的招聘安排和具体包装生产商需要再核验。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "meiji-cn-ice",
+      "title": "雪糕商品介绍",
+      "publisher": "明治（中国）投资有限公司",
+      "type": "商品官网",
+      "url": "https://www.meiji.com.cn/product/cream-product.html",
+      "locator": "扁条装系列与彩盒装系列",
+      "summary": "官网列有炼乳红豆与抹茶白玉等雪糕，分别提供单支和彩盒规格。",
+      "limitation": "官网未把每一规格对应到具体生产工厂；购买时应核对包装生产商。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "vista-hiring",
+      "title": "Vista 看天下企业招聘主页",
+      "publisher": "北京海丰传媒供稿 / 实习僧",
+      "type": "企业招聘",
+      "url": "https://resume.shixiseng.com/com/com_ch4ixrir776c",
+      "locator": "企业资料与企业福利",
+      "summary": "主页把招聘企业列为北京海丰传媒文化有限公司，福利列明五天八小时。",
+      "limitation": "福利标签不是逐岗位考勤；介绍内部分业务数据截至 2021 年，福利披露时间不明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "vista-products",
+      "title": "海丰传媒产品矩阵",
+      "publisher": "北京海丰传媒文化有限公司",
+      "type": "企业官网",
+      "url": "https://vistastory.com/index.html",
+      "locator": "首页产品矩阵及页面简介",
+      "summary": "公司官网列出《看天下》《锋绘》杂志等产品和内容业务。",
+      "limitation": "不同业务由多地控股企业运维；不能将北京招聘资料自动扩大到全部编辑、印刷与发行单位。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "jahwa-2025",
+      "title": "2025 年可持续发展报告",
+      "publisher": "上海家化联合股份有限公司",
+      "type": "企业年报",
+      "url": "https://static.jahwa.com.cn/uploads/file/20260326/2026032616554640323.pdf",
+      "locator": "PDF 第 36 页，印刷页 67–68，工时与休假",
+      "summary": "报告披露标准工时为每周 40 小时，不定时和综合工时制员工可调整工作时间。",
+      "limitation": "没有从该段取得每周两天休息的明确承诺，也没有具体产品工厂的实际考勤。",
+      "publishedAt": "2026-03-26",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "jahwa-homeaegis",
+      "title": "家安品牌与产品介绍",
+      "publisher": "上海家化联合股份有限公司",
+      "type": "商品官网",
+      "url": "https://www.jahwa.com.cn/homeaegis",
+      "locator": "品牌简介、产品简介及品牌历史",
+      "summary": "官网确认家安为上海家化品牌，展示衣物清洁、餐具清洁和家电清洁产品。",
+      "limitation": "产品与品牌对应资料，不是双休或供应商考勤证据。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "jahwa-liushen",
+      "title": "六神品牌与产品介绍",
+      "publisher": "上海家化联合股份有限公司",
+      "type": "商品官网",
+      "url": "https://www.jahwa.com.cn/liushen",
+      "locator": "品牌简介与产品简介",
+      "summary": "官网确认六神的花露水、沐浴及其他个人洗护产品。",
+      "limitation": "商品资料不替代具体制造岗位的劳动条件证据。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "microsoft-supplier-code",
+      "title": "供应商行为准则（2025 年 7 月）",
+      "publisher": "Microsoft",
+      "type": "供应商准则",
+      "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/accex/documents/presentations/Microsoft%20Supplier%20Code%20of%20Conduct.pdf",
+      "summary": "准则要求遵守当地工时法规，并设定通常含加班每周不超过 60 小时的全球要求。",
+      "limitation": "供应商准则不是中国岗位或本款手柄达到 40 + 2 的实际证据。",
+      "locator": "4.11 Working hours and rest day requirements",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "product-apple-iphone-17",
+      "title": "iPhone 17 官方商品资料",
+      "publisher": "Apple",
+      "type": "商品官网",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+      "summary": "官方中国大陆页面确认该商品及型号。",
+      "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
+      "locator": "产品详情及型号",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "product-apple-macbook-air-13-m5",
+      "title": "13 英寸 MacBook Air M5 官方商品资料",
+      "publisher": "Apple",
+      "type": "商品官网",
+      "url": "https://www.apple.com.cn/shop/buy-mac/macbook-air/13-inch-sky-blue-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "summary": "官方中国大陆页面确认该商品及型号。",
+      "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
+      "locator": "产品详情及型号",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "product-apple-ipad-a16",
+      "title": "11 英寸 iPad A16 官方商品资料",
+      "publisher": "Apple",
+      "type": "商品官网",
+      "url": "https://www.apple.com.cn/shop/buy-ipad/ipad",
+      "summary": "官方中国大陆页面确认该商品及型号。",
+      "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
+      "locator": "产品详情及型号",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "product-bosch-kcb89e420c",
+      "title": "KCB89E420C 多门冰箱 官方商品资料",
       "publisher": "Bosch 博世家电",
-      "type": "产品官网",
-      "url": "https://www.bosch-home.com.hk/zh/product/dishwashers/free-standing-dishwashers/compact-dishwasher/SKS68BB008",
+      "type": "商品官网",
+      "url": "https://www.bosch-home.cn/productlist/product-detail.html?vib=KCB89E420C",
+      "summary": "官方中国大陆页面确认该商品及型号。",
+      "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
+      "locator": "产品详情及型号",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "product-bosch-wgp774f80w",
+      "title": "WGP774F80W 滚筒洗衣机 官方商品资料",
+      "publisher": "Bosch 博世家电",
+      "type": "商品官网",
+      "url": "https://www.bosch-home.cn/productlist/product-detail.html?vib=WGP774F80W",
+      "summary": "官方中国大陆页面确认该商品及型号。",
+      "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
+      "locator": "产品详情及型号",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "product-bosch-sju4emw26c",
+      "title": "SJU4EMW26C 嵌入式洗碗机 官方商品资料",
+      "publisher": "Bosch 博世家电",
+      "type": "商品官网",
+      "url": "https://www.bosch-home.cn/productlist/product-detail.html?vib=SJU4EMW26C",
+      "summary": "官方中国大陆页面确认该商品及型号。",
+      "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
+      "locator": "产品详情及型号",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "product-xbox-controller-pulse-red",
+      "title": "Xbox 无线控制器 锦鲤红 官方商品资料",
+      "publisher": "Microsoft Xbox",
+      "type": "商品官网",
+      "url": "https://www.xbox.com/zh-CN/accessories/controllers/xbox-wireless-controller",
+      "summary": "官方中国大陆页面确认该商品及型号。",
+      "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
+      "locator": "产品详情及型号",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "product-lego-classic-11045",
+      "title": "创意多彩积木盒 11045 官方商品资料",
+      "publisher": "LEGO 乐高",
+      "type": "商品官网",
+      "url": "https://www.lego.com/zh-cn/product/creative-colorful-bricks-11045",
+      "summary": "官方中国大陆页面确认该商品及型号。",
+      "limitation": "产品、地区和品牌关联资料，不是劳动条件证据。",
+      "locator": "产品详情及型号",
+      "publishedAt": null,
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "id": "product-torchlight-infinite",
+      "title": "火炬之光：无限 — 开发者官方游戏资料",
+      "publisher": "心动研发运营团队 / TapTap",
+      "type": "商品官网",
+      "url": "https://www.taptap.cn/app/172664",
       "publishedAt": null,
       "checkedAt": "2026-09-11",
-      "locator": "官方商品介绍与图像",
-      "summary": "博世家电香港官网商品；供应商资料来自 BSH 集团。",
-      "limitation": "仅用于确认商品、型号或品牌；不证明劳动条件或中国大陆供货情况。"
+      "locator": "开发者介绍与游戏信息中的供应商",
+      "summary": "开发者页面标示供应商为心动网络股份有限公司，开发者说明由心动研发运营；心动年报也将其列为自研游戏。",
+      "limitation": "游戏与研发主体的关联资料；具体项目团队、外包与发行服务人员工时仍需核验。"
+    },
+    {
+      "id": "product-sword-of-convallaria",
+      "title": "心动自研《铃兰之剑》公测公告",
+      "publisher": "心动",
+      "type": "商品官网",
+      "url": "https://www.xd.com/games/single/13418",
+      "publishedAt": "2023-11-24",
+      "checkedAt": "2026-09-11",
+      "locator": "公告标题与首段自研说明",
+      "summary": "官方公告明确本游戏为心动自研，并公布 2023 年 11 月 23 日全平台公测。",
+      "limitation": "游戏与研发主体的关联资料；具体项目团队、外包与发行服务人员工时仍需核验。"
     }
   ],
   "companies": [
@@ -434,7 +722,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "40 小时基准 · 双休披露"
     },
     {
       "id": "xd",
@@ -482,7 +771,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "5 × 8 小时 · 有制度例外"
     },
     {
       "id": "ifi",
@@ -528,7 +818,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "5 × 8 小时 · 招聘资料"
     },
     {
       "id": "opple",
@@ -575,7 +866,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "5 × 8 小时 · 历史校招"
     },
     {
       "id": "ergonor",
@@ -620,7 +912,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "40 小时 + 双休待补证"
     },
     {
       "id": "shokken",
@@ -668,7 +961,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "5 × 8 小时 · 旺季有例外"
     },
     {
       "id": "ikea",
@@ -709,7 +1003,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "40 小时 + 双休待补证"
     },
     {
       "id": "lego",
@@ -754,7 +1049,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "40 小时 + 双休待补证"
     },
     {
       "id": "bsh",
@@ -770,7 +1066,7 @@
       "finding": "供应商准则可以追溯，但无法单凭准则确认该洗碗机供应链符合四十小时加双休。",
       "caveats": [
         "准则写明全球最低要求，并要求遵守当地更严格法律。",
-        "商品是香港官网型号，未确认中国大陆销售或生产主体。"
+        "目录优先使用中国大陆型号；每个型号的制造与服务人员安排仍需对应。"
       ],
       "sourceIds": [
         "bsh-code"
@@ -801,7 +1097,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "40 小时 + 双休待补证"
     },
     {
       "id": "pathea",
@@ -846,7 +1143,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "40 小时 + 双休待补证"
     },
     {
       "id": "coconut",
@@ -887,7 +1185,305 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。"
+      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "cardNote": "40 小时 + 双休待补证"
+    },
+    {
+      "id": "apple",
+      "name": "Apple 苹果",
+      "legalName": "Apple 中国在线商店（岗位未列明劳动合同法人）",
+      "location": "上海；商品制造涉及多地供应商",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "岗位列表披露 40 小时",
+      "restLabel": "每周工作五天，轮休",
+      "scope": "2026 年上海在线商店高级客服岗位",
+      "finding": "官网资料支持这个客服岗位正常每周 40 小时、工作五天；业务高峰可能额外工作。",
+      "caveats": [
+        "客服岗位资料不能扩大到全部 Apple 员工或组装工厂。",
+        "招聘明确包含轮班、节假日和旺季额外工作。",
+        "供应商准则的全球工时门槛未达到本站 40 + 2 的筛选口径。"
+      ],
+      "sourceIds": [
+        "apple-rcc-hours",
+        "apple-rcc-job",
+        "apple-supplier-code"
+      ],
+      "supply": [
+        {
+          "stage": "在线商店客服",
+          "status": "policy",
+          "detail": "招聘列表与岗位详情可相互对应；未取得实际考勤。",
+          "sourceIds": [
+            "apple-rcc-hours",
+            "apple-rcc-job"
+          ]
+        },
+        {
+          "stage": "零件与整机制造",
+          "status": "policy",
+          "detail": "已查到供应商准则；具体型号、批次的制造商及 40 + 2 履行记录仍缺失。",
+          "sourceIds": [
+            "apple-supplier-code"
+          ]
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "有准则要求，未取得本目录商品的原料、仓储及运输人员排班。",
+          "sourceIds": [
+            "apple-supplier-code"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
+      "cardNote": "40 小时 · 在线商店岗位"
+    },
+    {
+      "id": "darlie",
+      "name": "好来 DARLIE",
+      "legalName": "好来化工（中山）有限公司",
+      "location": "广东中山及销售岗位所在地",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "平均正常周工时 ≤40 小时",
+      "restLabel": "招聘披露周末双休",
+      "scope": "同一企业的招聘简介与福利标签",
+      "finding": "企业招聘资料分别披露正常周工时不超过 40 小时和周末双休，具体岗位仍需确认。",
+      "caveats": [
+        "两份招聘资料未标明发布日期。",
+        "企业福利标签不代表所有岗位，制造与第三方岗位须单独核对。"
+      ],
+      "sourceIds": [
+        "darlie-hours",
+        "darlie-rest"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与招聘主体",
+          "status": "policy",
+          "detail": "招聘工时、福利与商品官网主体能够对应；实际履行未核。",
+          "sourceIds": [
+            "darlie-hours",
+            "darlie-rest",
+            "darlie-mint-product"
+          ]
+        },
+        {
+          "stage": "制造与包装",
+          "status": "unknown",
+          "detail": "中山工厂信息可查，但没有具体牙膏批次对应的班组工时。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "薄荷等原料、包装和物流人员的劳动安排待补。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
+      "cardNote": "≤40 小时 · 招聘双休披露"
+    },
+    {
+      "id": "meiji-ice",
+      "name": "明治雪糕",
+      "legalName": "明治雪糕（广州）有限公司（招聘主体）",
+      "location": "广东广州；品牌另有上海雪糕生产基地",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "招聘披露 5 × 8 小时",
+      "restLabel": "每周工作五天，生产另排班",
+      "scope": "广州雪糕公司招聘介绍，生产及相关部门有排班例外",
+      "finding": "招聘介绍有五天八小时安排，但生产部门另行排班，无法据此确认雪糕制造人员达到 40 + 2。",
+      "caveats": [
+        "工厂生产及相关部门按生产排班执行。",
+        "招聘资料日期未知；集团销售主体曾重组，不能扩大到牛奶、巧克力等其他法人。",
+        "具体雪糕规格和批次的生产商需核对包装。"
+      ],
+      "sourceIds": [
+        "meiji-ice-hiring",
+        "meiji-cn-companies"
+      ],
+      "supply": [
+        {
+          "stage": "招聘与销售主体",
+          "status": "policy",
+          "detail": "广州雪糕招聘介绍有五天八小时；销售业务曾重组，适用范围需复核。",
+          "sourceIds": [
+            "meiji-ice-hiring",
+            "meiji-cn-companies"
+          ]
+        },
+        {
+          "stage": "雪糕制造",
+          "status": "unknown",
+          "detail": "有广州、上海等生产基地，招聘已有生产排班例外；无具体批次考勤。",
+          "sourceIds": [
+            "meiji-ice-hiring",
+            "meiji-cn-companies"
+          ]
+        },
+        {
+          "stage": "乳源与冷链",
+          "status": "unknown",
+          "detail": "奶源、糖及其他原料、冷链仓储配送的 40 + 2 资料不足。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
+      "cardNote": "5 × 8 小时 · 生产另排班"
+    },
+    {
+      "id": "vista",
+      "name": "Vista 看天下 / 故事飞船",
+      "legalName": "北京海丰传媒文化有限公司（招聘与产品介绍主体）",
+      "location": "北京及各地内容业务",
+      "level": "hiring",
+      "hours": 40,
+      "restDays": 2,
+      "hoursLabel": "企业福利披露 5 × 8 小时",
+      "restLabel": "每周工作五天",
+      "scope": "北京海丰传媒企业招聘主页",
+      "finding": "招聘主页标明五天八小时，官网可对应看天下与锋绘产品；各业务团队的安排需单独确认。",
+      "caveats": [
+        "招聘福利发布日期不明，介绍含较早的业务数据。",
+        "官网说明各地控股企业运维相关业务，法人适用范围不可直接扩大。",
+        "选题截稿、外部撰稿、印刷及发行的工时未公开。"
+      ],
+      "sourceIds": [
+        "vista-hiring",
+        "vista-products"
+      ],
+      "supply": [
+        {
+          "stage": "内容与编辑",
+          "status": "policy",
+          "detail": "北京招聘主页有五天八小时标签，具体杂志团队考勤未核。",
+          "sourceIds": [
+            "vista-hiring",
+            "vista-products"
+          ]
+        },
+        {
+          "stage": "设计与印刷",
+          "status": "unknown",
+          "detail": "外部稿件、设计和印刷承接方及工时资料尚缺。",
+          "sourceIds": []
+        },
+        {
+          "stage": "纸张与发行",
+          "status": "unknown",
+          "detail": "纸张原料、运输、零售发行人员的排班待补。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
+      "cardNote": "5 × 8 小时 · 招聘福利"
+    },
+    {
+      "id": "jahwa",
+      "name": "上海家化",
+      "legalName": "上海家化联合股份有限公司",
+      "location": "上海等地",
+      "level": "research",
+      "hours": 40,
+      "restDays": null,
+      "hoursLabel": "2025 报告披露标准周工时 40 小时",
+      "restLabel": "每周两天休息待补证",
+      "scope": "2025 年集团可持续发展报告",
+      "finding": "标准周工时有明确披露；每周至少两天休息以及实际履行尚缺足够证据。",
+      "caveats": [
+        "不定时、综合工时岗位可调整工作时间。",
+        "法定假期与年假不是每周双休的证明。",
+        "集团报告不能直接证明每个品牌、工厂和供应商的实际排班。"
+      ],
+      "sourceIds": [
+        "jahwa-2025"
+      ],
+      "supply": [
+        {
+          "stage": "集团制度",
+          "status": "policy",
+          "detail": "报告明确标准工时 40 小时；周休息天数尚未确认。",
+          "sourceIds": [
+            "jahwa-2025"
+          ]
+        },
+        {
+          "stage": "产品制造",
+          "status": "unknown",
+          "detail": "各品牌的自有及委外工厂，需要逐型号和批次核对。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料与物流",
+          "status": "unknown",
+          "detail": "香精、包装、原料和配送环节没有本目录口径的考勤资料。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
+      "cardNote": "40 小时已披露 · 双休待补"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft / Xbox",
+      "legalName": "微软在华业务及 Xbox 制造供应商（具体主体待核）",
+      "location": "中国业务 / 全球供应链",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "中国适用岗位工时待补证",
+      "restLabel": "每周两天休息待补证",
+      "cardNote": "40 小时 + 双休待补证",
+      "scope": "已取得供应商准则，缺少中国岗位明确工时安排",
+      "finding": "Xbox 商品可对应中国官网；中国业务与制造工厂达到 40 + 2 的资料仍不足。",
+      "caveats": [
+        "不能把海外办公室福利扩大到中国岗位或硬件工厂。",
+        "供应商行为准则的全球工时门槛不是每周 40 小时与双休的证明。"
+      ],
+      "sourceIds": [
+        "microsoft-supplier-code"
+      ],
+      "supply": [
+        {
+          "stage": "品牌在华业务",
+          "status": "unknown",
+          "detail": "在华相关岗位的周工时、休息与实际考勤待补。",
+          "sourceIds": []
+        },
+        {
+          "stage": "手柄制造",
+          "status": "policy",
+          "detail": "查到微软供应商准则，但尚无这款手柄的工厂与 40 + 2 履行资料。",
+          "sourceIds": [
+            "microsoft-supplier-code"
+          ]
+        },
+        {
+          "stage": "零件与物流",
+          "status": "unknown",
+          "detail": "电路、塑胶件、包装与运输环节待逐项对应。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "核对中国岗位与手柄具体生产工厂，补充实际工时和休息记录。"
     }
   ],
   "products": [
@@ -1198,27 +1794,408 @@
       ]
     },
     {
-      "id": "bosch-sks68bb008",
-      "name": "SKS68BB008 台式洗碗机",
+      "id": "darlie-double-mint",
+      "name": "双重薄荷牙膏 225g",
+      "brand": "好来 DARLIE",
+      "companyId": "darlie",
+      "category": "daily",
+      "description": "从每天早晚的清新，认真选择。",
+      "tags": [
+        "牙膏",
+        "口腔护理",
+        "洗护"
+      ],
+      "image": "images/darlie-double-mint.webp",
+      "imageMode": "contain",
+      "imageSource": "https://cms-cdn.darlie.com.hk/media/8420/p113021_carton_770.png",
+      "imageRights": "好来化工（中山）有限公司及相关图片权利人",
+      "url": "https://www.darlie.com.cn/zh/chan-pin/suo-you-chan-pin/hao-lai-shuang-chong-bo-he-ya-gao",
+      "market": "中国大陆官网产品；图片为原味清凉薄荷 225g 纸盒包装。",
+      "relationship": "品牌官网页脚与招聘主体同为好来化工（中山）；尚未核到具体批次生产线。",
+      "relationshipSourceIds": [
+        "darlie-mint-product"
+      ]
+    },
+    {
+      "id": "meiji-red-bean",
+      "name": "炼乳红豆雪糕 87g",
+      "brand": "明治",
+      "companyId": "meiji-ice",
+      "category": "daily",
+      "description": "给寻常的一天，留一点甜。",
+      "tags": [
+        "食品",
+        "冷饮",
+        "雪糕",
+        "零食"
+      ],
+      "image": "images/meiji-red-bean.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.meiji.com.cn/img/product/%E6%98%8E%E6%B2%BB%E7%82%BC%E4%B9%B3%E7%BA%A2%E8%B1%86%E9%9B%AA%E7%B3%95_%E6%89%81%E6%9D%A1%E8%A3%85.jpg",
+      "imageRights": "明治（中国）投资有限公司及相关图片权利人",
+      "url": "https://www.meiji.com.cn/product/cream-product.html",
+      "market": "中国大陆官网扁条装 87g；不混同 6 支彩盒规格。",
+      "relationship": "明治官网展示该规格；招聘来自广州雪糕公司，具体包装生产商仍需对应。",
+      "relationshipSourceIds": [
+        "meiji-cn-ice",
+        "meiji-cn-companies"
+      ]
+    },
+    {
+      "id": "meiji-matcha",
+      "name": "抹茶白玉雪糕 76g",
+      "brand": "明治",
+      "companyId": "meiji-ice",
+      "category": "daily",
+      "description": "抹茶与白玉，装进一份小小的休息。",
+      "tags": [
+        "食品",
+        "冷饮",
+        "雪糕",
+        "零食"
+      ],
+      "image": "images/meiji-matcha.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.meiji.com.cn/img/product/%E6%98%8E%E6%B2%BB%E6%8A%B9%E8%8C%B6%E7%99%BD%E7%8E%89%E9%9B%AA%E7%B3%95_%E6%89%81%E6%9D%A1%E8%A3%85.jpg",
+      "imageRights": "明治（中国）投资有限公司及相关图片权利人",
+      "url": "https://www.meiji.com.cn/product/cream-product.html",
+      "market": "中国大陆官网扁条装 76g；具体生产商以包装为准。",
+      "relationship": "产品由中国官网列示；广州招聘的安排不代表其他工厂及生产班组。",
+      "relationshipSourceIds": [
+        "meiji-cn-ice",
+        "meiji-cn-companies"
+      ]
+    },
+    {
+      "id": "vista-magazine",
+      "name": "《看天下》杂志",
+      "brand": "Vista 看天下",
+      "companyId": "vista",
+      "category": "culture",
+      "description": "用一本杂志，留意生活之外的世界。",
+      "tags": [
+        "阅读",
+        "杂志",
+        "新闻",
+        "图书"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "url": "https://vistastory.com/index.html#/product?id=1",
+      "market": "中国大陆出版物；展示杂志系列，购买时核对期号。 未确认独立期号封面，当前使用文字展示。",
+      "relationship": "海丰官网把杂志列入产品矩阵；北京招聘福利不能自动扩大到各地业务主体。",
+      "relationshipSourceIds": [
+        "vista-products"
+      ]
+    },
+    {
+      "id": "fenghui-magazine",
+      "name": "《锋绘》少儿绘本杂志",
+      "brand": "故事飞船",
+      "companyId": "vista",
+      "category": "culture",
+      "description": "把亲子共读，变成每天的小期待。",
+      "tags": [
+        "阅读",
+        "绘本",
+        "儿童",
+        "图书",
+        "杂志"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "url": "https://vistastory.com/index.html#/product?id=7",
+      "market": "中国大陆绘本杂志系列；本条不指定期号。 未确认独立期号封面，当前使用文字展示。",
+      "relationship": "海丰官网列有锋绘产品；编辑、版权、印刷和发行各主体劳动安排仍需分别核对。",
+      "relationshipSourceIds": [
+        "vista-products"
+      ]
+    },
+    {
+      "id": "apple-iphone-17",
+      "name": "iPhone 17",
+      "brand": "Apple",
+      "companyId": "apple",
+      "category": "electronics",
+      "description": "让日常记录，装进口袋。",
+      "tags": [
+        "手机",
+        "数码",
+        "iOS"
+      ],
+      "image": "images/apple-iphone-17.webp",
+      "imageMode": "contain",
+      "imageSource": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-lavender-202509?wid=940&hei=1112&fmt=png-alpha&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxcUlHcmZkMUl0cGRrS2JXMzRCZWNFbjhHWUFlMUJvbytPdDJaMXVCZ3hWK3RiU3ZsS20zTE4xZTVGRXpySFRUZjluL3VnaUoydUJLUWY1MlJxVXJkdE9nTjBNL1BYejRqWm1odnRPTHAwVSs",
+      "imageRights": "Apple Inc.",
+      "url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+      "market": "中国大陆官网；图片为薰衣草紫色，具体存储与库存以官网为准。",
+      "relationship": "Apple 中国官方商品；劳动线索仅来自上海在线商店客服，不能代表制造商。",
+      "relationshipSourceIds": [
+        "product-apple-iphone-17"
+      ]
+    },
+    {
+      "id": "apple-macbook-air-13-m5",
+      "name": "13 英寸 MacBook Air M5",
+      "brand": "Apple",
+      "companyId": "apple",
+      "category": "electronics",
+      "description": "一台轻便电脑，陪你工作与创作。",
+      "tags": [
+        "电脑",
+        "笔记本",
+        "MacBook"
+      ],
+      "image": "images/apple-macbook-air-13-m5.webp",
+      "imageMode": "contain",
+      "imageSource": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-air-specs-select-202601-13inch-skyblue?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1767641167679",
+      "imageRights": "Apple Inc.",
+      "url": "https://www.apple.com.cn/shop/buy-mac/macbook-air/13-inch-sky-blue-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "market": "中国大陆配置 MDHH4CH/A，天蓝色，16GB 内存、512GB 存储。",
+      "relationship": "Apple 中国官方商品；劳动线索仅来自上海在线商店客服，不能代表制造商。",
+      "relationshipSourceIds": [
+        "product-apple-macbook-air-13-m5"
+      ]
+    },
+    {
+      "id": "apple-ipad-a16",
+      "name": "11 英寸 iPad A16",
+      "brand": "Apple",
+      "companyId": "apple",
+      "category": "electronics",
+      "description": "从阅读笔记，到闲暇时的画布。",
+      "tags": [
+        "平板",
+        "iPad",
+        "数码"
+      ],
+      "image": "images/apple-ipad-a16.webp",
+      "imageMode": "contain",
+      "imageSource": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-model-unselect-gallery-1-202503?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1739318772336",
+      "imageRights": "Apple Inc.",
+      "url": "https://www.apple.com.cn/shop/buy-ipad/ipad",
+      "market": "中国大陆官网；图片展示多色机身，具体容量和网络配置可在官网选择。",
+      "relationship": "Apple 中国官方商品；劳动线索仅来自上海在线商店客服，不能代表制造商。",
+      "relationshipSourceIds": [
+        "product-apple-ipad-a16"
+      ]
+    },
+    {
+      "id": "bosch-kcb89e420c",
+      "name": "KCB89E420C 多门冰箱",
       "brand": "Bosch 博世家电",
       "companyId": "bsh",
       "category": "appliances",
-      "description": "给厨房台面，留一个洗碗帮手。",
+      "description": "把新鲜食材，安放妥帖。",
+      "tags": [
+        "冰箱",
+        "大家电",
+        "厨房"
+      ],
+      "image": "images/bosch-kcb89e420c.webp",
+      "imageMode": "contain",
+      "imageSource": "https://cms-pos.bshg.com.cn/product_media_resource/Product_Shots/29511912_KCB89E420C_%E6%95%B4%E4%BD%93_%E6%AD%A3%E9%9D%A2_def.webp",
+      "imageRights": "BSH Hausgeräte GmbH / 博西家用电器及 Bosch 商标相关权利人",
+      "url": "https://www.bosch-home.cn/productlist/product-detail.html?vib=KCB89E420C",
+      "market": "中国大陆官网型号 KCB89E420C；风冷无霜、白色。",
+      "relationship": "博世中国官方目录型号；中国品牌业务与具体工厂的工时需要分别核对。",
+      "relationshipSourceIds": [
+        "product-bosch-kcb89e420c"
+      ]
+    },
+    {
+      "id": "bosch-wgp774f80w",
+      "name": "WGP774F80W 滚筒洗衣机",
+      "brand": "Bosch 博世家电",
+      "companyId": "bsh",
+      "category": "appliances",
+      "description": "让日常衣物，洗去一天忙碌。",
+      "tags": [
+        "洗衣机",
+        "大家电",
+        "洗护"
+      ],
+      "image": "images/bosch-wgp774f80w.webp",
+      "imageMode": "contain",
+      "imageSource": "https://cms-pos.bshg.com.cn/product_media_resource/Product_Shots/29160307_WGP774F80W_Censhare_STP_def.webp",
+      "imageRights": "BSH Hausgeräte GmbH / 博西家用电器及 Bosch 商标相关权利人",
+      "url": "https://www.bosch-home.cn/productlist/product-detail.html?vib=WGP774F80W",
+      "market": "中国大陆官网型号 WGP774F80W；12kg、流光银。",
+      "relationship": "博世中国官方目录型号；中国品牌业务与具体工厂的工时需要分别核对。",
+      "relationshipSourceIds": [
+        "product-bosch-wgp774f80w"
+      ]
+    },
+    {
+      "id": "bosch-sju4emw26c",
+      "name": "SJU4EMW26C 嵌入式洗碗机",
+      "brand": "Bosch 博世家电",
+      "companyId": "bsh",
+      "category": "appliances",
+      "description": "晚饭之后，把时间留给家人。",
       "tags": [
         "洗碗机",
-        "台式",
-        "厨房电器"
+        "厨房",
+        "大家电"
       ],
-      "image": "images/bosch-sks68bb008.webp",
+      "image": "images/bosch-sju4emw26c.webp",
       "imageMode": "contain",
-      "imageSource": "https://media3.bsh-group.com/Product_Shots/16245138_SKS68BB008_STP_def.webp",
-      "imageRights": "BSH / Robert Bosch Hausgeräte GmbH",
-      "url": "https://www.bosch-home.com.hk/zh/product/dishwashers/free-standing-dishwashers/compact-dishwasher/SKS68BB008",
-      "market": "香港官网型号；未确认中国大陆渠道与本地适配。",
-      "relationship": "博世家电香港官网商品；供应商资料来自 BSH 集团。",
+      "imageSource": "https://cms-pos.bshg.com.cn/product_media_resource/Product_Shots/28385322_SJU4EMW26C_STP_def.webp",
+      "imageRights": "BSH Hausgeräte GmbH / 博西家用电器及 Bosch 商标相关权利人",
+      "url": "https://www.bosch-home.cn/productlist/product-detail.html?vib=SJU4EMW26C",
+      "market": "中国大陆官网型号 SJU4EMW26C；60cm 下嵌式、白色。",
+      "relationship": "博世中国官方目录型号；中国品牌业务与具体工厂的工时需要分别核对。",
       "relationshipSourceIds": [
-        "product-bosch-sks68bb008",
-        "bsh-code"
+        "product-bosch-sju4emw26c"
+      ]
+    },
+    {
+      "id": "xbox-controller-pulse-red",
+      "name": "Xbox 无线控制器 锦鲤红",
+      "brand": "Microsoft Xbox",
+      "companyId": "microsoft",
+      "category": "culture",
+      "description": "认真游玩，也认真对待制造它的人。",
+      "tags": [
+        "手柄",
+        "游戏外设",
+        "Xbox",
+        "电脑"
+      ],
+      "image": "images/xbox-controller-pulse-red.webp",
+      "imageMode": "cover",
+      "imageSource": "https://assets.xboxservices.com/assets/8f/f3/8ff36b77-82ae-4db9-8d52-17a053c02390.jpg?n=Xbox-Wireless-Controller_Image-Hero-1084_Red_1920x831_01.jpg",
+      "imageRights": "Microsoft Corporation",
+      "url": "https://www.xbox.com/zh-CN/accessories/controllers/xbox-wireless-controller",
+      "market": "中国大陆产品页；图片为锦鲤红居中的三色合照，非三件套。",
+      "relationship": "Xbox 中国官方商品；没有取得中国岗位或具体手柄制造厂的 40 + 2 证据。",
+      "relationshipSourceIds": [
+        "product-xbox-controller-pulse-red"
+      ]
+    },
+    {
+      "id": "lego-classic-11045",
+      "name": "创意多彩积木盒 11045",
+      "brand": "LEGO 乐高",
+      "companyId": "lego",
+      "category": "culture",
+      "description": "从一盒积木，搭出自己的想象。",
+      "tags": [
+        "玩具",
+        "积木",
+        "儿童",
+        "创作"
+      ],
+      "image": "images/lego-classic-11045.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.lego.com/cdn/cs/set/assets/blt97ecb8248913cc79/bltf57afbfafe31c236-11045_Prod_en-gb.png?dpr=1&fit=bounds&format=jpg&height=1500&quality=80&width=1500",
+      "imageRights": "The LEGO Group",
+      "url": "https://www.lego.com/zh-cn/product/creative-colorful-bricks-11045",
+      "market": "中国大陆官网套装 11045；图片是搭建示例。",
+      "relationship": "乐高中国官方套装；制造工厂与本项目工时标准尚未核实。",
+      "relationshipSourceIds": [
+        "product-lego-classic-11045"
+      ]
+    },
+    {
+      "id": "homeaegis-enzyme-laundry",
+      "name": "酵素净护洗衣液·阳光净菌",
+      "brand": "家安",
+      "companyId": "jahwa",
+      "category": "daily",
+      "description": "让晾干的衣物，留一缕清新。",
+      "tags": [
+        "洗衣液",
+        "衣物清洁",
+        "洗护"
+      ],
+      "image": "images/homeaegis-enzyme-laundry.webp",
+      "imageMode": "contain",
+      "imageSource": "https://static.jahwa.com.cn/uploads/images/20260331/2026033116355587199.jpg",
+      "imageRights": "上海家化联合股份有限公司及相关图片权利人",
+      "url": "https://www.jahwa.com.cn/homeaegis",
+      "market": "中国大陆官网产品；官方合照最左侧高白瓶为本条目产品，不指定容量或包装版本。",
+      "relationship": "上海家化官网确认品牌及该产品；集团报告的 40 小时制度不能证明本产品工厂双休。",
+      "relationshipSourceIds": [
+        "jahwa-homeaegis"
+      ]
+    },
+    {
+      "id": "liushen-fragrance-bodywash",
+      "name": "清爽香氛沐浴露·深海龙涎香",
+      "brand": "六神",
+      "companyId": "jahwa",
+      "category": "daily",
+      "description": "用一次清爽沐浴，结束忙碌的一天。",
+      "tags": [
+        "沐浴露",
+        "身体护理",
+        "洗护"
+      ],
+      "image": "images/liushen-fragrance-bodywash.webp",
+      "imageMode": "contain",
+      "imageSource": "https://static.jahwa.com.cn/uploads/images/20260509/2026050913282318662_917192_500x500.jpg",
+      "imageRights": "上海家化联合股份有限公司及相关图片权利人",
+      "url": "https://www.jahwa.com.cn/liushen",
+      "market": "中国大陆官网产品；官方三款香型合照中间蓝瓶为深海龙涎香型，不指定容量。",
+      "relationship": "上海家化官网确认品牌及该产品；集团报告的 40 小时制度不能证明本产品工厂双休。",
+      "relationshipSourceIds": [
+        "jahwa-liushen"
+      ]
+    },
+    {
+      "id": "torchlight-infinite",
+      "name": "火炬之光：无限",
+      "brand": "心动 XD",
+      "companyId": "xd",
+      "category": "games",
+      "description": "自由搭配技能，踏入新的冒险。",
+      "tags": [
+        "动作角色扮演",
+        "ARPG",
+        "电脑游戏",
+        "手机游戏"
+      ],
+      "image": "images/torchlight-infinite.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img-tc.tapimg.com/market/images/a395edeea4e8c60315097a7472c7393c.jpg/_tap_appicon.jpg",
+      "imageRights": "XD Inc. / 心动网络及相关图片权利人",
+      "url": "https://www.taptap.cn/app/172664",
+      "market": "TapTap 中国官方游戏资料；支持设备与当前服务以开发者页面为准。",
+      "relationship": "官方资料确认心动研发运营；集团年报的标准制度有特殊工时与加班例外，不能代替本项目实际考勤。",
+      "relationshipSourceIds": [
+        "product-torchlight-infinite",
+        "xd-2025"
+      ]
+    },
+    {
+      "id": "sword-of-convallaria",
+      "name": "铃兰之剑：为这和平的世界",
+      "brand": "心动 XD",
+      "companyId": "xd",
+      "category": "games",
+      "description": "在像素世界里，作出自己的选择。",
+      "tags": [
+        "策略",
+        "战棋",
+        "角色扮演",
+        "电脑游戏",
+        "手机游戏"
+      ],
+      "image": "images/sword-of-convallaria.webp",
+      "imageMode": "cover",
+      "imageSource": "https://img.xdcdn.net/xdwp/2023/11/20231124094937640.png",
+      "imageRights": "XD Inc. / 心动网络及相关图片权利人",
+      "url": "https://soc.xd.cn/",
+      "market": "官方中国大陆游戏入口；图片为 2023 年公测宣传插图，不表示当前活动。",
+      "relationship": "官方资料确认心动研发运营；集团年报的标准制度有特殊工时与加班例外，不能代替本项目实际考勤。",
+      "relationshipSourceIds": [
+        "product-sword-of-convallaria",
+        "xd-2025"
       ]
     }
   ]

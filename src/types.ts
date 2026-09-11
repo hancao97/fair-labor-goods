@@ -27,6 +27,7 @@ export interface Company {
   restDays: number | null;
   hoursLabel: string;
   restLabel: string;
+  cardNote: string;
   scope: string;
   finding: string;
   caveats: string[];

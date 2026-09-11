@@ -1241,6 +1241,41 @@ footer p {
   font-size: 15px;
 }
 /* Native dialog provides focus containment and Escape handling. */
+.quick-searches {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 15px 0 19px;
+  min-width: 0;
+  font-size: 12px;
+}
+.quick-searches > span {
+  color: var(--muted);
+  flex-shrink: 0;
+}
+.quick-search-list {
+  display: flex;
+  gap: 7px;
+  overflow-x: auto;
+  min-width: 0;
+  padding: 5px;
+  scrollbar-width: thin;
+}
+.quick-search-list button {
+  border: 1px solid #dfe6dc;
+  background: #f4f6f0;
+  border-radius: 4px;
+  color: #3c5546;
+  white-space: nowrap;
+  padding: 6px 11px;
+  cursor: pointer;
+}
+.quick-search-list button:hover,
+.quick-search-list button[aria-pressed="true"] {
+  background: var(--green);
+  border-color: var(--green);
+  color: #fff;
+}
 .product-dialog {
   border: 0;
   padding: 0;
@@ -2228,6 +2263,7 @@ footer p {
   }
   .product-dialog {
     width: 100%;
+    max-width: 100%;
     max-height: 96dvh;
     border-radius: 12px 12px 0 0;
     margin: auto 0 0;

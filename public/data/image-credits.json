@@ -230,22 +230,525 @@
       "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
     },
     {
-      "id": "bosch-sks68bb008",
-      "product_name": "Bosch SKS68BB008 座枱式洗碗机",
-      "official_source_page_url": "https://www.bosch-home.com.hk/zh/product/dishwashers/free-standing-dishwashers/compact-dishwasher/SKS68BB008",
-      "image_url": "https://media3.bsh-group.com/Product_Shots/16245138_SKS68BB008_STP_def.webp",
-      "filename": "images/bosch-sks68bb008.webp",
-      "content_type": "image/webp",
-      "width": 2552,
-      "height": 2176,
+      "id": "apple-iphone-17",
+      "product_name": "Apple iPhone 17 薰衣草紫色",
+      "model": "iPhone 17",
+      "official_source_page_url": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+      "image_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-lavender-202509?wid=940&hei=1112&fmt=png-alpha&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxcUlHcmZkMUl0cGRrS2JXMzRCZWNFbjhHWUFlMUJvbytPdDJaMXVCZ3hWK3RiU3ZsS20zTE4xZTVGRXpySFRUZjluL3VnaUoydUJLUWY1MlJxVXJkdE9nTjBNL1BYejRqWm1odnRPTHAwVSs",
+      "filename": "images/apple-iphone-17.webp",
+      "content_type": "image/png",
+      "width": 940,
+      "height": 1112,
+      "bytes": 564609,
+      "sha256": "12bb9fc1274a88d5460fb9ef489ed68786d3a820ce4ddff604054c877459244a",
       "visually_verified": true,
-      "notes": "香港官网，黑色 Serie 6，官网商品页主图；不能把港版型号写成大陆在售型号。",
+      "market_scope": "中国大陆",
+      "market_verification": "Apple 中国大陆购买页，页面 country 为 CN，并提供 CH/A 料号。该型号仍有购买配置页面；未核对特定邮编库存。",
+      "notes": "官方购买页的薰衣草紫色前后机身图，透明背景。图片未作编辑。",
       "reuse_info": {
-        "rights_holder": "BSH / Robert Bosch Hausgeräte GmbH",
-        "license": "No open reuse license identified. Official public product imagery; rights retained by owner.",
-        "local_use": "Downloaded for visual research. Public/catalog reuse permission has not been established."
+        "rights_holder": "Apple Inc.",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
       },
-      "sha256": "1b4f0f6078caec6c5219916093482c48b2c93058bae124227a228db6eec1c8a9",
+      "supporting_source_urls": [
+        "https://www.apple.com.cn/iphone-17/"
+      ],
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "apple-macbook-air-13-m5",
+      "product_name": "Apple 13 英寸 MacBook Air（M5，天蓝色，16GB + 512GB）",
+      "model": "13-inch MacBook Air M5; MDHH4CH/A",
+      "official_source_page_url": "https://www.apple.com.cn/shop/buy-mac/macbook-air/13-inch-sky-blue-m5-chip-10-core-cpu-8-core-gpu-16gb-memory-512gb-storage",
+      "image_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/macbook-air-specs-select-202601-13inch-skyblue?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1767641167679",
+      "filename": "images/apple-macbook-air-13-m5.webp",
+      "content_type": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 128396,
+      "sha256": "414a45e86513cdcfa3467dc265250b286d094d1b5cd74fa0366afdde89c29a27",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "Apple 中国大陆具体配置购买页；10 核 CPU、8 核 GPU、16GB 内存、512GB 存储，页面料号 MDHH4CH/A。未核对特定邮编库存。",
+      "notes": "该具体配置页面提供的天蓝色机身正面图。",
+      "reuse_info": {
+        "rights_holder": "Apple Inc.",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "supporting_source_urls": [
+        "https://www.apple.com.cn/macbook-air/",
+        "https://www.apple.com.cn/macbook-air/specs/"
+      ],
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "apple-ipad-a16",
+      "product_name": "Apple 11 英寸 iPad（A16）",
+      "model": "iPad (A16), 11-inch",
+      "official_source_page_url": "https://www.apple.com.cn/shop/buy-ipad/ipad",
+      "image_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-model-unselect-gallery-1-202503?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1739318772336",
+      "filename": "images/apple-ipad-a16.webp",
+      "content_type": "image/jpeg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 59157,
+      "sha256": "f9504a19d4038aa134e0eccc39ef5fb16e2f6a20a6dfed33b5b015c218eef881",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "Apple 中国大陆 iPad 购买页，提供 CH/A 配置料号（例如蓝色 Wi-Fi 128GB 为 MD4A4CH/A）；该图展示型号的多种颜色，不代表单一颜色配置。未核对特定邮编库存。",
+      "notes": "当前 iPad（A16）官方多色图库图，含蓝色、粉色、黄色和银色机身。",
+      "reuse_info": {
+        "rights_holder": "Apple Inc.",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "supporting_source_urls": [
+        "https://www.apple.com.cn/ipad-11/"
+      ],
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "bosch-kcb89e420c",
+      "product_name": "博世 2系 多门冰箱 192.5 x 84.2 cm 白色, 风冷无霜 KCB89E420C",
+      "model": "KCB89E420C",
+      "official_source_page_url": "https://www.bosch-home.cn/productlist/product-detail.html?vib=KCB89E420C",
+      "image_url": "https://cms-pos.bshg.com.cn/product_media_resource/Product_Shots/29511912_KCB89E420C_%E6%95%B4%E4%BD%93_%E6%AD%A3%E9%9D%A2_def.webp",
+      "filename": "images/bosch-kcb89e420c.webp",
+      "content_type": "image/webp",
+      "width": 626,
+      "height": 1422,
+      "bytes": 12996,
+      "sha256": "2b46e57eec3be46cc638494f365a2942a0e1bd1f1872796abc55db001cfcd79e",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "博世家电中国大陆官网（由博西家电中国官网链接），公共产品目录响应的 vib 精确匹配本型号，且 isOnSale 字段为 1。型号详情地址返回成功。",
+      "notes": "纯商品正面图，来自此型号目录记录的 logo 字段。市场和型号以大陆官网记录为准。",
+      "reuse_info": {
+        "rights_holder": "BSH Hausgeräte GmbH / 博西家用电器及 Bosch 商标相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "supporting_source_urls": [
+        "https://www.bosch-home.cn/",
+        "https://www.bshg.com.cn/"
+      ],
+      "source_verification": {
+        "api_url": "https://www.bosch-home.cn/bsh-product/product-official/getProductOfficialList",
+        "method": "POST",
+        "public_request": {
+          "currentPage": 1,
+          "pageSize": 15,
+          "brandId": "A01",
+          "classId": "26"
+        },
+        "matching_product_record": {
+          "groupId": "5",
+          "isHome": 1,
+          "vib": "KCB89E420C",
+          "logo": "https://cms-pos.bshg.com.cn/product_media_resource/Product_Shots/29511912_KCB89E420C_%E6%95%B4%E4%BD%93_%E6%AD%A3%E9%9D%A2_def.webp",
+          "name": "2系 多门冰箱 192.5 x 84.2 cm 白色, 风冷无霜 KCB89E420C",
+          "series": "SER2",
+          "isOnSale": "1",
+          "newProduct": "1",
+          "goodId": 21813,
+          "miJiaType": 0
+        }
+      },
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "bosch-wgp774f80w",
+      "product_name": "博世 6系 滚筒洗衣机 12 kg 1400 转/分钟, 流光银 WGP774F80W",
+      "model": "WGP774F80W",
+      "official_source_page_url": "https://www.bosch-home.cn/productlist/product-detail.html?vib=WGP774F80W",
+      "image_url": "https://cms-pos.bshg.com.cn/product_media_resource/Product_Shots/29160307_WGP774F80W_Censhare_STP_def.webp",
+      "filename": "images/bosch-wgp774f80w.webp",
+      "content_type": "image/webp",
+      "width": 2267,
+      "height": 3267,
+      "bytes": 529934,
+      "sha256": "2351bdb2fe046f57271ffdebfff9d1d6c5603a40fb984416647e5884535d407a",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "博世家电中国大陆官网（由博西家电中国官网链接），公共产品目录响应的 vib 精确匹配本型号，且 isOnSale 字段为 1。型号详情地址返回成功。",
+      "notes": "纯商品正面图，来自此型号目录记录的 logo 字段。市场和型号以大陆官网记录为准。",
+      "reuse_info": {
+        "rights_holder": "BSH Hausgeräte GmbH / 博西家用电器及 Bosch 商标相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "supporting_source_urls": [
+        "https://www.bosch-home.cn/",
+        "https://www.bshg.com.cn/"
+      ],
+      "source_verification": {
+        "api_url": "https://www.bosch-home.cn/bsh-product/product-official/getProductOfficialList",
+        "method": "POST",
+        "public_request": {
+          "currentPage": 1,
+          "pageSize": 15,
+          "brandId": "A01",
+          "classId": "25"
+        },
+        "matching_product_record": {
+          "groupId": "1",
+          "isHome": 1,
+          "vib": "WGP774F80W",
+          "logo": "https://cms-pos.bshg.com.cn/product_media_resource/Product_Shots/29160307_WGP774F80W_Censhare_STP_def.webp",
+          "name": "6系 滚筒洗衣机 12 kg 1400 转/分钟, 流光银 WGP774F80W",
+          "series": "SER6",
+          "isOnSale": "1",
+          "newProduct": "1",
+          "goodId": 36137,
+          "miJiaType": 0,
+          "showSellingPointsList": [
+            {
+              "id": 919389,
+              "vib": "WGP774F80W",
+              "brandId": "A01",
+              "sellingPoint": "BLDC电机",
+              "isDel": 0,
+              "canEdit": 0,
+              "dataSource": 2
+            },
+            {
+              "id": 919390,
+              "vib": "WGP774F80W",
+              "brandId": "A01",
+              "sellingPoint": "蒸汽除皱",
+              "isDel": 0,
+              "canEdit": 0,
+              "dataSource": 2
+            },
+            {
+              "id": 919391,
+              "vib": "WGP774F80W",
+              "brandId": "A01",
+              "sellingPoint": "深层净洗",
+              "isDel": 0,
+              "canEdit": 0,
+              "dataSource": 2
+            }
+          ]
+        }
+      },
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "bosch-sju4emw26c",
+      "product_name": "博世 4系 下嵌式洗碗机 60 cm 白色 SJU4EMW26C",
+      "model": "SJU4EMW26C",
+      "official_source_page_url": "https://www.bosch-home.cn/productlist/product-detail.html?vib=SJU4EMW26C",
+      "image_url": "https://cms-pos.bshg.com.cn/product_media_resource/Product_Shots/28385322_SJU4EMW26C_STP_def.webp",
+      "filename": "images/bosch-sju4emw26c.webp",
+      "content_type": "image/webp",
+      "width": 2491,
+      "height": 3253,
+      "bytes": 35872,
+      "sha256": "8c903032aaf935287649d12ef5d9f28eb50166983e716bbbc1ae4d72357af19b",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "博世家电中国大陆官网（由博西家电中国官网链接），公共产品目录响应的 vib 精确匹配本型号，且 isOnSale 字段为 1。型号详情地址返回成功。",
+      "notes": "纯商品正面图，来自此型号目录记录的 logo 字段。市场和型号以大陆官网记录为准。",
+      "reuse_info": {
+        "rights_holder": "BSH Hausgeräte GmbH / 博西家用电器及 Bosch 商标相关权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "supporting_source_urls": [
+        "https://www.bosch-home.cn/",
+        "https://www.bshg.com.cn/"
+      ],
+      "source_verification": {
+        "api_url": "https://www.bosch-home.cn/bsh-product/product-official/getProductOfficialList",
+        "method": "POST",
+        "public_request": {
+          "currentPage": 1,
+          "pageSize": 15,
+          "brandId": "A01",
+          "classId": "27"
+        },
+        "matching_product_record": {
+          "groupId": "10",
+          "isHome": 1,
+          "vib": "SJU4EMW26C",
+          "logo": "https://cms-pos.bshg.com.cn/product_media_resource/Product_Shots/28385322_SJU4EMW26C_STP_def.webp",
+          "name": "4系 下嵌式洗碗机 60 cm 白色 SJU4EMW26C",
+          "series": "SER4",
+          "isOnSale": "1",
+          "newProduct": "1",
+          "goodId": 21082,
+          "customTitle": "博世20套嵌入式D20开门烘洗碗机白色玻璃门新一级水效SJU4EMW26C",
+          "miJiaType": 0,
+          "showSellingPointsList": [
+            {
+              "id": 919548,
+              "vib": "SJU4EMW26C",
+              "brandId": "A01",
+              "sellingPoint": "20套",
+              "isDel": 0,
+              "canEdit": 0,
+              "dataSource": 2
+            },
+            {
+              "id": 919549,
+              "vib": "SJU4EMW26C",
+              "brandId": "A01",
+              "sellingPoint": "一级水效",
+              "isDel": 0,
+              "canEdit": 0,
+              "dataSource": 2
+            },
+            {
+              "id": 919550,
+              "vib": "SJU4EMW26C",
+              "brandId": "A01",
+              "sellingPoint": "3灵动搁架",
+              "isDel": 0,
+              "canEdit": 0,
+              "dataSource": 2
+            }
+          ]
+        }
+      },
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "xbox-controller-pulse-red",
+      "product_name": "Xbox 无线控制器（锦鲤红）",
+      "model": "Xbox Wireless Controller — Pulse Red",
+      "official_source_page_url": "https://www.xbox.com/zh-CN/accessories/controllers/xbox-wireless-controller",
+      "image_url": "https://assets.xboxservices.com/assets/8f/f3/8ff36b77-82ae-4db9-8d52-17a053c02390.jpg?n=Xbox-Wireless-Controller_Image-Hero-1084_Red_1920x831_01.jpg",
+      "filename": "images/xbox-controller-pulse-red.webp",
+      "content_type": "image/jpeg",
+      "width": 1920,
+      "height": 831,
+      "bytes": 172827,
+      "sha256": "cf0df549c31aba7430d931aae26f77e9dbe34ae4ddffe35acda40574d23325a5",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "Xbox 中国大陆 zh-CN 产品页明确使用“锦鲤红”名称；微软中国 2021-01-19 新闻页另确认该配色的国行上市。新闻页仅作市场归属核实，不作为当前库存凭据。",
+      "notes": "官方商品页三色合照：锦鲤红在正中央，冲击蓝在左侧，荧光绿在右侧。红色背景，不是单品白底。",
+      "reuse_info": {
+        "rights_holder": "Microsoft Corporation",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "supporting_source_urls": [
+        "https://news.microsoft.com/zh-cn/%E5%9B%BD%E8%A1%8C%E9%94%A6%E9%B2%A4%E7%BA%A2-xbox-%E6%97%A0%E7%BA%BF%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BB%8A%E6%97%A5%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE/"
+      ],
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "lego-classic-11045",
+      "product_name": "乐高 Classic 创意多彩积木盒 11045",
+      "model": "LEGO Classic 11045",
+      "official_source_page_url": "https://www.lego.com/zh-cn/product/creative-colorful-bricks-11045",
+      "image_url": "https://www.lego.com/cdn/cs/set/assets/blt97ecb8248913cc79/bltf57afbfafe31c236-11045_Prod_en-gb.png?dpr=1&fit=bounds&format=jpg&height=1500&quality=80&width=1500",
+      "filename": "images/lego-classic-11045.webp",
+      "content_type": "image/jpeg",
+      "width": 1500,
+      "height": 931,
+      "bytes": 168044,
+      "sha256": "93d94af3e455e2a282d91c5ffbf5d6bceab3336a10018175f47be65497143e9d",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "乐高中国大陆 zh-cn 产品页面明确列出套装编号 11045。所下载图片链接直接来自该中文产品页。",
+      "notes": "白底搭建示例与彩色积木图。CDN 文件名含 en-gb，但图片实际链接于中国大陆产品页，且无包装或语言标签；未以海外套装编号替代。",
+      "reuse_info": {
+        "rights_holder": "The LEGO Group",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "darlie-double-mint",
+      "product_name": "好来双重薄荷牙膏 225克",
+      "model": "双重薄荷牙膏，原味清凉薄荷，225克",
+      "filename": "images/darlie-double-mint.webp",
+      "official_source_page_url": "https://www.darlie.com.cn/zh/chan-pin/suo-you-chan-pin/hao-lai-shuang-chong-bo-he-ya-gao",
+      "market_verification": "好来中国大陆官网产品列表直接引用该 CDN 图片，商品详情列出包含 225g 的净含量规格。CDN 域名为 darlie.com.hk，不代表图片使用香港 SKU。",
+      "notes": "视觉核对包装上“好来”“双重薄荷”“原味清凉薄荷”及“净含量225克”；正面纸盒图，未编辑。",
+      "image_url": "https://cms-cdn.darlie.com.hk/media/8420/p113021_carton_770.png",
+      "content_type": "image/png",
+      "width": 770,
+      "height": 181,
+      "bytes": 213528,
+      "sha256": "9cb7ebb54eadf2e250eb1898acbef80d77c660aed6e4ee139a8f4bd5fb9c666c",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "好来化工（中山）有限公司及相关图片权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "meiji-red-bean",
+      "product_name": "明治炼乳红豆雪糕 87克（扁条装）",
+      "model": "炼乳红豆雪糕，87克，扁条装",
+      "filename": "images/meiji-red-bean.webp",
+      "official_source_page_url": "https://www.meiji.com.cn/product/cream-product.html",
+      "market_verification": "明治中国大陆官网“扁条装系列”直接列出品名、87克规格及该图片链接。",
+      "notes": "白底单支包装图；包装上的“炼乳红豆雪糕”与“净含量87克”已视觉核对。",
+      "image_url": "https://www.meiji.com.cn/img/product/%E6%98%8E%E6%B2%BB%E7%82%BC%E4%B9%B3%E7%BA%A2%E8%B1%86%E9%9B%AA%E7%B3%95_%E6%89%81%E6%9D%A1%E8%A3%85.jpg",
+      "content_type": "image/jpeg",
+      "width": 796,
+      "height": 615,
+      "bytes": 57479,
+      "sha256": "a5e858b9d454de9ad0ad9de3e9be9a82786cb51016c311dcfc901df9c21f6b9e",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "明治（中国）投资有限公司及相关图片权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "meiji-matcha",
+      "product_name": "明治抹茶白玉雪糕 76克（扁条装）",
+      "model": "抹茶白玉雪糕，76克，扁条装",
+      "filename": "images/meiji-matcha.webp",
+      "official_source_page_url": "https://www.meiji.com.cn/product/cream-product.html",
+      "market_verification": "明治中国大陆官网“扁条装系列”直接列出品名、76克规格及该图片链接。",
+      "notes": "白底单支包装图；包装上的“抹茶白玉雪糕”与“净含量76克”已视觉核对。",
+      "image_url": "https://www.meiji.com.cn/img/product/%E6%98%8E%E6%B2%BB%E6%8A%B9%E8%8C%B6%E7%99%BD%E7%8E%89%E9%9B%AA%E7%B3%95_%E6%89%81%E6%9D%A1%E8%A3%85.jpg",
+      "content_type": "image/jpeg",
+      "width": 796,
+      "height": 615,
+      "bytes": 53940,
+      "sha256": "adc53226833fd37babf80b6d790f3a40515906b704e706e6f716d24b2c2553c5",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "明治（中国）投资有限公司及相关图片权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "homeaegis-enzyme-laundry",
+      "product_name": "家安酵素净护洗衣液·阳光净菌",
+      "model": "酵素净护洗衣液-阳光净菌",
+      "official_source_page_url": "https://www.jahwa.com.cn/homeaegis",
+      "market_verification": "上海家化中国官网家安品牌页的公开产品接口，将该图片关联到“酵素净护洗衣液-阳光净菌”。包装上“家安”“酵素”“阳光净菌”可见。",
+      "notes": "官网织物清洁产品合照，目标是最左侧高白瓶；同图还有衣物除菌液、洗衣凝珠和内衣慕斯。只确认品名，不推断容量或当前包装版本。未裁切或改图。",
+      "image_url": "https://static.jahwa.com.cn/uploads/images/20260331/2026033116355587199.jpg",
+      "filename": "images/homeaegis-enzyme-laundry.webp",
+      "content_type": "image/jpeg",
+      "width": 500,
+      "height": 500,
+      "bytes": 136708,
+      "sha256": "b9e73938e42ec008b2262c591482ad2f98e8c2d60c98cfd36b8a13cf318114aa",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "上海家化联合股份有限公司及相关图片权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "source_verification": {
+        "api_url": "https://www.jahwa.com.cn/home/getProduct",
+        "method": "POST",
+        "public_request": {
+          "code": "d7e9a485b8",
+          "type": "0"
+        },
+        "matching_product_record": {
+          "isnew": "0",
+          "class2name": "酵素净护洗衣液-阳光净菌",
+          "class2enname": "酵素净护洗衣液-阳光净菌",
+          "class2id": "kWlo20iPwh",
+          "img": "/uploads/images/20260331/2026033116355587199.jpg",
+          "h3": "",
+          "h3_en": "",
+          "btnType": true,
+          "li": [
+            "阴干无异味、治愈“阳光”香、4重酵素"
+          ],
+          "li_en": []
+        }
+      },
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "liushen-fragrance-bodywash",
+      "product_name": "六神清爽香氛沐浴露·深海龙涎香",
+      "model": "清爽香氛沐浴露，深海龙涎香型",
+      "official_source_page_url": "https://www.jahwa.com.cn/liushen",
+      "market_verification": "上海家化中国官网六神品牌页的公开产品接口列出“清爽香氛沐浴露系列”，并明确列举“深海龙涎香”。包装图中间蓝瓶旁写“深海龙涎香型”，瓶身标示香氛沐浴露。",
+      "notes": "官网三款香型合照，目标是中间蓝瓶；左侧粉瓶为雨后栀子香型，右侧绿瓶为山野青柚香型。未从图片推断容量。未裁切或改图。",
+      "image_url": "https://static.jahwa.com.cn/uploads/images/20260509/2026050913282318662_917192_500x500.jpg",
+      "filename": "images/liushen-fragrance-bodywash.webp",
+      "content_type": "image/jpeg",
+      "width": 500,
+      "height": 500,
+      "bytes": 52809,
+      "sha256": "e092987136a2490f92c6c43a765925312c140ad693fb5ce7114332ef6bc0d799",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "reuse_info": {
+        "rights_holder": "上海家化联合股份有限公司及相关图片权利人",
+        "license": "No open reuse license identified. Official public product imagery; rights retained by owner."
+      },
+      "source_verification": {
+        "api_url": "https://www.jahwa.com.cn/home/getProduct",
+        "method": "POST",
+        "public_request": {
+          "code": "107ad095ad",
+          "type": "0"
+        },
+        "matching_product_record": {
+          "isnew": "0",
+          "class2name": "清爽香氛沐浴露系列",
+          "class2enname": "清爽香氛沐浴露系列",
+          "class2id": "xvcQnJquLB",
+          "img": "/uploads/images/20260509/2026050913282318662_917192_500x500.jpg",
+          "h3": "水润舒爽，持久留香",
+          "h3_en": "水润舒爽，持久留香",
+          "btnType": true,
+          "li": [
+            "深海龙涎香：添加薄荷凉感因子，油皮挚爱，清凉净爽滑",
+            "山野青柚香：添加3重爽肤因子，全季适用，清爽不假滑",
+            "雨后栀子香：添加玻尿酸，干皮心选，肌肤嫩润香",
+            "晨露玫瑰香：消费者实测5天透亮，紧致光滑",
+            "山尖定松香：2倍凉感，持久清凉，控油酷爽"
+          ],
+          "li_en": []
+        }
+      },
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "torchlight-infinite",
+      "product_name": "火炬之光：无限",
+      "official_source_page_url": "https://www.taptap.cn/app/172664",
+      "image_url": "https://img-tc.tapimg.com/market/images/a395edeea4e8c60315097a7472c7393c.jpg/_tap_appicon.jpg",
+      "width": 270,
+      "height": 270,
+      "bytes": 90006,
+      "sha256": "f7fc3a9872aad8492ed76db7995f90b4fe726a26e1c28a63a86104963aa4d5f5",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "notes": "官方游戏图标，按原比例显示。",
+      "reuse_info": {
+        "rights_holder": "XD Inc. / 心动网络及相关图片权利人",
+        "license": "No open reuse license identified. Official public game imagery; rights retained by owner."
+      },
+      "filename": "images/torchlight-infinite.webp",
+      "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
+    },
+    {
+      "id": "sword-of-convallaria",
+      "product_name": "铃兰之剑：为这和平的世界",
+      "official_source_page_url": "https://www.xd.com/games/single/13418",
+      "image_url": "https://img.xdcdn.net/xdwp/2023/11/20231124094937640.png",
+      "width": 900,
+      "height": 500,
+      "bytes": 203259,
+      "sha256": "527ef9da0f437d333c7b20fb2d4450c0a014ec608f8798bc08f392870c43dfd1",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "notes": "2023 年公测公告中的官方游戏宣传插图。",
+      "reuse_info": {
+        "rights_holder": "XD Inc. / 心动网络及相关图片权利人",
+        "license": "No open reuse license identified. Official public game imagery; rights retained by owner."
+      },
+      "filename": "images/sword-of-convallaria.webp",
       "usage": "Official product illustration for attributed catalog discussion; no affiliation or open license claimed."
     }
   ]
