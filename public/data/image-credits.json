@@ -5920,6 +5920,132 @@
       },
       "filename": "images/arrow-ae3498cp.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "haday-mushroom-dark500",
+      "product_name": "海天特级草菇老抽 500mL 单瓶",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/AaYyFUimJYt4tb_2Nu9_fg.jpg_800w_800h_4e",
+      "source_page_url": "https://product.suning.com/0000000000/000000012442715101.html",
+      "source_type": "mainland_retail_public_product_information",
+      "width": 800,
+      "height": 800,
+      "sha256": "d0026a2304ccb8522b9b43813c9ce0e9271e116b568714a4838d14d9b4b61c48",
+      "bytes": 59998,
+      "content_type": "image/jpeg",
+      "image_role": "catalog_main_single_bottle_in_original_retail_promotional_image",
+      "visually_verified": true,
+      "original_bytes_preserved": true,
+      "researched_on": "2026-09-12",
+      "reuse_info": {
+        "rights_holder": "海天及商品图片相关权利人；苏宁公开展示，具体图片著作权法人未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "specification": "特级草菇老抽（酿造酱油），净含量500mL，单瓶",
+      "retailer_sku": "12442715101",
+      "image_description": "原始零售宣传图右侧为一瓶金色瓶盖、橙色草菇老抽标签、红烧菜图样的海天特级草菇老抽；保留左侧宣传文字与原背景。",
+      "matching_limitations": [
+        "原页第一张是三瓶图、第二第三张是双瓶宣传图，均未用作单瓶主图；未裁切套装图伪造单瓶。",
+        "没有混用品名为零添加或纯草菇的其他商品；采用瓶身明确写特级草菇老抽的这页原图。",
+        "主图为零售商原始商品宣传图，不是本代理生成或拼造；其中东北地区/非转基因黄豆等为原广告文字，未独立验证原料产区或供应链。",
+        "同页含多套新旧包装示意，且新/旧标法存在差异，未断言所选红烧菜图样瓶身属于当前新包装。",
+        "没有生产日期、批号和制造法人可读；不以页面下架/有货隐藏模板判断库存。"
+      ],
+      "verification_scope": "准确品名、规格和原图已人工目视核对；图片仅作所选页面版本展示，不证明当前库存、实际生产批次或劳动合规。",
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 80371,
+        "sha256": "ac315b68b6b368006271c550a5bd0388ee204977c8c5bb10580138cb46d38325"
+      },
+      "filename": "images/haday-mushroom-dark500.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "haday-mushroom-chili300",
+      "product_name": "海天招牌拌饭酱（香辣香菇味）300g 单瓶",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/in8wBKB3M_ZXn3V-gaETWA.jpg_800w_800h_4e",
+      "source_page_url": "https://product.suning.com/0000000000/12436178035.html",
+      "source_type": "mainland_retail_public_product_information",
+      "width": 800,
+      "height": 800,
+      "sha256": "2bd3197928dd4dd79b09e3f5e40f8ca974ddfa33c07758a0537dd8a8570495db",
+      "bytes": 44888,
+      "content_type": "image/jpeg",
+      "image_role": "catalog_main_single_jar_retail_product_image",
+      "visually_verified": true,
+      "original_bytes_preserved": true,
+      "researched_on": "2026-09-12",
+      "reuse_info": {
+        "rights_holder": "海天及商品图片相关权利人；苏宁公开展示，具体图片著作权法人未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "specification": "招牌拌饭酱，香辣香菇味，调味酱，净含量300g，单瓶",
+      "retailer_sku": "12436178035",
+      "image_description": "准确单瓶页直接引用的白底黄色封膜玻璃瓶商品图，瓶身可读香辣香菇味、净含量300g。",
+      "matching_limitations": [
+        "未把300g×2图冒作单瓶，也没有混入招牌香菇酱、拌饭酱其他口味或200g规格。",
+        "主图是准确单瓶页的实际引用原图，非比较页200px缩略图放大，未猜大图URL。",
+        "同页有新旧包装对照，另一个单瓶选项图片显示红盖/不同封膜外观；只将当前选中图记为页面示例黄色封膜版本，不保证消费者到货外观。",
+        "当前查看的同款图多为正面/广告场景，没有可读实际制造背标；不以名称海天或店名推断制造法人。",
+        "保质期、售价、库存与当前生产批次未独立核验。"
+      ],
+      "verification_scope": "准确品名、规格和原图已人工目视核对；图片仅作所选页面版本展示，不证明当前库存、实际生产批次或劳动合规。",
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 118565,
+        "sha256": "4b72a35d37cd53a912588fa3e51e901c483150ac4e3f48a49e831833cb65c0fd"
+      },
+      "filename": "images/haday-mushroom-chili300.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "huai-iodized-salt500",
+      "product_name": "淮盐精制食用盐（加碘）500g：井矿版本",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/5u49iwWtVe3LnP5AjsKXzg.jpg_800w_800h_4e",
+      "source_page_url": "https://product.suning.com/0000000000/000000012435460778.html",
+      "source_type": "mainland_retail_direct_product_page",
+      "width": 800,
+      "height": 800,
+      "sha256": "f3466f5366795489a0a4127c5184bb1a14ddb95dc3b0319a1084ff43f01ebcc9",
+      "bytes": 52282,
+      "content_type": "image/jpeg",
+      "image_role": "catalog_main_single_bag_in_original_retail_parameter_graphic",
+      "visually_verified": true,
+      "original_bytes_preserved": true,
+      "researched_on": "2026-09-12",
+      "reuse_info": {
+        "rights_holder": "淮盐/淮牌及商品图片相关权利人；苏宁公开展示，具体图片著作权法人未单独确认",
+        "license": "未发现明确开放复用许可；公开展示不等于无限制转载授权。"
+      },
+      "specification": "500g/袋，加碘精制食用盐；同页背稿写原料源自深井岩盐。",
+      "retailer_sku": "12435460778",
+      "image_description": "原始800×800商品参数图，右上只展示一袋淮盐精制食用盐（加碘）500克；保留原参数与营养表，未将首张5袋图裁成单袋。",
+      "matching_limitations": [
+        "主图不是独立白底包装实拍，而是零售页原始单袋包装/参数图；图中包装示意约占右上区域，整图800×800，未裁切。",
+        "页面首图展示5袋，不作为单袋主图；单袋参数图与背稿规格对应。",
+        "袋体标识淮盐；零售参数品牌填苏宁宜品，按可读包装记录实际品牌并保留参数差异。",
+        "图稿明确喷码/贴标框示意，不是真实消费批次，生产日期、批号、现时库存均未知。",
+        "不得将原始盐城海盐背标、南京荣誉出品地址或本包装未写的盐矿/分装者迁移为制造依据。",
+        "零售厂家旧名与包装稿名称已通过苏盐井神 2024 年报第 5 页释义对应；这不验证当前批次或产线。"
+      ],
+      "verification_scope": "准确品名、规格和原图已人工目视核对；图片仅作所选页面版本展示，不证明当前库存、实际生产批次或劳动合规。",
+      "supporting_evidence": [
+        {
+          "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/OpRvKYf2LF4dl7GYRCAn_Q.jpg_800w_800h_4e",
+          "source_page_url": "https://product.suning.com/0000000000/000000012435460778.html",
+          "role": "背面包装示意稿，明确喷码和贴标框示意，无实际日期与批号",
+          "sha256": "bf7d8527a769a756a158565c7da59ee9b9ddd7b5bb36e21e347246af42fddc16"
+        }
+      ],
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 67779,
+        "sha256": "0fa77572b94fb9160057c2854f3524d1e60a499fd73557fb6ad9ef2c458badc9"
+      },
+      "filename": "images/huai-iodized-salt500.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

@@ -3414,6 +3414,174 @@
       "checkedAt": "2026-09-12",
       "locator": "完整四款对照图右上 AE4131MA；已对照同页哑黑首图",
       "type": "零售商其他型号排除证据"
+    },
+    {
+      "id": "haday-esg-2025",
+      "title": "海天 2025 ESG：制造岗位工时例外与供应商审核范围",
+      "publisher": "佛山市海天调味食品股份有限公司 / 巨潮资讯",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-27/1225038219.PDF",
+      "summary": "报告披露子公司普遍采用每天 8 小时、每周 5 天的标准制度，同时明确个别制造园区部分生产岗位采用综合工时制；自述集体合同覆盖率为 100%。另披露审核核心供应商 165 家，其中 6 家整改后通过。",
+      "limitation": "不能把普遍制度扩大为所有生产岗位均每周 40 小时、休两天。高明 BSCI 情况属于企业自述，未取得原始审核、评级与整改资料；供应商汇总审核也没有对应本目录具体批次和个人考勤。",
+      "publishedAt": "2026-03-27",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 58、70 页；印刷第 111—112、135—136 页，已核对原页",
+      "type": "交易所披露的企业 ESG 报告"
+    },
+    {
+      "id": "haday-gaoming-legal-2025",
+      "title": "高明海天：2025 法律意见所引历史劳动及社保记录",
+      "publisher": "北京市竞天公诚律师事务所 / 港交所披露",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0611/11709651/2025061100029.pdf",
+      "summary": "第 45 页高明海天段落引用信用广东 2025-02-18 出具的公共信用信息报告：所查 2022-01-01 至 2024-12-31 期间未发现人社行政处罚、社保欠缴及相关公积金处罚记录；律师据此及发行人确认说明相关重大行政处罚情况。",
+      "limitation": "这是法律意见引用的特定时期记录，未独立取得底层信用报告；未发现处罚不等于每名员工或全部法律义务已经验证，也不能覆盖 2025—2026 年或其他海天工厂。",
+      "publishedAt": "2025-06-11",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF/印刷第 45 页，下半部「2、高明海天」的劳动、社保及公积金段落",
+      "type": "交易所披露的法律意见"
+    },
+    {
+      "id": "haday-dark500-suning",
+      "title": "海天特级草菇老抽 500mL 单瓶零售资料",
+      "publisher": "苏宁易购 / 海天商品公开资料",
+      "url": "https://product.suning.com/0000000000/000000012442715101.html",
+      "summary": "题名、净含量与包装清单对应特级草菇老抽 500mL×1；页面展示相符单瓶原始宣传图，零售产地填广东佛山。",
+      "limitation": "生产者及厂址栏为见包装，没有本款当前批次背标。页面还混有多瓶与新旧包装示意，不能合并零添加、纯草菇等其他版本；隐藏库存模板不作为当前可售证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号 12442715101 的题名、500 毫升、单瓶清单及准确单瓶图",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "haday-dark500-cdc",
+      "title": "特级草菇老抽 500mL：公共标签数据库记录",
+      "publisher": "中国疾病预防控制中心营养与健康所 / 预包装食品营养标签数据查询系统",
+      "url": "https://nlc.chinanutri.cn/food/0Fug3ryiSqC-vNaUuc8pQg.html",
+      "summary": "数据库列特级草菇老抽、500ml、条形码 6902265114369，生产厂家为佛山市海天（高明）调味食品有限公司，产地广东佛山；同页附正面和生产者标签样图。",
+      "limitation": "条目未显示采集或生产日期，不能当作当前到货批次。营养标签资料只用于产品和制造关系核对，不是食品或劳动合规认证；未据图片文件名填写年份。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "品名、净含量、生产厂家、条码与同页第 2 张标签图",
+      "type": "公共机构食品标签数据库"
+    },
+    {
+      "id": "haday-dark500-cdc-label",
+      "title": "草菇老抽样例背标：委托方与高明受托加工方",
+      "publisher": "中国疾病预防控制中心营养与健康所 / 海天商品样例标签",
+      "url": "https://nlc.chinanutri.cn/upload/images/mark/BJYYS11002019-0414/20190616133654685.jpg",
+      "summary": "同页样例标签将佛山市海天调味食品股份有限公司列为委托方，将佛山市海天（高明）调味食品有限公司列为受委托加工方；生产地址为广东佛山高明沧江工业园东园。",
+      "limitation": "已目视原图，但未见本样例日期和实际批号，且零售当前版本未完全对应。委托公司地址不能替代加工厂地址，样例制造对应不能证明原料供应及劳动履行。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "数据库同页第 2 张原图的委托方、受委托加工方及生产地址栏",
+      "type": "公共标签数据库的实物样例照片"
+    },
+    {
+      "id": "haday-chili300-suning",
+      "title": "海天招牌拌饭酱香辣香菇味 300g 单瓶资料",
+      "publisher": "苏宁易购 / 海天苏宁自营旗舰店",
+      "url": "https://product.suning.com/0000000000/12436178035.html",
+      "summary": "实际商品链接的标题为招牌拌饭酱香辣香菇味 300g，清单为 DP6902265300212×1；黄色封膜单瓶原图可读口味、净含量。零售厂址参数为佛山高明沧江工业园东园。",
+      "limitation": "未取得瓶身制造背标或完整制造法人；厂址参数不能独立锁定现供工厂。页面有其他新旧包装，未将双瓶或其他口味混入，当前地区供货与批次仍待核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号 12436178035：标题、净含量、清单、厂址参数与第 1 张单瓶图",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "suyan-jingshen-esg-2025",
+      "title": "苏盐井神 2025 ESG：员工范围与权益披露",
+      "publisher": "江苏苏盐井神股份有限公司 / 新浪财经公告附件",
+      "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-23/12149420.PDF",
+      "summary": "报告范围为公司及所属分子公司；员工章节将就业人数区分为在职、劳务派遣和外包，权益表自述劳动合同签订率、社保覆盖率均为 100%，另介绍对派遣及外包公司的合同、报酬、保险和劳防检查。",
+      "limitation": "已目视员工与供应链原页，报告是企业汇总披露，未取得本款制盐、包装产线的实际周工时和逐周休息。比例的统计范围不能自行扩为所有外包人员均享有相同合同与社保；年休假也不是每周双休。",
+      "publishedAt": "2026-04-23",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 2、44、46—47 页；员工及供应链为印刷第 83—86 页，已核原页",
+      "type": "企业 ESG 报告"
+    },
+    {
+      "id": "suyan-jingshen-name-2024",
+      "title": "苏盐井神 2024 年报：原名称对应",
+      "publisher": "江苏苏盐井神股份有限公司 / 巨潮资讯",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-04-29/1223390939.PDF",
+      "summary": "年报第 5 页释义将江苏井神盐化股份有限公司列为江苏苏盐井神股份有限公司的原名称，并另列控股股东江苏省盐业集团有限责任公司。",
+      "limitation": "本项核对公开 PDF 文本的名称释义，用于解释零售字段与包装稿名称差异；不证明包装版本当前有效、具体生产厂线或劳动履行。",
+      "publishedAt": "2025-04-29",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 5 页释义与公司信息的公开文本；本次仅用于名称对应",
+      "type": "交易所披露的企业年报"
+    },
+    {
+      "id": "huai-iodized500-suning",
+      "title": "淮盐精制食用盐 500g 加碘：井矿盐单袋资料",
+      "publisher": "苏宁易购 / 苏宁宜品苏宁自营旗舰店",
+      "url": "https://product.suning.com/0000000000/000000012435460778.html",
+      "summary": "题名为淮盐精制食用盐 500g×1 袋井矿盐加碘款，清单为 DP6924509901191×1；网页厂家栏用旧名称江苏井神盐化，厂址为淮安华西路 18 号，同页有准确单袋参数图及背面包装稿。",
+      "limitation": "页面品牌参数填苏宁宜品，袋体标识为淮盐，保留两者差异。首图是五袋，不用于单袋主图；当前地区供货、实物批次和许可证现时状态未核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "货号 12435460778：题名、500 克清单、厂家及厂址、第 4—5 张原图",
+      "type": "零售商商品页"
+    },
+    {
+      "id": "huai-iodized500-jingshen-artwork",
+      "title": "淮盐井矿盐背面稿：苏盐井神生产信息",
+      "publisher": "苏宁易购公开展示 / 淮盐包装示意稿",
+      "url": "https://imgservice.suning.cn/uimg1/b2c/image/OpRvKYf2LF4dl7GYRCAn_Q.jpg_800w_800h_4e",
+      "summary": "背稿列生产商江苏苏盐井神股份有限公司、淮安区华西路 18 号及 SC10332080300436；写明原料源自深井岩盐。江苏省盐业集团在下方以荣誉出品角色出现。",
+      "limitation": "图上明确是喷码、贴标框示意，未填日期或批号，不是当前消费者实物背标。未列具体盐矿，不把南京出品地址当制盐厂，也不以生产许可证证明劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "完整背面稿左上生产信息、左下出品方及灰色示意框；已目视",
+      "type": "零售商展示的包装示意稿"
+    },
+    {
+      "id": "huai-salt500-sea-salt-conflict",
+      "title": "未采用的 500g 淮牌盐页：海盐图与井神参数冲突",
+      "publisher": "苏宁易购 / 原淮牌食盐公开商品资料",
+      "url": "https://www.suning.com/item/0071379546/839001881.html",
+      "summary": "所查原页的制造参数写淮安井神，实际引用背面照片却标精制食用盐（海盐）及江苏盐城产地；照片生产商全称不够清晰。",
+      "limitation": "该图和参数不能合并成苏盐井神井矿盐证据。此来源仅保留排除理由，未采用其照片为新条目主图，也未据品牌、条码或出品者推断同厂。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原页参数与第 4 张完整海盐背面照片的对照",
+      "type": "存在版本冲突的零售资料"
+    },
+    {
+      "id": "yuegui-esg-2025-sugar-lead",
+      "title": "粤桂股份 2025 可持续发展报告：白糖调查线索",
+      "publisher": "粤桂股份 / 巨潮资讯",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225059471.PDF",
+      "summary": "报告释义将贵糖集团列为下属子公司，员工章节披露劳动合同签订率及福利安排；报告范围同时包含其他产业。",
+      "limitation": "这是集团自述，未给出某款家庭白糖的制糖、分装班组实际工时与逐周休息。不能将矿业等其他业务指标移用于糖厂，也未借此创建未核实的小包装商品。",
+      "publishedAt": "2026-03-31",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 3、51 页；印刷第 3—4、99—100 页，已目视原页",
+      "type": "交易所披露的企业可持续发展报告"
+    },
+    {
+      "id": "guihua-smallpack-2011",
+      "title": "桂花小包装白砂糖：仅有旧产品介绍",
+      "publisher": "广西新产品推介和交易平台 / 广西贵糖（集团）股份有限公司发布",
+      "url": "https://www.gxind.com/company/255/product/companyproductInfo1004.htm",
+      "summary": "公开产品文本介绍桂花牌小包装一级白砂糖，鉴定时间为 2011 年，价格面议；没有具体净含量，图片栏为空。",
+      "limitation": "本次直接连接失败，核到公开索引文本；2011 年为鉴定时间而非当前销售时间。旧介绍不能用于填造 454g、500g 或当前家庭包装。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公开文本中的鉴定时间、面议及未上传图片；直接原页未读成功",
+      "type": "历史产品介绍公开文本"
+    },
+    {
+      "id": "guihua-sugar-jd-split",
+      "title": "桂花白砂糖零售检索：原厂小袋尚未锁定",
+      "publisher": "京东公开分类商品资料",
+      "url": "https://www.jd.com/jiage/1320eb2e77804db49291.html",
+      "summary": "所查分类资料包含 500.1g、2.5kg 等散装或散称商品，也有 50kg 商用大袋；商家标题中使用桂花或贵糖名称。",
+      "limitation": "商家标题不能证明原厂分装或追溯来源，未把散装称重规格当成贵糖原厂家用 SKU。此次检索范围有限，不代表市场不存在符合要求的白糖。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "散装、散称及 50kg 商品卡片；未选为具体商品",
+      "type": "零售分类检索线索"
     }
   ],
   "companies": [
@@ -4734,46 +4902,59 @@
       "id": "haday",
       "name": "海天味业",
       "legalName": "佛山市海天调味食品股份有限公司（各生产子公司另核）",
-      "location": "广东佛山等",
+      "location": "广东佛山；高明等生产法人分别核查",
       "origin": "china",
       "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
       "level": "research",
       "hours": null,
       "restDays": null,
-      "hoursLabel": "40 小时依据待补",
-      "restLabel": "每周两天休息待核",
-      "cardNote": "工时与休息资料待补",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已核对官方商品与品牌关系；现有资料不足以确认每周 40 小时与两天休息。",
+      "hoursLabel": "披露 5 天 × 8 小时；制造岗位有例外",
+      "restLabel": "生产班组逐周休息待核",
+      "cardNote": "五天八小时有制造例外 · 实际生产劳动待核",
+      "scope": "集团 2025 工时制度及供应商披露；高明海天 2022—2024 年历史信用记录。具体调味品须分别对应加工厂与批次。",
+      "finding": "集团披露五天、每天八小时，同时注明部分制造岗位采用综合工时制。高明有历史劳动及社保记录线索，老抽样例背标可对应该厂，但各款当前生产班组实际工时、逐周休息与供应链履行仍未核实。",
       "caveats": [
-        "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "本档案尚未取得实际考勤、加班和每周休息记录。"
+        "五天八小时是企业披露的普遍制度，生产岗位存在例外；没有本目录商品班组的逐周考勤和休息记录。",
+        "高明的历史信用情况来自法律意见引用，未独立取得底层报告；不等于当前全部劳动义务均已验证。",
+        "BSCI 情况和供应商审核结果为企业自述，未获得原始审核报告、具体工厂对应及实际履行记录。",
+        "老抽或生抽的高明制造线索不能移用于陈醋、蚝油或其他海天子公司；委托方与受托加工方分别记录。"
       ],
-      "sourceIds": [],
+      "sourceIds": [
+        "haday-esg-2025",
+        "haday-gaoming-legal-2025",
+        "haday-dark500-cdc",
+        "haday-dark500-cdc-label"
+      ],
       "supply": [
         {
-          "stage": "品牌与运营",
+          "stage": "集团员工制度",
           "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "detail": "报告有工时、集体合同及加班安排说明，含制造岗位综合工时例外，实际履行未核。",
+          "sourceIds": [
+            "haday-esg-2025"
+          ]
         },
         {
-          "stage": "生产或门店服务",
+          "stage": "调味品生产及灌装",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
-          "sourceIds": []
+          "detail": "草菇老抽样例标签对应高明受托加工方；历史信用记录止于 2024 年。各款现供批次与产线考勤仍缺。",
+          "sourceIds": [
+            "haday-dark500-cdc-label",
+            "haday-gaoming-legal-2025"
+          ]
         },
         {
-          "stage": "原料、外包与物流",
+          "stage": "农产原料、包装及物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
-          "sourceIds": []
+          "detail": "报告汇总核心供应商审核，未公布本目录每款原料、包装及运输雇主的实际工时和休息。",
+          "sourceIds": [
+            "haday-esg-2025"
+          ]
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "逐款核现供批次加工厂；区分标准与综合工时岗位，补相应时期实际考勤、逐周休息、加班工资、社保及上游雇主记录。"
     },
     {
       "id": "honor",
@@ -7811,6 +7992,67 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "先解决 GT0217 现时供货货号及原页、外箱制造标识，再核制造、原料、销售和铺装人员的实际劳动条件。"
+    },
+    {
+      "id": "suyan-jingshen",
+      "name": "苏盐井神 / 淮盐生产线索",
+      "legalName": "江苏苏盐井神股份有限公司",
+      "location": "江苏淮安；示例包装列淮安区华西路 18 号",
+      "origin": "china",
+      "originNote": "所选淮盐井矿盐示例包装列中国境内生产者；其他淮盐版本的实际制造法人另核。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "合同社保有自述 · 制盐实际工时待核",
+      "scope": "苏盐井神 2025 年报告和淮盐 500g 加碘井矿盐示例包装；不覆盖淮盐品牌全部生产者或盐城海盐。",
+      "finding": "准确井矿盐背面稿列苏盐井神生产信息，年报可解释厂家旧名。报告有合同、社保及派遣外包管理自述，仍缺当前批次及制盐包装班组每周 40 小时、两天休息的实际记录。",
+      "caveats": [
+        "背面图是包装示意稿，日期与贴标框未填；不能当作实际消费者批次或当前许可证核验。",
+        "员工权益比例为企业汇总口径，外包、派遣及在职人员不能自动视为同一雇主与同等履行。",
+        "带薪年休假不等于每周两天休息，职业安全管理说明也不替代实际工时。",
+        "同品牌另有盐城海盐图，不能借用本主体报告；出品者、制造者、具体盐矿及物流雇主分别核查。"
+      ],
+      "sourceIds": [
+        "suyan-jingshen-esg-2025",
+        "suyan-jingshen-name-2024",
+        "huai-iodized500-suning",
+        "huai-iodized500-jingshen-artwork"
+      ],
+      "supply": [
+        {
+          "stage": "制造主体与用工范围",
+          "status": "unknown",
+          "detail": "示例生产者为苏盐井神，年报对应原名井神盐化；集团员工与派遣外包范围分开核验。",
+          "sourceIds": [
+            "suyan-jingshen-name-2024",
+            "huai-iodized500-jingshen-artwork",
+            "suyan-jingshen-esg-2025"
+          ]
+        },
+        {
+          "stage": "制盐与包装岗位",
+          "status": "unknown",
+          "detail": "报告有合同社保和劳动保护自述，没有所选 500g 当前生产班组的实际周工时和逐周休息记录。",
+          "sourceIds": [
+            "suyan-jingshen-esg-2025",
+            "huai-iodized500-jingshen-artwork"
+          ]
+        },
+        {
+          "stage": "盐矿、包材及运输",
+          "status": "unknown",
+          "detail": "包装仅写深井岩盐，没有具体矿区；包材与运输雇主和实际劳动记录也待补。",
+          "sourceIds": [
+            "huai-iodized500-jingshen-artwork",
+            "suyan-jingshen-esg-2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得淮盐井矿盐现供实物背标及批号，核实具体制盐、包装及盐矿主体，再查当前班组工时、逐周休息、工资社保及外包履行。"
     }
   ],
   "products": [
@@ -9622,8 +9864,12 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
-          "sourceIds": []
+          "detail": "2025 年历史抽检样品对应高明海天；法律意见所引信用记录仅覆盖 2022—2024 年。集团报告的部分制造岗位采用综合工时制，当前生抽产线实际工时、逐周休息及工资社保仍待核。",
+          "sourceIds": [
+            "haday-esg-2025",
+            "haday-gaoming-legal-2025",
+            "shishi-food-sampling-2025"
+          ]
         }
       },
       "needs": [
@@ -9667,8 +9913,10 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
-          "sourceIds": []
+          "detail": "2025 集团报告有五天八小时披露及制造岗位综合工时例外；本款制造法人未锁定，不套用高明生抽或老抽的历史信用记录，当前生产岗位实际履行仍待核。",
+          "sourceIds": [
+            "haday-esg-2025"
+          ]
         }
       },
       "needs": [
@@ -9711,8 +9959,10 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未取得与此具体商品对应的境内生产或门店员工劳动权益履行记录。",
-          "sourceIds": []
+          "detail": "2025 集团报告有五天八小时披露及制造岗位综合工时例外；本款制造法人未锁定，不套用高明生抽或老抽的历史信用记录，当前生产岗位实际履行仍待核。",
+          "sourceIds": [
+            "haday-esg-2025"
+          ]
         }
       },
       "needs": [
@@ -13514,6 +13764,160 @@
           ]
         }
       }
+    },
+    {
+      "id": "haday-mushroom-dark500",
+      "name": "特级草菇老抽 500mL",
+      "brand": "海天",
+      "companyId": "haday",
+      "category": "food",
+      "description": "用于红烧、卤味等烹调上色的老抽；记录 500mL 单瓶。",
+      "tags": [
+        "老抽",
+        "酱油",
+        "调味"
+      ],
+      "needs": [
+        "老抽"
+      ],
+      "url": "https://product.suning.com/0000000000/000000012442715101.html",
+      "relationshipSourceIds": [
+        "haday-dark500-suning",
+        "haday-dark500-cdc",
+        "haday-dark500-cdc-label"
+      ],
+      "market": "大陆直接商品资料对应 500mL 单瓶，现时地区供货及到货包装待核。",
+      "relationship": "公共标签数据库样例明确海天股份为委托方、高明海天为受托加工方；当前零售批次仍需重新对应。",
+      "image": "images/haday-mushroom-dark500.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/AaYyFUimJYt4tb_2Nu9_fg.jpg_800w_800h_4e",
+      "imageRights": "海天及商品图片相关权利人；苏宁公开展示，具体图片著作权法人未单独确认。图示说明：原始零售单瓶宣传图，图中原料宣传未独立核实；不保证当前包装。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核大陆 500mL 单瓶资料；动态可售、销售法人及当前配送范围仍待核，未采用隐藏库存模板。",
+          "sourceIds": [
+            "haday-dark500-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "公共标签样例对应佛山市海天（高明）调味食品有限公司及高明沧江工业园东园。采集及生产日期未明，当前零售批次、原料供应尚未闭合。",
+          "sourceIds": [
+            "haday-dark500-cdc",
+            "haday-dark500-cdc-label"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "高明有 2022—2024 年历史信用线索，集团 2025 制度含制造岗位综合工时例外。未核本款酿造、灌装班组及上游实际工时、逐周休息和工资社保。",
+          "sourceIds": [
+            "haday-esg-2025",
+            "haday-gaoming-legal-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "haday-mushroom-chili300",
+      "name": "招牌拌饭酱·香辣香菇味 300g",
+      "brand": "海天",
+      "companyId": "haday",
+      "category": "food",
+      "description": "含辣椒和香菇风味的拌饭调味酱，记录 300g 单瓶。",
+      "tags": [
+        "辣椒酱",
+        "拌饭酱",
+        "香辣香菇"
+      ],
+      "needs": [
+        "辣椒酱"
+      ],
+      "url": "https://product.suning.com/0000000000/12436178035.html",
+      "relationshipSourceIds": [
+        "haday-chili300-suning"
+      ],
+      "market": "大陆单瓶商品页可核 300g 规格，当前地区供货、新旧包装及批次待核。",
+      "relationship": "准确单瓶页及原图明确海天品牌和香辣香菇口味；零售厂址尚未对应可读制造背标。",
+      "image": "images/haday-mushroom-chili300.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/in8wBKB3M_ZXn3V-gaETWA.jpg_800w_800h_4e",
+      "imageRights": "海天及商品图片相关权利人；苏宁公开展示，具体图片著作权法人未单独确认。图示说明：准确单瓶页的黄色封膜示例图，不保证当前到货包装。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核 300g×1 直接零售资料和原始单瓶图；现时库存及销售法人待核，未合并双瓶选项。",
+          "sourceIds": [
+            "haday-chili300-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售参数列中国广东佛山及高明沧江工业园东园，未取得实际制造法人、背标与当前批次；不借用老抽样例加工厂。",
+          "sourceIds": [
+            "haday-chili300-suning"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团工时披露有制造岗位例外，且本款实际工厂未锁定。辣椒、香菇加工、调酱灌装及包装岗位的实际工时、休息和工资社保均待核。",
+          "sourceIds": [
+            "haday-esg-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "huai-iodized-salt500",
+      "name": "精制食用盐·加碘井矿盐 500g",
+      "brand": "淮盐",
+      "companyId": "suyan-jingshen",
+      "category": "food",
+      "description": "家庭烹调用加碘精制食盐，记录 500g 单袋井矿盐版本。",
+      "tags": [
+        "食盐",
+        "加碘盐",
+        "井矿盐"
+      ],
+      "needs": [
+        "食盐"
+      ],
+      "url": "https://product.suning.com/0000000000/000000012435460778.html",
+      "relationshipSourceIds": [
+        "huai-iodized500-suning",
+        "huai-iodized500-jingshen-artwork",
+        "suyan-jingshen-name-2024"
+      ],
+      "market": "大陆零售资料对应 500g 单袋；当前供货和实物包装待核，未合并其他海盐版本。",
+      "relationship": "所选背面示意稿列苏盐井神为生产商、苏盐集团为荣誉出品者；零售旧公司名可由年报对应。",
+      "image": "images/huai-iodized-salt500.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/5u49iwWtVe3LnP5AjsKXzg.jpg_800w_800h_4e",
+      "imageRights": "淮盐/淮牌及商品图片相关权利人；苏宁公开展示，具体图片著作权法人未单独确认。图示说明：原始单袋参数图及包装示意，未采用五袋首图；不是当前消费批次实物照。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核大陆准确 500g 单袋资料，包装标淮盐而品牌参数填苏宁宜品。动态可售、销售法人及地区配送仍待核。",
+          "sourceIds": [
+            "huai-iodized500-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "同页背稿列苏盐井神、淮安华西路 18 号及食品生产许可号；这是未填批号的示意稿，当前实物批次和具体盐矿未核。盐城海盐图未混用。",
+          "sourceIds": [
+            "huai-iodized500-jingshen-artwork",
+            "suyan-jingshen-name-2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2025 报告有合同、社保及派遣外包权益管理自述，未取得此制盐和包装产线的实际周工时、逐周休息、工资社保及原料运输人员履行记录。",
+          "sourceIds": [
+            "suyan-jingshen-esg-2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -13625,7 +14029,7 @@
           "query": "速冻调理肉"
         }
       ],
-      "note": "新增黄小米 1kg 与猪肉白菜速冻水饺 1kg 的具体资料。黄小米背标可对应辽宁分装法人，当前批次及种植来源仍待核；三全淡季额外休假不等于每周双休。中盐东兴有制盐倒班招聘，但所查家庭盐净含量单位不清、零售未锁定，暂只记企业线索。其余杂粮、大豆油、老抽、白糖、辣椒酱与坚果继续查。",
+      "note": "新增特级草菇老抽 500mL、香辣香菇拌饭酱 300g 与淮盐加碘井矿盐 500g。老抽有高明加工方样例标签，盐有淮安生产者示意稿；当前供货、批次与实际劳动仍待核。贵糖家庭小包装未锁定，不以散装商品填补白糖；米粉、燕麦、玉米、绿豆、红豆、大豆油、白糖和坚果继续查。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -13644,7 +14048,21 @@
         "chinasalt-dongxing-jobs-2026",
         "chinasalt-langyashan-product",
         "chinasalt-dongxing-iodized-product",
-        "jinjian-esg-summary-2025"
+        "jinjian-esg-summary-2025",
+        "haday-esg-2025",
+        "haday-gaoming-legal-2025",
+        "haday-dark500-suning",
+        "haday-dark500-cdc",
+        "haday-dark500-cdc-label",
+        "haday-chili300-suning",
+        "suyan-jingshen-esg-2025",
+        "suyan-jingshen-name-2024",
+        "huai-iodized500-suning",
+        "huai-iodized500-jingshen-artwork",
+        "huai-salt500-sea-salt-conflict",
+        "yuegui-esg-2025-sugar-lead",
+        "guihua-smallpack-2011",
+        "guihua-sugar-jd-split"
       ]
     },
     {
