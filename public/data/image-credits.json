@@ -7053,6 +7053,31 @@
       },
       "filename": "images/gary-pure-milk-200gx20.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "gaopinle-classic-a4-70g-5pack",
+      "image_url": "https://img14.360buyimg.com/n7/jfs/t1/345648/32/27021/95308/691468c2F0ab62751/6e8d1a53ebb0296a.jpg",
+      "source_page": "https://www.jd.com/chanpin/977115.html",
+      "product_url": "https://item.jd.com/1089903.html",
+      "width": 220,
+      "height": 220,
+      "bytes": 11246,
+      "sha256": "60a8f9b4a9c235d7ece445e0a51b9eca670dd3f31f012026b441afa1b49c77b3",
+      "visually_verified": true,
+      "visual_notes": "已查看原图，经典高品乐红色包装上方标A4、70g和2500张。仅作商品插图，不读取未可辨认的批次或以宣传语判断劳动条件。",
+      "reuse_info": {
+        "rights_holder": "亚太森博及京东相关图片权利人",
+        "license": "版权归原权利人所有，未取得开放再授权；不适用本站代码MIT许可。",
+        "attribution": "来源：京东商品1089903，仅作可追溯商品资料插图。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 25476,
+        "sha256": "fa095810afe07d688ab84d326dc7c32a5af20e96b211b837cd191e182b5853ee"
+      },
+      "filename": "images/gaopinle-classic-a4-70g-5pack.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

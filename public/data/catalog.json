@@ -5567,6 +5567,138 @@
       "locator": "政府原始PDF的公开索引，第776行；本次未取得可读取的PDF文件",
       "summary": "索引第776行列天宝一级葵花籽油5L/瓶，生产日期2025-01-06，制造企业新疆瑞隆农业发展有限公司油脂分公司，沙湾市金沟河北路133号；被抽样单位为广州市天河区安宜粮油店。与新疆原始网页的商品及制造主体对应。",
       "limitation": "原文件直接请求返回403，本次仅取得公开索引，未作PDF视觉核对。相邻第775行是食品香精，不能混入本行；抽样门店不是当前现货确认，文件独立发布日期未核实。"
+    },
+    {
+      "id": "tongling-labor2024-final",
+      "title": "关于铜陵市2024年用人单位劳动保障诚信评价等级结果的通知",
+      "publisher": "铜陵市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://rsj.tl.gov.cn/tlsrlzyhshbzj/c00027/pc/content/content_1896373587789275136.html",
+      "publishedAt": "2025-03-03",
+      "checkedAt": "2026-09-12",
+      "locator": "最终名单A级部分，铜官区362家之中列铜陵洁雅；不是2025-02-11的公示版本",
+      "summary": "最终结果的A级名单具名铜陵洁雅生物科技股份有限公司。公告完成初评、征求意见、复核及公示，公布901家A级和250家B级。",
+      "limitation": "本次读取政府原页公开索引全文，直接请求返回403。2024年评价工作所审查的具体劳动期间仍需澄清，不能把2025年公布日期写成2025年度实际评价，也不扩展至该厂代工品牌的其他制造企业。"
+    },
+    {
+      "id": "anhui-work2024-wuhu-scope",
+      "title": "关于开展2024年劳动保障书面审查和守法诚信等级评价工作的公告",
+      "publisher": "芜湖市人力资源和社会保障局",
+      "type": "政府工作通知",
+      "url": "https://rsj.wuhu.gov.cn/xwzx/tzgg/8633238.html",
+      "publishedAt": "2024-08-15",
+      "checkedAt": "2026-09-12",
+      "locator": "正文第一部分（四）书面审查内容及首段皖人社秘〔2024〕187号",
+      "summary": "芜湖同省文号的2024年工作通知明确审查2023年度遵守劳动保障法规的情况，说明工作年份与审查年份可能不同。",
+      "limitation": "这是芜湖的工作范围，不是铜陵或洁雅具体审查期间的直接证明；仅作为防止将评价年份和实际劳动期间混写的交叉核对线索。"
+    },
+    {
+      "id": "jieya-annual2025-manufacturing",
+      "title": "铜陵洁雅生物科技股份有限公司2025年年度报告",
+      "publisher": "铜陵洁雅生物科技股份有限公司／深圳证券交易所",
+      "type": "企业年报",
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-10/5ec45e0d-6b1b-483a-87d0-1576bffe50a1.PDF",
+      "publishedAt": "2026-04-10",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF第12页生产厂区与许可表、第14页湿巾业务、第51页员工权益、第128页公司基本情况",
+      "summary": "年报披露两个湿巾生产厂区、安徽卫生许可及1999年在铜陵成立的公司主体；第51页为公司关于劳动合同和五险一金的自述。",
+      "limitation": "已取得原始PDF并核对厂区许可表。年报的用工表述不等同于独立劳动评价；客户合作关系也不能证明每款Babycare或其他品牌商品均由该厂生产。"
+    },
+    {
+      "id": "babycare188x140-rudong2025",
+      "title": "2025年如东县消毒产品监督抽检结果公告",
+      "publisher": "如东县卫生健康委员会",
+      "type": "监管抽检",
+      "url": "https://www.rudong.gov.cn/rdxrmzf/wsgzjz/content/0286900f-e20a-4237-95dc-0dca9fbc9d3b.html",
+      "publishedAt": "2025-07-04",
+      "checkedAt": "2026-09-12",
+      "locator": "原始网页表格第1项；第2项为另一生产企业和另一尺寸",
+      "summary": "第1项明确列Babycare婴幼儿手口湿巾188mm×140mm、批次20240925 JY 10A 15:10:09，生产单位铜陵洁雅生物科技股份有限公司（代码JY）。",
+      "limitation": "已核对原始HTML。未列每包抽数及零售型号；不能猜成20抽、80抽或90抽。第2项190mm×137mm由亚青永葆生产，不能沿用洁雅的劳动评价。抽检仅证明所列样品关系，不是劳动合规证明。"
+    },
+    {
+      "id": "jieya-hygiene-tongling2025",
+      "title": "铜陵市2025年传染病防治和消毒产品国家随机监督抽检结果公示",
+      "publisher": "铜陵市卫生健康委员会",
+      "type": "监管抽检",
+      "url": "https://wsjkw.tl.gov.cn/tlswsjkwyh/c00011/pc/content/content_1965586972078301184.html",
+      "publishedAt": "2025-09-05",
+      "checkedAt": "2026-09-12",
+      "locator": "公开表格第3项，检测日期2025-08-26",
+      "summary": "被监督单位铜陵洁雅生物科技股份有限公司对应KEVIN&KATHY牌卫生湿巾及Babycare牌婴幼儿纯水湿巾，为后续具体型号研究提供线索。",
+      "limitation": "本次读取原页公开索引表格。没有尺寸、抽数或当前零售型号，不能用此行替代188mm×140mm手口湿巾的规格资料，也不证明劳动合规。"
+    },
+    {
+      "id": "asiasymbol-guangdong-company",
+      "title": "广东公司",
+      "publisher": "亚太森博",
+      "type": "企业介绍",
+      "url": "https://www.asiasymbol.com/about-us/guangdong/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公司介绍开头、广东基地地址与办公用纸品牌段",
+      "summary": "官网介绍亚太森博（广东）纸业有限公司为新加坡金鹰集团成员，2002年成立，所在地为江门新会银洲湖纸业基地，并介绍高品乐等办公用纸品牌。",
+      "limitation": "本次取得官网公开索引，直接读取受限。只用于法人、基地和品牌背景，集团品牌及体系认证不单独作为具体批次产地或劳动合规证明。"
+    },
+    {
+      "id": "gaopinle-classic-product-sheet",
+      "title": "高品乐经典高级复印纸产品说明书",
+      "publisher": "亚太森博（广东）纸业有限公司",
+      "type": "企业产品说明",
+      "url": "https://www.asiasymbol.com/images/products/golden-color-series-classic-product-sheet.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "单页生产工艺、制造企业声明、规格表及500张/包注释",
+      "summary": "官网PDF公开索引明确经典高品乐由亚太森博（广东）纸业有限公司生产，列A4、70g/㎡、5包/箱选项和每包500张；制造企业地址为新会双水镇瑞丰工业园第一号。",
+      "limitation": "直接PDF请求返回403，依据公开索引文字核对，未声称取得原始文件。页尾参数自2017年9月生效，不将搜索引擎的近期抓取日期当作新发布日；当前批次变更仍须复核。"
+    },
+    {
+      "id": "gaopinle70g-suzhou2024",
+      "title": "2024年复印纸产品质量市级监督抽查情况公告（第14期）",
+      "publisher": "苏州市市场监督管理局",
+      "type": "监管抽检",
+      "url": "https://scjgj.suzhou.gov.cn/szqts/zlcc/202407/fb4f7b2ff19a4ad58d2506eb0665e22f.shtml",
+      "publishedAt": "2024-07-14",
+      "checkedAt": "2026-09-12",
+      "locator": "符合标准产品表第3行：高品乐高白多功能复印纸，批号X1728D4",
+      "summary": "监管表将高品乐A4、210mm×297mm、70g/㎡、500张/包对应到亚太森博（广东）纸业有限公司，样品来自常熟永旺门店。",
+      "limitation": "读取政府原页公开索引全文；直接请求出现重定向循环。表中未单列经典系列或五包外箱，需与厂家经典系列说明及所选零售规格交叉核对；质量结论不用于判断劳动合规。"
+    },
+    {
+      "id": "gaopinle70g5-jd",
+      "title": "京东经典高品乐A4打印纸70g、500张×5包商品记录",
+      "publisher": "京东",
+      "type": "零售目录",
+      "url": "https://www.jd.com/chanpin/977115.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始HTML中指向商品1089903的商品卡与70g、5包/箱2500张选项",
+      "summary": "已取得京东公开目录原始HTML，所选经典高品乐70g、500张×5包商品链接为1089903；未混用同页80g、75g或85g规格。",
+      "limitation": "具体商品直链本次仅返回通用页面壳，销售规格依据公开目录卡核对。库存、价格和配送范围以下单页面为准；商品卡不单独证明制造厂或劳动条件。"
+    },
+    {
+      "id": "gaopinle70g5-jd-image",
+      "title": "经典高品乐A4 70g五包箱装商品资料图",
+      "publisher": "京东／亚太森博相关图片权利人",
+      "type": "商品资料图",
+      "url": "https://img14.360buyimg.com/n7/jfs/t1/345648/32/27021/95308/691468c2F0ab62751/6e8d1a53ebb0296a.jpg",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "京东商品1089903在公开目录使用的原始缩略图",
+      "summary": "图片可辨认经典高品乐、A4、70g及2500张箱装，已与商品卡规格对应。",
+      "limitation": "原图220×220，仅作商品插图；不把宣传语或图片当作劳动评价，也未从图中推读生产批次。版权归相关权利人，非开放许可素材。"
+    },
+    {
+      "id": "xinhui-labor2025-notice",
+      "title": "关于公布新会区2025年度企业劳动保障守法诚信等级评价结果的公告",
+      "publisher": "江门市新会区人力资源和社会保障局",
+      "type": "政府评价公告",
+      "url": "https://www.xinhui.gov.cn/gzjg/qzfgzbm/jmsxhqrlzyhshbzj/xzzfgszl/xzzfshgk/content/post_3498062.html",
+      "publishedAt": "2026-05-28",
+      "checkedAt": "2026-09-12",
+      "locator": "正文评价期间与附件1、附件2；企业名单尚未成功读取",
+      "summary": "公告明确评价2025-01-01至2025-12-31的劳动守法情况，公布5589家A级及B、C级附件，提供了核对新会制造企业的最新名单入口。",
+      "limitation": "已读公告公开索引及附件链接，但两个原始XLSX直接请求均返回403，未取得企业条目。不能据此认定亚太森博或任何未核对企业已列入A级；没有以全区数量推断某家企业评级。"
     }
   ],
   "companies": [
@@ -5624,7 +5756,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "40 小时基准 · 双休披露",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
@@ -5675,7 +5807,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "5 × 8 小时 · 有制度例外",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
@@ -5724,7 +5856,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "5 × 8 小时 · 招聘资料",
       "origin": "international",
       "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
@@ -5774,7 +5906,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "5 × 8 小时 · 历史校招",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
@@ -5822,7 +5954,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "40 小时 + 双休待补证",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
@@ -5873,7 +6005,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "5 × 8 小时 · 旺季有例外",
       "origin": "international",
       "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
@@ -5917,7 +6049,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "40 小时 + 双休待补证",
       "origin": "international",
       "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
@@ -5965,7 +6097,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "40 小时 + 双休待补证",
       "origin": "international",
       "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
@@ -6015,7 +6147,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "40 小时 + 双休待补证",
       "origin": "international",
       "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
@@ -6063,7 +6195,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "40 小时 + 双休待补证",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
@@ -6107,7 +6239,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位排班、加班记录及具体商品的生产或外包主体。",
+      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
       "cardNote": "40 小时 + 双休待补证",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
@@ -6163,7 +6295,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
+      "nextCheck": "逐款确认当前在售配置的实际制造法人和境内厂址，再核对该法人的劳动守法依据及适用期间；上游与外包资料继续补充调查。",
       "cardNote": "40 小时 · 在线商店岗位",
       "origin": "international",
       "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
@@ -6216,7 +6348,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
+      "nextCheck": "核对具体牙膏或牙刷的实际制造法人及其劳动守法依据；招聘排班仅作岗位线索，上游资料另作补充。",
       "cardNote": "≤40 小时 · 招聘双休披露",
       "origin": "unconfirmed",
       "originNote": "品牌创立、品牌归属与在华合资业务背景需分别核对，暂不纳入中国品牌筛选。"
@@ -6270,7 +6402,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
+      "nextCheck": "逐款确认当前销售规格与境内制造企业，再核对同一法人的劳动守法依据；历史招聘的岗位范围单独保留。",
       "cardNote": "5 × 8 小时 · 生产另排班",
       "origin": "international",
       "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
@@ -6321,7 +6453,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
+      "nextCheck": "分别核对杂志出版、印刷服务的实际经营法人及其劳动守法依据；编辑招聘福利不能自动覆盖印刷企业。",
       "cardNote": "5 × 8 小时 · 招聘福利",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
@@ -6370,7 +6502,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充当前岗位考勤、加班与休息记录，并对应具体商品的制造、外包及上游主体。",
+      "nextCheck": "逐款确认清洁或洗护商品的实际制造法人和厂址，核对该法人的劳动守法依据；集团制度作为补充资料。",
       "cardNote": "40 小时已披露 · 双休待补",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
@@ -6419,7 +6551,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "核对中国岗位与手柄具体生产工厂，补充实际工时和休息记录。",
+      "nextCheck": "确认所选手柄的境内制造法人和厂址，再核对该生产企业的劳动守法依据；微软总部福利不代替工厂评价。",
       "origin": "international",
       "originNote": "国际品牌在华商品或业务；具体商品产地及雇佣主体分别核对。"
     },
@@ -6737,7 +6869,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "按当前商品标签锁定制造法人和厂址，再核查裁剪缝制、面料及外包岗位的考勤、逐周休息、工资和社保。",
+      "nextCheck": "按当前商品标签锁定实际制衣法人和厂址，核对同一企业的劳动守法依据；面料、外包和物流资料另作补充。",
       "assessments": [
         {
           "subject": "红豆集团有限公司",
@@ -6946,7 +7078,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "逐款核现供批次加工厂；区分标准与综合工时岗位，补相应时期实际考勤、逐周休息、加班工资、社保及上游雇主记录。"
+      "nextCheck": "逐款核对现供批次制造法人及其劳动评价、适用期间；综合工时岗位按适用规则核查，原料与上游雇主资料另作补充。"
     },
     {
       "id": "honor",
@@ -7099,7 +7231,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先以两款当前包装和批次锁定各自制造厂；五花肉另查原猪养殖与屠宰来源，再核生产、派遣、包材与冷链岗位的实际履行。",
+      "nextCheck": "以两款当前包装和批次分别确认屠宰、加工或分装法人，再核对其劳动守法依据；养殖、包材和冷链关系继续补充。",
       "assessments": [
         {
           "subject": "河南双汇投资发展股份有限公司",
@@ -7566,7 +7698,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先对应具体商品的制造厂，再取得该厂及上游的近期审核、整改复核和实际工作记录。",
+      "nextCheck": "以具体鞋服制造标签确认生产法人，再核对该企业具名的劳动守法依据；上游审核和整改资料作为补充调查。",
       "assessments": [
         {
           "subject": "安踏（中国）有限公司",
@@ -8019,7 +8151,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "核对项目施工许可证、总包与分包名单，以及相应施工时期的考勤、工资支付和社保资料；另核物业人员的雇佣主体。",
+      "nextCheck": "核对具体住房项目、境内购买渠道和施工主体，再核对相应总包、分包及物业经营法人的劳动守法依据和适用期间。",
       "assessments": [
         {
           "subject": "中房集团荆门房地产开发有限责任公司",
@@ -8267,7 +8399,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "逐款获取现供瓶身制造背标和瓶肩日期，锁定生产法人；更新该厂劳动评价并核产线、外委维修、原料与运输人员的实际工时、休息、工资及社保。",
+      "nextCheck": "逐款核对现供包装、生产批次及制造法人，更新同一厂家的劳动守法依据；原料、外委维修和运输信息另作补充。",
       "assessments": [
         {
           "subject": "中粮东海粮油工业（张家港）有限公司",
@@ -8836,7 +8968,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "核对在售青柠 1kg 的背标和生产批次，再分别补齐配料、灌装包装、设备操作及供应商的近期考勤、工资和休息记录。"
+      "nextCheck": "核对在售青柠1kg的制造背标、生产批次及对应法人的劳动守法依据；保留招聘中的具体班次线索，供应商信息另作补充。"
     },
     {
       "id": "yunkc-manshi",
@@ -8887,7 +9019,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先确认招聘的签约法人和种植、采摘、包装各方，再找可溯源的具体零售包装及生产人员的实际工作记录。"
+      "nextCheck": "确认种植、采摘或包装的实际经营法人，找到可追溯的具体零售包装，再核对对应主体的劳动守法依据。"
     },
     {
       "id": "baiya",
@@ -8945,7 +9077,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "对应 FLC8704-EC 当前销售批次与产线，补充直接雇员、外包及原料供应岗位的考勤、工资、社保和休息资料。"
+      "nextCheck": "对应FLC8704-EC当前销售批次和实际制造法人，再核对该主体的劳动守法依据；集团外包数据和原料信息另作补充。"
     },
     {
       "id": "decolor-zhaoqing",
@@ -8998,7 +9130,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先核对当前普通与特殊工时生产岗位的范围及履行，再寻找名称、净含量和制造背标一致的具体洗发产品。"
+      "nextCheck": "寻找名称、净含量和制造背标一致的在售洗发产品，再核对肇庆具名制造法人的劳动守法依据；招聘中的工时线索另行核查。"
     },
     {
       "id": "shiyue",
@@ -9067,7 +9199,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "取得各款当前包装与批次：小米、燕麦米用 XC 代码择厂，豆类和玉米先识别制造法人；再核加工、分装及原粮人员的实际考勤、逐周休息、工资社保。"
+      "nextCheck": "核对各款当前包装：小米和燕麦米用XC代码对应工厂，豆类和玉米先识别制造法人，再核对同一企业的劳动守法依据；原粮和运输信息另作补充。"
     },
     {
       "id": "sanquan",
@@ -9125,7 +9257,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补齐猪肉白菜 1kg 当前在售包装、生产法人及批次，再核制造、原料和冷链岗位的工时、休息、工资社保。"
+      "nextCheck": "补齐猪肉白菜1kg当前在售包装、制造法人及批次，再核对该企业的劳动守法依据；原料和冷链另作补充调查。"
     },
     {
       "id": "chinasalt-dongxing",
@@ -9182,7 +9314,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先锁定完整家庭食盐规格、大陆零售入口和制造背标，再核对定远相关产线、采矿及运输岗位排班和劳动履行。"
+      "nextCheck": "确认家庭食盐的完整规格、国内购买渠道和制造背标，再核对实际制盐或分装法人的劳动守法依据；采矿及运输资料另作补充。"
     },
     {
       "id": "wens",
@@ -9240,7 +9372,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "取得同款新鲜猪肋排的当前销售包装和屠宰法人，再分别核对养殖、分切、外包及冷链人员的实际工时、休息和工资社保。"
+      "nextCheck": "取得同款新鲜猪肋排的当前销售包装及屠宰或分切法人，再核对其劳动守法依据；养殖、外包和冷链信息另作补充。"
     },
     {
       "id": "guolian",
@@ -9301,7 +9433,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "分别补虾仁和黄花鱼同款清晰背标与批次追溯，锁定养殖场、加工法人，再核对产线、养殖和冷链岗位的实际劳动记录。"
+      "nextCheck": "分别补虾仁和黄花鱼同款背标与批次追溯，锁定实际养殖或加工法人，再核对对应主体的劳动守法依据；冷链资料另作补充。"
     },
     {
       "id": "simao",
@@ -9357,7 +9489,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "找到 DM011-F 的大陆直接零售与制造背标，确认加工装配、笔尖等部件供应商，再取得对应岗位当前工时、休息和工资社保记录。"
+      "nextCheck": "找到DM011-F的国内直接零售入口及制造背标，确认实际制笔法人并核对其劳动守法依据；笔尖等部件供应商信息另作补充。"
     },
     {
       "id": "comix",
@@ -9413,7 +9545,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "核对 B3252 当前包装与制尺工厂，再补工厂、原料和配送岗位的实际工时、逐周休息及工资社保记录。"
+      "nextCheck": "核对B3252当前包装与实际制尺法人，再补该企业的劳动守法依据；原料和配送信息另作补充。"
     },
     {
       "id": "pantum",
@@ -9472,7 +9604,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "核对家用版当前大陆订单、设备制造标签及具体工厂，再补装配、硒鼓、部件和物流岗位的实际工时、逐周休息及工资社保记录。"
+      "nextCheck": "核对家用版当前国内供货、设备制造标签及实际生产法人，再核对该企业的劳动守法依据；硒鼓、部件和物流另作补充调查。"
     },
     {
       "id": "supor",
@@ -9598,7 +9730,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "确认零售每件与三双装的对应及制造标签，再核织袜、缝头、纱线和物流岗位的当前考勤、逐周休息、工资社保。"
+      "nextCheck": "确认零售每件与三双装的关系及制造标签，再核对实际织袜法人的劳动守法依据；纱线和物流信息另作补充。"
     },
     {
       "id": "semir",
@@ -9651,7 +9783,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先以衣服标签匹配 OEM、ODM 生产法人和厂址，再取得各班组当前考勤、逐周休息、加班工资及社保记录。"
+      "nextCheck": "以衣服标签匹配OEM或ODM实际制衣法人和厂址，再核对该企业的劳动守法依据；集团制度和面料信息作为补充。"
     },
     {
       "id": "huasheng-fruit",
@@ -9706,7 +9838,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "取得当前 5kg 礼盒的果园或批次追溯、分选包装责任者及国内配送，再分别补种植、采摘、包装和冷链实际劳动资料。"
+      "nextCheck": "核对当前5kg礼盒的国内配送、果园或批次追溯及分选包装经营法人，再核对对应主体的劳动守法依据；冷链信息另作补充。"
     },
     {
       "id": "rapoo",
@@ -9763,7 +9895,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "取得两款当前大陆供货批次的制造铭牌与外协厂清单，再核对工厂及关键部件人员的实际劳动记录。"
+      "nextCheck": "取得两款当前国内供货批次的制造铭牌与实际外协法人，再核对该工厂的劳动守法依据；关键部件信息另作补充。"
     },
     {
       "id": "ymtc",
@@ -9820,7 +9952,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "对应 TiPlus7100 2TB 当前供货批次的装配、晶圆与封装主体，核查轮班岗位实际周工时、逐周休息、工资社保及关键部件供应商。"
+      "nextCheck": "对应TiPlus7100 2TB当前供货的实际制造法人，再核对其劳动守法依据；晶圆、封装和部件供应关系另作补充。"
     },
     {
       "id": "hkc",
@@ -10138,7 +10270,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先解决 GT0217 现时供货货号及原页、外箱制造标识，再核制造、原料、销售和铺装人员的实际劳动条件。"
+      "nextCheck": "核对GT0217当前供货货号、购买入口及外箱制造法人，再核对同一企业的劳动守法依据；原料、铺装与销售服务另作补充。"
     },
     {
       "id": "suyan-jingshen",
@@ -10258,7 +10390,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先取得现供细米粉 1kg 背标及批次、完整集团报告，再核米粉产线计件定额、实际周工时、逐周休息和工资社保，向原粮加工及运输追溯。"
+      "nextCheck": "核对现供细米粉1kg的制造背标、批次及同一法人的劳动守法依据；集团报告、原粮和运输信息另作补充。"
     },
     {
       "id": "nanz-jiayili",
@@ -12136,6 +12268,131 @@
           "reviewDueAt": "2026-10-12"
         }
       ]
+    },
+    {
+      "id": "jieya-tongling",
+      "name": "铜陵洁雅",
+      "legalName": "铜陵洁雅生物科技股份有限公司",
+      "location": "安徽铜陵",
+      "origin": "china",
+      "originNote": "本档案对应铜陵成立的湿巾制造企业，所列Babycare为国内母婴品牌；品牌运营者与代工企业分别核对，不因品牌关系扩大劳动评价范围。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "已有A级结果，审查期间待核",
+      "restLabel": "不以招聘排班作合规结论",
+      "cardNote": "具名A级及商品工厂代码已找到",
+      "scope": "铜陵洁雅及其JY代码生产的188mm×140mm Babycare婴幼儿手口湿巾；零售抽数和现售型号待核。",
+      "finding": "最终政府名单明确列洁雅为A级，如东原始抽检已把具体尺寸和JY代码对应到该厂；评价审查期间和当前零售包装尚待补齐。",
+      "caveats": [
+        "2024年评价工作不直接等同于2024全年劳动条件；不能把2025公布年份写作2025年度评价。",
+        "同品牌另一尺寸有其他工厂记录；不把洁雅评价转给所有Babycare商品。",
+        "188mm×140mm原记录没有抽数，未套用市场上的20抽、80抽或100抽包装。"
+      ],
+      "sourceIds": [
+        "tongling-labor2024-final",
+        "anhui-work2024-wuhu-scope",
+        "jieya-annual2025-manufacturing",
+        "babycare188x140-rudong2025",
+        "jieya-hygiene-tongling2025"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与制造关系",
+          "status": "policy",
+          "detail": "原始监管记录明确本款尺寸与JY制造代码，不仅依据代工客户名单。",
+          "sourceIds": [
+            "babycare188x140-rudong2025"
+          ]
+        },
+        {
+          "stage": "境内制造与劳动评价",
+          "status": "policy",
+          "detail": "洁雅在最终A级名单中；年报列安徽卫生许可，评价所审查期间仍待核实。",
+          "sourceIds": [
+            "tongling-labor2024-final",
+            "jieya-annual2025-manufacturing",
+            "anhui-work2024-wuhu-scope"
+          ]
+        },
+        {
+          "stage": "无纺布、包装与物流",
+          "status": "unknown",
+          "detail": "上游雇主和物流资料尚未逐项核对，作为补充调查信息。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "确认铜陵评价实际审查期间及更新结果，再核对JY代码、188mm×140mm的现售包装、每包抽数与国内购买入口。",
+      "assessments": [
+        {
+          "subject": "铜陵洁雅生物科技股份有限公司",
+          "result": "劳动保障诚信A级",
+          "period": "2024年评价工作，2025-03-03公布；实际审查期间待核",
+          "sourceId": "tongling-labor2024-final",
+          "limitation": "保留具名A级这一事实；未填造实际评价起止日期，因此尚未作为可支持正式收录的当前评价。"
+        }
+      ]
+    },
+    {
+      "id": "asia-symbol-guangdong",
+      "name": "亚太森博广东",
+      "legalName": "亚太森博（广东）纸业有限公司",
+      "location": "广东江门新会",
+      "origin": "international",
+      "originNote": "官网列其为新加坡金鹰集团成员，生产基地在广东新会；品牌背景与所选商品境内制造分别核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "具名劳动评价待核",
+      "restLabel": "不以产品或体系认证代替",
+      "cardNote": "经典高品乐制造与销售已对应",
+      "scope": "亚太森博（广东）纸业有限公司及经典高品乐A4、70g/㎡、500张×5包。",
+      "finding": "厂家经典系列说明、监管制造记录与京东1089903规格已交叉对应；新会2025年度劳动名单原表未读取，尚不能确认该厂评级。",
+      "caveats": [
+        "企业产品说明和质量抽检均不证明劳动合规。",
+        "未读取新会2025年度名单条目，不因当地A级企业总数或招聘平台标签推定该厂A级。",
+        "集团存在不同生产基地；本档案只记录已对应的广东制造法人。"
+      ],
+      "sourceIds": [
+        "asiasymbol-guangdong-company",
+        "gaopinle-classic-product-sheet",
+        "gaopinle70g-suzhou2024",
+        "gaopinle70g5-jd",
+        "xinhui-labor2025-notice"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与零售",
+          "status": "policy",
+          "detail": "经典高品乐70g五包箱装已对应京东1089903。",
+          "sourceIds": [
+            "gaopinle70g5-jd",
+            "gaopinle70g5-jd-image"
+          ]
+        },
+        {
+          "stage": "境内制造",
+          "status": "policy",
+          "detail": "厂家说明书明确经典系列由广东法人生产，监管表有同规格高品乐的具名制造记录；劳动评价另待核对。",
+          "sourceIds": [
+            "gaopinle-classic-product-sheet",
+            "gaopinle70g-suzhou2024",
+            "xinhui-labor2025-notice"
+          ]
+        },
+        {
+          "stage": "木浆、包装与物流",
+          "status": "unknown",
+          "detail": "上游劳动信息尚未逐项核对，作为补充研究保留。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得新会2025年度劳动评价的可核实企业条目，核对广东法人的具体等级；同时关注现售包装或生产主体变化。",
+      "assessments": []
     }
   ],
   "products": [
@@ -12175,7 +12432,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12219,7 +12476,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12263,7 +12520,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12307,7 +12564,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12352,7 +12609,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12396,7 +12653,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12438,7 +12695,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12481,7 +12738,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12524,7 +12781,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12571,7 +12828,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12614,7 +12871,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12658,7 +12915,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12701,7 +12958,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12747,7 +13004,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12792,7 +13049,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12835,7 +13092,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12877,7 +13134,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12922,7 +13179,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -12967,7 +13224,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13012,7 +13269,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13057,7 +13314,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13100,7 +13357,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13143,7 +13400,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13186,7 +13443,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13230,7 +13487,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13274,7 +13531,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13317,7 +13574,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13360,7 +13617,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13405,7 +13662,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13453,7 +13710,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": []
         }
       },
@@ -13503,7 +13760,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": [
             "sofitel-haikou-campus"
           ]
@@ -13553,7 +13810,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": [
             "sofitel-haikou-campus"
           ]
@@ -13602,7 +13859,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未取得对应境内生产或服务岗位的实际工时、休息及其他劳动权益履行记录；总部和招聘承诺不予替代。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
           "sourceIds": [
             "sofitel-haikou-campus"
           ]
@@ -13758,7 +14015,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团示范与上市公司制度均未对应本款缝制、面料或外包岗位的实际考勤和逐周休息。",
+          "detail": "集团历史称号及上市公司制度尚未对应本款实际制衣法人，仍需核对制造企业及其劳动守法依据；面料等上游资料另作补充。",
           "sourceIds": [
             "hodo-esg-2025-labor",
             "hodo-annual-2025-online",
@@ -13807,7 +14064,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "2025 ESG 摘要列员工治理议题，但未取得该米业产线实际工时、休息、工资及社保记录。",
+          "detail": "2025年ESG摘要披露员工治理议题，尚缺本款实际米业制造法人的劳动守法依据；集团制度不能单独证明该厂合规。",
           "sourceIds": [
             "jinjian-esg-summary-2025"
           ]
@@ -13950,7 +14207,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "2025 年历史抽检样品对应高明海天；法律意见所引信用记录仅覆盖 2022—2024 年。集团报告的部分制造岗位采用综合工时制，当前生抽产线实际工时、逐周休息及工资社保仍待核。",
+          "detail": "2025年历史抽检对应高明海天，法律意见引述的信用记录覆盖2022—2024年；仍需核对具名生产法人的劳动评价和适用期间。集团综合工时披露保留为核查线索，不将工时制度名称直接作为排除理由。",
           "sourceIds": [
             "haday-esg-2025",
             "haday-gaoming-legal-2025",
@@ -14875,7 +15132,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；历史称号及集团资料不能自动适用于未确认的生产企业。",
           "sourceIds": [
             "national-harmony-2022"
           ]
@@ -14924,7 +15181,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；历史称号及集团资料不能自动适用于未确认的生产企业。",
           "sourceIds": [
             "national-harmony-2022"
           ]
@@ -15023,7 +15280,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；历史称号及集团资料不能自动适用于未确认的生产企业。",
           "sourceIds": [
             "national-harmony-2022"
           ]
@@ -15070,7 +15327,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "detail": "广东嘉士利食品集团有限公司已有2025年劳动守法A级评价，但本款800g原味饼干尚未对应到该受评制造法人；不能把同品牌其他制造企业的商品直接套入。",
           "sourceIds": [
             "kaiping-labor-2025"
           ]
@@ -15172,7 +15429,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；历史称号及集团资料不能自动适用于未确认的生产企业。",
           "sourceIds": []
         }
       }
@@ -15367,7 +15624,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "detail": "现有资料为李锦记新会企业的招聘线索，仍需确认本款实际制造法人并取得对应的劳动守法依据；招聘排班本身不能作最终合规判断。",
           "sourceIds": [
             "lkk-xinhui-hiring"
           ]
@@ -15416,7 +15673,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；历史称号及集团资料不能自动适用于未确认的生产企业。",
           "sourceIds": [
             "national-harmony-2022"
           ]
@@ -15464,7 +15721,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；历史称号及集团资料不能自动适用于未确认的生产企业。",
           "sourceIds": [
             "national-harmony-2022"
           ]
@@ -15562,7 +15819,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "相关天门工厂的政府招聘存在两班倒及 12 小时白班；具体产品与工厂关系、当前实际工时仍待核。",
+          "detail": "天门相关工厂的政府招聘列两班倒及十二小时白班，保留为需要核对工时制度和履行情况的线索；本款实际制造企业及其劳动守法依据仍待确认，不将班次长度直接判为违法。",
           "sourceIds": [
             "purcotton-brand",
             "winner-tianmen-hiring-2024",
@@ -15612,7 +15869,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "相关天门工厂的政府招聘存在两班倒及 12 小时白班；具体产品与工厂关系、当前实际工时仍待核。",
+          "detail": "天门相关工厂的政府招聘列两班倒及十二小时白班，保留为需要核对工时制度和履行情况的线索；本款实际制造企业及其劳动守法依据仍待确认，不将班次长度直接判为违法。",
           "sourceIds": [
             "purcotton-brand",
             "winner-tianmen-hiring-2024",
@@ -15664,7 +15921,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "相关天门工厂的政府招聘存在两班倒及 12 小时白班；具体产品与工厂关系、当前实际工时仍待核。",
+          "detail": "天门相关工厂的政府招聘列两班倒及十二小时白班，保留为需要核对工时制度和履行情况的线索；本款实际制造企业及其劳动守法依据仍待确认，不将班次长度直接判为违法。",
           "sourceIds": [
             "purcotton-brand",
             "winner-tianmen-hiring-2024",
@@ -15714,7 +15971,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "相关天门工厂的政府招聘存在两班倒及 12 小时白班；具体产品与工厂关系、当前实际工时仍待核。",
+          "detail": "天门相关工厂的政府招聘列两班倒及十二小时白班，保留为需要核对工时制度和履行情况的线索；本款实际制造企业及其劳动守法依据仍待确认，不将班次长度直接判为违法。",
           "sourceIds": [
             "purcotton-brand",
             "winner-tianmen-hiring-2024",
@@ -15764,7 +16021,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "相关天门工厂的政府招聘存在两班倒及 12 小时白班；具体产品与工厂关系、当前实际工时仍待核。",
+          "detail": "天门相关工厂的政府招聘列两班倒及十二小时白班，保留为需要核对工时制度和履行情况的线索；本款实际制造企业及其劳动守法依据仍待确认，不将班次长度直接判为违法。",
           "sourceIds": [
             "purcotton-brand",
             "winner-tianmen-hiring-2024",
@@ -16454,7 +16711,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "咖农合作与支持措施不等于劳动履行记录；种植、采摘、加工、包装和物流岗位的实际工时、休息与其他劳动义务仍待核。",
+          "detail": "咖农合作与支持措施尚未对应本款咖啡的实际制造或加工法人，仍缺该主体的劳动守法依据；种植合作、原料和物流信息继续作为补充调查。",
           "sourceIds": [
             "hogood-responsibility"
           ]
@@ -16658,7 +16915,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "员工保障制度、供应商质量考核和年度外包工时总量不足以证明该产线每周工时、休息及工资社保实际履行。",
+          "detail": "年报和ESG披露了员工保障制度、供应商管理及年度外包工时总量，尚缺与本款实际制造法人对应的劳动守法依据；这些集团资料不单独作为收录结论。",
           "sourceIds": [
             "baiya-esg-2025",
             "baiya-annual-2025"
@@ -16976,7 +17233,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "五天八小时来源仅为设备开发招聘，尚未取得该家用版装配、硒鼓与零部件岗位的实际周工时、休息和工资社保记录。",
+          "detail": "五天八小时仅出现在设备开发岗位招聘中，不能覆盖整机制造。仍需核对本款实际生产法人及其劳动守法依据；硒鼓、零部件和物流资料另作补充。",
           "sourceIds": [
             "pantum-device-development-hiring-2027",
             "pantum-esg-2025"
@@ -17029,7 +17286,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "同名杭州制造法人 2025 届实习招聘列长白班及十二小时打卡倒班，含休息；未取得本型号班组每周实际工时与休息，集团审核自述不足以补齐。",
+          "detail": "同名杭州制造法人的实习招聘列长白班及含休息的十二小时打卡倒班，需核对适用工时制度与履行情况；尚缺本款制造法人的劳动守法依据，集团审核自述不足以单独判断。",
           "sourceIds": [
             "supor-hangzhou-intern-hiring-2025",
             "supor-esg-2025"
@@ -17082,7 +17339,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团 ESG 有基地审核与供应商制度，未取得本款绍兴制造法人、装配班组和部件供应商实际工时及休息，不能套用杭州招聘。",
+          "detail": "已找到绍兴制造法人线索，仍需对应该法人的具名劳动守法依据；集团ESG和杭州招聘不能代替绍兴厂的评价，部件供应商信息另作补充。",
           "sourceIds": [
             "supor-esg-2025",
             "supor-sw17s59a-jinan-sampling"
@@ -17133,7 +17390,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "当前制造主体尚未锁定，集团制度未对应到该电压力锅的装配、材料及外包实际工时和休息记录。",
+          "detail": "本款实际制造主体尚未锁定，集团制度未对应具体生产企业；需先确认制造法人，再核对其劳动守法依据。",
           "sourceIds": [
             "supor-esg-2025",
             "supor-sy50fc03q-suning"
@@ -17240,7 +17497,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "产品采用外包生产，集团标准工时条款不能代替本款制衣及织造岗位实际工时、休息和其他权益记录。",
+          "detail": "产品涉及外包生产，仍需确认本款制衣法人及其劳动守法依据；集团工时条款不能自动适用于代工企业。",
           "sourceIds": [
             "semir-esg-2025-labor"
           ]
@@ -17291,7 +17548,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "所查报告同时列多种工时制度，本货号代工、面料和物流岗位的实际周工时、逐周休息与工资社保待核。",
+          "detail": "所查集团报告列有多种工时制度，但本货号的实际制衣法人及其劳动守法依据仍待对应；面料和物流资料另作补充。",
           "sourceIds": [
             "semir-esg-2025-labor"
           ]
@@ -17343,7 +17600,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "种植技术岗位的历史五险一金承诺没有给出每周工时与休息，也未对应本盒苹果的采摘、分选、包装人员实际记录。",
+          "detail": "种植技术岗位的历史五险一金承诺未对应本盒苹果的实际种植、采摘或分选包装主体；仍需确认相应经营法人及其劳动守法依据。",
           "sourceIds": [
             "huasheng-yulin-hiring-2022",
             "huasheng-nwafu-visit-2026"
@@ -17396,7 +17653,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "雷柏年报披露外协生产，未取得本款外协厂的实际工时、每周休息及工资社保记录。",
+          "detail": "年报披露存在外协生产，仍需确认本款实际外协制造法人及其劳动守法依据；品牌总部的员工制度不能自动适用于外协厂。",
           "sourceIds": [
             "rapoo-annual-2025"
           ]
@@ -17449,7 +17706,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "品牌年报的员工管理不覆盖未锁定的外协制造班组；实际工时、休息与部件供应商劳动记录待补。",
+          "detail": "本款实际外协制造法人尚未锁定，品牌年报的员工管理不能覆盖未确认的外协企业；需补制造主体及其劳动守法依据，部件信息另作补充。",
           "sourceIds": [
             "rapoo-annual-2025"
           ]
@@ -17503,7 +17760,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "校招与官网福利未给出晶圆、封装、装配班组的实际周工时、每周休息及工资社保记录，尚不能确认生产劳动条件。",
+          "detail": "校招及官网福利未对应本款实际制造主体，仍需确认生产法人及其劳动守法依据；晶圆、封装等供应链关系继续作为补充调查。",
           "sourceIds": [
             "ymtc-nankai-hiring-2027",
             "ymtc-official-benefits"
@@ -17613,7 +17870,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "景德镇乐华 2022 年称号与招聘不证明当前坐便器生产班组的实际工时、逐周休息及工资社保。",
+          "detail": "景德镇乐华的2022年历史称号及招聘资料不能单独判断当前合规；仍需确认本款陶瓷制造法人及其具名劳动守法依据。",
           "sourceIds": [
             "national-harmony-2022",
             "arrow-lehua-hiring-2022",
@@ -17724,7 +17981,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "未找到本款铸造、加工、装配及外包雇主的实际工时、休息和工资社保资料。",
+          "detail": "本款实际五金制造法人及其劳动守法依据仍待对应；集团ESG不足以确认具体制造企业，部件和外包信息另作补充。",
           "sourceIds": [
             "arrow-esg-2025"
           ]
@@ -17993,7 +18250,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团工时披露有制造岗位例外，且本款实际工厂未锁定。辣椒、香菇加工、调酱灌装及包装岗位的实际工时、休息和工资社保均待核。",
+          "detail": "本款实际制造厂尚未锁定，集团工时披露不能单独判断该厂合规；需先核对制造法人及其劳动守法依据，辣椒、香菇和包材等上游关系另作补充。",
           "sourceIds": [
             "haday-esg-2025"
           ]
@@ -18144,7 +18401,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团员工制度未对应此豆类制造班组；种植、加工、分装及运输的实际雇主、周工时、逐周休息和工资社保仍待核。",
+          "detail": "本款豆类的实际加工或分装法人及其劳动守法依据仍待确认；集团员工制度不能直接适用于未确认的工厂，种植和运输信息另作补充。",
           "sourceIds": [
             "shiyue-esg-2025"
           ]
@@ -18193,7 +18450,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团员工制度未对应此豆类制造班组；种植、加工、分装及运输的实际雇主、周工时、逐周休息和工资社保仍待核。",
+          "detail": "本款豆类的实际加工或分装法人及其劳动守法依据仍待确认；集团员工制度不能直接适用于未确认的工厂，种植和运输信息另作补充。",
           "sourceIds": [
             "shiyue-esg-2025"
           ]
@@ -18402,7 +18659,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "年报人员及核心销售合同说明没有提供白糖加工、分装班组实际周工时、逐周休息与工资社保，原糖及运输劳动也未核。",
+          "detail": "年报及核心销售合同尚未对应本款白糖的实际加工或分装法人及其劳动守法依据；原糖和运输关系继续作为补充调查。",
           "sourceIds": [
             "nanz-annual2024-labor"
           ]
@@ -20828,6 +21085,119 @@
           "assessmentSourceId": "shawan-labor-2024"
         }
       }
+    },
+    {
+      "id": "babycare-handwipes188x140-jy",
+      "name": "婴幼儿手口湿巾188×140mm（JY生产代码）",
+      "brand": "Babycare",
+      "companyId": "jieya-tongling",
+      "category": "daily",
+      "description": "已核到JY生产代码和单片尺寸的手口湿巾研究记录；每包抽数及当前零售包装尚未确认。",
+      "tags": [
+        "湿巾",
+        "婴幼儿手口湿巾",
+        "188×140mm",
+        "JY",
+        "铜陵洁雅"
+      ],
+      "needs": [
+        "湿巾"
+      ],
+      "url": "https://www.rudong.gov.cn/rdxrmzf/wsgzjz/content/0286900f-e20a-4237-95dc-0dca9fbc9d3b.html",
+      "market": "链接为政府商品制造资料。历史母婴店抽样不等同于当前在售确认，每包抽数及对应零售入口仍待核。",
+      "relationship": "如东原始抽检第1项将188mm×140mm、20240925 JY批次明确对应铜陵洁雅；没有将另一YQB工厂产品合并。",
+      "relationshipSourceIds": [
+        "babycare188x140-rudong2025",
+        "jieya-annual2025-manufacturing"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "尚未取得188mm×140mm且生产代码JY的当前完整包装与购买入口；原记录没有抽数，不能替换为其他包装。",
+          "sourceIds": [
+            "babycare188x140-rudong2025"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "原始抽检明确本款尺寸、JY代码及铜陵洁雅生产主体，结合安徽厂区许可资料支持该记录的境内制造关系；限所列样品与主体。",
+          "sourceIds": [
+            "babycare188x140-rudong2025",
+            "jieya-annual2025-manufacturing"
+          ],
+          "subject": "铜陵洁雅生物科技股份有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "洁雅确在铜陵最终A级名单内，但2024年评价工作的实际审查期间及更新情况尚未核清；保留A级事实，未将其直接写成2025或2026年的劳动评价。",
+          "sourceIds": [
+            "tongling-labor2024-final",
+            "anhui-work2024-wuhu-scope"
+          ]
+        }
+      }
+    },
+    {
+      "id": "gaopinle-classic-a4-70g-5pack",
+      "name": "经典A4复印纸70g·500张×5包",
+      "brand": "高品乐",
+      "companyId": "asia-symbol-guangdong",
+      "category": "stationery",
+      "description": "经典高品乐A4复印纸，70g/㎡，每包500张、每箱5包，共2500张；具名制造关系及销售规格已核。",
+      "tags": [
+        "复印纸",
+        "打印纸",
+        "A4",
+        "70g",
+        "经典高品乐",
+        "500张",
+        "5包"
+      ],
+      "needs": [
+        "复印纸"
+      ],
+      "url": "https://item.jd.com/1089903.html",
+      "market": "京东商品1089903，70g、500张×5包。规格依据当前公开商品卡核对，库存与配送以下单时为准。",
+      "relationship": "官网经典系列产品说明明确广东制造法人和本规格，2024年苏州监管表另有高品乐70g、500张单包的同法人记录。",
+      "relationshipSourceIds": [
+        "gaopinle-classic-product-sheet",
+        "gaopinle70g-suzhou2024",
+        "gaopinle70g5-jd"
+      ],
+      "image": "images/gaopinle-classic-a4-70g-5pack.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img14.360buyimg.com/n7/jfs/t1/345648/32/27021/95308/691468c2F0ab62751/6e8d1a53ebb0296a.jpg",
+      "imageRights": "亚太森博及京东相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东公开目录原始HTML已将经典高品乐A4、70g、500张×5包对应到商品1089903，资料图规格一致。",
+          "sourceIds": [
+            "gaopinle70g5-jd",
+            "gaopinle70g5-jd-image"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "厂家经典系列说明明确由亚太森博（广东）纸业有限公司生产，含A4、70g及5包/箱选项；监管制造表交叉对应相同法人和单包规格。",
+          "sourceIds": [
+            "gaopinle-classic-product-sheet",
+            "gaopinle70g-suzhou2024"
+          ],
+          "subject": "亚太森博（广东）纸业有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "已找到新会区2025年度劳动评价公告，但未能读取企业名单原表，无法确认该制造法人的具体等级；质量和产品资料不替代劳动守法依据。",
+          "sourceIds": [
+            "xinhui-labor2025-notice"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -21505,7 +21875,7 @@
           "query": "湿巾"
         }
       ],
-      "note": "奇酷 AIR 薄 M 码 24 片纸尿裤已对应国内零售、境内制造商和同法人 2024 年劳动守法 A 级评价，正式收录。其余已整理牙刷、卫生巾、纸品、洗洁精等具体资料，制造或劳动依据仍待补；香皂和清洁工具有缺口。",
+      "note": "奇酷 AIR 薄 M 码 24 片纸尿裤已对应国内零售、境内制造商和同法人 2024 年劳动守法 A 级评价，正式收录。其余已整理牙刷、卫生巾、纸品、洗洁精等具体资料，制造或劳动依据仍待补；香皂和清洁工具有缺口。 新增Babycare手口湿巾188×140mm的JY工厂记录，现售抽数及劳动评价审查期间仍待核。",
       "sourceIds": [
         "jahwa-2025",
         "darlie-hours",
@@ -21528,7 +21898,9 @@
         "decolor-jd-variant-mismatch",
         "shishi-labor-2024",
         "chikool-m24-sampling-2025-media",
-        "chikool-air-m24-jd"
+        "chikool-air-m24-jd",
+        "babycare188x140-rudong2025",
+        "tongling-labor2024-final"
       ]
     },
     {
@@ -21717,7 +22089,7 @@
           "query": "打印机"
         }
       ],
-      "note": "新增奔图 M6202NW 家用版打印机，资料覆盖 10 项办公需求；设备开发招聘五天八小时不代表装配岗位，CQC 未单列家用版，现时供货和制造批次待核。钢笔、直尺和其他文具继续补生产劳动证据，书包仍有缺口。",
+      "note": "资料覆盖10项办公需求；晨光K35与经典高品乐A4 70g五包箱装已有国内销售和具名制造依据，制造企业劳动评价仍待补。打印机、钢笔及其他文具继续核对具体制造法人和劳动守法依据，书包仍有缺口。",
       "sourceIds": [
         "deli-campus-2025",
         "simao-production-hiring-2025",
@@ -21730,7 +22102,13 @@
         "pantum-device-development-hiring-2027",
         "pantum-esg-2025",
         "pantum-m6202nw-cqc-2025",
-        "pantum-m6202nw-home-product"
+        "pantum-m6202nw-home-product",
+        "gaopinle-classic-product-sheet",
+        "gaopinle70g-suzhou2024",
+        "gaopinle70g5-jd",
+        "xinhui-labor2025-notice",
+        "mg-k35-jd-retail",
+        "mg-k35-muping-production-2025"
       ]
     },
     {
