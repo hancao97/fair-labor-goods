@@ -6318,6 +6318,58 @@
       },
       "filename": "images/ningxin-boneless-lamb400.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "guolian-whole-yellow-croaker1kg",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/445435/26/10427/145388/6a1e900dF196bd5bf/00833203200b549d.jpg",
+      "width": 220,
+      "height": 220,
+      "bytes": 11922,
+      "sha256": "c13d8064ef380f0cb1c53b6180b1d0417dfcc9a39272305f30e55dd686ad3843",
+      "visually_verified": true,
+      "source_page_url": "https://www.jd.com/jiage/12218dd93738b99482644.html",
+      "retailer_sku": "100005639990",
+      "source_type": "京东准确商品卡片实际引用的原始宣传图",
+      "verification_notes": "220px 原图已完整目视，写原条黄鱼2斤、3条；含促销价格，非当前价格承诺，无包装或制造背标。",
+      "reuse_info": {
+        "rights_holder": "国联水产品牌及原图片相关权利人；具体摄影、设计著作权法人未单独核实",
+        "license": "未发现开放复用许可；公开展示不等于不限用途的转载或商业授权。",
+        "restrictions": "保留完整图片、标识和原文字，不去水印，不将宣传图当作当前批次或劳动合规证明。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 26843,
+        "sha256": "c293e7ba09692c6dbe1a80e76441e16a008cf0cbae014bee909abe27656f8917"
+      },
+      "filename": "images/guolian-whole-yellow-croaker1kg.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "shuanghui-pork-belly1kg",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/239123/37/23211/136786/6735aa1dF64090f75/0257695a726cd222.jpg",
+      "width": 220,
+      "height": 220,
+      "bytes": 12304,
+      "sha256": "92b2e2846040f91f11f70e090bf4eb719b95426f19c3876ff632f19689bf38bd",
+      "visually_verified": true,
+      "source_page_url": "https://www.jd.com/jiage/12218afecfc6e5d630b6c.html",
+      "retailer_sku": "4785602",
+      "source_type": "京东准确商品卡片实际引用的原始宣传图",
+      "verification_notes": "220px 原图已完整目视，品牌与带皮五花肉一致，重量来自准确卡片；未采用同页另一货号的图片，无包装制造背标。",
+      "reuse_info": {
+        "rights_holder": "双汇品牌及原图片相关权利人；具体摄影、设计著作权法人未单独核实",
+        "license": "未发现开放复用许可；公开展示不等于不限用途的转载或商业授权。",
+        "restrictions": "保留完整图片、标识和原文字，不去水印，不将宣传图当作当前批次或劳动合规证明。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 26499,
+        "sha256": "851285e78adef6c1298bfe92561b0ead52f98bb80bb049a5c3e577167eea08bc"
+      },
+      "filename": "images/shuanghui-pork-belly1kg.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

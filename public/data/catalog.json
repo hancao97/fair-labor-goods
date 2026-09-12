@@ -4026,6 +4026,90 @@
       "checkedAt": "2026-09-12",
       "locator": "PDF 第 153、166、170、172 页（印刷 152、165、169、171）",
       "type": "企业 ESG 报告"
+    },
+    {
+      "id": "guolian-fish-jd-100005639990",
+      "title": "国联原条黄花鱼净重 2斤／3条的京东准确商品卡片",
+      "publisher": "京东公开商品资料",
+      "url": "https://www.jd.com/jiage/12218dd93738b99482644.html",
+      "summary": "公开卡片的标题、链接和原图对应货号 100005639990；写明原条黄花鱼、净重 2斤、3条及宁德大黄鱼。原图亦标示 2斤与3条。",
+      "limitation": "直接货号页本次返回通用商城内容，未核到当前报价、地区库存或制造背标。宁德来自零售标题，不能由此指定养殖场、加工法人或当前批次；广告图不是包装标签。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "2026-09-12 读取的公开 HTML：国联黄花鱼卡片、item.jd.com/100005639990.html 链接及实际引用原图；直接货号页无本款正文",
+      "type": "大陆零售资料"
+    },
+    {
+      "id": "shuanghui-pork-jd-4785602",
+      "title": "双汇带皮五花肉净重 2斤的京东准确商品卡片",
+      "publisher": "京东公开商品资料",
+      "url": "https://www.jd.com/jiage/12218afecfc6e5d630b6c.html",
+      "summary": "公开卡片的双汇冷冻带皮五花肉净重 2斤链接为 4785602；其原图标示双汇及带皮五花肉。",
+      "limitation": "同页另有同名货号 100274552415，未合并两个货号的图片或制造信息。4785602 直接页本次只有通用商城内容；重量来自准确卡片，主图不含净含量和制造背标，当前库存、原猪来源与屠宰分装厂仍待核。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "2026-09-12 读取的公开 HTML：货号 4785602 卡片及其实际引用原图；区分同页 100274552415",
+      "type": "大陆零售资料"
+    },
+    {
+      "id": "shuanghui-esg-2025",
+      "title": "双汇发展 2025 年度环境、社会责任及公司治理报告",
+      "publisher": "河南双汇投资发展股份有限公司 / 新浪财经公告原文",
+      "url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-3/2026-03-25/12014914.PDF",
+      "summary": "报告列员工雇佣、薪酬社保及供应商管理；生猪就近采购约九成是集团汇总。员工福利所称四险一金附有生育与医疗保险合并说明，不能据此认定少缴保险。",
+      "limitation": "公司制度和汇总数据不是所选五花肉或火腿肠生产班组的实际工时、休息和缴费记录。就近采购比例没有指定本款猪肉的产地；质量体系、供应商签署承诺及培训不等于实际劳动合规核验。",
+      "publishedAt": "2026-03-25",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 3 页范围；第 78—79 页（印刷 77—78）供应链；第 83—85 页（印刷 82—84）员工；已目视第 78、83、85 页原页",
+      "type": "企业年度报告"
+    },
+    {
+      "id": "shuanghui-humanrights-2026",
+      "title": "双汇发展人权政策声明（署名 2026 年 1 月）",
+      "publisher": "河南双汇投资发展股份有限公司",
+      "url": "https://www.shuanghui.net/page-82.html",
+      "summary": "官网声明适用于双汇发展全体员工，涉及自愿雇佣、反童工、薪酬公平、职业安全及申诉保护，并倡议供应商、承包商等相关方遵循。",
+      "limitation": "政策承诺没有列出本项目要求的每周 40 小时与两天休息，也没有对应具体养殖、屠宰、分装或冷链班组的实际履行。落款只有月份，不补造精确发布日期。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "官网人权政策声明正文、适用范围及落款 2026 年 1 月；2026-09-12 读取",
+      "type": "企业制度"
+    },
+    {
+      "id": "qingyi-hiring-historical",
+      "title": "青怡农业科技招聘介绍中的历史工作制度线索",
+      "publisher": "青怡农业科技 / 智通直聘",
+      "url": "https://www.job5156.com/gongsi/gs2f57feee3941aa97187246144a288242/",
+      "summary": "招聘介绍写五天八小时，列种养殖基地与蔬菜业务；正文同时说公司成立五年及 2013 年将进入发展阶段。",
+      "limitation": "页面标题的 2026 年不是这段介绍的发布或更新日期。未取得当前农场、分拣和配送岗位的排班，也未对应准确在售蔬菜规格；不能据此新增合规商品。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公司介绍中的五天八小时与 2013 年表述；精确发布日期未取得",
+      "type": "招聘资料"
+    },
+    {
+      "id": "tudouji-city-hiring",
+      "title": "土豆集城市经理的双休招聘线索",
+      "publisher": "土豆集（内蒙古）实业集团有限公司 / 智联招聘",
+      "url": "https://www.zhaopin.com/jobdetail/CCL1219679460J40458905615.htm",
+      "summary": "公开索引将城市经理岗位与土豆集对应，职责涉及区域销售、商超及生鲜渠道，福利列五险一金和周末双休。",
+      "limitation": "直接网页本次为安全验证，仅采用已核公开索引。销售岗位的双休不覆盖马铃薯种植、采收和加工工人；未列每周总工时，也未核到准确家庭装鲜土豆销售规格。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "已核公开索引的岗位职责、雇主介绍和福利；直接页面为 Security Verification；发布日期未取得",
+      "type": "招聘资料"
+    },
+    {
+      "id": "tudouji-sales-copy-mismatch",
+      "title": "土豆集销售助理页面的行业文案差异",
+      "publisher": "智联招聘 / 页面列示土豆集（内蒙古）实业集团有限公司",
+      "url": "https://www.zhaopin.com/jobdetail/CCL1219679460J40463858515.htm",
+      "summary": "公开页面的雇主介绍为马铃薯企业，但宁波销售助理职位正文介绍降温面料销售，福利含周末双休。",
+      "limitation": "两段业务内容不一致，尚未解释；不把该岗位的福利用于土豆种植或加工劳动判断，也不推定页面造假。精确发布日期未取得。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公开页面职位描述与公司介绍对读；2026-09-12 核查",
+      "type": "招聘资料"
     }
   ],
   "companies": [
@@ -5502,41 +5586,56 @@
       "restDays": null,
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
-      "cardNote": "工时与休息资料待补",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已读取望奎双汇 2024 年工厂社会责任报告，包含员工权益与安全管理政策，但没有每周工时和休息日数据；不能套用于其他工厂及本目录商品批次。",
+      "cardNote": "集团制度已补，具体产线待核",
+      "scope": "2025 年集团 ESG 报告、2026 年人权政策与望奎 2024 年工厂报告；本目录火腿肠和带皮五花肉分别对应制造法人。",
+      "finding": "已核集团雇佣、薪酬社保与供应商制度，以及具名公司的全国就业与社会保障表彰；这些资料仍未提供所选商品生产班组的实际每周工时、休息和缴费记录。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "本档案尚未取得实际考勤、加班和每周休息记录。"
+        "本档案尚未取得实际考勤、加班和每周休息记录。",
+        "集团报告所称四险一金附有生育与医疗保险合并说明，不据此认定少缴；制度自述也不能替代实际缴费记录。",
+        "生猪就近采购约九成属于集团汇总，不能推定所选五花肉的原猪产地，也不由外贸业务推定本款使用进口肉。",
+        "望奎 2024 年工厂报告未锁定本目录两款的制造批次，不能套用到全部关联工厂。"
       ],
       "sourceIds": [
         "shuanghui-wangkui-csr-2024",
-        "national-employment-award-2025"
+        "national-employment-award-2025",
+        "shuanghui-esg-2025",
+        "shuanghui-humanrights-2026",
+        "shuanghui-pork-jd-4785602"
       ],
       "supply": [
         {
-          "stage": "品牌与运营",
-          "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "stage": "集团雇佣与福利制度",
+          "status": "policy",
+          "detail": "2025 ESG 与 2026 人权政策列雇佣、薪酬社保及申诉制度，未披露本项目所需的产线实际周工时和逐周休息。",
+          "sourceIds": [
+            "shuanghui-esg-2025",
+            "shuanghui-humanrights-2026"
+          ]
         },
         {
-          "stage": "生产或门店服务",
+          "stage": "屠宰、加工与包装",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
-          "sourceIds": []
+          "detail": "望奎报告是特定工厂历史资料；五花肉与火腿肠各自的当前制造厂、班组和批次仍待锁定。",
+          "sourceIds": [
+            "shuanghui-wangkui-csr-2024",
+            "shuanghui-pork-jd-4785602"
+          ]
         },
         {
-          "stage": "原料、外包与物流",
+          "stage": "原猪养殖、包材与冷链",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
-          "sourceIds": []
+          "detail": "集团采购比例和供应商管理不对应具体原猪、包材厂及运输雇主；相关岗位的实际劳动记录仍待核。",
+          "sourceIds": [
+            "shuanghui-esg-2025",
+            "shuanghui-humanrights-2026"
+          ]
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先以两款当前包装和批次锁定各自制造厂；五花肉另查原猪养殖与屠宰来源，再核生产、派遣、包材与冷链岗位的实际履行。",
       "assessments": [
         {
           "subject": "河南双汇投资发展股份有限公司",
@@ -7612,7 +7711,7 @@
       "id": "guolian",
       "name": "国联水产",
       "legalName": "湛江国联水产开发股份有限公司",
-      "location": "广东湛江；具体虾仁养殖地与加工厂址待核",
+      "location": "广东湛江；所选虾仁与黄花鱼的养殖地、加工厂址分别待核",
       "origin": "china",
       "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
       "level": "research",
@@ -7620,18 +7719,20 @@
       "restDays": null,
       "hoursLabel": "40 小时依据待补",
       "restLabel": "每周两天休息待核",
-      "cardNote": "虾仁原料与产线待核",
-      "scope": "国联水产 2025 年度披露及翡翠生虾仁 200g 的大陆零售资料；养殖、加工与冷链分开核查。",
-      "finding": "已核对明确规格的虾仁包装及历史生产车间线索。零售页原料描述不一致，实际养殖地、当前制造批次与生产劳动记录仍待补。",
+      "cardNote": "虾仁、黄花鱼原料与产线待核",
+      "scope": "国联水产 2025 年度披露，以及翡翠生虾仁 200g 和原条黄花鱼 2斤／3条的大陆零售资料；养殖、加工与冷链分开核查。",
+      "finding": "虾仁包装与历史车间线索已核；黄花鱼已对应京东准确货号。两款当前制造批次、原料来源和生产劳动均未闭合；虾仁同页原料文案差异继续保留。",
       "caveats": [
         "年报中的员工权益自述不等于实际产线每周 40 小时、周休两天。",
         "集团既有国内加工又有全球采购；不能从湛江加工推定所有原料国产，也不能将所有商品认定为进口原料。",
-        "工会的历史人员事迹只提供车间线索，不是当前 200g 商品的劳动认证或批次证明。"
+        "工会的历史人员事迹只提供车间线索，不是当前 200g 商品的劳动认证或批次证明。",
+        "黄花鱼标题中的宁德是销售资料的产地表述，未锁定养殖场；虾仁车间的历史材料不能用于证明黄花鱼加工。"
       ],
       "sourceIds": [
         "guolian-annual-2025",
         "guolian-jade-union-2020",
-        "guolian-jade-suning"
+        "guolian-jade-suning",
+        "guolian-fish-jd-100005639990"
       ],
       "supply": [
         {
@@ -7654,17 +7755,18 @@
         {
           "stage": "养殖、包材与冷链",
           "status": "unknown",
-          "detail": "同页原料文字不一致，养殖地及相关雇佣主体未锁定；供应链劳动履行待核。",
+          "detail": "虾仁原料文字不一致；黄花鱼的宁德表述未对应养殖场和当前批次。两款包材与冷链雇佣主体、实际劳动履行均待核。",
           "sourceIds": [
             "guolian-jade-domestic-copy",
             "guolian-jade-red-copy",
-            "guolian-annual-2025"
+            "guolian-annual-2025",
+            "guolian-fish-jd-100005639990"
           ]
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先补同款清晰背标与批次追溯，澄清虾原料养殖地和加工法人，再核对产线、养殖和冷链岗位的劳动记录。"
+      "nextCheck": "分别补虾仁和黄花鱼同款清晰背标与批次追溯，锁定养殖场、加工法人，再核对产线、养殖和冷链岗位的实际劳动记录。"
     },
     {
       "id": "simao",
@@ -15252,6 +15354,111 @@
           ]
         }
       }
+    },
+    {
+      "id": "guolian-whole-yellow-croaker1kg",
+      "name": "原条黄花鱼净重2斤（3条装）",
+      "brand": "国联水产",
+      "companyId": "guolian",
+      "category": "fresh",
+      "description": "用于清蒸、红烧等家庭烹饪的冷冻整条黄花鱼；零售卡片写净重 2斤、3条，2市斤折合 1kg。",
+      "tags": [
+        "黄花鱼",
+        "冷冻水产",
+        "2斤／3条"
+      ],
+      "needs": [
+        "鱼"
+      ],
+      "url": "https://www.jd.com/jiage/12218dd93738b99482644.html",
+      "relationshipSourceIds": [
+        "guolian-fish-jd-100005639990",
+        "guolian-annual-2025"
+      ],
+      "market": "京东公开卡片对应准确货号 100005639990；直接货号页当前未读到本款报价与地区库存。",
+      "relationship": "准确卡片和原始宣传图对应国联品牌、原条黄花鱼及 2斤／3条；宁德来自销售标题，养殖场与当前制造批次未核。",
+      "image": "images/guolian-whole-yellow-croaker1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/445435/26/10427/145388/6a1e900dF196bd5bf/00833203200b549d.jpg",
+      "imageRights": "国联水产品牌及原图片相关权利人；具体摄影、设计著作权法人未单独核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "京东准确卡片对应 100005639990；直接页只返回通用内容，当前销售主体、报价、地区库存与配送仍待核。",
+          "sourceIds": [
+            "guolian-fish-jd-100005639990"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售标题称宁德大黄鱼，未取得养殖地追溯及生产、分装背标；不能从国联国内基地或虾仁车间材料指定本款产地。",
+          "sourceIds": [
+            "guolian-fish-jd-100005639990",
+            "guolian-annual-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团员工权益自述未对应本款养殖、加工、包材及冷链岗位的实际工时、休息、工资和社保。",
+          "sourceIds": [
+            "guolian-annual-2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shuanghui-pork-belly1kg",
+      "name": "冷冻带皮五花肉净重2斤",
+      "brand": "双汇",
+      "companyId": "shuanghui",
+      "category": "fresh",
+      "description": "适合红烧和烤制的带皮猪五花肉；所选京东卡片净重 2斤，2市斤折合 1kg，独立分装数量未核。",
+      "tags": [
+        "猪肉",
+        "带皮五花肉",
+        "净重2斤"
+      ],
+      "needs": [
+        "猪肉"
+      ],
+      "url": "https://www.jd.com/jiage/12218afecfc6e5d630b6c.html",
+      "relationshipSourceIds": [
+        "shuanghui-pork-jd-4785602",
+        "shuanghui-esg-2025"
+      ],
+      "market": "所选京东卡片货号为 4785602；同页另一同名货号另行区分，当前销售主体与地区供货未核。",
+      "relationship": "该货号卡片写双汇冷冻带皮五花肉净重 2斤，原图品名一致；未取得制造背标，不指定为望奎或其他关联工厂生产。",
+      "image": "images/shuanghui-pork-belly1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/239123/37/23211/136786/6735aa1dF64090f75/0257695a726cd222.jpg",
+      "imageRights": "双汇品牌及原图片相关权利人；具体摄影、设计著作权法人未单独核实",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已对应京东准确卡片及货号 4785602；直接页仅有通用内容，当前报价、地区库存、配送和销售法人待核。",
+          "sourceIds": [
+            "shuanghui-pork-jd-4785602"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "包装制造背标、原猪养殖地与屠宰分装批次未取得；集团的国内业务、就近采购比例和食品安全宣传都不能指定本款产地。",
+          "sourceIds": [
+            "shuanghui-pork-jd-4785602",
+            "shuanghui-esg-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团制度、公司表彰与望奎历史报告未对应本款实际生产班组；养殖、屠宰、分装和冷链的工时、休息、工资社保均待核。",
+          "sourceIds": [
+            "shuanghui-esg-2025",
+            "shuanghui-humanrights-2026",
+            "shuanghui-wangkui-csr-2024",
+            "national-employment-award-2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -15478,7 +15685,7 @@
           "query": "虾"
         }
       ],
-      "note": "已补恒都国产原切牛腩 2斤（3:7）和宁鑫去骨羊腿肉 400g 的准确货号；产地追溯、当前可售和实际劳动均待核。橙子当前原页未能对应缓存中的 5kg 规格，金穗有境内外基地及单双休差异，宏辉和百果园政策未对应具体水果生产者。柑橘、香蕉、葡萄、蔬菜、土豆、猪肉和鱼仍有缺口；进口喂养原料与成品产地继续分开记录。",
+      "note": "新增国联原条黄花鱼净重2斤／3条及双汇带皮五花肉净重2斤的准确货号，生鲜研究覆盖8／13项；当前可售、生产批次和实际劳动仍待核。柑橘、香蕉、葡萄、蔬菜、土豆仍有缺口。青怡招聘正文停留于2013年前后，土豆集双休线索属于销售岗位且有文案差异；农场实际用工不能据此补齐。橙子原页未对应缓存5kg规格，境内外基地、成品与原料产地继续分开核查。",
       "sourceIds": [
         "national-harmony-2022",
         "nxnk-lianhu-production-2026",
@@ -15516,7 +15723,14 @@
         "nongfu-orange-jd-recheck",
         "jinsui-agriculture-hiring",
         "honghui-fruit-labor-2025",
-        "pagoda-labor-policy-2025"
+        "pagoda-labor-policy-2025",
+        "guolian-fish-jd-100005639990",
+        "shuanghui-pork-jd-4785602",
+        "shuanghui-esg-2025",
+        "shuanghui-humanrights-2026",
+        "qingyi-hiring-historical",
+        "tudouji-city-hiring",
+        "tudouji-sales-copy-mismatch"
       ]
     },
     {
