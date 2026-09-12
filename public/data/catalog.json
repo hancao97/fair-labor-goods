@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "categories": [
     {
       "id": "food",
@@ -15,7 +15,7 @@
     {
       "id": "drinks",
       "name": "饮料酒水",
-      "description": "牛奶、饮用水、茶饮、果汁、啤酒与白酒"
+      "description": "牛奶、饮用水、茶、果汁、啤酒、白酒与葡萄酒"
     },
     {
       "id": "clothing",
@@ -55,12 +55,12 @@
     {
       "id": "transport",
       "name": "出行住宿",
-      "description": "自行车、电动车与境内住宿"
+      "description": "自行车、电动车、境内住宿、行李箱与雨伞"
     },
     {
       "id": "cars",
       "name": "汽车",
-      "description": "家用轿车、SUV、MPV与新能源汽车"
+      "description": "家用轿车、SUV、MPV、新能源汽车与轮胎"
     },
     {
       "id": "housing",
@@ -6635,6 +6635,138 @@
       "locator": "2026-04-29公告，主营业务、生产模式及员工薪酬附注",
       "summary": "年报披露采用自主生产与外包生产结合的模式，介绍新品及中高端产品自主制造与外包成本管理；员工薪酬财务附注列相关计提。",
       "limitation": "已按页面GBK声明读取2025年度年报。生产模式没有逐一指明FH6232或FS891的实际制造法人；社保计提不是缴费覆盖或综合守法结论，也不将历史代工名单和其他型号工厂自动对应本款。"
+    },
+    {
+      "id": "tiantang-33188e-navy-jd",
+      "title": "天堂伞33188E藏青色十骨晴雨伞京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/1620781afe778973e316.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日准确卡片10042015500299，33188E、藏青色、十骨、黑胶",
+      "summary": "准确卡片提供33188E藏青色十骨折叠晴雨伞的国内商品入口和对应原图。",
+      "limitation": "原始卡片与引用图片已核对，直接货号页为通用框架。不是其他后缀或印字定制选项；图中防晒、抗风广告未经独立测试，图片没有可读制造标签，地区库存和价格以商家为准。"
+    },
+    {
+      "id": "tiantang-33188e-dianli",
+      "title": "点礼33188E藏青色晴雨伞规格与品牌介绍",
+      "publisher": "点礼",
+      "type": "商家产品规格资料",
+      "url": "https://www.dianlinet.com/Index/index/detail/id/152177.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "33188E藏青色标题、61cm/10K规格及品牌介绍",
+      "summary": "页面明确61cm、10骨、三折晴雨伞，品牌介绍具名杭州天堂伞业集团有限公司，与所选京东型号及颜色一致。",
+      "limitation": "已读原始网页。品牌介绍不是本款生产标签，未据此确认具体制造企业；UPF和抗风宣传未独立测定。页面底部要求商业注册，未提交注册或联系方式。"
+    },
+    {
+      "id": "changyu-n158-750-jd",
+      "title": "张裕第九代N158特选级解百纳750mL京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/122592b63fd891ef630a6.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日准确卡片6098304，第九代N158、特选级、蛇龙珠、750ML×1",
+      "summary": "准确零售卡片提供N158第九代特选级解百纳干红葡萄酒750mL单瓶及独立商品入口。",
+      "limitation": "卡片与对应原图已核，数字详情页为通用框架。不合并N118、N98、248mL或礼盒多瓶选项；未从小图读取酒精度、年份或制造商，广告销售排名未独立核实。"
+    },
+    {
+      "id": "changyu-n158-suning",
+      "title": "张裕N158第九代750mL苏宁产地与包装资料",
+      "publisher": "苏宁易购",
+      "type": "零售产品及产地资料",
+      "url": "https://product.suning.com/0000000000/10187840430.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品10187840430，N158第九代、750mL单瓶、国产、中国山东烟台市及同页图库",
+      "summary": "准确页面列N158第九代特选级解百纳、蛇龙珠、750mL单瓶及中国山东烟台产地，图库含对应N158正背标照片。",
+      "limitation": "原始参数已读。参数写13度，图库注明13%vol或13.5%vol及2020或2021年份随机发，未把任一值固定为所选京东现供规格；两家渠道的赠品及供货分别确认。苏宁隐藏模板不用于判断全国停售，主要购买依据另列京东准确卡片。"
+    },
+    {
+      "id": "changyu-n158-label",
+      "title": "张裕N158 750mL正背标：具名烟台生产企业",
+      "publisher": "苏宁易购商品图库",
+      "type": "零售包装标签照片",
+      "url": "https://imgservice.suning.cn/uimg1/b2c/image/Rdef0DAv4dhZc8QjDwJ7-A.jpg_800w_800h_4e",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "同页第三张图库，N158正标与750mL背标、公司名称及烟台地址",
+      "summary": "完整图片已目视核对：正标N158，背标净含量750mL、烟台张裕葡萄酿酒股份有限公司、烟台市大马路56号；与同款零售产地交叉支持境内生产主体。",
+      "limitation": "图片是商家展示的包装样例，注明2020或2021年份、13.5%vol或13%vol随机发，不充当当前发货批次或固定年份保证。未将标签地址扩大为全部葡萄园与工厂范围；酒精度和年份不写成固定销售选项。"
+    },
+    {
+      "id": "changyu-csr2025",
+      "title": "张裕2025年社会责任报告：劳动合同、薪酬与休息制度",
+      "publisher": "烟台张裕葡萄酿酒股份有限公司（东方财富托管披露）",
+      "type": "企业社会责任披露",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202604171821303413_1.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF第31—32页（印刷29—30），员工权益及生产部门薪酬；报告说明合并范围",
+      "summary": "报告披露劳动合同签订、社保和住房公积金、工作时数及加班调休制度，说明生产部门工资由标准工资、绩效和福利补贴组成。",
+      "limitation": "报告全文已取得，第32页已目视核对；这是公司2025年度及合并范围披露，未取得适用的综合政府劳动结果或独立劳动审核。报告上传路径日期不冒充确定公告日，境内员工统计不用于证明每位工人的国籍。"
+    },
+    {
+      "id": "sailun-e01-205-55r16-jd",
+      "title": "赛轮E01+ 205/55R16 94V轮胎京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/6728a72ff3af4d2ce8fa.html?electedExtAttrSet=3386%2C&extAttrValue=expand_name%2C%40181873%3A%3A3386&sort_type=sort_redissale_desc",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日准确卡片100362282620，E01+、205/55R16、94V",
+      "summary": "原始准确卡片提供赛轮液体黄金E01+轮胎205/55R16 94V，链接到独立国内零售货号；原图系列名对应E01+。",
+      "limitation": "卡片及引用原图已核，直接货号页为通用框架。所选94V不能与同宽度91H、91V或其他花纹型号合并；图片没有可读制造侧壁，图中质保和性能广告未独立核验，车型适配须按车辆规定规格确认。"
+    },
+    {
+      "id": "sailun-csr2025-sa8000",
+      "title": "赛轮2025年度报告：SA8000披露与SGS鉴证范围",
+      "publisher": "赛轮集团股份有限公司（巨潮资讯披露）",
+      "type": "企业可持续发展披露及报告鉴证",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-28/1225201467.PDF",
+      "publishedAt": "2026-04-28",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF第2、86、95、110、119页（印刷1、85、94、109、118）",
+      "summary": "报告披露七家持续运营工厂通过SA8000、2025年集体协议涉及工资福利、工时休息等，并列劳动合同和社保指标。末页附件的SGS声明采用ISAE 3000有限保证，对2025年报告信息开展鉴证。",
+      "limitation": "已取得全文并目视第119页两页鉴证声明。七家工厂为全球范围，不能直接指定所选94V轮胎的中国工厂；SGS报告鉴证不是该轮胎工厂SA8000发证记录，也不能据此指定SA8000签发机构。SAI公开查询本次受限，未独立核到具名工厂、证书号与有效期。"
+    },
+    {
+      "id": "sai-sa8000-sailun-access",
+      "title": "SAI官方SA8000企业目录与本次赛轮查询限制",
+      "publisher": "Social Accountability International",
+      "type": "认证机构公开查询入口",
+      "url": "https://sa-intl.org/sa8000-search/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "官方目录说明及中国、Sailun条件的正常公开查询",
+      "summary": "官方页面说明提供现有和历史SA8000获证组织查询；本次读取页面及公开表单逻辑后，按中国和Sailun条件进行一次查询。",
+      "limitation": "页面可读，但公开查询请求返回403，未取得企业结果。没有结果不能解释为赛轮未获证、失效或被撤回；未绕过访问限制、执行远程脚本或尝试受条件限制的导出。"
+    },
+    {
+      "id": "oiwas-ocx6708-20-jd",
+      "title": "爱华仕OCX6708-20星空蓝行李箱京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/17329403e5c54d7d62892.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日准确卡片10205178920406，OCX6708-20、星空蓝、万向轮拉杆箱",
+      "summary": "准确卡片提供爱华仕OCX6708-20星空蓝行李箱、国内商品货号及对应原图。",
+      "limitation": "准确卡片及原图已核，直接货号页为通用框架。未把OCX6708-24的尺寸、材质及积分兑换资料移用于本款；完整型号后缀不换算成确定外尺寸，图片没有可读制造标签。"
+    },
+    {
+      "id": "oiwas-about2026",
+      "title": "爱华仕2026年品牌与企业介绍",
+      "publisher": "广东爱华仕箱包集团有限公司",
+      "type": "企业官方介绍",
+      "url": "https://www.oiwas.com/NewsList/info.aspx?itemid=102",
+      "publishedAt": "2026-06-17",
+      "checkedAt": "2026-09-12",
+      "locator": "2026-06-17品牌介绍及页脚公司名称、惠州地址",
+      "summary": "官网具名广东爱华仕箱包集团有限公司，介绍品牌在惠州、研发生产营销物流一体及国内线上线下渠道。",
+      "limitation": "原始正文已读。公司及品牌介绍没有逐款对应OCX6708-20的生产标签；设计奖、守合同重信用与商标保护称号不属于综合劳动守法评价，也不自动把历史成员公司指定为本款制造厂。"
     }
   ],
   "companies": [
@@ -14692,6 +14824,224 @@
         }
       ],
       "nextCheck": "先核FH6232、FS891准确制造标签或逐型号生产声明，再对应实际法人的新劳动资料；没有新链接时不重复受限名单、历史代工记录或不同型号抽查。"
+    },
+    {
+      "origin": "china",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "劳动依据待补",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "tiantang-hangzhou",
+      "name": "天堂伞",
+      "legalName": "杭州天堂伞业集团有限公司",
+      "location": "浙江省杭州市（品牌企业所在地，所选款制造标签待补）",
+      "originNote": "天堂伞品牌介绍具名杭州企业；具体33188E的境内制造主体仍待对应。",
+      "cardNote": "33188E款式已对应 · 制造和劳动待核",
+      "scope": "杭州天堂伞业集团有限公司品牌资料及33188E藏青色十骨三折晴雨伞。",
+      "finding": "所选33188E的准确国内入口、颜色和十骨规格明确；品牌介绍尚未代替制造标签，本次未取得适用的综合劳动结果。",
+      "caveats": [
+        "中国品牌所在地不自动证明每个型号的制造工厂。",
+        "防晒、抗风及产品质量宣传不用于判断劳动守法。",
+        "未查到适用劳动结果不等于企业违法。"
+      ],
+      "sourceIds": [
+        "tiantang-33188e-navy-jd",
+        "tiantang-33188e-dianli"
+      ],
+      "supply": [
+        {
+          "stage": "具体款式与国内零售",
+          "status": "verified",
+          "detail": "所选京东10042015500299与点礼资料同为33188E藏青色、十骨三折晴雨伞。",
+          "sourceIds": [
+            "tiantang-33188e-navy-jd",
+            "tiantang-33188e-dianli"
+          ]
+        },
+        {
+          "stage": "品牌与制伞企业",
+          "status": "policy",
+          "detail": "商家品牌介绍具名杭州天堂伞业集团有限公司，尚缺本款制造标签对应。",
+          "sourceIds": [
+            "tiantang-33188e-dianli"
+          ]
+        },
+        {
+          "stage": "制造岗位劳动",
+          "status": "unknown",
+          "detail": "本次未取得可对应所选制造企业的综合政府劳动结果或可核验独立劳动审核。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现33188E具名生产标签或适用的正式劳动评价、独立审核记录时继续；历史拟表彰名单及其他尺寸质量抽查不重复用于本款。"
+    },
+    {
+      "origin": "china",
+      "level": "disclosure",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "企业工时与加班调休制度",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "changyu-yantai",
+      "name": "张裕",
+      "legalName": "烟台张裕葡萄酿酒股份有限公司",
+      "location": "山东省烟台市大马路56号（N158展示背标地址）",
+      "originNote": "N158、750mL同款展示背标具名烟台张裕及烟台地址，零售产地为中国山东烟台；不从地点推断每位工人的国籍。",
+      "cardNote": "N158制造企业已对应 · 劳动披露待核实",
+      "scope": "N158第九代特选级解百纳750mL、烟台张裕葡萄酿酒股份有限公司及2025年公司合并范围披露。",
+      "finding": "准确零售卡片和N158包装样例可对应750mL及烟台生产主体。2025年报告有合同、工资、社保和加班调休制度，仍缺适用的综合政府劳动结果或独立劳动审核。",
+      "caveats": [
+        "包装样例标注年份和酒精度随机发，不作为现供固定年份或生产日期。",
+        "公司报告的合并范围指标没有自动成为独立劳动结论。",
+        "酒庄、种植基地和委托销售主体不能与同一品牌的股份公司混同。"
+      ],
+      "sourceIds": [
+        "changyu-n158-750-jd",
+        "changyu-n158-suning",
+        "changyu-n158-label",
+        "changyu-csr2025"
+      ],
+      "supply": [
+        {
+          "stage": "葡萄酒制造与国内零售",
+          "status": "verified",
+          "detail": "N158第九代750mL准确国内卡片与同款正背标、烟台产地交叉对应具名生产企业。",
+          "sourceIds": [
+            "changyu-n158-750-jd",
+            "changyu-n158-suning",
+            "changyu-n158-label"
+          ]
+        },
+        {
+          "stage": "员工合同、薪酬与休息制度",
+          "status": "policy",
+          "detail": "2025年公司报告披露劳动合同、社保公积金、工时和加班调休制度，以及生产部门薪酬结构。",
+          "sourceIds": [
+            "changyu-csr2025"
+          ]
+        },
+        {
+          "stage": "葡萄种植及其他雇主",
+          "status": "unknown",
+          "detail": "各葡萄园及外部服务的实际雇主没有逐一核对，作为补充信息记录，不要求全链逐人资料作为统一门槛。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "优先补烟台张裕适用的政府综合劳动结果或独立劳动审核；新制造关系或标签变更出现时再复核，不反复用报告自述代替独立结论。"
+    },
+    {
+      "origin": "china",
+      "level": "disclosure",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "集体协议工时与休息披露",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "sailun-group",
+      "name": "赛轮轮胎",
+      "legalName": "赛轮集团股份有限公司",
+      "location": "山东省青岛市市北区郑州路43号（集团地址，所选轮胎工厂待核）",
+      "originNote": "赛轮为中国企业，但2025年报告包括境内和海外工厂；不能由集团总部确认所选E01+ 94V的国内制造地点。",
+      "cardNote": "SA8000有企业披露 · 发证记录待核",
+      "scope": "赛轮集团2025年全球工厂披露与E01+ 205/55R16 94V国内零售记录，所选实际制造工厂尚待对应。",
+      "finding": "准确型号和国内入口已找到。报告披露七家持续运营工厂通过SA8000及集体协议，SAI查询本次受限，未独立确认具名工厂和证书期限；SGS附件为报告信息鉴证。",
+      "caveats": [
+        "七家工厂的全球汇总不能对应为所选94V轮胎的中国制造厂。",
+        "SGS报告鉴证与工厂SA8000审核分别记录，未推断同一签发机构。",
+        "查询受限不等于没有认证、认证撤回或企业违法。"
+      ],
+      "sourceIds": [
+        "sailun-e01-205-55r16-jd",
+        "sailun-csr2025-sa8000",
+        "sai-sa8000-sailun-access"
+      ],
+      "supply": [
+        {
+          "stage": "轮胎型号与国内零售",
+          "status": "verified",
+          "detail": "京东100362282620准确卡片列E01+、205/55R16、94V；制造侧壁信息待补。",
+          "sourceIds": [
+            "sailun-e01-205-55r16-jd"
+          ]
+        },
+        {
+          "stage": "SA8000与集体协议披露",
+          "status": "policy",
+          "detail": "2025年报告披露七家持续运营工厂认证及工资、工时休息等集体协议内容，尚缺独立发证记录。",
+          "sourceIds": [
+            "sailun-csr2025-sa8000",
+            "sai-sa8000-sailun-access"
+          ]
+        },
+        {
+          "stage": "具体工厂与生产劳动",
+          "status": "unknown",
+          "detail": "实际制造工厂未对应，不能借用同尺寸其他载重速度等级的生产资料或集团汇总认证。",
+          "sourceIds": [
+            "sailun-e01-205-55r16-jd",
+            "sailun-csr2025-sa8000"
+          ]
+        }
+      ],
+      "nextCheck": "有E01+ 205/55R16 94V明确制造侧壁、具名证书号或可公开查验的发证记录时继续；没有新线索不重试受限查询或验证码目录。"
+    },
+    {
+      "origin": "china",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "劳动依据待补",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "oiwas-guangdong",
+      "name": "爱华仕箱包",
+      "legalName": "广东爱华仕箱包集团有限公司",
+      "location": "广东省惠州市惠城区菱湖三路6号（官网公司地址）",
+      "originNote": "官网具名广东企业与惠州地址，所选OCX6708-20的实际生产标签仍待核对。",
+      "cardNote": "OCX6708-20款式明确 · 制造和劳动待核",
+      "scope": "广东爱华仕箱包集团有限公司2026年官方介绍与OCX6708-20星空蓝行李箱。",
+      "finding": "OCX6708-20星空蓝款准确京东货号与原图已对应。官网有研发生产及国内渠道介绍，但未逐款具名制造厂；本次未取得适用的综合劳动依据。",
+      "caveats": [
+        "集团、历史成员企业与本款实际制造企业分别对应。",
+        "OCX6708-24同系列的材质和尺寸不移用于OCX6708-20。",
+        "设计奖、守合同重信用、品牌与商标荣誉不是综合劳动评价。"
+      ],
+      "sourceIds": [
+        "oiwas-ocx6708-20-jd",
+        "oiwas-about2026"
+      ],
+      "supply": [
+        {
+          "stage": "行李箱款式与国内零售",
+          "status": "verified",
+          "detail": "京东10205178920406对应OCX6708-20、星空蓝和万向轮拉杆箱。",
+          "sourceIds": [
+            "oiwas-ocx6708-20-jd"
+          ]
+        },
+        {
+          "stage": "品牌研发与生产介绍",
+          "status": "policy",
+          "detail": "官网介绍公司位于惠州并整合研发、生产、营销和物流，但未列本款制造标签。",
+          "sourceIds": [
+            "oiwas-about2026"
+          ]
+        },
+        {
+          "stage": "箱包制造岗位劳动",
+          "status": "unknown",
+          "detail": "尚未取得适用于本款实际制造企业的综合劳动结果，商业信用与设计荣誉不替代劳动审核。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "有OCX6708-20具名制造标签或适用劳动评价、独立审核时继续；不从旧成员公司、质量荣誉和其他尺寸反复推断。"
     }
   ],
   "products": [
@@ -25159,6 +25509,221 @@
       "imageMode": "contain",
       "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/387442/38/18782/56377/69798225Fc66aeae6/0083320320ab7888.jpg",
       "imageRights": "飞科品牌、零售图片提供方及原摄影和肖像相关权利人；确切图片著作权法人未核实"
+    },
+    {
+      "id": "tiantang-33188e-navy",
+      "name": "33188E黑胶三折晴雨伞 · 藏青色十骨",
+      "brand": "天堂伞",
+      "companyId": "tiantang-hangzhou",
+      "category": "transport",
+      "needs": [
+        "雨伞"
+      ],
+      "description": "33188E藏青色黑胶三折晴雨伞，61cm、10骨，京东货号10042015500299。",
+      "tags": [
+        "雨伞",
+        "晴雨伞",
+        "33188E",
+        "三折",
+        "十骨",
+        "藏青色"
+      ],
+      "url": "https://item.jd.com/10042015500299.html",
+      "market": "准确京东条目提供33188E藏青色的国内购买入口，价格、库存与配送范围以商家为准。",
+      "relationship": "准确零售型号与商家规格相符，品牌介绍具名杭州天堂伞业集团有限公司；本款制造标签尚未取得。",
+      "relationshipSourceIds": [
+        "tiantang-33188e-navy-jd",
+        "tiantang-33188e-dianli"
+      ],
+      "image": "images/tiantang-33188e-navy.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/122345/7/22898/83546/62405bf4E16364aee/f06baafc9a12a85b.jpg",
+      "imageRights": "天堂伞品牌、零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前准确卡片列33188E藏青色、十骨及独立国内商品货号，与原图对应。",
+          "sourceIds": [
+            "tiantang-33188e-navy-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "品牌介绍具名杭州企业，但本款尚缺制造标签，不能仅由品牌地址确定实际生产企业。",
+          "sourceIds": [
+            "tiantang-33188e-dianli",
+            "tiantang-33188e-navy-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "本次未取得适用于所选实际制造企业的综合政府劳动结果或可核验独立劳动审核。",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "changyu-n158-750",
+      "name": "第九代N158特选级解百纳干红 · 750mL单瓶",
+      "brand": "张裕",
+      "companyId": "changyu-yantai",
+      "category": "drinks",
+      "needs": [
+        "葡萄酒"
+      ],
+      "description": "第九代N158特选级解百纳蛇龙珠干红葡萄酒，750mL单瓶，京东货号6098304。年份和酒精度以现售选项及瓶身为准。",
+      "tags": [
+        "葡萄酒",
+        "干红",
+        "N158",
+        "解百纳",
+        "蛇龙珠",
+        "750mL"
+      ],
+      "url": "https://item.jd.com/6098304.html",
+      "market": "准确京东6098304卡片对应750mL单瓶，结算价格、配送、年份及赠品以该选项为准。",
+      "relationship": "所选N158、750mL与同款零售产地及正背标相符，背标具名烟台张裕葡萄酿酒股份有限公司、烟台市大马路56号。包装样例不作为现供批次保证。",
+      "relationshipSourceIds": [
+        "changyu-n158-750-jd",
+        "changyu-n158-suning",
+        "changyu-n158-label"
+      ],
+      "image": "images/changyu-n158-750.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/194456/7/55362/50691/6757b073F80552384/56edcc6af52302c3.jpg",
+      "imageRights": "张裕品牌、零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前准确京东卡片对应第九代N158特选级750mL单瓶及独立国内商品号。",
+          "sourceIds": [
+            "changyu-n158-750-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "同款N158正背标可读750mL、烟台张裕葡萄酿酒股份有限公司及烟台地址，零售资料列中国山东烟台产地。",
+          "sourceIds": [
+            "changyu-n158-label",
+            "changyu-n158-suning"
+          ],
+          "subject": "烟台张裕葡萄酿酒股份有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2025年报告披露合同、社保、生产薪酬及加班调休制度；尚缺适用的综合政府劳动结果或独立劳动审核。",
+          "sourceIds": [
+            "changyu-csr2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sailun-e01-205-55r16",
+      "name": "液体黄金E01+轮胎 · 205/55R16 94V",
+      "brand": "赛轮",
+      "companyId": "sailun-group",
+      "category": "cars",
+      "needs": [
+        "轮胎"
+      ],
+      "description": "赛轮液体黄金E01+轮胎，规格205/55R16 94V，京东货号100362282620。按车辆规定规格核对选用。",
+      "tags": [
+        "轮胎",
+        "E01+",
+        "205/55R16",
+        "94V",
+        "液体黄金"
+      ],
+      "url": "https://item.jd.com/100362282620.html",
+      "market": "准确京东条目提供E01+ 205/55R16 94V国内入口，价格、安装与配送由商家确认。",
+      "relationship": "准确卡片与E01+原图对应，集团报告包含境内外工厂；没有从集团地址或同尺寸91H资料指定本款实际制造工厂。",
+      "relationshipSourceIds": [
+        "sailun-e01-205-55r16-jd",
+        "sailun-csr2025-sa8000"
+      ],
+      "image": "images/sailun-e01-205-55r16.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/388645/35/2858/180403/696848beFadf05533/0083320320f9d9ba.jpg",
+      "imageRights": "赛轮品牌、零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前准确京东卡片同时列E01+、205/55R16、94V和独立国内货号。",
+          "sourceIds": [
+            "sailun-e01-205-55r16-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "所看原图未提供制造侧壁，集团有境内外工厂，当前未确定这款94V的具体中国生产工厂。",
+          "sourceIds": [
+            "sailun-e01-205-55r16-jd",
+            "sailun-csr2025-sa8000"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "SA8000有集团2025年披露，官方查询本次受限，尚未独立对应具体工厂、证书状态与期限；SGS报告鉴证没有替代该项核验。",
+          "sourceIds": [
+            "sailun-csr2025-sa8000",
+            "sai-sa8000-sailun-access"
+          ]
+        }
+      }
+    },
+    {
+      "id": "oiwas-ocx6708-20-blue",
+      "name": "OCX6708-20万向轮拉杆箱 · 星空蓝",
+      "brand": "爱华仕",
+      "companyId": "oiwas-guangdong",
+      "category": "transport",
+      "needs": [
+        "行李箱"
+      ],
+      "description": "OCX6708-20星空蓝万向轮拉杆行李箱，京东货号10205178920406。",
+      "tags": [
+        "行李箱",
+        "拉杆箱",
+        "OCX6708-20",
+        "星空蓝",
+        "万向轮"
+      ],
+      "url": "https://item.jd.com/10205178920406.html",
+      "market": "准确京东条目提供OCX6708-20星空蓝的国内购买入口，现售尺寸、价格和配送以商家为准。",
+      "relationship": "所选OCX6708-20星空蓝准确货号及原图已对应爱华仕品牌，官网具名广东爱华仕箱包集团有限公司，尚无本款制造标签。",
+      "relationshipSourceIds": [
+        "oiwas-ocx6708-20-jd",
+        "oiwas-about2026"
+      ],
+      "image": "images/oiwas-ocx6708-20-blue.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/375755/14/8004/84268/693bd2fdF9e7ac435/75cc19636efac721.jpg",
+      "imageRights": "爱华仕品牌、零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前准确京东卡片对应OCX6708-20星空蓝及独立国内商品号。",
+          "sourceIds": [
+            "oiwas-ocx6708-20-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "公司官网介绍惠州企业的研发生产，但没有逐款具名OCX6708-20的制造厂，原图无可读生产标签。",
+          "sourceIds": [
+            "oiwas-about2026",
+            "oiwas-ocx6708-20-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚缺本款实际制造企业适用的综合劳动评价或独立劳动审核；设计及商业信用荣誉不作为劳动结论。",
+          "sourceIds": [
+            "oiwas-about2026"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -25558,7 +26123,7 @@
           "query": "冲调饮品"
         }
       ],
-      "note": "正式收录口子窖六年型41%vol 450mL、金惟他多维葡萄糖固体饮料300g和迎驾山泉550mL×24瓶。新增唯甄豆奶250mL×24盒的具体销售条目，历史成都制造批次未直接套到现售箱装；豆奶、牛奶、酸奶、茶、咖啡等保留各自制造或劳动缺口。葡萄酒仍缺具体记录。",
+      "note": "饮料酒水11项需求均有具体研究资料。口子窖六年型41%vol 450mL、金惟他多维葡萄糖300g和迎驾山泉550mL×24瓶保留正式收录；新增N158第九代特选级解百纳750mL单瓶，国内入口和烟台制造主体已对应，劳动依据待补。其余商品保留各自缺口，研究覆盖不等于正式收录。",
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
@@ -25592,7 +26157,11 @@
         "yingjia-water550-luan2025",
         "yingjia-water550x24-jd",
         "doubendou-weizhen250x24-jd",
-        "doubendou-weizhen250-chengdu-sampling2024"
+        "doubendou-weizhen250-chengdu-sampling2024",
+        "changyu-n158-750-jd",
+        "changyu-n158-suning",
+        "changyu-n158-label",
+        "changyu-csr2025"
       ]
     },
     {
@@ -26191,7 +26760,7 @@
           "query": "雨伞"
         }
       ],
-      "note": "出行资料现涵盖自行车、电动车、公交及酒店；灵璧城区 1 路单次乘车和淮北口子酒店具体房型已有正式收录。摩托车、铁路、行李箱及雨伞仍需补充具名制造或服务企业的具体产品。",
+      "note": "出行住宿8项需求中6项已有具体研究资料。新增天堂伞33188E藏青十骨和爱华仕OCX6708-20星空蓝行李箱，两款已有准确国内入口，制造及劳动依据待补。灵璧城区1路单次乘车与淮北口子酒店具体房型保留正式收录；摩托车、铁路仍缺具体商品或服务。",
       "sourceIds": [
         "sofitel-haikou-campus",
         "huaibei-labor-2025",
@@ -26201,7 +26770,11 @@
         "suzhou-labor-2024",
         "lingbi-bus-register-2026",
         "lingbi-bus-fares-2026",
-        "lingbi-bus-rules-2026"
+        "lingbi-bus-rules-2026",
+        "tiantang-33188e-navy-jd",
+        "tiantang-33188e-dianli",
+        "oiwas-ocx6708-20-jd",
+        "oiwas-about2026"
       ]
     },
     {
@@ -26232,13 +26805,16 @@
           "query": "MPV"
         }
       ],
-      "note": "新增正式收录的2024款奔驰V 300领航版（44881313-CNB），对应国内订购、福建制造法人和2024年度劳动A级评价，保留年度并短期复核。吉利银河E5 530km启航版继续补2026款制造及劳动证据；轿车、插混和轮胎仍有缺口。",
+      "note": "汽车6项需求中4项已有具体研究资料。2024款奔驰V 300领航版（44881313-CNB）保留正式收录；新增赛轮E01+ 205/55R16 94V轮胎准确国内条目，制造工厂和SA8000独立发证记录仍待对应。吉利银河E5继续补制造与劳动依据，轿车和插混汽车仍缺具体记录。",
       "sourceIds": [
         "national-harmony-2022",
         "fuzhou-labor-2024",
         "benz-v300-pilot-official",
         "benz-v300-pilot-maker-spec",
-        "benz-fuzhou-production-2024"
+        "benz-fuzhou-production-2024",
+        "sailun-e01-205-55r16-jd",
+        "sailun-csr2025-sa8000",
+        "sai-sa8000-sailun-access"
       ]
     },
     {

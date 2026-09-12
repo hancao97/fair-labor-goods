@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "assets": [
     {
       "id": "anker-nano-65w",
@@ -7831,6 +7831,110 @@
         "sha256": "06539db2b0d0ff1cbaf037c2e3798abc080e8d848ee2a7cdf86ef336312f5186"
       },
       "filename": "images/robam-57b2d-gas12t.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "tiantang-33188e-navy",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/122345/7/22898/83546/62405bf4E16364aee/f06baafc9a12a85b.jpg",
+      "source_url": "https://www.jd.com/jiage/1620781afe778973e316.html",
+      "product_url": "https://item.jd.com/10042015500299.html",
+      "title": "天堂伞33188E藏青色十骨晴雨伞",
+      "width": 220,
+      "height": 220,
+      "bytes": 7934,
+      "sha256": "9a7be1034102fa48a98ac9c6abbf6840ccb35e1f2e0ceaa376abaaea09255d82",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已目视原图：藏青黑色折叠伞配同款展开角度，图片写10骨、黑胶；两种展示角度不是两把装。型号、颜色来自准确卡片，没有可读生产标签；抗风与防晒广告不作为已核验性能。",
+      "reuse_info": {
+        "rights_holder": "天堂伞品牌、零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+        "license": "公开商品展示图；未发现开放许可声明，未宣称取得授权或排他权利。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 14441,
+        "sha256": "b7f8d791451285d5f6e51f409da9e358d3b24a410dae0f4ec1c5522ca64c9d42"
+      },
+      "filename": "images/tiantang-33188e-navy.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "changyu-n158-750",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/194456/7/55362/50691/6757b073F80552384/56edcc6af52302c3.jpg",
+      "source_url": "https://www.jd.com/brand/122592b63fd891ef630a6.html",
+      "product_url": "https://item.jd.com/6098304.html",
+      "title": "张裕第九代N158特选级解百纳750mL单瓶",
+      "width": 220,
+      "height": 220,
+      "bytes": 5480,
+      "sha256": "9577a6102844c84d6bc7011c98f0b74d64c49f468dbe3cf970613a3e14357bee",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已目视准确卡片原图：黑色单瓶和金色标签的商品宣传图。N158、第九代与750mL单瓶由卡片确认，未从220px图片猜测酒精度、年份或制造小字；市场排名广告未独立核实。",
+      "reuse_info": {
+        "rights_holder": "张裕品牌、零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+        "license": "公开商品展示图；未发现开放许可声明，未宣称取得授权或排他权利。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 10453,
+        "sha256": "44fb4ea53f43ddbcd36f4491a63be6d58e9804c7fa00581330877fd74ac42759"
+      },
+      "filename": "images/changyu-n158-750.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "sailun-e01-205-55r16",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/388645/35/2858/180403/696848beFadf05533/0083320320f9d9ba.jpg",
+      "source_url": "https://www.jd.com/brand/6728a72ff3af4d2ce8fa.html?electedExtAttrSet=3386%2C&extAttrValue=expand_name%2C%40181873%3A%3A3386&sort_type=sort_redissale_desc",
+      "product_url": "https://item.jd.com/100362282620.html",
+      "title": "赛轮E01+ 205/55R16 94V轮胎",
+      "width": 220,
+      "height": 220,
+      "bytes": 15284,
+      "sha256": "ec18324d569570102edf65fd51f2983c2db2e2971fde9540b5efb4afef7a3c2b",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已目视原图：E01+标题下轮胎与轮圈的产品展示。205/55R16 94V来自准确卡片，未从不可读侧壁确认制造商，图中轮圈不作为已确认的销售附件；质保和性能宣传不转为本项目结论。",
+      "reuse_info": {
+        "rights_holder": "赛轮品牌、零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+        "license": "公开商品展示图；未发现开放许可声明，未宣称取得授权或排他权利。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 24997,
+        "sha256": "7a9f13fc8cba4cd8d86a9bf6b09762440ed02773c36382d77ad8600aef7db7ee"
+      },
+      "filename": "images/sailun-e01-205-55r16.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "oiwas-ocx6708-20-blue",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/375755/14/8004/84268/693bd2fdF9e7ac435/75cc19636efac721.jpg",
+      "source_url": "https://www.jd.com/jiage/17329403e5c54d7d62892.html",
+      "product_url": "https://item.jd.com/10205178920406.html",
+      "title": "爱华仕OCX6708-20星空蓝行李箱",
+      "width": 220,
+      "height": 220,
+      "bytes": 7884,
+      "sha256": "673b322675f0ea688ffe65a491b0552f2ef46b1e9ac5dc121af41e638c96af85",
+      "checkedAt": "2026-09-13",
+      "visually_verified": true,
+      "visual_check": "已目视准确卡片原图：深蓝色斜纹箱体、拉杆和万向轮、左上爱华仕标识。OCX6708-20及星空蓝由卡片确认，没有可读制造标签，未由外观填充尺寸、材质或工厂。",
+      "reuse_info": {
+        "rights_holder": "爱华仕品牌、零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+        "license": "公开商品展示图；未发现开放许可声明，未宣称取得授权或排他权利。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 12124,
+        "sha256": "04d0f2b5ad2b28f7c5972611740b381384b600085731e0e64293467b040ef7e9"
+      },
+      "filename": "images/oiwas-ocx6708-20-blue.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
