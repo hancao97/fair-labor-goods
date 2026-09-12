@@ -5575,10 +5575,10 @@
       "type": "政府评价",
       "url": "https://rsj.tl.gov.cn/tlsrlzyhshbzj/c00027/pc/content/content_1896373587789275136.html",
       "publishedAt": "2025-03-03",
-      "checkedAt": "2026-09-12",
-      "locator": "最终名单A级部分，铜官区362家之中列铜陵洁雅；不是2025-02-11的公示版本",
-      "summary": "最终结果的A级名单具名铜陵洁雅生物科技股份有限公司。公告完成初评、征求意见、复核及公示，公布901家A级和250家B级。",
-      "limitation": "本次读取政府原页公开索引全文，直接请求返回403。2024年评价工作所审查的具体劳动期间仍需澄清，不能把2025年公布日期写成2025年度实际评价，也不扩展至该厂代工品牌的其他制造企业。"
+      "checkedAt": "2026-09-13",
+      "locator": "最终名单A级部分：铜官区362家中列铜陵洁雅、上海必胜客有限公司铜陵雨润中央餐厅等；不是2025-02-11公示版本",
+      "summary": "最终公告经过初评、征求意见、复核和公示，公布901家A级、250家B级；A级部分具名铜陵洁雅生物科技股份有限公司及上海必胜客有限公司铜陵雨润中央餐厅。",
+      "limitation": "依据已读取并保存的政府原页公开索引全文，直接HTTP曾返回403，此次未重试受限路径。保留2024年评价工作标题和2025-03-03正式公布日，不编造实际审查区间；未取得更新的具名综合结果，本站复查日期不是官方有效期。"
     },
     {
       "id": "anhui-work2024-wuhu-scope",
@@ -5587,10 +5587,10 @@
       "type": "政府工作通知",
       "url": "https://rsj.wuhu.gov.cn/xwzx/tzgg/8633238.html",
       "publishedAt": "2024-08-15",
-      "checkedAt": "2026-09-12",
-      "locator": "正文第一部分（四）书面审查内容及首段皖人社秘〔2024〕187号",
-      "summary": "芜湖同省文号的2024年工作通知明确审查2023年度遵守劳动保障法规的情况，说明工作年份与审查年份可能不同。",
-      "limitation": "这是芜湖的工作范围，不是铜陵或洁雅具体审查期间的直接证明；仅作为防止将评价年份和实际劳动期间混写的交叉核对线索。"
+      "checkedAt": "2026-09-13",
+      "locator": "正文第一部分（四）审查内容、第二部分评价程序；引用皖人社秘〔2024〕187号",
+      "summary": "本次进一步读取公开全文。芜湖2024年工作公告明确审查2023年度情况，并列合同、工时休假、工资、社会保险、劳动保护等内容；评价工作年份与实际审查年份需要区分。",
+      "limitation": "这是同省文号下芜湖的具体安排，不替铜陵或洁雅确定实际审查日期。对已具名的最终评级可如实记录公布日，不能因未公开完整区间而要求补造日期。"
     },
     {
       "id": "jieya-annual2025-manufacturing",
@@ -7823,6 +7823,30 @@
       "locator": "服装抽查表第79、80行；索取号JC6300000-2026-035",
       "summary": "直接读取政府原始HTML。352529123-1针织短袖衫（130/64、120/60）及352549703-1针织运动长裤列标称生产者安踏（中国）有限公司，受检单位为厦门安踏服饰有限公司上海静安第三分公司。",
       "limitation": "这是零售端抽查，不能将受检门店当作制造厂；标称生产者与实际制造关系继续核对。短袖的零售索引有同款，但本次列表未取得对应商品号；裤子未找到同款零售入口。仅保存线索，未据此新增正式或待核商品。"
+    },
+    {
+      "id": "pizzahut-tongling-yurun-dishes",
+      "title": "必胜客铜陵雨润店的具名餐品与用餐地址",
+      "publisher": "携程旅行网",
+      "type": "门店餐品资料",
+      "url": "https://you.ctrip.com/food/tongling472/7821060-dianping.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "必胜客（雨润店）餐厅介绍、本店特色美食及餐厅信息",
+      "summary": "直接读取公开HTML，页面列经典意式肉酱面、超级至尊比萨（芝心普通装）等具名餐品，门店地址为铜陵长江中路917号雨润广场1层；同日餐厅列表中的相同门店资料一致。",
+      "limitation": "平台明确为信息展示，不是餐厅当日点单系统；菜品、规格和价格可能调整，页面人均消费不是单品售价。没有补造比萨直径、意面净重，也未把2021—2022年的用户点评当成2026年新评价。"
+    },
+    {
+      "id": "pizzahut-tongling-yurun-hours",
+      "title": "必胜客铜陵雨润店的地址与常规营业时间资料",
+      "publisher": "Trip.com",
+      "type": "门店信息",
+      "url": "https://hk.trip.com/restaurant/china/tongling/detail/restaurant-16226489/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "店名、地址和营业时间区；餐厅编号16226489",
+      "summary": "直接读取公开HTML，列必胜客（雨润店）、长江中路917号铜陵雨润中央购物广场一层二层，常规营业时间10:00—22:00。与携程餐品页店址及门店名称对应。",
+      "limitation": "平台营业时间不是当天营业或可点菜品的保证；查阅时为营业时段外的“目前休息中”，不等同于永久停业。两平台属同一集团，不冒充两个独立核验机构；经营与劳动结论另据具名政府记录。"
     }
   ],
   "companies": [
@@ -14539,16 +14563,16 @@
       "location": "安徽铜陵",
       "origin": "china",
       "originNote": "本档案对应铜陵成立的湿巾制造企业，所列Babycare为国内母婴品牌；品牌运营者与代工企业分别核对，不因品牌关系扩大劳动评价范围。",
-      "level": "research",
+      "level": "assessment",
       "hours": null,
       "restDays": null,
-      "hoursLabel": "已有A级结果，审查期间待核",
-      "restLabel": "不以招聘排班作合规结论",
-      "cardNote": "具名A级及商品工厂代码已找到",
-      "scope": "铜陵洁雅及其JY代码生产的188mm×140mm Babycare婴幼儿手口湿巾；零售抽数和现售型号待核。",
-      "finding": "最终政府名单明确列洁雅为A级，如东原始抽检已把具体尺寸和JY代码对应到该厂；评价审查期间和当前零售包装尚待补齐。",
+      "hoursLabel": "A级审查包含工时；期间未明示",
+      "restLabel": "A级审查包含休息休假",
+      "cardNote": "2024年评价工作A级（2025公布）",
+      "scope": "铜陵洁雅的最终A级结果与JY代码188×140mm湿巾制造记录已对应；本款完整零售包装尚待核对。",
+      "finding": "最终政府A级事实可按2025-03-03正式公布日记录，实际审查起止日未公开，不再要求编造区间。JY代码和制造主体已对应；商品仍因缺少完整零售包装与购买入口而待核查。",
       "caveats": [
-        "2024年评价工作不直接等同于2024全年劳动条件；不能把2025公布年份写作2025年度评价。",
+        "2024年是评价工作标题，2025年是正式公布年份；实际审查起止日未公开，本站复查安排不延长官方结果的效力。",
         "同品牌另一尺寸有其他工厂记录；不把洁雅评价转给所有Babycare商品。",
         "188mm×140mm原记录没有抽数，未套用市场上的20抽、80抽或100抽包装。"
       ],
@@ -14570,8 +14594,8 @@
         },
         {
           "stage": "境内制造与劳动评价",
-          "status": "policy",
-          "detail": "洁雅在最终A级名单中；年报列安徽卫生许可，评价所审查期间仍待核实。",
+          "status": "verified",
+          "detail": "JY代码的境内制造主体与具名最终A级已对应；按2025-03-03公布日记录较早的评价结果，实际审查区间如实保留未知。",
           "sourceIds": [
             "tongling-labor2024-final",
             "jieya-annual2025-manufacturing",
@@ -14587,14 +14611,23 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "确认铜陵评价实际审查期间及更新结果，再核对JY代码、188mm×140mm的现售包装、每包抽数与国内购买入口。",
+      "nextCheck": "2026-10-13前复查更新的具名劳动结果；出现JY代码、188×140mm的完整零售包装或新抽检规格时再补销售，不重复无新线索的泛搜。",
       "assessments": [
         {
+          "kind": "government-labor-rating",
           "subject": "铜陵洁雅生物科技股份有限公司",
           "result": "劳动保障诚信A级",
-          "period": "2024年评价工作，2025-03-03公布；实际审查期间待核",
+          "grade": "A",
+          "period": "2024年评价工作结果，2025-03-03公布；实际审查起止日未公开",
           "sourceId": "tongling-labor2024-final",
-          "limitation": "保留具名A级这一事实；未填造实际评价起止日期，因此尚未作为可支持正式收录的当前评价。"
+          "resultPublishedAt": "2025-03-03",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "issuer": "铜陵市人力资源和社会保障局",
+          "scopeType": "employer",
+          "scope": "铜陵洁雅生物科技股份有限公司；仅对应最终名单所列用人单位，不扩展到同品牌其他企业或门店。",
+          "limitation": "使用2024年评价工作最终A级和2025-03-03公布日，未取得更新的具名综合结果；实际审查区间未公开，不写成2024全年或2025年度检查。"
         }
       ]
     },
@@ -17780,6 +17813,82 @@
           "periodEnd": "2024-12-31",
           "reviewedAt": "2026-09-13",
           "reviewDueAt": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "pizzahut-tongling-yurun",
+      "name": "必胜客·铜陵雨润店",
+      "legalName": "上海必胜客有限公司铜陵雨润中央餐厅",
+      "location": "安徽铜陵长江中路917号雨润中央购物广场",
+      "origin": "international",
+      "originNote": "必胜客为国际品牌，本档案只核对中国境内具名餐厅的制作与服务，不将品牌起源当作餐品境外制作的证据。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "A级审查包含工时；期间未明示",
+      "restLabel": "A级审查包含休息休假",
+      "cardNote": "2024年评价工作A级（2025公布）",
+      "scope": "仅限上海必胜客有限公司铜陵雨润中央餐厅的门店制作与服务；采用2025-03-03公布的2024年评价工作结果。",
+      "finding": "铜陵最终A级名单明确列该餐厅。平台店名、铜陵雨润中央商场位置和具名餐品对应本分店，支持记录在中国境内点餐、制作及服务的消费项目；完整审查起止日未公开，未取得更新的具名综合劳动结果。",
+      "caveats": [
+        "2024年是评价工作标题，2025-03-03是正式公布日；不补造实际审查区间，也不保证之后全部用工行为。",
+        "本条劳动依据只覆盖名单中的铜陵雨润中央餐厅，不能扩展到其他必胜客分店、总部或外卖配送雇主。",
+        "采用具名餐厅与平台同店资料的对应，未取得该分店经营证照原件；经营主体或店址变化时应重新核对。",
+        "平台餐品资料不保证当天可点；实际份量、价格和供应以门店菜单为准。国内门店制作不表示全部食材或上游环节国产。"
+      ],
+      "sourceIds": [
+        "tongling-labor2024-final",
+        "law-labor-rating",
+        "anhui-work2024-wuhu-scope",
+        "pizzahut-tongling-yurun-dishes",
+        "pizzahut-tongling-yurun-hours"
+      ],
+      "supply": [
+        {
+          "stage": "门店与餐品",
+          "status": "policy",
+          "detail": "平台列铜陵雨润店及具体菜品，采用该分店现场点餐入口，不代表全国统一供应。",
+          "sourceIds": [
+            "pizzahut-tongling-yurun-dishes",
+            "pizzahut-tongling-yurun-hours"
+          ]
+        },
+        {
+          "stage": "门店制作与服务",
+          "status": "verified",
+          "detail": "政府最终A级名单直接具名铜陵雨润中央餐厅；按正式公布日记录，保留实际审查区间未公开的限制。",
+          "sourceIds": [
+            "tongling-labor2024-final",
+            "pizzahut-tongling-yurun-dishes"
+          ]
+        },
+        {
+          "stage": "原料、中央工厂与外卖配送",
+          "status": "unknown",
+          "detail": "另作补充调查，未把门店劳动评级扩展至原料供应、中央工厂或配送平台。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-13前复查该分店的更新劳动结果及经营主体、菜品变化；出现适用相反事实时重新判断，不把未检索到问题当作新的合规证明。",
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "subject": "上海必胜客有限公司铜陵雨润中央餐厅",
+          "result": "劳动保障诚信A级",
+          "grade": "A",
+          "period": "2024年评价工作结果，2025-03-03公布；实际审查起止日未公开",
+          "sourceId": "tongling-labor2024-final",
+          "resultPublishedAt": "2025-03-03",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "issuer": "铜陵市人力资源和社会保障局",
+          "scopeType": "employer",
+          "scope": "上海必胜客有限公司铜陵雨润中央餐厅；仅对应最终名单所列用人单位，不扩展到同品牌其他企业或门店。",
+          "limitation": "最终名单直接具名本餐厅，实际审查起止日未公开；未取得更新的具名综合结果。仅覆盖该分店，不扩大到总部、其他餐厅或配送人员，本站复查安排不是官方有效期。"
         }
       ]
     }
@@ -26533,12 +26642,13 @@
           "subject": "铜陵洁雅生物科技股份有限公司"
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "洁雅确在铜陵最终A级名单内，但2024年评价工作的实际审查期间及更新情况尚未核清；保留A级事实，未将其直接写成2025或2026年的劳动评价。",
+          "status": "supported",
+          "detail": "铜陵最终A级名单具名该制造法人，正式结果于2025-03-03公布。按公布日记录，不把未公开的审查起止日当作额外门槛；完整零售包装仍需单独核对。",
           "sourceIds": [
             "tongling-labor2024-final",
             "anhui-work2024-wuhu-scope"
-          ]
+          ],
+          "assessmentSourceId": "tongling-labor2024-final"
         }
       }
     },
@@ -29914,6 +30024,122 @@
           "assessmentSourceId": "national-harmony-2022"
         }
       }
+    },
+    {
+      "id": "pizzahut-yurun-bolognese",
+      "name": "经典意式肉酱面·铜陵雨润店",
+      "brand": "必胜客·铜陵雨润店",
+      "companyId": "pizzahut-tongling-yurun",
+      "category": "dining",
+      "description": "平台具名餐品，按单道餐品整理；不填写未公开的净重或套餐内容。劳动依据为2024年评价工作最终A级，2025-03-03公布。",
+      "tags": [
+        "面食",
+        "经典意式肉酱面",
+        "铜陵",
+        "雨润中央"
+      ],
+      "needs": [
+        "面食"
+      ],
+      "url": "https://you.ctrip.com/food/tongling472/7821060-dianping.html",
+      "market": "限铜陵长江中路917号雨润中央广场必胜客现场点餐；链接提供店址与具名餐品信息，具体份量、供应和价格以门店当日菜单为准。",
+      "relationship": "平台将该餐品列在铜陵雨润店，政府最终劳动A级名单直接具名上海必胜客有限公司铜陵雨润中央餐厅；按该分店对应，不引用全国品牌统一用工结论。",
+      "relationshipSourceIds": [
+        "pizzahut-tongling-yurun-dishes",
+        "pizzahut-tongling-yurun-hours",
+        "tongling-labor2024-final"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示餐品名称，不使用其他门店或其他规格的替代照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "具名餐品与铜陵雨润店地址、常规营业信息已对应，提供该门店线下点餐信息入口；不把平台人均消费当作此菜售价，也不保证当日供应。",
+          "sourceIds": [
+            "pizzahut-tongling-yurun-dishes",
+            "pizzahut-tongling-yurun-hours"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "上海必胜客有限公司铜陵雨润中央餐厅",
+          "detail": "本条按安徽铜陵具名餐厅的现场制作与服务对应，政府劳动结果直接列该餐厅；不声称所有原料、中央加工或外卖配送均由此分店完成。",
+          "sourceIds": [
+            "pizzahut-tongling-yurun-dishes",
+            "pizzahut-tongling-yurun-hours",
+            "tongling-labor2024-final"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "2025-03-03公布的2024年评价工作最终名单直接列该餐厅A级；实际审查区间未公开，按正式公布日记录，未当作2026年新评价。",
+          "sourceIds": [
+            "tongling-labor2024-final",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "tongling-labor2024-final"
+        }
+      }
+    },
+    {
+      "id": "pizzahut-yurun-supreme-stuffed",
+      "name": "超级至尊比萨·芝心普通装（铜陵雨润店）",
+      "brand": "必胜客·铜陵雨润店",
+      "companyId": "pizzahut-tongling-yurun",
+      "category": "dining",
+      "description": "保留平台所列芝心普通装，不补写未公开的直径，不替换为铁盘或其他饼底。劳动依据为2024年评价工作最终A级，2025-03-03公布。",
+      "tags": [
+        "正餐",
+        "超级至尊比萨（芝心普通装）",
+        "铜陵",
+        "雨润中央"
+      ],
+      "needs": [
+        "正餐"
+      ],
+      "url": "https://you.ctrip.com/food/tongling472/7821060-dianping.html",
+      "market": "限铜陵长江中路917号雨润中央广场必胜客现场点餐；链接提供店址与具名餐品信息，具体份量、供应和价格以门店当日菜单为准。",
+      "relationship": "平台将该餐品列在铜陵雨润店，政府最终劳动A级名单直接具名上海必胜客有限公司铜陵雨润中央餐厅；按该分店对应，不引用全国品牌统一用工结论。",
+      "relationshipSourceIds": [
+        "pizzahut-tongling-yurun-dishes",
+        "pizzahut-tongling-yurun-hours",
+        "tongling-labor2024-final"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示餐品名称，不使用其他门店或其他规格的替代照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "具名餐品与铜陵雨润店地址、常规营业信息已对应，提供该门店线下点餐信息入口；不把平台人均消费当作此菜售价，也不保证当日供应。",
+          "sourceIds": [
+            "pizzahut-tongling-yurun-dishes",
+            "pizzahut-tongling-yurun-hours"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "上海必胜客有限公司铜陵雨润中央餐厅",
+          "detail": "本条按安徽铜陵具名餐厅的现场制作与服务对应，政府劳动结果直接列该餐厅；不声称所有原料、中央加工或外卖配送均由此分店完成。",
+          "sourceIds": [
+            "pizzahut-tongling-yurun-dishes",
+            "pizzahut-tongling-yurun-hours",
+            "tongling-labor2024-final"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "2025-03-03公布的2024年评价工作最终名单直接列该餐厅A级；实际审查区间未公开，按正式公布日记录，未当作2026年新评价。",
+          "sourceIds": [
+            "tongling-labor2024-final",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "tongling-labor2024-final"
+        }
+      }
     }
   ],
   "coverage": [
@@ -31185,7 +31411,7 @@
           "query": "自助餐"
         }
       ],
-      "note": "餐饮9项需求均有研究资料。本批补入具体门店的番茄锅、三鲜水饺、酸辣肥牛面、麻薯芋泥牛奶茶和海苔肉松小贝，5项均有境内门店菜品线索，制作经营主体与适用劳动证据仍待对应。宿州国购麦当劳的证照已对应2024年度A级主体，但新招聘工资线索和现售餐品菜单仍待核，未新增正式收录。资料覆盖不代表这些门店已核实守法。",
+      "note": "餐饮9项需求均有研究资料。铜陵雨润中央必胜客的经典意式肉酱面、超级至尊比萨芝心普通装新增正式收录，分别补入面食、正餐需求；劳动依据限具名分店的2024年评价工作A级结果。其他7项需求尚无正式餐品，不把同品牌其他门店或全供应链一并认定合规。",
       "sourceIds": [
         "sofitel-haikou-campus",
         "suzhou-labor-2024",
@@ -31198,7 +31424,10 @@
         "luxihe-fuzimiao-seaweed-floss-menu",
         "mcd-suzhou-guogou-license-index",
         "mcd-bianhe-recruitment202609-index",
-        "anhui-minimum-wage2025-suzhou"
+        "anhui-minimum-wage2025-suzhou",
+        "tongling-labor2024-final",
+        "pizzahut-tongling-yurun-dishes",
+        "pizzahut-tongling-yurun-hours"
       ]
     },
     {

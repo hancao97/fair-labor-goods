@@ -65,9 +65,10 @@ test("scoped government reviews and independent audits can admit goods without a
     assert(!laborEvidenceLabel(assessment).includes("A"));
   }
 });
-test("a dated comprehensive result can admit goods without inventing an inspection interval", () => {
-  for (const kind of ["government-labor-review", "independent-labor-audit"]) {
-    const { product, company, assessment } = reviewedProduct(kind);
+test("a dated official rating or comprehensive result can admit goods without inventing an inspection interval", () => {
+  for (const kind of ["government-labor-rating", "government-labor-review", "independent-labor-audit"]) {
+    const { product, company } = kind === "government-labor-rating" ? assessedProduct() : reviewedProduct(kind);
+    const assessment = company.assessments[0];
     delete assessment.periodStart;
     delete assessment.periodEnd;
     assessment.resultPublishedAt = "2026-01-15";
@@ -82,15 +83,32 @@ test("a dated comprehensive result can admit goods without inventing an inspecti
     }
   }
 });
-test("a result publication cannot replace a rating period or contradict a known review interval", () => {
+test("a publication date cannot contradict a known inspection interval", () => {
+  for (const fixture of [assessedProduct(), reviewedProduct("government-labor-review")]) {
+    fixture.company.assessments[0].resultPublishedAt = "2025-01-01";
+    assert.equal(isAdmitted(fixture.product, fixture.company, REVIEW_DATE), false);
+  }
+});
+test("publication-only ratings retain grade, employer and later adverse evidence checks", () => {
   const { product, company } = assessedProduct();
-  Object.assign(company.assessments[0], {
-    periodStart: undefined, periodEnd: undefined, resultPublishedAt: "2026-01-15",
-  });
+  const assessment = company.assessments[0];
+  delete assessment.periodStart;
+  delete assessment.periodEnd;
+  assessment.resultPublishedAt = "2025-03-03";
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+  for (const change of [{ grade: "B" }, { grade: "C" }, { subject: "另一家制造企业" }, { status: "withdrawn" }]) {
+    assert.equal(isAdmitted(product, { ...company, assessments: [{ ...assessment, ...change }] }, REVIEW_DATE), false);
+  }
+  const newer = { ...assessment, sourceId: "newer-rating", grade: "B", resultPublishedAt: "2026-03-01" };
+  company.assessments.push({ ...newer, subject: "另一家制造企业" });
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+  company.assessments.push(newer);
   assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
-  const reviewed = reviewedProduct("government-labor-review");
-  reviewed.assessment.resultPublishedAt = "2025-01-01";
-  assert.equal(isAdmitted(reviewed.product, reviewed.company, REVIEW_DATE), false);
+  company.assessments = [assessment, {
+    ...newer, kind: "employer-labor-disclosure", grade: undefined, conclusion: "adverse",
+    sourceId: "later-contribution-shortfall", coverage: ["insurance"],
+  }];
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
 });
 test("dated outcomes still expire and are superseded by newer applicable adverse results", () => {
   const { product, company, assessment } = reviewedProduct("government-labor-review");

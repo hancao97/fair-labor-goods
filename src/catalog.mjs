@@ -50,14 +50,14 @@ export function laborEvidenceLabel(assessment) {
 
 const assessmentReferenceDate = (assessment) => assessment.periodEnd ?? assessment.resultPublishedAt;
 
-// A published comprehensive review can identify a dated outcome without disclosing
-// its full inspection interval. Keep that publication date distinct from coverage.
+// A published official rating or comprehensive review can identify a dated outcome
+// without a full inspection interval. Keep publication distinct from coverage.
 export function hasValidLaborAssessmentDates(assessment) {
   const hasPeriod = assessment.periodStart !== undefined || assessment.periodEnd !== undefined;
   if (hasPeriod) {
     if (![assessment.periodStart, assessment.periodEnd].every(dated) ||
         assessment.periodStart > assessment.periodEnd) return false;
-  } else if (!["government-labor-review", "independent-labor-audit", "employer-labor-disclosure"].includes(assessment.kind) ||
+  } else if (![...assessmentKinds, "employer-labor-disclosure"].includes(assessment.kind) ||
       !dated(assessment.resultPublishedAt)) return false;
   if (assessment.resultPublishedAt !== undefined &&
       (!dated(assessment.resultPublishedAt) ||
