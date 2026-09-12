@@ -8015,6 +8015,66 @@
       "locator": "景区33624；成人票产品2571542767、报价1356198145、供应商23832",
       "summary": "直接读取公开HTML，确认常州武进太北路1号的嬉戏谷门票成人票-标准价，有预订链接及随买随用、随时退、无需换票标签。使用具体成人票条目，不以电子讲解或酒店套餐代替门票。",
       "limitation": "价格及条件随所选日期和供应商变化，目录不保存固定票价。页面另有需提前预订的成人报价，不能混用其条件；未读取动态预订须知或进行下单，不承诺全部项目、另售水区或任意日期均可使用。"
+    },
+    {
+      "id": "weideng-labor-result2022",
+      "title": "开平威镫2022年度劳动保障守法诚信A级最终结果",
+      "publisher": "开平市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.kaiping.gov.cn/kpszfw/zwgk/zdlyxxgkzl/jycyxxgk/jctj/content/post_2934909.html",
+      "publishedAt": "2023-05-22",
+      "checkedAt": "2026-09-13",
+      "locator": "《关于公布开平市2022年度企业劳动保障守法诚信等级评价结果的公告》正文及名单第103行",
+      "summary": "公告明确评价期为2022-01-01至2022-12-31，经企业自评、镇街初评、人社局终审后公布；第103行列开平威镫电器有限公司、水口镇、A级。",
+      "limitation": "已读取政府原页公开索引中的公告全文、表头和目标行；直接HTTP返回403后停止。尚未取得更新的具名劳动结果，2023年公布日不改写为2026年新评级；名单中另列的开平威技是不同法人。"
+    },
+    {
+      "id": "weideng-wdh312enw1-sampling2024",
+      "title": "江门2024年工业产品抽查中的WDH312ENW1制造企业",
+      "publisher": "江门市人民政府门户网站",
+      "type": "政府产品抽查",
+      "url": "https://www.jiangmen.gov.cn/attachment/0/358/358285/3396448.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "《江门市2024年工业产品质量监督抽查结果》第1317项；报告编号DQ2401959",
+      "summary": "第1317项受检单位和标称生产单位均为开平威镫电器有限公司，产品为除湿机WDH312ENW1、220V～50Hz165W，检验结果为未发现不合格。用于对应具体型号与制造法人。",
+      "limitation": "读取政府PDF公开索引的完整目标行，并核对文件标题与表头；直接PDF请求403后停止，未声称已下载或目视查看目标页。2024年是抽查年度，具体公布日未取得。产品质量结果不代替劳动评价，也不是后续每件商品的批次保证。"
+    },
+    {
+      "id": "weideng-wdh312enw1-jd",
+      "title": "京东NWT威镫WDH312ENW1 12L/天具体商品条目",
+      "publisher": "京东",
+      "type": "大陆零售资料",
+      "url": "https://www.jd.com/pinpai1/7379d5e317b3cfc319d.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公开HTML中WDH312ENW1、12L/天条目，直接商品编号10229621317330",
+      "summary": "直接读取京东公开商品列表，标题明确NWT威镫、WDH312ENW1和12L/天，图片及文字链接均对应商品10229621317330；未使用同页其他除湿量或不同型号的条目。",
+      "limitation": "具体商品页直接请求200但仅返回通用页面，销售对应依据为本次读到的具体型号列表及其原始链接。没有读取实时价格、库存或下单；不额外要求实时结算证明，也不将平台条目称为品牌官方授权。"
+    },
+    {
+      "id": "weideng-domestic-brand2025",
+      "title": "开平威镫自主品牌及国内销售渠道的2025年报道",
+      "publisher": "江门市人民政府门户网站；来源江门新闻网",
+      "type": "政府刊载经营报道",
+      "url": "https://www.jiangmen.gov.cn/home/bmdt/content/post_3300806.html",
+      "publishedAt": "2025-05-20",
+      "checkedAt": "2026-09-13",
+      "locator": "《布局多元化市场 全力做强品牌 江门外贸企业努力“给鸡蛋多找几个篮子”》“打造自主品牌开拓市场”中开平威镫段落",
+      "summary": "报道具名开平威镫电器有限公司及其自主品牌NWT威镫电器，产品包括除湿机、移动空调和空气循环扇，并记载天猫、京东等国内渠道销售。",
+      "limitation": "已读取政府刊载原页公开索引全文。这是具名经营报道，未单独证明每个型号、品牌注册归属或劳动合规；具体商品及制造商另用零售条目和政府抽查对应。"
+    },
+    {
+      "id": "weideng-kaiping-factory2024",
+      "title": "开平威镫2024年生产项目的境内厂址记录",
+      "publisher": "开平市人民政府门户网站",
+      "type": "政府建设项目记录",
+      "url": "https://www.kaiping.gov.cn/kpszfw/zwgk/zdlyxxgkzl/hjbh/yxpjxx/content/post_3183598.html",
+      "publishedAt": "2024-10-17",
+      "checkedAt": "2026-09-13",
+      "locator": "《关于2024年7-9月作出的建设项目环境影响评价文件审批决定的公告》第8项，江开环审〔2024〕74号",
+      "summary": "2024-07-12审批记录列开平威镫电器有限公司年产30万个铝管蒸发器改建项目，建设地点为江门市开平市水口镇金山东大道52号2座。用于补充同一制造企业的境内地点。",
+      "limitation": "已读取政府原页公开索引的表头及完整第8项。审批日与公告日分别保留；该项目是蒸发器改建，不用它单独证明整机型号、实际产量、劳动排班或工人国籍。"
     }
   ],
   "companies": [
@@ -18244,6 +18304,83 @@
         }
       ],
       "nextCheck": "2026-10-13前复查更新的具名劳动结果、主体变更和适用的相反事实；票种与使用条件按实际出行日期确认。"
+    },
+    {
+      "id": "weideng-kaiping",
+      "name": "NWT威镫 · 开平制造企业",
+      "legalName": "开平威镫电器有限公司",
+      "location": "广东省江门市开平市水口镇金山东大道52号2座",
+      "origin": "unconfirmed",
+      "originNote": "境内公司开展NWT威镫自主品牌业务，品牌注册归属未单独核验；所选型号的境内制造已另行对应。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时制度纳入年度劳动评价",
+      "restLabel": "休息休假纳入年度劳动评价",
+      "cardNote": "2022年度劳动守法A级",
+      "scope": "开平威镫电器有限公司；本次收录WDH312ENW1、220V／165W、标称12L/天除湿机。",
+      "finding": "该法人2022年度劳动A级结果、2024年政府抽查的具体制造型号及京东同型号条目已对应，补入家电类首款正式商品。",
+      "caveats": [
+        "劳动评价期为2022-01-01至2022-12-31，2023-05-22公布；未取得更新的具名劳动结果，较早评价不保证以后全部用工。",
+        "开平威技与开平威镫是不同法人，未借用开平威技2025年评级；其他NWT型号也需对应实际制造者。",
+        "制造对应采用2024年具体型号抽查，销售采用本次京东具体条目；价格、送达地区和商品更新以渠道实际信息为准。"
+      ],
+      "sourceIds": [
+        "weideng-labor-result2022",
+        "law-labor-rating",
+        "weideng-wdh312enw1-sampling2024",
+        "weideng-wdh312enw1-jd",
+        "weideng-domestic-brand2025",
+        "weideng-kaiping-factory2024"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "具名经营报道对应NWT威镫品牌；京东条目列具体型号WDH312ENW1、12L/天及商品链接。",
+          "sourceIds": [
+            "weideng-wdh312enw1-jd",
+            "weideng-domestic-brand2025"
+          ]
+        },
+        {
+          "stage": "开平整机制造",
+          "status": "verified",
+          "detail": "政府抽查把所选型号对应到开平威镫，同一制造法人获2022年度劳动守法A级；评价年份单独展示。",
+          "sourceIds": [
+            "weideng-wdh312enw1-sampling2024",
+            "weideng-labor-result2022",
+            "law-labor-rating",
+            "weideng-kaiping-factory2024"
+          ]
+        },
+        {
+          "stage": "部件与零售配送用工",
+          "status": "unknown",
+          "detail": "其他用人单位的劳动情况作为补充资料，不从整机制造企业评价推定。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "开平威镫电器有限公司",
+          "result": "劳动保障守法诚信A级",
+          "period": "2022年度",
+          "sourceId": "weideng-labor-result2022",
+          "periodStart": "2022-01-01",
+          "periodEnd": "2022-12-31",
+          "resultPublishedAt": "2023-05-22",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "limitation": "采用具名最终年度评价，范围为同一法人在2022年的劳动保障守法情况，未取得更新结果。本站复查日期不是政府规定的评级有效期，不保证未来全部用工或其他关联法人。"
+        }
+      ],
+      "nextCheck": "2026-10-13前复查该法人更新的劳动结果及适用的相反事实；出现制造商、型号或销售渠道变更时按新资料核对。"
     }
   ],
   "products": [
@@ -30608,6 +30745,65 @@
           ]
         }
       }
+    },
+    {
+      "id": "weideng-wdh312enw1-12l",
+      "name": "WDH312ENW1除湿机 · 12L/天",
+      "brand": "NWT威镫",
+      "companyId": "weideng-kaiping",
+      "category": "appliances",
+      "description": "家用除湿机，标称除湿量12L/天；对应政府抽查中的220V～50Hz、165W型号。",
+      "tags": [
+        "除湿机",
+        "家电",
+        "12L/天",
+        "WDH312ENW1",
+        "开平制造"
+      ],
+      "needs": [
+        "除湿机"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "url": "https://item.jd.com/10229621317330.html",
+      "market": "京东商品10229621317330；对应NWT威镫目录中WDH312ENW1、12L/天选项。价格、送达地区及销售条件以购买时页面为准。",
+      "relationship": "2024年江门政府抽查第1317项的受检单位与标称生产单位均为开平威镫电器有限公司，具体型号与京东条目一致；该法人具有2022年度劳动A级结果。",
+      "relationshipSourceIds": [
+        "weideng-wdh312enw1-sampling2024",
+        "weideng-wdh312enw1-jd",
+        "weideng-domestic-brand2025",
+        "weideng-kaiping-factory2024"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东公开列表已取得准确品牌、WDH312ENW1型号、12L/天选项和直接商品链接。",
+          "sourceIds": [
+            "weideng-wdh312enw1-jd",
+            "weideng-domestic-brand2025"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "开平威镫电器有限公司",
+          "detail": "江门2024年抽查将所选型号明确对应到开平威镫；同一企业的生产项目记录补充开平境内厂址。",
+          "sourceIds": [
+            "weideng-wdh312enw1-sampling2024",
+            "weideng-kaiping-factory2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "weideng-labor-result2022",
+          "detail": "同一制造法人获2022年度劳动保障守法诚信A级，2023-05-22最终公布；保留较早评价年份及后续复查说明。",
+          "sourceIds": [
+            "weideng-labor-result2022",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -31535,7 +31731,7 @@
           "query": "除湿机"
         }
       ],
-      "note": "14项家电需求均已有具体资料。新增准确型号空调、65英寸电视、单机油烟机、天然气12T燃气灶、吹风机及剃须刀；6款均有国内零售入口，空调、电视和燃气灶已对应境内制造主体，劳动依据仍待补。DD40P原有制造及劳动依据保留，供货缺口未改变；研究覆盖不等于正式收录。",
+      "note": "14项家电需求均有研究资料，除湿机首次有正式商品：NWT威镫WDH312ENW1、12L/天已对应国内销售、开平威镫制造和该法人2022年度劳动A级结果。其余13项需求仍待正式覆盖；DD40P属于不同制造法人，原有销售缺口保留。",
       "sourceIds": [
         "bsh-code",
         "anker-2025",
@@ -31562,7 +31758,12 @@
         "flyco-fh6232-white-jd",
         "flyco-fh6232-maker-discrepancy",
         "flyco-fs891-grey-jd",
-        "flyco-annual2025-production"
+        "flyco-annual2025-production",
+        "weideng-labor-result2022",
+        "weideng-wdh312enw1-sampling2024",
+        "weideng-wdh312enw1-jd",
+        "weideng-domestic-brand2025",
+        "weideng-kaiping-factory2024"
       ]
     },
     {
