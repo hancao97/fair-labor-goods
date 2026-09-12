@@ -5735,6 +5735,66 @@
       "locator": "公开索引正文第十、十一、十七、十九、二十二条；2025-03-01 施行",
       "summary": "通知区分专用、共用和公众对讲机的用频与设台要求。共用对讲机需办理电台执照；符合规定的公众对讲机免于用频许可及设台执照。2026-03-01 起不再受理和审批与通知不符的相关新许可及型号核准申请。",
       "limitation": "工信部原页面直接 HTTP 请求返回 403，正文由公开搜索索引读取并标明取得方式。规定不证明某一 BF-888S 零售版本的核准状态，亦不是劳动评价；使用资格应按设备核准范围及适用手续确认。"
+    },
+    {
+      "id": "huoshan-labor-2025",
+      "title": "霍山县2025年劳动保障书面审查和守法诚信等级评价最终结果",
+      "publisher": "霍山县人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.ahhuoshan.gov.cn/public/6597431/38694709.html",
+      "publishedAt": "2025-11-03",
+      "checkedAt": "2026-09-12",
+      "locator": "正文第一部分“A级单位”的第一家：安徽迎驾山泉股份有限公司；通知落款2025-11-03",
+      "summary": "霍山县人社局完成初评、征求意见、公示及复核评定后，公布最终结果，A级名单列安徽迎驾山泉股份有限公司。",
+      "limitation": "原页面直接请求返回403，本次读取政府页面的公开索引正文。名单称2025年开展评价，未单独写明书面审查年度；结合全省统一工作通知转载及六安市同年实施通知，按2024年度记录，不将公布年份误作被审查年份。其他关联法人、其他商品及未来用工不自动纳入。"
+    },
+    {
+      "id": "luan-labor-2025-scope",
+      "title": "六安市2025年劳动保障书面审查工作通知：审查2024年度",
+      "publisher": "六安市人力资源和社会保障局",
+      "type": "政府实施通知",
+      "url": "https://rsj.luan.gov.cn/public/6608261/10708782.html",
+      "publishedAt": "2025-07-17",
+      "checkedAt": "2026-09-12",
+      "locator": "通知第二部分“书面审查内容”、第四部分“守法诚信等级评价”；引用皖人社秘〔2025〕121号",
+      "summary": "通知明确2025年书面审查针对2024年度的劳动保障守法情况，包含合同、工时休息、工资、社保和派遣，并结合巡查、投诉及专项检查评价。",
+      "limitation": "本次读取政府页面公开索引。通知的直接对象是市直单位；用于与同一省级工作的年度和方法交叉核对，不作为霍山企业的具名评级结果。"
+    },
+    {
+      "id": "anhui-labor-2025-notice-reprint",
+      "title": "安徽省2025年劳动保障书面审查统一工作通知（转载）",
+      "publisher": "安徽省人力资源和社会保障厅；众合云科HR政策库转载",
+      "type": "政策转载",
+      "url": "https://zc.51shebao.com/detail/837267",
+      "publishedAt": "2025-07-03",
+      "checkedAt": "2026-09-12",
+      "locator": "皖人社秘〔2025〕121号，一（一）全省审查范围、一（二）2024年度审查内容及二、评价程序",
+      "summary": "转载全文说明2025年全省集中开展书面审查，审查用人单位2024年度守法情况，并部署各地进行诚信等级评价。原文链接指向安庆市人社局发布页。",
+      "limitation": "转载页原始HTML已读取；其标示的政府原文页本次返回403，合肥转发所附文档返回521，未取得这两份原始文件。通知内容另与六安市及池州经开区政府实施通知交叉对应。发文日期不代表转载网站的发布日期；本通知不包含企业评级名单。"
+    },
+    {
+      "id": "yingjia-water550-luan2025",
+      "title": "六安市食品抽检合格信息：迎驾山泉550mL竹根剐水的制造主体",
+      "publisher": "六安市市场监督管理局",
+      "type": "政府抽检记录",
+      "url": "https://scjgj.luan.gov.cn/group1/M00/14/0C/wKgSGWka212ARBprAANkTCin02M032.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "附件3“监督抽检产品合格信息”第3行，550mL/瓶，生产日期2025-05-19",
+      "summary": "第3行将竹根剐水饮用天然水550mL的标称生产企业列为安徽迎驾山泉股份有限公司，地址为安徽省六安市霍山县衡山镇迎宾大道西迎驾产业园。",
+      "limitation": "原PDF直接请求返回403，本次采用政府PDF公开索引的表头和第3行，未取得原始文件或完成原PDF目视校验。仅用于该规格历史制造对应，不作劳动合规、当前所有批次质量或零售库存证明。"
+    },
+    {
+      "id": "yingjia-water550x24-jd",
+      "title": "京东迎驾山泉野岭剐水550mL×24瓶零售卡片（10177006762985）",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/1225989fcd1cb3b134750.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始HTML中商品号10177006762985，550ml×24瓶及“新老包装随机”标题、链接和主图",
+      "summary": "京东公开目录原始卡片列出迎驾山泉野岭剐水550mL×24瓶，指向独立商品号10177006762985；图片为迎驾山泉饮用天然水瓶及整箱包装。",
+      "limitation": "商品详情直接请求只返回网站框架，销售依据为查阅日京东公开商品目录。未核实具体地区库存、价格和配送；新老包装随机，购买时应核对实物制造商、品名和容量。零售营销中的弱碱性等表述不作为健康功效依据。"
     }
   ],
   "companies": [
@@ -12500,6 +12560,82 @@
           "periodEnd": "2025-12-31",
           "reviewedAt": "2026-09-12",
           "reviewDueAt": "2027-05-22"
+        }
+      ]
+    },
+    {
+      "id": "yingjia-spring",
+      "name": "迎驾山泉",
+      "legalName": "安徽迎驾山泉股份有限公司",
+      "location": "安徽六安霍山",
+      "origin": "china",
+      "originNote": "迎驾山泉为安徽制造企业对应品牌；所选550mL饮用水另由公开制造记录对应到霍山境内工厂。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025年获评劳动A级 · 审查2024年",
+      "scope": "安徽迎驾山泉股份有限公司；所选550mL饮用水记录列霍山县衡山镇迎宾大道西迎驾产业园。2025年公布劳动评价，书面审查年度按省级统一通知交叉对应为2024年。",
+      "finding": "霍山最终劳动A级名单、550mL饮用天然水具名制造记录及24瓶装大陆零售卡片已对应。",
+      "caveats": [
+        "评级对应具名法人及该次年度审查，不扩展到迎驾集团所有关联公司或未来全部用工。",
+        "霍山通知未逐条列出审查年份，2024年度范围由省级通知转载及六安市政府实施通知交叉对应。",
+        "政府名单与抽检表本次从公开索引读取；零售新老包装随机，实物制造主体变化时需重新核对。"
+      ],
+      "sourceIds": [
+        "huoshan-labor-2025",
+        "luan-labor-2025-scope",
+        "anhui-labor-2025-notice-reprint",
+        "yingjia-water550-luan2025",
+        "yingjia-water550x24-jd",
+        "anhui-labor-2025-scope",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与产品",
+          "status": "policy",
+          "detail": "京东当前卡片对应迎驾山泉野岭剐水550mL×24瓶，新老包装随机。",
+          "sourceIds": [
+            "yingjia-water550x24-jd"
+          ]
+        },
+        {
+          "stage": "成品制造",
+          "status": "policy",
+          "detail": "550mL饮用水的标称制造企业与霍山劳动A级名单法人一致；保留历史批次及年度范围。",
+          "sourceIds": [
+            "yingjia-water550-luan2025",
+            "huoshan-labor-2025",
+            "luan-labor-2025-scope",
+            "anhui-labor-2025-notice-reprint"
+          ]
+        },
+        {
+          "stage": "水源、包材与运输",
+          "status": "unknown",
+          "detail": "水源管理、包装供应商及运输雇佣主体尚未逐项核对，保留为补充调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-11-03前复核新评价、相反证据和零售制造商变化，并继续补政府原始文件。",
+      "assessments": [
+        {
+          "subject": "安徽迎驾山泉股份有限公司",
+          "result": "劳动保障诚信A级",
+          "period": "2025年评价（审查2024年，按统一工作通知交叉对应）",
+          "sourceId": "huoshan-labor-2025",
+          "limitation": "霍山最终名单为具名评级依据，书面审查年份结合省级统一通知及六安市实施通知确定；本站复核日期不是政府设定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-11-03"
         }
       ]
     }
@@ -21363,6 +21499,65 @@
           ]
         }
       }
+    },
+    {
+      "id": "yingjia-natural-water-550mlx24",
+      "name": "饮用天然水550mL×24瓶（野岭剐水）",
+      "brand": "迎驾山泉",
+      "companyId": "yingjia-spring",
+      "category": "drinks",
+      "description": "550mL小瓶饮用天然水，24瓶整箱装，适合家庭日常饮水与外出携带。零售页面注明新老包装随机。",
+      "tags": [
+        "饮用水",
+        "瓶装水",
+        "550mL",
+        "24瓶装",
+        "霍山制造"
+      ],
+      "needs": [
+        "饮用水"
+      ],
+      "image": "images/yingjia-natural-water-550mlx24.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/271562/38/26450/93312/680dfa33Fe2c12b57/c13bc5e85dceaafb.jpg",
+      "imageRights": "迎驾山泉／京东商品图片权利人",
+      "url": "https://item.jd.com/10177006762985.html",
+      "market": "大陆京东550mL×24瓶零售入口，商品号10177006762985。新老包装随机；具体库存、配送与价格以交易页面为准。",
+      "relationship": "政府抽检记录对应550mL竹根剐水、安徽迎驾山泉股份有限公司及霍山生产地址；京东同品牌野岭剐水550mL×24瓶卡片另行对应。",
+      "relationshipSourceIds": [
+        "yingjia-water550-luan2025",
+        "yingjia-water550x24-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日京东原始公开目录包含550mL×24瓶、商品号10177006762985的卡片及主图，保留“新老包装随机”条件。详情仅返回框架，未确认各地库存。",
+          "sourceIds": [
+            "yingjia-water550x24-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "安徽迎驾山泉股份有限公司",
+          "detail": "六安市政府抽检表第3行明确550mL竹根剐水制造企业为安徽迎驾山泉股份有限公司，生产地址在霍山迎驾产业园；该行生产日期为2025-05-19。表格由公开索引读取，不据此保证当前每个零售批次。",
+          "sourceIds": [
+            "yingjia-water550-luan2025",
+            "huoshan-labor-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "huoshan-labor-2025",
+          "detail": "霍山县2025年公布的最终A级名单列该制造法人；书面审查覆盖2024年度的范围由全省统一工作通知与六安市实施通知交叉对应。评级限具名法人和审查年度。",
+          "sourceIds": [
+            "huoshan-labor-2025",
+            "luan-labor-2025-scope",
+            "anhui-labor-2025-notice-reprint",
+            "anhui-labor-2025-scope",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -21762,7 +21957,7 @@
           "query": "冲调饮品"
         }
       ],
-      "note": "已正式收录口子窖六年型41%vol 450mL单瓶及金惟他多维葡萄糖固体饮料300g单袋。新增冲调饮品需求，注明粉状条装和具体制造法人；牛奶、酸奶、茶、饮用水、咖啡等继续核对，豆奶和葡萄酒仍有资料缺口。 盖瑞纯牛奶200g×20盒已核当前零售入口，因同名同容量有不同制造厂记录，所选商品制造主体及劳动评价关联仍待确认。",
+      "note": "已正式收录口子窖六年型41%vol 450mL单瓶、金惟他多维葡萄糖固体饮料300g单袋及迎驾山泉饮用天然水550mL×24瓶。新增冲调饮品需求，注明粉状条装和具体制造法人；牛奶、酸奶、茶、咖啡及其他饮用水等继续核对，豆奶和葡萄酒仍有资料缺口。 盖瑞纯牛奶200g×20盒已核当前零售入口，因同名同容量有不同制造厂记录，所选商品制造主体及劳动评价关联仍待确认。",
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
@@ -21789,7 +21984,12 @@
         "shawan-labor-2024",
         "gary-pure200-yizhou2026",
         "gary-box200-tianhe2023-media",
-        "gary-pure200x20-jd"
+        "gary-pure200x20-jd",
+        "huoshan-labor-2025",
+        "luan-labor-2025-scope",
+        "anhui-labor-2025-notice-reprint",
+        "yingjia-water550-luan2025",
+        "yingjia-water550x24-jd"
       ]
     },
     {

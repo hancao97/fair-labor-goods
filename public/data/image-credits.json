@@ -7104,6 +7104,32 @@
       },
       "filename": "images/baofeng-bf888s-classic-single.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "yingjia-natural-water-550mlx24",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/271562/38/26450/93312/680dfa33Fe2c12b57/c13bc5e85dceaafb.jpg",
+      "source_url": "https://www.jd.com/jiage/1225989fcd1cb3b134750.html",
+      "product_url": "https://item.jd.com/10177006762985.html",
+      "title": "迎驾山泉野岭剐水550ml×24瓶（新老包装随机）",
+      "width": 220,
+      "height": 220,
+      "bytes": 8052,
+      "sha256": "f1e0991833cdfed0e857eb3850c90f1d5aaf31a7f27a723a14bef60d412f5a79",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已查看零售卡片原始220×220主图：迎驾山泉饮用天然水瓶及整箱包装，与商品号10177006762985直接对应。图片不独立证明制造商或劳动条件。",
+      "reuse_info": {
+        "rights_holder": "迎驾山泉／京东商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目MIT许可。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 17944,
+        "sha256": "899012b3e3a8a7467ff8812466820ff1465d30d4e49b28915db356864f013f40"
+      },
+      "filename": "images/yingjia-natural-water-550mlx24.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
