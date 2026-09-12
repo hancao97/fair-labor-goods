@@ -6758,6 +6758,106 @@
       },
       "filename": "images/jinluo-moshanghua-rice-gift-5kg.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "qixuanyuan-geyao-dragon-mug-meiziqing",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/373948/30/3803/110982/69337998Fe896aaeb/f22bbff3c87e4cb0.jpg",
+      "source_page": "https://www.jd.com/zuozhe/1620db959d0c23f06217.html",
+      "product_url": "https://item.jd.com/100070408615.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 80478,
+      "sha256": "6e39549ed1875f0e1cfdc05aa4f0e79878bd2b7d9e1d18d75f680e0843b7ed3a",
+      "visually_verified": true,
+      "visual_notes": "已查看原图：梅子青开片杯身、龙形杯把、盖及单杯礼盒，与100070408615变体图片对应，保留JD水印。",
+      "reuse_info": {
+        "rights_holder": "琦轩源品牌相关权利人、京东平台及相关图片权利人",
+        "license": "原图未声明开放许可；作为有出处的商品资料插图，不属于项目代码MIT授权。",
+        "attribution": "图片及商标版权归原权利人；保留原图标识与水印，不表示品牌背书。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 148603,
+        "sha256": "8347947b2e8732c5ca3050e34b4a9b7c80476b0e973dae3c3d9eb92a91f253da"
+      },
+      "filename": "images/qixuanyuan-geyao-dragon-mug-meiziqing.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "supor-ec32jgc03-wok-32cm",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/kPjr0SIYlt3ECJMtV8NDKA.jpg_800w_800h_4e_80Q_is",
+      "source_page": "https://m.suning.com/product/0071384541/000000012409350168.html",
+      "product_url": "https://m.suning.com/product/0071384541/000000012409350168.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 18482,
+      "sha256": "a002c8e7f5460f8d8d14173ffc45c0d02f406d234f68f1884267c8791c73a49d",
+      "visually_verified": true,
+      "visual_notes": "已查看原图：SUPOR标识、单柄炒锅和配套锅盖；来自EC32JGC03当前商品页，不依据图片推断锅体材质。",
+      "reuse_info": {
+        "rights_holder": "苏泊尔品牌相关权利人、苏宁易购及相关图片权利人",
+        "license": "原图未声明开放许可；作为有出处的商品资料插图，不属于项目代码MIT授权。",
+        "attribution": "图片及商标版权归原权利人；保留原图标识与水印，不表示品牌背书。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 27496,
+        "sha256": "2ea4c6220ee891c0131a124c35a791d676cf0ebb1325a6878db68c7d18aed3f4"
+      },
+      "filename": "images/supor-ec32jgc03-wok-32cm.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "supor-st16h3-milkpan-16cm",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/KgDfQweHDxazGClA0QxQaQ.jpg_800w_800h_4e",
+      "source_page": "https://product.suning.com/0070226792/12305227184.html",
+      "product_url": "https://product.suning.com/0070226792/12305227184.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 81140,
+      "sha256": "ce32055f4167f876b4e3446d7ed6e9de61d409941959456f5ffefe683bbf758f",
+      "visually_verified": true,
+      "visual_notes": "已查看ST16H3商品页原图：SUPOR标识、黑色单柄奶锅和煮面场景，未使用带限时价格的其他渠道广告图。",
+      "reuse_info": {
+        "rights_holder": "苏泊尔品牌相关权利人、苏宁易购及相关图片权利人",
+        "license": "原图未声明开放许可；作为有出处的商品资料插图，不属于项目代码MIT授权。",
+        "attribution": "图片及商标版权归原权利人；保留原图标识与水印，不表示品牌背书。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 436939,
+        "sha256": "80c344f0d35f03c4bab8062f0a8974c6791e29bb91142e6ddfef7ba4e2d969ea"
+      },
+      "filename": "images/supor-st16h3-milkpan-16cm.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "supor-vz26bs01-steamer-26cm",
+      "image_url": "https://www.cqxsyp.com/UpLoadFiles/SwfUpFile/77/20240424111638684260.jpg",
+      "source_page": "https://www.cqxsyp.com/ProductShow.aspx?id=45193",
+      "product_url": "https://www.cqxsyp.com/ProductShow.aspx?id=45193",
+      "width": 800,
+      "height": 800,
+      "bytes": 33802,
+      "sha256": "37e2b5c3c95123f99dc089a3576c5bc77b959b401376b04a0d7e5e5698139111",
+      "visually_verified": true,
+      "visual_notes": "已查看原图：SUPOR标识、蒸锅锅体、蒸格、蒸筐和玻璃盖，来自VZ26BS01产品45193页面。",
+      "reuse_info": {
+        "rights_holder": "苏泊尔品牌相关权利人、重庆熙尚商贸有限公司及相关图片权利人",
+        "license": "原图未声明开放许可；作为有出处的商品资料插图，不属于项目代码MIT授权。",
+        "attribution": "图片及商标版权归原权利人；保留原图标识与水印，不表示品牌背书。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 48850,
+        "sha256": "c30a8cebf06b2015dd8993cc9c8f1b5146a69c09ee3b51d6972070ceaac2242a"
+      },
+      "filename": "images/supor-vz26bs01-steamer-26cm.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

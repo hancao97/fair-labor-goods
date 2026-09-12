@@ -4472,9 +4472,9 @@
       "url": "https://www.dehua.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/rlzyhshbzj/fdzdgknr/202606/t20260605_3298269.htm",
       "publishedAt": "2026-06-05",
       "checkedAt": "2026-09-12",
-      "locator": "最终通知正文及 A 级企业表第 8、11、14 行",
-      "summary": "德人社〔2026〕53号公布 A 级 28 家、B 级 4 家、C 级 1 家；A 级表列明源陶瓷、信良陶瓷、唐硕陶瓷等具名企业，可作为对应日用餐具制造商的研究起点。",
-      "limitation": "名单包括工艺品、出口制造及其他行业，不能据此认定有国内可购的具体碗盘杯款式。此次尚未对应到准确零售规格，厨房餐具清单保留缺口。"
+      "locator": "德人社〔2026〕53号最终通知；A级表第8、11、13、14、15行",
+      "summary": "最终通知明确综合劳动监察、材料审查、投诉查处和专项检查，公示无异议后公布2025年度结果；A级表第13行列福建省德化琦轩陶瓷工艺有限公司，第15行列福建牛山牛瓷文化产业有限公司。",
+      "limitation": "评价适用于具名用人单位及2025年度。名单含出口、工艺品和服务企业，不能直接认定各企业旗下所有商品均为境内自产；景区经营主体关系已补，琦轩所选杯款的制造关系仍待核。"
     },
     {
       "id": "shaoxing-labor-2024-proposed",
@@ -4787,6 +4787,162 @@
       "locator": "商品号 493231，标题“金箩-10斤-陌上花礼盒（真空装）”；页尾非销售声明",
       "summary": "页面展示金箩陌上花真空礼盒，规格 10 斤（5kg），包装图有金箩米业及陌上花标识；页尾明确全部商品仅供展示、不直接对外销售。",
       "limitation": "虽有购物车样式、价格、库存和一盒起订文字，非销售声明使其不能作为零售入口。栏目“京东”不等于京东官方店铺；图片用于识别礼盒，不单独证明净含量或制造法人。"
+    },
+    {
+      "id": "shiniushan-operator-2025",
+      "title": "石牛山景区运营主体：人大建议答复函",
+      "publisher": "德化县文化体育和旅游局",
+      "type": "政府公开资料",
+      "url": "https://www.dehua.gov.cn/zwgk/zdxxgk/yatabljg/yabljg/202506/t20250630_3184834.htm",
+      "publishedAt": "2025-06-18",
+      "checkedAt": "2026-09-12",
+      "locator": "德文旅函〔2025〕28号；正文第一段及签署日期",
+      "summary": "答复函明确石牛山景区的运营主体为德化县文旅集团下属福建牛山牛瓷文化产业有限公司。",
+      "limitation": "用于对应景区与经营法人，不是劳动评价。景区为国家4A级，文件所述5A级属于创建目标；不将该公司关系推广到所有酒店、索道及外包商。"
+    },
+    {
+      "id": "shiniushan-adult-ticket-juyou",
+      "title": "石牛山景区成人门票（含岱仙瀑布）零售页",
+      "publisher": "聚优景点",
+      "type": "零售商品页",
+      "url": "https://jingdian.juyoufuli.com/scenics/55249",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "成人门票产品行及预订说明；本次原始网页响应",
+      "summary": "页面列成人首道门票含岱仙瀑布、90元起，所选使用日期当天有效，证件或电子凭证入园；本次响应要求最晚提前1天23:59前预订。其他交通和游玩项目单独列出。",
+      "limitation": "票种、价格和可订日期随渠道变化，未登录、下单或验证各日期库存。索引曾显示当天14:00前可订，本次采用实际页面说明；不把索道、观光车等套票混入单门票。"
+    },
+    {
+      "id": "shiniushan-counter-2026",
+      "title": "石牛山景区线下售票窗口及2026毕业季活动",
+      "publisher": "德化县人民政府旅游栏目",
+      "type": "政府公开资料",
+      "url": "https://www.dehua.gov.cn/ztzl/jczwgkbzhgfh/sdlybzzy/ly/202607/t20260708_3307664.htm",
+      "publishedAt": "2026-06-24",
+      "checkedAt": "2026-09-12",
+      "locator": "页面发布时间2026-06-24；免首道大门票政策第3项",
+      "summary": "2026年官方旅游信息明确存在景区线下售票窗口，活动参加者需在窗口兑换纸质票；另区分门票与索道、观光车等套餐。",
+      "limitation": "毕业季优惠已于2026-08-31结束。此来源只补充售票窗口与票种区别，不能证明当前仍免费或沿用学生优惠价。"
+    },
+    {
+      "id": "shiniushan-ctrip-visit",
+      "title": "携程石牛山景区地址与游览资料",
+      "publisher": "携程旅行",
+      "type": "旅游平台资料",
+      "url": "https://you.ctrip.com/sight/dehua2659/8936.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "景区地址、预订区、介绍及开放时间；本次原始网页响应",
+      "summary": "页面显示石牛山位于福建泉州德化水口镇湖坂村赤石口，设预订区并提示通过微信小程序查看相关商品。",
+      "limitation": "当前公开网页未给出可核对的成人门票成交明细，不能单独用它确认价格；开放时间及临时安排以出行前公告为准。"
+    },
+    {
+      "id": "qixuan-design-workshop-2025",
+      "title": "2025德化设计工作坊承办企业：琦轩陶瓷",
+      "publisher": "德化陶瓷产业创新发展研究院",
+      "type": "产业研究机构公开资料",
+      "url": "https://www.det-design.com/home/active/show/id/259.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "第07家企业：福建省德化琦轩陶瓷工艺有限公司；企业名称图片、公司简介和陶瓷茶具段",
+      "summary": "活动组织方具名介绍琦轩陶瓷工艺公司，说明其在德化开展陶瓷产品、供应链与电商业务，主营陶瓷茶具。已查看具名企业标题图。",
+      "limitation": "该段介绍企业及茶具设计需求，没有对应哥窑龙把办公杯的实际制造标签。页面显示04月08日及2025工作坊标题，未另取明确完整发布日期，日期字段留空。"
+    },
+    {
+      "id": "qixuanyuan-brand-directory",
+      "title": "琦轩源品牌与企业关联资料",
+      "publisher": "品牌网",
+      "type": "第三方品牌资料",
+      "url": "https://m.chinapp.com/pinpai/354260.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "品牌简介、企业信息及未认领标识",
+      "summary": "资料页将琦轩源关联到福建省德化琦轩陶瓷工艺有限公司，企业地址列德化县浔中镇新秀路9号。",
+      "limitation": "页面标注未认领，属于第三方品牌线索，不是工商商标原始记录或制造声明；不能凭品牌关系把所有琦轩源商品视为该厂自产。"
+    },
+    {
+      "id": "qixuanyuan-dragon-mug-jd",
+      "title": "琦轩源哥窑龙把办公杯梅子青零售规格",
+      "publisher": "京东",
+      "type": "零售商品页",
+      "url": "https://www.jd.com/zuozhe/1620db959d0c23f06217.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品卡规格哥窑龙把办公杯-梅子青+礼盒；变体商品号100070408615及对应图片",
+      "summary": "当前公开商品卡列琦轩源哥窑办公杯，梅子青龙把单杯加礼盒选项指向商品100070408615；图片可辨绿色开片杯身、龙形杯把、盖与礼盒。",
+      "limitation": "独立详情页仅返回脚本框架，未验证结算及实时库存；没有读取到该款容量和制造标签，不能用其他办公杯或附茶罐套装替代。"
+    },
+    {
+      "id": "supor-ec32jgc03-suning",
+      "title": "苏泊尔EC32JGC03有钛2代炒锅32cm",
+      "publisher": "苏宁易购",
+      "type": "零售商品页",
+      "url": "https://m.suning.com/product/0071384541/000000012409350168.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品标题、型号与产地参数、主图；商品号12409350168",
+      "summary": "页面列EC32JGC03炒锅、直径32cm、单只含盖，产地字段写中国湖北武汉市；已读取当前页面并查看对应主图。",
+      "limitation": "零售产地字段没有制造法人或工厂铭牌。标题写不锈钢而材质参数写纯钛，未将冲突字段作为材质结论；本款不是2026年新款EC32AT01。库存和价格需在购买时确认。"
+    },
+    {
+      "id": "supor-st16h3-suning",
+      "title": "苏泊尔ST16H3好帮手奶锅16cm",
+      "publisher": "苏宁易购苏泊尔小家电旗舰店",
+      "type": "零售商品页",
+      "url": "https://product.suning.com/0070226792/12305227184.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品标题、包装清单ST16H3x1、16cm口径及产地字段",
+      "summary": "当前页面列ST16H3好帮手奶锅，16cm单锅含盖，产地标中国湖北武汉市；已查看该页对应主图。",
+      "limitation": "页面未给出可对应的制造法人及劳动评价。其他渠道对容量、炉灶适用与配图描述不一，本站只选该页明确型号与口径，不写未经一致核对的容量；未验证结算或实时库存。"
+    },
+    {
+      "id": "supor-vz26bs01-cqxs",
+      "title": "苏泊尔VZ26BS01畅享经典双层蒸锅零售页",
+      "publisher": "重庆熙尚商贸有限公司 / 熙尚优品",
+      "type": "零售商品页",
+      "url": "https://www.cqxsyp.com/ProductShow.aspx?id=45193",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "产品45193：VZ26BS01、起购量1、商品简介及产品图片",
+      "summary": "原始网页列苏泊尔VZ26BS01双层蒸锅，起购量1，有数量选择与下单入口；本次显示库存96件。图片显示锅体、蒸格、蒸筐及玻璃盖。",
+      "limitation": "该商家购买指南主要使用单位劳保、保健品代金券；未确认普通个人现金购买，不能仅凭一件起购、库存数字和购物车认定普通零售。尺寸39×15.5×32.6cm不是锅口直径；未提供具名制造法人。"
+    },
+    {
+      "id": "supor-vz26bs01-jd-spec",
+      "title": "苏泊尔VZ26BS01蒸锅26cm历史商品规格",
+      "publisher": "京东",
+      "type": "零售规格资料",
+      "url": "https://item.jd.com/100022227819.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公开索引商品标题：畅享经典不锈钢双层蒸锅26CM、1蒸格+1蒸筐、VZ26BS01",
+      "summary": "京东同型号历史商品资料明确口径26cm及1蒸格加1蒸筐配置，与当前熙尚优品的型号和实物图片交叉对应。",
+      "limitation": "本次取得的是公开索引，抓取时间较早，仅辅助对应型号与口径，不作为今天可购买或制造主体证明。"
+    },
+    {
+      "id": "cqxs-purchase-guide",
+      "title": "熙尚优品购买指南：会员福利代金券流程",
+      "publisher": "重庆熙尚商贸有限公司 / 熙尚优品",
+      "type": "渠道购买说明",
+      "url": "https://www.cqxsyp.com/About.aspx?id=1781",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "购买指南第2—7项",
+      "summary": "指南要求会员核对小劳保、保健品对应代金券金额，按当期代金券凑单、提交订单；另有公开账号注册入口。",
+      "limitation": "公开注册不等于已确认无代金券的普通个人可用现金支付；本次未注册、登录、充值或下单。该指南用于解释VZ26BS01商品的销售证据缺口。"
+    },
+    {
+      "id": "shiniushan-fare-2021",
+      "title": "石牛山景区门票价格及单独售票规定",
+      "publisher": "泉州市发展和改革委员会",
+      "type": "政府公开资料",
+      "url": "https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/jghsf/zfdjml/202108/t20210809_2600974.htm",
+      "publishedAt": "2021-06-22",
+      "checkedAt": "2026-09-12",
+      "locator": "通知第一、二、四项；页面及落款2021-06-22",
+      "summary": "文件列石牛山主景区门票90元/人次，索道、观光车等自愿选购，不得与门票强行捆绑；要求在景区售票处公示各项价格。",
+      "limitation": "这是2021年定价文件，需结合当前票务资料与现场公示；不能用其旧受文单位证明当前运营法人。本站经营主体依据2025年文旅局答复函，2026年窗口信息及当前票务页补充可购资料。"
     }
   ],
   "companies": [
@@ -8682,7 +8838,7 @@
       "id": "supor",
       "name": "苏泊尔",
       "legalName": "浙江苏泊尔股份有限公司",
-      "location": "浙江；杭州、绍兴等生产法人按具体型号分别核对",
+      "location": "浙江；杭州、绍兴等生产法人分别核对，所选部分锅具零售资料标武汉产地",
       "origin": "china",
       "originNote": "苏泊尔报告记载品牌于 1994 年在中国创立；集团有境内及越南基地，所选大陆型号的生产厂和原料来源分别核验。",
       "level": "research",
@@ -8691,21 +8847,26 @@
       "hoursLabel": "具体工时制度待补",
       "restLabel": "具体休息安排待补",
       "cardNote": "审核披露与实习长班安排 · 实际待核",
-      "scope": "集团 2025 ESG 与杭州家电制造公司的 2025 届实习招聘；电饭煲、电水壶和电压力锅各自的制造证据不能跨法人使用。",
-      "finding": "已取得绍兴政府具名 AAAAA 拟评公示，以及集团基地审核和杭州实习招聘资料。拟评与最终评价不同；具体型号仍缺可对应制造法人的最终劳动结果。",
+      "scope": "集团 2025 ESG 与杭州家电制造公司的 2025 届实习招聘；电饭煲、电水壶和电压力锅各自的制造证据不能跨法人使用。 新增EC32JGC03炒锅、ST16H3奶锅及VZ26BS01蒸锅资料，锅具与电器的生产法人分别核对。",
+      "finding": "已取得绍兴政府具名 AAAAA 拟评公示，以及集团基地审核和杭州实习招聘资料。拟评与最终评价不同；具体型号仍缺可对应制造法人的最终劳动结果。 两款锅具零售页标武汉产地，但均缺具名制造标签；蒸锅也未对应到国内工厂。",
       "caveats": [
         "报告包含境内与越南基地，中国创立的品牌不能保证全部商品在中国生产。",
         "杭州招聘长白班含两小时休息及另行小休，倒班含午晚休息；打卡跨度不能当作净劳动时长，每周排班也未披露。",
         "ESG 审核自述没有原始审计记录与具体型号对应；历史 AAAAA 荣誉照片未明示法人全名，不能覆盖集团所有工厂。",
         "浙江苏泊尔家电制造、浙江绍兴苏泊尔生活电器与家居用品为不同法人，不互借劳动或产地证据。",
-        "已恢复绍兴政府 2024 年 AAAAA 拟评公示，列绍兴生活电器及厨卫电器法人；尚未取得具名最终授予结果，不能只因公示期结束就视为获评。"
+        "已恢复绍兴政府 2024 年 AAAAA 拟评公示，列绍兴生活电器及厨卫电器法人；尚未取得具名最终授予结果，不能只因公示期结束就视为获评。",
+        "新增炒锅、奶锅及蒸锅的制造主体尚未确定；零售武汉产地字段不等于具名生产法人的证明。"
       ],
       "sourceIds": [
         "supor-esg-2025",
         "supor-hangzhou-intern-hiring-2025",
         "supor-sf20fc45-energy-label",
         "supor-sw17s59a-jinan-sampling",
-        "shaoxing-labor-2024-proposed"
+        "shaoxing-labor-2024-proposed",
+        "supor-ec32jgc03-suning",
+        "supor-st16h3-suning",
+        "supor-vz26bs01-cqxs",
+        "supor-vz26bs01-jd-spec"
       ],
       "supply": [
         {
@@ -8717,13 +8878,16 @@
           ]
         },
         {
-          "stage": "电器制造与装配",
+          "stage": "电器及锅具制造",
           "status": "unknown",
-          "detail": "SF20FC45 资料图列杭州家电制造法人；SW-17S59A 历史样品列绍兴生活电器法人。杭州实习招聘有长班安排，其他法人与具体班组不得套用。",
+          "detail": "SF20FC45 资料图列杭州家电制造法人；SW-17S59A 历史样品列绍兴生活电器法人。杭州实习招聘有长班安排，其他法人与具体班组不得套用。 新增炒锅、奶锅页面标武汉产地但缺法人；蒸锅工厂未对应。",
           "sourceIds": [
             "supor-sf20fc45-energy-label",
             "supor-sw17s59a-jinan-sampling",
-            "supor-hangzhou-intern-hiring-2025"
+            "supor-hangzhou-intern-hiring-2025",
+            "supor-ec32jgc03-suning",
+            "supor-st16h3-suning",
+            "supor-vz26bs01-cqxs"
           ]
         },
         {
@@ -8737,7 +8901,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "优先取得绍兴具名最终评价并对应电水壶制造商；杭州电饭煲及其他法人分别核对适用工时制和劳动依据。供应商、外包资料作为补充调查。"
+      "nextCheck": "优先取得绍兴具名最终评价并对应电水壶制造商；杭州电饭煲及其他法人分别核对适用工时制和劳动依据。供应商、外包资料作为补充调查。 锅具优先补制造标签，向实际武汉或其他制造法人查找具名最终劳动依据。"
     },
     {
       "id": "mengna",
@@ -10577,6 +10741,154 @@
           "periodEnd": "2025-12-31",
           "reviewedAt": "2026-09-12",
           "reviewDueAt": "2027-06-03"
+        }
+      ]
+    },
+    {
+      "id": "niushanniuci-shiniushan",
+      "name": "石牛山景区运营公司",
+      "legalName": "福建牛山牛瓷文化产业有限公司",
+      "location": "福建省泉州市德化县水口镇湖坂村赤石口；石牛山景区",
+      "origin": "china",
+      "originNote": "德化文旅集团下属境内运营法人，在福建德化提供景区游览服务。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025年度劳动守法 A 级",
+      "scope": "福建牛山牛瓷文化产业有限公司及其石牛山景区首道门票游览服务；劳动评价覆盖2025年度。",
+      "finding": "文旅局答复函把石牛山景区对应到本公司；同一公司列德化2025年度最终劳动A级名单第15行，成人单门票与境内售票渠道已对应。",
+      "caveats": [
+        "政府评价限具名企业和2025年度，本站计划在2027-06-05前复核，不作未来持续合规保证。",
+        "本款仅收录成人首道门票（含岱仙瀑布），不把索道、观光车、游玩项目或酒店套餐一并作为已核商品。",
+        "票务渠道和运营主体分别核对，劳动评价不自动覆盖票务代理、设备供应商及外包岗位。"
+      ],
+      "sourceIds": [
+        "dehua-labor-2025",
+        "shiniushan-operator-2025",
+        "shiniushan-adult-ticket-juyou",
+        "shiniushan-counter-2026",
+        "shiniushan-ctrip-visit",
+        "law-labor-rating",
+        "shiniushan-fare-2021"
+      ],
+      "supply": [
+        {
+          "stage": "景区运营管理",
+          "status": "policy",
+          "detail": "德化文旅局具名说明石牛山景区由本公司运营。",
+          "sourceIds": [
+            "shiniushan-operator-2025"
+          ]
+        },
+        {
+          "stage": "境内游览服务",
+          "status": "policy",
+          "detail": "服务发生在福建德化；运营法人有2025年度劳动守法A级评价，成人首道门票已对应。",
+          "sourceIds": [
+            "dehua-labor-2025",
+            "shiniushan-adult-ticket-juyou",
+            "shiniushan-ctrip-visit"
+          ]
+        },
+        {
+          "stage": "外包与设备供应",
+          "status": "unknown",
+          "detail": "景区以外的代理、设备供应及未具名外包单位未沿用本公司的评价。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "在本站复核期限前核对更新劳动评价、运营主体变化及相反证据；票种和可订条件按出行日期复查。",
+      "assessments": [
+        {
+          "subject": "福建牛山牛瓷文化产业有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025年度",
+          "sourceId": "dehua-labor-2025",
+          "limitation": "2026-06-05公布的最终A级表第15行列该法人。本站复核期限不是政府规定的评级有效期，评价不自动覆盖关联或外包企业。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2027-06-05"
+        }
+      ]
+    },
+    {
+      "id": "qixuan-ceramics-dehua",
+      "name": "德化琦轩陶瓷",
+      "legalName": "福建省德化琦轩陶瓷工艺有限公司",
+      "location": "福建省泉州市德化县；第三方资料列浔中镇新秀路9号",
+      "origin": "china",
+      "originNote": "德化设计工作坊组织方具名介绍的境内陶瓷企业；琦轩源品牌关系有第三方线索，所选杯款是否由该企业自产另行核对。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "企业2025年度劳动 A 级 · 杯款制造待核",
+      "scope": "劳动依据适用于福建省德化琦轩陶瓷工艺有限公司，覆盖2025年度；尚未延伸到琦轩源所选杯款。",
+      "finding": "德化最终A级名单第13行具名该企业，产业研究院介绍其陶瓷茶具业务。琦轩源哥窑龙把办公杯已有准确零售选项，但缺制造标签与该法人的对应证明。",
+      "caveats": [
+        "企业获评与具体杯款获支持是两件事；不能把电商品牌的所有款式视为本厂自产。",
+        "品牌网关联页标注未认领，尚需工商商标、品牌或制造商原始资料补强。",
+        "劳动评价覆盖2025年度，本站在2027-06-05前复核；不推断所有工人的国籍或未公开的具体排班。"
+      ],
+      "sourceIds": [
+        "dehua-labor-2025",
+        "qixuan-design-workshop-2025",
+        "qixuanyuan-brand-directory",
+        "qixuanyuan-dragon-mug-jd",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "陶瓷企业与品牌关系",
+          "status": "policy",
+          "detail": "工作坊组织方具名陶瓷企业；第三方品牌网关联琦轩源，但该品牌页未认领。",
+          "sourceIds": [
+            "qixuan-design-workshop-2025",
+            "qixuanyuan-brand-directory"
+          ]
+        },
+        {
+          "stage": "所选办公杯制造",
+          "status": "unknown",
+          "detail": "企业有具名劳动A级评价，但梅子青龙把杯尚缺制造标签，不能直接沿用。",
+          "sourceIds": [
+            "dehua-labor-2025",
+            "qixuanyuan-dragon-mug-jd"
+          ]
+        },
+        {
+          "stage": "原料、包装与外包配送",
+          "status": "unknown",
+          "detail": "未取得该杯款原料、礼盒、外包或配送单位的劳动资料，作为后续补充调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "优先查找商品100070408615的包装、合格证或具名制造资料，核对品牌关系及是否存在委托生产，再判断商品能否沿用该企业劳动评价。",
+      "assessments": [
+        {
+          "subject": "福建省德化琦轩陶瓷工艺有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025年度",
+          "sourceId": "dehua-labor-2025",
+          "limitation": "2026-06-05公布的最终A级表第13行列该法人。本站复核期限不是政府规定的评级有效期，评价不自动覆盖关联或外包企业。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2027-06-05"
         }
       ]
     }
@@ -17954,6 +18266,287 @@
           ]
         }
       }
+    },
+    {
+      "id": "shiniushan-adult-admission-single",
+      "name": "石牛山景区成人门票（含岱仙瀑布）· 单次",
+      "brand": "石牛山景区",
+      "companyId": "niushanniuci-shiniushan",
+      "category": "culture",
+      "description": "福建德化石牛山景区的普通成人首道门票，含岱仙瀑布游览；按所选日期使用。",
+      "tags": [
+        "景区",
+        "门票",
+        "成人票",
+        "岱仙瀑布",
+        "福建",
+        "德化"
+      ],
+      "needs": [
+        "景区"
+      ],
+      "url": "https://jingdian.juyoufuli.com/scenics/55249",
+      "market": "可到石牛山景区售票窗口购买普通成人首道门票，出行前核对现场价格和开放安排。线上参考聚优景点“石牛山景区门票(含岱仙瀑布)成人票”：查阅时90元起，最晚提前1天23:59前预订、所选日期有效，需按渠道账户、库存及退改要求购买。索道、观光车及其他游玩项目另计。",
+      "relationship": "德化文旅局答复函明确福建牛山牛瓷文化产业有限公司为运营主体；零售票种及携程地址对应同一福建德化石牛山景区。",
+      "relationshipSourceIds": [
+        "shiniushan-operator-2025",
+        "shiniushan-adult-ticket-juyou",
+        "shiniushan-ctrip-visit"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "政府定价文件明确首道门票及景区售票处，2026年官方旅游信息确认仍设窗口；当前票务页列同景区成人票及日期条件。过期毕业季优惠未沿用，线上账户要求以渠道为准。",
+          "sourceIds": [
+            "shiniushan-adult-ticket-juyou",
+            "shiniushan-counter-2026",
+            "shiniushan-fare-2021"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "游览服务在福建德化提供，文旅局明确对应具名运营公司。",
+          "sourceIds": [
+            "shiniushan-operator-2025",
+            "shiniushan-ctrip-visit"
+          ],
+          "subject": "福建牛山牛瓷文化产业有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "本景区运营公司自身列德化2025年度劳动守法A级最终名单第15行。",
+          "sourceIds": [
+            "dehua-labor-2025",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "dehua-labor-2025"
+        }
+      }
+    },
+    {
+      "id": "qixuanyuan-geyao-dragon-mug-meiziqing",
+      "name": "哥窑龙把办公杯 · 梅子青 · 单杯加礼盒",
+      "brand": "琦轩源",
+      "companyId": "qixuan-ceramics-dehua",
+      "category": "kitchen",
+      "description": "梅子青陶瓷办公杯，带盖、龙形杯把及礼盒；按单杯礼盒规格整理。",
+      "tags": [
+        "水杯",
+        "办公杯",
+        "陶瓷杯",
+        "梅子青",
+        "龙把",
+        "礼盒"
+      ],
+      "needs": [
+        "水杯"
+      ],
+      "url": "https://item.jd.com/100070408615.html",
+      "market": "京东商品号100070408615，选项“哥窑龙把办公杯-梅子青+礼盒”。这是单杯礼盒款；附茶罐套装为其他货号。价格、库存及配送以实际商品页为准，容量尚未核对。",
+      "relationship": "零售卡片明确琦轩源品牌及所选变体；第三方品牌网关联德化琦轩陶瓷，产业研究院具名介绍该企业。所选杯款制造标签仍待补。",
+      "relationshipSourceIds": [
+        "qixuanyuan-dragon-mug-jd",
+        "qixuanyuan-brand-directory",
+        "qixuan-design-workshop-2025"
+      ],
+      "image": "images/qixuanyuan-geyao-dragon-mug-meiziqing.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/373948/30/3803/110982/69337998Fe896aaeb/f22bbff3c87e4cb0.jpg",
+      "imageRights": "琦轩源品牌相关权利人、京东平台及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前大陆零售卡片明确单杯加礼盒变体、商品号及图片；未验证结算或实时库存。",
+          "sourceIds": [
+            "qixuanyuan-dragon-mug-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "企业在德化开展陶瓷业务，但品牌关联与产业介绍不能证明此杯由其自产；尚缺商品100070408615的具名制造标签。",
+          "sourceIds": [
+            "qixuan-design-workshop-2025",
+            "qixuanyuan-brand-directory",
+            "qixuanyuan-dragon-mug-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "德化琦轩陶瓷已有2025年度最终劳动A级评价；待该杯制造主体与获评法人对应后再判断，不因企业获评直接升级所有品牌商品。",
+          "sourceIds": [
+            "dehua-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "supor-ec32jgc03-wok-32cm",
+      "name": "有钛2代炒锅 EC32JGC03 · 32cm 单锅",
+      "brand": "苏泊尔",
+      "companyId": "supor",
+      "category": "kitchen",
+      "description": "EC32JGC03型号炒锅，直径32cm，单锅含盖，作为日常炒菜锅整理。",
+      "tags": [
+        "炒锅",
+        "32cm",
+        "EC32JGC03",
+        "有钛2代"
+      ],
+      "needs": [
+        "炒锅"
+      ],
+      "url": "https://m.suning.com/product/0071384541/000000012409350168.html",
+      "market": "苏宁易购商品12409350168，选择EC32JGC03、32cm单只含盖。当前地区库存与价格需在商品页确认；本款不是EC32AT01新型号。",
+      "relationship": "苏宁商品页明确苏泊尔品牌、型号和武汉产地字段，集团ESG说明存在多地生产基地；所选锅具的制造法人尚未取得。",
+      "relationshipSourceIds": [
+        "supor-ec32jgc03-suning",
+        "supor-esg-2025"
+      ],
+      "image": "images/supor-ec32jgc03-wok-32cm.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/kPjr0SIYlt3ECJMtV8NDKA.jpg_800w_800h_4e_80Q_is",
+      "imageRights": "苏泊尔品牌相关权利人、苏宁易购及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前大陆零售商品页已读取，明确EC32JGC03、32cm和单只包装。",
+          "sourceIds": [
+            "supor-ec32jgc03-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售参数标中国湖北武汉市，但没有具名制造企业或工厂标签；需对应实际锅具生产法人。",
+          "sourceIds": [
+            "supor-ec32jgc03-suning",
+            "supor-esg-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得此锅具制造法人的具名最终劳动评价，集团审核自述及绍兴电器企业拟评公示不能代替。",
+          "sourceIds": [
+            "supor-esg-2025",
+            "shaoxing-labor-2024-proposed"
+          ]
+        }
+      }
+    },
+    {
+      "id": "supor-st16h3-milkpan-16cm",
+      "name": "好帮手奶锅 ST16H3 · 16cm 单锅",
+      "brand": "苏泊尔",
+      "companyId": "supor",
+      "category": "kitchen",
+      "description": "ST16H3型号奶锅，口径16cm，单锅含盖，可用于日常热奶和煮面。",
+      "tags": [
+        "奶锅",
+        "小汤锅",
+        "泡面锅",
+        "ST16H3",
+        "16cm"
+      ],
+      "needs": [
+        "奶锅"
+      ],
+      "url": "https://product.suning.com/0070226792/12305227184.html",
+      "market": "苏宁易购苏泊尔小家电旗舰店商品12305227184，包装清单ST16H3×1，口径16cm。本站不混用其他渠道的容量和赠品选项；炉灶适用、库存及配送按该款说明与订单核对。",
+      "relationship": "当前苏宁页面把ST16H3、16cm与苏泊尔品牌对应，并标示武汉产地；尚无具名制造标签，不能沿用其他苏泊尔电器的生产和劳动证据。",
+      "relationshipSourceIds": [
+        "supor-st16h3-suning",
+        "supor-esg-2025"
+      ],
+      "image": "images/supor-st16h3-milkpan-16cm.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/KgDfQweHDxazGClA0QxQaQ.jpg_800w_800h_4e",
+      "imageRights": "苏泊尔品牌相关权利人、苏宁易购及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已读取大陆具体商品页，明确ST16H3×1和16cm口径，未进行实际结算。",
+          "sourceIds": [
+            "supor-st16h3-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "产地栏标中国湖北武汉市，仍缺这款奶锅的具名制造法人和工厂对应。",
+          "sourceIds": [
+            "supor-st16h3-suning",
+            "supor-esg-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团报告不是该锅具制造企业的最终劳动评价；需在生产法人确认后核对劳动依据。",
+          "sourceIds": [
+            "supor-esg-2025",
+            "shaoxing-labor-2024-proposed"
+          ]
+        }
+      }
+    },
+    {
+      "id": "supor-vz26bs01-steamer-26cm",
+      "name": "畅享经典双层蒸锅 VZ26BS01 · 26cm",
+      "brand": "苏泊尔",
+      "companyId": "supor",
+      "category": "kitchen",
+      "description": "VZ26BS01型号双层蒸锅，口径26cm，含一蒸格、一蒸筐及玻璃盖；锅体也可作汤锅使用。",
+      "tags": [
+        "蒸锅",
+        "蒸笼",
+        "双层",
+        "26cm",
+        "VZ26BS01"
+      ],
+      "needs": [
+        "蒸锅"
+      ],
+      "url": "https://www.cqxsyp.com/ProductShow.aspx?id=45193",
+      "market": "熙尚优品商品45193，型号VZ26BS01，标示一件起购及库存。购买指南主要使用单位福利代金券；普通个人现金购买及配送条件未确认，先作商品资料入口。京东同型号索引较旧，不用它证明当前可售。",
+      "relationship": "当前零售页明确VZ26BS01及双层结构；京东同型号历史资料补充26cm口径与配件，图片交叉对应。尚缺实际制造企业和境内生产标签。",
+      "relationshipSourceIds": [
+        "supor-vz26bs01-cqxs",
+        "supor-vz26bs01-jd-spec",
+        "supor-esg-2025"
+      ],
+      "image": "images/supor-vz26bs01-steamer-26cm.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.cqxsyp.com/UpLoadFiles/SwfUpFile/77/20240424111638684260.jpg",
+      "imageRights": "苏泊尔品牌相关权利人、重庆熙尚商贸有限公司及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "商品页虽有一件起购和购物车，但购买指南面向劳保、保健品福利代金券；普通个人现金购买尚不明确，京东资料又是历史索引，需补当前普通零售渠道。",
+          "sourceIds": [
+            "supor-vz26bs01-cqxs",
+            "supor-vz26bs01-jd-spec",
+            "cqxs-purchase-guide"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售型号已明确，但没有具名制造企业或国内生产地点，不能因中国品牌与集团境内基地就认定本锅国内自产。",
+          "sourceIds": [
+            "supor-vz26bs01-cqxs",
+            "supor-esg-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚缺与该型号实际制造法人相符的最终劳动依据，不沿用集团其他工厂的荣誉、拟评或招聘信息。",
+          "sourceIds": [
+            "supor-esg-2025",
+            "shaoxing-labor-2024-proposed"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -18504,9 +19097,14 @@
           "query": "保鲜膜"
         }
       ],
-      "note": "补入原清单遗漏的厨房餐具与食品收纳用途。已从德化最终劳动评价名单查到具名陶瓷制造企业，尚未对应国内可购买的准确碗盘杯款式；其余用途待逐项补入具体商品与生产企业依据。缺口不表示市场上没有合规商品。",
+      "note": "已补琦轩源梅子青龙把办公杯及苏泊尔炒锅、奶锅、蒸锅4款具体资料。琦轩企业有2025年度最终劳动A级评价，但杯款制造关系待补；锅具的具名生产与劳动证据待补。饭碗、餐盘、筷子、菜刀、砧板、饭盒、保鲜盒、保鲜袋和保鲜膜仍有资料缺口。待核查不表示企业违法或市场上没有合规商品。",
       "sourceIds": [
-        "dehua-labor-2025"
+        "dehua-labor-2025",
+        "qixuanyuan-dragon-mug-jd",
+        "qixuan-design-workshop-2025",
+        "supor-ec32jgc03-suning",
+        "supor-st16h3-suning",
+        "supor-vz26bs01-cqxs"
       ]
     },
     {
@@ -19037,11 +19635,14 @@
           "query": "演出"
         }
       ],
-      "note": "新增清明上河园门票和《大宋·东京梦华》实景演出，服务地点和预订入口明确，员工及外包团队劳动履行未知；电影、视频、音乐等仍有缺口。",
+      "note": "石牛山景区成人首道门票（含岱仙瀑布）已对应境内经营主体、零售渠道与2025年度劳动A级评价。清明上河园门票和大宋东京梦华演出继续待核查；图书、电影、视频和音乐等仍缺具体商品资料。",
       "sourceIds": [
         "national-harmony-2022",
         "vista-hiring",
-        "qingming-official"
+        "qingming-official",
+        "dehua-labor-2025",
+        "shiniushan-operator-2025",
+        "shiniushan-adult-ticket-juyou"
       ]
     },
     {
