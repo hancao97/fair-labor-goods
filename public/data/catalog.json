@@ -1061,11 +1061,11 @@
       "title": "开平市 2025 年度劳动保障守法诚信等级评价结果",
       "publisher": "开平市人力资源和社会保障局",
       "url": "https://www.kaiping.gov.cn/jmkpsrsj/gkmlpt/content/3/3501/post_3501327.html",
-      "summary": "公布对 2025 全年的评价结果；广东嘉士利食品集团、开兰面粉、美玉子食品、广中皇食品、粤师傅调味食品等具体法人列为 A 级。",
+      "summary": "公布对 2025 全年的评价结果；广东嘉士利食品集团、开兰面粉、美玉子食品、康力食品集团、广中皇食品、开平金箩米业、粤师傅调味食品等具体法人列为 A 级。",
       "limitation": "覆盖名单所列法人在 2025 年的劳动保障守法情况；不能扩展到不同法人，也不是未来持续合规保证。",
       "publishedAt": "2026-06-03",
       "checkedAt": "2026-09-12",
-      "locator": "附件企业名单第 2、5、139、222、295 行等",
+      "locator": "附件企业名单第 2、5、139、182、222、256、295 行等；182 为康力食品，256 为金箩米业",
       "type": "政府评价"
     },
     {
@@ -4592,7 +4592,7 @@
       "url": "https://rsj.ahsz.gov.cn/xwzx/tzgg/196173891.html",
       "publishedAt": "2025-12-15",
       "checkedAt": "2026-09-12",
-      "locator": "最终公告及附件 1 A 级单位表；第 104 行宿州徽香源、第 207 行砀山汇源、第 331 行灵璧现代公交；另有第 46、48、50、101 行门店线索",
+      "locator": "最终公告及附件 1 A 级单位表；第 104 行宿州徽香源、第 207 行砀山汇源、第 320 行安徽侯王面业、第 331 行灵璧现代公交；另有第 46、48、50、101 行门店线索",
       "summary": "2025 年开展、审查 2024 年的劳动守法诚信评价最终结果。已读取原 A 级附件，本批据具名食品企业及公交企业对应准确商品和本地线路服务；其他企业逐项继续核查。",
       "limitation": "评价适用于具名用人单位及 2024 年审查范围，不扩张为同品牌所有企业均获评，也不作未来持续合规保证。附件序号以原文件为准。"
     },
@@ -4691,6 +4691,102 @@
       "locator": "销售排行中 100% 桃混合果汁 2000ml×1 瓶；准确商品号 100059650798",
       "summary": "已读店铺公开 HTML，商品标题和链接列汇源 100% 桃混合果汁 2000mL 单瓶，图片也显示桃混合果汁 2L×1 瓶。购买链接移除了与商品身份无关的追踪参数。",
       "limitation": "包装上制造企业小字无法可靠辨认，保留为国内销售证据；不据正面品牌或模糊字样认定砀山工厂供货。库存及配送范围以订单为准。"
+    },
+    {
+      "id": "kangli-parent-annual2025",
+      "title": "嘉士利集团 2025 年报：康力面食品牌及具名企业",
+      "publisher": "嘉士利集团有限公司／香港交易所披露易",
+      "type": "企业年报",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0428/2026042804088_c.pdf",
+      "publishedAt": "2026-04-28",
+      "checkedAt": "2026-09-12",
+      "locator": "印刷第 16 页“面食”（PDF 第 17 页）及印刷第 102 页附注 12（PDF 第 103 页）",
+      "summary": "年报将 Kangli 康力列为集团面食及通心粉品牌，并具名广东康力食品集团有限公司。结合本款包装及公开生产记录对应品牌和生产企业。",
+      "limitation": "用于品牌及企业关系，不把集团年报、税务资质或经营自述作为劳动合规依据，也不凭年报认定每一件零售商品的生产批次。"
+    },
+    {
+      "id": "kangli-spiral500-hangzhou2025",
+      "title": "杭州餐饮抽检合格产品附件：螺旋形意大利面 500g/袋",
+      "publisher": "浙江政务公开文件服务（杭州餐饮抽检资料）",
+      "type": "政府产品记录",
+      "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3246/site/attach/0/30eaf013649b46c9b125beace08f70fd.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "《餐饮服务环节监督抽检合格产品信息》PDF 第 30 页，第 353 行；样品生产日期 2025-06-07",
+      "summary": "原始附件列螺旋形意大利面 500g/袋，标称生产企业广东康力食品集团有限公司，厂址广东省江门市开平市水口镇龙美工业路 43 号之 2 第 1 座。",
+      "limitation": "附件未见公开发布日期，不能将样品生产日期或 PDF 创建时间当作发布日期。商标栏为“/”；通过品牌年报、零售包装和同规格制造记录交叉对应，不把食品抽检当成劳动评价，也不认定当前每一批货均被抽检。"
+    },
+    {
+      "id": "kangli-spiral500-jd",
+      "title": "京东康力螺旋粉 500g 单袋商品卡",
+      "publisher": "京东商品聚合页及其链接商品",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/1320f98757d7f8a641ad.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "2026-09-12 读取的商品卡；商品号 10213376840882，选项“螺纹粉500g*1”；包装正面为 HLV 康力螺旋粉 500g",
+      "summary": "公开商品卡列康力意大利面并提供 500g 单袋选项及对应商品链接；同一卡片图片正面可辨康力、螺旋粉和净含量 500g。",
+      "limitation": "索引旧摘要曾显示五袋，收录以本次实际读取的单袋卡片和商品号为准。独立详情页仅返回脚本框架，未验证结算或实时库存；不标为京东自营，不沿用混合三袋加随机酱包的另一商品。包装照片不能单独证明制造法人。"
+    },
+    {
+      "id": "houwang-green-products2025",
+      "title": "宿州市全市绿色食品认证情况：侯王家用小麦粉",
+      "publisher": "宿州市人民政府",
+      "type": "政府产品记录",
+      "url": "https://www.ahsz.gov.cn/public/2655603/195946791.html",
+      "publishedAt": "2025-10-16",
+      "checkedAt": "2026-09-12",
+      "locator": "安徽侯王面业有限公司相关行：益美得面粉、金侯包点粉及家用小麦粉",
+      "summary": "地方产品认证表将安徽侯王面业有限公司与益美得相关面粉、家用小麦粉等产品对应，作为生产企业及产品系列的研究线索。",
+      "limitation": "本次通过公开索引读取，直接请求返回 404。认证表不能单独确认当前 2.5kg 零售包装制造主体；表内证书期限至 2026-09-20，不以绿色食品认证代替劳动评价。"
+    },
+    {
+      "id": "yimeide-flour25-icbc-archive",
+      "title": "融 e 购历史乡村振兴商品资料：益美得家用小麦粉 2.5kg",
+      "publisher": "中国工商银行融 e 购历史活动页面",
+      "type": "历史销售资料",
+      "url": "https://channels1.mall.icbc.com.cn/channels/mobile/operation/xbfpg/html/allProducts.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面所引用的公开 topicData.js 数据；2021 年乡村振兴第十九期，商品号 9001415715",
+      "summary": "历史公开数据列益美得家用小麦粉 5 斤／2.5kg、轩品食品专营店及原融 e 购商品号，提供具体消费规格线索。",
+      "limitation": "记录上架时间为 2021-04-21，页面没有可确认的独立发布日期。工行已宣布 2022-06-30 停止个人商城相关服务；历史卡片及价格均不能作为当前可购买证据。"
+    },
+    {
+      "id": "icbc-mall-closure2022",
+      "title": "融 e 购个人商城重要公告",
+      "publisher": "中国工商银行股份有限公司",
+      "type": "销售渠道公告",
+      "url": "https://channels1.mall.icbc.com.cn/oaasChannels/mobile/operation/gonggao0524/index.html",
+      "publishedAt": "2022-05-30",
+      "checkedAt": "2026-09-12",
+      "locator": "公告第一段及落款日期；停止相关服务时间为 2022-06-30 24:00",
+      "summary": "工行因业务调整宣布停止融 e 购个人商城相关服务，历史商品列表仍可读取也不代表个人商城继续经营。",
+      "limitation": "仅判断原个人商城渠道是否仍可使用，不代表相关商品已停止生产或不存在其他零售渠道。"
+    },
+    {
+      "id": "jinluo-official-products",
+      "title": "金箩米业官网：企业与陌上花大米系列",
+      "publisher": "开平市金箩米业有限公司",
+      "type": "企业产品资料",
+      "url": "https://www.wyjinluo.com/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "企业简介及金箩丝苗米、陌上花系列介绍",
+      "summary": "官网公开索引将金箩及陌上花大米与开平市金箩米业有限公司对应，企业位于开平沙塘镇，提供境内制造企业与品牌关系线索。",
+      "limitation": "本次能读取公开索引，直接连接失败；官网系列介绍未确认所选 10 斤礼盒当前生产标签或库存，不能据此认定具体包装已具备完整产地和购买证据。"
+    },
+    {
+      "id": "jinluo-rice5-showroom",
+      "title": "陌上花大米 10 斤真空礼盒展示资料",
+      "publisher": "福源爱供应链商品展示页面",
+      "type": "商品展示资料",
+      "url": "https://www.fyuanai.com/s/goods.php?id=493231",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品号 493231，标题“金箩-10斤-陌上花礼盒（真空装）”；页尾非销售声明",
+      "summary": "页面展示金箩陌上花真空礼盒，规格 10 斤（5kg），包装图有金箩米业及陌上花标识；页尾明确全部商品仅供展示、不直接对外销售。",
+      "limitation": "虽有购物车样式、价格、库存和一盒起订文字，非销售声明使其不能作为零售入口。栏目“京东”不等于京东官方店铺；图片用于识别礼盒，不单独证明净含量或制造法人。"
     }
   ],
   "companies": [
@@ -10264,6 +10360,223 @@
           "periodEnd": "2024-12-31",
           "reviewedAt": "2026-09-12",
           "reviewDueAt": "2026-12-15"
+        }
+      ]
+    },
+    {
+      "id": "kangli-food-kaiping",
+      "name": "康力 · 开平食品厂",
+      "legalName": "广东康力食品集团有限公司",
+      "location": "广东江门开平水口镇龙美工业路",
+      "origin": "china",
+      "originNote": "中国境内食品制造企业；康力面食品牌与具体生产企业据集团年报及政府制造记录交叉对应。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年劳动守法 A 级",
+      "scope": "广东康力食品集团有限公司及已对应的螺旋粉 500g 单袋；劳动评价覆盖该法人 2025 年。",
+      "finding": "该生产企业列开平劳动 A 级名单第 182 行；原始抽检附件对应 500g 螺旋形意大利面及开平厂址，当前零售卡提供康力同规格单袋入口。",
+      "caveats": [
+        "A 级评价覆盖本法人及 2025 年，不保证未来持续合规；本站计划在 2027-06-03 前复核。",
+        "制造记录对应 2025-06-07 的样品；以品牌、品类和 500g 规格交叉判断，不认定当前每个批次均被政府抽检。",
+        "仅收录已对应的单袋螺旋粉；其他形状、混合口味或附随机酱包的套装需另行核对。"
+      ],
+      "sourceIds": [
+        "kaiping-labor-2025",
+        "kangli-parent-annual2025",
+        "kangli-spiral500-hangzhou2025",
+        "kangli-spiral500-jd",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与产品",
+          "status": "policy",
+          "detail": "集团年报列康力面食品牌；所选零售包装正面显示康力、螺旋粉及 500g。",
+          "sourceIds": [
+            "kangli-parent-annual2025",
+            "kangli-spiral500-jd"
+          ]
+        },
+        {
+          "stage": "意面加工制造",
+          "status": "policy",
+          "detail": "杭州餐饮抽检原附件列同品类同规格及开平制造主体，该主体自身获 2025 年劳动 A 级评价。",
+          "sourceIds": [
+            "kangli-spiral500-hangzhou2025",
+            "kaiping-labor-2025"
+          ]
+        },
+        {
+          "stage": "原料、包材与物流",
+          "status": "unknown",
+          "detail": "上游资料继续补充，本企业劳动评价不延伸到未具名供应商。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "关注更新劳动评价、相反证据、制造企业及包装变化，并跟进所选单袋商品的零售状态。",
+      "assessments": [
+        {
+          "subject": "广东康力食品集团有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "最终评价名单第 182 行列本用人单位，评价审查 2025 年；本站复核期限不是政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2027-06-03"
+        }
+      ]
+    },
+    {
+      "id": "houwang-flour-lingbi",
+      "name": "侯王面业 · 益美得",
+      "legalName": "安徽侯王面业有限公司",
+      "location": "安徽宿州",
+      "origin": "china",
+      "originNote": "宿州面粉生产企业；益美得与家用小麦粉的关系据地方产品记录和历史销售资料研究。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年获评劳动 A 级 · 审查 2024 年",
+      "scope": "安徽侯王面业有限公司的 2024 年劳动评价；益美得家用小麦粉 2.5kg 尚待对应当前渠道与制造标签。",
+      "finding": "企业在宿州最终劳动 A 级名单第 320 行；已找到家用面粉系列和历史小包装资料，但原融 e 购个人商城于 2022 年停止相关服务。",
+      "caveats": [
+        "劳动 A 级评价审查 2024 年，本站计划在 2026-12-15 前复核。",
+        "政府产品系列记录不等于当前每个 2.5kg 零售包装已核清制造企业。",
+        "原融 e 购列表只是历史资料；没有将停运商城或未核实的批发线索记为当前个人购买渠道。"
+      ],
+      "sourceIds": [
+        "suzhou-labor-2024",
+        "houwang-green-products2025",
+        "yimeide-flour25-icbc-archive",
+        "icbc-mall-closure2022",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "具名企业劳动评价",
+          "status": "policy",
+          "detail": "侯王面业列宿州最终 A 级附件第 320 行，审查范围为 2024 年。",
+          "sourceIds": [
+            "suzhou-labor-2024"
+          ]
+        },
+        {
+          "stage": "家用面粉对应",
+          "status": "policy",
+          "detail": "地方产品记录列企业家用小麦粉系列；历史活动列益美得 2.5kg，当前标签和零售渠道仍待补。",
+          "sourceIds": [
+            "houwang-green-products2025",
+            "yimeide-flour25-icbc-archive",
+            "icbc-mall-closure2022"
+          ]
+        },
+        {
+          "stage": "种植、包材与物流",
+          "status": "unknown",
+          "detail": "未逐一对应上游供应商，作为补充继续研究。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "寻找当前 2.5kg 家庭装个人零售入口和制造标签；原融 e 购停止服务，不能继续用其历史价格与商品链接证明可购买。",
+      "assessments": [
+        {
+          "subject": "安徽侯王面业有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年评价（审查 2024 年）",
+          "sourceId": "suzhou-labor-2024",
+          "limitation": "最终评价名单第 320 行列本用人单位，评价审查 2024 年；本站复核期限不是政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-12-15"
+        }
+      ]
+    },
+    {
+      "id": "jinluo-rice-kaiping",
+      "name": "金箩米业 · 开平米厂",
+      "legalName": "开平市金箩米业有限公司",
+      "location": "广东江门开平沙塘镇",
+      "origin": "china",
+      "originNote": "开平本地大米加工企业；官网将金箩及陌上花系列与该中国境内企业对应。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年劳动守法 A 级",
+      "scope": "开平市金箩米业有限公司的 2025 年劳动评价；陌上花 10 斤礼盒正在核对具体标签及当前个人购买渠道。",
+      "finding": "企业自身列开平劳动 A 级名单第 256 行；官网有大米系列资料，所选礼盒页面明确仅供展示，当前不能据此确认零售可买。",
+      "caveats": [
+        "劳动评价覆盖该法人 2025 年，本站计划在 2027-06-03 前复核，不保证未来持续合规。",
+        "陌上花系列与制造企业有公开关系线索，所选 5kg 真空礼盒仍缺当前可读制造标签。",
+        "展示页虽有购物车和库存样式，页尾声明不直接对外销售，因此商品仍待核查。"
+      ],
+      "sourceIds": [
+        "kaiping-labor-2025",
+        "jinluo-official-products",
+        "jinluo-rice5-showroom",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "具名企业劳动评价",
+          "status": "policy",
+          "detail": "开平最终名单第 256 行列金箩米业 A 级。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        },
+        {
+          "stage": "大米与包装对应",
+          "status": "policy",
+          "detail": "官网介绍金箩及陌上花系列；展示页列 10 斤真空礼盒，当前批次标签仍待补。",
+          "sourceIds": [
+            "jinluo-official-products",
+            "jinluo-rice5-showroom"
+          ]
+        },
+        {
+          "stage": "稻谷种植、包材与物流",
+          "status": "unknown",
+          "detail": "上游资料继续补充，企业评级不扩展为整条供应链认证。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "寻找准确礼盒的当前个人购买入口或明确门店售卖资料，并补充该包装的制造企业信息。",
+      "assessments": [
+        {
+          "subject": "开平市金箩米业有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "最终评价名单第 256 行列本用人单位，评价审查 2025 年；本站复核期限不是政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2027-06-03"
         }
       ]
     }
@@ -17470,6 +17783,177 @@
           ]
         }
       }
+    },
+    {
+      "id": "kangli-spiral-pasta-500g",
+      "name": "螺旋粉 500g 单袋",
+      "brand": "康力（HLV）",
+      "companyId": "kangli-food-kaiping",
+      "category": "food",
+      "description": "康力螺旋形意大利面，净含量 500 克，单袋干面；可作日常主食。",
+      "tags": [
+        "意面",
+        "意大利面",
+        "螺旋粉",
+        "螺纹粉",
+        "通心粉",
+        "500g",
+        "广东"
+      ],
+      "needs": [
+        "意面"
+      ],
+      "url": "https://item.jd.com/10213376840882.html",
+      "market": "京东商品号 10213376840882，选项“螺纹粉500g*1”，包装标示螺旋粉 500g；实际库存、配送、价格及商品批次以购买页面和实物为准。",
+      "relationship": "集团年报对应康力品牌与具名企业，杭州原始制造记录列该企业生产的螺旋形意大利面 500g/袋；当前商品卡及包装的品牌、形状和克重交叉对应。",
+      "relationshipSourceIds": [
+        "kangli-parent-annual2025",
+        "kangli-spiral500-hangzhou2025",
+        "kangli-spiral500-jd"
+      ],
+      "image": "images/kangli-spiral-pasta-500g.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/409567/38/185/161323/69c1f5d3Fd22e3dc1/008340d40ddaa3e8.png",
+      "imageRights": "康力品牌相关权利人、京东平台及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已读取大陆零售商品卡，明确康力 500g 单袋及商品号；独立详情页为脚本框架，未验证结算或各地实时库存。",
+          "sourceIds": [
+            "kangli-spiral500-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "原始抽检附件第 353 行列广东康力食品集团有限公司、开平水口厂址及螺旋形意大利面 500g/袋；结合年报品牌关系和零售包装对应本款。",
+          "sourceIds": [
+            "kangli-spiral500-hangzhou2025",
+            "kangli-parent-annual2025",
+            "kangli-spiral500-jd"
+          ],
+          "subject": "广东康力食品集团有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "同一制造企业列开平最终劳动守法 A 级名单第 182 行，评价覆盖 2025 年。",
+          "sourceIds": [
+            "kaiping-labor-2025",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "kaiping-labor-2025"
+        }
+      }
+    },
+    {
+      "id": "yimeide-household-flour-2-5kg",
+      "name": "家用小麦粉 2.5kg",
+      "brand": "益美得",
+      "companyId": "houwang-flour-lingbi",
+      "category": "food",
+      "description": "益美得家用小麦面粉，历史零售资料列 5 斤（2.5kg）家庭装；当前购买渠道和生产标签待补。",
+      "tags": [
+        "面粉",
+        "小麦粉",
+        "家用面粉",
+        "2.5kg",
+        "5斤",
+        "安徽"
+      ],
+      "needs": [
+        "面粉"
+      ],
+      "url": "https://channels1.mall.icbc.com.cn/channels/mobile/operation/xbfpg/html/allProducts.html",
+      "market": "链接为融 e 购历史活动资料，原商品号 9001415715。工行已于 2022-06-30 停止个人商城相关服务，本页不作为当前购买入口。",
+      "relationship": "宿州产品认证表将侯王面业与家用面粉系列对应；历史商品数据列益美得 2.5kg。尚未读到所选当前包装的制造标签。",
+      "relationshipSourceIds": [
+        "houwang-green-products2025",
+        "yimeide-flour25-icbc-archive"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "尚无采用的商品图片",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "目前读到的是已停运的融 e 购个人商城历史销售记录，需补当前个人零售渠道。",
+          "sourceIds": [
+            "yimeide-flour25-icbc-archive",
+            "icbc-mall-closure2022"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "具名面粉企业及家用小麦粉系列已对应，当前 2.5kg 包装制造信息尚待确认，未将其他容量样品替代本款标签。",
+          "sourceIds": [
+            "houwang-green-products2025",
+            "yimeide-flour25-icbc-archive"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "侯王面业自身获劳动 A 级评价（审查 2024 年）；待所选商品对应该生产企业后再形成商品劳动结论。",
+          "sourceIds": [
+            "suzhou-labor-2024"
+          ]
+        }
+      }
+    },
+    {
+      "id": "jinluo-moshanghua-rice-gift-5kg",
+      "name": "陌上花大米 5kg 真空礼盒",
+      "brand": "金箩",
+      "companyId": "jinluo-rice-kaiping",
+      "category": "food",
+      "description": "金箩陌上花大米礼盒，展示资料列 10 斤（5kg）真空装；当前零售渠道及具体制造标签待核查。",
+      "tags": [
+        "大米",
+        "陌上花",
+        "金箩",
+        "真空装",
+        "礼盒",
+        "5kg",
+        "10斤",
+        "广东"
+      ],
+      "needs": [
+        "大米"
+      ],
+      "url": "https://www.fyuanai.com/s/goods.php?id=493231",
+      "market": "链接为商品展示资料，页面明确不直接对外销售；不沿用其价格、库存或购物车样式作为可购买证据。",
+      "relationship": "金箩官网将陌上花系列与开平金箩米业对应；展示页列 10 斤真空礼盒及品牌包装，尚缺当前具体包装制造标签。",
+      "relationshipSourceIds": [
+        "jinluo-official-products",
+        "jinluo-rice5-showroom"
+      ],
+      "image": "images/jinluo-moshanghua-rice-gift-5kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.fyuanai.com/mobile/data/assets/images/202201/source_img/493231_P_1642705814149.jpg",
+      "imageRights": "金箩品牌相关权利人及相关图片提供方",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "所选礼盒页面明确仅供展示、不直接销售；当前个人零售入口尚未确认。",
+          "sourceIds": [
+            "jinluo-rice5-showroom"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官网已有境内米厂及陌上花系列线索，所选 10 斤真空礼盒尚未读到可确认的当前制造标签。",
+          "sourceIds": [
+            "jinluo-official-products",
+            "jinluo-rice5-showroom"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "开平金箩米业自身列 2025 年劳动 A 级名单，待具体礼盒确认由其制造后再对应商品劳动依据。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -17487,6 +17971,10 @@
         {
           "label": "挂面",
           "query": "挂面"
+        },
+        {
+          "label": "意面",
+          "query": "意面"
         },
         {
           "label": "米粉",
@@ -17589,7 +18077,7 @@
           "query": "熟食"
         }
       ],
-      "note": "28 项粮油食品需求均有具体研究资料，其中面粉、酱油、腐乳、饼干、即食蛋和即食熟肉已有正式收录。其余商品继续核对制造、劳动及购买依据；包装熟食和再制蛋不计为生鲜鸡肉或鸡蛋。25kg 面粉的地区配送范围单独列明。",
+      "note": "29 项粮油食品需求均有具体研究资料，其中面粉、意面、酱油、腐乳、饼干、即食蛋和即食熟肉已有正式收录。其余商品继续核对制造、劳动及购买依据；展示页与停运商城不计为可购买。包装熟食和再制蛋不计为生鲜鸡肉或鸡蛋，25kg 面粉地区配送范围单独列明。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -17658,7 +18146,15 @@
         "suzhou-labor-2024",
         "huixiangyuan-laowei500-anhui2026",
         "huixiangyuan-commerce-2025",
-        "huixiangyuan-laowei500-jd"
+        "huixiangyuan-laowei500-jd",
+        "kangli-parent-annual2025",
+        "kangli-spiral500-hangzhou2025",
+        "kangli-spiral500-jd",
+        "houwang-green-products2025",
+        "yimeide-flour25-icbc-archive",
+        "icbc-mall-closure2022",
+        "jinluo-official-products",
+        "jinluo-rice5-showroom"
       ]
     },
     {

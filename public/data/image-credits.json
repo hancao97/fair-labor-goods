@@ -6708,6 +6708,56 @@
       },
       "filename": "images/huiyuan-peach-juice-2l-single.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "kangli-spiral-pasta-500g",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/409567/38/185/161323/69c1f5d3Fd22e3dc1/008340d40ddaa3e8.png",
+      "source_page": "https://www.jd.com/brand/1320f98757d7f8a641ad.html",
+      "product_url": "https://item.jd.com/10213376840882.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 69650,
+      "sha256": "4e08ed43f0ab3bdd9ff354036b00c72c29bf0d635aaad757690618595a8f0163",
+      "visually_verified": true,
+      "visual_notes": "已人工查看：单个红色 HLV 康力包装，正面写螺旋粉及净含量 500g，与所选单袋商品卡一致；未从不可读的小字推断制造企业。",
+      "reuse_info": {
+        "rights_holder": "康力品牌相关权利人、京东平台及相关图片权利人",
+        "license": "未提供开放再授权；仅作标注来源的商品资料插图，不在项目 MIT 授权范围内。",
+        "attribution": "来源及包装标识随图保留；图片本身不作为劳动合规或产地证明。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 506918,
+        "sha256": "e15bdb922caa3b53058d3917a37543685601ccfce5020245b52fc8669b2917b8"
+      },
+      "filename": "images/kangli-spiral-pasta-500g.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "jinluo-moshanghua-rice-gift-5kg",
+      "image_url": "https://www.fyuanai.com/mobile/data/assets/images/202201/source_img/493231_P_1642705814149.jpg",
+      "source_page": "https://www.fyuanai.com/s/goods.php?id=493231",
+      "product_url": "https://www.fyuanai.com/s/goods.php?id=493231",
+      "width": 800,
+      "height": 800,
+      "bytes": 26830,
+      "sha256": "6effd3c2ccbeacff3c88bf572333aa0c3721a914deedaad5e8a13ad35b7b44b5",
+      "visually_verified": true,
+      "visual_notes": "已人工查看：绿色金色陌上花礼盒，保留金箩米业标识和水印。10 斤规格来自同一展示页面，未从图片推断重量或制造法人；页面不直接销售。",
+      "reuse_info": {
+        "rights_holder": "金箩品牌相关权利人及相关图片提供方",
+        "license": "未提供开放再授权；仅作标注来源的商品资料插图，不在项目 MIT 授权范围内。",
+        "attribution": "来源及包装标识随图保留；图片本身不作为劳动合规或产地证明。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 56013,
+        "sha256": "a7d9821717f4cb1807ba22d981ac6f6c8dda36cfd0460f810c164c2df2711781"
+      },
+      "filename": "images/jinluo-moshanghua-rice-gift-5kg.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
