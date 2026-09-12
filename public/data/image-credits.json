@@ -6903,6 +6903,56 @@
       },
       "filename": "images/yueshifu-sesame-seasoning-oil-750ml.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "jinweita-milk-oats-450g",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/132332/26/2105/151236/5ee3377eE1779872b/6c6b6044c9af40f4.jpg",
+      "source_page": "https://www.jd.com/jiage/13209c9182b7aced9871.html",
+      "product_url": "https://item.jd.com/70502462342.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 66830,
+      "sha256": "86ec8bae25b990d986c20f42684a2444a460bd24f2610f6750cf7888b8e33d91",
+      "visually_verified": true,
+      "visual_notes": "完整包装已人工查看：450克、30克×15小包、牛奶加钙款及正面下方福建法人名称可读；保留水印。",
+      "reuse_info": {
+        "rights_holder": "金惟他品牌相关权利人、京东及相关图片权利人",
+        "license": "版权归原权利人所有，未取得开放再授权；不适用本站代码MIT许可。",
+        "attribution": "来源：京东具体商品70502462342，仅作可追溯的商品资料插图。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 150380,
+        "sha256": "a33844b70a524fa71ccefac349ba6bdc9f0266b771f7f5bccbc71f63e70b51f1"
+      },
+      "filename": "images/jinweita-milk-oats-450g.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "jinweita-multivitamin-glucose-300g",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/414563/4/20289/67704/69ddfdb7Fa1ee4a6a/0083320320f62476.jpg",
+      "source_page": "https://www.jd.com/brand/13200612932a0e1bfce0.html",
+      "product_url": "https://item.jd.com/100099826975.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 59222,
+      "sha256": "5fc1b40102c3388e47fb9a801b4bf742fe00252d5715f29c89c77d3de64cd0c8",
+      "visually_verified": true,
+      "visual_notes": "完整包装已人工查看：绿色多维葡萄糖固体饮料单袋，300克、10克×30条可读；保留商标和水印。",
+      "reuse_info": {
+        "rights_holder": "金惟他品牌相关权利人、京东及相关图片权利人",
+        "license": "版权归原权利人所有，未取得开放再授权；不适用本站代码MIT许可。",
+        "attribution": "来源：京东具体商品100099826975，仅作可追溯的商品资料插图。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 142002,
+        "sha256": "7588910dd6f899be5946d0f6d2ef11339c0b250e7b6a7bd973b79643ce5af272"
+      },
+      "filename": "images/jinweita-multivitamin-glucose-300g.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

@@ -5207,6 +5207,102 @@
       "locator": "同货号卡片引用图片的800×800版本；笔杆K-35和左侧12支、0.5mm标记",
       "summary": "已查看完整原图，画面为经典K-35黑色按动笔，标示12支及0.5mm子弹头；用完整商品形象替换旧笔杆局部图，并保留京东水印。",
       "limitation": "图片属于商品宣传图，未显示生产法人或产地背标；不据图片推断劳动合规，宣传性能语句不作为本站核实结论。"
+    },
+    {
+      "id": "quangang-labor-2024",
+      "title": "泉港区2024年度企业劳动保障守法诚信等级评价最终结果",
+      "publisher": "泉港区人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.qg.gov.cn/zwgk/zfxxgkzl/zfbmxxgk/rlzyhshbzj/zfxxgkml/202507/t20250703_3186301.htm",
+      "publishedAt": "2025-07-03",
+      "checkedAt": "2026-09-12",
+      "locator": "泉港人社〔2025〕20号；正文附表第16行；统一社会信用代码91350505733599137Q。",
+      "summary": "最终通报列金维他（福建）食品有限公司为2024年度劳动保障守法诚信A级，地址为泉港区驿峰西路33号；正文说明已完成征求意见、认定和公示程序。",
+      "limitation": "仅适用于具名法人和2024年度。已读取更晚的2025年度最终名单，但其中未列本公司，不能宣称已取得2025年A级；本站安排2026-10-12前再次复核。"
+    },
+    {
+      "id": "quangang-labor-2025-followup",
+      "title": "泉港区2025年度企业劳动保障守法诚信等级评价最终结果复核",
+      "publisher": "泉港区人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.qg.gov.cn/zwgk/zfxxgkzl/zfbmxxgk/rlzyhshbzj/zfxxgkml/202605/t20260518_3292555.htm",
+      "publishedAt": "2026-05-18",
+      "checkedAt": "2026-09-12",
+      "locator": "泉港人社〔2026〕16号；正文附表全部15家企业。",
+      "summary": "已逐行查阅2025年度最终A级名单，未见金维他（福建）食品有限公司。本条用于说明最新名单的检查结果，商品仍标注可取得的2024年度评价。",
+      "limitation": "未列入该名单不能推断为降级或违法，也不能据此延长、升级为本公司的2025年度评价。"
+    },
+    {
+      "id": "jinweita-milk-oats450-jd",
+      "title": "金惟他牛奶加钙即溶营养燕麦片450g京东零售入口",
+      "publisher": "京东及商品商家",
+      "type": "零售商品",
+      "url": "https://www.jd.com/jiage/13209c9182b7aced9871.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品号70502462342，标题“金惟他450g即溶燕麦片…牛奶加钙即溶营养燕麦片”。",
+      "summary": "公开商品卡列450g牛奶加钙款、具体商品链接和对应正面包装图；包装标示30克×15小包。",
+      "limitation": "只支持该规格的大陆零售渠道；未验证结算和各地区即时库存。原味、木糖醇、420g及600g款不是本条所选商品。"
+    },
+    {
+      "id": "jinweita-milk-oats450-image",
+      "title": "金惟他450g牛奶加钙燕麦片在售包装图",
+      "publisher": "京东商品70502462342商家",
+      "type": "商品包装",
+      "url": "https://img30.360buyimg.com/n0/jfs/t1/132332/26/2105/151236/5ee3377eE1779872b/6c6b6044c9af40f4.jpg",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "800×800原图；正面下方净含量及公司名称。",
+      "summary": "完整包装清楚标出金惟他、牛奶加钙即溶营养燕麦片、450克（30克×15小包）及金维他（福建）食品有限公司；与同规格公开制造记录交叉对应。",
+      "limitation": "这是零售包装正面，未取得完整背标、当前生产批号及全配料表；包装名称本身不单独证明劳动合规。"
+    },
+    {
+      "id": "jinweita-milk-oats450-production-2021",
+      "title": "福建2021年第40期方便食品抽检制造记录（转载）",
+      "publisher": "中国质量新闻网；新浪财经转载",
+      "type": "监管资料转载",
+      "url": "https://finance.sina.cn/2021-10-27/detail-iktzscyy2103372.d.html?from=qudao",
+      "publishedAt": "2021-10-27",
+      "checkedAt": "2026-09-12",
+      "locator": "方便食品表第15行；省通告日期2021-10-22，样品生产日期2021-08-18。",
+      "summary": "表列牛奶加钙即溶营养燕麦片450g/包，标称制造企业金维他（福建）食品有限公司，厂址福建泉州泉港山腰工业区新宅社区新宅300号；抽样地点为惠安县和乐百家惠购物中心。",
+      "limitation": "这是2021年制造记录的媒体转载，未取得原始附件。本次结合在售同规格包装上可读的同一法人名称使用，不视为当前交付批次的抽检或劳动证明。"
+    },
+    {
+      "id": "jinweita-glucose300-jd",
+      "title": "金惟他多维葡萄糖固体饮料300g京东零售入口",
+      "publisher": "京东及商品商家",
+      "type": "零售商品",
+      "url": "https://www.jd.com/brand/13200612932a0e1bfce0.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "单袋商品号100099826975；同规格条装另见10104256531712。",
+      "summary": "公开商品卡列多维葡萄糖固体饮料300g单袋并提供具体购买链接；包装图显示净含量300克、10克×30条，与泉州原始制造表规格一致。",
+      "limitation": "未验证结算和各地区即时库存；不采用组合装，也不把其他葡萄糖、电解质粉或商家关于疾病用途的描述混入本条。"
+    },
+    {
+      "id": "jinweita-glucose300-production-2025",
+      "title": "泉州公开抽检表中的多维葡萄糖300g制造记录",
+      "publisher": "泉州市市场监督管理局",
+      "type": "监管制造记录",
+      "url": "https://scjgj.quanzhou.gov.cn/xxgk/ztzl/spypaq/spypjdcjxx/202601/P020260123596483781115.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始PDF第2页第54行；生产日期2025-11-10。",
+      "summary": "原表列多维葡萄糖固体饮料300克（10克×30条）/袋；标称生产企业和被抽样单位均为金维他（福建）食品有限公司，制造地址泉港山腰工业区新宅社区新宅300号。",
+      "limitation": "原始PDF已读取并核对行列；未取得母公告确切发布日期，故发布日期留空。该记录证明具名制造关系，不是劳动评价，也不是当前交付批次保证。"
+    },
+    {
+      "id": "jinweita-glucose300-image",
+      "title": "金惟他多维葡萄糖固体饮料300g在售包装图",
+      "publisher": "京东商品100099826975",
+      "type": "商品包装",
+      "url": "https://img30.360buyimg.com/n0/jfs/t1/414563/4/20289/67704/69ddfdb7Fa1ee4a6a/0083320320f62476.jpg",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "800×800原图；绿色单袋包装的名称、净含量及条数。",
+      "summary": "完整包装显示金惟他KINGVITA多维葡萄糖固体饮料、300克、10克×30条及独立条装；与政府制造表对应。",
+      "limitation": "图片保留商标及水印，只用作规格识别和产品插图。未读取完整配料表，本站不据商家广告判断健康功效。"
     }
   ],
   "companies": [
@@ -11322,6 +11418,87 @@
           "periodEnd": "2024-12-31",
           "reviewedAt": "2026-09-12",
           "reviewDueAt": "2026-10-24"
+        }
+      ]
+    },
+    {
+      "id": "jinweita-fujian",
+      "name": "金维他福建",
+      "legalName": "金维他（福建）食品有限公司",
+      "location": "福建泉州泉港；制造记录列山腰工业区新宅社区新宅300号",
+      "origin": "china",
+      "originNote": "金惟他包装具名金维他（福建）食品有限公司；按具体境内制造法人核对，不根据品牌名称推断所有商品的工厂。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2024 年劳动守法 A 级",
+      "scope": "金维他（福建）食品有限公司；评价覆盖2024年度。",
+      "finding": "泉港最终通报具名该法人为2024年度A级；450g牛奶加钙燕麦片的在售包装和制造记录、300g多维葡萄糖的近期制造记录与该法人对应。",
+      "caveats": [
+        "已检查2025年度最终名单，未列本公司；本条仅使用2024年度具名评价，本站将在2026-10-12前再次复核。",
+        "不延伸到金维他（张北）食品有限公司或其他代工企业；原料、物流及零售雇主的用工情况尚未逐一核对。",
+        "燕麦片制造记录较旧，结合在售同规格包装上的法人名称使用；采购时若制造商或规格变化，应重新判断。",
+        "工厂在中国境内不代表已核实每名工人的国籍；政府评价亦不是对未来全部用工行为的保证。"
+      ],
+      "sourceIds": [
+        "quangang-labor-2024",
+        "quangang-labor-2025-followup",
+        "jinweita-milk-oats450-jd",
+        "jinweita-milk-oats450-image",
+        "jinweita-milk-oats450-production-2021",
+        "jinweita-glucose300-jd",
+        "jinweita-glucose300-production-2025",
+        "jinweita-glucose300-image",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "品牌及大陆零售",
+          "status": "policy",
+          "detail": "所选为具名金惟他品牌的450g牛奶加钙燕麦片和300g多维葡萄糖单袋，分别有具体京东商品入口及规格包装图。",
+          "sourceIds": [
+            "jinweita-milk-oats450-jd",
+            "jinweita-milk-oats450-image",
+            "jinweita-glucose300-jd"
+          ]
+        },
+        {
+          "stage": "境内制造",
+          "status": "policy",
+          "detail": "公开制造表均列金维他（福建）食品有限公司及泉港厂址，450g燕麦片另有在售包装上的同一法人名称；劳动评价只对应这一法人。",
+          "sourceIds": [
+            "jinweita-milk-oats450-production-2021",
+            "jinweita-milk-oats450-image",
+            "jinweita-glucose300-production-2025",
+            "quangang-labor-2024"
+          ]
+        },
+        {
+          "stage": "原料、运输与其他雇主",
+          "status": "unknown",
+          "detail": "燕麦等原料供应、物流和零售主体的劳动记录未完整对应，不扩大为全供应链评价。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-12前复核更晚年度的本公司劳动评价，并补燕麦片当前批次背标；发现制造主体变更时重新核验所选商品。",
+      "assessments": [
+        {
+          "subject": "金维他（福建）食品有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2024 年度",
+          "sourceId": "quangang-labor-2024",
+          "limitation": "仅覆盖具名法人及2024年度；2025年度最终名单未列本公司。复核期限是本站安排，不是政府评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-10-12"
         }
       ]
     }
@@ -19437,6 +19614,124 @@
           ]
         }
       }
+    },
+    {
+      "id": "jinweita-milk-oats-450g",
+      "name": "牛奶加钙即溶营养燕麦片 450g（30g×15小包）",
+      "brand": "金惟他",
+      "companyId": "jinweita-fujian",
+      "category": "food",
+      "needs": [
+        "燕麦"
+      ],
+      "description": "牛奶加钙款复合冲调燕麦片，450克单袋，内含30克×15小包。按包装说明冲泡食用；配料信息以实物标签为准。",
+      "tags": [
+        "燕麦",
+        "麦片",
+        "冲调谷物",
+        "牛奶加钙",
+        "450g",
+        "福建"
+      ],
+      "url": "https://item.jd.com/70502462342.html",
+      "market": "京东商品号70502462342，选择450g牛奶加钙款单袋；实际价格、库存、配送范围及生产批次以购买页面和实物为准。",
+      "relationship": "在售450g包装正面同时标明产品名称、30g×15小包及金维他（福建）食品有限公司；公开制造记录以同一名称、克重、法人和泉港厂址交叉对应。",
+      "relationshipSourceIds": [
+        "jinweita-milk-oats450-jd",
+        "jinweita-milk-oats450-image",
+        "jinweita-milk-oats450-production-2021"
+      ],
+      "image": "images/jinweita-milk-oats-450g.webp",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/132332/26/2105/151236/5ee3377eE1779872b/6c6b6044c9af40f4.jpg",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已读取具体450g牛奶加钙款商品卡和商品号70502462342，支持大陆零售渠道；未核实时库存。",
+          "sourceIds": [
+            "jinweita-milk-oats450-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "在售同规格包装具名金维他（福建）食品有限公司；2021年省抽检制造记录转载表第15行列450g/包及泉港厂址。旧记录与当前包装交叉使用，不代表现在销售2021年批次。",
+          "sourceIds": [
+            "jinweita-milk-oats450-image",
+            "jinweita-milk-oats450-production-2021"
+          ],
+          "subject": "金维他（福建）食品有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "制造法人列泉港2024年度劳动保障守法诚信A级最终结果第16行。已检查2025年度名单，其中未列本公司；本条保留2024年范围并于2026-10-12前复核。",
+          "sourceIds": [
+            "quangang-labor-2024",
+            "quangang-labor-2025-followup",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "quangang-labor-2024"
+        }
+      },
+      "imageMode": "contain",
+      "imageRights": "金惟他品牌相关权利人、京东及相关图片权利人"
+    },
+    {
+      "id": "jinweita-multivitamin-glucose-300g",
+      "name": "多维葡萄糖固体饮料 300g（10g×30条）",
+      "brand": "金惟他",
+      "companyId": "jinweita-fujian",
+      "category": "drinks",
+      "needs": [
+        "冲调饮品"
+      ],
+      "description": "袋装冲调饮品，净含量300克，内含30条10克独立小包。按实物标签冲调；此处展示普通食品资料。",
+      "tags": [
+        "冲调饮品",
+        "固体饮料",
+        "多维葡萄糖",
+        "300g",
+        "独立条装",
+        "福建"
+      ],
+      "url": "https://item.jd.com/100099826975.html",
+      "market": "京东商品号100099826975，所选为300g多维葡萄糖单袋；具体库存、配送、价格和交付批次以购买页面为准。",
+      "relationship": "在售包装的多维葡萄糖固体饮料名称、300g克重及10g×30条袋装结构，与泉州原始制造记录第54行金维他（福建）食品有限公司对应。",
+      "relationshipSourceIds": [
+        "jinweita-glucose300-jd",
+        "jinweita-glucose300-image",
+        "jinweita-glucose300-production-2025"
+      ],
+      "image": "images/jinweita-multivitamin-glucose-300g.webp",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/414563/4/20289/67704/69ddfdb7Fa1ee4a6a/0083320320f62476.jpg",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已读取京东300g单袋商品卡、具体商品号及包装规格，支持大陆零售渠道；未核实时库存。",
+          "sourceIds": [
+            "jinweita-glucose300-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "泉州原始PDF第2页第54行列多维葡萄糖固体饮料300克（10克×30条）/袋，生产企业及被抽样单位均为金维他（福建）食品有限公司，地址为泉港山腰工业区新宅社区新宅300号。",
+          "sourceIds": [
+            "jinweita-glucose300-production-2025",
+            "jinweita-glucose300-image"
+          ],
+          "subject": "金维他（福建）食品有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "制造法人列泉港2024年度劳动保障守法诚信A级最终结果第16行。已检查2025年度名单，其中未列本公司；本条保留2024年范围并于2026-10-12前复核。",
+          "sourceIds": [
+            "quangang-labor-2024",
+            "quangang-labor-2025-followup",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "quangang-labor-2024"
+        }
+      },
+      "imageMode": "contain",
+      "imageRights": "金惟他品牌相关权利人、京东及相关图片权利人"
     }
   ],
   "coverage": [
@@ -19564,7 +19859,7 @@
           "query": "熟食"
         }
       ],
-      "note": "30项粮油食品需求均有具体研究资料，其中面粉、意面、酱油、醋、腐乳、饼干、即食蛋和即食熟肉已有正式收录。新增两款620mL单瓶醋；750mL芝麻调味油有国内入口，制造主体仍待核。其余商品继续补制造、劳动及购买依据；包装熟食不计为生鲜肉类，25kg面粉地区配送范围单独列明。",
+      "note": "30项粮油食品需求均有具体研究资料；面粉、意面、燕麦、酱油、醋、腐乳、饼干、即食蛋和即食熟肉已有正式收录。新增金惟他450g牛奶加钙复合燕麦片，明确包装、制造法人及2024年度劳动评价。大米、食用油等继续补购买与制造依据；25kg面粉的地区配送范围单独列明。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -19648,7 +19943,11 @@
         "jiangmen-sampling-2023-28-notice",
         "yueshifu-red-vinegar620-sampling-2023",
         "yueshifu-sesame750-jd",
-        "yueshifu-sesame750-package"
+        "yueshifu-sesame750-package",
+        "quangang-labor-2024",
+        "jinweita-milk-oats450-jd",
+        "jinweita-milk-oats450-image",
+        "jinweita-milk-oats450-production-2021"
       ]
     },
     {
@@ -19797,9 +20096,13 @@
         {
           "label": "葡萄酒",
           "query": "葡萄酒"
+        },
+        {
+          "label": "冲调饮品",
+          "query": "冲调饮品"
         }
       ],
-      "note": "已正式收录口子窖六年型 41%vol 450mL 单瓶。酸奶、啤酒、天然水、新疆苹果汁及后谷冻干咖啡等已有具体资料，继续对应实际制造企业、劳动依据和销售规格。进口咖啡原料本身不排除境内加工商品；豆奶和葡萄酒等缺口继续查。",
+      "note": "已正式收录口子窖六年型41%vol 450mL单瓶及金惟他多维葡萄糖固体饮料300g单袋。新增冲调饮品需求，注明粉状条装和具体制造法人；牛奶、酸奶、茶、饮用水、咖啡等继续核对，豆奶和葡萄酒仍有资料缺口。",
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
@@ -19819,7 +20122,10 @@
         "kouzi-six-jd",
         "suzhou-labor-2024",
         "huiyuan-peach2l-suzhou2024",
-        "huiyuan-peach2l-jd"
+        "huiyuan-peach2l-jd",
+        "quangang-labor-2024",
+        "jinweita-glucose300-jd",
+        "jinweita-glucose300-production-2025"
       ]
     },
     {

@@ -2,7 +2,7 @@
 
 修正日期：2026-09-12。
 
-规则修正后的后续研究已使正式目录增加到 17 项，见 [食品收录复核](food-admission-expansion.md)、[家居收录复核](nonfood-admission-expansion.md)、[纸尿裤及厨房清单复核](daily-admission-expansion.md)、[白酒、住宿及旧标准清理](consumer-scope-audit.md)、[宿州熟食与公交](suzhou-consumer-expansion.md)、[意面与家庭装米面](staple-admission-expansion.md)、[厨房用品与景区门票](kitchen-and-culture-expansion.md)、[福州制造企业与消费品](fuzhou-consumer-expansion.md) 及 [家庭用醋与调味油](pantry-vinegar-and-oil.md)。下文“此次复核结果”保留规则首次修正时的批次记录。
+规则修正后的后续研究已使正式目录增加到 19 项，见 [食品收录复核](food-admission-expansion.md)、[家居收录复核](nonfood-admission-expansion.md)、[纸尿裤及厨房清单复核](daily-admission-expansion.md)、[白酒、住宿及旧标准清理](consumer-scope-audit.md)、[宿州熟食与公交](suzhou-consumer-expansion.md)、[意面与家庭装米面](staple-admission-expansion.md)、[厨房用品与景区门票](kitchen-and-culture-expansion.md)、[福州制造企业与消费品](fuzhou-consumer-expansion.md)、[家庭用醋与调味油](pantry-vinegar-and-oil.md)及[早餐燕麦与条装冲饮](breakfast-and-drink-expansion.md)。下文“此次复核结果”保留规则首次修正时的批次记录。
 
 此前实现把“每周含加班不超过 40 小时、至少休息两天、全供应链实际记录齐备”当作必要条件，并在校验程序中断言正式收录必须为零。这混淆了项目额外偏好与劳动法，也阻止了有依据的商品进入目录。现已移除这些条件及零数量断言。
 
