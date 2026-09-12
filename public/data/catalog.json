@@ -28,6 +28,11 @@
       "description": "床品、座椅、照明与收纳"
     },
     {
+      "id": "kitchen",
+      "name": "厨房餐具",
+      "description": "碗盘杯筷、锅具刀具与食品收纳"
+    },
+    {
       "id": "daily",
       "name": "日用洗护",
       "description": "身体、口腔与家庭清洁"
@@ -4398,6 +4403,90 @@
       "locator": "商品标题、订货号、品牌型号、最小订货量、购买入口和出货说明",
       "publishedAt": null,
       "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "shishi-labor-2024",
+      "title": "石狮市 2024 年度企业劳动保障守法诚信等级评价最终结果",
+      "publisher": "石狮市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.shishi.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/rlzyhshbzj/zfxxgkml/qtzfxx/202510/t20251024_3224600.htm",
+      "publishedAt": "2025-10-24",
+      "checkedAt": "2026-09-12",
+      "locator": "最终通知正文；所附原 PDF 第 10 页（印刷页码 8）第 68 行",
+      "summary": "狮人社〔2025〕29号正文公布 119 家 A 级、2 家 C 级企业；附件 A 级表第 68 行为美佳爽（中国）有限公司，统一社会信用代码 913505815917492668，地址为福建省泉州市石狮市鸿山镇高新区五金印刷基地鑫强路 1 号。",
+      "limitation": "评价覆盖 2024 年及具名法人，不外推到全部关联公司和未来用工。扫描附件评价栏仍写“拟评为 A 级”，最终发布正文明确作出评价，2026 年法治报告再次确认 119 家 A 级结果；合并读取，未把孤立拟评名单当作最终结果。"
+    },
+    {
+      "id": "shishi-labor-2024-followup",
+      "title": "石狮人社 2025 年度法治政府建设报告确认劳动评价结果",
+      "publisher": "石狮市人力资源和社会保障局",
+      "type": "政府工作报告",
+      "url": "https://www.shishi.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/rlzyhshbzj/zfxxgkml/qtzfxx/202601/t20260129_3262489.htm",
+      "publishedAt": "2026-01-29",
+      "checkedAt": "2026-09-12",
+      "locator": "第四部分“行政执法规范化”段中的信用监管统计",
+      "summary": "报告第四部分第二项记载已评选 2024 年度企业劳动保障守法诚信 A 级企业 119 家、C 级企业 2 家，与 2025-10-24 最终通知一致。",
+      "limitation": "报告用于确认结果已经发布，不是 2025 年度的新评级；具体企业、等级与地址仍以最终通知附件为依据。"
+    },
+    {
+      "id": "chikool-brand-products",
+      "title": "奇酷官方品牌页：中国线上 AIR 薄系列与国内购买渠道",
+      "publisher": "美佳爽（中国）有限公司",
+      "type": "企业产品资料",
+      "url": "https://www.cnmegasoft.com/cn/Chikool/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "核心产品“中国线上系列”、购买渠道、页脚公司地址",
+      "summary": "官网列奇酷 AIR 薄为中国线上产品系列，公布京东等国内旗舰店入口；页脚列福建石狮鸿山镇鑫强路 1 号地址，与劳动评价主体地址相符。",
+      "limitation": "系列介绍及门店入口不是具体制造规格的劳动证明；集团同时经营海外系列，不能将全部奇酷产品视为中国制造。官网所展示纤薄呼吸报告仅有封面，也不用于证明本款 AIR 薄制造商。"
+    },
+    {
+      "id": "chikool-m24-sampling-2025-media",
+      "title": "福建 2024 年第二批抽查结果转载：奇酷 M 码 24 片婴儿纸尿裤",
+      "publisher": "中国质量新闻网／新浪财经转载",
+      "type": "公开转载",
+      "url": "https://finance.sina.cn/2025-05-16/detail-inewttph6259988.d.html?vt=4",
+      "publishedAt": "2025-05-16",
+      "checkedAt": "2026-09-12",
+      "locator": "纸尿裤合格表第 7 行，美佳爽（中国）有限公司，CDAIRH-24M",
+      "summary": "合格表中美佳爽（中国）有限公司同时为受检企业及标称生产企业，产品为奇酷婴儿纸尿裤、M 码 24 片/包，批号栏为有效期 2027-08-23／CDAIRH-24M；报道注明对应福建省 2025 年第 019 期公告。",
+      "limitation": "已读取完整转载表行，未取得福建省该期原公告。该记录仅用于对应历史样品规格和制造企业，产品质量合格不能替代劳动评价，也不是当前每一批商品的检查结果。转载商标中的问号为文本显示问题，不作为型号字符。"
+    },
+    {
+      "id": "chikool-air-m24-jd",
+      "title": "京东奇酷 AIR 薄纸尿裤 M 码 24 片准确商品卡",
+      "publisher": "京东零售平台",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/1319fa5aa6f5163a7b94.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品号 10080675159270 的标题、规格及独立商品链接",
+      "summary": "商品号 10080675159270 的准确选项为奇酷 AIR 薄纸尿裤 M24 片（6—11kg），页面提供该商品的独立国内零售链接。",
+      "limitation": "标题前段同时包含拉拉裤等系列词，采用后段明确选项“纸尿裤 M24 片”，不混用拉拉裤或其他尺码。零售卡未列工厂货号，生产对应采用同品牌、系列及规格的公开记录。库存、价格和配送范围由商品页面决定；卡片图片展示 L22 系列包装，未用作 M24 精确主图。"
+    },
+    {
+      "id": "dehua-labor-2025",
+      "title": "德化县 2025 年度劳动保障守法诚信企业等级评价最终名单",
+      "publisher": "德化县人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.dehua.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/rlzyhshbzj/fdzdgknr/202606/t20260605_3298269.htm",
+      "publishedAt": "2026-06-05",
+      "checkedAt": "2026-09-12",
+      "locator": "最终通知正文及 A 级企业表第 8、11、14 行",
+      "summary": "德人社〔2026〕53号公布 A 级 28 家、B 级 4 家、C 级 1 家；A 级表列明源陶瓷、信良陶瓷、唐硕陶瓷等具名企业，可作为对应日用餐具制造商的研究起点。",
+      "limitation": "名单包括工艺品、出口制造及其他行业，不能据此认定有国内可购的具体碗盘杯款式。此次尚未对应到准确零售规格，厨房餐具清单保留缺口。"
+    },
+    {
+      "id": "shaoxing-labor-2024-proposed",
+      "title": "绍兴 2024 年劳动保障诚信 AAAAA 级拟评名单公示",
+      "publisher": "绍兴市人力资源和社会保障局",
+      "type": "政府公示",
+      "url": "https://rsj.sx.gov.cn/col/col1229395807/art/2025/art_0578c64d98c14efabf050655a9408697.html",
+      "publishedAt": "2025-09-12",
+      "checkedAt": "2026-09-12",
+      "locator": "越城区、柯桥区拟评名单及公示期限；已从迁移后的政府目录恢复原文",
+      "summary": "政府迁移后的原页面列浙江绍兴苏泊尔生活电器有限公司、浙江苏泊尔厨卫电器有限公司为 2024 年度 AAAAA 级拟评企业，公示期为 2025-09-15 至 2025-09-19。",
+      "limitation": "这是拟评公示，不是最终授予名单；公示期经过也不能自动当作获评。企业披露荣誉照片未能补足具名最终决定，因此不升级苏泊尔现有商品的劳动状态。"
     }
   ],
   "companies": [
@@ -8303,18 +8392,20 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "审核披露与实习长班安排 · 实际待核",
       "scope": "集团 2025 ESG 与杭州家电制造公司的 2025 届实习招聘；电饭煲、电水壶和电压力锅各自的制造证据不能跨法人使用。",
-      "finding": "集团称部分基地完成社会责任审核；杭州实习招聘列长白班及十二小时打卡倒班。资料范围不同，应结合适用工时制、净工时及补偿核对，尚未取得所选型号制造企业的完整劳动评价。",
+      "finding": "已取得绍兴政府具名 AAAAA 拟评公示，以及集团基地审核和杭州实习招聘资料。拟评与最终评价不同；具体型号仍缺可对应制造法人的最终劳动结果。",
       "caveats": [
         "报告包含境内与越南基地，中国创立的品牌不能保证全部商品在中国生产。",
         "杭州招聘长白班含两小时休息及另行小休，倒班含午晚休息；打卡跨度不能当作净劳动时长，每周排班也未披露。",
         "ESG 审核自述没有原始审计记录与具体型号对应；历史 AAAAA 荣誉照片未明示法人全名，不能覆盖集团所有工厂。",
-        "浙江苏泊尔家电制造、浙江绍兴苏泊尔生活电器与家居用品为不同法人，不互借劳动或产地证据。"
+        "浙江苏泊尔家电制造、浙江绍兴苏泊尔生活电器与家居用品为不同法人，不互借劳动或产地证据。",
+        "已恢复绍兴政府 2024 年 AAAAA 拟评公示，列绍兴生活电器及厨卫电器法人；尚未取得具名最终授予结果，不能只因公示期结束就视为获评。"
       ],
       "sourceIds": [
         "supor-esg-2025",
         "supor-hangzhou-intern-hiring-2025",
         "supor-sf20fc45-energy-label",
-        "supor-sw17s59a-jinan-sampling"
+        "supor-sw17s59a-jinan-sampling",
+        "shaoxing-labor-2024-proposed"
       ],
       "supply": [
         {
@@ -8346,7 +8437,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "逐款核当前制造标签和厂址；分别取得实际制造法人、供应商及外包的班组工时、休息、工资社保资料，并核集团所述审计的时间与适用范围。"
+      "nextCheck": "优先取得绍兴具名最终评价并对应电水壶制造商；杭州电饭煲及其他法人分别核对适用工时制和劳动依据。供应商、外包资料作为补充调查。"
     },
     {
       "id": "mengna",
@@ -9532,6 +9623,78 @@
           "periodEnd": "2025-12-31",
           "reviewedAt": "2026-09-12",
           "reviewDueAt": "2027-05-22"
+        }
+      ]
+    },
+    {
+      "id": "megasoft-china",
+      "name": "美佳爽 · 奇酷",
+      "legalName": "美佳爽（中国）有限公司",
+      "location": "福建泉州石狮鸿山镇鑫强路 1 号",
+      "origin": "unconfirmed",
+      "originNote": "奇酷为美佳爽集团品牌，官网同时列中国及海外系列；品牌起源地未单独确认。本条中国生产依据来自具体规格与境内制造法人，不以品牌起源作推断。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2024 年劳动守法 A 级",
+      "scope": "美佳爽（中国）有限公司；福建石狮鑫强路 1 号，评价覆盖 2024 年度。",
+      "finding": "该法人列入石狮市最终公布的 2024 年劳动守法 A 级名单；奇酷 AIR 薄 M 码 24 片纸尿裤有同规格境内制造记录及国内零售入口。",
+      "caveats": [
+        "政府结果对应 2024 年度及具名法人，不是未来持续合规保证；本站将在 2026-10-24 前复核。",
+        "美佳爽（中国）与美佳爽（福建）卫生用品等关联法人分开核对，不能互借评价。",
+        "仅收录已对应的中国市场规格，不推广到海外系列、全部尺码或其他品牌。"
+      ],
+      "sourceIds": [
+        "shishi-labor-2024",
+        "shishi-labor-2024-followup",
+        "law-labor-rating",
+        "chikool-brand-products",
+        "chikool-m24-sampling-2025-media"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "美佳爽官网公布奇酷中国线上 AIR 薄系列及国内平台入口。",
+          "sourceIds": [
+            "chikool-brand-products"
+          ]
+        },
+        {
+          "stage": "生产与包装",
+          "status": "policy",
+          "detail": "M 码 24 片公开制造记录列美佳爽（中国）有限公司，与石狮最终劳动评价主体一致。",
+          "sourceIds": [
+            "chikool-m24-sampling-2025-media",
+            "shishi-labor-2024"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "无纺布、吸收材料及物流雇佣主体尚未逐一对应；作为补充调查，不另设全链准入门槛。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "在本站复核期限前查询更新评价和相反证据；当前包装变更制造商或规格时重新对应。",
+      "assessments": [
+        {
+          "subject": "美佳爽（中国）有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2024 年度",
+          "sourceId": "shishi-labor-2024",
+          "limitation": "最终通知与其附件合并作为依据，评价覆盖具名法人和 2024 年。本站复核期限不是政府公布的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-10-24"
         }
       ]
     }
@@ -16386,6 +16549,67 @@
           ]
         }
       }
+    },
+    {
+      "id": "chikool-air-diaper-m24",
+      "name": "AIR 薄婴儿纸尿裤 M 码 24 片",
+      "brand": "奇酷（Chikool）",
+      "companyId": "megasoft-china",
+      "category": "daily",
+      "description": "腰贴型婴儿纸尿裤，M 码单包 24 片；零售选项标示适用体重 6—11kg，所选为纸尿裤。",
+      "tags": [
+        "纸尿裤",
+        "婴儿护理",
+        "AIR 薄",
+        "M码",
+        "24片",
+        "腰贴型"
+      ],
+      "needs": [
+        "纸尿裤"
+      ],
+      "url": "https://item.jd.com/10080675159270.html",
+      "market": "京东商品号 10080675159270，准确选项为纸尿裤 M24 片（6—11kg）。实际库存、价格及配送范围以所选商品页面为准。",
+      "relationship": "公开抽查表将奇酷 M 码 24 片婴儿纸尿裤（样品货号 CDAIRH-24M）对应美佳爽（中国）有限公司；官网列 AIR 薄为中国线上系列，京东提供同系列、同尺码和片数的独立商品入口。",
+      "relationshipSourceIds": [
+        "chikool-m24-sampling-2025-media",
+        "chikool-brand-products",
+        "chikool-air-m24-jd"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "暂未取得可明确展示 M 码 24 片包装的图片",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "国内京东准确商品卡及独立链接对应 AIR 薄纸尿裤 M 码 24 片；不把系列标题中的拉拉裤当作所选规格。",
+          "sourceIds": [
+            "chikool-air-m24-jd",
+            "chikool-brand-products"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "美佳爽（中国）有限公司",
+          "detail": "2025 年公开抽查表转载列同品牌 M 码 24 片样品的标称生产企业为美佳爽（中国）有限公司；石狮政府名单与官网交叉对应境内地址。保留样品年度；当前商品制造商变更时需重新核对。",
+          "sourceIds": [
+            "chikool-m24-sampling-2025-media",
+            "shishi-labor-2024",
+            "chikool-brand-products"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "shishi-labor-2024",
+          "detail": "对应制造法人获石狮市 2024 年度劳动保障守法诚信 A 级评价，2025-10-24 最终公布；年度报告再次确认评价结果。仅覆盖该法人及评价年度。",
+          "sourceIds": [
+            "shishi-labor-2024",
+            "shishi-labor-2024-followup",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -16854,6 +17078,67 @@
       ]
     },
     {
+      "category": "kitchen",
+      "needs": [
+        {
+          "label": "饭碗",
+          "query": "饭碗"
+        },
+        {
+          "label": "餐盘",
+          "query": "餐盘"
+        },
+        {
+          "label": "水杯",
+          "query": "水杯"
+        },
+        {
+          "label": "筷子",
+          "query": "筷子"
+        },
+        {
+          "label": "炒锅",
+          "query": "炒锅"
+        },
+        {
+          "label": "奶锅",
+          "query": "奶锅"
+        },
+        {
+          "label": "蒸锅",
+          "query": "蒸锅"
+        },
+        {
+          "label": "菜刀",
+          "query": "菜刀"
+        },
+        {
+          "label": "砧板",
+          "query": "砧板"
+        },
+        {
+          "label": "饭盒",
+          "query": "饭盒"
+        },
+        {
+          "label": "保鲜盒",
+          "query": "保鲜盒"
+        },
+        {
+          "label": "保鲜袋",
+          "query": "保鲜袋"
+        },
+        {
+          "label": "保鲜膜",
+          "query": "保鲜膜"
+        }
+      ],
+      "note": "补入原清单遗漏的厨房餐具与食品收纳用途。已从德化最终劳动评价名单查到具名陶瓷制造企业，尚未对应国内可购买的准确碗盘杯款式；其余用途待逐项补入具体商品与生产企业依据。缺口不表示市场上没有合规商品。",
+      "sourceIds": [
+        "dehua-labor-2025"
+      ]
+    },
+    {
       "category": "daily",
       "needs": [
         {
@@ -16913,7 +17198,7 @@
           "query": "湿巾"
         }
       ],
-      "note": "已有标准刷头牙刷、自由点 FLC8704-EC 夜用卫生巾及纸品、洗洁精等具体资料。牙刷缺制造背标，卫生巾只锁定历史抽查样品；实际生产劳动证据均待补。迪彩五天八小时存在特殊岗位例外，候选洗发水品名与图片规格不一致，暂不添加；香皂和清洁工具仍有缺口。",
+      "note": "奇酷 AIR 薄 M 码 24 片纸尿裤已对应国内零售、境内制造商和同法人 2024 年劳动守法 A 级评价，正式收录。其余已整理牙刷、卫生巾、纸品、洗洁精等具体资料，制造或劳动依据仍待补；香皂和清洁工具有缺口。",
       "sourceIds": [
         "jahwa-2025",
         "darlie-hours",
@@ -16933,7 +17218,10 @@
         "hangzhou-hygiene-sampling-2025",
         "decolor-zhaoqing-intro",
         "decolor-zhaoqing-hiring-2019",
-        "decolor-jd-variant-mismatch"
+        "decolor-jd-variant-mismatch",
+        "shishi-labor-2024",
+        "chikool-m24-sampling-2025-media",
+        "chikool-air-m24-jd"
       ]
     },
     {

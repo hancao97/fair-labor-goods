@@ -38,11 +38,11 @@ const url = (value) => {
   assert(!u.username && !u.password, "No URL credentials");
 };
 date(data.updatedAt);
-assert.equal(
-  categories.size,
-  15,
-  "The everyday research map must include all 15 areas",
-);
+for (const id of [
+  "food", "fresh", "drinks", "clothing", "home", "kitchen", "daily",
+  "electronics", "appliances", "stationery", "transport", "cars",
+  "housing", "dining", "culture", "games",
+]) assert(categories.has(id), `Missing everyday research area ${id}`);
 for (const s of data.sources) {
   ["title", "publisher", "type", "locator", "summary", "limitation"].forEach(
     (k) => text(s[k], `${s.id}.${k}`),

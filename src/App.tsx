@@ -97,6 +97,7 @@ const quickSearches = [
   { label: "书桌照明", category: "home", query: "台灯" },
   { label: "座椅", category: "home", query: "椅" },
   { label: "收纳", category: "home", query: "收纳" },
+  { label: "厨房餐具", category: "kitchen", query: "", featured: true },
   { label: "冰箱", category: "appliances", query: "冰箱", featured: true },
   { label: "洗衣机", category: "appliances", query: "洗衣机", featured: true },
   { label: "洗碗机", category: "appliances", query: "洗碗机" },
