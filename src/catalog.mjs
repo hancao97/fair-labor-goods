@@ -9,7 +9,8 @@ export const defaults = {
   sort: "evidence",
 };
 
-const today = () => new Date().toISOString().slice(0, 10);
+// Catalog review dates use Beijing time, independently of the visitor's timezone.
+const today = () => new Date(Date.now() + 8 * 60 * 60 * 1000).toISOString().slice(0, 10);
 const dated = (value) => typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value) &&
   !Number.isNaN(Date.parse(value)) && new Date(value).toISOString().slice(0, 10) === value;
 

@@ -83,6 +83,25 @@ test("withdrawn, superseded and overdue assessments return products to research"
   company.assessments.push({ ...company.assessments[0], sourceId: "new-negative-rating", grade: "C", periodEnd: "2026-08-31" });
   assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
 });
+test("admission and empty-result explanations use Beijing calendar days at review boundaries", (t) => {
+  const { product, company } = assessedProduct();
+  const catalog = { ...data, products: [product], companies: [company] };
+  t.mock.timers.enable({ apis: ["Date"], now: Date.parse("2026-09-11T15:59:59.999Z") });
+  for (const [instant, expected] of [
+    ["2026-09-11T15:59:59.999Z", 0],
+    ["2026-09-11T16:00:00.000Z", 1],
+    ["2026-09-12T00:00:00.000Z", 1],
+    ["2027-06-02T15:59:59.999Z", 1],
+    ["2027-06-02T16:00:00.000Z", 0],
+  ]) {
+    t.mock.timers.setTime(Date.parse(instant));
+    assert.equal(isAdmitted(product, company), Boolean(expected), instant);
+    assert.equal(selectAdmittedProducts(catalog).length, expected, instant);
+    const availability = getCatalogAvailability(catalog, defaults);
+    assert.equal(availability.admittedCount, expected, instant);
+    assert.equal(availability.gaps.productionLabor, 1 - expected, instant);
+  }
+});
 test("incomplete or inconsistent assessment dates cannot admit a product", () => {
   for (const change of [{ reviewDueAt: undefined }, { reviewDueAt: "2027-99-99" }, { reviewedAt: "unknown" }, { periodStart: "2026-01-01" }]) {
     const { product, company } = assessedProduct();
