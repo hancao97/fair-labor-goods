@@ -6266,6 +6266,58 @@
       },
       "filename": "images/qiaqia-organic-walnut500.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "hengdu-domestic-beef-brisket1kg",
+      "image_url": "https://img10.360buyimg.com/n1/jfs/t1/450689/13/3050/154396/6a215338Fd1517d89/008332032060eb58.jpg",
+      "width": 350,
+      "height": 350,
+      "bytes": 32360,
+      "sha256": "87df5ff5aca9f6d70de1e26db0fcd9b57d2188609a1baf70ebaad9c6d1f394fe",
+      "visually_verified": true,
+      "source_page_url": "https://mall.jd.com/view_page-218690324.html",
+      "retailer_sku": "2925346",
+      "source_type": "京东准确商品卡片实际引用的原始宣传图",
+      "verification_notes": "已按原始尺寸目视核对完整图；图中商品摆盘与宣传文字不是包装背标或当前批次证明。",
+      "reuse_info": {
+        "rights_holder": "恒都品牌及原商品图片相关权利人；京东店铺展示，具体摄影或设计著作权法人未单独确认",
+        "license": "未发现开放复用许可。公开展示不等于不限用途的转载或商业授权。",
+        "restrictions": "保留完整图片中的品牌、宣传和图片仅供参考原文；不得去水印或改写为包装/批次证据。"
+      },
+      "source_image_metadata": {
+        "width": 350,
+        "height": 350,
+        "bytes": 26738,
+        "sha256": "8e62734f2e7b91fb2a0025a6ba22de180185747ef6710b44982a0bdeb62b00c9"
+      },
+      "filename": "images/hengdu-domestic-beef-brisket1kg.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "ningxin-boneless-lamb400",
+      "image_url": "https://img14.360buyimg.com/n7/jfs/t1/338948/11/5063/257031/68ba9631F1bc5f4f7/d75b1fc56367fb51.jpg",
+      "width": 220,
+      "height": 220,
+      "bytes": 19364,
+      "sha256": "2a32d6157238dee964fd79a620b88943173be648dbbd5d71c03ba33f421fa3ff",
+      "visually_verified": true,
+      "source_page_url": "https://www.jd.com/chanpin/11828677.html",
+      "retailer_sku": "7213404",
+      "source_type": "京东准确商品卡片实际引用的原始宣传图",
+      "verification_notes": "已按原始尺寸目视核对完整图；图中商品摆盘与宣传文字不是包装背标或当前批次证明。",
+      "reuse_info": {
+        "rights_holder": "宁鑫品牌与商品图片相关权利人；京东公开展示，具体摄影及设计著作权法人未单独确认",
+        "license": "未发现开放复用许可；公开可读不等于无限制转载或商业复用授权。",
+        "restrictions": "保留整图、原标识和宣传文字，不去水印，不扩大为当前消费者批次或厂家证明。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 33439,
+        "sha256": "77ba5e4251ba3cb623b1e0113ed47d0b3cfacfaba7116dcaf92cfe4f221c4d4f"
+      },
+      "filename": "images/ningxin-boneless-lamb400.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

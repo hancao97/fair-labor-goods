@@ -3858,6 +3858,174 @@
       "checkedAt": "2026-09-12",
       "locator": "第二部分第（一）项的洽洽段落、网页发布日期与答复落款",
       "type": "政府提案答复"
+    },
+    {
+      "id": "national-employment-award-2025",
+      "title": "全国就业与社会保障先进民营企业：2025 年表彰决定",
+      "publisher": "全国工商联、人力资源社会保障部、全国总工会",
+      "url": "https://wap.acfic.org.cn/tzgg_13745/tzgs/202601/t20260106_323654.html",
+      "summary": "2025 年 12 月 31 日作出的表彰决定，附件 1 分别列有重庆恒都农业集团有限公司和河南双汇投资发展股份有限公司。",
+      "limitation": "表彰对象是具名法人；没有附具体养殖场、屠宰厂或包装班组的考勤与逐周休息记录，不扩展为集团全部商品或供应链认证。",
+      "publishedAt": "2026-01-06",
+      "checkedAt": "2026-09-12",
+      "locator": "附件 1：河南省及重庆市名单；落款日期与网页发布时间分别记录",
+      "type": "官方表彰名单"
+    },
+    {
+      "id": "hengdu-mainland-chain-2023",
+      "title": "丰都农业产业观察：恒都养殖、加工与冷链业务",
+      "publisher": "新华社 / 重庆市农业农村委员会",
+      "url": "https://nyncw.cq.gov.cn/zwxx_161/mtbb/202307/t20230720_12167210_wap.html",
+      "summary": "报道介绍恒都在重庆丰都加工牛肉，并通过冷链销售；也说明当地产业存在公司、新农人与农户合作模式。",
+      "limitation": "新华社原稿为 2023 年 7 月 19 日，政府页次日发布。业务和产区报道没有指定零售货号 2925346 的当前养殖场、屠宰或分装法人，也不是劳动审核。",
+      "publishedAt": "2023-07-20",
+      "checkedAt": "2026-09-12",
+      "locator": "新华社电头、首段及公司与农户合作模式段",
+      "type": "媒体实地报道（政府转载）"
+    },
+    {
+      "id": "hengdu-import-history-2021",
+      "title": "重庆农业发布会：恒都进口冷链管理的历史说明",
+      "publisher": "重庆市农业农村委员会",
+      "url": "https://nyncw.cq.gov.cn/zwxx_161/jdtp/202105/t20210528_9339702_wap.html",
+      "summary": "2021 年发布会中，恒都代表说明进口原料的入境单证、库房和运输管理，表明不能仅凭恒都品牌推定原料均来自国内。",
+      "limitation": "这是历史进口业务说明，不证明所选国产牛腩使用进口原料，也不代表当前任何批次的产地或劳动情况。",
+      "publishedAt": "2021-05-28",
+      "checkedAt": "2026-09-12",
+      "locator": "严把产品质量、严格进口冷链管理部分：恒都代表发言",
+      "type": "政府新闻发布会"
+    },
+    {
+      "id": "hengdu-production-hiring-2022",
+      "title": "丰都政府存档：恒都食品生产岗位招聘",
+      "publisher": "丰都县人民政府 / 县人力社保局",
+      "url": "https://www.cqfd.gov.cn/bm/rlsbj/zwgk_36090/zfxxgkml/jczwgk/jycyly/jyxxfw_302842/zygqxxscgzzdjwxxzypxxxfb/qtxxgk/202210/t20221012_11182018.html",
+      "summary": "2022 年 9 月招聘汇总的恒都食品开发有限公司一节列普工、配料、制冷等岗位，并列高家镇文昌东路 555 号报名地址及水天坪分厂岗位。",
+      "limitation": "网页发表于 2022 年 10 月；应聘接待时间不是员工工作安排，前后其他企业的五险、月休或值班条件不得移用。缺具体周工时、休息与当前履行记录，报名地址不当作所选牛腩生产地址。",
+      "publishedAt": "2022-10-12",
+      "checkedAt": "2026-09-12",
+      "locator": "重庆恒都食品开发有限公司一节：普工至应聘时间、报名地址",
+      "type": "政府招聘存档"
+    },
+    {
+      "id": "hengdu-beef-jd-2925346",
+      "title": "恒都国产原切牛腩块：2 斤、3:7 版本的准确京东货号",
+      "publisher": "京东恒都自营店",
+      "url": "https://mall.jd.com/view_page-218690324.html",
+      "summary": "自营牛肉专区的 2925346 卡片标明国产谷饲 300 天、原切牛腩块 2 斤及肥瘦比 3:7；同卡原图为牛腩展示广告。",
+      "limitation": "以上为零售宣传，尚无包装背标、现供批次与实际养殖记录。2 斤是卡片标称量，不推断袋数；不合并 3037802 的 4 斤或其他比例版本，不以自营字样和评论数证明现时库存。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "牛肉专区中链接 item.jd.com/2925346.html 的卡片及其原图",
+      "type": "大陆零售商品资料"
+    },
+    {
+      "id": "ningxin-brand-official-index",
+      "title": "宁鑫与鑫海食品品牌关系：官网公开索引",
+      "publisher": "宁夏盐池县鑫海食品有限公司（官网索引）",
+      "url": "https://www.ningxinfood.com/",
+      "summary": "官网公开索引将宁鑫列为盐池滩羊品牌，介绍宁夏盐池县鑫海食品有限公司的养殖、屠宰、加工及销售业务。",
+      "limitation": "本次直连遇证书域名不匹配，仅采用可读公开索引，未绕过验证，也未读取当前完整官网。企业介绍未对应 400g 羊腿肉的实际批次，不把有机或食品品质宣传当作劳动证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公开搜索索引：中国滩羊之乡与公司介绍段（当前完整原页未取得）",
+      "type": "企业官网公开索引"
+    },
+    {
+      "id": "ningxin-production-employment-2025",
+      "title": "宁夏就业报道：鑫海食品灵活生产岗位",
+      "publisher": "宁夏日报 / 宁夏回族自治区人力资源和社会保障厅",
+      "url": "https://hrss.nx.gov.cn/ztlm/wnzt/dlfd/202510/t20251009_5047572.html",
+      "summary": "人社厅转载的车间报道介绍鑫海食品在当地指导下设立妈妈工坊，提供灵活岗位和子女托管；企业也说明秋冬旺季的人员需求。",
+      "limitation": "原报道日期 2025 年 10 月 3 日，政府网页 10 月 9 日发布。个别员工收入与灵活岗位案例不证明全部人员的合同、社保、每周工时或两天休息；也未对应所选包装。",
+      "publishedAt": "2025-10-09",
+      "checkedAt": "2026-09-12",
+      "locator": "盐池县鑫海食品生产车间、妈妈工坊和旺季用工段；文末原稿日期",
+      "type": "生产现场报道（人社部门转载）"
+    },
+    {
+      "id": "ningxin-seasonal-work-2024",
+      "title": "宁夏日报：鑫海食品节前订单与加班线索",
+      "publisher": "宁夏日报",
+      "url": "https://szb.nxrb.cn/nxrb/pc/con/202412/26/content_144295.html",
+      "summary": "报道点名宁夏盐池县鑫海食品有限公司，描述节前鲜肉订单增长、增加人手和加班安排；另述物流企业增加中转车辆。",
+      "limitation": "未公布加班时长、频率、支付或调休记录，不能直接认定违法，也不能据此确认项目的 40 小时及两天休息条件。物流数据与生产员工资料分开，不对应当前 400g 商品批次。",
+      "publishedAt": "2024-12-26",
+      "checkedAt": "2026-09-12",
+      "locator": "“吴忠市打造高质量农业特色产业集群”首段及物流采访段",
+      "type": "媒体生产报道"
+    },
+    {
+      "id": "ningxin-farm-cooperation-2022",
+      "title": "宁鑫产业联合体与养殖合作社：公开农业资料",
+      "publisher": "中华农业科教基金会（公开索引）",
+      "url": "https://www.casef.agri.cn/hjsj/202207/t20220706_7871038.htm",
+      "summary": "公开人物资料介绍 2017 年宁鑫产业联合体，以鑫海企业、盐池县丰育养殖专业合作社、家庭农场和散养农户等组成合作体系。",
+      "limitation": "本次仅读到公开索引，完整原页连接未完成。索引资料回顾更早经营活动，精确发布日期未核；文中企业简称不当作当前包装制造者全称，合作社与农户人员不能直接纳入公司员工福利范围。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公开索引：2017 年宁鑫现代产业化联合体建设段（完整原页及精确发布日期未取得）",
+      "type": "农业机构公开索引"
+    },
+    {
+      "id": "ningxin-lamb-jd-7213404",
+      "title": "宁鑫原切去骨羊腿肉 400g：京东货号 7213404",
+      "publisher": "京东",
+      "url": "https://item.jd.com/product/3mgSBEJUxX1Hz_P2_NdepQ.html",
+      "summary": "可读商品页标题为宁鑫盐池滩羊原切去骨羊腿肉 400g，静态 canonical 和商品配置对应 7213404；自营店同规格卡片也指向此货号。",
+      "limitation": "这是商品展示和品牌产区宣称，尚未取得当前可下单、地区供货和具体制造背标。聚合评价可能涉及其他规格，不据评价推断这款肉的产地、重量、骨含量或劳动情况。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "页面标题、canonical 与 pageConfig；自营店 view_search-715219.html 同规格卡片",
+      "type": "大陆零售商品资料"
+    },
+    {
+      "id": "nongfu-orange-jd-recheck",
+      "title": "农夫山泉橙京东资料复核：5kg 铂金果尚未锁定",
+      "publisher": "京东农夫山泉 17.5°自营店",
+      "url": "https://mall.jd.com/view_page-236686522.html",
+      "summary": "搜索索引有 5kg 铂金果，当前静态原页商品列表为空。另查品牌页的 10212917141687 所选为 12 斤装；10124584960289 仅泛称橙子，均不能对应 5kg 铂金果。",
+      "limitation": "空列表不表示所有地区无货或永久停售。搜索缓存不作为当前同款可售证明，没有拿其他重量、钻石果或橙汁图片补成这款商品。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "当前自营页商品列表；品牌页 /brand/12218255e1a841377300a.html 的逐卡核对",
+      "type": "大陆零售资料复核"
+    },
+    {
+      "id": "jinsui-agriculture-hiring",
+      "title": "广西金穗农业招聘：境内外基地及不同工作安排",
+      "publisher": "广西人才网（企业发布）",
+      "url": "https://www.gxrc.com/Company/34f82e6e-ba35-4175-961b-01852a5420f1",
+      "summary": "企业介绍同时提及国内和老挝种植业务；福利说明为每天 7.5—8 小时，并列单双休、综合计时及各分子公司差异。",
+      "limitation": "资料未标明完整发布时间，经营规模数据回顾到 2021 年。每日时长不能换算全员每周 40 小时、两天休息；没有准确国产香蕉包装和供货基地，未据此新增商品。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "企业简介的土地与作物说明、福利待遇第 1 项",
+      "type": "企业招聘资料"
+    },
+    {
+      "id": "honghui-fruit-labor-2025",
+      "title": "宏辉果蔬 2025 年报：采购模式与生产计件工资",
+      "publisher": "宏辉果蔬股份有限公司 / 巨潮资讯",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-24/1225158978.PDF",
+      "summary": "第 13 页区分国内外采购以及公司、基地、农户关系；第 52 页将生产人员计件工资与其他员工薪酬分别说明。",
+      "limitation": "已目视两页原文。计件工资本身不证明加班或违法，也不能证明周工时及休息。公司业务包含国产和进口果蔬；尚未锁定新鲜葡萄或蔬菜的当前准确包装，未以业务品类充商品。",
+      "publishedAt": "2026-04-24",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF / 印刷第 13、52 页；第 53 页劳务外包披露",
+      "type": "企业年度报告"
+    },
+    {
+      "id": "pagoda-labor-policy-2025",
+      "title": "百果园 2025 ESG：员工福利与供应商要求",
+      "publisher": "深圳百果园实业（集团）股份有限公司 / 港交所披露易",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0430/2026043001148.pdf",
+      "summary": "报告分别介绍总部雇佣制度、禁止强迫与童工、员工五险一金及弹性安排；供应商另有劳动、安全和反歧视要求。",
+      "limitation": "已目视 PDF 第 153、166、170、172 页。企业政策和自述未给出所需具体果园、包装或门店的逐周实际工时与休息，不能扩展到全部加盟商或供货农户；未凭泛化商品名称新增水果。",
+      "publishedAt": "2026-04-30",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF 第 153、166、170、172 页（印刷 152、165、169、171）",
+      "type": "企业 ESG 报告"
     }
   ],
   "companies": [
@@ -5343,7 +5511,8 @@
         "本档案尚未取得实际考勤、加班和每周休息记录。"
       ],
       "sourceIds": [
-        "shuanghui-wangkui-csr-2024"
+        "shuanghui-wangkui-csr-2024",
+        "national-employment-award-2025"
       ],
       "supply": [
         {
@@ -5367,7 +5536,16 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "assessments": [
+        {
+          "subject": "河南双汇投资发展股份有限公司",
+          "result": "全国就业与社会保障先进民营企业",
+          "period": "2025 年 12 月 31 日表彰决定",
+          "sourceId": "national-employment-award-2025",
+          "limitation": "具名公司表彰不覆盖所有生产法人；不能替代望奎或本目录商品当前批次的实际工时和休息记录。"
+        }
+      ]
     },
     {
       "id": "yadea",
@@ -6878,7 +7056,7 @@
         "天然水存在多个生产法人，抽检批次不能代替消费者待购批次。",
         "苹果产区与果汁灌装厂分开，果农、季节工、包材和运输劳动资料均待补。",
         "人才政策与供应商管理属于制度披露，缺少产线和外包岗位的实际记录。",
-        "鲜橙及苹果有国内种植基地介绍，但所查橙子为历史零售页、苹果缺同款直接销售对应，未将两者计作新增水果商品。"
+        "鲜橙国内基地已知，但京东 5kg 铂金果搜索缓存未能对应当前原页；其他重量或泛称橙子不替代该款，未新增鲜果商品。"
       ],
       "sourceIds": [
         "nongfu-employment-policy2026",
@@ -6886,7 +7064,8 @@
         "nongfu-water550-sampling2026",
         "nongfu-fruit-bases",
         "nongfu-orange-historical-suning",
-        "nongfu-apple-retail-clue"
+        "nongfu-apple-retail-clue",
+        "nongfu-orange-jd-recheck"
       ],
       "supply": [
         {
@@ -8555,6 +8734,135 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "获取有机核桃仁 500g/10袋现供背标及批号，沿原果、初加工、精加工与包装逐个锁定境内生产者，再核实际工时、逐周休息、工资社保及派遣外包。"
+    },
+    {
+      "id": "hengdu-beef",
+      "name": "恒都 / 国产牛肉生产线索",
+      "legalName": "重庆恒都农业集团有限公司（所选批次养殖、屠宰和分装法人待核）",
+      "location": "集团及已知加工业务在重庆丰都；此货号实际生产地待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有集团表彰，生产排班待核",
+      "scope": "所选国产原切牛腩 2925346 的品牌集团及生产业务线索；不将集团表彰移用到未知工厂。",
+      "finding": "集团获得 2025 年底就业与社会保障表彰，国内生产业务和准确国产牛腩货号已有资料；具体批次工厂、养殖场及实际 40 小时与双休仍未对应。",
+      "caveats": [
+        "表彰不等于所有子公司和供应商都已满足每周 40 小时、两天休息。",
+        "集团也有进口原料历史业务；所选国产宣传需由当前养殖、屠宰和包装追溯确认。",
+        "旧招聘的应聘时间不等于生产排班；其他企业的工资社保条款不能移用。"
+      ],
+      "sourceIds": [
+        "national-employment-award-2025",
+        "hengdu-production-hiring-2022",
+        "hengdu-mainland-chain-2023",
+        "hengdu-import-history-2021",
+        "hengdu-beef-jd-2925346"
+      ],
+      "supply": [
+        {
+          "stage": "养殖、饲料及合作农户",
+          "status": "unknown",
+          "detail": "有国内养殖产业报道，也有历史进口业务；需追溯此货号的牛只来源、养殖主体和相关雇员。",
+          "sourceIds": [
+            "hengdu-mainland-chain-2023",
+            "hengdu-import-history-2021"
+          ]
+        },
+        {
+          "stage": "屠宰、分割与包装",
+          "status": "unknown",
+          "detail": "已知重庆恒都食品开发生产招聘及丰都加工业务，尚无这款的背标、工厂批次和岗位实际记录。",
+          "sourceIds": [
+            "hengdu-production-hiring-2022",
+            "hengdu-mainland-chain-2023"
+          ]
+        },
+        {
+          "stage": "集团、销售与冷链",
+          "status": "unknown",
+          "detail": "集团表彰和大陆商品卡片可核，销售与冷链实际履行资料不足；不据荣誉或自营名称确认全部用工。",
+          "sourceIds": [
+            "national-employment-award-2025",
+            "hengdu-beef-jd-2925346"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "先用当前包装追溯 2925346 的养殖、屠宰及分装法人，再核对应班组与冷链岗位的实际周工时、休息、合同、工资社保和安全记录。",
+      "assessments": [
+        {
+          "subject": "重庆恒都农业集团有限公司",
+          "result": "全国就业与社会保障先进民营企业",
+          "period": "2025 年 12 月 31 日表彰决定",
+          "sourceId": "national-employment-award-2025",
+          "limitation": "具名集团主体表彰，没有所选货号的生产考勤和全供应链审查附件。"
+        }
+      ]
+    },
+    {
+      "id": "ningxin-xinhai",
+      "name": "宁鑫 / 盐池鑫海羊肉生产线索",
+      "legalName": "宁夏盐池县鑫海食品有限公司（当前商品制造批次待核）",
+      "location": "宁夏吴忠盐池；此包装的具体养殖、分割地点待核",
+      "origin": "china",
+      "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "40 小时依据待补",
+      "restLabel": "每周两天休息待核",
+      "cardNote": "有车间报道，实际排班待核",
+      "scope": "宁鑫去骨羊腿肉 400g 的品牌与盐池生产业务线索；养殖户、分割包装和冷链人员分别核查。",
+      "finding": "已有准确 400g 零售页、盐池生产车间灵活岗位报道和节前加班线索。没有此商品对应的实际周工时、休息及工资社保记录，仍不能确认合格。",
+      "caveats": [
+        "灵活岗位与子女托管报道不等于全部生产者都有每周双休。",
+        "历史旺季加班报道未给出时长及补偿，不能直接推定违法，也不能确认符合项目工时条件。",
+        "联合体含合作社、家庭农场和农户，集团或企业员工资料不能覆盖这些人的雇佣关系。",
+        "官网完整原页本次未取得；品牌介绍和产区宣传不代替当前商品制造背标。"
+      ],
+      "sourceIds": [
+        "ningxin-brand-official-index",
+        "ningxin-production-employment-2025",
+        "ningxin-seasonal-work-2024",
+        "ningxin-farm-cooperation-2022",
+        "ningxin-lamb-jd-7213404"
+      ],
+      "supply": [
+        {
+          "stage": "养殖与合作农户",
+          "status": "unknown",
+          "detail": "旧资料列宁鑫联合体、丰育合作社及农户，尚无此款原料羊的批次和劳动记录。",
+          "sourceIds": [
+            "ningxin-farm-cooperation-2022"
+          ]
+        },
+        {
+          "stage": "屠宰、分割及包装",
+          "status": "unknown",
+          "detail": "生产现场报道包含灵活岗位和旺季人员安排，未公开实际考勤、逐周休息及合同社保，也未对应 400g 包装班组。",
+          "sourceIds": [
+            "ningxin-production-employment-2025",
+            "ningxin-seasonal-work-2024"
+          ]
+        },
+        {
+          "stage": "销售、仓储与冷链",
+          "status": "unknown",
+          "detail": "大陆零售货号已对应；报道中的物流企业是另一主体，当前供货和相关人员劳动条件待核。",
+          "sourceIds": [
+            "ningxin-lamb-jd-7213404",
+            "ningxin-seasonal-work-2024"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得 7213404 当前包装与生产追溯，对应养殖场和分割包装人员；分别核淡旺季考勤、逐周休息、加班补偿、合同社保及冷链外包。"
     }
   ],
   "products": [
@@ -14834,6 +15142,116 @@
           ]
         }
       }
+    },
+    {
+      "id": "hengdu-domestic-beef-brisket1kg",
+      "name": "国产原切牛腩块 2斤（3:7 版本）",
+      "brand": "恒都",
+      "companyId": "hengdu-beef",
+      "category": "fresh",
+      "description": "准确零售货号标称国产谷饲 300 天、2 斤及肥瘦比 3:7；这些是零售描述，实际包装、牛只来源和分装厂待核。",
+      "tags": [
+        "牛肉",
+        "牛腩",
+        "原切",
+        "2斤"
+      ],
+      "needs": [
+        "牛肉"
+      ],
+      "url": "https://mall.jd.com/view_page-218690324.html",
+      "relationshipSourceIds": [
+        "hengdu-beef-jd-2925346",
+        "hengdu-mainland-chain-2023"
+      ],
+      "market": "京东准确货号 2925346；2 斤按市斤为 1kg，不推断袋数，现时供货地区和可下单结果待核。",
+      "relationship": "零售恒都品牌和集团牛肉业务已有对应线索；尚未将本货号指定到集团某个养殖场、食品厂或包装法人。",
+      "image": "images/hengdu-domestic-beef-brisket1kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img10.360buyimg.com/n1/jfs/t1/450689/13/3050/154396/6a215338Fd1517d89/008332032060eb58.jpg",
+      "imageRights": "恒都品牌及商品图片相关权利人；原图为 350×350 牛腩摆盘宣传，非实物包装。2斤、3:7 来自准确卡片，未从图推断制造者、养殖场或现供批次。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核准确大陆零售卡片与 2925346 货号；库存、配送区域、销售主体及当前可下单仍待核。",
+          "sourceIds": [
+            "hengdu-beef-jd-2925346"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "该卡片标称国产，但没有当前牛只、养殖地、屠宰与分装追溯；不因品牌有国内工厂就自动确认本批次。",
+          "sourceIds": [
+            "hengdu-beef-jd-2925346",
+            "hengdu-mainland-chain-2023",
+            "hengdu-import-history-2021"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团表彰与旧招聘没有对应本款生产班组实际周工时、休息、工资社保和安全履行；合作养殖及冷链另核。",
+          "sourceIds": [
+            "national-employment-award-2025",
+            "hengdu-production-hiring-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ningxin-boneless-lamb400",
+      "name": "盐池滩羊原切去骨羊腿肉 400g",
+      "brand": "宁鑫",
+      "companyId": "ningxin-xinhai",
+      "category": "fresh",
+      "description": "大陆零售货号 7213404 对应的 400g 去骨羊腿肉；盐池滩羊及地理标志为商品页宣称，当前生产与养殖追溯仍待补。",
+      "tags": [
+        "羊肉",
+        "羊腿肉",
+        "去骨",
+        "400g"
+      ],
+      "needs": [
+        "羊肉"
+      ],
+      "url": "https://item.jd.com/product/3mgSBEJUxX1Hz_P2_NdepQ.html",
+      "relationshipSourceIds": [
+        "ningxin-lamb-jd-7213404",
+        "ningxin-brand-official-index",
+        "ningxin-production-employment-2025"
+      ],
+      "market": "已核京东准确商品页和自营店同款卡片；现时可下单、配送范围、包装版本和生产批次待核。",
+      "relationship": "宁鑫官网公开索引联系到盐池鑫海，生产报道也指向当地企业；没有把品牌关系和旧生产活动写成该包装的当前制造证明。",
+      "image": "images/ningxin-boneless-lamb400.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img14.360buyimg.com/n7/jfs/t1/338948/11/5063/257031/68ba9631F1bc5f4f7/d75b1fc56367fb51.jpg",
+      "imageRights": "宁鑫品牌及商品图片相关权利人；原图为 220×220 去骨后腿肉摆盘宣传，非可读制造背标。400g 来自准确商品标题，未从缩略标签推断生产者。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "大陆准确商品页及自营店卡片对应 7213404 和 400g，仍缺当前可下单及地区配送确认。",
+          "sourceIds": [
+            "ningxin-lamb-jd-7213404"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "标题称盐池滩羊，已有宁夏生产业务线索；所选包装的养殖、屠宰、分割、分装主体及批次尚未锁定。",
+          "sourceIds": [
+            "ningxin-lamb-jd-7213404",
+            "ningxin-brand-official-index",
+            "ningxin-production-employment-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "灵活就业与节前加班报道未提供此款生产班组实际工时、逐周休息及合同社保；合作农户和冷链人员另核。",
+          "sourceIds": [
+            "ningxin-production-employment-2025",
+            "ningxin-seasonal-work-2024",
+            "ningxin-farm-cooperation-2022"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -15060,7 +15478,7 @@
           "query": "虾"
         }
       ],
-      "note": "新增华圣金尊优悦 5kg 苹果的准确零售货号，供货果园、当前可售和生产劳动待核。圣迪乐鸡蛋补充进口喂养原料说明，不能声称全链原料均为国产；温氏补充不同屠宰法人及副产品加工人员范围。柑橘、香蕉、葡萄、蔬菜、土豆、猪牛羊肉和鱼仍继续查准确商品与生产劳动。",
+      "note": "已补恒都国产原切牛腩 2斤（3:7）和宁鑫去骨羊腿肉 400g 的准确货号；产地追溯、当前可售和实际劳动均待核。橙子当前原页未能对应缓存中的 5kg 规格，金穗有境内外基地及单双休差异，宏辉和百果园政策未对应具体水果生产者。柑橘、香蕉、葡萄、蔬菜、土豆、猪肉和鱼仍有缺口；进口喂养原料与成品产地继续分开记录。",
       "sourceIds": [
         "national-harmony-2022",
         "nxnk-lianhu-production-2026",
@@ -15086,7 +15504,19 @@
         "huasheng-yulin-hiring-2022",
         "huasheng-nwafu-visit-2026",
         "huasheng-jinzun-jd-listing",
-        "sundaily-omega-retail-packaging"
+        "sundaily-omega-retail-packaging",
+        "national-employment-award-2025",
+        "hengdu-beef-jd-2925346",
+        "hengdu-mainland-chain-2023",
+        "hengdu-production-hiring-2022",
+        "ningxin-lamb-jd-7213404",
+        "ningxin-production-employment-2025",
+        "ningxin-seasonal-work-2024",
+        "ningxin-farm-cooperation-2022",
+        "nongfu-orange-jd-recheck",
+        "jinsui-agriculture-hiring",
+        "honghui-fruit-labor-2025",
+        "pagoda-labor-policy-2025"
       ]
     },
     {
