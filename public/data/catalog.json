@@ -6467,6 +6467,174 @@
       "locator": "查阅日原始卡片：货号100219409844，Y46扫把簸箕套装",
       "summary": "当前卡片明确Y46及扫把簸箕组合，提供独立商品入口；原图为带梳齿簸箕和扫把的套装。",
       "limitation": "原始HTML与原图已核，数字详情页只有通用框架。XY06、磁吸款、刮水扫把及单售簸箕不合并，未从其他商家的98cm参数填写本款尺寸；图中未见可读制造标签，地区库存和结算价格另核。"
+    },
+    {
+      "id": "midea-n8mxc1ii-jd",
+      "title": "美的风尊二代KFR-35GW/N8MXC1Ⅱ京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/xinghao/737263861f92655a824.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始卡片：100247231703，1.5匹，KFR-35GW/N8MXC1Ⅱ",
+      "summary": "原始卡片列风尊二代1.5匹冷暖壁挂空调、完整型号和独立商品入口，原图与该卡片对应。",
+      "limitation": "准确卡片与原图已读；数字详情页返回通用框架。不与Pro、J1、D等后缀或26GW、46GW机型合并。图片内价格、补贴和节能广告不是已核实现价或实测结果；地区供货另以商家为准。"
+    },
+    {
+      "id": "midea-n8mxc1ii-official",
+      "title": "美的商城风尊二代1.5匹商品资料及说明书入口",
+      "publisher": "美的商城",
+      "type": "官方产品资料",
+      "url": "https://www.midea.cn/detail/index?itemid=1004460890400731661629",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "完整型号、产品说明书下载链接及默认地区商品状态",
+      "summary": "官网页面明确所选KFR-35GW/N8MXC1Ⅱ并链接本机系列说明书，可用于型号与官方手册交叉核对。",
+      "limitation": "查阅时默认广州天河页面返回无库存、下架状态，不能把此官方入口当作当前可售依据；另一准确京东入口分别记录，也不从单一地区或渠道推断全国无法购买。远程脚本仅按文本读取，没有执行。"
+    },
+    {
+      "id": "midea-n8mxc1ii-manual",
+      "title": "美的风尊二代空调官方说明书：型号与制造企业",
+      "publisher": "广东美的制冷设备有限公司",
+      "type": "官方产品说明书",
+      "url": "https://dsdcp.smartmidea.net/mcsp/prod/20240222/cebf9a07ac8342d69d770690adac44de.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF第15页（印刷14）参数表及第38页末页，版本GMXC(BN8)II-01",
+      "summary": "参数表包含KFR-35GW/N8MXC1Ⅱ；末页具名广东美的制冷设备有限公司，地址广东省佛山市顺德区北滘镇林港路。",
+      "limitation": "准确型号页与末页已目视核对。手册为系列共用，仅取所选完整型号；所列地址及产品制造身份不证明劳动状况，也不直接推断每位工人的国籍。文档路径日期不充当可确认的发布日期。"
+    },
+    {
+      "id": "midea-n8mxc1ii-cqc2024",
+      "title": "中国质量认证中心2024年目录：美的N8MXC1Ⅱ制造商对应",
+      "publisher": "中国质量认证中心",
+      "type": "产品认证公开目录",
+      "url": "https://www.cqc.com.cn/www/upload/files/upload/resources/file/2024/04/02/60356.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF第60页，制造商广东美的制冷设备有限公司、型号KFR-35GW/N8MXC1Ⅱ，证书CQC24701426197",
+      "summary": "原始目录对应准确型号及具名制造商，列证书生效日期2024-03-29、有效期至2029-03-28；可与官方手册交叉核对制造主体。",
+      "limitation": "该页已经目视核对。这是历史产品认证公告，未另作现时证书状态查询，不保证未被撤回；产品认证并非劳动守法评价，证书有效期也不是劳动评价覆盖期。"
+    },
+    {
+      "id": "midea-esg2025-sgs",
+      "title": "美的集团2025年ESG报告及SGS鉴证声明",
+      "publisher": "美的集团股份有限公司（巨潮资讯披露）",
+      "type": "企业ESG披露及报告鉴证",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225058130.PDF",
+      "publishedAt": "2026-03-31",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF第6、40、74页及第81页（印刷157—158）SGS鉴证声明",
+      "summary": "报告披露人权合规内部审查、职业健康安全管理及工伤保险覆盖。SGS声明采用AA1000AS v3类型2、中度鉴证，涉及2025年度ESG信息及相关披露准则；现场访问集团总部并抽查文件和部分员工访谈。",
+      "limitation": "SGS声明两页已目视阅读，落款2026-03-21。报告信息鉴证不能自动视为广东美的制冷设备有限公司工厂的综合劳动审核；目前材料未给出对该制造法人工资、工时休息、社保等完整劳动要求的独立结论。集团披露与选定制造企业分别记录。"
+    },
+    {
+      "id": "hisense-65e5q-pro-suning",
+      "title": "海信65E5Q-PRO电视65英寸苏宁零售资料",
+      "publisher": "苏宁易购",
+      "type": "零售商品及制造商资料",
+      "url": "https://product.suning.com/0071314081/12418639913.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品12418639913，型号65E5Q-PRO；参数栏制造商、产地及65英寸规格",
+      "summary": "准确零售页对应小墨E5Q Pro电视65英寸，列制造商海信视像科技股份有限公司，产地中国山东青岛市。",
+      "limitation": "原始HTML与原图已核对，提供具体国内零售入口；默认禁用购买按钮和隐藏下架模板都不用于推断全国库存。参数表存在尺寸单位及接口数量的矛盾，未采用这些字段；图片价格、赛事宣传和CCC号码不作为已独立核验的价格、授权或劳动结论。"
+    },
+    {
+      "id": "hisense-visual-esg2025",
+      "title": "海信视像2025年可持续发展报告：集体合同与员工指标",
+      "publisher": "海信视像科技股份有限公司（雪球托管披露文件）",
+      "type": "企业可持续发展披露",
+      "url": "https://stockmc.xueqiu.com/202603/600060_20260331_FD68.pdf",
+      "publishedAt": "2026-03-31",
+      "checkedAt": "2026-09-12",
+      "locator": "PDF第60、62、93、94页，集体合同、员工指标及GRI索引外部鉴证条目",
+      "summary": "公司披露集体合同涉及劳动报酬、工作时间、休息休假、保险福利及劳动安全，并报告集体合同、劳动合同及社保覆盖指标。",
+      "limitation": "取得并阅读公司报告全文，下载地址为披露文件托管镜像。所列为公司自述及合并范围指标，未附可对应所选电视制造企业的综合独立劳动审核结论；全球员工统计也不能证明本机每位工人的国籍。"
+    },
+    {
+      "id": "robam-5925s-jd",
+      "title": "老板CXW-260-5925S单机油烟机京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/chanpin/2741424.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日准确卡片：10148619848320，选项5925S油烟机，原图型号CXW-260-5925S",
+      "summary": "多型号条目中的所选选项明确5925S单机，准确卡片引用原图标注CXW-260-5925S，并提供独立商品入口。",
+      "limitation": "原始卡片与原图已核对，数字详情页只有通用框架。不是60D1S、60X2S或烟灶套餐；5925S制造铭牌未取得，不移用其他老板型号的制造企业。宣传吸力及图中价格未独立测定。"
+    },
+    {
+      "id": "robam-57b2d-12t-suning",
+      "title": "老板57B2D天然气12T燃气灶苏宁零售及制造资料",
+      "publisher": "苏宁易购",
+      "type": "零售商品及制造商资料",
+      "url": "https://m.suning.com/product/0071538090/12403377523.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品12403377523参数：57B2D、双眼、天然气12T、制造商及产地",
+      "summary": "准确型号参数列杭州老板电器股份有限公司为制造商、产地中国浙江杭州市，所选为黑色玻璃面板双眼燃气灶、天然气12T。",
+      "limitation": "原始HTML及原图已核，提供具体大陆零售入口，地区供货由商家确认。标题写5.0kW、额定热流量字段写5.2kW，未将任一值写成确定规格；气源采用参数所列12T，不混为液化气款，零售CCC字段不充当劳动评价。"
+    },
+    {
+      "id": "robam-esg2025-assurance",
+      "title": "老板电器2025年ESG报告及独立鉴证范围",
+      "publisher": "杭州老板电器股份有限公司（新浪财经披露转载）",
+      "type": "企业ESG披露及报告鉴证",
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12281107&stockid=002508",
+      "publishedAt": "2026-04-30",
+      "checkedAt": "2026-09-12",
+      "locator": "2026-04-30公告，员工权益、劳动合同和社保指标、独立鉴证声明",
+      "summary": "2025年度报告披露劳动合同及社保覆盖率100%、薪酬中的加班费等制度。博涵可持续发展中心有限公司出具AA1000AS v3类型1、中度鉴证，范围为该报告的信息披露及相关原则。",
+      "limitation": "已按页面GBK声明读取公告原文。鉴证为抽样、排除供应商等第三方范围，不等于对所选5925S或57B2D实际工厂的综合劳动合规结论；劳动合同、社保自述保留正面线索，不自动扩展为独立核验。"
+    },
+    {
+      "id": "flyco-fh6232-white-jd",
+      "title": "飞科FH6232白色2000W吹风机京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/737999c9aa42e6376b8.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日准确卡片：100178188410，白色FH6232、2000W",
+      "summary": "原始准确卡片列FH6232白色可折叠电吹风2000W，提供独立商品入口和对应原图。",
+      "limitation": "原图与准确卡片已核，数字详情页只有通用框架。不是FH6231、FH6277、PH1626“同款”或配梳套装。原图无可读制造铭牌，广告价格与恒温效果不作为已核现价或实测结论。"
+    },
+    {
+      "id": "flyco-fh6232-maker-discrepancy",
+      "title": "苏宁另一FH6232零售页的制造商及地址分歧",
+      "publisher": "苏宁易购",
+      "type": "零售制造参数线索",
+      "url": "https://www.suning.com/item/0070179603/170617350.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "同型号FH6232参数中的制造商、地址和产地字段",
+      "summary": "该零售页列制造商浙江浩博电器有限公司，同时给出上海市松江区广富林东路555号地址及上海产地字段，形成需要澄清的制造主体线索。",
+      "limitation": "这是另一商家的同型号资料，未证明与所选京东货号的供货工厂一致；不同省份法人名称与地址未解释，不直接指定任一厂商，也不将品牌总部劳动制度移植为该款制造证据。"
+    },
+    {
+      "id": "flyco-fs891-grey-jd",
+      "title": "飞科FS891灰色小飞碟剃须刀京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/737405029934aa2ca43.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日准确卡片：100029778831，FS891灰",
+      "summary": "当前准确卡片与原图对应FS891灰色小飞碟剃须刀，并提供独立商品入口。",
+      "limitation": "原始HTML及原图已核，数字详情页为通用框架。不与生日款、太空银或另配包袋选项合并，未从其他商家的矛盾重量、产地参数填本款。原图广告及人物代言不作为制造或劳动依据。"
+    },
+    {
+      "id": "flyco-annual2025-production",
+      "title": "飞科电器2025年年报：自制与外包生产模式",
+      "publisher": "上海飞科电器股份有限公司（新浪财经披露转载）",
+      "type": "企业年度报告",
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12246280&stockid=603868",
+      "publishedAt": "2026-04-29",
+      "checkedAt": "2026-09-12",
+      "locator": "2026-04-29公告，主营业务、生产模式及员工薪酬附注",
+      "summary": "年报披露采用自主生产与外包生产结合的模式，介绍新品及中高端产品自主制造与外包成本管理；员工薪酬财务附注列相关计提。",
+      "limitation": "已按页面GBK声明读取2025年度年报。生产模式没有逐一指明FH6232或FS891的实际制造法人；社保计提不是缴费覆盖或综合守法结论，也不将历史代工名单和其他型号工厂自动对应本款。"
     }
   ],
   "companies": [
@@ -10412,7 +10580,7 @@
         {
           "stage": "集团员工与基地管理",
           "status": "policy",
-          "detail": "报告有员工保障、基地外部审核自述，未取得按型号、岗位和时期对应的原始结果及考勤。",
+          "detail": "报告有员工保障与基地外部审核自述，尚未取得适用于所选制造法人和期间的原始劳动评价或独立审核结果。",
           "sourceIds": [
             "supor-esg-2025"
           ]
@@ -14304,6 +14472,226 @@
         }
       ],
       "nextCheck": "有XP01或Y46具名包装、制造说明或对应企业的原始劳动结果时继续；不重复从关联企业旧工会活动或拟建园区推断本款工厂。"
+    },
+    {
+      "origin": "china",
+      "level": "disclosure",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "企业制度资料",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "midea-cooling-guangdong",
+      "name": "美的空调 · 广东美的制冷",
+      "legalName": "广东美的制冷设备有限公司",
+      "location": "广东省佛山市顺德区北滘镇林港路（官方手册地址）",
+      "originNote": "所选空调的CQC目录与官方说明书对应广东境内制造企业；不从厂址推断每位工人的国籍。",
+      "cardNote": "本款制造主体已对应 · 劳动依据待补",
+      "scope": "广东美的制冷设备有限公司与KFR-35GW/N8MXC1Ⅱ；美的集团2025年ESG及SGS报告鉴证另按集团披露范围记录。",
+      "finding": "准确空调型号、国内零售与广东制造商已经对应。集团报告有员工保护及SGS鉴证，但鉴证范围为ESG信息、现场访问集团总部，尚未形成所选制造法人的综合劳动合规依据。",
+      "caveats": [
+        "集团股份公司与广东制冷制造法人分别记录。",
+        "CQC产品认证及手册不承担劳动评价作用。",
+        "SGS类型2中度鉴证验证所述信息，不自动等于选定工厂完整劳动要求审核。"
+      ],
+      "sourceIds": [
+        "midea-n8mxc1ii-jd",
+        "midea-n8mxc1ii-official",
+        "midea-n8mxc1ii-manual",
+        "midea-n8mxc1ii-cqc2024",
+        "midea-esg2025-sgs"
+      ],
+      "supply": [
+        {
+          "stage": "空调整机制造",
+          "status": "verified",
+          "detail": "CQC原目录与官方手册对应KFR-35GW/N8MXC1Ⅱ及广东美的制冷设备有限公司。",
+          "sourceIds": [
+            "midea-n8mxc1ii-manual",
+            "midea-n8mxc1ii-cqc2024"
+          ]
+        },
+        {
+          "stage": "员工保护与报告鉴证",
+          "status": "policy",
+          "detail": "集团报告有内部人权审查、职业健康安全和工伤保险资料，SGS鉴证适用ESG披露范围。",
+          "sourceIds": [
+            "midea-esg2025-sgs"
+          ]
+        },
+        {
+          "stage": "安装、零部件和配送",
+          "status": "unknown",
+          "detail": "安装、零部件及配送的雇主关系另作补充调查，不将集团总部鉴证扩大到各承包单位。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现具名广东美的制冷设备有限公司的适用政府劳动结果或可核验独立劳动审核时继续；已有准确型号关系保留，不重复检索集团荣誉、产品质量证书。"
+    },
+    {
+      "origin": "china",
+      "level": "disclosure",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "企业制度资料",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "hisense-visual",
+      "name": "海信视像",
+      "legalName": "海信视像科技股份有限公司",
+      "location": "山东省青岛市（所选电视零售产地）",
+      "originNote": "所选65E5Q-PRO零售制造资料对应海信视像及中国青岛产地；全球公司员工统计不用于推断本机每位工人的国籍。",
+      "cardNote": "65英寸型号已对应 · 劳动披露待独立核实",
+      "scope": "海信视像科技股份有限公司2025年报告及65E5Q-PRO零售制造参数。",
+      "finding": "65E5Q-PRO的国内零售入口、制造法人及青岛产地已对应。公司报告披露集体合同涉及工资、工时休息、保险福利和劳动安全，但尚未取得适用的综合政府劳动结果或独立审核结论。",
+      "caveats": [
+        "公司制度及覆盖率指标是积极的企业披露，未冒充独立劳动结论。",
+        "参数表尺寸单位、接口数量存在矛盾，只采用明确的65英寸及型号。",
+        "品牌其他电视、海外工厂和经销安装单位不自动使用本款制造记录。"
+      ],
+      "sourceIds": [
+        "hisense-65e5q-pro-suning",
+        "hisense-visual-esg2025"
+      ],
+      "supply": [
+        {
+          "stage": "电视制造与国内零售",
+          "status": "verified",
+          "detail": "所选零售页列65E5Q-PRO、制造商海信视像科技股份有限公司及中国山东青岛产地。",
+          "sourceIds": [
+            "hisense-65e5q-pro-suning"
+          ]
+        },
+        {
+          "stage": "员工权益与集体合同",
+          "status": "policy",
+          "detail": "2025年公司报告披露集体合同及劳动合同、社保覆盖指标；保留企业自述范围。",
+          "sourceIds": [
+            "hisense-visual-esg2025"
+          ]
+        },
+        {
+          "stage": "面板部件、安装和配送",
+          "status": "unknown",
+          "detail": "部件、经销安装与配送的雇主关系未核，作为补充信息记录，不设为全部必须齐备的收录门槛。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "优先核对该制造法人的新政府综合劳动结果或独立劳动审核；不再用合同覆盖率、质量认证或其他海信法人的荣誉反复推断。"
+    },
+    {
+      "origin": "china",
+      "level": "disclosure",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "企业制度资料",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "robam-hangzhou",
+      "name": "老板电器",
+      "legalName": "杭州老板电器股份有限公司",
+      "location": "浙江省杭州市（57B2D零售制造产地）",
+      "originNote": "公司披露对应杭州企业，57B2D资料具名中国杭州制造；5925S实际制造主体仍需另核。",
+      "cardNote": "57B2D制造已对应 · ESG鉴证不扩大范围",
+      "scope": "杭州老板电器股份有限公司2025年ESG报告，以及5925S单机油烟机、57B2D天然气12T燃气灶。",
+      "finding": "57B2D零售参数对应杭州制造法人；5925S有准确单机入口，制造铭牌待补。公司披露合同、社保及加班报酬制度，独立鉴证针对ESG信息，尚未提供这些制造活动的综合劳动合规结论。",
+      "caveats": [
+        "57B2D的制造资料不能直接移用于5925S或其他烟灶套餐。",
+        "AA1000AS类型1中度报告鉴证不自动成为工厂劳动审核。",
+        "57B2D标题5.0kW与参数5.2kW不一致，保留分歧，不选择性填入热流量。"
+      ],
+      "sourceIds": [
+        "robam-5925s-jd",
+        "robam-57b2d-12t-suning",
+        "robam-esg2025-assurance"
+      ],
+      "supply": [
+        {
+          "stage": "烟机与燃气灶制造",
+          "status": "policy",
+          "detail": "57B2D列杭州老板电器制造与杭州产地；5925S只有准确零售型号，制造主体分别核对。",
+          "sourceIds": [
+            "robam-5925s-jd",
+            "robam-57b2d-12t-suning"
+          ]
+        },
+        {
+          "stage": "员工制度与ESG鉴证",
+          "status": "policy",
+          "detail": "2025年报告披露合同及社保覆盖率、加班费制度，独立声明按ESG信息与披露原则开展抽样鉴证。",
+          "sourceIds": [
+            "robam-esg2025-assurance"
+          ]
+        },
+        {
+          "stage": "部件、安装和其他雇主",
+          "status": "unknown",
+          "detail": "供应商、安装及配送不在报告鉴证的同一覆盖范围，另作补充调查。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "有5925S准确制造标签或杭州老板电器适用的原始劳动评价、独立劳动审核时继续；招聘中的未注明年份A级标签和历史工会荣誉不反复充当结论。"
+    },
+    {
+      "origin": "china",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "企业制度资料",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "flyco-shanghai",
+      "name": "飞科电器",
+      "legalName": "上海飞科电器股份有限公司",
+      "location": "上海市（品牌及上市公司主体，非两款已核工厂）",
+      "originNote": "上海飞科为中国品牌及公司主体，年报说明自制与外包并存；两款实际制造工厂和国内产地仍待对应。",
+      "cardNote": "准确型号可查 · 自制与代工分别核对",
+      "scope": "上海飞科电器股份有限公司2025年年报，FH6232白色2000W与FS891灰色零售记录。",
+      "finding": "两款均有准确国内购买入口。年报明确自制与外包结合；另一FH6232页面制造商与地址字段存在分歧，当前不能给两款直接指定上海总部、芜湖或历史代工厂。实际制造企业及适用劳动依据继续待核。",
+      "caveats": [
+        "自主与外包模式不是逐型号工厂名单。",
+        "同型号其他零售页的浙江浩博与上海地址关系未澄清，不能作为所选货号的确定制造商。",
+        "年报薪酬、社保计提及品牌代言都不等于具体工厂的综合劳动结论。"
+      ],
+      "sourceIds": [
+        "flyco-fh6232-white-jd",
+        "flyco-fh6232-maker-discrepancy",
+        "flyco-fs891-grey-jd",
+        "flyco-annual2025-production"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内零售",
+          "status": "policy",
+          "detail": "准确京东卡片分别为FH6232白色2000W和FS891灰色，保留独立货号及图片。",
+          "sourceIds": [
+            "flyco-fh6232-white-jd",
+            "flyco-fs891-grey-jd"
+          ]
+        },
+        {
+          "stage": "自制与外包生产",
+          "status": "policy",
+          "detail": "公司年报明确混合生产模式；两款未取得制造铭牌，同型号其他页面的制造主体与地址分歧仍未解释。",
+          "sourceIds": [
+            "flyco-annual2025-production",
+            "flyco-fh6232-maker-discrepancy"
+          ]
+        },
+        {
+          "stage": "生产劳动与其他雇主",
+          "status": "unknown",
+          "detail": "尚未获得适用于这两款实际制造企业的综合劳动结果；不将上海总部或其他型号的工厂材料直接移用。",
+          "sourceIds": [
+            "flyco-annual2025-production"
+          ]
+        }
+      ],
+      "nextCheck": "先核FH6232、FS891准确制造标签或逐型号生产声明，再对应实际法人的新劳动资料；没有新链接时不重复受限名单、历史代工记录或不同型号抽查。"
     }
   ],
   "products": [
@@ -19182,14 +19570,14 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "已核苏宁同型号 2L 蓝色直接商品资料，未取得当前库存与配送结果，不以隐藏页面模板判断。",
+          "detail": "已核苏宁同型号2L蓝色商品资料；原记录尚未确认该入口的可售状态，不从隐藏模板判断停售，也不要求全国各地区都有库存。",
           "sourceIds": [
             "supor-sf20fc45-suning"
           ]
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "同页能效标识已读到浙江苏泊尔家电制造有限公司；零售产地字段写绍兴，但标签未给厂址，当前设备批次和部件来源未锁定。",
+          "detail": "同页能效标识列浙江苏泊尔家电制造有限公司，零售产地字段为绍兴；这两份资料的制造地点关系尚未解释，保留境内制造线索，继续对应本款实际生产企业。",
           "sourceIds": [
             "supor-sf20fc45-energy-label",
             "supor-sf20fc45-suning"
@@ -19235,14 +19623,14 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "已核苏宁直接商品页的型号、1.7L 容量和奶杏色资料；当前大陆实际库存与地区配送未核。",
+          "detail": "已核苏宁同型号1.7L奶杏色商品资料；原记录的可售状态尚未确认，地区配送不作为全国统一门槛。",
           "sourceIds": [
             "supor-sw17s59a-suning"
           ]
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "政府第 2748 项样品标称生产者为浙江绍兴苏泊尔生活电器有限公司；现售设备批次、实际厂址及材料来源仍待核，质量抽检不替代制造追溯。",
+          "detail": "政府第2748项历史样品标称生产者为浙江绍兴苏泊尔生活电器有限公司；目前未把该历史样品与所选零售设备的制造信息交叉对应，保留制造线索。",
           "sourceIds": [
             "supor-sw17s59a-jinan-sampling",
             "supor-sw17s59a-suning"
@@ -19287,14 +19675,14 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "已核苏宁直接商品资料 SY-50FC03Q 5L，现时可售与地区配送未取得；页面店名不视为已独立核实授权。",
+          "detail": "已核苏宁SY-50FC03Q、5L具体商品资料，原记录的可售状态尚未确认；地区供货和商家授权分别核对，不要求全国库存。",
           "sourceIds": [
             "supor-sy50fc03q-suning"
           ]
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "零售产地参数写中国浙江绍兴市，尚未取得当前机身制造铭牌、具体制造法人和厂址，不套用水壶或电饭煲的生产记录。",
+          "detail": "所选零售产地参数为中国浙江绍兴市，但尚未具名本款制造法人；不直接套用同品牌水壶或电饭煲的生产记录。",
           "sourceIds": [
             "supor-sy50fc03q-suning"
           ]
@@ -24450,6 +24838,327 @@
           ]
         }
       }
+    },
+    {
+      "id": "midea-n8mxc1ii-ac15",
+      "name": "风尊二代空调1.5匹 · KFR-35GW/N8MXC1Ⅱ",
+      "brand": "美的",
+      "companyId": "midea-cooling-guangdong",
+      "needs": [
+        "空调"
+      ],
+      "description": "风尊二代1.5匹冷暖壁挂空调，完整型号KFR-35GW/N8MXC1Ⅱ。所选京东100247231703，不混用Pro及其他后缀机型。",
+      "tags": [
+        "空调",
+        "1.5匹",
+        "风尊二代",
+        "KFR-35GW/N8MXC1Ⅱ",
+        "壁挂式"
+      ],
+      "url": "https://item.jd.com/100247231703.html",
+      "market": "所选京东100247231703提供具体国内购买入口，价格、配送与安装安排以商家为准。官网本次默认地区无库存，单独保留该渠道状态。",
+      "relationship": "官方型号页、说明书和CQC目录交叉对应广东美的制冷设备有限公司；京东准确型号与之匹配。",
+      "relationshipSourceIds": [
+        "midea-n8mxc1ii-jd",
+        "midea-n8mxc1ii-official",
+        "midea-n8mxc1ii-manual",
+        "midea-n8mxc1ii-cqc2024"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "准确京东卡片提供KFR-35GW/N8MXC1Ⅱ、1.5匹及独立零售入口；不要求所有地区或每个渠道同时有货。",
+          "sourceIds": [
+            "midea-n8mxc1ii-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "CQC原目录及官方说明书均对应所选完整型号与广东美的制冷设备有限公司，手册具名佛山顺德地址。",
+          "sourceIds": [
+            "midea-n8mxc1ii-manual",
+            "midea-n8mxc1ii-cqc2024"
+          ],
+          "subject": "广东美的制冷设备有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "集团2025年ESG及SGS报告鉴证已读取，但尚未给出适用广东制冷制造法人的综合劳动评价或独立劳动审核结论。",
+          "sourceIds": [
+            "midea-esg2025-sgs"
+          ]
+        }
+      },
+      "category": "appliances",
+      "image": "images/midea-n8mxc1ii-ac15.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/526085/22/823/110474/6aa2118dF79b57762/008332032000ef21.jpg",
+      "imageRights": "美的品牌、零售图片提供方及原摄影和肖像相关权利人；确切图片著作权法人未核实"
+    },
+    {
+      "id": "hisense-65e5q-pro-tv65",
+      "name": "小墨E5Q Pro电视65英寸 · 65E5Q-PRO",
+      "brand": "海信",
+      "companyId": "hisense-visual",
+      "needs": [
+        "电视"
+      ],
+      "description": "小墨E5Q Pro系列65英寸电视，完整型号65E5Q-PRO。采用准确型号与屏幕尺寸，不采用零售表中存在矛盾的机身尺寸及接口数量。",
+      "tags": [
+        "电视",
+        "65英寸",
+        "65E5Q-PRO",
+        "小墨",
+        "E5Q Pro"
+      ],
+      "url": "https://product.suning.com/0071314081/12418639913.html",
+      "market": "苏宁商品12418639913提供65E5Q-PRO的具体国内零售入口；地区供货、结算价格及安装由商家确认。",
+      "relationship": "准确零售参数同时列65E5Q-PRO、海信视像科技股份有限公司及中国山东青岛产地；公司2025年报告作为单独的制度披露来源。",
+      "relationshipSourceIds": [
+        "hisense-65e5q-pro-suning",
+        "hisense-visual-esg2025"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前读取的苏宁准确零售页面对应65英寸65E5Q-PRO及独立商品入口，国内渠道与商品规格明确。",
+          "sourceIds": [
+            "hisense-65e5q-pro-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "该款零售参数具名制造商海信视像科技股份有限公司，产地中国山东青岛市。",
+          "sourceIds": [
+            "hisense-65e5q-pro-suning"
+          ],
+          "subject": "海信视像科技股份有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2025年报告披露集体合同、劳动合同及社保指标；尚缺适用于该制造企业的综合政府劳动结果或可核验独立审核，不因缺评级认定违法。",
+          "sourceIds": [
+            "hisense-visual-esg2025"
+          ]
+        }
+      },
+      "category": "appliances",
+      "image": "images/hisense-65e5q-pro-tv65.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/z2WdUraQuyRZAdsjaAt7Bg.jpg_800w_800h_4e",
+      "imageRights": "海信品牌、零售图片提供方及原摄影和肖像相关权利人；确切图片著作权法人未核实"
+    },
+    {
+      "id": "robam-5925s-hood",
+      "name": "CXW-260-5925S侧吸油烟机 · 单机",
+      "brand": "老板",
+      "companyId": "robam-hangzhou",
+      "needs": [
+        "油烟机"
+      ],
+      "description": "侧吸式油烟机单机，所选5925S，原图完整型号CXW-260-5925S。京东货号10148619848320，不是烟灶套餐。",
+      "tags": [
+        "油烟机",
+        "侧吸",
+        "CXW-260-5925S",
+        "5925S",
+        "单机"
+      ],
+      "url": "https://item.jd.com/10148619848320.html",
+      "market": "京东10148619848320的所选选项为5925S油烟机单机，图片型号对应；价格、安装及配送范围以商家为准。",
+      "relationship": "准确零售卡片与原图型号一致；老板品牌与公司报告明确，但未取得本款制造铭牌，不借57B2D或60D1S记录确定生产者。",
+      "relationshipSourceIds": [
+        "robam-5925s-jd",
+        "robam-esg2025-assurance"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日准确卡片提供5925S单机、独立京东货号及完整型号原图。",
+          "sourceIds": [
+            "robam-5925s-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "所选型号与零售图已经明确，但尚缺该款具名制造信息，其他老板烟灶型号的制造参数不能直接移用。",
+          "sourceIds": [
+            "robam-5925s-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2025年集团制度及ESG鉴证为补充线索，尚未对应本款实际制造企业的综合劳动依据。",
+          "sourceIds": [
+            "robam-esg2025-assurance"
+          ]
+        }
+      },
+      "category": "appliances",
+      "image": "images/robam-5925s-hood.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img14.360buyimg.com/n7/jfs/t1/271125/26/21144/194376/67fc9bf0F47ee7044/1c8094e3325e9a01.png",
+      "imageRights": "老板品牌、零售图片提供方及原摄影和肖像相关权利人；确切图片著作权法人未核实"
+    },
+    {
+      "id": "robam-57b2d-gas12t",
+      "name": "57B2D双眼燃气灶 · 天然气12T",
+      "brand": "老板",
+      "companyId": "robam-hangzhou",
+      "needs": [
+        "燃气灶"
+      ],
+      "description": "57B2D黑色玻璃面板双眼燃气灶，所选气源为天然气12T。页面标题与热流量参数不一致，因此未写入确定的千瓦数。",
+      "tags": [
+        "燃气灶",
+        "57B2D",
+        "天然气12T",
+        "双眼",
+        "玻璃面板"
+      ],
+      "url": "https://m.suning.com/product/0071538090/12403377523.html",
+      "market": "苏宁12403377523提供57B2D天然气12T的具体零售入口。购买时按现售说明核对气源、开孔与安装条件；地区配送和结算价格以商家为准。",
+      "relationship": "同一准确零售页具名杭州老板电器股份有限公司，型号57B2D、天然气12T及中国杭州产地。",
+      "relationshipSourceIds": [
+        "robam-57b2d-12t-suning"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前准确苏宁零售页列57B2D及天然气12T选项，提供具体大陆购买入口。",
+          "sourceIds": [
+            "robam-57b2d-12t-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "同款参数明确制造商杭州老板电器股份有限公司，产地中国浙江杭州市。",
+          "sourceIds": [
+            "robam-57b2d-12t-suning"
+          ],
+          "subject": "杭州老板电器股份有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "公司2025年合同、社保和加班报酬披露已保留；报告独立鉴证未形成适用该制造企业的综合劳动合规结论。",
+          "sourceIds": [
+            "robam-esg2025-assurance"
+          ]
+        }
+      },
+      "category": "appliances",
+      "image": "images/robam-57b2d-gas12t.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/UfEFLJQPcl2WOy7w2osCLQ.jpg_800w_800h_4e_80Q_is",
+      "imageRights": "老板品牌、零售图片提供方及原摄影和肖像相关权利人；确切图片著作权法人未核实"
+    },
+    {
+      "id": "flyco-fh6232-white2000",
+      "name": "FH6232电吹风2000W · 白色",
+      "brand": "飞科",
+      "companyId": "flyco-shanghai",
+      "needs": [
+        "吹风机"
+      ],
+      "description": "FH6232白色可折叠电吹风，零售规格2000W，京东货号100178188410。不是PH1626同款、FH6231或配梳套装。",
+      "tags": [
+        "吹风机",
+        "电吹风",
+        "FH6232",
+        "2000W",
+        "白色"
+      ],
+      "url": "https://item.jd.com/100178188410.html",
+      "market": "京东100178188410提供白色FH6232、2000W的具体国内入口，供货与结算价格由商家确认。",
+      "relationship": "准确零售卡片对应飞科FH6232；集团年报说明自制与外包并存，另一同型号零售页制造商与地址不一致，尚不能指定本款工厂。",
+      "relationshipSourceIds": [
+        "flyco-fh6232-white-jd",
+        "flyco-fh6232-maker-discrepancy",
+        "flyco-annual2025-production"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "准确京东卡片列FH6232、白色、2000W及独立商品号，与所看原图对应。",
+          "sourceIds": [
+            "flyco-fh6232-white-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "当前原图无可读制造铭牌；另一同型号页面列浙江浩博而地址在上海，且未证明与所选货号同厂，实际制造关系待澄清。",
+          "sourceIds": [
+            "flyco-fh6232-maker-discrepancy",
+            "flyco-fh6232-white-jd",
+            "flyco-annual2025-production"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "实际制造企业尚未对应，集团生产模式及财务社保计提没有形成所选工厂的综合劳动评价。",
+          "sourceIds": [
+            "flyco-annual2025-production"
+          ]
+        }
+      },
+      "category": "appliances",
+      "image": "images/flyco-fh6232-white2000.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/504457/29/8392/42230/6a8b99b1F7ddc6f88/008332032016762f.jpg",
+      "imageRights": "飞科品牌、零售图片提供方及原摄影和肖像相关权利人；确切图片著作权法人未核实"
+    },
+    {
+      "id": "flyco-fs891-grey",
+      "name": "小飞碟剃须刀FS891 · 灰色",
+      "brand": "飞科",
+      "companyId": "flyco-shanghai",
+      "needs": [
+        "剃须刀"
+      ],
+      "description": "FS891灰色小飞碟电动剃须刀，所选京东100029778831。保留该独立款式，不混为生日款、太空银或另带收纳包组合。",
+      "tags": [
+        "剃须刀",
+        "电动剃须刀",
+        "FS891",
+        "灰色",
+        "小飞碟"
+      ],
+      "url": "https://item.jd.com/100029778831.html",
+      "market": "京东100029778831提供FS891灰色的具体国内入口，附件以该选项现售清单为准，价格和配送由商家确认。",
+      "relationship": "准确零售卡片与原图对应FS891灰色；年报没有把该型号逐一对应自主或外包制造法人，未指定上海或芜湖工厂。",
+      "relationshipSourceIds": [
+        "flyco-fs891-grey-jd",
+        "flyco-annual2025-production"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前准确卡片提供FS891灰色、独立货号100029778831及对应原图。",
+          "sourceIds": [
+            "flyco-fs891-grey-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "品牌及零售型号明确，所看图片未显示制造铭牌；自制与外包模式未能确定这款实际国内生产企业。",
+          "sourceIds": [
+            "flyco-fs891-grey-jd",
+            "flyco-annual2025-production"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得本款实际制造企业的综合劳动依据，年报生产模式及品牌总部资料不直接成为其结论。",
+          "sourceIds": [
+            "flyco-annual2025-production"
+          ]
+        }
+      },
+      "category": "appliances",
+      "image": "images/flyco-fs891-grey.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/387442/38/18782/56377/69798225Fc66aeae6/0083320320ab7888.jpg",
+      "imageRights": "飞科品牌、零售图片提供方及原摄影和肖像相关权利人；确切图片著作权法人未核实"
     }
   ],
   "coverage": [
@@ -25344,7 +26053,7 @@
           "query": "除湿机"
         }
       ],
-      "note": "电饭煲、电水壶和电压力锅等资料保留原缺口。新增DD40P、220V／620W除湿机，境内制造商与2025年度劳动评价已对应，但两条公开供货查询没有返回可售信息，暂未收录。除湿机单列；空调、电视、油烟机、燃气灶、吹风机和剃须刀继续保留缺口。",
+      "note": "14项家电需求均已有具体资料。新增准确型号空调、65英寸电视、单机油烟机、天然气12T燃气灶、吹风机及剃须刀；6款均有国内零售入口，空调、电视和燃气灶已对应境内制造主体，劳动依据仍待补。DD40P原有制造及劳动依据保留，供货缺口未改变；研究覆盖不等于正式收录。",
       "sourceIds": [
         "bsh-code",
         "anker-2025",
@@ -25357,7 +26066,21 @@
         "widetech-dd40p-suning-profile",
         "widetech-dd40p-suning-sale-check",
         "widetech-dd40p-suning-self-sale-check",
-        "kaiping-labor-2025"
+        "kaiping-labor-2025",
+        "midea-n8mxc1ii-jd",
+        "midea-n8mxc1ii-official",
+        "midea-n8mxc1ii-manual",
+        "midea-n8mxc1ii-cqc2024",
+        "midea-esg2025-sgs",
+        "hisense-65e5q-pro-suning",
+        "hisense-visual-esg2025",
+        "robam-5925s-jd",
+        "robam-57b2d-12t-suning",
+        "robam-esg2025-assurance",
+        "flyco-fh6232-white-jd",
+        "flyco-fh6232-maker-discrepancy",
+        "flyco-fs891-grey-jd",
+        "flyco-annual2025-production"
       ]
     },
     {
