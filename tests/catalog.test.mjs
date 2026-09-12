@@ -9,6 +9,7 @@ import {
   writeFilters,
   isAdmitted,
   selectAdmittedProducts,
+  getCatalogAvailability,
 } from "../src/catalog.mjs";
 const data = JSON.parse(
   await readFile(new URL("../public/data/catalog.json", import.meta.url)),
@@ -113,6 +114,56 @@ test("the catalog separates admitted and unverified products without fixing a to
   const catalog = { ...data, products: [product, pending], companies: [company] };
   assert.deepEqual(selectAdmittedProducts(catalog, REVIEW_DATE).map((p) => p.id), [product.id]);
   assert.equal(selectProducts(catalog, { ...defaults, saved: true }, [product.id, pending.id]).length, 2);
+});
+test("empty-result explanations retain the requested product scope while counting overlapping evidence gaps", () => {
+  const { product, company } = assessedProduct();
+  company.origin = "china";
+  product.name = "示例笔记本电脑";
+  product.category = "electronics";
+  product.needs = ["笔记本电脑"];
+  product.admission.chinaProduction.status = "pending";
+  product.admission.productionLabor.status = "pending";
+  const unrelated = { ...product, id: "unrelated", category: "food" };
+  const otherNeed = { ...product, id: "other-need", needs: ["显示器"] };
+  const noKeyword = { ...product, id: "no-keyword", name: "显示器" };
+  const internationalCompany = { ...company, id: "international-company", origin: "international" };
+  const otherOrigin = { ...product, id: "other-origin", companyId: internationalCompany.id };
+  const catalog = { ...data, products: [product, unrelated, otherNeed, noKeyword, otherOrigin], companies: [company, internationalCompany] };
+  const filters = { ...defaults, category: "electronics", need: "笔记本电脑", query: "示例笔记本", origin: "china", evidence: "hiring", supply: true, saved: true, sort: "name" };
+  const before = structuredClone(filters);
+  const result = getCatalogAvailability(catalog, filters, REVIEW_DATE);
+  assert.equal(result.admittedCount, 0);
+  assert.equal(result.pendingCount, 1);
+  assert.deepEqual(result.gaps, { chinaSale: 0, chinaProduction: 1, productionLabor: 1 });
+  assert.equal(selectProducts(catalog, result.filters).length, 1);
+  assert.equal(result.filters.query, filters.query);
+  assert.equal(result.filters.need, filters.need);
+  assert.equal(result.filters.origin, filters.origin);
+  assert.equal(result.filters.sort, filters.sort);
+  assert.deepEqual(filters, before);
+});
+test("an optional full-chain filter can hide an admitted product without creating an admission gap", () => {
+  const { product, company } = assessedProduct();
+  const catalog = { ...data, companies: [company], products: [product] };
+  const filters = { ...defaults, category: product.category, supply: true, evidence: "hiring" };
+  assert.equal(selectProducts(catalog, filters).length, 0);
+  const result = getCatalogAvailability(catalog, filters, REVIEW_DATE);
+  assert.equal(result.admittedCount, 1);
+  assert.equal(result.pendingCount, 0);
+  assert.deepEqual(result.gaps, { chinaSale: 0, chinaProduction: 0, productionLabor: 0 });
+  assert.equal(selectProducts(catalog, result.filters).length, 1);
+});
+test("empty-result explanations count an overdue rating as a labor gap and distinguish absent research", () => {
+  const { product, company } = assessedProduct();
+  const catalog = { ...data, companies: [company], products: [product] };
+  const result = getCatalogAvailability(catalog, defaults, "2027-06-03");
+  assert.equal(result.admittedCount, 0);
+  assert.equal(result.pendingCount, 1);
+  assert.deepEqual(result.gaps, { chinaSale: 0, chinaProduction: 0, productionLabor: 1 });
+  const absent = getCatalogAvailability(catalog, { ...defaults, query: "no-such-product-948" }, REVIEW_DATE);
+  assert.equal(absent.admittedCount, 0);
+  assert.equal(absent.pendingCount, 0);
+  assert.deepEqual(absent.gaps, { chinaSale: 0, chinaProduction: 0, productionLabor: 0 });
 });
 test("government assessment filters survive shared URLs", () => {
   const filters = { ...defaults, evidence: "assessment" };

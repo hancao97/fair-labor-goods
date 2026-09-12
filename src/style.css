@@ -963,11 +963,53 @@ footer p {
 }
 .empty-state p {
   font-size: 13px;
+  color: #53675a;
   max-width: 500px;
   margin-bottom: 24px;
 }
 .empty-state .text-button {
   margin-top: 18px;
+}
+.admission-gaps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+  width: min(100%, 580px);
+  margin: 0 0 12px;
+}
+.admission-gaps > div {
+  padding: 14px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: white;
+}
+.admission-gaps dt {
+  color: var(--green);
+  font-size: 12px;
+}
+.admission-gaps dd {
+  margin: 8px 0 0;
+  font-size: 12px;
+  color: #53675a;
+}
+.admission-gaps b {
+  color: var(--green);
+  font-size: 21px;
+  font-weight: 500;
+}
+.empty-state .gap-count-note {
+  font-size: 11px;
+  margin-top: 0;
+}
+.empty-actions {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px 20px;
+}
+.empty-actions .text-button {
+  margin-top: 0;
 }
 .storage-notice {
   font-size: 12px;

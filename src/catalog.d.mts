@@ -3,6 +3,12 @@ export const defaults: Filters;
 export function getLaborAssessment(product: Product, company: Company, onDate?: string): LaborAssessment | undefined;
 export function isAdmitted(product: Product, company: Company, onDate?: string): boolean;
 export function selectAdmittedProducts(data: Catalog, onDate?: string): Product[];
+export function getCatalogAvailability(data: Catalog, filters: Filters, onDate?: string): {
+  filters: Filters;
+  admittedCount: number;
+  pendingCount: number;
+  gaps: Record<"chinaSale" | "chinaProduction" | "productionLabor", number>;
+};
 export function hasVerifiedChain(company: Company): boolean;
 export function selectProducts(
   data: Catalog,

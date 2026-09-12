@@ -33,6 +33,7 @@ import {
   isAdmitted,
   selectAdmittedProducts,
   getLaborAssessment,
+  getCatalogAvailability,
 } from "./catalog.mjs";
 import type { Catalog, Product, Source, Filters, EvidenceLevel } from "./types";
 
@@ -678,6 +679,7 @@ export default function App() {
     () => selectProducts({ ...data, products: routeProducts }, filters, saved),
     [filters, saved, routeProducts],
   );
+  const availability = useMemo(() => getCatalogAvailability(data, filters), [filters]);
   const update = (part: Partial<Filters>) =>
     setFilters((f) => ({ ...f, ...((part.category !== undefined || part.query !== undefined) && part.need === undefined ? {need: ""} : {}), ...part }));
   const navigateWithFilters = (nextRoute: string, nextFilters: Filters) => {
@@ -1095,29 +1097,58 @@ export default function App() {
               ) : (
                 <div className="empty-state">
                   <Search size={30} />
-                  <h3>
-                    {!researching && admittedProducts.length === 0
-                      ? "目前还没有通过三项检查的商品"
-                      : filters.supply
-                      ? "暂时还没有全供应链已核实的商品"
-                      : "没有找到符合当前筛选的商品"}
-                  </h3>
-                  <p>
-                    {!researching && admittedProducts.length === 0
-                      ? `已整理 ${researchProducts.length} 件候选资料。产地或生产岗位证据未齐全，暂不作合规推荐；这不等于认定相关企业违法。`
-                      : filters.supply
-                      ? "这意味着证据还不够。你仍可查看已公开的制度与岗位资料。"
-                      : filters.saved
-                        ? "收藏感兴趣的商品，稍后再回来逐项查阅。"
-                        : "试试品牌、商品名称，或减少筛选条件。"}
-                  </p>
-                  {!researching && admittedProducts.length === 0 ? <a className="button primary" href="#/research">查看待核查资料<ArrowRight size={15} /></a> : <button
-                    className="button primary"
-                    onClick={() => setFilters({ ...defaults })}
-                  >
-                    <RotateCcw size={15} />
-                    重置筛选，查看全部
-                  </button>}
+                  {!researching && !filters.saved ? (
+                    availability.admittedCount > 0 ? (
+                      <>
+                        <h3>附加筛选隐藏了已收录的商品</h3>
+                        <p>
+                          按当前分类、细分需求、品牌与关键词，已有 {availability.admittedCount} 件正式收录商品。
+                          {filters.supply ? "全供应链核实是额外筛选，不是商品收录条件。" : "当前资料类型筛选与这些商品不匹配。"}
+                        </p>
+                        <button className="button primary" onClick={() => setFilters(availability.filters)}>
+                          <RotateCcw size={15} />清除附加筛选，查看 {availability.admittedCount} 件
+                        </button>
+                      </>
+                    ) : availability.pendingCount > 0 ? (
+                      <>
+                        <h3>这一范围尚无正式收录商品</h3>
+                        <p>已整理 {availability.pendingCount} 件同类待核查资料，下面列出仍缺的依据。资料不足不代表企业违法。</p>
+                        <dl className="admission-gaps">
+                          {(Object.keys(availability.gaps) as (keyof typeof availability.gaps)[])
+                            .filter((key) => availability.gaps[key] > 0)
+                            .map((key) => (
+                              <div key={key}>
+                                <dt>{admissionLabels[key]}</dt>
+                                <dd><b>{availability.gaps[key]}</b> 件待补或复核</dd>
+                              </div>
+                            ))}
+                        </dl>
+                        <p className="gap-count-note">同一件商品可能缺少多项依据；不会因单休或存在加班就自动排除。</p>
+                        <button className="button primary" onClick={() => navigateWithFilters("research", availability.filters)}>
+                          查看这 {availability.pendingCount} 件待核查资料<ArrowRight size={15} />
+                        </button>
+                      </>
+                    ) : (
+                      <>
+                        <h3>这一范围还没有商品资料</h3>
+                        <p>当前分类与关键词下尚未找到具体商品。可以调整筛选，或到消费清单查看已调查的品类和缺口。</p>
+                        <div className="empty-actions">
+                          <button className="button primary" onClick={() => setFilters({ ...defaults })}>
+                            <RotateCcw size={15} />重置筛选，查看全部
+                          </button>
+                          <a className="text-button" href="#/coverage">查看消费清单<ArrowRight size={15} /></a>
+                        </div>
+                      </>
+                    )
+                  ) : (
+                    <>
+                      <h3>{filters.saved ? "没有符合当前筛选的收藏" : "没有找到符合当前筛选的资料"}</h3>
+                      <p>{filters.saved ? "收藏感兴趣的商品，稍后再回来逐项查阅。" : "试试品牌、商品名称，或减少筛选条件。"}</p>
+                      <button className="button primary" onClick={() => setFilters({ ...defaults })}>
+                        <RotateCcw size={15} />重置筛选，查看全部
+                      </button>
+                    </>
+                  )}
                 </div>
               )}
               <div className="catalog-end">

@@ -45,6 +45,24 @@ export function selectAdmittedProducts(data, onDate = today()) {
   const companies = new Map(data.companies.map((c) => [c.id, c]));
   return data.products.filter((p) => isAdmitted(p, companies.get(p.companyId), onDate));
 }
+export function getCatalogAvailability(data, filters, onDate = today()) {
+  // Keep the consumer's category, need, brand origin and search when explaining an empty result.
+  const scopeFilters = { ...filters, evidence: "all", supply: false, saved: false };
+  const companies = new Map(data.companies.map((c) => [c.id, c]));
+  const matching = selectProducts(data, scopeFilters);
+  const pending = matching.filter((p) => !isAdmitted(p, companies.get(p.companyId), onDate));
+  const gaps = { chinaSale: 0, chinaProduction: 0, productionLabor: 0 };
+  for (const product of pending) {
+    for (const key of Object.keys(gaps)) {
+      const check = product.admission?.[key];
+      if (check?.status !== "supported" || !check.sourceIds?.length ||
+          (key === "productionLabor" && !getLaborAssessment(product, companies.get(product.companyId), onDate))) {
+        gaps[key]++;
+      }
+    }
+  }
+  return { filters: scopeFilters, admittedCount: matching.length - pending.length, pendingCount: pending.length, gaps };
+}
 export function hasVerifiedChain(company) {
   return (
     Array.isArray(company.supply) && company.supply.length >= 3 &&
