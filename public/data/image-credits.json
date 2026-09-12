@@ -7028,6 +7028,31 @@
       },
       "filename": "images/mingwei-vegetable-roll-400gx18.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "gary-pure-milk-200gx20",
+      "image_url": "https://img14.360buyimg.com/imgzone/jfs/t1/437436/32/5247/234915/6a0c39d8Fbd3173a5/00835a05a0ceb588.jpg",
+      "source_page": "https://www.jd.com/chanpin/465773.html",
+      "product_url": "https://item.jd.com/10130872714462.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 71518,
+      "sha256": "2a5c47beaa7a3ac027279b390da1d85f215bae50ca2bb396363428095b235afa",
+      "visually_verified": true,
+      "visual_notes": "原图为盖瑞纯牛奶200克小盒及200克×20外箱。厂家及生产许可細字未读清，不作制造或劳动证明。保留原图文字。",
+      "reuse_info": {
+        "rights_holder": "盖瑞、天润及京东相关图片权利人",
+        "license": "版权归原权利人所有，未取得开放再授权；不适用本站代码MIT许可。",
+        "attribution": "来源：京东商品10130872714462，仅作可追溯的商品资料插图。"
+      },
+      "source_image_metadata": {
+        "width": 1440,
+        "height": 1440,
+        "bytes": 323417,
+        "sha256": "816537761c148af258a3b36c3d20d0b1cdd602ea779e3fe98f5cec31eada9e54"
+      },
+      "filename": "images/gary-pure-milk-200gx20.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

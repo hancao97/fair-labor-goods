@@ -5411,6 +5411,162 @@
       "locator": "当前商品卡10232106600649；题名“虾肉春卷400g”，图片标签却为“鸡肉春卷”",
       "summary": "已找到具体虾肉春卷400g商品号，但当前图片印有鸡肉春卷，所选口味与图片未对应，购买依据继续待核。",
       "limitation": "口味图片存在直接冲突，未用共享标题或相邻规格代替核验。此条不构成可购买的同款已确认依据。"
+    },
+    {
+      "id": "shawan-labor-2024",
+      "title": "沙湾市2024年度企业劳动保障守法诚信等级认定结果公示",
+      "publisher": "沙湾市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.xjsw.gov.cn/xxgk/fdzdgknr/jgzn/zfjg/szfbm/rlzyhshbzj/rlgksx/content_39724",
+      "publishedAt": "2025-09-16",
+      "checkedAt": "2026-09-12",
+      "locator": "正文A级名单第7、8、21项；首段说明认定并公布2024年度评价结果",
+      "summary": "公开索引全文列沙湾市天宝绿色食品有限公司、沙湾盖瑞乳业有限责任公司及新疆瑞隆农业发展有限公司油脂分公司为2024年度A级单位。三家主体分别对应面粉、乳制品及食用油，不能互相代替。",
+      "limitation": "直接请求返回403，本次依据政府原页公开索引全文核对。评价年度为2024年，不是2025或2026年再次评价；本站计划2026-10-12前复核，该日期不是政府评级有效期。"
+    },
+    {
+      "id": "tianbao-special-flour5-hubei2025",
+      "title": "食品监督抽检合格产品信息：新疆特精面粉5千克/袋",
+      "publisher": "湖北省市场监督管理局",
+      "type": "监管抽检",
+      "url": "https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/zdly/spjg/cjgg/202509/P020250916527207587095.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "附件2，PDF第92页、序号1272；2025年9月目录下发布的原始文件",
+      "summary": "原表列新疆特精面粉5千克/袋，标称生产企业沙湾市天宝绿色食品有限公司，生产地址新疆塔城地区沙湾市三道河子镇天山西路60号，批次2024-11-10，被抽样单位竹溪县东昇康联购物广场大裕沟店。已核对原始PDF表格。",
+      "limitation": "抽检表没有商标列，不能据此把本袋冠名沁康或好年景；抽检只支持所列批次的标称制造关系，不证明当前库存、现售包装或劳动合规。文件内未确认独立发布日期。"
+    },
+    {
+      "id": "tianbao-brands-xinjiang2019",
+      "title": "粮食安全教育基地—沙湾县天宝绿色食品有限公司",
+      "publisher": "新疆维吾尔自治区粮食和物资储备局",
+      "type": "政府企业介绍",
+      "url": "https://lswz.xinjiang.gov.cn/xjgrain/lajyjd/201910/f43c31c9dcaa4b18a31d4acbc29e3599.shtml",
+      "publishedAt": "2019-10-14",
+      "checkedAt": "2026-09-12",
+      "locator": "企业介绍开头与产品段；页面保留当时的沙湾县名称",
+      "summary": "介绍该企业2001年成立，主营面粉加工销售，自主品牌包括沁康和好年景，产品有5kg及其他包装规格。用作企业及品牌线索。",
+      "limitation": "历史介绍不是当前商店目录；没有将湖北抽检中的新疆特精面粉5kg明确对应到某个商标，品牌系列、荣誉和食品认证也不替代劳动评价。"
+    },
+    {
+      "id": "jidong-labor-2024-publicity",
+      "title": "2024年度企业劳动保障诚信等级评价结果公示",
+      "publisher": "鸡东县人力资源和社会保障局",
+      "type": "政府评价公示",
+      "url": "https://www.jidong.gov.cn/jdx/111a6c547ed74c9abfefe5189c3588bf/202511/c06_346529.shtml",
+      "publishedAt": "2025-11-18",
+      "checkedAt": "2026-09-12",
+      "locator": "A级名单第40项及正文末尾的公示生效条款",
+      "summary": "公开索引全文在A级名单第40项列鸡东县华冠米业有限公司。公告规定公示期为2025-11-18至2025-11-27，期满后用人单位未提出异议的评价结果生效，可在公示期内申请复审。",
+      "limitation": "直接请求返回403，依据政府原页公开索引全文。公示期已经结束，但未核实该企业的异议或复审处理情况；暂记录A级公示线索，不写成已核实生效的最终评价，也不据此判定企业违法。"
+    },
+    {
+      "id": "hedaofu-longgrain5-sjz2023",
+      "title": "2023年石家庄市本级食品安全监督抽检样品信息（第4号）",
+      "publisher": "石家庄市市场监督管理局",
+      "type": "监管抽检",
+      "url": "https://scjg.sjz.gov.cn/attachments/1/202404/23/2023%E5%B9%B4%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B8%82%E6%9C%AC%E7%BA%A7%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E6%8A%BD%E6%A3%80%E6%A0%B7%E5%93%81%E4%BF%A1%E6%81%AF%EF%BC%88%E7%AC%AC4%E5%8F%B7%EF%BC%8920240423092026942.pdf?sid=2628864a-15aa-426e-a7bb-62a1ecf0eca4",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始PDF第155页、序号1239；文件存放于2024年4月目录",
+      "summary": "原表列禾稻夫长粒香米5kg/袋，生产企业鸡东县华冠米业有限公司，地址黑龙江省鸡东县鸡林朝鲜族乡，生产日期2022-12-19，被抽样单位元氏县悠然鲜生活超市。已逐格核对原始PDF。",
+      "limitation": "这是历史批次的制造关系，不能证明该超市今天仍售此款；不能替代同品牌稻花香米、寿司米或25kg包装，也不是劳动证据。文件内未核实独立发布日期。"
+    },
+    {
+      "id": "huaguan-longgrain25-jinan2025",
+      "title": "食品安全抽检产品信息表：华冠米业大米（长粒香）25kg",
+      "publisher": "济南市市场监督管理局",
+      "type": "监管抽检",
+      "url": "https://amr.jinan.gov.cn/cms_files/complat3/48725/attach/202510/30491ac5f94e493ea46e079172f51727.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始PDF第153页、序号2219；文件存放于2025年10月目录",
+      "summary": "表内生产企业为鸡东县华冠米业有限公司，产品为大米（长粒香）25kg/袋，生产日期2025-09-01，被抽样单位为济南市天桥区京师实验幼儿园食堂。已核对原始PDF，仅补充该制造企业近期生产记录。",
+      "limitation": "该行不是禾稻夫5kg家庭装，不能把25kg规格、生产批次或学校食堂采购移用于5kg商品；抽检不证明劳动合规或个人零售。文件内未核实独立发布日期。"
+    },
+    {
+      "id": "gary-pure200-yizhou2026",
+      "title": "伊州区食品安全监督抽检合格及不合格产品信息（2026年第1期）",
+      "publisher": "伊州区市场监督管理局",
+      "type": "监管抽检",
+      "url": "https://www.yizhou.gov.cn/xjhm/qzjdj/202602/cd8a0132f112431f85cfe687c7c81a55.shtml",
+      "publishedAt": "2026-02-04",
+      "checkedAt": "2026-09-12",
+      "locator": "正文表格第44行；第42、43行为另一制造企业的袋装产品",
+      "summary": "第44行列沙湾盖瑞乳业有限责任公司生产的纯牛奶200克/盒，厂址新疆塔城地区沙湾市乌鲁木齐东路工业园区，被抽样单位伊州区友谊路鸿升商行。",
+      "limitation": "表中没有品牌、生产批次或20盒外箱信息；能够支持该厂生产200克盒装纯牛奶，不能单独确认所选京东20盒装出自该厂。食品抽检合格不代表劳动合规。"
+    },
+    {
+      "id": "gary-box200-xinjiang2022-media",
+      "title": "新疆市场监管局抽检乳制品103批次：盖瑞纯牛奶制造记录",
+      "publisher": "中国质量新闻网（转述新疆市场监管抽检）",
+      "type": "监管信息转载",
+      "url": "https://m.cqn.com.cn/ms/content/2022-06/15/content_8832330.htm",
+      "publishedAt": "2022-06-15",
+      "checkedAt": "2026-09-12",
+      "locator": "乳制品合格表第9行",
+      "summary": "公开索引全文第9行将盖瑞纯牛奶200克/盒、生产日期2022-01-17与沙湾盖瑞乳业有限责任公司对应，厂址为沙湾市乌鲁木齐东路工业园区。",
+      "limitation": "这是媒体转载的历史抽检记录，不能证明全部盖瑞牛奶或当前京东20盒装都由沙湾盖瑞制造；劳动依据须另查。"
+    },
+    {
+      "id": "gary-box200-tianhe2023-media",
+      "title": "天河区2023年第7期食品抽检：盖瑞纯牛奶另一生产企业记录",
+      "publisher": "中国质量新闻网（转述天河区市场监管抽检）",
+      "type": "监管信息转载",
+      "url": "https://m.cqn.com.cn/ms/content/2023-07/21/content_8962207.htm",
+      "publishedAt": "2023-07-21",
+      "checkedAt": "2026-09-12",
+      "locator": "公开索引表格第204行，生产日期2023-04-04",
+      "summary": "该行盖瑞纯牛奶200克/盒、盖瑞加图形商标对应新疆天润生物科技股份有限公司，地址为乌鲁木齐市头屯河区五一农场乌昌公路2702号。同品牌、同盒装容量也出现过另一生产主体。",
+      "limitation": "转载记录用于提示具体生产厂差异，不说明所选京东商品当前一定来自该厂，更不说明该厂违法；不得把沙湾盖瑞的劳动A级移用给这一主体。"
+    },
+    {
+      "id": "gary-pure200x20-jd",
+      "title": "京东盖瑞纯牛奶200g×20盒商品入口",
+      "publisher": "京东商城",
+      "type": "零售商品",
+      "url": "https://www.jd.com/chanpin/465773.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "当前公开HTML商品卡；商品号10130872714462，标题选项200G×20盒",
+      "summary": "公开商品卡指向商品10130872714462，标题和同卡图片均为盖瑞纯牛奶200g×20盒。已核实当前卡片与公开原始图片的规格一致，用作大陆零售入口。",
+      "limitation": "商品卡没有清晰制造法人；同页另有18盒、20袋、200mL等选项，不混用。入口不等于所有地区都有库存，本文不沿用促销价格或承诺配送。"
+    },
+    {
+      "id": "gary-pure200x20-packaging",
+      "title": "盖瑞纯牛奶200克×20盒零售资料图",
+      "publisher": "京东商品图片提供方",
+      "type": "商品包装资料",
+      "url": "https://img14.360buyimg.com/imgzone/jfs/t1/437436/32/5247/234915/6a0c39d8Fbd3173a5/00835a05a0ceb588.jpg",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品10130872714462关联的1440×1440原始图片，外箱正面及前方小盒",
+      "summary": "原图可读盖瑞、纯牛奶、小盒净含量200克和外箱200克×20，画面为盒装。作为规格核对与可追溯资料插图。",
+      "limitation": "厂家及生产许可细字未读清，图片不作为生产主体或劳动合规证明；保留原图文字，版权归品牌及相关图片权利人，不适用本站代码MIT许可。"
+    },
+    {
+      "id": "tianbao-sunflower5-xinjiang2021",
+      "title": "2021年第一期食品专项监督抽检信息通告：天宝一级葵花籽油",
+      "publisher": "新疆维吾尔自治区市场监督管理局",
+      "type": "监管抽检",
+      "url": "https://scjgj.xinjiang.gov.cn/xjaic/tzgg/202103/ca3b46ec1ec34ff38a596c07db293869.shtml",
+      "publishedAt": "2021-03-17",
+      "checkedAt": "2026-09-12",
+      "locator": "2021年第12号通告，专项表第13行；附列国抽合格表第18行重复同一批次",
+      "summary": "原始网页表格将天宝一级葵花籽油5L/瓶、生产批次2020-11-02与新疆瑞隆农业发展有限公司油脂分公司对应，厂址为沙湾县金沟河北路133号。两个表格列的是同一批次，不计为两次独立抽检。",
+      "limitation": "历史生产记录，不是当前销售和劳动证明；与沙湾天宝面粉公司、沙湾泰昆油脂及其他带天宝字样的企业分别核对。"
+    },
+    {
+      "id": "tianbao-sunflower5-guangzhou2025-index",
+      "title": "抽检结果明细表：天宝一级葵花籽油5L",
+      "publisher": "广州市人民政府网站（市场监管抽检附件）",
+      "type": "监管抽检",
+      "url": "https://www.gz.gov.cn/attachment/7/7954/7954935/10619787.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "政府原始PDF的公开索引，第776行；本次未取得可读取的PDF文件",
+      "summary": "索引第776行列天宝一级葵花籽油5L/瓶，生产日期2025-01-06，制造企业新疆瑞隆农业发展有限公司油脂分公司，沙湾市金沟河北路133号；被抽样单位为广州市天河区安宜粮油店。与新疆原始网页的商品及制造主体对应。",
+      "limitation": "原文件直接请求返回403，本次仅取得公开索引，未作PDF视觉核对。相邻第775行是食品香精，不能混入本行；抽样门店不是当前现货确认，文件独立发布日期未核实。"
     }
   ],
   "companies": [
@@ -11682,6 +11838,295 @@
           "period": "2024 年度",
           "sourceId": "fuzhou-labor-2024",
           "limitation": "仅覆盖具名法人及2024年度；福清市人社局2025-06-03作出评价，福州市2025-07-01最终公告公布。本站复核日期不是政府评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "tianbao-shawan-flour",
+      "name": "天宝绿色食品",
+      "legalName": "沙湾市天宝绿色食品有限公司",
+      "location": "新疆塔城沙湾",
+      "origin": "unconfirmed",
+      "originNote": "已确认新疆制造企业；本款抽检未列商标，不从企业其他自主品牌推断这袋面粉的品牌。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2024年度劳动守法A级",
+      "scope": "境内面粉制造企业；本轮只核对新疆特精面粉5千克/袋的具名抽检记录。",
+      "finding": "该企业列沙湾2024年度劳动A级。新疆特精面粉5kg制造记录已对应，当前同规格个人零售入口仍待补，保留待核查。",
+      "caveats": [
+        "评价覆盖2024年度，不能表示未来持续合规。",
+        "抽检表未列本款商标，不能直接标为沁康、好年景或其他品牌。",
+        "食品抽检不证明劳动合规，原料产地和工人国籍也不能由厂址推断。"
+      ],
+      "sourceIds": [
+        "shawan-labor-2024",
+        "tianbao-special-flour5-hubei2025",
+        "tianbao-brands-xinjiang2019",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "境内面粉制造企业；本轮只核对新疆特精面粉5千克/袋的具名抽检记录。",
+          "sourceIds": [
+            "tianbao-special-flour5-hubei2025",
+            "tianbao-brands-xinjiang2019"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "policy",
+          "detail": "5kg特精面粉的标称生产企业与受评名称一致；当前销售仍未核实。",
+          "sourceIds": [
+            "tianbao-special-flour5-hubei2025",
+            "tianbao-brands-xinjiang2019",
+            "shawan-labor-2024"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游原料、包装和物流的劳动资料尚未逐一核对，作为补充信息继续调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充同规格个人购买入口、当前包装制造主体和更新劳动评价；保留受评主体及年度，关注相反证据。",
+      "assessments": [
+        {
+          "subject": "沙湾市天宝绿色食品有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2024年度",
+          "sourceId": "shawan-labor-2024",
+          "limitation": "仅覆盖该受评主体及2024年度；不能扩展到关联公司或未来全部用工。2026-10-12是本站复核安排，不是政府评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "huaguan-rice-jidong",
+      "name": "华冠米业",
+      "legalName": "鸡东县华冠米业有限公司",
+      "location": "黑龙江鸡西鸡东",
+      "origin": "unconfirmed",
+      "originNote": "原始抽检已确认黑龙江制造主体，禾稻夫品牌创立背景尚未单独核实。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "已取得评价公示线索",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "A级公示生效情况待核",
+      "scope": "鸡东县华冠米业有限公司及原始抽检中的禾稻夫长粒香米5kg；另有25kg大米生产记录。",
+      "finding": "已找到具名制造记录及2024年度A级公示，但公告附无异议后生效条件，生效情况和现售渠道仍待核查。",
+      "caveats": [
+        "2025-11-18公告的公示期已满，未核实异议或复审处理情况。",
+        "5kg记录为2022年生产批次；2025年25kg记录不替代5kg现售证据。",
+        "稻花香、长粒香、寿司米及不同包装规格不混用。"
+      ],
+      "sourceIds": [
+        "jidong-labor-2024-publicity",
+        "hedaofu-longgrain5-sjz2023",
+        "huaguan-longgrain25-jinan2025"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "鸡东县华冠米业有限公司及原始抽检中的禾稻夫长粒香米5kg；另有25kg大米生产记录。",
+          "sourceIds": [
+            "hedaofu-longgrain5-sjz2023",
+            "huaguan-longgrain25-jinan2025"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "policy",
+          "detail": "原始监管表将禾稻夫长粒香米5kg与该厂对应；劳动评价仅记录公示线索。",
+          "sourceIds": [
+            "hedaofu-longgrain5-sjz2023",
+            "huaguan-longgrain25-jinan2025",
+            "jidong-labor-2024-publicity"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游原料、包装和物流的劳动资料尚未逐一核对，作为补充信息继续调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "核实公示后的异议或复审结果，并寻找禾稻夫长粒香米5kg现售渠道和当前制造标签。",
+      "assessments": [
+        {
+          "subject": "鸡东县华冠米业有限公司",
+          "result": "2024年度A级公示，生效情况待核",
+          "period": "2024年度",
+          "sourceId": "jidong-labor-2024-publicity",
+          "limitation": "公告规定公示期满且无异议后生效，本次未核实异议或复审处理，不作为已核实生效的收录依据。"
+        }
+      ]
+    },
+    {
+      "id": "gary-shawan",
+      "name": "沙湾盖瑞乳业",
+      "legalName": "沙湾盖瑞乳业有限责任公司",
+      "location": "新疆塔城沙湾",
+      "origin": "china",
+      "originNote": "盖瑞为中国乳品品牌；同品牌产品存在不同境内制造厂，本档案的劳动评价只对应沙湾盖瑞。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2024年度劳动守法A级",
+      "scope": "沙湾盖瑞乳业有限责任公司在沙湾市乌鲁木齐东路工业园区的具名乳制品生产记录；不扩展到整个天润集团。",
+      "finding": "沙湾盖瑞列2024年度劳动A级。盖瑞200g×20盒已有京东入口，但同品牌200g盒装曾由另一新疆企业制造，所选零售商品的厂家仍待确认。",
+      "caveats": [
+        "评级仅属于沙湾盖瑞，不能转给新疆天润生物科技股份有限公司或其他关联工厂。",
+        "当前商品资料图只核实品牌、200g容量及20盒数量，厂家细字未读清。",
+        "2026年伊州区表列200克/盒，但没有商标、批次及20盒外箱信息。"
+      ],
+      "sourceIds": [
+        "shawan-labor-2024",
+        "gary-pure200-yizhou2026",
+        "gary-box200-xinjiang2022-media",
+        "gary-box200-tianhe2023-media",
+        "gary-pure200x20-jd",
+        "gary-pure200x20-packaging",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "沙湾盖瑞乳业有限责任公司在沙湾市乌鲁木齐东路工业园区的具名乳制品生产记录；不扩展到整个天润集团。",
+          "sourceIds": [
+            "gary-pure200-yizhou2026",
+            "gary-box200-xinjiang2022-media",
+            "gary-box200-tianhe2023-media"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "policy",
+          "detail": "已有沙湾厂200克盒装奶制造记录；本次20盒零售选项仍须确认制造厂。",
+          "sourceIds": [
+            "gary-pure200-yizhou2026",
+            "gary-box200-xinjiang2022-media",
+            "gary-box200-tianhe2023-media",
+            "shawan-labor-2024"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游原料、包装和物流的劳动资料尚未逐一核对，作为补充信息继续调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充同规格个人购买入口、当前包装制造主体和更新劳动评价；保留受评主体及年度，关注相反证据。",
+      "assessments": [
+        {
+          "subject": "沙湾盖瑞乳业有限责任公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2024年度",
+          "sourceId": "shawan-labor-2024",
+          "limitation": "仅覆盖该受评主体及2024年度；不能扩展到关联公司或未来全部用工。2026-10-12是本站复核安排，不是政府评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "ruilong-shawan-oil",
+      "name": "瑞隆油脂分公司",
+      "legalName": "新疆瑞隆农业发展有限公司油脂分公司",
+      "location": "新疆塔城沙湾",
+      "origin": "unconfirmed",
+      "originNote": "已确认天宝一级葵花籽油的新疆制造企业；不把名称中含天宝的其他品牌或企业合并，品牌创立背景待独立核实。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2024年度劳动守法A级",
+      "scope": "新疆瑞隆农业发展有限公司油脂分公司及天宝一级葵花籽油5L/瓶。",
+      "finding": "该油脂分公司自己列沙湾2024年度劳动A级。2021年原始网页与2025年生产批次索引对应同规格制造关系，当前个人购买渠道仍待补。",
+      "caveats": [
+        "劳动依据取自A级名单第21项，不借用面粉公司或泰昆油脂的评价。",
+        "2025年广州原文件访问受限，明确保留索引证据范围。",
+        "历史抽样粮油店和机构采购记录不保证当前同规格现货。"
+      ],
+      "sourceIds": [
+        "shawan-labor-2024",
+        "tianbao-sunflower5-xinjiang2021",
+        "tianbao-sunflower5-guangzhou2025-index",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "新疆瑞隆农业发展有限公司油脂分公司及天宝一级葵花籽油5L/瓶。",
+          "sourceIds": [
+            "tianbao-sunflower5-xinjiang2021",
+            "tianbao-sunflower5-guangzhou2025-index"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "policy",
+          "detail": "天宝一级葵花籽油5L标称生产主体与第21项受评主体一致。",
+          "sourceIds": [
+            "tianbao-sunflower5-xinjiang2021",
+            "tianbao-sunflower5-guangzhou2025-index",
+            "shawan-labor-2024"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游原料、包装和物流的劳动资料尚未逐一核对，作为补充信息继续调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补充同规格个人购买入口、当前包装制造主体和更新劳动评价；保留受评主体及年度，关注相反证据。",
+      "assessments": [
+        {
+          "subject": "新疆瑞隆农业发展有限公司油脂分公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2024年度",
+          "sourceId": "shawan-labor-2024",
+          "limitation": "仅覆盖该受评主体及2024年度；不能扩展到关联公司或未来全部用工。2026-10-12是本站复核安排，不是政府评级有效期。",
           "kind": "government-labor-rating",
           "grade": "A",
           "status": "current",
@@ -20157,6 +20602,232 @@
           ]
         }
       }
+    },
+    {
+      "id": "tianbao-shawan-special-flour-5kg",
+      "name": "新疆特精面粉5kg单袋",
+      "brand": "商标待核",
+      "companyId": "tianbao-shawan-flour",
+      "category": "food",
+      "description": "天宝绿色食品生产的5kg特精面粉研究记录；原始抽检未列商标，现售渠道待核。",
+      "tags": [
+        "面粉",
+        "特精面粉",
+        "5kg",
+        "新疆",
+        "天宝"
+      ],
+      "needs": [
+        "面粉"
+      ],
+      "url": "https://scjg.hubei.gov.cn/zfxxgk/fdzdgknr/zdly/spjg/cjgg/202509/P020250916527207587095.pdf",
+      "market": "链接为政府制造资料，历史被抽样门店不是当前在售确认；个人同规格购买入口待补。",
+      "relationship": "湖北原始抽检第1272行列本款5千克/袋及沙湾市天宝绿色食品有限公司，2024-11-10批次。",
+      "relationshipSourceIds": [
+        "tianbao-special-flour5-hubei2025"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已确认历史零售抽样，但未取得本款5kg当前个人购买入口；未将企业面粉系列介绍或无规格采购表当作现售证据。",
+          "sourceIds": [
+            "tianbao-special-flour5-hubei2025"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "原始监管表列本款5千克/袋由沙湾市天宝绿色食品有限公司在沙湾市天山西路60号生产，限所列批次制造关系。",
+          "sourceIds": [
+            "tianbao-special-flour5-hubei2025"
+          ],
+          "subject": "沙湾市天宝绿色食品有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "具名生产主体沙湾市天宝绿色食品有限公司列沙湾市2024年度劳动保障守法诚信A级认定结果，2025-09-16公布；按该主体和年度记录。",
+          "sourceIds": [
+            "shawan-labor-2024",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "shawan-labor-2024"
+        }
+      }
+    },
+    {
+      "id": "hedaofu-long-grain-rice-5kg",
+      "name": "长粒香米5kg单袋",
+      "brand": "禾稻夫",
+      "companyId": "huaguan-rice-jidong",
+      "category": "food",
+      "description": "禾稻夫长粒香米5kg家庭装的制造研究资料；当前销售及劳动评价公示生效情况待核。",
+      "tags": [
+        "大米",
+        "长粒香",
+        "5kg",
+        "黑龙江",
+        "禾稻夫"
+      ],
+      "needs": [
+        "大米"
+      ],
+      "url": "https://scjg.sjz.gov.cn/attachments/1/202404/23/2023%E5%B9%B4%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B8%82%E6%9C%AC%E7%BA%A7%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E6%8A%BD%E6%A3%80%E6%A0%B7%E5%93%81%E4%BF%A1%E6%81%AF%EF%BC%88%E7%AC%AC4%E5%8F%B7%EF%BC%8920240423092026942.pdf?sid=2628864a-15aa-426e-a7bb-62a1ecf0eca4",
+      "market": "链接为石家庄原始抽检资料，记录历史超市抽样；尚无当前同规格个人零售入口。",
+      "relationship": "原始PDF第155页、序号1239明确列禾稻夫长粒香米5kg/袋及鸡东县华冠米业有限公司。",
+      "relationshipSourceIds": [
+        "hedaofu-longgrain5-sjz2023"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "历史样品购自超市，但未取得这款长粒香米5kg的当前零售入口；不将同品牌10kg寿司米或25kg大米移用于本款。",
+          "sourceIds": [
+            "hedaofu-longgrain5-sjz2023",
+            "huaguan-longgrain25-jinan2025"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "原始抽检直接将本款5kg/袋与黑龙江的鸡东县华冠米业有限公司对应，生产批次为2022-12-19；当前包装变更仍需后续核对。",
+          "sourceIds": [
+            "hedaofu-longgrain5-sjz2023"
+          ],
+          "subject": "鸡东县华冠米业有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "鸡东2024年度评价公示第40项列该公司A级，但公告附期满无异议后生效条款；未核实该企业的异议或复审处理，暂不标为已核实生效的劳动依据。",
+          "sourceIds": [
+            "jidong-labor-2024-publicity"
+          ]
+        }
+      }
+    },
+    {
+      "id": "gary-pure-milk-200gx20",
+      "name": "纯牛奶200g×20盒",
+      "brand": "盖瑞",
+      "companyId": "gary-shawan",
+      "category": "drinks",
+      "description": "盖瑞纯牛奶盒装20盒，零售标题与资料图规格一致；当前所选商品的实际制造厂仍待确认。",
+      "tags": [
+        "牛奶",
+        "纯牛奶",
+        "盒装",
+        "200g",
+        "20盒",
+        "盖瑞",
+        "天润"
+      ],
+      "needs": [
+        "牛奶"
+      ],
+      "url": "https://item.jd.com/10130872714462.html",
+      "market": "京东商品10130872714462，200G×20盒；配送与库存以购买时页面为准，不能改用同页20袋或18盒商品的资料。",
+      "relationship": "沙湾盖瑞曾生产盖瑞200克盒装纯牛奶，但同名同容量另有新疆天润生物科技股份有限公司生产记录；所选零售卡尚未明确制造法人。",
+      "relationshipSourceIds": [
+        "gary-pure200-yizhou2026",
+        "gary-box200-xinjiang2022-media",
+        "gary-box200-tianhe2023-media",
+        "gary-pure200x20-jd",
+        "gary-pure200x20-packaging"
+      ],
+      "image": "images/gary-pure-milk-200gx20.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img14.360buyimg.com/imgzone/jfs/t1/437436/32/5247/234915/6a0c39d8Fbd3173a5/00835a05a0ceb588.jpg",
+      "imageRights": "盖瑞、天润及京东相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前京东公开商品卡及关联图片均为盖瑞纯牛奶200g×20盒，指向商品10130872714462。",
+          "sourceIds": [
+            "gary-pure200x20-jd",
+            "gary-pure200x20-packaging"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "两个境内工厂出现过同品牌200克盒装制造记录。当前20盒装的制造标签未读清，不能仅凭品牌和容量锁定沙湾盖瑞。",
+          "sourceIds": [
+            "gary-pure200-yizhou2026",
+            "gary-box200-xinjiang2022-media",
+            "gary-box200-tianhe2023-media",
+            "gary-pure200x20-packaging"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "沙湾盖瑞自身有2024年度劳动A级，但本款零售商品须先确认由其生产；不把该厂评价扩展给同集团其他制造厂。",
+          "sourceIds": [
+            "shawan-labor-2024",
+            "gary-box200-tianhe2023-media"
+          ]
+        }
+      }
+    },
+    {
+      "id": "tianbao-sunflower-oil-5l",
+      "name": "一级葵花籽油5L单瓶",
+      "brand": "天宝",
+      "companyId": "ruilong-shawan-oil",
+      "category": "food",
+      "description": "天宝一级葵花籽油5L，已对应新疆瑞隆油脂分公司的制造与劳动评价，当前个人购买渠道待核。",
+      "tags": [
+        "食用油",
+        "葵花籽油",
+        "一级",
+        "5L",
+        "新疆",
+        "天宝"
+      ],
+      "needs": [
+        "葵花籽油"
+      ],
+      "url": "https://scjgj.xinjiang.gov.cn/xjaic/tzgg/202103/ca3b46ec1ec34ff38a596c07db293869.shtml",
+      "market": "链接为政府原始商品抽检资料。2025年广州抽样门店只证明历史流通，尚未核实当前5L个人购买入口。",
+      "relationship": "新疆原始网页与广州公开索引均将天宝一级葵花籽油5L/瓶对应到新疆瑞隆农业发展有限公司油脂分公司，地址金沟河北路133号。",
+      "relationshipSourceIds": [
+        "tianbao-sunflower5-xinjiang2021",
+        "tianbao-sunflower5-guangzhou2025-index"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已有历史零售抽样记录，同规格5L商品当前可供个人购买的渠道仍待补；不将未列容量的机构采购记录直接当作现售商品。",
+          "sourceIds": [
+            "tianbao-sunflower5-guangzhou2025-index"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "原始监管网页列天宝一级葵花籽油5L/瓶及具名新疆油脂分公司；2025-01-06批次的广州索引再次对应同规格和同厂址，保留索引访问限制。",
+          "sourceIds": [
+            "tianbao-sunflower5-xinjiang2021",
+            "tianbao-sunflower5-guangzhou2025-index"
+          ],
+          "subject": "新疆瑞隆农业发展有限公司油脂分公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "具名生产主体新疆瑞隆农业发展有限公司油脂分公司列沙湾市2024年度劳动保障守法诚信A级认定结果，2025-09-16公布；按该主体和年度记录。",
+          "sourceIds": [
+            "shawan-labor-2024",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "shawan-labor-2024"
+        }
+      }
     }
   ],
   "coverage": [
@@ -20218,6 +20889,10 @@
         {
           "label": "玉米油",
           "query": "玉米油"
+        },
+        {
+          "label": "葵花籽油",
+          "query": "葵花籽油"
         },
         {
           "label": "调味油",
@@ -20292,7 +20967,7 @@
           "query": "速冻春卷"
         }
       ],
-      "note": "32项粮油食品需求均有具体研究资料；面粉、意面、燕麦、酱油、醋、腐乳、饼干、即食蛋、即食熟肉、咖喱角及速冻春卷已有正式收录。名味按具体口味及零售数量收录，蔬菜春卷现核实的渠道仅售18袋整箱，虾肉春卷的图片冲突仍待查。大米、食用油等继续补购买与制造依据。",
+      "note": "33项粮油食品需求均有具体研究资料；面粉、意面、燕麦、酱油、醋、腐乳、饼干、即食蛋、即食熟肉、咖喱角及速冻春卷已有正式收录。名味按具体口味及零售数量收录，蔬菜春卷现核实的渠道仅售18袋整箱，虾肉春卷的图片冲突仍待查。大米、食用油等继续补购买与制造依据。 新增新疆特精面粉5kg、禾稻夫长粒香米5kg及天宝葵花籽油5L研究资料；面粉与油已有具名劳动A级，缺现售渠道；大米另需核实评级公示生效情况。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -20391,7 +21066,13 @@
         "mingwei-vegetable-curry-400g-packaging",
         "mingwei-chicken-curry-400gx3-packaging",
         "mingwei-vegetable-roll-400gx18-packaging",
-        "law-labor-rating"
+        "law-labor-rating",
+        "shawan-labor-2024",
+        "tianbao-special-flour5-hubei2025",
+        "jidong-labor-2024-publicity",
+        "hedaofu-longgrain5-sjz2023",
+        "tianbao-sunflower5-xinjiang2021",
+        "tianbao-sunflower5-guangzhou2025-index"
       ]
     },
     {
@@ -20546,7 +21227,7 @@
           "query": "冲调饮品"
         }
       ],
-      "note": "已正式收录口子窖六年型41%vol 450mL单瓶及金惟他多维葡萄糖固体饮料300g单袋。新增冲调饮品需求，注明粉状条装和具体制造法人；牛奶、酸奶、茶、饮用水、咖啡等继续核对，豆奶和葡萄酒仍有资料缺口。",
+      "note": "已正式收录口子窖六年型41%vol 450mL单瓶及金惟他多维葡萄糖固体饮料300g单袋。新增冲调饮品需求，注明粉状条装和具体制造法人；牛奶、酸奶、茶、饮用水、咖啡等继续核对，豆奶和葡萄酒仍有资料缺口。 盖瑞纯牛奶200g×20盒已核当前零售入口，因同名同容量有不同制造厂记录，所选商品制造主体及劳动评价关联仍待确认。",
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
@@ -20569,7 +21250,11 @@
         "huiyuan-peach2l-jd",
         "quangang-labor-2024",
         "jinweita-glucose300-jd",
-        "jinweita-glucose300-production-2025"
+        "jinweita-glucose300-production-2025",
+        "shawan-labor-2024",
+        "gary-pure200-yizhou2026",
+        "gary-box200-tianhe2023-media",
+        "gary-pure200x20-jd"
       ]
     },
     {
