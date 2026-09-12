@@ -60,7 +60,7 @@
     {
       "id": "cars",
       "name": "汽车",
-      "description": "家用轿车、SUV与新能源汽车"
+      "description": "家用轿车、SUV、MPV与新能源汽车"
     },
     {
       "id": "housing",
@@ -4412,8 +4412,8 @@
       "url": "https://www.shishi.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/rlzyhshbzj/zfxxgkml/qtzfxx/202510/t20251024_3224600.htm",
       "publishedAt": "2025-10-24",
       "checkedAt": "2026-09-12",
-      "locator": "最终通知正文；所附原 PDF 第 10 页（印刷页码 8）第 68 行",
-      "summary": "狮人社〔2025〕29号正文公布 119 家 A 级、2 家 C 级企业；附件 A 级表第 68 行为美佳爽（中国）有限公司，统一社会信用代码 913505815917492668，地址为福建省泉州市石狮市鸿山镇高新区五金印刷基地鑫强路 1 号。",
+      "locator": "最终通知正文；原PDF第9页（印刷页码7）第58行，以及第10页（印刷页码8）第68行",
+      "summary": "狮人社〔2025〕29号正文公布119家A级、2家C级企业。附件A级表第58行为爱登堡（中国）有限公司，信用代码91350581777522844J、石狮灵秀镇外西环路682号；第68行为美佳爽（中国）有限公司，信用代码913505815917492668、石狮鸿山镇鑫强路1号。逐行核对具名法人，不借用同品牌其他公司的评价。",
       "limitation": "评价覆盖 2024 年及具名法人，不外推到全部关联公司和未来用工。扫描附件评价栏仍写“拟评为 A 级”，最终发布正文明确作出评价，2026 年法治报告再次确认 119 家 A 级结果；合并读取，未把孤立拟评名单当作最终结果。"
     },
     {
@@ -5015,6 +5015,66 @@
       "locator": "同型号购买页及公开product_info：product_id、name、price、is_enable",
       "summary": "官方参数页的商品资料与购买入口均对应商品号19647、名称Xiaomi路由器BE3600 2.5G版，公开页面配置标价199元且入口启用。购买页可正常读取，支持同型号大陆零售入口的对应。",
       "limitation": "未核最终订单、地区库存或成交价格；页面启用状态不是实时库存。该页面不能证明制造企业或劳动条件。"
+    },
+    {
+      "id": "fuzhou-labor-2024",
+      "title": "福州市 2024 年度企业劳动保障守法诚信等级评价结果",
+      "publisher": "福州市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.fuzhou.gov.cn/zgfzzt/srsj/zfxxgkzl/gkml_31841/whjyylshbzcjjydfmdzccsjqssqk/202507/t20250701_5041691.htm",
+      "publishedAt": "2025-07-01",
+      "checkedAt": "2026-09-12",
+      "locator": "榕人社监〔2025〕10号；A级原始XLSX的Sheet2，序号83（工作表第87行）",
+      "summary": "最终公告经评价、复核公布175家A级企业。原表第83项列福建奔驰汽车有限公司，信用代码91350000717867832M，青口投资区奔驰大道1号；评价结果A级，评价时间2025-06-06，评价部门闽侯县人社局。依据栏记载遵守劳动保障法律法规、未因劳动保障违法行为被查处。",
+      "limitation": "评价覆盖2024年度，公告查阅时标注有效；这不是对2025、2026年用工的再次评价。未取得该法人更晚年度结果，本次将下一次复核设在2026-10-12；此日期是本站复核安排，不是政府评级有效期。"
+    },
+    {
+      "id": "benz-v300-pilot-official",
+      "title": "奔驰中国：2024款 V 300 领航版及国内订购入口",
+      "publisher": "梅赛德斯-奔驰中国官网",
+      "type": "官方商品资料",
+      "url": "https://www.mercedes-benz.com.cn/vehicles/van/v-class",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "车型页公开数据/api/vehicles?url=van/v-class；vehicleSpec第1项，engine.id=84、nstCode=44881313-CNB",
+      "summary": "官网当前数据将V 300领航版标为2024款，专属车型代码44881313-CNB，建议零售价49.68万元；列2.0T M254发动机、48伏电机、9速变速箱及在线预订入口。专属配置器对应rccVehicleModelId=448813。车型记录于2026-08-05更新。",
+      "limitation": "官网建议零售价不等于成交价或含税费、保险的落地总价；未提交个人信息或订单，也未核经销商库存、交付时间及选装。按车型代码识别，不将页面其他长轴距版的配置混入。"
+    },
+    {
+      "id": "benz-v300-pilot-maker-spec",
+      "title": "太平洋汽车：V 300 领航版的车型与厂商对应",
+      "publisher": "太平洋汽车",
+      "type": "车型参数资料",
+      "url": "https://price.pcauto.com.cn/sg13360/config.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "2024款 V 300 领航版列；基本参数中的厂商、车身类型、上市时间及长宽高",
+      "summary": "车型参数表将2024款V 300领航版对应福建奔驰，标示5门7座MPV、2024-08-24上市及5140×1928×1880mm。与奔驰中国当前官网的款型、价格及2024年款交叉一致。",
+      "limitation": "汽车资料平台提供具体款型与厂商对应，结合政府对同一国内工厂的生产报道使用；不单独作为劳动证明。配置变更、经销商改装及其他年款需重新对应。"
+    },
+    {
+      "id": "benz-fuzhou-production-2024",
+      "title": "福建奔驰二期项目启动：境内工厂及V级车生产",
+      "publisher": "福州市人民政府门户网站（来源：福州日报）",
+      "type": "政府生产报道",
+      "url": "https://www.fuzhou.gov.cn/zwgk/gzdt/rcyw/202406/t20240614_4842435.htm",
+      "publishedAt": "2024-06-14",
+      "checkedAt": "2026-09-12",
+      "locator": "正文首段及介绍福建奔驰现有生产体系、V级车和威霆投产的段落",
+      "summary": "报道具名福建奔驰汽车有限公司，二期项目在其厂区启动，涉及焊装、涂装和总装车间；正文说明该境内生产基地已投产V级车和威霆。用于和具体V 300款型资料交叉确认国内整车制造主体。",
+      "limitation": "报道对应工厂和V级产品线，具体2024款领航版另由官网及车型参数资料对应。不将未投产的纯电项目、发动机或所有零件供应商纳入同一劳动结论；原网页直接读取超时，正文通过政府原页面公开索引核读。"
+    },
+    {
+      "id": "edenbo-d232081747-sampling-2024",
+      "title": "福建服装抽查：爱登堡 D232081747 T恤衫",
+      "publisher": "中国质量新闻网（转载福建省市场监督管理局）",
+      "type": "产品抽查转载",
+      "url": "https://m.cqn.com.cn/ms/content/2024-02/02/content_9026086.htm",
+      "publishedAt": "2024-02-02",
+      "checkedAt": "2026-09-12",
+      "locator": "2024年第009期；福建省T恤衫产品质量省级监督抽查结果（合格）表第2项",
+      "summary": "生产企业抽查表将爱登堡牌T恤衫、175/92A、2023-03/D232081747对应爱登堡（中国）有限公司，样品抽查结果合格。用于确认此款号的制造主体；劳动依据另见石狮最终评价。",
+      "limitation": "这是2023年样品的生产记录，不是现时销售或劳动证明。公开索引可读转载全文，直接读取返回405；尚未取得此款号的当前国内在售渠道，也未把其他爱登堡款号替代本条。"
     }
   ],
   "companies": [
@@ -10972,6 +11032,150 @@
           "periodEnd": "2025-12-31",
           "reviewedAt": "2026-09-12",
           "reviewDueAt": "2027-06-05"
+        }
+      ]
+    },
+    {
+      "id": "fujian-benz",
+      "name": "福建奔驰",
+      "legalName": "福建奔驰汽车有限公司",
+      "location": "福建福州青口投资区奔驰大道1号",
+      "origin": "international",
+      "originNote": "梅赛德斯-奔驰为国际品牌；本条依据具体国产V 300款型及福建制造法人，不按品牌国别推断生产地。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2024 年劳动守法 A 级",
+      "scope": "福建奔驰汽车有限公司；评价覆盖2024年度。",
+      "finding": "福州市2024年度最终评价原表具名该法人为A级；V 300领航版的官网车型代码、国内订购入口及福建制造归属已对应。",
+      "caveats": [
+        "本次采用2024年度政府评价；未取得覆盖2025年度的该法人结果，将在2026-10-12前再次复核。",
+        "仅覆盖福建奔驰这一制造法人，不延伸到北京奔驰、进口车型、授权经销商和独立改装厂。",
+        "发动机、零部件及运输等供应商的劳动情况继续作为补充调查；厂址不能证明每位工人的国籍。"
+      ],
+      "sourceIds": [
+        "fuzhou-labor-2024",
+        "law-labor-rating",
+        "benz-v300-pilot-official",
+        "benz-v300-pilot-maker-spec",
+        "benz-fuzhou-production-2024"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "奔驰中国官网按专属车型代码展示2024款V 300领航版，并给出配置器和国内预订入口。",
+          "sourceIds": [
+            "benz-v300-pilot-official"
+          ]
+        },
+        {
+          "stage": "整车制造",
+          "status": "policy",
+          "detail": "具体款型资料列福建奔驰；政府报道确认同名境内法人生产V级车，政府劳动评价与该制造法人一致。",
+          "sourceIds": [
+            "benz-v300-pilot-maker-spec",
+            "benz-fuzhou-production-2024",
+            "fuzhou-labor-2024"
+          ]
+        },
+        {
+          "stage": "零部件、经销及物流",
+          "status": "unknown",
+          "detail": "其他雇主的劳动记录未逐一对应，不扩展为全供应链或经销商的评价。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-12前复核该法人更晚年度劳动评价及更新信息；款型、制造商或改装主体变化时重新判断。",
+      "assessments": [
+        {
+          "subject": "福建奔驰汽车有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2024 年度",
+          "sourceId": "fuzhou-labor-2024",
+          "limitation": "评价仅覆盖具名法人及2024年度；复核期限为本站安排，不是政府评级有效期或未来守法保证。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "edenbo-china",
+      "name": "爱登堡",
+      "legalName": "爱登堡（中国）有限公司",
+      "location": "福建泉州石狮灵秀镇彭田村外西环路682号",
+      "origin": "unconfirmed",
+      "originNote": "本条按石狮制造法人及具体款号整理；尚未独立确认品牌起源，不采用营销中的国别叙述判断生产地。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2024 年劳动守法 A 级",
+      "scope": "爱登堡（中国）有限公司；评价覆盖2024年度。",
+      "finding": "石狮2024年度最终A级名单列该法人；服装生产抽查记录对应D232081747 T恤衫。当前缺同款在售渠道，商品保留待核查。",
+      "caveats": [
+        "政府评价只覆盖爱登堡（中国）有限公司和2024年度，不扩展至品牌授权商或其他同名公司。",
+        "D232081747对应2023年抽查样品，未找到当前国内同款零售入口，不据此承诺能买到。",
+        "产品质量抽查用于制造主体对应，不作为劳动守法评价；其他款式需要单独核对。"
+      ],
+      "sourceIds": [
+        "shishi-labor-2024",
+        "shishi-labor-2024-followup",
+        "law-labor-rating",
+        "edenbo-d232081747-sampling-2024"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与款号",
+          "status": "policy",
+          "detail": "公开服装抽查表列爱登堡牌T恤衫D232081747、175/92A。",
+          "sourceIds": [
+            "edenbo-d232081747-sampling-2024"
+          ]
+        },
+        {
+          "stage": "服装生产",
+          "status": "policy",
+          "detail": "生产企业抽查表与石狮最终劳动A级表指向同一制造法人。",
+          "sourceIds": [
+            "edenbo-d232081747-sampling-2024",
+            "shishi-labor-2024"
+          ]
+        },
+        {
+          "stage": "面料、辅料及运输",
+          "status": "unknown",
+          "detail": "上游和运输雇主未逐一对应，保留为补充调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "寻找D232081747同款个人零售入口，核对当前包装制造商；在2026-10-24前复核更新劳动评价。",
+      "assessments": [
+        {
+          "subject": "爱登堡（中国）有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2024 年度",
+          "sourceId": "shishi-labor-2024",
+          "limitation": "评价仅覆盖具名法人及2024年度；复核期限为本站安排，不是政府评级有效期或未来守法保证。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-10-24"
         }
       ]
     }
@@ -18798,6 +19002,121 @@
           "sourceIds": []
         }
       }
+    },
+    {
+      "id": "benz-v300-pilot-44881313-cnb",
+      "name": "V级 MPV · V 300 领航版（2024款）",
+      "brand": "梅赛德斯-奔驰",
+      "companyId": "fujian-benz",
+      "category": "cars",
+      "needs": [
+        "MPV"
+      ],
+      "description": "具体车型代码44881313-CNB；5门7座MPV，2.0T M254发动机配48伏电机、9速变速箱。所选为标准轴距领航版，选装及配色以订单为准。",
+      "tags": [
+        "MPV",
+        "汽车",
+        "七座",
+        "V300",
+        "2024款",
+        "44881313-CNB"
+      ],
+      "url": "https://www.mercedes-benz.com.cn/van-configurator.html?rccVehicleModelId=448813&classId=V-Class&nstCode=44881313-CNB",
+      "market": "奔驰中国官网按车型代码配置并提供国内在线预订入口；查阅时厂商建议零售价49.68万元。实际成交价、税费、保险、选装及交付由授权经销商确认，未核实时现车库存。",
+      "relationship": "奔驰中国官网将2024款V 300领航版对应44881313-CNB；具体车型参数表列福建奔驰，政府生产报道与劳动A级原表交叉对应福建奔驰汽车有限公司及福州工厂。",
+      "relationshipSourceIds": [
+        "benz-v300-pilot-official",
+        "benz-v300-pilot-maker-spec",
+        "benz-fuzhou-production-2024"
+      ],
+      "image": "images/benz-v300-pilot-44881313-cnb.webp",
+      "imageMode": "contain",
+      "imageSource": "https://asset.prod.cms.mercedes-benz.com.cn/dots-oneweb/VMD/migrateengine_20250307093716_48c8116b79_0753b5b2f8.png",
+      "imageRights": "梅赛德斯-奔驰；官网车型插图版权归原权利人所有。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "奔驰中国当前官网列2024款领航版、专属配置代码、建议零售价及在线预订入口；这支持国内购买渠道，不承诺现车库存和最终价格。",
+          "sourceIds": [
+            "benz-v300-pilot-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "具体V 300领航版参数列福建奔驰；福州市政府报道确认福建奔驰汽车有限公司在境内生产V级车，劳动原表亦列同一法人及奔驰大道1号地址。",
+          "sourceIds": [
+            "benz-v300-pilot-maker-spec",
+            "benz-fuzhou-production-2024",
+            "fuzhou-labor-2024"
+          ],
+          "subject": "福建奔驰汽车有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "制造法人列福州市2024年度劳动保障守法诚信A级最终结果；2025-07-01公布，本次2026-09-12复核。保留2024年度范围，2026-10-12前再次检查更新结果。",
+          "sourceIds": [
+            "fuzhou-labor-2024",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "fuzhou-labor-2024"
+        }
+      }
+    },
+    {
+      "id": "edenbo-d232081747-tshirt",
+      "name": "D232081747 T恤衫（175/92A）",
+      "brand": "爱登堡",
+      "companyId": "edenbo-china",
+      "category": "clothing",
+      "needs": [
+        "T恤"
+      ],
+      "description": "款号D232081747，规格175/92A；公开制造记录对应2023年3月生产样品。未核对颜色、面料成分及现时供货，不用其他款号照片代替。",
+      "tags": [
+        "T恤",
+        "175/92A",
+        "D232081747",
+        "历史制造记录"
+      ],
+      "url": "https://m.cqn.com.cn/ms/content/2024-02/02/content_9026086.htm",
+      "market": "当前链接为同款生产资料。尚未找到D232081747的现时国内个人零售入口，商品保持待核查。",
+      "relationship": "福建省2024年第009期服装抽查转载表列此款号、尺码和爱登堡（中国）有限公司；石狮2024年度最终劳动A级表第58行列同一法人。",
+      "relationshipSourceIds": [
+        "edenbo-d232081747-sampling-2024",
+        "shishi-labor-2024"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "未取得该款号与尺码的可核对图片，仅展示商品名称。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已查到具体款号，但抽查记录不是现时销售渠道；仍缺同款国内在售入口。",
+          "sourceIds": [
+            "edenbo-d232081747-sampling-2024"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "生产企业抽查表将D232081747、175/92A对应爱登堡（中国）有限公司；石狮政府原表交叉确认境内法人及厂址。本条对应已披露样品，不推断后续换厂批次。",
+          "sourceIds": [
+            "edenbo-d232081747-sampling-2024",
+            "shishi-labor-2024"
+          ],
+          "subject": "爱登堡（中国）有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "同一制造法人列石狮2024年度劳动保障守法诚信A级最终结果，第58行；劳动依据已对应，现有缺口是同款可购渠道。",
+          "sourceIds": [
+            "shishi-labor-2024",
+            "shishi-labor-2024-followup",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "shishi-labor-2024"
+        }
+      }
     }
   ],
   "coverage": [
@@ -19216,7 +19535,7 @@
           "query": "童装"
         }
       ],
-      "note": "已核 JBB016 文胸、零售货号合写 02-13/14 的男款内衣、JBJ307 睡衣，以及梦娜具体零售袜品和森马两个服装货号。制造标签、供货与实际生产劳动仍待核；梦娜每件与三双装的对应未明，雅戈尔衬衫现时可售状态也待核。跑鞋和童装继续查准确商品及制造链证据。",
+      "note": "已核 JBB016 文胸、零售货号合写 02-13/14 的男款内衣、JBJ307 睡衣，以及梦娜具体零售袜品和森马两个服装货号。制造标签、供货与实际生产劳动仍待核；梦娜每件与三双装的对应未明，雅戈尔衬衫现时可售状态也待核。跑鞋和童装继续查准确商品及制造链证据。 新增爱登堡D232081747、175/92A的制造记录，已对应2024年度政府劳动A级，现时同款销售渠道仍待核。",
       "sourceIds": [
         "septwolves-hiring",
         "national-harmony-2022",
@@ -19233,7 +19552,9 @@
         "mengna-2010473046147-sale",
         "semir-esg-2025-labor",
         "semir-109326100046-jd",
-        "semir-109725127001-jd"
+        "semir-109725127001-jd",
+        "edenbo-d232081747-sampling-2024",
+        "shishi-labor-2024"
       ]
     },
     {
@@ -19717,11 +20038,19 @@
         {
           "label": "轮胎",
           "query": "轮胎"
+        },
+        {
+          "label": "MPV",
+          "query": "MPV"
         }
       ],
-      "note": "已对应 2026 款吉利银河 E5 530km 启航版；存在车型与贵阳制造基地的政府报道，但 2026 款当前制造厂和实际生产岗位条件仍待核。",
+      "note": "新增正式收录的2024款奔驰V 300领航版（44881313-CNB），对应国内订购、福建制造法人和2024年度劳动A级评价，保留年度并短期复核。吉利银河E5 530km启航版继续补2026款制造及劳动证据；轿车、插混和轮胎仍有缺口。",
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "fuzhou-labor-2024",
+        "benz-v300-pilot-official",
+        "benz-v300-pilot-maker-spec",
+        "benz-fuzhou-production-2024"
       ]
     },
     {

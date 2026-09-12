@@ -6933,6 +6933,31 @@
       },
       "filename": "images/xiaomi-be3600-25g-router.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "benz-v300-pilot-44881313-cnb",
+      "image_url": "https://asset.prod.cms.mercedes-benz.com.cn/dots-oneweb/VMD/migrateengine_20250307093716_48c8116b79_0753b5b2f8.png",
+      "source_page": "https://www.mercedes-benz.com.cn/vehicles/van/v-class",
+      "product_url": "https://www.mercedes-benz.com.cn/van-configurator.html?rccVehicleModelId=448813&classId=V-Class&nstCode=44881313-CNB",
+      "width": 900,
+      "height": 428,
+      "bytes": 35274,
+      "sha256": "384d2ca29316818f4467b6d3e0399193339e41dfb59d81ed4d836a887a2dc3be",
+      "visually_verified": true,
+      "visual_notes": "已查看官网engine.id=84对应的原图，完整侧面黑色V级MPV，无裁切或其他车辆；同款插图不承诺订单配色或选装。",
+      "reuse_info": {
+        "rights_holder": "梅赛德斯-奔驰；官网车型插图版权归原权利人所有。",
+        "license": "No open license declared; attributed product reference image, excluded from the code MIT license.",
+        "attribution": "梅赛德斯-奔驰中国官网，2024款V 300领航版，查阅于2026-09-12。"
+      },
+      "source_image_metadata": {
+        "width": 1540,
+        "height": 732,
+        "bytes": 631613,
+        "sha256": "45803f091b2464f5dec9877c7b8bc36c3cd714479b1787ec7ba26571e5a2af39"
+      },
+      "filename": "images/benz-v300-pilot-44881313-cnb.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
