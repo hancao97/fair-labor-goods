@@ -3569,158 +3569,28 @@
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     },
     {
-      "filename": "images/mg-k35-gel-pen.webp",
-      "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/eXanpLZM2CE3DUIkm5E0RA.jpg",
-      "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/eXanpLZM2CE3DUIkm5E0RA.jpg",
-      "content_type": "image/jpeg",
-      "width": 612,
-      "height": 800,
-      "bytes": 24454,
-      "sha256": "a9cd90629aaa5935930b8d585fb0d77f2838bb83f5211fcdd0fa3892444ebfd6",
-      "visually_verified": true,
-      "image_source_page_url": "https://product.suning.com/0000000000/12447132783.html",
-      "role": "main",
-      "reuse_info": {
-        "rights_holder": "晨光品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
-        "license": "No open reuse license identified. Copyright remains with the relevant brand, exhibitor, retailer and image owners."
-      },
       "id": "mg-k35-gel-pen",
-      "product_name": "晨光 K35 按动中性笔 0.5mm 黑色 12支装",
-      "model": "K35",
-      "tip_size": "0.5mm",
-      "tip_shape": "子弹头",
-      "ink_color": "黑色",
-      "retail_quantity_declared": 12,
-      "retail_quantity_unit": "支/盒",
-      "source_role": "中国大陆苏宁自营直接商品详情页；非品牌官网图源",
-      "source_page_url": "https://product.suning.com/0000000000/12447132783.html",
-      "retailer_source_page_url": "https://product.suning.com/0000000000/12447132783.html",
-      "official_product_listing_url": "https://www.mg-pen.com/zycp/list.aspx?lcid=38&sub=36",
-      "retailer_page_title": "晨光(M&G) K35 按动 中性笔 学生0.5黑笔签字笔商务子弹头考试专用水笔高颜值办公用品 黑色 12支/盒",
-      "status": "exact_product_partial_detail_image_verified",
-      "researched_on": "2026-09-12",
-      "market_scope": "大陆直接零售页经典K35黑色0.5mm、12支装资料；未核对实时库存、配送和实际到货批次。",
-      "image_kind": "零售页原有产品效果图的单张连续详情切片，显示笔帽/按压结构与笔杆上部",
-      "not_full_product_view": true,
-      "image_match_scope": "该图与上一详情切片的“经典K35 / 0.5mm 子弹头 黑色 12支装”文字连续，来自准确K35直接商品页。仅展示原文件能看到的笔杆上部，不拼接或伪造完整主视图。",
-      "packaging_transcription": [],
-      "product_body_transcription": [
-        {
-          "text": "M&G",
-          "location": "中间与右边笔身银色印刷区域",
-          "scope": "笔身品牌字样"
-        },
-        {
-          "text": "晨光",
-          "location": "中间与右边笔身下方品牌区域",
-          "scope": "笔身品牌字样；不是制造法人全称"
-        }
-      ],
-      "visual_quantity_note": "图中三支笔为按压状态对比效果，不是三支零售包装；12支装来自同页规格图与标题。",
-      "retailer_page_product_fields": {
-        "model": "K35",
-        "type": "中性笔",
-        "erasable": "不可擦",
-        "opening_method": "按动式",
-        "tip_size_range": "0.5-0.7mm",
-        "packaging_quantity": "12支"
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/171661/5/37421/69237/6475cb9aFd83347af/2764322192c37a95.jpg",
+      "source_page": "https://www.jd.com/hprm/6706c114d2a9c0cf559.html",
+      "product_url": "https://item.jd.com/241191.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 55776,
+      "sha256": "34b2080c305b373f7518b65c726809a9e596f6b89610d5ed14337f9c4820cb1a",
+      "visually_verified": true,
+      "visual_notes": "完整经典K-35黑色按动笔商品图；12支、0.5mm子弹头与商品号241191对应，保留京东水印；没有可读制造背标。",
+      "reuse_info": {
+        "rights_holder": "晨光、京东商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+        "license": "公开零售商品图，未发现开放许可证；保留出处与原图水印",
+        "attribution": "来源：京东商品241191及其引用主图。"
       },
-      "specification_evidence_note": "页面参数的“0.5-0.7mm”为区间，准确0.5mm以直接标题及清晰规格图为依据；未取得外盒净数量印刷。",
-      "manufacturer_as_read": null,
-      "factory_address_as_read": null,
-      "country_as_read": null,
-      "china_sale_evidence": {
-        "status": "mainland_direct_retail_listing_verified_stock_unverified",
-        "source_urls": [
-          "https://product.suning.com/0000000000/12447132783.html"
-        ],
-        "evidence": "苏宁自营直接商品页与同页规格图均写K35、0.5、黑色和12支装。",
-        "limitation": "页面默认隐藏的下架/有货模板不作库存结论；未取得实时可售或消费者批次信息。"
-      },
-      "china_production_evidence": {
-        "status": "unknown_no_readable_manufacturing_label",
-        "country_as_read_from_packaging": null,
-        "manufacturer_legal_entity": null,
-        "factory_address": null,
-        "consumer_batch_verified": false,
-        "source_urls": [
-          "https://product.suning.com/0000000000/12447132783.html"
-        ],
-        "evidence_scope": "主图和规格图未提供可读制造法人、厂址或产地；品牌官网所属公司不能自动视为本包装生产者。"
-      },
-      "supporting_images": [
-        {
-          "filename": "mg-k35-gel-pen-specification.jpg",
-          "image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/zinGHwPyCscbm-8GsUtQrw.jpg",
-          "final_image_url": "https://uimgproxy.suning.cn/uimg1/sop/commodity/zinGHwPyCscbm-8GsUtQrw.jpg",
-          "content_type": "image/jpeg",
-          "width": 790,
-          "height": 663,
-          "bytes": 76516,
-          "sha256": "32158d557eef80d037f19ab76e37d7eff1841bb8ca53587967f2fc074079a109",
-          "visually_verified": true,
-          "image_source_page_url": "https://product.suning.com/0000000000/12447132783.html",
-          "role": "same_product_retailer_specification_image",
-          "reuse_info": {
-            "rights_holder": "晨光品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
-            "license": "No open reuse license identified. Copyright remains with the relevant brand, exhibitor, retailer and image owners."
-          },
-          "is_packaging_back_label": false,
-          "readable_transcription": [
-            {
-              "text": "K-35",
-              "location": "左上角型号字样"
-            },
-            {
-              "text": "M&G晨光文具",
-              "location": "右上角品牌字样"
-            },
-            {
-              "text": "只为打造经典K35",
-              "location": "中央下部文案"
-            },
-            {
-              "text": "0.5mm 子弹头 黑色 12支装",
-              "location": "底部蓝色参数条"
-            }
-          ],
-          "evidence_scope": "同一直接商品详情图片的规格文字，不是盒装背标；型号与0.5mm黑色12支可从图核对，不能补出制造信息。"
-        }
-      ],
-      "rejected_visual_candidates": [
-        {
-          "source_page_url": "https://product.suning.com/0000000000/12447132783.html",
-          "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/Kdn6KAaOIyXRFdF-Pnji7Q.jpg_800w_800h_4e",
-          "reason": "该页完整主图库与未附尺寸后缀的图片资源均模糊，不提供为可读主图；未进行图像复原。"
-        },
-        {
-          "source_page_url": "https://product.suning.com/0000000000/12219530450.html",
-          "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/ymcSF6EJNrIsB4zzKuk3rQ.jpg_800w_800h_4e",
-          "reason": "清晰图库实际印“金品K-35 / KING-35”，为避免把变款替代经典K35，本批未接收。"
-        }
-      ],
-      "access_boundaries": {
-        "authentication_used": false,
-        "captcha_or_risk_bypass": false,
-        "tls_verification_disabled": false,
-        "source_page_http_status": 200,
-        "image_http_status": 200,
-        "official_list_http_status": 200,
-        "blocked_official_image_url": "https://www.mg-pen.com/uploadfiles/2019/03/20190322175323942.jpg?MC0wLmpwZw==",
-        "blocked_official_image_response": "HTTP200却返回15999字节text/html，含Aliyun验证码界面代码，不是JPEG。",
-        "blocked_route_stopped": true,
-        "scope": "官网图片验证路径已停；只另核两个明确K35零售商品页，排除金品图库，未使用GP1008或联名变款。"
-      },
-      "notes": [
-        "作为局部目录素材交付，不称为完整单支实拍或外包装图。",
-        "未把原站的多个切片拼成新图，所有交付文件原样保存。"
-      ],
       "source_image_metadata": {
-        "width": 790,
-        "height": 1032,
-        "bytes": 95995,
-        "sha256": "4dbec46c23c9d45d34fe23755ac41924d7812068726fbb8a9bb294c745688822"
+        "width": 800,
+        "height": 800,
+        "bytes": 132359,
+        "sha256": "d3e9985c9961b81b577e16275ceece56b61a2834299897aab1fabb1e9ea7c116"
       },
+      "filename": "images/mg-k35-gel-pen.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     },
     {

@@ -5159,6 +5159,54 @@
       "limitation": "不把150mL香麻油的招商资料套用于750mL款，也不根据同品牌或开平工厂介绍推断本壶制造商。",
       "publishedAt": null,
       "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "mg-k35-jd-retail",
+      "title": "京东经典K35黑色0.5mm十二支装零售入口",
+      "publisher": "京东",
+      "type": "大陆零售商商品资料",
+      "url": "https://www.jd.com/hprm/6706c114d2a9c0cf559.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品号241191对应的卡片、完整标题、图片和自营标记",
+      "summary": "现有零售卡片将经典K35按动中性笔、黑色0.5mm、12支/盒对应到商品号241191，并标示自营；同站价格目录也指向这一货号。",
+      "limitation": "这是可识别规格的零售入口，未取得各地区实时库存或结算报价。直接货号页仅返回通用页面，未据此声称全国有货；精英K35、金品、白杆及秒干变款另有货号，不并入本条。"
+    },
+    {
+      "id": "mg-k35-muping-production-2025",
+      "title": "牟平区2025年工业产品第五批抽检：K35中性笔生产单位",
+      "publisher": "烟台市牟平区市场监督管理局",
+      "type": "政府产品质量抽检",
+      "url": "https://www.muping.gov.cn/art/2025/12/26/art_56925_2961484.html",
+      "publishedAt": "2025-12-26",
+      "checkedAt": "2026-09-12",
+      "locator": "《2025年牟平区市场监督管理局产品质量抽检明细（工业产品第五批）》序号59；索引号113706120043165397/2025-04648",
+      "summary": "原始抽检表第59项对应晨光K-35、12支装、黑色0.5mm，生产日期2025-01-21，生产单位为上海晨光文具股份有限公司；受检销售单位是烟台本舍商贸有限公司，两者分别列明。",
+      "limitation": "原始政府页面已完整读取。记录仅用于对应所列型号与生产单位；该历史样品不是本次京东发货批次，质量抽检合格不构成劳动守法评价。"
+    },
+    {
+      "id": "mg-fengxian-pen-factory-2023",
+      "title": "奉贤政府网站披露晨光青村镇制笔生产基地",
+      "publisher": "上海市奉贤区人民政府网站（来源：上海奉贤）",
+      "type": "政府公开资料",
+      "url": "https://www.fengxian.gov.cn/tpxw/20230421/2bafdf0f8e004faf80e672a72e4a238d.html",
+      "publishedAt": "2023-04-21",
+      "checkedAt": "2026-09-12",
+      "locator": "正文首段及工业园生产线介绍",
+      "summary": "政府网站具名介绍上海晨光文具股份有限公司位于奉贤青村镇的生产基地及中性笔等书写工具的制造活动，可与具体型号的生产单位记录交叉核对。",
+      "limitation": "本次读取的是政府页面公开索引正文；直接请求返回403，未绕过限制。报道年代较早，未列K35具体生产线、当前发货批次或劳动守法评价，不单独证明全部晨光商品的产地。"
+    },
+    {
+      "id": "mg-k35-jd-product-image",
+      "title": "京东241191经典K35商品主图",
+      "publisher": "京东商品资料图 / 晨光",
+      "type": "商品详情图片",
+      "url": "https://img30.360buyimg.com/n0/jfs/t1/171661/5/37421/69237/6475cb9aFd83347af/2764322192c37a95.jpg",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "同货号卡片引用图片的800×800版本；笔杆K-35和左侧12支、0.5mm标记",
+      "summary": "已查看完整原图，画面为经典K-35黑色按动笔，标示12支及0.5mm子弹头；用完整商品形象替换旧笔杆局部图，并保留京东水印。",
+      "limitation": "图片属于商品宣传图，未显示生产法人或产地背标；不据图片推断劳动合规，宣传性能语句不作为本站核实结论。"
     }
   ],
   "companies": [
@@ -7693,7 +7741,7 @@
       "id": "mg",
       "name": "晨光",
       "legalName": "上海晨光文具股份有限公司",
-      "location": "上海奉贤等；具体生产主体另核",
+      "location": "上海市奉贤区青村镇（公开制笔基地）",
       "origin": "china",
       "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
       "level": "research",
@@ -7701,9 +7749,9 @@
       "restDays": null,
       "hoursLabel": "具体工时制度待补",
       "restLabel": "具体休息安排待补",
-      "cardNote": "工时与休息资料待补",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "生产岗位历史招聘存在双休与单休的不同安排，不能给全部文具套用同一工时。",
+      "cardNote": "K35生产厂家已对应，劳动依据待补",
+      "scope": "K35黑色0.5mm十二支装的具名生产单位及奉贤制笔基地；劳动资料仍限各自所列主体、年份和岗位。",
+      "finding": "K35的国内零售入口和具名生产单位已对应，当前缺口是该生产法人的劳动守法依据。历史招聘存在不同排班，不能套用到全部岗位或直接作出违法结论。",
       "caveats": [
         "2023 年部分岗位招聘列 11 小时单休；净工时、加班补偿、适用工时制度及当前安排仍待核，不据此直接断言违法。",
         "商品介绍不证明劳动条件。",
@@ -7712,7 +7760,9 @@
       ],
       "sourceIds": [
         "mg-esg-index",
-        "mg-production-hiring-2023"
+        "mg-production-hiring-2023",
+        "mg-k35-muping-production-2025",
+        "mg-fengxian-pen-factory-2023"
       ],
       "supply": [
         {
@@ -7724,8 +7774,11 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
-          "sourceIds": []
+          "detail": "K35黑色0.5mm十二支装的生产单位已由政府抽检具名对应，奉贤制笔基地另有政府资料；该主体的劳动守法依据仍待补。",
+          "sourceIds": [
+            "mg-k35-muping-production-2025",
+            "mg-fengxian-pen-factory-2023"
+          ]
         },
         {
           "stage": "原料、外包与物流",
@@ -7736,7 +7789,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
+      "nextCheck": "补上海晨光文具股份有限公司近期可复核的劳动守法评价，并留意K35在售包装是否更换生产单位；原料、外包与物流继续作为补充调查。"
     },
     {
       "id": "lenovo",
@@ -14218,45 +14271,50 @@
       "brand": "晨光",
       "companyId": "mg",
       "category": "stationery",
-      "description": "经典 K35 按动中性笔，黑色、0.5mm 子弹头、12 支装；资料图展示笔杆按压结构局部。",
+      "description": "经典K35按动中性笔，黑色、0.5mm子弹头、12支/盒，适用于日常书写和办公。",
       "tags": [
         "中性笔"
       ],
       "needs": [
         "中性笔"
       ],
-      "url": "https://product.suning.com/0000000000/12447132783.html",
+      "url": "https://item.jd.com/241191.html",
       "relationshipSourceIds": [
         "mg-k35-product",
         "mg-k35-suning",
-        "mg-k35-spec-image"
+        "mg-k35-spec-image",
+        "mg-k35-jd-retail",
+        "mg-k35-muping-production-2025",
+        "mg-fengxian-pen-factory-2023",
+        "mg-k35-jd-product-image"
       ],
-      "market": "已补苏宁同款黑色 0.5mm、12 支装直接商品资料，现时库存和地区配送仍待核。",
-      "relationship": "品牌官网列 K35，苏宁同款标题与清晰规格图确认黑色 0.5mm、12 支装；使用原站局部详情图，当前制造背标待核。",
+      "market": "已对应京东自营经典K35黑色0.5mm、12支/盒零售入口；实际价格、库存和配送以下单页面为准。",
+      "relationship": "京东241191的型号、颜色、笔尖和装数与牟平2025年抽检第59项对应，生产单位为上海晨光文具股份有限公司；奉贤政府资料另披露该法人的境内制笔基地。历史抽检不等于当前发货批次确认。",
       "image": "images/mg-k35-gel-pen.webp",
       "imageMode": "contain",
-      "imageSource": "https://uimgproxy.suning.cn/uimg1/sop/commodity/eXanpLZM2CE3DUIkm5E0RA.jpg",
-      "imageRights": "晨光品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/171661/5/37421/69237/6475cb9aFd83347af/2764322192c37a95.jpg",
+      "imageRights": "晨光、京东商品页提供方及原图相关权利人；确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已补苏宁同款黑色 0.5mm、12 支装直接商品资料，现时库存和地区配送仍待核。",
+          "status": "supported",
+          "detail": "已对应京东自营经典K35黑色0.5mm、12支/盒零售入口；实际价格、库存和配送以下单页面为准。",
           "sourceIds": [
-            "mg-k35-suning",
-            "mg-k35-spec-image"
+            "mg-k35-jd-retail",
+            "mg-k35-jd-product-image"
           ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "商品图可核品牌、型号和规格，但没有可读制造法人、厂址或产地背标；不以晨光品牌推断。",
+          "status": "supported",
+          "subject": "上海晨光文具股份有限公司",
+          "detail": "牟平区2025年原始抽检表第59项将K-35黑色0.5mm、12支装对应到上海晨光文具股份有限公司；结合奉贤政府披露的该法人青村镇制笔基地，支持境内生产关联。所检样品生产日期为2025-01-21；在售批次若更换生产企业需重新核对。",
           "sourceIds": [
-            "mg-k35-suning",
-            "mg-k35-spec-image"
+            "mg-k35-muping-production-2025",
+            "mg-fengxian-pen-factory-2023"
           ]
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未核实对应制造或服务岗位的当前实际工时、休息、工资、社保及劳动保护；企业记录不扩展到未对应的厂商和外包人员。",
+          "detail": "已明确需要核对的生产法人为上海晨光文具股份有限公司，尚缺可复核的该主体劳动守法评价。企业政策目录与历史招聘只能提供调查线索；质量抽检及制笔基地介绍不作为劳动合规依据。",
           "sourceIds": [
             "mg-esg-index",
             "mg-production-hiring-2023"
