@@ -264,7 +264,7 @@ p {
   font-size: 12px;
   color: #c6d7ca;
   margin-top: 7px;
-  white-space: nowrap;
+  line-height: 1.5;
 }
 .standard-numbers i {
   height: 58px;
@@ -743,6 +743,10 @@ input[type="checkbox"] {
   background: currentColor;
   border-radius: 50%;
 }
+.badge.assessment {
+  color: #245949;
+  background: #e0eee8;
+}
 .badge.disclosure {
   color: #436c3b;
   background: #eaf2df;
@@ -1033,7 +1037,7 @@ footer p {
 }
 .level-explainer {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 22px;
   margin-top: 22px;
 }

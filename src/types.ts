@@ -1,4 +1,18 @@
-export type EvidenceLevel = "disclosure" | "hiring" | "research";
+export type EvidenceLevel = "assessment" | "disclosure" | "hiring" | "research";
+export interface LaborAssessment {
+  subject: string;
+  result: string;
+  period: string;
+  sourceId: string;
+  limitation: string;
+  kind?: "government-labor-rating";
+  grade?: "A" | "B" | "C";
+  periodStart?: string;
+  periodEnd?: string;
+  reviewedAt?: string;
+  reviewDueAt?: string;
+  status?: "current" | "withdrawn";
+}
 export interface Source {
   id: string;
   title: string;
@@ -21,7 +35,7 @@ export interface Company {
   id: string;
   origin: "china" | "international" | "unconfirmed";
   originNote: string;
-  assessments?: { subject: string; result: string; period: string; sourceId: string; limitation: string }[];
+  assessments?: LaborAssessment[];
   name: string;
   legalName: string;
   location: string;
@@ -67,6 +81,8 @@ export interface AdmissionCheck {
   status: "supported" | "pending";
   detail: string;
   sourceIds: string[];
+  subject?: string;
+  assessmentSourceId?: string;
 }
 export interface Catalog {
   version: number;

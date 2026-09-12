@@ -32,6 +32,7 @@ import {
   hasVerifiedChain,
   isAdmitted,
   selectAdmittedProducts,
+  getLaborAssessment,
 } from "./catalog.mjs";
 import type { Catalog, Product, Source, Filters, EvidenceLevel } from "./types";
 
@@ -39,6 +40,10 @@ const data = rawData as Catalog;
 const BASE = import.meta.env.BASE_URL;
 const REPO = `https://github.com/${import.meta.env.VITE_REPOSITORY || "hancao97/fair-labor-goods"}`;
 const levels: Record<EvidenceLevel, { name: string; detail: string }> = {
+  assessment: {
+    name: "政府评价",
+    detail: "有具名法人的劳动保障守法评价；商品须对应同一生产主体，并标明评价年份。",
+  },
   disclosure: {
     name: "制度披露",
     detail: "企业年报或制度提供工时、休息安排依据；实际履行待核。",
@@ -49,7 +54,7 @@ const levels: Record<EvidenceLevel, { name: string; detail: string }> = {
   },
   research: {
     name: "待补证",
-    detail: "尚不足以判断是否达到 40 小时与每周两天休息。",
+    detail: "尚缺对应生产企业的劳动合规依据；资料不足不表示违法。",
   },
 };
 const companyMap = new Map(data.companies.map((c) => [c.id, c]));
@@ -211,6 +216,7 @@ function ProductDetail({
   onSave: () => void;
 }) {
   const c = companyMap.get(product.companyId)!;
+  const laborAssessment = getLaborAssessment(product, c);
   const dialog = useRef<HTMLDialogElement>(null);
   const [tab, setTab] = useState("evidence");
   const [copied, setCopied] = useState(false);
@@ -292,7 +298,7 @@ function ProductDetail({
             </div>
             <div className="detail-actions">
               <a className="button primary" href={product.url} {...external}>
-                查看商品资料
+                {isAdmitted(product, c) ? "查看购买渠道" : "查看商品资料"}
                 <ArrowUpRight size={16} />
               </a>
               <button
@@ -329,8 +335,8 @@ function ProductDetail({
           <section className="admission-checks" aria-label="商品收录条件检查">
             {Object.entries(admissionLabels).map(([key, label]) => {
               const check = product.admission[key as keyof typeof product.admission];
-              return <div key={key} className={check.status}>
-                <strong>{label}<small>{check.status === "supported" ? "有对应来源" : "未通过核查"}</small></strong>
+              return <div key={key} className={key === "productionLabor" && !laborAssessment ? "pending" : check.status}>
+                <strong>{label}<small>{key === "productionLabor" ? (laborAssessment ? "有对应政府评价" : "待补充或复核") : check.status === "supported" ? "有对应来源" : "待补充依据"}</small></strong>
                 <p>{check.detail}</p>
                 {check.sourceIds.map((id) => <a key={id} href={sourceMap.get(id)!.url} {...external}>{sourceMap.get(id)!.title}<ArrowUpRight size={12} /></a>)}
               </div>;
@@ -357,8 +363,8 @@ function ProductDetail({
                   <dd>{product.relationship}</dd>
                 </div>
                 <div>
-                  <dt>实际履行</dt>
-                  <dd>未获得独立考勤及休息记录验证。</dd>
+                  <dt>劳动判断依据</dt>
+                  <dd>{laborAssessment ? `${laborAssessment.subject}：${laborAssessment.result}（${laborAssessment.period}）。本站于 ${laborAssessment.reviewedAt} 查阅，计划在 ${laborAssessment.reviewDueAt} 前复核；不代表政府保证未来全部用工情况。` : "尚无可用于本商品收录的生产主体劳动评价；详见上方检查与原始来源。"}</dd>
                 </div>
               </dl>
               <h3 className="minor-title">仍然需要看清的部分</h3>
@@ -384,7 +390,7 @@ function ProductDetail({
                 </span>
               </div>
               <p className="help-text">
-                有准则、有评估，都是追踪的起点。具体产品仍需要对应到制造商、外包团队和实际劳动记录。
+                这里继续记录原料、外包与物流等环节。生产企业的劳动守法评价可作为商品收录依据；全供应链追踪是补充信息，不是强制收录条件。
               </p>
               <div className="supply-timeline">
                 {c.supply.map((s, i) => (
@@ -424,7 +430,7 @@ function ProductDetail({
           {tab === "sources" && (
             <>
               <p className="help-text">
-                逐条区分企业自述、招聘承诺和产品资料。查阅日期不等于信息生效日期。
+                逐条区分政府评价、企业自述、招聘承诺和产品资料。查阅日期不等于评价覆盖期。
               </p>
               <div className="source-list">
                 {sources.map((s) => (
@@ -504,11 +510,11 @@ function ProductCard({
           {product.name}
         </button>
         <p className="product-desc">{product.description}</p>
-        <p className="admission-card-note">{isAdmitted(product, c) ? "三项收录条件已核查" : "待核查 · 不作合规推荐"}</p>
+        <p className="admission-card-note">{isAdmitted(product, c) ? `生产企业 ${getLaborAssessment(product, c)!.period}劳动守法 A 级` : "待核查 · 不作合规推荐"}</p>
         <div className="card-evidence">
           <Badge level={c.level} />
           <span>
-            {c.level === "research"
+            {c.level === "assessment" ? "评价主体与年份见档案" : c.level === "research"
               ? "尚不足以判断"
               : c.level === "hiring"
                 ? "仅适用所述岗位"
@@ -547,19 +553,19 @@ function Method() {
       <section className="method-principles">
         {[
           ["大陆可以买到", "需要可核验的中国大陆销售渠道与对应型号；海外网页、中文介绍或品牌在华经营不能单独证明商品可购买。"],
-          ["中国境内生产或服务", "实体商品需有对应型号、批次的中国制造商或产地依据。餐饮、住宿需对应境内具体门店；数字商品需对应境内开发及服务团队。中国品牌不等于中国制造。"],
-          ["核对境内生产工人的劳动条件", "核验对象是实际生产、门店及外包人员。总部招聘、年报承诺不能替代生产现场的履行记录；还需核对工资、社保、合同与劳动保护。"],
+          ["中国境内生产或服务", "实体商品需有对应型号或规格的境内制造商依据。餐饮、住宿对应境内具体门店；数字商品对应境内开发及服务团队。批次差异注明适用范围。"],
+          ["依据劳动法判断", "关注合同、工资、社保、工时休息与劳动保护。政府劳动保障守法 A 级评价可作为依据；企业制度和招聘承诺单独不足以判断实际合规。"],
           [
-            "每周不超过 40 小时",
-            "分别记录标准制度与包含加班的实际工作时间。只有上下班时刻、未明确午休的资料，不据此推算工时。",
+            "依法安排工时与休息",
+            "标准工时为每日 8 小时、每周 40 小时；加班须遵守法定条件、时长和报酬要求。法律不一概要求固定双休，经批准的特殊工时另行核对。",
           ],
           [
-            "每周至少休息 2 天",
-            "分清固定周末和轮休。年假、补休和节假日不用于填补日常每周双休；旺季与特殊岗位例外明确标注。",
+            "对应企业与评价年度",
+            "把商品制造商与评价中的法人逐一对应，保留评价时期、查阅日期和复核日期。总部、关联公司或其他代工厂的评价不互相套用。",
           ],
           [
             "继续追踪供应链",
-            "把研发、制造、外包、原料与物流分开核对。总部的双休不能直接证明代工厂、外包团队也双休。",
+            "把制造、原料、外包与物流分别记录。上游资料可以继续补充，不以取得全供应链所有人的考勤记录作为商品入选前提。",
           ],
         ].map(([title, body], i) => (
           <article key={title}>
@@ -570,13 +576,13 @@ function Method() {
         ))}
       </section>
       <section className="method-section">
-        <h2>三种资料状态，三种阅读方式。</h2>
+        <h2>不同资料，说明不同的事实。</h2>
         <div className="level-explainer">
           {Object.entries(levels).map(([k, v]) => (
             <article key={k}>
               <Badge level={k as EvidenceLevel} />
               <h3>
-                {k === "disclosure"
+                {k === "assessment" ? "查得到政府评价" : k === "disclosure"
                   ? "查得到制度"
                   : k === "hiring"
                     ? "找到了岗位承诺"
@@ -596,10 +602,12 @@ function Method() {
         <p>中国境内生产不能推断每位工人的国籍。本站以境内生产和服务岗位为核查范围，不收集工人的身份证件或个人国籍信息，也不作全体工人均为中国国籍的保证。</p>
       </section>
       <section className="method-section text-section">
-        <h2>为什么不直接给企业贴“合规”标签？</h2>
+        <h2>符合劳动法，如何转化为收录标准？</h2>
         <p>
-          劳动条件涉及工时以外的工资、社保、安全、平等与其他权益。40
-          小时加双休是本项目的消费筛选起点，不能替代对全部劳动法律义务的认定。休息日安排也可能因企业情况有所不同。
+          以对应生产企业的政府劳动保障守法评价支持收录，并展示评价对象和年度。A 级评价涉及合同、工时休息、工资、社保等情况；它是有范围的行政评价，不是对每一批商品或未来所有劳动行为的保证。
+        </p>
+        <p>
+          《劳动法》第 38 条规定每周至少休息一日，第 41、44 条规定加班条件、时长与报酬；特殊工时依审批和适用规则核对。本站不再另加“必须双休、含加班也不能超过 40 小时”的门槛。
         </p>
         <a
           href={sourceMap.get("law-hours")!.url}
@@ -609,6 +617,8 @@ function Method() {
           阅读《国务院关于职工工作时间的规定》
           <ArrowUpRight size={15} />
         </a>
+        <a href={sourceMap.get("law-labor")!.url} {...external} className="text-button">阅读《劳动法》<ArrowUpRight size={15} /></a>
+        <a href={sourceMap.get("law-labor-rating")!.url} {...external} className="text-button">阅读劳动保障守法评价办法<ArrowUpRight size={15} /></a>
       </section>
       <section className="method-section text-section">
         <h2>什么样的证据值得保留？</h2>
@@ -616,7 +626,7 @@ function Method() {
           优先查找具体生产企业的政府劳动守法评价，再核对原始制度、上市公司报告、生产岗位资料与实际劳动记录。政府评价保留所列法人和评价年份；高校转载的企业招聘仍是企业承诺。匿名评价只能作为继续调查的线索。
         </p>
         <p>
-          每条记录包含资料主体、发布日期、查阅日期、适用范围和例外。超过一年的明确工时披露会标记为历史资料；更新页面不自动更新旧承诺。争议或反证需保留来源、核对时间与主体，再修订结论。
+          每条记录包含资料主体、发布日期、查阅日期、适用范围和例外。政府评价设置本站复核日期，届时尚未复核的商品退回待核查；复核期限不是政府认定的有效期。出现更新评价或相反证据，应重新判断并及时撤回不再适用的依据。
         </p>
       </section>
       <section className="contribution-panel">
@@ -662,7 +672,7 @@ export default function App() {
   const [sourceType, setSourceType] = useState("all");
   const selectedProduct = data.products.find((p) => p.id === selected);
   const researching = route === "research";
-  const routeProducts = researching ? researchProducts : admittedProducts;
+  const routeProducts = filters.saved ? data.products : researching ? researchProducts : admittedProducts;
   const products = useMemo(
     () => selectProducts({ ...data, products: routeProducts }, filters, saved),
     [filters, saved, routeProducts],
@@ -787,7 +797,7 @@ export default function App() {
         <div className="header-actions">
           <button
             className="header-saved"
-            onClick={() => navigateWithFilters("research", {...defaults, saved: !filters.saved})}
+            onClick={() => navigateWithFilters("catalog", {...defaults, saved: !filters.saved})}
             aria-label="查看收藏商品"
           >
             <Bookmark size={18} />
@@ -816,14 +826,14 @@ export default function App() {
                   <span className="rule" /> 每一次选择，都有分量
                 </div>
                 <h1>
-                  {researching ? "把每个日常所需，" : "支持境内劳动，"}
+                  {filters.saved ? "把关心的好物，" : researching ? "把每个日常所需，" : "支持境内劳动，"}
                   <br />
-                  {researching ? <>都<span>查得更清楚。</span></> : <>从<span>有据可查</span>开始。</>}
+                  {filters.saved ? <>留在<span>我的收藏。</span></> : researching ? <>都<span>查得更清楚。</span></> : <>从<span>有据可查</span>开始。</>}
                 </h1>
                 <p>
-                  {researching ? "这里是尚未通过收录检查的研究资料，不是合规推荐清单。" : "大陆买得到、中国境内生产、境内生产岗位劳动条件有据可查。"}
+                  {filters.saved ? "收藏同时保留正式收录商品和待核查资料，每件都标明当前状态。" : researching ? "这里是尚未通过收录检查的研究资料，不是合规推荐清单。" : "大陆买得到、中国境内生产、境内生产岗位劳动条件有据可查。"}
                   <br className="desktop" />
-                  {researching ? "从一袋米、一支笔，到一部手机、一顿饭，逐项补齐证据。" : "三项必须同时满足；品牌国别不能替代产地和工人权益证据。"}
+                  {filters.saved ? "收藏保存在当前浏览器，也可以继续按分类和关键词查找。" : researching ? "从一袋米、一支笔，到一部手机、一顿饭，逐项补齐证据。" : "三项必须同时满足；品牌国别不能替代产地和工人权益证据。"}
                 </p>
                 <a className="intro-link" href="#/method">
                   了解我们如何收录
@@ -831,24 +841,24 @@ export default function App() {
                 </a>
               </div>
               <aside className="standard-card">
-                <span className="eyebrow">我们的筛选起点</span>
+                <span className="eyebrow">支持守法用工的企业</span>
                 <div className="standard-numbers">
                   <div>
                     <strong>
-                      40<small>小时</small>
+                      依法
                     </strong>
-                    <span>每周标准工时上限</span>
+                    <span>合同、工资、社保与休息</span>
                   </div>
                   <i />
                   <div>
                     <strong>
-                      2<small>天</small>
+                      有据
                     </strong>
-                    <span>每周休息时间下限</span>
+                    <span>核对生产企业与政府评价</span>
                   </div>
                 </div>
                 <a href="#/method">
-                  还有商品背后的供应链
+                  查看完整收录依据
                   <ArrowRight size={16} />
                 </a>
               </aside>
@@ -856,7 +866,7 @@ export default function App() {
             <div className="catalog-summary">
               <div>
                 <span className="live-dot" />
-                {researching ? "待核查资料，尚未正式收录" : "正式收录条件逐项核查"}
+                {filters.saved ? "我的收藏 · 每件商品分别标明收录状态" : researching ? "待核查资料，尚未正式收录" : "正式收录条件逐项核查"}
               </div>
               <span>
                 <b>{admittedProducts.length}</b> 件正式收录
@@ -879,7 +889,7 @@ export default function App() {
                   <span className="eyebrow section-eyebrow">
                     THE EVERYDAY COLLECTION
                   </span>
-                  <h2>{researching ? "日常所需，逐项核查。" : "符合收录条件的商品"}</h2>
+                  <h2>{filters.saved ? "我的收藏" : researching ? "日常所需，逐项核查。" : "符合收录条件的商品"}</h2>
                 </div>
                 <a className="quiet text-button" href="#/method">
                   有依据的收录，可追溯的选择
@@ -1019,7 +1029,7 @@ export default function App() {
                     <span>
                       仅看全供应链实际履约已核实
                       <small>
-                        当前 0 件；公开准则与企业自述不计为实际验证。
+                        当前 {data.products.filter((p) => hasVerifiedChain(companyMap.get(p.companyId)!)).length} 件；这是额外筛选，商品收录不强制要求。
                       </small>
                     </span>
                   </label>
@@ -1028,7 +1038,7 @@ export default function App() {
               <div className="evidence-note">
                 <BookOpen size={17} />
                 <p>
-                  {researching ? "本区商品尚未通过正式收录检查。制度披露和岗位线索只说明已找到的资料，不能视为生产工人劳动条件达标。" : "只有大陆销售、境内生产或服务、对应生产岗位劳动证据三项齐备，才能进入本目录。"}
+                  {filters.saved ? "收藏不改变商品的收录状态。正式收录与待核查资料会分别标注。" : researching ? "本区商品仍有购买渠道、生产主体或劳动评价需要补充。资料不足不代表企业违法。" : "已对应大陆销售、境内生产企业及其政府劳动守法评价。评价对象、年度和来源可在每件商品中查看。"}
                 </p>
                 <a href="#/method" aria-label="了解资料分级">
                   <CircleHelp size={17} />
@@ -1153,7 +1163,7 @@ export default function App() {
               <div className="coverage-needs">{group.needs.map((need) => {
                 const found = selectProducts(data, { ...defaults, category: group.category, need: need.label });
                 const admitted = found.filter((p) => isAdmitted(p, companyMap.get(p.companyId)!)).length;
-                return <button key={need.label} onClick={() => navigateWithFilters("research", {...defaults, category:group.category, need:need.label})}><span>{need.label}</span><small>{found.length ? `${found.length} 份资料 · ${admitted} 件收录` : "尚无具体商品"}</small></button>;
+                return <button key={need.label} onClick={() => navigateWithFilters(admitted ? "catalog" : "research", {...defaults, category:group.category, need:need.label})}><span>{need.label}</span><small>{found.length ? `${found.length} 份资料 · ${admitted} 件收录` : "尚无具体商品"}</small></button>;
               })}</div>
               <p>{group.note}</p>
               {group.sourceIds.map((id) => <a key={id} href={sourceMap.get(id)!.url} {...external}>{sourceMap.get(id)!.title}<ArrowUpRight size={12} /></a>)}
@@ -1190,8 +1200,8 @@ export default function App() {
                 <span>有岗位线索</span>
               </div>
               <div>
-                <b>0</b>
-                <span>全链实际履约已核实</span>
+                <b>{data.companies.filter((c) => c.level === "assessment").length}</b>
+                <span>有政府守法评价</span>
               </div>
             </div>
             <label className="search full-search">

@@ -13,87 +13,111 @@ import {
 const data = JSON.parse(
   await readFile(new URL("../public/data/catalog.json", import.meta.url)),
 );
-test("official shop pages and headquarters policies cannot admit a product", () => {
-  assert.equal(selectAdmittedProducts(data).length, 0);
-  const c = data.companies.find((c) => c.id === "anker");
-  const p = data.products.find((p) => p.companyId === c.id);
-  const candidate = { ...p, admission: Object.fromEntries(["chinaSale", "chinaProduction", "productionLabor"].map((key) => [key, {status: "supported", sourceIds: ["source"]}])) };
-  assert.equal(isAdmitted(candidate, c), false);
-});
-test("missing or sourceless domestic-production evidence blocks admission", () => {
-  const c = { ...data.companies[0], actualHoursVerified: true, actualRestVerified: true, hours: 40, restDays: 2 };
-  c.supply = c.supply.map((stage) => ({ ...stage, status: "verified", sourceIds: ["independent-record"] }));
-  const p = { ...data.products[0], admission: Object.fromEntries(["chinaSale", "chinaProduction", "productionLabor"].map((key) => [key, {status: "supported", sourceIds: ["source"]}])) };
-  assert.equal(isAdmitted(p, c), true);
-  p.admission.chinaProduction.sourceIds = [];
-  assert.equal(isAdmitted(p, c), false);
-  delete p.admission.chinaProduction;
-  assert.equal(isAdmitted(p, c), false);
-});
-
-test("admission requires evidence for every production and upstream stage", () => {
-  const c = {
-    ...data.companies[0],
-    actualHoursVerified: true,
-    actualRestVerified: true,
-    hours: 40,
-    restDays: 2,
-    supply: data.companies[0].supply.map((stage) => ({
-      ...stage, status: "verified", sourceIds: ["independent-record"],
-    })),
+const REVIEW_DATE = "2026-09-12";
+function assessedProduct() {
+  const company = {
+    ...structuredClone(data.companies[0]),
+    hours: null, restDays: null,
+    actualHoursVerified: false, actualRestVerified: false,
+    assessments: [{
+      kind: "government-labor-rating", subject: "示例境内制造厂有限公司",
+      sourceId: "official-rating", grade: "A", status: "current",
+      periodStart: "2025-01-01", periodEnd: "2025-12-31",
+      reviewedAt: REVIEW_DATE, reviewDueAt: "2027-06-03",
+    }],
   };
-  const p = {
-    ...data.products[0],
-    admission: Object.fromEntries(["chinaSale", "chinaProduction", "productionLabor"].map(
-      (key) => [key, { status: "supported", sourceIds: ["product-record"] }],
-    )),
+  const product = {
+    ...structuredClone(data.products[0]), companyId: company.id,
+    admission: {
+      chinaSale: { status: "supported", sourceIds: ["retail-product"] },
+      chinaProduction: { status: "supported", subject: "示例境内制造厂有限公司", sourceIds: ["manufacturer-record"] },
+      productionLabor: { status: "supported", sourceIds: ["official-rating"], assessmentSourceId: "official-rating" },
+    },
   };
-  assert.equal(isAdmitted(p, c), true);
-  for (const [index] of c.supply.entries()) {
-    for (const unresolved of [
-      { status: "unknown", sourceIds: [] },
-      { status: "policy", sourceIds: ["company-policy"] },
-      { status: "verified", sourceIds: [] },
-    ]) {
-      const supply = c.supply.map((stage, i) => i === index ? { ...stage, ...unresolved } : stage);
-      assert.equal(isAdmitted(p, { ...c, supply }), false);
+  return { company, product };
+}
+test("a scoped government A rating admits a domestic product without 40-hour, double-rest or full-chain prerequisites", () => {
+  const { product, company } = assessedProduct();
+  assert.equal(hasVerifiedChain(company), false);
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+  // These descriptive numbers alone cannot establish or contradict legal compliance.
+  assert.equal(isAdmitted(product, { ...company, hours: 44, restDays: 1 }, REVIEW_DATE), true);
+});
+test("every domestic admission condition still requires its own supporting sources", () => {
+  const { product, company } = assessedProduct();
+  for (const key of Object.keys(product.admission)) {
+    for (const change of [{ status: "pending" }, { sourceIds: [] }]) {
+      const candidate = structuredClone(product);
+      Object.assign(candidate.admission[key], change);
+      assert.equal(isAdmitted(candidate, company, REVIEW_DATE), false);
     }
+    const candidate = structuredClone(product);
+    delete candidate.admission[key];
+    assert.equal(isAdmitted(candidate, company, REVIEW_DATE), false);
   }
-  assert.equal(isAdmitted(p, { ...c, supply: [] }), false);
-  assert.equal(isAdmitted(p, { ...c, supply: undefined }), false);
 });
-
-test("supplier policies and self-reporting never qualify as actual verification", () => {
-  assert.equal(selectProducts(data, { ...defaults, supply: true }).length, 0);
-  for (const c of data.companies) assert.equal(hasVerifiedChain(c), false);
+test("a parent or sibling factory rating cannot certify another manufacturer", () => {
+  const { product, company } = assessedProduct();
+  product.admission.chinaProduction.subject = "另一家代工厂有限公司";
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  assert.equal(isAdmitted(product, undefined, REVIEW_DATE), false);
+  product.companyId = "different-brand";
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
 });
-test("missing hours cannot qualify, even with affirmative verification flags", () => {
-  const c = {
-    ...data.companies[0],
-    actualHoursVerified: true,
-    actualRestVerified: true,
-    hours: null,
-  };
-  c.supply = c.supply.map((s) => ({
-    ...s,
-    status: "verified",
-    sourceIds: ["independent-record"],
-  }));
-  assert.equal(hasVerifiedChain(c), false);
+test("a shop listing, recruiting promise or company policy cannot be relabelled as government evidence", () => {
+  for (const change of [{ kind: undefined }, { kind: "hiring" }, { grade: "B" }, { grade: "C" }, { sourceId: "different-source" }]) {
+    const { product, company } = assessedProduct();
+    Object.assign(company.assessments[0], change);
+    assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  }
 });
-test("a single unverified upstream stage prevents full-chain qualification", () => {
-  const c = {
-    ...data.companies[0],
-    actualHoursVerified: true,
-    actualRestVerified: true,
-  };
-  c.supply = c.supply.map((s) => ({
-    ...s,
-    status: "verified",
-    sourceIds: ["independent-record"],
-  }));
-  c.supply[2].status = "unknown";
-  assert.equal(hasVerifiedChain(c), false);
+test("withdrawn, superseded and overdue assessments return products to research", () => {
+  const { product, company } = assessedProduct();
+  assert.equal(isAdmitted(product, company, "2026-09-11"), false);
+  assert.equal(isAdmitted(product, company, "2027-06-03"), false);
+  assert.equal(isAdmitted(product, company, "2027-06-04"), false);
+  company.assessments[0].status = "withdrawn";
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  company.assessments[0].status = "current";
+  company.assessments.push({ ...company.assessments[0], sourceId: "new-negative-rating", grade: "C", periodEnd: "2026-08-31" });
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+});
+test("incomplete or inconsistent assessment dates cannot admit a product", () => {
+  for (const change of [{ reviewDueAt: undefined }, { reviewDueAt: "2027-99-99" }, { reviewedAt: "unknown" }, { periodStart: "2026-01-01" }]) {
+    const { product, company } = assessedProduct();
+    Object.assign(company.assessments[0], change);
+    assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  }
+});
+test("a revised rating for the same year supersedes the earlier A rating", () => {
+  const { product, company } = assessedProduct();
+  company.assessments.push({ ...company.assessments[0], sourceId: "revised-rating", grade: "B" });
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+});
+test("upstream verification remains an optional filter and is not inferred from policies", () => {
+  const { product, company } = assessedProduct();
+  const catalog = { ...data, companies: [company], products: [product] };
+  assert.equal(selectAdmittedProducts(catalog, REVIEW_DATE).length, 1);
+  assert.equal(selectProducts(catalog, { ...defaults, supply: true }).length, 0);
+  company.supply = company.supply.map((s) => ({ ...s, status: "verified", sourceIds: ["stage-record"] }));
+  assert.equal(selectProducts(catalog, { ...defaults, supply: true }).length, 1);
+  company.supply[2].status = "policy";
+  assert.equal(hasVerifiedChain(company), false);
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+});
+test("the catalog separates admitted and unverified products without fixing a total count", () => {
+  const { product, company } = assessedProduct();
+  const pending = structuredClone(product);
+  pending.id = "pending-product";
+  pending.admission.chinaProduction.status = "pending";
+  const catalog = { ...data, products: [product, pending], companies: [company] };
+  assert.deepEqual(selectAdmittedProducts(catalog, REVIEW_DATE).map((p) => p.id), [product.id]);
+  assert.equal(selectProducts(catalog, { ...defaults, saved: true }, [product.id, pending.id]).length, 2);
+});
+test("government assessment filters survive shared URLs", () => {
+  const filters = { ...defaults, evidence: "assessment" };
+  assert.deepEqual(readFilters(writeFilters(filters), data.categories.map((c) => c.id)), filters);
+  assert(selectProducts(data, filters).some((p) => p.companyId === "guangzhonghuang"));
 });
 test("search matches an underlying company across its consumer brands", () => {
   const found = selectProducts(data, { ...defaults, query: "安克" });

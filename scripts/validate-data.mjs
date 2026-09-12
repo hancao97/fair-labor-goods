@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { readFile, access } from "node:fs/promises";
-import { hasVerifiedChain, isAdmitted, selectAdmittedProducts } from "../src/catalog.mjs";
+import { getLaborAssessment, selectAdmittedProducts } from "../src/catalog.mjs";
 
 const data = JSON.parse(
   await readFile(new URL("../public/data/catalog.json", import.meta.url)),
@@ -58,7 +58,7 @@ for (const s of data.sources) {
 for (const c of data.companies) {
   assert(["china", "international", "unconfirmed"].includes(c.origin));
   text(c.originNote, `${c.id}.originNote`);
-  assert(["disclosure", "hiring", "research"].includes(c.level));
+  assert(["assessment", "disclosure", "hiring", "research"].includes(c.level));
   [
     "name",
     "legalName",
@@ -74,7 +74,22 @@ for (const c of data.companies) {
   for (const assessment of c.assessments || []) {
     ["subject", "result", "period", "limitation"].forEach((key) => text(assessment[key], `${c.id}.assessment.${key}`));
     refs([assessment.sourceId]);
+    if (assessment.kind) {
+      assert.equal(assessment.kind, "government-labor-rating");
+      assert(["A", "B", "C"].includes(assessment.grade));
+      assert(["current", "withdrawn"].includes(assessment.status));
+      for (const key of ["periodStart", "periodEnd", "reviewedAt", "reviewDueAt"]) date(assessment[key]);
+      assert(assessment.periodStart <= assessment.periodEnd);
+      assert(assessment.periodEnd <= assessment.reviewedAt);
+      assert(assessment.reviewedAt <= data.updatedAt);
+      assert(assessment.reviewDueAt > assessment.reviewedAt);
+      const source = data.sources.find((s) => s.id === assessment.sourceId);
+      assert.equal(source.type, "政府评价");
+      assert(new URL(source.url).hostname.endsWith(".gov.cn"));
+      assert(source.publishedAt && source.publishedAt <= assessment.reviewedAt);
+    }
   }
+  if (c.level === "assessment") assert(c.assessments?.some((a) => a.kind === "government-labor-rating"));
   assert(c.caveats.length > 0);
   assert(c.supply.length >= 3);
   for (const s of c.supply) {
@@ -84,23 +99,11 @@ for (const c of data.companies) {
     assert(["policy", "unknown", "verified"].includes(s.status));
     if (s.status !== "unknown") assert(s.sourceIds.length > 0);
   }
-  if (c.level !== "research") {
-    assert(c.hours !== null && c.hours <= 40);
-    assert(c.restDays !== null && c.restDays >= 2);
-    assert(c.sourceIds.length > 0);
-  }
-  // A future verification requires a deliberate model extension and independent records.
-  assert.equal(
-    c.actualHoursVerified,
-    false,
-    "Independent actual-hours verification not implemented",
-  );
-  assert.equal(
-    c.actualRestVerified,
-    false,
-    "Independent rest verification not implemented",
-  );
-  assert(!hasVerifiedChain(c), "Do not certify from self-reported policies");
+  if (c.level !== "research") assert(c.sourceIds.length > 0);
+  assert(c.hours === null || (Number.isFinite(c.hours) && c.hours >= 0));
+  assert(c.restDays === null || (Number.isFinite(c.restDays) && c.restDays >= 0 && c.restDays <= 7));
+  assert.equal(typeof c.actualHoursVerified, "boolean");
+  assert.equal(typeof c.actualRestVerified, "boolean");
 }
 for (const p of data.products) {
   assert(companyIds.has(p.companyId));
@@ -122,7 +125,10 @@ for (const p of data.products) {
     refs(check.sourceIds);
     if (check.status === "supported") assert(check.sourceIds.length > 0, `${p.id}: unsupported admission claim`);
   }
-  assert(!isAdmitted(p, data.companies.find((c) => c.id === p.companyId)), "No independent production labor validation has been implemented");
+  if (p.admission.productionLabor.status === "supported") {
+    assert(getLaborAssessment(p, data.companies.find((c) => c.id === p.companyId), data.updatedAt),
+      `${p.id}: labor evidence must match the producer and a current, dated government A rating`);
+  }
   if (p.image) {
     assert(/^images\/[a-z0-9-]+\.webp$/.test(p.image));
     await access(new URL("../public/" + p.image, import.meta.url));
@@ -146,7 +152,6 @@ for (const coverage of data.coverage) {
     text(need.query, `${coverage.category}.need.query`);
   }
 }
-assert.equal(selectAdmittedProducts(data).length, 0, "Research records must not appear as admitted products");
 const raw = JSON.stringify(data) + JSON.stringify(credits);
 assert(
   !/\/Users\/|\/tmp\/|Bearer |ghp_|github_pat_/.test(raw),
@@ -154,5 +159,5 @@ assert(
 );
 assert(!/\p{Extended_Pictographic}/u.test(raw), "No emoji in catalog data");
 console.log(
-  `Validated ${data.products.length} research products, ${data.companies.length} company records, ${data.sources.length} sources and ${categories.size} categories. ${selectAdmittedProducts(data).length} admitted.`,
+  `Validated ${data.products.length} product records, ${data.companies.length} company records, ${data.sources.length} sources and ${categories.size} categories. ${selectAdmittedProducts(data, data.updatedAt).length} admitted at review date.`,
 );

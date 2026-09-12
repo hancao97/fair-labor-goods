@@ -9,27 +9,44 @@ export const defaults = {
   sort: "evidence",
 };
 
-// Published policies and audits of suppliers are not proof of actual weekly schedules.
-export function isAdmitted(product, company) {
+const today = () => new Date().toISOString().slice(0, 10);
+const dated = (value) => typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value) &&
+  !Number.isNaN(Date.parse(value)) && new Date(value).toISOString().slice(0, 10) === value;
+
+// A government assessment applies to its named employer and assessment period.
+// A brand's policies, unknown upstream stages or a weekly schedule alone are not a legal verdict.
+export function getLaborAssessment(product, company, onDate = today()) {
+  const labor = product.admission?.productionLabor;
+  const production = product.admission?.chinaProduction;
+  if (!company || product.companyId !== company.id ||
+      production?.status !== "supported" || !production.subject?.trim() ||
+      labor?.status !== "supported" || !labor.sourceIds?.includes(labor.assessmentSourceId)) return undefined;
+  const assessments = (company.assessments || []).filter((a) =>
+    a.kind === "government-labor-rating" && a.subject === production.subject,
+  );
+  return assessments.find((a) =>
+    a.sourceId === labor.assessmentSourceId && a.grade === "A" && a.status === "current" &&
+    [a.periodStart, a.periodEnd, a.reviewedAt, a.reviewDueAt, onDate].every(dated) &&
+    a.periodStart <= a.periodEnd && a.periodEnd <= a.reviewedAt &&
+    a.reviewedAt <= onDate && onDate < a.reviewDueAt &&
+    !assessments.some((newer) => newer.periodEnd > a.periodEnd ||
+      (newer.periodEnd === a.periodEnd && newer.sourceId !== a.sourceId && newer.reviewedAt >= a.reviewedAt)),
+  );
+}
+export function isAdmitted(product, company, onDate = today()) {
   const checks = product.admission;
   return Boolean(checks && company &&
     [checks.chinaSale, checks.chinaProduction, checks.productionLabor].every(
       (check) => check?.status === "supported" && check.sourceIds?.length > 0,
-    ) && hasVerifiedChain(company)
+    ) && getLaborAssessment(product, company, onDate)
   );
 }
-export function selectAdmittedProducts(data) {
+export function selectAdmittedProducts(data, onDate = today()) {
   const companies = new Map(data.companies.map((c) => [c.id, c]));
-  return data.products.filter((p) => isAdmitted(p, companies.get(p.companyId)));
+  return data.products.filter((p) => isAdmitted(p, companies.get(p.companyId), onDate));
 }
 export function hasVerifiedChain(company) {
   return (
-    company.actualHoursVerified === true &&
-    company.actualRestVerified === true &&
-    typeof company.hours === "number" &&
-    company.hours <= 40 &&
-    typeof company.restDays === "number" &&
-    company.restDays >= 2 &&
     Array.isArray(company.supply) && company.supply.length >= 3 &&
     company.supply.every(
       (s) => s.status === "verified" && s.sourceIds.length > 0,
@@ -65,7 +82,7 @@ export function selectProducts(data, filters, savedIds = []) {
   });
   if (filters.sort === "name")
     return selected.sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
-  const priority = { disclosure: 0, hiring: 1, research: 2 };
+  const priority = { assessment: 0, disclosure: 1, hiring: 2, research: 3 };
   return selected.sort(
     (a, b) =>
       priority[companies.get(a.companyId).level] -
@@ -81,7 +98,7 @@ export function readFilters(search, categoryIds) {
     query: (p.get("q") || "").slice(0, 200),
     need: (p.get("need") || "").slice(0, 50),
     origin: p.get("origin") === "china" ? "china" : "all",
-    evidence: ["disclosure", "hiring", "research"].includes(p.get("evidence"))
+    evidence: ["assessment", "disclosure", "hiring", "research"].includes(p.get("evidence"))
       ? p.get("evidence")
       : "all",
     supply: p.get("supply") === "verified",
