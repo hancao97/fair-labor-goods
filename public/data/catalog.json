@@ -6275,6 +6275,114 @@
       "locator": "原始商品页：云朵书包2.0PLUS版、凌云CX5052、24L，报价与购买入口",
       "summary": "查阅日页面列CX5052、24L，人民币299—349元、库存8件及立即购买入口。主图和已查看的部分详情图展示本款书包，店铺介绍提及海宁、沭阳两处生产基地。",
       "limitation": "报价和库存为查阅时整个商品页展示，不保证某配色或所有地区可售。主图展示两种颜色，不表示双包装。店名及微信认证为页面自述，未独立确认品牌授权；所看详情图没有本款具名制造标签，不用一般工厂照片确定CX5052实际生产企业。"
+    },
+    {
+      "id": "menglan-official-profile",
+      "title": "梦兰集团官网：家纺业务与常熟地址",
+      "publisher": "江苏梦兰集团",
+      "type": "企业介绍",
+      "url": "http://www.menglan.com/content/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始首页的集团介绍及具名页脚",
+      "summary": "官网介绍集团始于1972年，业务包含家纺，页脚列江苏常熟市虞山镇。",
+      "limitation": "原始HTML已读取；可见新闻多为2015—2019年，不把网站本次可访问等同于资料近期更新。官网没有把所选低枕与珞珰花语夏凉被指定给具名制造法人，集团历史荣誉不作为现时劳动评价。"
+    },
+    {
+      "id": "menglan-changshu-labor2023",
+      "title": "2023年度常熟市劳动保障A级名单中的梦兰线索",
+      "publisher": "常熟市人民政府网站",
+      "type": "政府劳动评价名单线索",
+      "url": "https://www.changshu.gov.cn/zgcs/c107475/202412/930df621a306426fa74c812301bd9010/files/79d2770b9f864cf6ac691a1f90789879.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "附件标题及公开检索文字：印刷第27页江苏梦兰集团有限公司",
+      "summary": "公开检索文字列江苏梦兰集团有限公司，附件标题对应2023年度劳动保障A级诚信单位名单。",
+      "limitation": "名单标题及索引文字可读取，直接原件下载发生重定向失败，定位完整企业页时再次读取失败，未完成该页图像核对。记录为2023年历史线索，未将上传目录年份当成评价年度或发布日期，未取得更新原始结果；不据此认定所选现售商品的厂家或现时劳动状况。"
+    },
+    {
+      "id": "menglan-lowpillow48x74-jd",
+      "title": "梦兰低枕48×74cm、3cm高单只京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/16206284da08de86e9f5.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始卡片：货号10072265296647，3cm高、单只、低枕48×74cm",
+      "summary": "当前零售卡片列梦兰低枕48×74cm、3cm高、单只装，并提供独立商品入口和对应图片。",
+      "limitation": "原始HTML及对应原图已核对；画面堆叠多个展示枕头，不表示多只装。标题全棉不能扩展为填充物100%棉，抗菌宣传未独立核验；图片没有可读制造标签，具体地区供货以商家为准。"
+    },
+    {
+      "id": "menglan-luodangquilt200x230-jd",
+      "title": "梦兰珞珰花语夏凉被200×230cm、填充550g京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/hotitem/15248e8ee41bb47990cf8.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始卡片：货号10162585308399，珞珰花语200×230cm（填充550g）",
+      "summary": "当前卡片列梦兰珞珰花语夏凉被、200×230cm及填充550g，提供准确商品链接和对应花卉图案图片。",
+      "limitation": "原始HTML与原图已核对；550g指标题标注的填充重量，不是整被重量。展示床和枕头不属于本次被芯商品，图示纺织品A类不等于劳动守法A级；图片没有本款可读制造标签，不与漫调花容、云白或其他尺寸重量混用。"
+    },
+    {
+      "id": "loctek-official-manufacturing",
+      "title": "乐歌官网：集团身份与境内外生产基地",
+      "publisher": "乐歌人体工学科技股份有限公司",
+      "type": "企业制造资料",
+      "url": "https://www.loctek.com/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始首页企业介绍、发展历程及具名版权信息",
+      "summary": "官网列乐歌人体工学科技股份有限公司、宁波鄞州总部及证券代码300729；发展历程涉及宁波姜山、鄞州经济开发区、越南制造基地和广西北海产业园。",
+      "limitation": "官网已读取，但集团的多地制造布局没有指定所选E2桌板与桌架的实际生产企业。绿色工厂、质量及技术荣誉不是综合劳动结论；网页可持续发展栏目名称本身不充当已取得的劳动报告。"
+    },
+    {
+      "id": "loctek-e2-suning-origin",
+      "title": "乐歌E2苏宁参数中的宁波产地线索",
+      "publisher": "苏宁易购",
+      "type": "零售商品参数",
+      "url": "https://product.suning.com/0010359562/12443677932.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始商品参数：型号E2，产地中国浙江宁波市",
+      "summary": "同系列零售参数列E2及中国浙江宁波市产地。",
+      "limitation": "原始HTML已读，未列完整制造法人，也未把产地参数对应到所选京东白蜡木黑胡桃木色1.2m版本。尺寸栏混合多个长度且单位异常，不据此填写精确尺寸或确定本款实际厂家；本次销售依据另取当前准确京东卡片。"
+    },
+    {
+      "id": "loctek-e2-ash120-jd",
+      "title": "乐歌E2白蜡木黑胡桃木色1.2m书桌京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/14065b9d1d92baf783a01.html?electedExtAttrSet=14245%2C&extAttrValue=expand_name%2C%40101944%3A%3A14245&sort_type=sort_redissale_desc",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始卡片：100256090813，E2-1.2m白蜡木黑胡桃木色；选中黑胡桃木色桌板＋银灰桌腿",
+      "summary": "当前准确货号与选中项提供1.2m E2书桌的独立购买入口；对应图片为深木色桌板与银灰桌腿。",
+      "limitation": "当前原始卡片与搜索缓存的橡胶木原木色描述不同，采用当前100256090813所列白蜡木版本。黑胡桃木色是颜色，不表示黑胡桃木材；图中电脑、椅子及配件未算入商品，促销图片不是本次报价，制造铭牌尚未取得。"
+    },
+    {
+      "id": "mlily-annual2025-employment",
+      "title": "梦百合2025年报：制造基地与薪酬制度",
+      "publisher": "梦百合家居科技股份有限公司（新浪财经载公告正文）",
+      "type": "企业年度报告",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12262774",
+      "publishedAt": "2026-04-29",
+      "checkedAt": "2026-09-12",
+      "locator": "公告日期2026-04-29；公司基本情况、主要业务及报告期末员工情况／薪酬政策章节",
+      "summary": "年报列梦百合家居科技股份有限公司及如皋地址，生产基地分布境内、塞尔维亚、美国、泰国和西班牙。员工章节介绍生产一线计件（时）薪酬及五险一金等福利。",
+      "limitation": "取得的是公告HTML正文，未声称下载或逐页核对PDF。集团薪酬制度和财务审计不是本款床垫工厂的独立劳动审核；劳务外包不适用仅保留该章节范围，不能扩展为供应链没有外包。境内外员工汇总也不能用于推断生产者国籍。"
+    },
+    {
+      "id": "mlily-kuai2-180x200-jd",
+      "title": "梦百合快充2.0弹簧床垫1.8×2m京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/chanpin/64608.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始卡片文字及链接：货号100110830728，快充2.0弹簧床垫1.8米×2米",
+      "summary": "当前目录商品文字列梦百合快充2.0、弹簧床垫、1.8×2m及独立商品入口；对应原图展示白色床垫和灰色侧边。",
+      "limitation": "原始HTML与对应原图已核对；快充Air、Air Pro、薄垫和其他尺寸不合并。图片内排名、护脊与促销说法未独立证实，不能作医学效果或当前报价；床、枕头不算入本次床垫，制造标签尚未取得。"
     }
   ],
   "companies": [
@@ -13770,6 +13878,180 @@
         }
       ],
       "nextCheck": "有CX5052具名标签或与实际制造企业对应的新劳动资料时继续；旧称号、其他法人的历史个案不充当本款现时结论。"
+    },
+    {
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用工时依据待补",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "menglan-group",
+      "name": "梦兰",
+      "legalName": "江苏梦兰集团有限公司",
+      "location": "江苏常熟（集团官网地址）",
+      "origin": "china",
+      "originNote": "官网介绍境内创立的家纺集团，常熟名单提供法人名称线索；所选商品制造企业另行核验，不从品牌或地址推断员工国籍。",
+      "cardNote": "历史劳动名单线索 · 本款厂家待核",
+      "scope": "梦兰品牌集团介绍和2023年劳动名单线索；没有将两款现售枕被自动归为集团法人制造。",
+      "finding": "已有低枕及夏凉被的准确国内零售入口。历史名单检索文字涉及江苏梦兰集团有限公司，但原企业页复核未完成，现售商品标签也未对应具名厂家，保留待核。",
+      "caveats": [
+        "2023年历史名单不自动代表2026年生产情况；未查到更新原始资料不等于企业违法或评级被撤回。",
+        "旧官网集团资料没有指定所选低枕或珞珰花语夏凉被的生产企业。",
+        "商品图片的纺织品A类、质量合格和企业文明称号，均不替代劳动守法评价。"
+      ],
+      "sourceIds": [
+        "menglan-official-profile",
+        "menglan-changshu-labor2023",
+        "menglan-lowpillow48x74-jd",
+        "menglan-luodangquilt200x230-jd"
+      ],
+      "assessments": [
+        {
+          "subject": "江苏梦兰集团有限公司",
+          "result": "2023年度劳动保障A级名单公开检索线索",
+          "period": "2023年度",
+          "sourceId": "menglan-changshu-labor2023",
+          "limitation": "本次未完成企业名单页原图核对，未取得更新适用结果，所选现售商品实际厂家也未对应；保留为历史线索，不作为当前收录依据。"
+        }
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "京东准确货号分别对应低枕48×74cm、3cm高单只及珞珰花语夏凉被200×230cm、填充550g。",
+          "sourceIds": [
+            "menglan-lowpillow48x74-jd",
+            "menglan-luodangquilt200x230-jd"
+          ]
+        },
+        {
+          "stage": "具体商品制造",
+          "status": "unknown",
+          "detail": "官网提供家纺业务线索，但两款现售商品的实际制造法人和适用劳动依据尚未对应。",
+          "sourceIds": [
+            "menglan-official-profile",
+            "menglan-changshu-labor2023"
+          ]
+        },
+        {
+          "stage": "面料填充与零售配送",
+          "status": "unknown",
+          "detail": "其他雇主和原料资料保留补充调查，不将全供应链逐人记录设为收录前提。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现两款商品具名制造标签、可读取的适用劳动评价或工厂独立审核时再对应；没有新原始结果，不重复旧名单和访问失败路径。"
+    },
+    {
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用工时依据待补",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "loctek-group",
+      "name": "乐歌",
+      "legalName": "乐歌人体工学科技股份有限公司",
+      "location": "浙江省宁波市鄞州区（集团总部）",
+      "origin": "china",
+      "originNote": "官网具名宁波创立的集团和境内外制造基地；中国品牌身份与具体E2书桌的制造地分别核验。",
+      "cardNote": "E2现售型号已核 · 制造与劳动待补",
+      "scope": "乐歌集团官网与E2系列零售资料；未将集团总部指定为所选书桌的生产厂。",
+      "finding": "E2白蜡木黑胡桃木色1.2m版本有准确国内销售卡片。同系列苏宁参数列宁波产地，但没有本款具名厂家；官网境内外制造基地介绍尚未补成所选生产企业的劳动依据。",
+      "caveats": [
+        "集团宁波总部及中国品牌身份不能代替本款制造法人或厂址。",
+        "苏宁E2系列的产地参数未对应所选京东桌板、桌架版本。",
+        "绿色工厂等质量技术荣誉不是劳动评价，未找到劳动结果也不说明违法。"
+      ],
+      "sourceIds": [
+        "loctek-official-manufacturing",
+        "loctek-e2-suning-origin",
+        "loctek-e2-ash120-jd"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "当前京东100256090813对应E2、1.2m、白蜡木黑胡桃木色桌板及银灰桌腿。",
+          "sourceIds": [
+            "loctek-e2-ash120-jd"
+          ]
+        },
+        {
+          "stage": "桌板桌架制造",
+          "status": "unknown",
+          "detail": "同系列有宁波零售产地线索，集团有多地生产基地，本款实际制造企业与劳动依据尚未确认。",
+          "sourceIds": [
+            "loctek-e2-suning-origin",
+            "loctek-official-manufacturing"
+          ]
+        },
+        {
+          "stage": "材料与配送安装用工",
+          "status": "unknown",
+          "detail": "相关供应商与安装雇主保留补充调查，按各自适用范围记录。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "获得所选100256090813的制造铭牌、明确对应资料或适用劳动审核后继续；不将不同材质版本和泛化集团荣誉反复作为本款证据。"
+    },
+    {
+      "level": "disclosure",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "年报未列适用工时数值",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "mlily-group",
+      "name": "梦百合",
+      "legalName": "梦百合家居科技股份有限公司",
+      "location": "江苏省如皋市丁堰镇皋南路999号（年报注册地址）",
+      "origin": "china",
+      "originNote": "中国上市家居集团，年报披露境内与多国制造基地；总部地址、品牌和集团员工统计均不能确定所选床垫产地或工人国籍。",
+      "cardNote": "年报披露薪酬 · 本款工厂待对应",
+      "scope": "集团2025年报薪酬与生产基地披露；不作为快充2.0床垫实际工厂的具名劳动评价。",
+      "finding": "2025年报介绍生产一线计件（时）薪酬及五险一金等福利，并列境内外生产基地。快充2.0弹簧床垫1.8×2m已找到国内具体入口，制造标签及对应劳动依据待补。",
+      "caveats": [
+        "集团制度披露未单独确定所选床垫制造企业及其劳动情况。",
+        "财务报表审计的对象与工厂劳动审核不同，不能移用结论。",
+        "年报劳务外包不适用不表示整个供应链无外包，境内外合计员工人数也不是国籍资料。"
+      ],
+      "sourceIds": [
+        "mlily-annual2025-employment",
+        "mlily-kuai2-180x200-jd"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "京东货号100110830728列快充2.0弹簧床垫1.8×2m的具体购买入口。",
+          "sourceIds": [
+            "mlily-kuai2-180x200-jd"
+          ]
+        },
+        {
+          "stage": "具体床垫制造",
+          "status": "unknown",
+          "detail": "集团有境内外生产基地，但目前所看零售图没有本款具名制造标签或适用工厂的劳动结果。",
+          "sourceIds": [
+            "mlily-annual2025-employment",
+            "mlily-kuai2-180x200-jd"
+          ]
+        },
+        {
+          "stage": "集团薪酬与其他雇主",
+          "status": "policy",
+          "detail": "年报说明生产一线计件（时）薪酬及福利，作为集团制度披露保留；不扩展为供应商、经销与配送人员的统一情况。",
+          "sourceIds": [
+            "mlily-annual2025-employment"
+          ]
+        }
+      ],
+      "nextCheck": "有快充2.0准确制造标签或可适用实际生产企业的政府综合评价、独立劳动审核后再核；不重复把年报财务审计寻找为劳动认证。"
     }
   ],
   "products": [
@@ -23487,6 +23769,222 @@
           ]
         }
       }
+    },
+    {
+      "id": "menglan-lowpillow48x74-3cm",
+      "name": "低枕48×74cm · 3cm高单只",
+      "brand": "梦兰",
+      "companyId": "menglan-group",
+      "category": "home",
+      "needs": [
+        "枕头"
+      ],
+      "description": "梦兰低枕，所选48×74cm、3cm高、单只装。规格以对应京东货号为准，图中叠放多个枕头仅为展示。",
+      "tags": [
+        "枕头",
+        "低枕",
+        "48×74cm",
+        "3cm高",
+        "单只"
+      ],
+      "url": "https://item.jd.com/10072265296647.html",
+      "market": "京东货号10072265296647有准确规格及独立商品入口，具体地区库存和结算价以商家为准。",
+      "relationship": "准确零售卡片对应梦兰品牌，集团官网说明家纺业务；所选枕头制造标签尚未取得，历史名单法人作为进一步核查线索。",
+      "relationshipSourceIds": [
+        "menglan-lowpillow48x74-jd",
+        "menglan-official-profile",
+        "menglan-changshu-labor2023"
+      ],
+      "image": "images/menglan-lowpillow48x74-3cm.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/206520/39/31867/36988/642b9226F6e9c147e/eaf5f74d512fc12a.jpg",
+      "imageRights": "梦兰品牌、京东零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日京东原始卡片提供10072265296647、48×74cm低枕、3cm高单只的具体入口。",
+          "sourceIds": [
+            "menglan-lowpillow48x74-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "当前零售图未提供本款具名制造标签，不能从品牌集团官网的常熟地址直接确定生产企业。",
+          "sourceIds": [
+            "menglan-lowpillow48x74-jd",
+            "menglan-official-profile"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "梦兰2023年劳动名单仅保留已读取范围的历史线索，尚未形成与本款实际制造企业对应的适用劳动依据。",
+          "sourceIds": [
+            "menglan-changshu-labor2023"
+          ]
+        }
+      }
+    },
+    {
+      "id": "menglan-luodangquilt200x230-550g",
+      "name": "珞珰花语夏凉被200×230cm（填充550g）",
+      "brand": "梦兰",
+      "companyId": "menglan-group",
+      "category": "home",
+      "needs": [
+        "被芯"
+      ],
+      "description": "珞珰花语印花夏凉被，所选200×230cm，商品标题标注填充550g。属于薄被商品，展示床和枕头不算入本次购买内容。",
+      "tags": [
+        "被芯",
+        "夏凉被",
+        "珞珰花语",
+        "200×230cm",
+        "填充550g"
+      ],
+      "url": "https://item.jd.com/10162585308399.html",
+      "market": "京东货号10162585308399提供准确花型、尺寸与填充重量的购买入口；其他花型、季节厚度和地区供货另核。",
+      "relationship": "零售卡片明确梦兰品牌与珞珰花语规格，集团家纺介绍没有将本款指定给具名生产法人。",
+      "relationshipSourceIds": [
+        "menglan-luodangquilt200x230-jd",
+        "menglan-official-profile"
+      ],
+      "image": "images/menglan-luodangquilt200x230-550g.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/441789/36/9419/181424/6a1a7164Fe7ddf6cc/00835a05a013a958.jpg",
+      "imageRights": "梦兰品牌、京东零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日原始零售卡片列10162585308399、珞珰花语200×230cm（填充550g）及对应独立入口。",
+          "sourceIds": [
+            "menglan-luodangquilt200x230-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "准确花型规格已核，但所看图片没有本款制造标签；其他梦兰历史被芯样品的生产商不直接移用于现售本款。",
+          "sourceIds": [
+            "menglan-luodangquilt200x230-jd",
+            "menglan-official-profile"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未把本款实际生产企业与适用劳动评价或独立审核对应；2023年名单线索和图示纺织品A类分别保留各自范围。",
+          "sourceIds": [
+            "menglan-changshu-labor2023",
+            "menglan-luodangquilt200x230-jd"
+          ]
+        }
+      }
+    },
+    {
+      "id": "loctek-e2-ash120-walnut",
+      "name": "E2升降书桌1.2m · 白蜡木黑胡桃木色",
+      "brand": "乐歌",
+      "companyId": "loctek-group",
+      "category": "home",
+      "needs": [
+        "书桌"
+      ],
+      "description": "E2电动升降书桌，1.2m白蜡木桌板、黑胡桃木色，选中银灰桌腿。材质与颜色来自当前准确商品卡片，图中电脑和椅子不计入书桌。",
+      "tags": [
+        "书桌",
+        "E2",
+        "1.2m",
+        "白蜡木",
+        "黑胡桃木色",
+        "银灰桌腿"
+      ],
+      "url": "https://item.jd.com/100256090813.html",
+      "market": "京东100256090813对应当前选中版本，报价、送装服务和地区交付以商家为准。",
+      "relationship": "官网具名乐歌集团及多地制造基地，苏宁E2系列有宁波产地线索，但还没有所选白蜡木版本的具名制造对应。",
+      "relationshipSourceIds": [
+        "loctek-e2-ash120-jd",
+        "loctek-official-manufacturing",
+        "loctek-e2-suning-origin"
+      ],
+      "image": "images/loctek-e2-ash120-walnut.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/520253/15/7241/147334/6aa2593bF4f06b959/00833203204cd884.jpg",
+      "imageRights": "乐歌品牌、京东零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日原始卡片及选中项对应E2-1.2m白蜡木黑胡桃木色、银灰桌腿，提供100256090813独立入口。",
+          "sourceIds": [
+            "loctek-e2-ash120-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "苏宁同系列零售参数列宁波产地，但未将该信息或完整制造法人对应到本款桌板桌架；集团还披露境外基地，具体制造仍待核。",
+          "sourceIds": [
+            "loctek-e2-suning-origin",
+            "loctek-official-manufacturing",
+            "loctek-e2-ash120-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得可对应本款实际制造企业的综合劳动评价或独立审核，官网质量与技术荣誉不能代替。",
+          "sourceIds": [
+            "loctek-official-manufacturing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mlily-kuai2-mattress180x200",
+      "name": "快充2.0弹簧床垫1.8×2m",
+      "brand": "梦百合",
+      "companyId": "mlily-group",
+      "category": "home",
+      "needs": [
+        "床垫"
+      ],
+      "description": "快充2.0系列双人弹簧床垫，所选1.8×2m。准确型号与尺寸来自零售卡片，不与Air、Air Pro或薄垫版本合并。",
+      "tags": [
+        "床垫",
+        "快充2.0",
+        "弹簧床垫",
+        "1.8×2m"
+      ],
+      "url": "https://item.jd.com/100110830728.html",
+      "market": "京东货号100110830728提供所选1.8×2m床垫的具体入口，当前报价及地区配送以商家为准。",
+      "relationship": "当前零售卡片对应梦百合快充2.0，2025年报确认品牌集团及境内外基地；所选床垫的制造标签尚未取得。",
+      "relationshipSourceIds": [
+        "mlily-kuai2-180x200-jd",
+        "mlily-annual2025-employment"
+      ],
+      "image": "images/mlily-kuai2-mattress180x200.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img14.360buyimg.com/n7/jfs/t1/520507/21/6411/104835/6aa4b311F0cdc022e/008332032027e745.jpg",
+      "imageRights": "梦百合品牌、京东零售图片提供方及原摄影和模特相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日原始卡片正文列快充2.0、弹簧床垫、1.8×2m及100110830728的独立商品入口。",
+          "sourceIds": [
+            "mlily-kuai2-180x200-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "集团年报列境内外多处生产基地，当前图片没有本款具名制造标签，不能据如皋总部直接判断此款产地。",
+          "sourceIds": [
+            "mlily-annual2025-employment",
+            "mlily-kuai2-180x200-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "年报生产一线薪酬福利属于集团自述，财务审计也不是劳动审核；本款实际工厂及其适用劳动依据待对应。",
+          "sourceIds": [
+            "mlily-annual2025-employment"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -24041,12 +24539,19 @@
           "query": "台灯"
         }
       ],
-      "note": "新增含床单、被套的明确四件套和 80×140cm 浴巾；款式名不等于产地，制造商、织造及原料劳动条件仍需核对。枕头、被芯、床垫和书桌继续调查。",
+      "note": "家居11项需求均有具体研究资料，尚无正式收录。新增梦兰低枕48×74cm、珞珰花语夏凉被200×230cm、乐歌E2白蜡木1.2m书桌和梦百合快充2.0床垫1.8×2m，已有准确国内销售入口，实际制造企业及适用劳动依据待对应；其他床品、家具与台灯保留各自缺口。",
       "sourceIds": [
         "mercury-campus",
         "lianyou-hiring",
         "winner-tianmen-hiring-2024",
-        "purcotton-brand"
+        "purcotton-brand",
+        "menglan-lowpillow48x74-jd",
+        "menglan-luodangquilt200x230-jd",
+        "menglan-changshu-labor2023",
+        "loctek-e2-ash120-jd",
+        "loctek-e2-suning-origin",
+        "mlily-kuai2-180x200-jd",
+        "mlily-annual2025-employment"
       ]
     },
     {
