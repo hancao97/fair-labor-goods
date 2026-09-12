@@ -2094,7 +2094,7 @@
       "publisher": "重庆百亚卫生用品股份有限公司（报告由东方财富托管）",
       "url": "https://pdf.dfcfw.com/pdf/H2_AN202604171821292475_1.pdf",
       "summary": "员工章节披露工时与加班补偿、合同、社保及薪酬制度；供应商章节列准入、现场审核和质量绩效管理。",
-      "limitation": "属于企业报告，未提供具体卫生巾产线每周 40 小时、每周两天休息的独立履行记录；供应商质量考核不能替代劳动审查。",
+      "limitation": "属于企业报告，尚未与所选卫生巾实际生产企业的适用综合劳动评价或独立审核对应；供应商质量考核不能替代劳动审查。每周双休或公开逐人考勤不是统一收录条件。",
       "publishedAt": "2026-04-18",
       "checkedAt": "2026-09-12",
       "locator": "PDF 第 35 页（印刷页 65—66）、第 31 页（印刷页 57—58）",
@@ -2166,7 +2166,7 @@
       "publisher": "十月稻田集团股份有限公司（香港交易所披露）",
       "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042402648_c.pdf",
       "summary": "报告披露工时与休假合规制度、五险一金及沈阳信昌工厂的职工沟通；原粮、包材和物流供应商另有管理流程。",
-      "limitation": "企业自报制度及供应商管理不等于具体分装岗位和种植、运输人员的独立履行记录；未披露可对应该款的每周 40 小时及每周两天休息数据。",
+      "limitation": "企业自报制度与供应商管理尚未补成所选商品实际生产用人单位的适用劳动依据。种植、运输等其他雇主保留补充调查，不额外要求全供应链逐人记录或统一每周双休。",
       "publishedAt": "2026-04-24",
       "checkedAt": "2026-09-12",
       "locator": "PDF 第 18 页（印刷 32—33）、第 29—30 页（印刷 54—57）及第 34 页（印刷 64—65）",
@@ -2850,7 +2850,7 @@
       "publisher": "浙江森马服饰股份有限公司（公告附件）",
       "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-3/2026-03-31/12040768.PDF",
       "summary": "报告列森马、巴拉巴拉品牌，披露产品采用 OEM、ODM 外包生产；员工章节同时列标准制每日 8 小时、每周 40 小时及综合、不定时工时，供应商有劳工权益评估与整改机制。",
-      "limitation": "标准制不能推广至所有岗位或代工厂，外包生产不代表境外生产。未取得所选货号的制造商、实际班组工时与每周两天休息记录；公司和供应商管理披露不构成商品劳动认证。",
+      "limitation": "标准制不能推广至所有岗位或代工厂，外包生产不代表境外生产。尚缺所选货号实际制造商及适用的政府劳动评价或独立审核；集团制度、供应商管理披露不自动得出本款工厂的劳动合规结论。",
       "publishedAt": "2026-03-31",
       "checkedAt": "2026-09-12",
       "locator": "PDF 第 2、8—9、39、44—45 页；图像报告按原页目视核对",
@@ -6179,6 +6179,102 @@
       "locator": "2026-09-12查询；货号000000000105794285、商家0000000000的saleInfo",
       "summary": "公开查询返回空价格、状态2、库存状态3，原因代码XY1002，说明为自营页面区域寻源未返回供货所需信息。该次查询未获得可售供货信息。",
       "limitation": "使用公开页面参数和同一公开地区样例，以访客方式只读查询。此结果只用于记录当前销售缺口，不能推断所有地区无货、产品质量或生产企业劳动状况。"
+    },
+    {
+      "id": "doubendou-weizhen250x24-jd",
+      "title": "豆本豆唯甄豆奶250mL×24盒京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/1320f5bf760ac15c1a20.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始目录：货号100002254564、250mL×24盒及对应商品图",
+      "summary": "当前零售卡片列豆本豆唯甄豆奶250mL×24盒，提供独立商品链接；对应原图为绿色唯甄包装。",
+      "limitation": "目录原始HTML及所选图片已读取、目视；直接数字货号页仅返回通用框架。图片促销价不是本次实时报价，16盒、红枣味、有机或其他箱数不与本款混用。图片未显示可读制造背标，渠道存在不保证各地区库存。"
+    },
+    {
+      "id": "doubendou-weizhen250-chengdu-sampling2024",
+      "title": "四川2024年第11号合格食品抽检：成都达利唯甄豆奶250mL",
+      "publisher": "四川省市场监督管理局",
+      "type": "政府食品抽检资料",
+      "url": "https://scjgj.sc.gov.cn/scjgj/c104536/2024/6/27/804217180c364dc2b0bffb1d071930c6/files/%E9%99%84%E4%BB%B62-%E5%90%88%E6%A0%BC-2024%E5%B9%B4%E7%AC%AC11%E5%8F%B7%E9%A3%9F%E5%93%81%E6%8A%BD%E6%A3%80%E4%BF%A1%E6%81%AF.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "附件《食品安全监督抽检产品合格信息（2024年第11号）》首张表第10行；公开PDF文字读取",
+      "summary": "表中豆本豆唯甄豆奶250mL/盒、生产日期2024-03-02，标称成都达利食品有限公司，厂址成都市新都区斑竹园镇新斑公路旁。",
+      "limitation": "本次取得公开PDF文字内容，未完成表页图像核对；直接下载失败，后续再次读取超时，未反复请求。仅是历史同名同容量食品抽检批次，不能把合格结论用作劳动评价，也未把现售24盒装的实际制造商直接定为成都厂。"
+    },
+    {
+      "id": "balabala-208226117206-jd",
+      "title": "巴拉巴拉208226117206米白10302短袖京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/13197697780810da964d.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始目录货号100278679420；款号208226117206，选项米白10302、合体型",
+      "summary": "当前目录列balaOne儿童短袖T恤208226117206及独立商品入口，选项为米白10302、合体型。对应图片展示米白短袖及黄色果实图案。",
+      "limitation": "已核原始卡片、选项和原图；直接数字货号页仅返回通用框架。尺码及制造吊牌尚未取得，模特所戴帽子不属于本次T恤。图示促销价不是当前报价；不能借用其他年份208223117210的抽检制造记录。"
+    },
+    {
+      "id": "xtep-2000km5pro-black42-jd",
+      "title": "特步两千公里5代PRO黑／煤黑42码京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/hprm/9987ff8227594160133b.html?electedExtAttrSet=18296%2C&extAttrValue=expand_name%2C%40102686%3A%3A18296&sort_type=sort_default",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始目录货号10208007456622：黑/煤黑【进化黑马】，42码，商家另注新法码42.5",
+      "summary": "零售卡片提供两千公里5代PRO男款黑/煤黑、42码的具体入口；对应图片为黑色跑鞋，商品名称与5.0PRO标识相符。",
+      "limitation": "原始HTML、具体卡片及其原图已查看；直接数字货号页仅返回通用框架。脚长与新法码为商家标注，不作为通用尺码建议；其他配色、秋冬版、非PRO五代和三代不混用。没有制造标签，图片促销价不代表当前结算价格。"
+    },
+    {
+      "id": "xtep-esg-2025-labor",
+      "title": "特步2025年ESG报告：自有工厂、外包制造及劳工管理",
+      "publisher": "特步国际控股有限公司（官网链接至irasia原始报告）",
+      "type": "企业ESG报告",
+      "url": "https://doc.irasia.com/listco/hk/xtep/annual/2025/cesr.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF第4、18、26—28页（印刷4—5、32—33、48—53页），原页图像已核对",
+      "summary": "报告期为2025年，ESG数据列五间自产工厂；披露最低工资、加班监控、社保与假期政策。年内66%鞋类及91%服装制造外包，与中国内地144家供应商合作；供应商现场评估包含工资福利、工作时数、休息及劳动保护。",
+      "limitation": "集团披露和内部供应商审核未对应所选5代PRO的实际生产法人。报告提到接受第三方SMETA、BSCI等资料进行供应商工资评估，但未取得本款工厂的具名原始审核；不把这些私人标准额外设为必备条件。门店及部分品牌数据另有限制，19.4%流失率的排除项只适用于该指标，不能扩大到全部员工数据。"
+    },
+    {
+      "id": "xtep-esg-2025-assurance",
+      "title": "香港品质保证局对特步2025年ESG报告的独立有限鉴证",
+      "publisher": "香港品质保证局（特步官网公开原件）",
+      "type": "ESG披露独立有限鉴证",
+      "url": "https://www.xtep.com.hk/tc/sustainability/sdreport/independent_assurance_2025.pdf",
+      "publishedAt": "2026-06-23",
+      "checkedAt": "2026-09-12",
+      "locator": "全部3页原图及文字；2026-06-23签署，参考编号15004262",
+      "summary": "鉴证以香港交易所上市规则附录C2的ESG报告守则为披露准则，依ISSA5000作有限鉴证，结论针对报告是否按该准则编制。程序包括管理层访谈、文件记录和抽样审阅。",
+      "limitation": "这是有明确范围的独立鉴证，评价对象为ESG报告披露，不是所选跑鞋工厂的中国劳动守法结论。公开件来自发行人官网，未另在机构登记系统验证；所引用的其他附录未取得。不能把集团报告鉴证改记成具体工厂的独立劳动审核。"
+    },
+    {
+      "id": "caarany-official-production",
+      "title": "卡拉羊官网列品牌经营者与两家境内生产企业",
+      "publisher": "浙江卡拉扬集团有限公司",
+      "type": "企业制造资料",
+      "url": "https://www.caaran-y.com/MainProducts/index.aspx",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "主营产品页面具名页脚：品牌经营、生产企业及厂址",
+      "summary": "官网列品牌经营者上海卡拉扬箱包有限公司，生产企业浙江卡拉扬集团有限公司（海宁周王庙镇桑梓南路26号）和江苏卡拉扬商务休闲用品有限公司（沭阳台北大道8号）。",
+      "limitation": "原始HTML已读取，制造企业与品牌经营者分开记录；页面没有把CX5052指定给其中一家工厂。页内人体工学宣传不作为医学效果或劳动合规证据，版权年份不是资料发布日期。"
+    },
+    {
+      "id": "caarany-cx5052-youzan",
+      "title": "卡拉羊凌云CX5052云朵书包24L有赞零售页",
+      "publisher": "有赞店铺（页面名“卡拉羊官方旗舰店”）",
+      "type": "零售商品资料",
+      "url": "https://detail.youzan.com/show/goods?from_source=gbox_seo&alias=3errnsrdcma9trf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始商品页：云朵书包2.0PLUS版、凌云CX5052、24L，报价与购买入口",
+      "summary": "查阅日页面列CX5052、24L，人民币299—349元、库存8件及立即购买入口。主图和已查看的部分详情图展示本款书包，店铺介绍提及海宁、沭阳两处生产基地。",
+      "limitation": "报价和库存为查阅时整个商品页展示，不保证某配色或所有地区可售。主图展示两种颜色，不表示双包装。店名及微信认证为页面自述，未独立确认品牌授权；所看详情图没有本款具名制造标签，不用一般工厂照片确定CX5052实际生产企业。"
     }
   ],
   "companies": [
@@ -8142,11 +8238,11 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "报告披露供应商劳动整改事项",
       "scope": "2022 年记录对应安踏（中国）有限公司；2025 年 ESG 属安踏体育集团范围，各制造与供应法人分别核对。",
-      "finding": "集团 2025 年报告披露供应商审核发现加班超时、社保覆盖不足等问题。历史示范称号与集团整改管理均不足以证明具体商品的全链实际劳动条件。",
+      "finding": "集团2025年报告披露供应商审核发现加班超时、社保覆盖不足等问题。历史称号及集团整改说明尚未与所选商品的实际生产企业对应，不能直接得出本款劳动合规结论。",
       "caveats": [
         "报告未把审核发现对应到具体商品和工厂，不能推定每个供应商均存在同样问题。",
         "CAP 达标包含提出有效整改方案，不等于全部问题已经完成实际整改。",
-        "所选商品的制造、原料及物流岗位仍需实际工时、逐周休息与其他劳动履行依据。"
+        "所选商品仍需对应实际制造企业及适用劳动依据；原料、物流等其他雇主另作补充调查，不要求全链逐人考勤才能收录。"
       ],
       "sourceIds": [
         "national-harmony-2022",
@@ -10226,14 +10322,15 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "外包制衣 · 多种工时制度",
       "scope": "2025 年上市公司及分子公司报告；自有员工、加盟门店与 OEM、ODM 制造商采用不同证据核验。",
-      "finding": "报告明确产品外包生产；标准制每周 40 小时与综合、不定时制度并列，没有各款代工班组的实际工时和每周休息记录。",
+      "finding": "报告明确产品外包生产，标准制每周40小时与综合、不定时工时制度并列；所选服装的实际代工企业及适用劳动依据尚未对应。",
       "caveats": [
         "品牌运营或仓储所在地不能充当衣服制造地。",
         "标准工时披露不证明全部岗位适用，更不能直接覆盖供应商。",
-        "供应商评估和整改机制不能替代所选货号的产线实际记录；未把外包生产写成境外生产。"
+        "供应商评估和整改机制尚未与所选货号的实际制造企业及具体审核结论关联；外包生产不等于境外生产。"
       ],
       "sourceIds": [
-        "semir-esg-2025-labor"
+        "semir-esg-2025-labor",
+        "balabala-208226117206-jd"
       ],
       "supply": [
         {
@@ -13512,6 +13609,167 @@
         }
       ],
       "nextCheck": "出现DD40P、220V／620W的明确新销售入口或补货信息再核；同一空货源查询没有新线索不重复。持续关注该法人的更新劳动资料。"
+    },
+    {
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用工时依据待补",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "dali-chengdu",
+      "name": "豆本豆 · 成都达利制造线索",
+      "legalName": "成都达利食品有限公司",
+      "location": "四川省成都市新都区斑竹园镇新斑公路旁",
+      "origin": "china",
+      "originNote": "历史政府抽检具名境内制造企业；中国品牌、工厂地点与所选商品实际制造对应分别记录，不从地点推断员工国籍。",
+      "cardNote": "历史抽检批次 · 现售制造商待核",
+      "scope": "2024-03-02生产的唯甄豆奶250mL历史抽检批次；未将所选现售24盒装直接归属成都厂。",
+      "finding": "四川2024年第11号食品抽检记录可把同名250mL豆奶对应成都达利；京东当前24盒装已有具体销售入口，但未见现售包装制造标签，也未取得适用该生产企业的综合劳动依据。",
+      "caveats": [
+        "食品抽检合格是食品安全结果，不是劳动守法评价。",
+        "集团、其他地区达利制造厂和成都厂是不同主体，不互相沿用劳动资料。",
+        "历史单盒规格与当前零售箱装分别记录，生产日期不冒充报告发布日期。"
+      ],
+      "sourceIds": [
+        "doubendou-weizhen250-chengdu-sampling2024",
+        "doubendou-weizhen250x24-jd"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "已核京东唯甄豆奶250mL×24盒的独立零售条目；地区供货以商家为准。",
+          "sourceIds": [
+            "doubendou-weizhen250x24-jd"
+          ]
+        },
+        {
+          "stage": "具体商品制造",
+          "status": "unknown",
+          "detail": "成都厂仅对应2024历史抽检样品，现售商品的实际灌装企业及适用劳动资料仍待确认。",
+          "sourceIds": [
+            "doubendou-weizhen250-chengdu-sampling2024"
+          ]
+        },
+        {
+          "stage": "原料与零售配送用工",
+          "status": "unknown",
+          "detail": "其他雇主作为补充调查，不把全链逐人记录设为商品收录前提。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现本款现售制造标签或适用厂家的具名劳动评价时再核；没有新增原始结果时，不重复检索集团招聘荣誉标签。"
+    },
+    {
+      "level": "disclosure",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "报告披露加班监控制度",
+      "restLabel": "报告披露假期制度",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "xtep-group",
+      "name": "特步",
+      "legalName": "特步国际控股有限公司",
+      "location": "香港上市集团；本款制鞋工厂待对应",
+      "origin": "china",
+      "originNote": "中国创立的品牌集团；集团旗下有自有与外包工厂，本款制造地和实际用人单位另行对应。",
+      "cardNote": "ESG获披露鉴证 · 本款工厂待核",
+      "scope": "集团2025年ESG披露及其独立有限鉴证；集团档案不充当两千公里5代PRO实际制造企业。",
+      "finding": "报告披露境内五间自产工厂和外包制造，供应商评估涉及工资、工时与休息。香港品质保证局的有限鉴证针对报告编制准则，未提供本款制鞋厂的中国劳动合规结论。",
+      "caveats": [
+        "2025年鞋类制造66%外包，集团或品牌名称不能代替本款制造标签。",
+        "ESG报告鉴证、供应商管理制度与具名工厂劳动审核的适用范围不同。",
+        "报告内地员工占比反映工作地区，不是员工国籍统计；数据排除项按各自范围保留。"
+      ],
+      "sourceIds": [
+        "xtep-esg-2025-labor",
+        "xtep-esg-2025-assurance",
+        "xtep-2000km5pro-black42-jd"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "京东提供5代PRO黑/煤黑42码的独立零售入口，不能与其他代次及版本混用。",
+          "sourceIds": [
+            "xtep-2000km5pro-black42-jd"
+          ]
+        },
+        {
+          "stage": "具体跑鞋制造",
+          "status": "unknown",
+          "detail": "集团有自产和外包制造，本款实际生产法人、厂址和适用劳动评价尚未对应。",
+          "sourceIds": [
+            "xtep-esg-2025-labor",
+            "xtep-esg-2025-assurance"
+          ]
+        },
+        {
+          "stage": "材料与其他供应商用工",
+          "status": "policy",
+          "detail": "报告介绍供应商劳工评估及申诉机制，作为补充线索；未用集团汇总披露担保每一家供应商。",
+          "sourceIds": [
+            "xtep-esg-2025-labor"
+          ]
+        }
+      ],
+      "nextCheck": "获得本款制造标签、工厂名称或可核验的具名劳动审核后继续对应；现有披露鉴证范围已核，不反复把同份文件寻找为产品认证。"
+    },
+    {
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用工时依据待补",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "caarany-zhejiang",
+      "name": "卡拉羊 · 生产企业线索",
+      "legalName": "浙江卡拉扬集团有限公司",
+      "location": "浙江省海宁市周王庙镇桑梓南路26号",
+      "origin": "china",
+      "originNote": "官网具名中国品牌经营者和海宁、沭阳生产企业；所选书包的实际厂址与制造法人另核。",
+      "cardNote": "官网列两家工厂 · 本款归属待核",
+      "scope": "官网列出的浙江生产企业；同页另列江苏卡拉扬，本次没有确定CX5052由哪一家制造。",
+      "finding": "CX5052、24L的有赞商品页有购买入口和报价。官网及零售详情能提供境内生产基地线索，但尚缺本款具名制造标签，以及适用实际工厂的劳动依据。",
+      "caveats": [
+        "品牌经营者上海卡拉扬与浙江、江苏制造企业分别记录，不自动合并用工评价。",
+        "一般生产基地照片没有把CX5052指定给某家工厂。",
+        "有赞店铺名称及认证文字为页面所示，品牌授权未独立核验。"
+      ],
+      "sourceIds": [
+        "caarany-official-production",
+        "caarany-cx5052-youzan"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "CX5052云朵书包24L有具体零售、报价及购买入口；配色和地区供货以商家选择为准。",
+          "sourceIds": [
+            "caarany-cx5052-youzan"
+          ]
+        },
+        {
+          "stage": "具体书包制造",
+          "status": "unknown",
+          "detail": "官网列海宁和沭阳两家生产企业，所看商品资料尚未确定本款实际制造法人。",
+          "sourceIds": [
+            "caarany-official-production",
+            "caarany-cx5052-youzan"
+          ]
+        },
+        {
+          "stage": "面料配件及零售配送用工",
+          "status": "unknown",
+          "detail": "其他用人单位保留补充调查，不要求全供应链均提供逐人考勤才收录。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "有CX5052具名标签或与实际制造企业对应的新劳动资料时继续；旧称号、其他法人的历史个案不充当本款现时结论。"
     }
   ],
   "products": [
@@ -23020,6 +23278,215 @@
           ]
         }
       }
+    },
+    {
+      "id": "doubendou-weizhen-soymilk250x24",
+      "name": "唯甄豆奶250mL×24盒",
+      "brand": "豆本豆",
+      "companyId": "dali-chengdu",
+      "category": "drinks",
+      "needs": [
+        "豆奶"
+      ],
+      "description": "唯甄系列常温豆奶，所选京东货号为250mL×24盒。绿色包装图对应本系列，制造企业需进一步核对现售标签。",
+      "tags": [
+        "豆奶",
+        "唯甄",
+        "250mL",
+        "24盒"
+      ],
+      "url": "https://item.jd.com/100002254564.html",
+      "market": "京东货号100002254564提供250mL×24盒的具体入口；价格、地区库存和配送以商家为准。",
+      "relationship": "四川历史食品抽检把同名250mL/盒对应成都达利食品有限公司；所选现售箱装尚无可读制造背标，成都厂作为线索保留。",
+      "relationshipSourceIds": [
+        "doubendou-weizhen250-chengdu-sampling2024",
+        "doubendou-weizhen250x24-jd"
+      ],
+      "image": "images/doubendou-weizhen-soymilk250x24.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/514535/5/13783/257317/6aa4a587Fbd74a464/00833e83e8cde2d6.jpg",
+      "imageRights": "豆本豆品牌及京东图片提供方；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日京东目录有货号100002254564、唯甄豆奶250mL×24盒的具体零售卡片及购买入口。地区供货另核。",
+          "sourceIds": [
+            "doubendou-weizhen250x24-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "2024-03-02抽检批次由成都达利生产；现售24盒装未取得制造标签，不能从历史同名规格直接确定当前生产企业。",
+          "sourceIds": [
+            "doubendou-weizhen250-chengdu-sampling2024",
+            "doubendou-weizhen250x24-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得可对应本款实际制造企业的综合劳动依据；食品抽检合格不用于判断劳动守法，集团招聘荣誉也不自动适用于成都厂。",
+          "sourceIds": [
+            "doubendou-weizhen250-chengdu-sampling2024"
+          ]
+        }
+      }
+    },
+    {
+      "id": "balabala-208226117206-tshirt-10302",
+      "name": "208226117206儿童短袖T恤 · 米白10302",
+      "brand": "巴拉巴拉",
+      "companyId": "semir",
+      "category": "clothing",
+      "needs": [
+        "童装"
+      ],
+      "description": "balaOne儿童短袖T恤，款号208226117206，所选米白10302、合体型。图示黄色果实印花；尺码以购买页可选项为准。",
+      "tags": [
+        "童装",
+        "短袖T恤",
+        "208226117206",
+        "米白10302"
+      ],
+      "url": "https://item.jd.com/100278679420.html",
+      "market": "京东货号100278679420对应本款及米白10302选项，尺码和地区库存以商家为准；图中帽子不计入T恤商品。",
+      "relationship": "京东准确款号对应巴拉巴拉品牌，森马服饰2025报告列该品牌和OEM、ODM外包生产模式；本款实际制衣厂尚未对应。",
+      "relationshipSourceIds": [
+        "balabala-208226117206-jd",
+        "semir-esg-2025-labor"
+      ],
+      "image": "images/balabala-208226117206-tshirt-10302.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/507154/18/14095/62192/6a9e69a3Fc5b3cb30/008332032067edb2.jpg",
+      "imageRights": "巴拉巴拉品牌、京东图片提供方及原摄影和模特相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日原始零售目录列款号208226117206、米白10302选项和独立货号100278679420的商品入口。",
+          "sourceIds": [
+            "balabala-208226117206-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "品牌与款号已对应，但未取得本款制造标签或厂址；外包生产既不能自动认定为境外生产，也不能只凭中国品牌确认境内制造。",
+          "sourceIds": [
+            "balabala-208226117206-jd",
+            "semir-esg-2025-labor"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "须先对应实际制衣企业，再核其适用劳动评价或审核；集团员工工时制度及供应商管理披露尚未与本款制造厂关联。",
+          "sourceIds": [
+            "semir-esg-2025-labor"
+          ]
+        }
+      }
+    },
+    {
+      "id": "xtep-2000km5pro-black42",
+      "name": "两千公里5代PRO男跑鞋 · 黑/煤黑42码",
+      "brand": "特步",
+      "companyId": "xtep-group",
+      "category": "clothing",
+      "needs": [
+        "跑鞋"
+      ],
+      "description": "两千公里5代PRO男款跑鞋，所选黑/煤黑、42码；商家另注明新法码42.5。尺码对应以该销售选项为准。",
+      "tags": [
+        "跑鞋",
+        "两千公里5代PRO",
+        "黑/煤黑",
+        "42码"
+      ],
+      "url": "https://item.jd.com/10208007456622.html",
+      "market": "京东货号10208007456622有本款黑/煤黑42码的直接商品入口；配色、尺码、结算价及地区供货以商家为准。",
+      "relationship": "准确零售卡片对应特步5代PRO，集团报告说明自产与外包制造并存，尚无鞋盒或鞋标把本款对应到具名生产企业。",
+      "relationshipSourceIds": [
+        "xtep-2000km5pro-black42-jd",
+        "xtep-esg-2025-labor"
+      ],
+      "image": "images/xtep-2000km5pro-black42.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/510505/21/13507/142815/6a9e290cF0bef1ecf/0083320320eaf8fc.jpg",
+      "imageRights": "特步品牌、京东图片提供方及原摄影和模特相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日京东原始卡片列具体5代PRO黑/煤黑42码及货号10208007456622，与选用原图对应。",
+          "sourceIds": [
+            "xtep-2000km5pro-black42-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "集团有境内自产和供应商制造，但该事实未把所选跑鞋对应到具体生产法人；本款制造标签仍待补。",
+          "sourceIds": [
+            "xtep-2000km5pro-black42-jd",
+            "xtep-esg-2025-labor"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "已核集团劳动管理披露及ESG独立鉴证范围；后者针对报告编制准则，尚不能作为本款工厂符合中国劳动要求的具名审核结论。",
+          "sourceIds": [
+            "xtep-esg-2025-labor",
+            "xtep-esg-2025-assurance"
+          ]
+        }
+      }
+    },
+    {
+      "id": "caarany-cx5052-backpack24l",
+      "name": "凌云CX5052云朵书包24L",
+      "brand": "卡拉羊",
+      "companyId": "caarany-zhejiang",
+      "category": "stationery",
+      "needs": [
+        "书包"
+      ],
+      "description": "云朵书包2.0PLUS版，凌云CX5052、24L。主图展示两种配色，实际购买颜色以商家选项为准，不表示两只装。",
+      "tags": [
+        "书包",
+        "CX5052",
+        "24L",
+        "双肩包"
+      ],
+      "url": "https://detail.youzan.com/show/goods?from_source=gbox_seo&alias=3errnsrdcma9trf",
+      "market": "有赞商品页提供CX5052、24L的报价与购买入口，页面店名为卡拉羊官方旗舰店；品牌授权未独立核验，所选颜色和地区供货以商家为准。",
+      "relationship": "品牌官网列上海经营者及浙江、江苏两家生产企业；本款零售页介绍两处生产基地，但所看图片没有指定CX5052的制造法人。",
+      "relationshipSourceIds": [
+        "caarany-official-production",
+        "caarany-cx5052-youzan"
+      ],
+      "image": "images/caarany-cx5052-backpack24l.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img01.yzcdn.cn/upload_files/2024/05/20/Fmdj6Yy4f-vUPnc1c0OIneSjhH8t.jpg!middle.jpg",
+      "imageRights": "卡拉羊品牌、有赞店铺图片提供方及原摄影和模特相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日有赞准确型号页面列人民币299—349元、库存8件及购买入口；这是整页展示，具体配色和地区交付另核。",
+          "sourceIds": [
+            "caarany-cx5052-youzan"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官网具名海宁和沭阳两家生产企业，尚未确定CX5052由其中哪一法人制造；一般工厂照片不能替代本款制造对应。",
+          "sourceIds": [
+            "caarany-official-production",
+            "caarany-cx5052-youzan"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "本款实际制造企业尚未确定，也未取得适用于该企业或工厂的综合劳动评价或独立审核；浙江、江苏与品牌经营者分别核对。",
+          "sourceIds": [
+            "caarany-official-production"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -23419,7 +23886,7 @@
           "query": "冲调饮品"
         }
       ],
-      "note": "已正式收录口子窖六年型41%vol 450mL单瓶、金惟他多维葡萄糖固体饮料300g单袋及迎驾山泉饮用天然水550mL×24瓶。新增冲调饮品需求，注明粉状条装和具体制造法人；牛奶、酸奶、茶、咖啡及其他饮用水等继续核对，豆奶和葡萄酒仍有资料缺口。 盖瑞纯牛奶200g×20盒已核当前零售入口，因同名同容量有不同制造厂记录，所选商品制造主体及劳动评价关联仍待确认。",
+      "note": "正式收录口子窖六年型41%vol 450mL、金惟他多维葡萄糖固体饮料300g和迎驾山泉550mL×24瓶。新增唯甄豆奶250mL×24盒的具体销售条目，历史成都制造批次未直接套到现售箱装；豆奶、牛奶、酸奶、茶、咖啡等保留各自制造或劳动缺口。葡萄酒仍缺具体记录。",
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
@@ -23451,7 +23918,9 @@
         "luan-labor-2025-scope",
         "anhui-labor-2025-notice-reprint",
         "yingjia-water550-luan2025",
-        "yingjia-water550x24-jd"
+        "yingjia-water550x24-jd",
+        "doubendou-weizhen250x24-jd",
+        "doubendou-weizhen250-chengdu-sampling2024"
       ]
     },
     {
@@ -23498,7 +23967,7 @@
           "query": "童装"
         }
       ],
-      "note": "已核 JBB016 文胸、零售货号合写 02-13/14 的男款内衣、JBJ307 睡衣，以及梦娜具体零售袜品和森马两个服装货号。制造标签、供货与实际生产劳动仍待核；梦娜每件与三双装的对应未明，雅戈尔衬衫现时可售状态也待核。跑鞋和童装继续查准确商品及制造链证据。 新增爱登堡D232081747、175/92A的制造记录，已对应2024年度政府劳动A级，现时同款销售渠道仍待核。",
+      "note": "10项服装鞋履需求均有具体研究资料，尚无正式收录。新增特步5代PRO黑/煤黑42码跑鞋与巴拉巴拉208226117206米白10302童装，均有具体购买入口，实际制造企业与适用劳动依据待对应。爱登堡D232081747已有制造和劳动评价对应，仍缺同款现售渠道；其他衣物继续保留各自缺口。",
       "sourceIds": [
         "septwolves-hiring",
         "national-harmony-2022",
@@ -23517,7 +23986,11 @@
         "semir-109326100046-jd",
         "semir-109725127001-jd",
         "edenbo-d232081747-sampling-2024",
-        "shishi-labor-2024"
+        "shishi-labor-2024",
+        "balabala-208226117206-jd",
+        "xtep-2000km5pro-black42-jd",
+        "xtep-esg-2025-labor",
+        "xtep-esg-2025-assurance"
       ]
     },
     {
@@ -23954,7 +24427,7 @@
           "query": "打印机"
         }
       ],
-      "note": "资料覆盖10项办公需求；晨光K35与经典高品乐A4 70g五包箱装已有国内销售和具名制造依据，制造企业劳动评价仍待补。打印机、钢笔及其他文具继续核对具体制造法人和劳动守法依据，书包仍有缺口。",
+      "note": "11项办公学习需求均有具体研究资料，尚无正式收录。新增卡拉羊CX5052、24L书包的零售入口，但官网两家生产企业尚未与本款对应。晨光K35与经典高品乐A4 70g五包箱装已有国内销售和具名制造依据，制造企业劳动评价仍待补；其余文具、打印机各自核对。",
       "sourceIds": [
         "deli-campus-2025",
         "simao-production-hiring-2025",
@@ -23973,7 +24446,9 @@
         "gaopinle70g5-jd",
         "xinhui-labor2025-notice",
         "mg-k35-jd-retail",
-        "mg-k35-muping-production-2025"
+        "mg-k35-muping-production-2025",
+        "caarany-official-production",
+        "caarany-cx5052-youzan"
       ]
     },
     {
