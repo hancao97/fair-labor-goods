@@ -6370,6 +6370,192 @@
       },
       "filename": "images/shuanghui-pork-belly1kg.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "kailan-cake-flour-980-25kg",
+      "product_name": "开兰 精研 980 糕点粉 25kg",
+      "model": "精研 980 糕点粉 25kg",
+      "source_page_url": "https://gdkailan.com/products/detail/179/",
+      "image_url": "https://gdkailan.com/upfile/2022/01/06/164146003277809.png",
+      "bytes": 14296,
+      "sha256": "068a93755843bf20d3f4bd87297149dbe34c39dcf927cdafa2dc041daa4868f8",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "京东准确选项为 25kg，配送区域列安徽、福建、湖南、湖北；其他地区及即时库存以商家为准。",
+      "notes": "原厂包装图可读 980、25kg 和生产商；已与零售卡片原图交叉目视。",
+      "reuse_info": {
+        "rights_holder": "开兰品牌、相关制造商及零售图片权利人",
+        "license": "No open reuse license identified. Attributed product illustration; copyright remains with the rights holders."
+      },
+      "china_sale_evidence": {
+        "status": "supported",
+        "source_urls": [
+          "https://www.jd.com/jiage/13207eda3c28f85ed5c0.html"
+        ],
+        "evidence": "京东准确选项为 25kg，配送区域列安徽、福建、湖南、湖北；其他地区及即时库存以商家为准。",
+        "limitation": "渠道存在不等于所有地区实时可送；未下单。"
+      },
+      "china_production_evidence": {
+        "status": "supported_by_separate_sources",
+        "manufacturer": "广东开兰面粉有限公司",
+        "country": "中国",
+        "source_urls": [
+          "https://gdkailan.com/products/detail/179/",
+          "https://gdkailan.com/upfile/2025/04/22/20250422154456_511.jpg"
+        ],
+        "evidence": "官网本款包装列广东开兰面粉有限公司、开平三埠区虹桥路 1 号之二；同一法人食品生产许可支持国内制造。该结论不推断小麦原料全部来自国内。",
+        "limitation": "生产结论来自单独的制造资料，零售图片不独立证明当前批次。"
+      },
+      "width": 306,
+      "height": 358,
+      "source_image_metadata": {
+        "width": 306,
+        "height": 358,
+        "bytes": 108624,
+        "sha256": "5e60b0c080ebcbd36fa63e179a0ad18ac7b0d78a349d5cbeff09ac7f06fdc7cd"
+      },
+      "filename": "images/kailan-cake-flour-980-25kg.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "yueshifu-soy-sauce-500ml",
+      "product_name": "粤师傅 一品鲜酱油 500mL",
+      "model": "一品鲜酱油 500mL",
+      "source_page_url": "https://www.jd.com/jiage/1320d554867f9c8b7fa8.html",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/232019/27/37081/124591/676cfc22F55850354/3fb37b7ba398235e.jpg",
+      "bytes": 11772,
+      "sha256": "5260eda3e143f75f70ab9ee4599dddf93ca743f486a449159f9c8141069e0f15",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "京东公开卡片有一品鲜酱油 500mL 的准确商品号与购买入口；价格、地区配送和库存以商家为准。",
+      "notes": "实际商品卡引用的完整 220px 宣传图，仅作商品识别；规格或袋数由准确卡片确认，没有从模糊小字推断制造商。未裁切、补字、移除水印或放大。",
+      "reuse_info": {
+        "rights_holder": "粤师傅品牌、相关制造商及零售图片权利人",
+        "license": "No open reuse license identified. Attributed product illustration; copyright remains with the rights holders."
+      },
+      "china_sale_evidence": {
+        "status": "supported",
+        "source_urls": [
+          "https://www.jd.com/jiage/1320d554867f9c8b7fa8.html"
+        ],
+        "evidence": "京东公开卡片有一品鲜酱油 500mL 的准确商品号与购买入口；价格、地区配送和库存以商家为准。",
+        "limitation": "渠道存在不等于所有地区实时可送；未下单。"
+      },
+      "china_production_evidence": {
+        "status": "supported_by_separate_sources",
+        "manufacturer": "广东粤师傅调味食品有限公司",
+        "country": "中国",
+        "source_urls": [
+          "https://www.kaiping.gov.cn/attachment/0/375/375156/3483882.pdf",
+          "https://www.kaiping.gov.cn/kpszfw/xwdt/zjdt/content/post_3222285.html"
+        ],
+        "evidence": "同品名和 500mL 规格的 2026-01-10 生产记录对应广东粤师傅调味食品有限公司及开平厂址。原 PDF 直连受限，采用政府公开索引，当前批次应核对包装生产商。",
+        "limitation": "生产结论来自单独的制造资料，零售图片不独立证明当前批次。"
+      },
+      "width": 220,
+      "height": 220,
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 22607,
+        "sha256": "4b350871c9110b60ebd4eaac2892a95a575265a93cb0549a908b8ef9a068f7ca"
+      },
+      "filename": "images/yueshifu-soy-sauce-500ml.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "jiashili-milk-salt-soda-100gx6",
+      "product_name": "嘉士利 奶盐梳打饼 100g×6 袋",
+      "model": "奶盐梳打饼 100g×6 袋",
+      "source_page_url": "https://www.jd.com/brand/13208b3d540069a47153.html",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/486796/31/6522/66235/6a69635bF554ad7c6/008332032015d3ab.jpg",
+      "bytes": 10296,
+      "sha256": "9b97ccc3855cea0021b92af9145c9ae8f6bc2e281026da9a15083b7e947a001d",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "京东对应货号选择奶盐六袋装，主标题列单袋 100g；不同口味和散称规格不合并，库存及配送以商家为准。",
+      "notes": "实际商品卡引用的完整 220px 宣传图，仅作商品识别；规格或袋数由准确卡片确认，没有从模糊小字推断制造商。未裁切、补字、移除水印或放大。",
+      "reuse_info": {
+        "rights_holder": "嘉士利品牌、相关制造商及零售图片权利人",
+        "license": "No open reuse license identified. Attributed product illustration; copyright remains with the rights holders."
+      },
+      "china_sale_evidence": {
+        "status": "supported",
+        "source_urls": [
+          "https://www.jd.com/brand/13208b3d540069a47153.html"
+        ],
+        "evidence": "京东对应货号选择奶盐六袋装，主标题列单袋 100g；不同口味和散称规格不合并，库存及配送以商家为准。",
+        "limitation": "渠道存在不等于所有地区实时可送；未下单。"
+      },
+      "china_production_evidence": {
+        "status": "supported_by_separate_sources",
+        "manufacturer": "广东嘉士利食品集团有限公司",
+        "country": "中国",
+        "source_urls": [
+          "https://scjgj.cq.gov.cn/zz/tnq/zwgk/fdzdgknr_146781/jdjc_146793/spyp/jcjg/202507/t20250731_14864334.html",
+          "https://www.hbqj.gov.cn/sscjgj/zfxxgk/fdzdgknr/gysyjs_34501/spypaq/202404/t20240401_5141592.html"
+        ],
+        "evidence": "100g 奶盐梳打饼的两地制造记录均对应广东嘉士利食品集团有限公司、开平长沙港口路 18 号；记录对应 2023、2024 年样品，现供批次仍应核对制造商，其他嘉士利工厂不沿用此依据。",
+        "limitation": "生产结论来自单独的制造资料，零售图片不独立证明当前批次。"
+      },
+      "width": 220,
+      "height": 220,
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 19949,
+        "sha256": "c346b30853de700f5626bce85bf84247eea783911a7d5da06120ff5c33c51a28"
+      },
+      "filename": "images/jiashili-milk-salt-soda-100gx6.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "miyoko-soft-boiled-eggs-seasalt-55gx20",
+      "product_name": "美玉子 日式即食溏心蛋 海盐风味 55g×20 枚",
+      "model": "日式即食溏心蛋 海盐风味 55g×20 枚",
+      "source_page_url": "https://www.jd.com/xinkuan/122188479224321d18085.html",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/471190/24/14585/113962/6a50c96aF813adffe/00833203201b9100.jpg",
+      "bytes": 13206,
+      "sha256": "8b8b9f50b11f7c9bd736b03c0edd4af10eb8da3b5dd8cd4f5a43ae2828bffe07",
+      "visually_verified": true,
+      "market_scope": "中国大陆",
+      "market_verification": "京东准确选项列美玉子海盐风味溏心蛋 55g×20 枚；所选为整盒，配送地区和冷链条件以商家说明为准。",
+      "notes": "实际商品卡引用的完整 220px 宣传图，仅作商品识别；规格或袋数由准确卡片确认，没有从模糊小字推断制造商。未裁切、补字、移除水印或放大。",
+      "reuse_info": {
+        "rights_holder": "美玉子品牌、相关制造商及零售图片权利人",
+        "license": "No open reuse license identified. Attributed product illustration; copyright remains with the rights holders."
+      },
+      "china_sale_evidence": {
+        "status": "supported",
+        "source_urls": [
+          "https://www.jd.com/xinkuan/122188479224321d18085.html"
+        ],
+        "evidence": "京东准确选项列美玉子海盐风味溏心蛋 55g×20 枚；所选为整盒，配送地区和冷链条件以商家说明为准。",
+        "limitation": "渠道存在不等于所有地区实时可送；未下单。"
+      },
+      "china_production_evidence": {
+        "status": "supported_by_separate_sources",
+        "manufacturer": "广东美玉子食品有限公司",
+        "country": "中国",
+        "source_urls": [
+          "https://finance.sina.com.cn/jjxw/2024-08-30/doc-incmmmie0172971.shtml",
+          "https://www.jiangmen.gov.cn/bmpd/jmsscjdglj/zwgk/zdlyxxgk/spypaqxxgk/aqjggzxx/content/post_3155052.html",
+          "https://www.sialchina.cn/productlist/13650.html",
+          "https://www.foodtalks.cn/fbifwowfoodawards/gallery/wowfood/detail/3825"
+        ],
+        "evidence": "55g 再制蛋制造记录对应广东美玉子食品有限公司及开平加工厂；企业产品资料、海盐二十枚零售选项交叉对应。2024 样品表未写外盒枚数；不将本加工厂评价扩展为所有原料养殖场均获同样评价。",
+        "limitation": "生产结论来自单独的制造资料，零售图片不独立证明当前批次。"
+      },
+      "width": 220,
+      "height": 220,
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 25662,
+        "sha256": "2ea3822332f8d8adadc55e3b1383ea0eb2c739d41b16cd9b1fb481307f582dda"
+      },
+      "filename": "images/miyoko-soft-boiled-eggs-seasalt-55gx20.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

@@ -1056,11 +1056,11 @@
       "title": "开平市 2025 年度劳动保障守法诚信等级评价结果",
       "publisher": "开平市人力资源和社会保障局",
       "url": "https://www.kaiping.gov.cn/jmkpsrsj/gkmlpt/content/3/3501/post_3501327.html",
-      "summary": "公布对 2025 全年的评价结果；广东嘉士利、开兰面粉、广中皇食品等具体法人列为 A 级。",
+      "summary": "公布对 2025 全年的评价结果；广东嘉士利食品集团、开兰面粉、美玉子食品、广中皇食品、粤师傅调味食品等具体法人列为 A 级。",
       "limitation": "覆盖名单所列法人在 2025 年的劳动保障守法情况；不能扩展到不同法人，也不是未来持续合规保证。",
       "publishedAt": "2026-06-03",
       "checkedAt": "2026-09-12",
-      "locator": "附件企业名单第 2、5、222 行等",
+      "locator": "附件企业名单第 2、5、139、222、295 行等",
       "type": "政府评价"
     },
     {
@@ -4170,6 +4170,174 @@
       "locator": "豆制品表第 46、122 行；328g/瓶，2025-04-29、2025-06-29",
       "summary": "转载表将两批 328g 微辣腐乳对应到广东广中皇食品有限公司及开平水口镇龙塘西路 2 号，与鹤山公开记录一致。",
       "limitation": "已读取转载表；省市场监管局原通告直连返回 502，未把转载写成已读原件。只用制造身份字段，不由文章标题推断该商品不合格或劳动违法。"
+    },
+    {
+      "id": "kailan-980-product",
+      "title": "开兰精研 980 糕点粉产品页及包装图",
+      "publisher": "广东开兰面粉有限公司",
+      "url": "https://gdkailan.com/products/detail/179/",
+      "type": "企业官网",
+      "summary": "官网将精研 980 列入糕点粉/低筋粉系列；实际包装图可读净含量 25kg、生产商广东开兰面粉有限公司以及开平三埠厂址。",
+      "limitation": "25kg 大包装与原有 1kg 家庭装不是同款规格；厂址不代表小麦原料全部来自国内。",
+      "locator": "产品名称、用途及详情包装图",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "kailan-980-jd",
+      "title": "京东开兰 980 糕点小麦粉 25kg 准确商品卡",
+      "publisher": "京东零售平台",
+      "url": "https://www.jd.com/jiage/13207eda3c28f85ed5c0.html",
+      "type": "零售商品资料",
+      "summary": "当前公开卡片列 25kg 开兰 980 糕点小麦粉，并链接商品号 10137866738505；所选配送区域为安徽、福建、湖南、湖北。",
+      "limitation": "页面还含其他品牌，只有准确卡片用于判断。25kg 为大包装；不据此证明家庭装面粉可售，也不保证其他地区配送或实时库存。",
+      "locator": "25kg 开兰 980 卡片、所选区域及商品链接",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "yueshifu-producer-profile",
+      "title": "开平政府介绍马冈鹅产业链及粤师傅调味品生产",
+      "publisher": "开平市人民政府门户网站",
+      "url": "https://www.kaiping.gov.cn/kpszfw/xwdt/zjdt/content/post_3222285.html",
+      "type": "政府报道",
+      "summary": "介绍位于苍城镇、2012 年成立的广东粤师傅调味食品有限公司及其酱油、食醋等生产业务、生产包装线和国内经销渠道。",
+      "limitation": "企业业务介绍不证明单个规格的生产商或劳动条件；实际商品另用制造记录和劳动评价对应。",
+      "locator": "正文粤师傅公司介绍及八类调味品生产段落",
+      "publishedAt": "2024-12-24",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "yueshifu-soy500-kaiping-2026",
+      "title": "开平 2026 年食品抽检汇总：粤师傅一品鲜酱油 500mL",
+      "publisher": "开平市食品安全监督抽检公开附件",
+      "url": "https://www.kaiping.gov.cn/attachment/0/375/375156/3483882.pdf",
+      "type": "政府抽检",
+      "summary": "公开索引第 197 行列一品鲜酱油 500毫升/瓶、粤师傅和图形、2026-01-10 生产；标称生产企业为广东粤师傅调味食品有限公司，厂址在开平苍城南郊路 91 号。",
+      "limitation": "本次直连返回 403，PDF 渲染未成功；采用该政府附件的公开索引原行，未声称下载或逐页核验。食品抽检仅用于商品与厂家的对应，不是劳动评价；现供批次厂名仍应核对。",
+      "locator": "公开索引序号 197：生产企业、厂址、品名、500毫升及日期",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "yueshifu-soy500-jd",
+      "title": "京东粤师傅一品鲜酱油 500mL 商品卡",
+      "publisher": "京东零售平台",
+      "url": "https://www.jd.com/jiage/1320d554867f9c8b7fa8.html",
+      "type": "零售商品资料",
+      "summary": "当前公开页面准确卡片列粤师傅一品鲜酱油 500ml，商品号为 10101959767364；卡片引用单瓶图片，原图标示净含量 500ml。",
+      "limitation": "同页其他容量与品类不合并为本款；零售页面证明渠道存在，地区配送、价格和即时库存以商家为准。",
+      "locator": "一品鲜酱油 500ml 准确卡片与商品链接",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "jiashili-soda100-tongnan-2025",
+      "title": "潼南区 2025 年第 6 号食品抽检：奶盐梳打饼 100g",
+      "publisher": "重庆市潼南区市场监督管理局",
+      "url": "https://scjgj.cq.gov.cn/zz/tnq/zwgk/fdzdgknr_146781/jdjc_146793/spyp/jcjg/202507/t20250731_14864334.html",
+      "type": "政府抽检",
+      "summary": "合格信息第 147 行列广东嘉士利食品集团有限公司、开平长沙港口路 18 号、奶盐梳打饼 100g/包以及 2024-12-04 生产日期。",
+      "limitation": "记录对应抽检样品的生产信息，不证明现售每一批，也不能扩大到嘉士利其他省份工厂、其他口味或 800g 早餐饼干。",
+      "locator": "附件 2 合格信息第 147 行",
+      "publishedAt": "2025-07-31",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "jiashili-soda100-qianjiang-2024",
+      "title": "潜江 2024 年第三期食品抽检：嘉士利奶盐梳打饼",
+      "publisher": "潜江市市场监督管理局",
+      "url": "https://www.hbqj.gov.cn/sscjgj/zfxxgk/fdzdgknr/gysyjs_34501/spypaq/202404/t20240401_5141592.html",
+      "type": "政府抽检",
+      "summary": "第 205 项 DBJ24429005486430397 将奶盐梳打饼 100g/袋、2023-09-05 样品对应广东嘉士利食品集团有限公司与开平长沙港口路 18 号。",
+      "limitation": "较早的独立制造记录，用于与 2025 年通告交叉对应；不替代现供批次包装或劳动守法评价。",
+      "locator": "合格信息第 205 项及抽样编号 DBJ24429005486430397",
+      "publishedAt": "2024-04-01",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "jiashili-soda100-jd",
+      "title": "京东嘉士利奶盐梳打饼 100g×6 袋销售选项",
+      "publisher": "京东零售平台",
+      "url": "https://www.jd.com/brand/13208b3d540069a47153.html",
+      "type": "零售商品资料",
+      "summary": "准确卡片商品号 10118823838238 的品名含 100g 梳打饼，选项文字为“盐味 奶*6包”；实际引用原图是奶盐梳打饼。",
+      "limitation": "主标题同时列出其他口味，采用该货号的奶盐六袋选项，不混入葱香、芝麻、散称或其他容量；规格和袋数取自卡片，图片不用于读取制造小字。",
+      "locator": "商品号 10118823838238 的选项和实际引用图片",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "jiangmen-sampling-2024-17-notice",
+      "title": "江门 2024 年食品安全监督抽检第 17 号通告",
+      "publisher": "江门市市场监督管理局",
+      "url": "https://www.jiangmen.gov.cn/bmpd/jmsscjdglj/zwgk/zdlyxxgk/spypaqxxgk/aqjggzxx/content/post_3155052.html",
+      "type": "政府通告",
+      "summary": "政府原通告确认抽检信息发布，并列附件 2 为合格产品信息表；通告落款 2024-08-21，网页发布于 2024-08-29。",
+      "limitation": "本次通过公开索引读到通告正文，直接连接受限，未取得附件原表。产品细行从明确标注来源的公开转载核对。",
+      "locator": "通告及附件 2 名称；网页发布时间与落款日期",
+      "publishedAt": "2024-08-29",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "jiangmen-sampling-2024-17-media",
+      "title": "江门 2024 年第 17 号抽检表转载：美玉子 55g 溏心蛋",
+      "publisher": "新浪财经转载中国质量新闻网／江门市市场监管局",
+      "url": "https://finance.sina.com.cn/jjxw/2024-08-30/doc-incmmmie0172971.shtml",
+      "type": "公开转载",
+      "summary": "合格表第 40 行 DBJ24440700596232088 列日式即食溏心蛋（再制蛋）55g/袋、2024-07-15 生产，标称生产企业为广东美玉子食品有限公司，厂址是开平长沙街道金章大道 8 号 12 幢。",
+      "limitation": "已读取转载的完整对应表行；政府原表未直接取得。记录未单列海盐风味和外盒枚数，需与企业产品资料、具体零售选项交叉对应；食品抽检不是劳动评价。",
+      "locator": "合格表第 40 行、抽样编号及生产企业和厂址",
+      "publishedAt": "2024-08-30",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "miyoko-sial-product",
+      "title": "SIAL 展商产品：美玉子日式即食溏心蛋",
+      "publisher": "广东美玉子食品有限公司／SIAL 西雅国际食品展",
+      "url": "https://www.sialchina.cn/productlist/13650.html",
+      "type": "企业展品资料",
+      "summary": "展商为广东美玉子食品有限公司，国家/地区列中国大陆，展品为美玉子日式即食溏心蛋，介绍单粒真空包装。",
+      "limitation": "展商提交的产品信息属于企业资料，未独立核验其营养、无菌或认证宣传，也不以展品宣传代替劳动评价。",
+      "locator": "展商名称、国家/地区、展品名和介绍",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "miyoko-foodtalks-55g",
+      "title": "美玉子日式溏心蛋 55g 产品资料",
+      "publisher": "广东美玉子食品有限公司／FoodTalks 创新食品评鉴资料",
+      "url": "https://www.foodtalks.cn/fbifwowfoodawards/gallery/wowfood/detail/3825",
+      "type": "企业产品资料",
+      "summary": "产品资料列广东美玉子食品有限公司、美玉子日式溏心蛋、单粒规格 55g 与冷藏储存；“2019年”是上市时间字段，不作为页面发布日期。",
+      "limitation": "企业参评资料不等于独立认证。没有采用其健康、营养或销量宣传；外盒枚数和购买入口来自准确零售卡片。",
+      "locator": "公司名称、上市时间、产品规格与储存条件",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "miyoko-gov-profile-2020",
+      "title": "开平市农业农村局介绍美玉子本地蛋品生产",
+      "publisher": "开平市农业农村局",
+      "url": "https://www.kaiping.gov.cn/jmkpsnyj/gkmlpt/content/2/2038/post_2038826.html",
+      "type": "政府报道",
+      "summary": "报道广东美玉子食品有限公司推广本地生产的溏心蛋、温泉蛋，介绍其采用日本工艺和设备、鸡蛋原料由圣迪乐供应。",
+      "limitation": "历史品牌和加工业务介绍，不证明现时每批原料、国籍或劳动条件；“日式”工艺不能推断成品为日本进口。",
+      "locator": "广东美玉子食品有限公司受访段落",
+      "publishedAt": "2020-04-24",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "miyoko-soft-eggs55-jd",
+      "title": "京东美玉子海盐风味溏心蛋 55g×20 枚准确商品卡",
+      "publisher": "京东零售平台",
+      "url": "https://www.jd.com/xinkuan/122188479224321d18085.html",
+      "type": "零售商品资料",
+      "summary": "商品号 10229060348546 明确美玉子日式即食溏心蛋（海盐风味）55g20枚；实际卡片图片显示美玉子盒装产品。",
+      "limitation": "使用完整二十枚选项，不将同页六枚、十二枚、二十四枚、鲍汁味或拆分装混作同款；这是加工再制蛋，不能替代生鲜鸡蛋需求或承诺所有地区冷链可达。",
+      "locator": "商品号 10229060348546 的品牌、海盐风味和 55g20枚选项",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
     }
   ],
   "companies": [
@@ -5899,36 +6067,46 @@
       "hoursLabel": "工时休息纳入政府评价",
       "restLabel": "具体排班未单独披露",
       "cardNote": "2025 年劳动守法 A 级",
-      "scope": "广东开兰面粉有限公司及官网所列家庭装面粉；生产许可厂址为开平三埠区虹桥路 1 号之二。",
-      "finding": "该生产法人获 2025 年劳动保障守法诚信 A 级评价。三款 1kg 面粉已由制造商官网与食品生产许可对应到境内企业；个人零售渠道仍待补。",
+      "scope": "广东开兰面粉有限公司及官网所列面粉；生产许可厂址为开平三埠区虹桥路 1 号之二。",
+      "finding": "该生产法人获 2025 年劳动守法 A 级评价。精研 980 糕点粉 25kg 已核厂家包装与区域零售入口，正式收录；三款 1kg 家庭装的个人零售渠道仍待补。",
       "caveats": [
         "政府评价仅覆盖 2025 年及该法人；不等于未来持续合规保证。",
         "三款家庭装面粉的个人零售渠道、起订量尚未核实，所以仍在待核查区。",
-        "淮山面尚未获得足够的制造主体对应资料，未直接沿用面粉生产许可。"
+        "淮山面尚未获得足够的制造主体对应资料，未直接沿用面粉生产许可。",
+        "980 为 25kg 大包装，当前准确零售选项仅列安徽、福建、湖南、湖北配送区域。"
       ],
       "sourceIds": [
         "kaiping-labor-2025",
         "kailan-products",
         "kailan-license",
-        "law-labor-rating"
+        "law-labor-rating",
+        "kailan-980-product",
+        "kailan-980-jd"
       ],
       "supply": [
         {
           "stage": "品牌与运营",
-          "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "status": "policy",
+          "detail": "官网展示自有面粉产品和生产许可。",
+          "sourceIds": [
+            "kailan-products",
+            "kailan-license"
+          ]
         },
         {
           "stage": "生产或门店服务",
-          "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
-          "sourceIds": []
+          "status": "policy",
+          "detail": "980 糕点粉包装及三款家庭装面粉资料对应广东开兰面粉有限公司，劳动依据为 2025 年政府 A 级评价。",
+          "sourceIds": [
+            "kailan-980-product",
+            "kailan-license",
+            "kaiping-labor-2025"
+          ]
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "上游原料、包装及运输单位的劳动条件尚未逐一核对，作为补充信息继续调查。",
           "sourceIds": []
         }
       ],
@@ -5965,33 +6143,44 @@
       "hoursLabel": "工时休息纳入政府评价",
       "restLabel": "具体排班未单独披露",
       "cardNote": "2025 年劳动守法 A 级",
-      "scope": "评价主体是广东嘉士利食品集团有限公司；具体商品可能由不同关联工厂制造，须分别对应。",
-      "finding": "广东嘉士利食品集团有限公司获 2025 年劳动保障守法诚信 A 级评价；800g 原味早餐饼干的制造企业和大陆零售渠道尚未完整对应。",
+      "scope": "广东嘉士利食品集团有限公司，开平长沙港口路 18 号厂址；仅将对应本法人的产品与 2025 年评价关联。",
+      "finding": "该生产法人获 2025 年劳动守法 A 级评价。奶盐梳打饼 100g 已有两地政府制造记录并找到六袋零售选项；800g 原味早餐饼干的制造对应仍待补。",
       "caveats": [
-        "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "本档案尚未取得实际考勤、加班和每周休息记录。"
+        "政府评价仅覆盖该法人和 2025 年度，不保证未来持续合规。",
+        "奶盐梳打饼 100g 的依据不自动覆盖其他口味、容量和关联工厂。",
+        "现供批次若更换制造商，需重新对应其劳动证据。"
       ],
       "sourceIds": [
-        "kaiping-labor-2025"
+        "kaiping-labor-2025",
+        "law-labor-rating",
+        "jiashili-soda100-tongnan-2025",
+        "jiashili-soda100-qianjiang-2024",
+        "jiashili-soda100-jd"
       ],
       "supply": [
         {
           "stage": "品牌与运营",
-          "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "status": "policy",
+          "detail": "奶盐梳打饼品牌及广东制造主体有具体资料对应。",
+          "sourceIds": [
+            "jiashili-soda100-jd",
+            "jiashili-soda100-tongnan-2025"
+          ]
         },
         {
           "stage": "生产或门店服务",
-          "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
-          "sourceIds": []
+          "status": "policy",
+          "detail": "两地政府表均将奶盐梳打饼 100g 对应广东嘉士利食品集团有限公司；同一法人获 2025 年劳动守法 A 级。",
+          "sourceIds": [
+            "jiashili-soda100-tongnan-2025",
+            "jiashili-soda100-qianjiang-2024",
+            "kaiping-labor-2025"
+          ]
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "上游原料、包装及运输单位的劳动条件尚未逐一核对，作为补充信息继续调查。",
           "sourceIds": []
         }
       ],
@@ -9066,6 +9255,152 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "取得 7213404 当前包装与生产追溯，对应养殖场和分割包装人员；分别核淡旺季考勤、逐周休息、加班补偿、合同社保及冷链外包。"
+    },
+    {
+      "id": "yueshifu",
+      "name": "粤师傅",
+      "legalName": "广东粤师傅调味食品有限公司",
+      "location": "广东江门开平苍城",
+      "origin": "china",
+      "originNote": "中国境内成立并生产调味品的企业；商品制造主体与品牌背景分别核对。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年劳动守法 A 级",
+      "scope": "广东粤师傅调味食品有限公司，开平苍城南郊路 91 号厂址；评价覆盖 2025 年。",
+      "finding": "该生产法人获 2025 年劳动守法 A 级评价；一品鲜酱油 500mL 已有同品名、规格的公开生产记录及大陆零售入口。",
+      "caveats": [
+        "行政评价对应 2025 年度，不是未来持续合规保证。",
+        "收录限于已对应制造主体的具体商品；生产商变更时需重新核对。",
+        "上游原料及外包、物流的劳动信息另行追踪，不以本厂评价覆盖。"
+      ],
+      "sourceIds": [
+        "kaiping-labor-2025",
+        "law-labor-rating",
+        "yueshifu-producer-profile",
+        "yueshifu-soy500-kaiping-2026"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "政府介绍该企业在开平生产、销售调味品。",
+          "sourceIds": [
+            "yueshifu-producer-profile"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "policy",
+          "detail": "一品鲜酱油 500mL 公开制造记录对应该法人；同一法人获 2025 年劳动守法 A 级。",
+          "sourceIds": [
+            "yueshifu-soy500-kaiping-2026",
+            "kaiping-labor-2025"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游原料、包装及运输单位的劳动条件尚未逐一核对，作为补充信息继续调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "关注新的政府劳动守法评价、相反证据及包装生产商变化；按本站复核期限更新。",
+      "assessments": [
+        {
+          "subject": "广东粤师傅调味食品有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "评价仅覆盖该法人和 2025 年度；商品须对应同一制造或服务主体。本站复核日期不是政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2027-06-03"
+        }
+      ]
+    },
+    {
+      "id": "miyoko",
+      "name": "美玉子",
+      "legalName": "广东美玉子食品有限公司",
+      "location": "广东江门开平长沙",
+      "origin": "china",
+      "originNote": "开平企业经营的美玉子品牌；日式工艺及日本设备不等于进口成品，制造地依据具名生产记录。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年劳动守法 A 级",
+      "scope": "广东美玉子食品有限公司及开平长沙金章大道 8 号 12 幢加工厂；评价覆盖 2025 年。",
+      "finding": "该法人获 2025 年劳动守法 A 级评价；55g 日式即食溏心蛋由制造记录、企业产品资料和海盐二十枚零售选项对应。",
+      "caveats": [
+        "行政评价对应 2025 年度，不是未来持续合规保证。",
+        "收录限于已对应制造主体的具体商品；生产商变更时需重新核对。",
+        "上游原料及外包、物流的劳动信息另行追踪，不以本厂评价覆盖。"
+      ],
+      "sourceIds": [
+        "kaiping-labor-2025",
+        "law-labor-rating",
+        "jiangmen-sampling-2024-17-media",
+        "jiangmen-sampling-2024-17-notice",
+        "miyoko-sial-product",
+        "miyoko-foodtalks-55g",
+        "miyoko-gov-profile-2020"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "政府报道及展商资料对应美玉子日式蛋品与广东美玉子食品有限公司。",
+          "sourceIds": [
+            "miyoko-sial-product",
+            "miyoko-gov-profile-2020"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "policy",
+          "detail": "55g 再制蛋生产记录对应开平具名加工厂，2025 年劳动守法评价对应同一法人。",
+          "sourceIds": [
+            "jiangmen-sampling-2024-17-media",
+            "kaiping-labor-2025"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "上游原料、包装及运输单位的劳动条件尚未逐一核对，作为补充信息继续调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "关注新的政府劳动守法评价、相反证据及包装生产商变化；按本站复核期限更新。",
+      "assessments": [
+        {
+          "subject": "广东美玉子食品有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "评价仅覆盖该法人和 2025 年度；商品须对应同一制造或服务主体。本站复核日期不是政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2027-06-03"
+        }
+      ]
     }
   ],
   "products": [
@@ -15587,6 +15922,229 @@
           ]
         }
       }
+    },
+    {
+      "id": "kailan-cake-flour-980-25kg",
+      "name": "精研 980 糕点粉 25kg",
+      "brand": "开兰",
+      "companyId": "kailan",
+      "category": "food",
+      "description": "低筋糕点小麦粉，可制作广式叉烧包、蛋糕及中式点心；25kg 大包装。",
+      "tags": [
+        "面粉",
+        "低筋粉",
+        "糕点",
+        "25kg"
+      ],
+      "needs": [
+        "面粉"
+      ],
+      "url": "https://item.jd.com/10137866738505.html",
+      "market": "京东准确选项为 25kg，配送区域列安徽、福建、湖南、湖北；其他地区及即时库存以商家为准。",
+      "relationship": "官网本款原始包装图可读 25kg 和生产商广东开兰面粉有限公司；厂址与食品生产许可证相符。",
+      "relationshipSourceIds": [
+        "kailan-980-product",
+        "kailan-license"
+      ],
+      "image": "images/kailan-cake-flour-980-25kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://gdkailan.com/upfile/2022/01/06/164146003277809.png",
+      "imageRights": "开兰品牌、相关制造商及零售图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东准确选项为 25kg，配送区域列安徽、福建、湖南、湖北；其他地区及即时库存以商家为准。",
+          "sourceIds": [
+            "kailan-980-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "广东开兰面粉有限公司",
+          "detail": "官网本款包装列广东开兰面粉有限公司、开平三埠区虹桥路 1 号之二；同一法人食品生产许可支持国内制造。该结论不推断小麦原料全部来自国内。",
+          "sourceIds": [
+            "kailan-980-product",
+            "kailan-license"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "kaiping-labor-2025",
+          "detail": "对应制造法人广东开兰面粉有限公司获开平市 2025 年度劳动保障守法诚信 A 级评价（2026-06-03 公布）；作为本款生产企业劳动合规的收录依据，保留法人及年度范围。",
+          "sourceIds": [
+            "kaiping-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "yueshifu-soy-sauce-500ml",
+      "name": "一品鲜酱油 500mL",
+      "brand": "粤师傅",
+      "companyId": "yueshifu",
+      "category": "food",
+      "description": "用于日常烹调和佐餐的一品鲜酱油，单瓶 500mL。",
+      "tags": [
+        "酱油",
+        "调味",
+        "500mL"
+      ],
+      "needs": [
+        "酱油"
+      ],
+      "url": "https://item.jd.com/10101959767364.html",
+      "market": "京东公开卡片有一品鲜酱油 500mL 的准确商品号与购买入口；价格、地区配送和库存以商家为准。",
+      "relationship": "2026 年开平抽检附件公开索引第 197 行将一品鲜酱油 500mL 对应广东粤师傅调味食品有限公司、开平苍城南郊路 91 号厂址。",
+      "relationshipSourceIds": [
+        "yueshifu-soy500-kaiping-2026",
+        "yueshifu-producer-profile"
+      ],
+      "image": "images/yueshifu-soy-sauce-500ml.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/232019/27/37081/124591/676cfc22F55850354/3fb37b7ba398235e.jpg",
+      "imageRights": "粤师傅品牌、相关制造商及零售图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东公开卡片有一品鲜酱油 500mL 的准确商品号与购买入口；价格、地区配送和库存以商家为准。",
+          "sourceIds": [
+            "yueshifu-soy500-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "广东粤师傅调味食品有限公司",
+          "detail": "同品名和 500mL 规格的 2026-01-10 生产记录对应广东粤师傅调味食品有限公司及开平厂址。原 PDF 直连受限，采用政府公开索引，当前批次应核对包装生产商。",
+          "sourceIds": [
+            "yueshifu-soy500-kaiping-2026",
+            "yueshifu-producer-profile"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "kaiping-labor-2025",
+          "detail": "对应制造法人广东粤师傅调味食品有限公司获开平市 2025 年度劳动保障守法诚信 A 级评价（2026-06-03 公布）；作为本款生产企业劳动合规的收录依据，保留法人及年度范围。",
+          "sourceIds": [
+            "kaiping-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "jiashili-milk-salt-soda-100gx6",
+      "name": "奶盐梳打饼 100g×6 袋",
+      "brand": "嘉士利",
+      "companyId": "jiashili",
+      "category": "food",
+      "description": "奶盐口味的苏打饼干，单袋 100g；本次销售选项为六袋装。",
+      "tags": [
+        "饼干",
+        "苏打饼干",
+        "奶盐",
+        "100g"
+      ],
+      "needs": [
+        "饼干"
+      ],
+      "url": "https://item.jd.com/10118823838238.html",
+      "market": "京东对应货号选择奶盐六袋装，主标题列单袋 100g；不同口味和散称规格不合并，库存及配送以商家为准。",
+      "relationship": "潜江 2024、潼南 2025 两份政府抽检信息将奶盐梳打饼 100g 对应广东嘉士利食品集团有限公司和开平长沙港口路 18 号。",
+      "relationshipSourceIds": [
+        "jiashili-soda100-tongnan-2025",
+        "jiashili-soda100-qianjiang-2024"
+      ],
+      "image": "images/jiashili-milk-salt-soda-100gx6.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/486796/31/6522/66235/6a69635bF554ad7c6/008332032015d3ab.jpg",
+      "imageRights": "嘉士利品牌、相关制造商及零售图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东对应货号选择奶盐六袋装，主标题列单袋 100g；不同口味和散称规格不合并，库存及配送以商家为准。",
+          "sourceIds": [
+            "jiashili-soda100-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "广东嘉士利食品集团有限公司",
+          "detail": "100g 奶盐梳打饼的两地制造记录均对应广东嘉士利食品集团有限公司、开平长沙港口路 18 号；记录对应 2023、2024 年样品，现供批次仍应核对制造商，其他嘉士利工厂不沿用此依据。",
+          "sourceIds": [
+            "jiashili-soda100-tongnan-2025",
+            "jiashili-soda100-qianjiang-2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "kaiping-labor-2025",
+          "detail": "对应制造法人广东嘉士利食品集团有限公司获开平市 2025 年度劳动保障守法诚信 A 级评价（2026-06-03 公布）；作为本款生产企业劳动合规的收录依据，保留法人及年度范围。",
+          "sourceIds": [
+            "kaiping-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "miyoko-soft-boiled-eggs-seasalt-55gx20",
+      "name": "日式即食溏心蛋 海盐风味 55g×20 枚",
+      "brand": "美玉子",
+      "companyId": "miyoko",
+      "category": "food",
+      "description": "海盐风味的即食再制蛋，每枚 55g、整盒 20 枚。需按包装要求冷藏保存。",
+      "tags": [
+        "即食蛋",
+        "溏心蛋",
+        "海盐风味",
+        "冷藏"
+      ],
+      "needs": [
+        "即食蛋"
+      ],
+      "url": "https://item.jd.com/10229060348546.html",
+      "market": "京东准确选项列美玉子海盐风味溏心蛋 55g×20 枚；所选为整盒，配送地区和冷链条件以商家说明为准。",
+      "relationship": "江门 2024 年抽检表转载将 55g 日式即食溏心蛋对应广东美玉子食品有限公司与开平金章大道 8 号 12 幢；企业展品及 55g 产品资料提供品牌对应。",
+      "relationshipSourceIds": [
+        "jiangmen-sampling-2024-17-media",
+        "jiangmen-sampling-2024-17-notice",
+        "miyoko-sial-product",
+        "miyoko-foodtalks-55g"
+      ],
+      "image": "images/miyoko-soft-boiled-eggs-seasalt-55gx20.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/471190/24/14585/113962/6a50c96aF813adffe/00833203201b9100.jpg",
+      "imageRights": "美玉子品牌、相关制造商及零售图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东准确选项列美玉子海盐风味溏心蛋 55g×20 枚；所选为整盒，配送地区和冷链条件以商家说明为准。",
+          "sourceIds": [
+            "miyoko-soft-eggs55-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "广东美玉子食品有限公司",
+          "detail": "55g 再制蛋制造记录对应广东美玉子食品有限公司及开平加工厂；企业产品资料、海盐二十枚零售选项交叉对应。2024 样品表未写外盒枚数；不将本加工厂评价扩展为所有原料养殖场均获同样评价。",
+          "sourceIds": [
+            "jiangmen-sampling-2024-17-media",
+            "jiangmen-sampling-2024-17-notice",
+            "miyoko-sial-product",
+            "miyoko-foodtalks-55g"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "kaiping-labor-2025",
+          "detail": "对应制造法人广东美玉子食品有限公司获开平市 2025 年度劳动保障守法诚信 A 级评价（2026-06-03 公布）；作为本款生产企业劳动合规的收录依据，保留法人及年度范围。",
+          "sourceIds": [
+            "kaiping-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -15696,9 +16254,13 @@
         {
           "label": "速冻调理肉",
           "query": "速冻调理肉"
+        },
+        {
+          "label": "即食蛋",
+          "query": "即食蛋"
         }
       ],
-      "note": "已补江西细米粉 1kg、精幼白砂糖 454g 和有机核桃仁 500g/10袋，26 项粮油食品需求均有具体研究资料。白糖仅对应历史样品厂家，米粉与核桃仍缺制造背标；所有条目的现供批次、原料追溯和实际劳动证据继续核查，研究覆盖不代表合格收录。",
+      "note": "27 项粮油食品需求均有具体研究资料，其中面粉、酱油、腐乳、饼干和即食蛋已有正式收录。其余商品仍需补充生产企业劳动依据或制造、销售对应；即食再制蛋不计为生鲜鸡蛋，25kg 面粉的地区配送范围单独列明。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -15754,7 +16316,16 @@
         "nanz-annual2024-labor",
         "qiaqia-organic-walnut500-jd",
         "qiaqia-esg2025-labor",
-        "qiaqia-yunnan-walnut-2026"
+        "qiaqia-yunnan-walnut-2026",
+        "kailan-980-product",
+        "kailan-980-jd",
+        "yueshifu-soy500-kaiping-2026",
+        "yueshifu-soy500-jd",
+        "jiashili-soda100-tongnan-2025",
+        "jiashili-soda100-jd",
+        "jiangmen-sampling-2024-17-media",
+        "miyoko-sial-product",
+        "miyoko-soft-eggs55-jd"
       ]
     },
     {
