@@ -6658,6 +6658,56 @@
       },
       "filename": "images/kouzi-hotel-huaibei-superior-twin.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "huixiangyuan-laowei-chicken-500g",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/384885/29/19983/142227/696f3ae0F56989f60/0083320320deb278.jpg",
+      "source_page": "https://www.jd.com/hprm/122184b5751eec0dd2dd7.html",
+      "product_url": "https://item.jd.com/4056875.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 89262,
+      "sha256": "0af8e07e46eb044cd2f1fafec8e3440a835be91259d5e547cc3d19f5a6d342be",
+      "visually_verified": true,
+      "visual_notes": "已目视核对金色纸袋上的徽香源、老味、符离集烧鸡、500克；画面为单袋与熟食示意，完整保留原图及原宣传文字。未将图片中的荣誉或宣传语作为劳动依据。",
+      "reuse_info": {
+        "rights_holder": "宿州市徽香源食品有限公司、京东平台及相关图片权利人",
+        "license": "商品资料插图；未取得开放再授权，不包含在项目代码 MIT 许可中。",
+        "attribution": "来源于京东商品号 4056875 对应公开商品卡。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 84539,
+        "sha256": "143e8bd8eebc24067f91bc12065a795f7a55cbd1974f9172cb656284407194cc"
+      },
+      "filename": "images/huixiangyuan-laowei-chicken-500g.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "huiyuan-peach-juice-2l-single",
+      "image_url": "https://img12.360buyimg.com/n0/jfs/t1/396087/1/14905/139278/69a2bb11F5dd76197/0083320320da14ff.jpg",
+      "source_page": "https://mall.jd.com/view_search-511357-21174959-99-1-24-1.html",
+      "product_url": "https://item.jd.com/100059650798.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 87386,
+      "sha256": "3a433dd42ef3f325cecc2a60fb39b6eec96eb306b7aa7c472b977e7258b47ea3",
+      "visually_verified": true,
+      "visual_notes": "已目视核对汇源桃混合果汁、2L×1瓶及单瓶画面；完整保留 JD 水印。制造企业小字不可可靠辨认，图片不用于制造或劳动结论。",
+      "reuse_info": {
+        "rights_holder": "汇源品牌相关权利人、京东平台及相关图片权利人",
+        "license": "可溯源商品资料插图，未取得开放再授权，不包含在项目代码 MIT 许可中。",
+        "attribution": "汇源京东自营旗舰店准确商品号 100059650798 对应图片。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 215959,
+        "sha256": "ebe193837adfaa89170a5d3c4cd9627357115a366615636a20b581810bb4c42c"
+      },
+      "filename": "images/huiyuan-peach-juice-2l-single.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

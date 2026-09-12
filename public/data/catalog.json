@@ -4592,9 +4592,105 @@
       "url": "https://rsj.ahsz.gov.cn/xwzx/tzgg/196173891.html",
       "publishedAt": "2025-12-15",
       "checkedAt": "2026-09-12",
-      "locator": "最终公告及附件 1 A 级单位表；第 46、48、50、104、207 行等消费企业线索",
-      "summary": "公告明确评价年度为 2024 年。已读原 A 级附件，其中包括南京肯德基宿州时代广场、苏宁广场餐厅，上海必胜客宿州万达广场餐厅，以及食品、饮料、服装企业，可继续逐个对应具体商品与服务。",
-      "limitation": "这是后续研究来源，本批尚未把这些企业对应到准确在售商品或门店套餐，不据名单扩张为整个连锁品牌均获评。附件序号以原文件为准。"
+      "locator": "最终公告及附件 1 A 级单位表；第 104 行宿州徽香源、第 207 行砀山汇源、第 331 行灵璧现代公交；另有第 46、48、50、101 行门店线索",
+      "summary": "2025 年开展、审查 2024 年的劳动守法诚信评价最终结果。已读取原 A 级附件，本批据具名食品企业及公交企业对应准确商品和本地线路服务；其他企业逐项继续核查。",
+      "limitation": "评价适用于具名用人单位及 2024 年审查范围，不扩张为同品牌所有企业均获评，也不作未来持续合规保证。附件序号以原文件为准。"
+    },
+    {
+      "id": "huixiangyuan-laowei500-anhui2026",
+      "title": "安徽 2026 年第 3 期食品抽检：徽香源老味烧鸡 500 克",
+      "publisher": "安徽省市场监督管理局",
+      "type": "政府抽检",
+      "url": "https://amr.ah.gov.cn/xwdt/ztzl/spaqfxyjjl/cjxx/150406691.html",
+      "publishedAt": "2026-01-21",
+      "checkedAt": "2026-09-12",
+      "locator": "附件 3 监督抽检产品合格信息.xls；序号 130，工作表第 133 行 C:I，抽样编号 SBJ25340000382611929ZX",
+      "summary": "已读取省局原始 XLS。该行列老味符离集烧鸡 500克/袋，标称生产企业及被抽样单位均为宿州市徽香源食品有限公司，厂址在宿州埇桥符离道东居委会；样品生产日期为 2025-10-13。",
+      "limitation": "用于对应本款品名、规格及境内制造企业，抽检合格不等于劳动合规，也不代表当前所有批次的检测结论。劳动依据另见宿州人社具名评价。"
+    },
+    {
+      "id": "huixiangyuan-commerce-2025",
+      "title": "宿州商务局：徽香源符离集烧鸡国内电商销售",
+      "publisher": "宿州市商务局",
+      "type": "政府信息",
+      "url": "https://mofcom.ahsz.gov.cn/xxfb/swdt/196143801.html",
+      "publishedAt": "2025-11-24",
+      "checkedAt": "2026-09-12",
+      "locator": "“小烧鸡”飞出“加速度” 宿州电商发展“未来可期”；开头及第一节",
+      "summary": "政府文章将徽香源企业与符离集烧鸡对应，记载其通过国内直播电商销售并发往全国，补充品牌、产品与本地企业的关系。",
+      "limitation": "报道没有给出本款克重，不单独用来确认所选 SKU 或当前库存；具体规格依据原始抽检表和京东商品卡。"
+    },
+    {
+      "id": "huixiangyuan-laowei500-jd",
+      "title": "京东：徽香源纸袋土麻鸡 500g 商品卡与包装",
+      "publisher": "京东商品资料",
+      "type": "国内零售",
+      "url": "https://www.jd.com/hprm/122184b5751eec0dd2dd7.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品号 4056875；商品卡标题和对应 500g 纸袋包装图",
+      "summary": "公开零售卡列徽香源符离集烧鸡土麻鸡 500g，链接准确商品号。包装正面可读徽香源、老味、符离集烧鸡、净含量 500 克，与省局生产记录的品名及规格对应。",
+      "limitation": "图片未展示可读的完整背标，制造主体由原始抽检表与政府品牌报道交叉对应。商品详情直链返回公共页面框架；规格依据可读商品卡，价格、库存、配送及包装版本以订单为准。"
+    },
+    {
+      "id": "lingbi-bus-register-2026",
+      "title": "宿州交通局 2026 年公交企业与运营线路名录",
+      "publisher": "宿州市交通运输局",
+      "type": "政府信息",
+      "url": "https://jtj.ahsz.gov.cn/public/2655601/195150461.html",
+      "publishedAt": "2026-06-09",
+      "checkedAt": "2026-09-12",
+      "locator": "城市公交企业信息名录第 4 行：灵璧县现代公共交通运输有限责任公司",
+      "summary": "官方名录把灵璧城区 1 路等线路明确对应到灵璧县现代公共交通运输有限责任公司，列迎宾大道南延段办公地址及灵璧掌上公交查询入口名称。",
+      "limitation": "本款只取名录中的灵璧 1 路。名录列的公司服务时间不是对每个站点、班次的实时保证；线路调整以运营方公告为准。"
+    },
+    {
+      "id": "lingbi-bus-fares-2026",
+      "title": "灵璧公交 2026 年公开服务价目",
+      "publisher": "灵璧县交通运输局",
+      "type": "政府信息",
+      "url": "https://www.lingbi.gov.cn/public/6627031/163837931.html",
+      "publishedAt": "2026-06-03",
+      "checkedAt": "2026-09-12",
+      "locator": "公共交通企业（灵璧县现代公共交通运输有限责任公司）服务价目；价格明细表末尾备注",
+      "summary": "2026 年价目注明县城规划区内非空调公交车 1 元，空调车基础票价 2 元；城乡和省际线路另列计价规则。本款采用城区 1 路普通成人单次乘车范围。",
+      "limitation": "不将城区价格扩张为所有线路统一票价，也不把普通票写成优惠或免费资格。实际上车车辆及最新公示决定应付票价。"
+    },
+    {
+      "id": "lingbi-bus-rules-2026",
+      "title": "灵璧公交 2026 年乘车与现场付费规则",
+      "publisher": "灵璧县交通运输局",
+      "type": "政府信息",
+      "url": "https://www.lingbi.gov.cn/public/6627031/163517351.html",
+      "publishedAt": "2026-03-09",
+      "checkedAt": "2026-09-12",
+      "locator": "灵璧公交乘车需知第一、四、五条",
+      "summary": "规则明确在公交站点候车、无人售票、上车投币或刷卡，不找零；到终点后返程需再次付费。车辆故障时按驾驶员安排换乘同线路车辆，原次付费有效。",
+      "limitation": "这是现场购买乘车服务的规则，没有代用户购票。临时绕行、班次和具体站点需按出行当日线路信息核对。"
+    },
+    {
+      "id": "huiyuan-peach2l-suzhou2024",
+      "title": "宿州 2024 年抽检：砀山汇源桃混合果汁 2 升",
+      "publisher": "宿州市市场监督管理局／中国质量新闻网供稿，新浪转载",
+      "type": "政府抽检转载",
+      "url": "https://finance.sina.cn/2024-08-29/detail-incmiaam9628680.d.html",
+      "publishedAt": "2024-08-29",
+      "checkedAt": "2026-09-12",
+      "locator": "2024 年第 17 期；食品抽检合格-20240828-饮料表第 1 行",
+      "summary": "完整转载行列桃混合果汁（果蔬饮料）2L/瓶，2024-02-27 生产，制造及受检单位均为砀山汇源食品饮料有限公司，地址为砀山经开区梨都东路北 50 米。",
+      "limitation": "只证明历史样品的生产企业。尚未读到所选在售商品完整制造标签，不能单凭品牌、品名及容量就保证当前供货来自该厂；质量抽检不作为劳动依据。"
+    },
+    {
+      "id": "huiyuan-peach2l-jd",
+      "title": "汇源京东自营店：桃混合果汁 2L 单瓶",
+      "publisher": "汇源京东自营旗舰店",
+      "type": "国内零售",
+      "url": "https://mall.jd.com/view_search-511357-21174959-99-1-24-1.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "销售排行中 100% 桃混合果汁 2000ml×1 瓶；准确商品号 100059650798",
+      "summary": "已读店铺公开 HTML，商品标题和链接列汇源 100% 桃混合果汁 2000mL 单瓶，图片也显示桃混合果汁 2L×1 瓶。购买链接移除了与商品身份无关的追踪参数。",
+      "limitation": "包装上制造企业小字无法可靠辨认，保留为国内销售证据；不据正面品牌或模糊字样认定砀山工厂供货。库存及配送范围以订单为准。"
     }
   ],
   "companies": [
@@ -9951,6 +10047,223 @@
           "periodEnd": "2024-12-31",
           "reviewedAt": "2026-09-12",
           "reviewDueAt": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "huixiangyuan-suzhou",
+      "name": "徽香源 · 宿州食品厂",
+      "legalName": "宿州市徽香源食品有限公司",
+      "location": "安徽省宿州市埇桥区符离道东居委会",
+      "origin": "china",
+      "originNote": "宿州本地食品企业及品牌，政府产品报道和制造记录交叉对应；本款为境内加工的包装熟食。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年获评劳动 A 级 · 审查 2024 年",
+      "scope": "宿州市徽香源食品有限公司及已对应的老味符离集烧鸡 500 克；劳动评价审查 2024 年。",
+      "finding": "生产企业列宿州劳动守法 A 级最终名单第 104 行；省局原始抽检表及同规格零售包装对应本款境内生产与购买渠道。",
+      "caveats": [
+        "2025 年公布的评价审查 2024 年，本站计划在 2026-12-15 前复核；这不是政府公布的评级有效期。",
+        "只对应此制造企业及所选 500 克老味烧鸡，其他规格、销售公司及养殖供应商需另行判断。",
+        "样品生产于 2025-10-13；商品制造主体变更或出现更新劳动评价时需重新核对。"
+      ],
+      "sourceIds": [
+        "suzhou-labor-2024",
+        "huixiangyuan-laowei500-anhui2026",
+        "huixiangyuan-commerce-2025",
+        "huixiangyuan-laowei500-jd",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与产品",
+          "status": "policy",
+          "detail": "宿州商务局将徽香源企业与符离集烧鸡对应；零售卡明确 500 克纸袋规格。",
+          "sourceIds": [
+            "huixiangyuan-commerce-2025",
+            "huixiangyuan-laowei500-jd"
+          ]
+        },
+        {
+          "stage": "熟食加工制造",
+          "status": "policy",
+          "detail": "省局原始抽检表列本款品名、规格及境内制造企业；同一用人单位列劳动 A 级最终名单。",
+          "sourceIds": [
+            "huixiangyuan-laowei500-anhui2026",
+            "suzhou-labor-2024"
+          ]
+        },
+        {
+          "stage": "养殖、包材与运输",
+          "status": "unknown",
+          "detail": "上游资料继续补充，现有劳动评价范围不扩大到未具名供应商。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "在本站复核期限前查询更新评价与相反证据，跟进商品制造企业及包装变化。",
+      "assessments": [
+        {
+          "subject": "宿州市徽香源食品有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年评价（审查 2024 年）",
+          "sourceId": "suzhou-labor-2024",
+          "limitation": "宿州人社 2025-12-15 公布最终结果，A 级附件第 104 行列本企业；本站复核期限不等于政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-12-15"
+        }
+      ]
+    },
+    {
+      "id": "lingbi-modern-bus",
+      "name": "灵璧现代公交",
+      "legalName": "灵璧县现代公共交通运输有限责任公司",
+      "location": "安徽省宿州市灵璧县；办公地址为灵城镇迎宾大道南延段",
+      "origin": "china",
+      "originNote": "安徽灵璧境内公交运营主体，服务发生在当地；车辆本身的制造地与用工范围另行判断。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年获评劳动 A 级 · 审查 2024 年",
+      "scope": "灵璧县现代公共交通运输有限责任公司及其城区 1 路客运服务；劳动评价审查 2024 年。",
+      "finding": "同一公司在宿州劳动 A 级最终名单及交通局 2026 年运营线路名录中具名，城区 1 路与现场付费规则已对应。",
+      "caveats": [
+        "政府评价审查 2024 年，本站在 2026-12-15 前复核；不作未来持续合规保证。",
+        "本款限灵璧城区 1 路，不推广到其他公交企业、车辆生产商或外包单位。",
+        "线路、站点及临时绕行可能调整；乘车前查看站牌和运营方最新公告。"
+      ],
+      "sourceIds": [
+        "suzhou-labor-2024",
+        "lingbi-bus-register-2026",
+        "lingbi-bus-fares-2026",
+        "lingbi-bus-rules-2026",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "线路运营主体",
+          "status": "policy",
+          "detail": "交通局 2026 年名录第 4 行把城区 1 路对应到本公司。",
+          "sourceIds": [
+            "lingbi-bus-register-2026"
+          ]
+        },
+        {
+          "stage": "境内乘车服务",
+          "status": "policy",
+          "detail": "在灵璧站点上车，按公开票价投币或刷卡；运营企业有具名劳动 A 级评价。",
+          "sourceIds": [
+            "lingbi-bus-fares-2026",
+            "lingbi-bus-rules-2026",
+            "suzhou-labor-2024"
+          ]
+        },
+        {
+          "stage": "车辆与外包供应",
+          "status": "unknown",
+          "detail": "劳动评价不自动覆盖车辆制造、设备供应及未具名外包单位。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "在本站复核期限前查阅更新劳动评价及相反证据，并核对具体商品或服务经营主体变化。",
+      "assessments": [
+        {
+          "subject": "灵璧县现代公共交通运输有限责任公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年评价（审查 2024 年）",
+          "sourceId": "suzhou-labor-2024",
+          "limitation": "宿州 2025-12-15 最终公布的 A 级附件第 331 行列本用人单位。本站复核期限不是政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-12-15"
+        }
+      ]
+    },
+    {
+      "id": "huiyuan-dangshan",
+      "name": "汇源 · 砀山工厂",
+      "legalName": "砀山汇源食品饮料有限公司",
+      "location": "安徽省宿州市砀山县经济技术开发区梨都东路北 50 米",
+      "origin": "china",
+      "originNote": "安徽砀山食品饮料制造企业；本记录以该境内工厂为研究对象，不代指汇源所有工厂。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年获评劳动 A 级 · 审查 2024 年",
+      "scope": "砀山汇源食品饮料有限公司的 2024 年劳动守法评价；正在对应国内在售果汁的制造标签。",
+      "finding": "砀山企业自身列劳动 A 级名单，历史抽检表有其 2L 桃混合果汁；所选当前零售卡尚未完整对应制造厂，商品继续待核查。",
+      "caveats": [
+        "A 级评价审查 2024 年，本站在 2026-12-15 前复核，不保证未来持续合规。",
+        "历史样品与在售卡品名、规格相符，当前批次制造企业仍需清晰标签或供应资料确认。",
+        "不将本公司的劳动评价扩张到汇源其他生产、销售或关联企业。"
+      ],
+      "sourceIds": [
+        "suzhou-labor-2024",
+        "huiyuan-peach2l-suzhou2024",
+        "huiyuan-peach2l-jd",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "具名工厂劳动评价",
+          "status": "policy",
+          "detail": "砀山汇源在宿州最终 A 级名单第 207 行具名。",
+          "sourceIds": [
+            "suzhou-labor-2024"
+          ]
+        },
+        {
+          "stage": "产品制造对应",
+          "status": "policy",
+          "detail": "2024 年历史样品列砀山汇源制造 2L 桃混合果汁，当前零售批次尚需进一步对应。",
+          "sourceIds": [
+            "huiyuan-peach2l-suzhou2024",
+            "huiyuan-peach2l-jd"
+          ]
+        },
+        {
+          "stage": "原料与其他供应商",
+          "status": "unknown",
+          "detail": "上游资料继续补充；本企业评级不扩大到其他供应主体。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "在本站复核期限前查阅更新劳动评价及相反证据，并核对具体商品或服务经营主体变化。",
+      "assessments": [
+        {
+          "subject": "砀山汇源食品饮料有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年评价（审查 2024 年）",
+          "sourceId": "suzhou-labor-2024",
+          "limitation": "宿州 2025-12-15 最终公布的 A 级附件第 207 行列本用人单位。本站复核期限不是政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-12-15"
         }
       ]
     }
@@ -16986,6 +17299,177 @@
           "assessmentSourceId": "huaibei-labor-2025"
         }
       }
+    },
+    {
+      "id": "huixiangyuan-laowei-chicken-500g",
+      "name": "老味符离集烧鸡（土麻鸡）500g 纸袋装",
+      "brand": "徽香源",
+      "companyId": "huixiangyuan-suzhou",
+      "category": "food",
+      "description": "徽香源老味符离集烧鸡，纸袋包装土麻鸡熟食，净含量 500 克，单袋。",
+      "tags": [
+        "熟食",
+        "烧鸡",
+        "符离集",
+        "土麻鸡",
+        "500g",
+        "安徽"
+      ],
+      "needs": [
+        "即食熟肉"
+      ],
+      "url": "https://item.jd.com/4056875.html",
+      "market": "京东商品号 4056875，所选为纸袋土麻鸡 500g 单袋；实际库存、配送、价格、保质期及保存方式以商品页和收到的包装为准。",
+      "relationship": "省局原始生产记录列本款 500 克老味符离集烧鸡及宿州徽香源食品公司；零售包装正面品名、品牌、克重一致，商务局报道补充企业与品牌关系。",
+      "relationshipSourceIds": [
+        "huixiangyuan-laowei500-anhui2026",
+        "huixiangyuan-commerce-2025",
+        "huixiangyuan-laowei500-jd"
+      ],
+      "image": "images/huixiangyuan-laowei-chicken-500g.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/384885/29/19983/142227/696f3ae0F56989f60/0083320320deb278.jpg",
+      "imageRights": "宿州市徽香源食品有限公司、京东平台及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "可读京东商品卡对应准确商品号 4056875 及 500 克单袋规格；按国内零售入口收录，配送库存按下单地区确认。",
+          "sourceIds": [
+            "huixiangyuan-laowei500-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "安徽省局原始抽检表序号 130 对应同名同规格熟食、宿州市徽香源食品有限公司及符离道东厂址；所选包装正面与记录一致。",
+          "sourceIds": [
+            "huixiangyuan-laowei500-anhui2026",
+            "huixiangyuan-commerce-2025",
+            "huixiangyuan-laowei500-jd"
+          ],
+          "subject": "宿州市徽香源食品有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "对应生产企业列宿州 2025 年最终劳动守法 A 级名单第 104 行；该轮评价审查 2024 年。",
+          "sourceIds": [
+            "suzhou-labor-2024",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "suzhou-labor-2024"
+        }
+      }
+    },
+    {
+      "id": "lingbi-city-bus-1-single-ride",
+      "name": "灵璧城区 1 路 · 普通成人单次乘车",
+      "brand": "灵璧现代公交",
+      "companyId": "lingbi-modern-bus",
+      "category": "transport",
+      "description": "安徽灵璧城区 1 路公交的一次单向乘车服务。普通成人上车付费，返程另计。",
+      "tags": [
+        "公交",
+        "灵璧",
+        "安徽",
+        "1路",
+        "单次乘车",
+        "现场付费"
+      ],
+      "needs": [
+        "公交"
+      ],
+      "url": "https://www.lingbi.gov.cn/public/6627031/163517351.html",
+      "market": "在灵璧城区 1 路站点候车，上车投币或刷卡，不找零。2026 年公开价目列城区非空调车 1 元、空调车基础票价 2 元；按实际车辆及最新票价付费。到终点后返程需再次付费，出行前核对站牌与临时调整。",
+      "relationship": "宿州交通局 2026 年名录明确城区 1 路由灵璧县现代公共交通运输有限责任公司运营；县交通局在该企业栏目公开服务价目及现场付费规则。",
+      "relationshipSourceIds": [
+        "lingbi-bus-register-2026",
+        "lingbi-bus-fares-2026",
+        "lingbi-bus-rules-2026"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "面向乘客现场提供的一次公交客运服务；2026 年官方乘车规则明确站点候车和上车投币、刷卡，另有当前公开价目。",
+          "sourceIds": [
+            "lingbi-bus-rules-2026",
+            "lingbi-bus-fares-2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "服务在安徽灵璧城区提供；2026 年运营名录把 1 路明确对应到本境内公交企业。",
+          "sourceIds": [
+            "lingbi-bus-register-2026",
+            "lingbi-bus-rules-2026"
+          ],
+          "subject": "灵璧县现代公共交通运输有限责任公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "运营企业自身列宿州劳动守法 A 级最终名单第 331 行，2025 年公布、审查 2024 年。",
+          "sourceIds": [
+            "suzhou-labor-2024",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "suzhou-labor-2024"
+        }
+      }
+    },
+    {
+      "id": "huiyuan-peach-juice-2l-single",
+      "name": "100% 桃混合果汁 2L 单瓶",
+      "brand": "汇源",
+      "companyId": "huiyuan-dangshan",
+      "category": "drinks",
+      "description": "汇源桃混合果汁，净含量 2 升，单瓶；国内零售规格已对应，当前制造企业继续核查。",
+      "tags": [
+        "果汁",
+        "桃混合果汁",
+        "桃汁",
+        "2L",
+        "单瓶"
+      ],
+      "needs": [
+        "果汁"
+      ],
+      "url": "https://item.jd.com/100059650798.html",
+      "market": "汇源京东自营旗舰店商品号 100059650798，2L 单瓶；库存、配送及价格按订单确认。待补可读制造标签以确认当前供货工厂。",
+      "relationship": "在售卡对应本款品名及容量；2024 年同名同规格样品出自砀山汇源。零售图制造小字不可可靠辨认，暂不认定当前商品必然由该获评工厂生产。",
+      "relationshipSourceIds": [
+        "huiyuan-peach2l-suzhou2024",
+        "huiyuan-peach2l-jd"
+      ],
+      "image": "images/huiyuan-peach-juice-2l-single.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img12.360buyimg.com/n0/jfs/t1/396087/1/14905/139278/69a2bb11F5dd76197/0083320320da14ff.jpg",
+      "imageRights": "汇源品牌相关权利人、京东平台及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已读取自营店公开商品卡，明确商品号 100059650798、桃混合果汁和 2000mL 单瓶。",
+          "sourceIds": [
+            "huiyuan-peach2l-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "有砀山工厂同名同容量历史生产记录，当前在售批次的制造标签尚不可读；需进一步确认其实际生产企业。",
+          "sourceIds": [
+            "huiyuan-peach2l-suzhou2024",
+            "huiyuan-peach2l-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "砀山汇源有政府劳动 A 级评价，所选零售商品尚未明确对应本工厂，因此暂不把企业评价升级为该商品的劳动结论。",
+          "sourceIds": [
+            "suzhou-labor-2024"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -17099,9 +17583,13 @@
         {
           "label": "即食蛋",
           "query": "即食蛋"
+        },
+        {
+          "label": "即食熟肉",
+          "query": "熟食"
         }
       ],
-      "note": "27 项粮油食品需求均有具体研究资料，其中面粉、酱油、腐乳、饼干和即食蛋已有正式收录。其余商品仍需补充生产企业劳动依据或制造、销售对应；即食再制蛋不计为生鲜鸡蛋，25kg 面粉的地区配送范围单独列明。",
+      "note": "28 项粮油食品需求均有具体研究资料，其中面粉、酱油、腐乳、饼干、即食蛋和即食熟肉已有正式收录。其余商品继续核对制造、劳动及购买依据；包装熟食和再制蛋不计为生鲜鸡肉或鸡蛋。25kg 面粉的地区配送范围单独列明。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -17166,7 +17654,11 @@
         "jiashili-soda100-jd",
         "jiangmen-sampling-2024-17-media",
         "miyoko-sial-product",
-        "miyoko-soft-eggs55-jd"
+        "miyoko-soft-eggs55-jd",
+        "suzhou-labor-2024",
+        "huixiangyuan-laowei500-anhui2026",
+        "huixiangyuan-commerce-2025",
+        "huixiangyuan-laowei500-jd"
       ]
     },
     {
@@ -17334,7 +17826,10 @@
         "huaibei-labor-2025",
         "kouzi-six-official",
         "kouzi-six-sampling-2025-media",
-        "kouzi-six-jd"
+        "kouzi-six-jd",
+        "suzhou-labor-2024",
+        "huiyuan-peach2l-suzhou2024",
+        "huiyuan-peach2l-jd"
       ]
     },
     {
@@ -17837,13 +18332,17 @@
           "query": "雨伞"
         }
       ],
-      "note": "已正式收录淮北口子国际大酒店人民路高级优享双床房一晚，具名经营法人有政府劳动 A 级评价。自行车、电动车及海口酒店等有研究资料；交通、制造和服务经营主体分别对应。",
+      "note": "出行资料现涵盖自行车、电动车、公交及酒店；灵璧城区 1 路单次乘车和淮北口子酒店具体房型已有正式收录。摩托车、铁路、行李箱及雨伞仍需补充具名制造或服务企业的具体产品。",
       "sourceIds": [
         "sofitel-haikou-campus",
         "huaibei-labor-2025",
         "kouzi-hotel-company-gov",
         "kouzi-hotel-company-2026",
-        "kouzi-hotel-ctrip"
+        "kouzi-hotel-ctrip",
+        "suzhou-labor-2024",
+        "lingbi-bus-register-2026",
+        "lingbi-bus-fares-2026",
+        "lingbi-bus-rules-2026"
       ]
     },
     {
