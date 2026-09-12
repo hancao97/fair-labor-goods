@@ -7572,6 +7572,110 @@
       },
       "filename": "images/mlily-kuai2-mattress180x200.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "beeflower-pomegranate-shampoo500",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/1306/38/24870/124136/66e3e3a2F34a2822d/6fc03736c6f454b5.jpg",
+      "source_url": "https://www.jd.com/hprm/16750df08e03694b9aa55.html",
+      "product_url": "https://item.jd.com/1458652.html",
+      "title": "蜂花红石榴洋甘菊洗发露500mL",
+      "width": 220,
+      "height": 220,
+      "bytes": 11134,
+      "sha256": "dc5cb2db643ede00adf36d669256757ed834f539569649c528d06d1356b5af1c",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "粉色背景、红石榴与单瓶粉色洗发露，500mL及品种对应当前1458652卡片；没有制造背标。不从广告语推断实测功效或适用人群。",
+      "reuse_info": {
+        "rights_holder": "蜂花洗护品牌、京东零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+        "license": "公开商品展示图；未发现开放许可声明，未宣称取得授权或排他权利。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 24098,
+        "sha256": "c65b942c3eae0c63b977a58a8cfad39a8f79997d7f8fff1d7b705c8e55408c0c"
+      },
+      "filename": "images/beeflower-pomegranate-shampoo500.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "beeflower-jasmine-soap125",
+      "image_url": "https://img14.360buyimg.com/n7/jfs/t1/494369/27/1667/142745/6a6ac4cdFec7c5123/0083320320ad1fd0.jpg",
+      "source_url": "https://www.jd.com/chanpin/609836.html",
+      "product_url": "https://item.jd.com/2875874.html",
+      "title": "蜂花茉莉香皂125g · 单块",
+      "width": 220,
+      "height": 220,
+      "bytes": 13530,
+      "sha256": "985c51f27c9d3759c05da80a62a19e0322b801fd809ae1ca2a9cdc72406ee474",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "绿色茉莉包装与一块裸皂同图，单块125g来自2875874卡片；不把包装和皂体计为两块，不将檀香、其他香型或多块组合混入。奖项及广告不用于判断劳动状况，未见制造背标。",
+      "reuse_info": {
+        "rights_holder": "蜂花香皂品牌、京东零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+        "license": "公开商品展示图；未发现开放许可声明，未宣称取得授权或排他权利。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 24606,
+        "sha256": "6507c4ab89c893607b3a572d8294584b2d9e86a96672b0927692fbb10ded2691"
+      },
+      "filename": "images/beeflower-jasmine-soap125.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "boomjoy-xp01-mop36-2cloths",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/450254/37/5956/239126/6a59dd31F1611050f/00835a05a05b4903.jpg",
+      "source_url": "https://www.jd.com/brand/15901cc3c92e2f70ca1ad.html",
+      "product_url": "https://item.jd.com/100211674040.html",
+      "title": "宝家洁XP01喷雾平板拖把36cm · 2片布",
+      "width": 220,
+      "height": 220,
+      "bytes": 14180,
+      "sha256": "4ae8c1dfd3bf7df751a8b722221042019934611220621dc122c95ad3823a0c06",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "原图显示喷雾平板拖把及代言人物，型号XP01、36cm面板、127cm杆长和2片布采用准确零售卡片。未见制造标签；配套数量未从画面推断，代言与宣传语不作为劳动证据。",
+      "reuse_info": {
+        "rights_holder": "宝家洁品牌、京东零售图片提供方及原摄影和肖像相关权利人；确切图片著作权法人未核实",
+        "license": "公开商品展示图；未发现开放许可声明，未宣称取得授权或排他权利。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 24644,
+        "sha256": "9bc5a007c678f8257279be4a3292e84bf574fcd2e74220ac3b16226f0f2ff13d"
+      },
+      "filename": "images/boomjoy-xp01-mop36-2cloths.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "boomjoy-y46-broom-set",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/490028/30/5274/144528/6a6b0602F5a0bc26c/00835a05a0ba1580.jpg",
+      "source_url": "https://www.jd.com/brand/15901a30c21cd967824d0.html",
+      "product_url": "https://item.jd.com/100219409844.html",
+      "title": "宝家洁Y46扫把簸箕套装",
+      "width": 220,
+      "height": 220,
+      "bytes": 9418,
+      "sha256": "096c1f43c5859f05ecdb5d96fcf98b45ebc1cd30ab1ea1602e6104c9a52d4bcb",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "图中为白灰色扫把和带梳齿簸箕组合，准确型号Y46来自100219409844卡片。不是XY06、磁吸款或单售簸箕；未见可读制造标签，没有借其他页面尺寸或广告用语推断性能。",
+      "reuse_info": {
+        "rights_holder": "宝家洁品牌、京东零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+        "license": "公开商品展示图；未发现开放许可声明，未宣称取得授权或排他权利。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 17181,
+        "sha256": "d7b07f827891e3a623c2f65ed1d4dc434c13399c373d76dde347381cdddd0053"
+      },
+      "filename": "images/boomjoy-y46-broom-set.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

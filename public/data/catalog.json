@@ -560,7 +560,7 @@
       "url": "https://static.jahwa.com.cn/uploads/file/20260326/2026032616554640323.pdf",
       "locator": "PDF 第 36 页，印刷页 67–68，工时与休假",
       "summary": "报告披露标准工时为每周 40 小时，不定时和综合工时制员工可调整工作时间。",
-      "limitation": "没有从该段取得每周两天休息的明确承诺，也没有具体产品工厂的实际考勤。",
+      "limitation": "集团披露适用不同工时制度，尚未与所选商品实际制造企业的综合劳动评价或独立审核对应；每周双休与公开逐人考勤不作为统一收录条件。",
       "publishedAt": "2026-03-26",
       "checkedAt": "2026-09-11"
     },
@@ -572,7 +572,7 @@
       "url": "https://www.jahwa.com.cn/homeaegis",
       "locator": "品牌简介、产品简介及品牌历史",
       "summary": "官网确认家安为上海家化品牌，展示衣物清洁、餐具清洁和家电清洁产品。",
-      "limitation": "产品与品牌对应资料，不是双休或供应商考勤证据。",
+      "limitation": "用于品牌与款式对应，尚未提供所选商品实际制造企业的适用劳动依据；品牌介绍不单独构成综合劳动结论。",
       "publishedAt": null,
       "checkedAt": "2026-09-11"
     },
@@ -6383,6 +6383,90 @@
       "locator": "查阅日原始卡片文字及链接：货号100110830728，快充2.0弹簧床垫1.8米×2米",
       "summary": "当前目录商品文字列梦百合快充2.0、弹簧床垫、1.8×2m及独立商品入口；对应原图展示白色床垫和灰色侧边。",
       "limitation": "原始HTML与对应原图已核对；快充Air、Air Pro、薄垫和其他尺寸不合并。图片内排名、护脊与促销说法未独立证实，不能作医学效果或当前报价；床、枕头不算入本次床垫，制造标签尚未取得。"
+    },
+    {
+      "id": "beeflower-hair-labor2021",
+      "title": "上海蜂花日用品2021年劳动合同与工会制度自述",
+      "publisher": "上海蜂花日用品有限公司",
+      "type": "企业劳动制度披露",
+      "url": "https://www.beeflower-cn.com/news/136.html",
+      "publishedAt": "2021-10-26",
+      "checkedAt": "2026-09-12",
+      "locator": "2021-10-26企业新闻，“建设和谐关系 振兴民族品牌”及洗护业务介绍",
+      "summary": "公司介绍蜂花洗护业务，并在2021年文章中自述劳动合同签订率100%、实行集体合同制度及曾获上海市和谐劳动关系达标企业称号。",
+      "limitation": "已取得公开网页文字，直接原始请求返回403，未核对图片或重试限制。该文是历史企业自述，和谐称号具体批次及原始评审结果未独立核实，不能作为现售洗发露工厂的当前综合劳动结论；五一劳动奖状与劳动守法评价分别记录。"
+    },
+    {
+      "id": "beeflower-pomegranate500-jd",
+      "title": "蜂花红石榴洋甘菊洗发露500mL京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/hprm/16750df08e03694b9aa55.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始卡片：货号1458652，红石榴洋甘菊洗发露500mL及对应图片",
+      "summary": "当前准确卡片提供蜂花红石榴洋甘菊洗发露500mL、独立商品链接及粉色瓶身原图。",
+      "limitation": "原始目录及对应原图已核对；数字详情页仅返回通用框架。图片未显示可读制造背标，名称中的配方及功效宣传未独立核验；750mL、控油蓬松、生姜健发和护发素等其他商品不与本款混用，地区供货以商家为准。"
+    },
+    {
+      "id": "beeflower-soap-mofcom-brand",
+      "title": "商务部老字号数字博物馆：蜂花香皂所属企业",
+      "publisher": "中华人民共和国商务部",
+      "type": "政府品牌档案",
+      "url": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/14bf3f5c65484c2c9e6097bfd74da486",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "品牌资料栏“所属企业”、2024-02-01中华老字号认定及系列发展介绍",
+      "summary": "政府品牌档案列蜂花香皂所属企业为上海制皂厂有限公司，品牌创立于1928年，并介绍茉莉等香皂系列。",
+      "limitation": "公开网页正文已读取；直接下载发生证书校验错误，未绕过或重试。2024-02-01是老字号认定日期，不冒充页面发布日期或劳动评价日期。品牌归属不能单独确定现售125g茉莉香皂的实际生产厂，也不与蜂花洗护企业互借资料。"
+    },
+    {
+      "id": "beeflower-jasmine125-jd",
+      "title": "蜂花茉莉香皂125g单块京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/chanpin/609836.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始卡片：货号2875874，蜂花茉莉香皂125g，单块图",
+      "summary": "当前准确卡片列蜂花茉莉香皂125g并提供独立商品入口，原图为绿色茉莉包装及一块皂体。",
+      "limitation": "原始HTML按页面声明的UTF-8读取并与原图核对；数字详情页只有通用框架。125g×4、五块装、檀香和混合香型不计为本款；没有可读制造背标，图中奖项和芳香宣传不是劳动依据，包装加皂体的展示不表示两块。"
+    },
+    {
+      "id": "boomjoy-brand-production-plan",
+      "title": "宝家洁官网：品牌经营者与产业园建设计划",
+      "publisher": "嘉兴宝家洁生活科技有限公司",
+      "type": "企业制造规划资料",
+      "url": "https://boomjoy.com/about_9/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "研发生产页面中的产业园段落、品牌介绍及具名版权信息",
+      "summary": "官网具名嘉兴宝家洁生活科技有限公司，并称品牌出身捷顺集团；介绍秀洲区产业园于2024年10月开工，将整合自主生产制造与仓储物流。",
+      "limitation": "原始HTML已读取，页面仍使用未来建设表述，未把规划当作已投产事实或将本款旧有商品归属该新厂。品牌经营者、捷顺关联企业和实际工厂分别核验；SKA级商家、销量排名及质量宣传不是劳动保障A级或综合劳动评价。"
+    },
+    {
+      "id": "boomjoy-xp01-36cm-jd",
+      "title": "宝家洁XP01喷雾平板拖把36cm、2片布京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/15901cc3c92e2f70ca1ad.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始卡片：货号100211674040，XP01、宽36cm、杆长127cm、配2布",
+      "summary": "当前准确型号卡片列XP01喷雾平板拖把、36cm宽、127cm杆长及配2片布，提供独立商品入口和对应图片。",
+      "limitation": "原始HTML及原图已核对，数字详情页只返回通用框架。所选是整把拖把配2片布，不是单售替换布；XP02、其他面板宽度和附加挂钩组合不移用。原图没有具名制造标签，代言和免手洗宣传不作为劳动证据。"
+    },
+    {
+      "id": "boomjoy-y46-jd",
+      "title": "宝家洁Y46扫把簸箕套装京东零售条目",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/15901a30c21cd967824d0.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始卡片：货号100219409844，Y46扫把簸箕套装",
+      "summary": "当前卡片明确Y46及扫把簸箕组合，提供独立商品入口；原图为带梳齿簸箕和扫把的套装。",
+      "limitation": "原始HTML与原图已核，数字详情页只有通用框架。XY06、磁吸款、刮水扫把及单售簸箕不合并，未从其他商家的98cm参数填写本款尺寸；图中未见可读制造标签，地区库存和结算价格另核。"
     }
   ],
   "companies": [
@@ -14052,6 +14136,174 @@
         }
       ],
       "nextCheck": "有快充2.0准确制造标签或可适用实际生产企业的政府综合评价、独立劳动审核后再核；不重复把年报财务审计寻找为劳动认证。"
+    },
+    {
+      "level": "disclosure",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "历史合同制度披露",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "beeflower-hair",
+      "name": "蜂花洗护",
+      "legalName": "上海蜂花日用品有限公司",
+      "location": "上海市闵行区（官网联系地址，非本款已核厂址）",
+      "origin": "china",
+      "originNote": "官网历史介绍确认为中国创立的洗护企业；所选商品实际制造企业另行核对，不从品牌或地址推断工人国籍。",
+      "cardNote": "洗护企业 · 历史劳动制度自述",
+      "scope": "上海蜂花日用品有限公司2021年制度自述及当前洗发露零售资料；与蜂花香皂的上海制皂企业分开。",
+      "finding": "企业旧文介绍劳动合同及集体合同制度，称曾获和谐劳动关系称号。本次红石榴洋甘菊500mL有准确国内销售入口，但实际制造企业及适用的原始劳动结果仍待对应。",
+      "caveats": [
+        "2021年企业自述没有独立补成所选洗发露的当前劳动结论。",
+        "日用品、化妆品等不同制造法人不能只因同属蜂花洗护便互借资料。",
+        "蜂花香皂的老字号和上海制皂资料不属于本洗护企业；商品名称中的效果不作医学保证。"
+      ],
+      "sourceIds": [
+        "beeflower-hair-labor2021",
+        "beeflower-pomegranate500-jd"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "官网旧文对应蜂花洗护业务，当前京东1458652列500mL红石榴洋甘菊洗发露。",
+          "sourceIds": [
+            "beeflower-hair-labor2021",
+            "beeflower-pomegranate500-jd"
+          ]
+        },
+        {
+          "stage": "具体洗发露制造",
+          "status": "unknown",
+          "detail": "所看零售图缺少具名制造标签，其他健发品种的历史备案不能确定本款生产企业。",
+          "sourceIds": [
+            "beeflower-pomegranate500-jd"
+          ]
+        },
+        {
+          "stage": "劳动制度及其他雇主",
+          "status": "policy",
+          "detail": "2021年文章披露劳动合同及集体合同制度，保留其历史范围，不扩大到未对应工厂、经销和配送人员。",
+          "sourceIds": [
+            "beeflower-hair-labor2021"
+          ]
+        }
+      ],
+      "nextCheck": "出现所选500mL制造背标、该实际厂家的适用政府劳动结果或可核验独立劳动审核后再对应；不重复旧称号、访问受限网页或不同洗发露备案。"
+    },
+    {
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用工时依据待补",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "beeflower-soap",
+      "name": "蜂花香皂 · 上海制皂",
+      "legalName": "上海制皂厂有限公司",
+      "location": "上海市（政府品牌档案所属地区；本款实际工厂待核）",
+      "origin": "china",
+      "originNote": "商务部品牌档案列1928年创立的上海蜂花香皂与所属企业；这是品牌身份资料，所选现售香皂制造地与用人单位另核。",
+      "cardNote": "香皂品牌归属已核 · 制造与劳动待补",
+      "scope": "商务部品牌档案所列上海制皂厂有限公司及京东茉莉香皂125g；未把品牌企业自动视为现售实际制造厂。",
+      "finding": "政府档案确认蜂花香皂的品牌归属，现售茉莉125g已有具体购买入口。尚未获得该款包装的具名制造企业及其适用劳动依据。",
+      "caveats": [
+        "中华老字号、质量奖及品牌历史不是劳动合规评价。",
+        "上海制皂厂、其他制皂制造法人和蜂花洗护企业分别记录，不互相移用评价。",
+        "产品背标与实际制造企业未对应，不能从上海品牌直接推断现售产地或工人国籍。"
+      ],
+      "sourceIds": [
+        "beeflower-soap-mofcom-brand",
+        "beeflower-jasmine125-jd"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "政府品牌档案对应上海制皂厂，京东2875874列茉莉香皂125g单块。",
+          "sourceIds": [
+            "beeflower-soap-mofcom-brand",
+            "beeflower-jasmine125-jd"
+          ]
+        },
+        {
+          "stage": "具体香皂制造",
+          "status": "unknown",
+          "detail": "现售图片没有可读制造背标，品牌历史与其他香型资料不能确定本款实际工厂。",
+          "sourceIds": [
+            "beeflower-jasmine125-jd",
+            "beeflower-soap-mofcom-brand"
+          ]
+        },
+        {
+          "stage": "包装与其他雇主",
+          "status": "unknown",
+          "detail": "香皂成型与手工包装的实际用人单位尚待对应；原料及配送作为补充调查，不要求全链逐人考勤才收录。",
+          "sourceIds": [
+            "beeflower-soap-mofcom-brand"
+          ]
+        }
+      ],
+      "nextCheck": "取得本款125g茉莉香皂的可读制造标签或与实际生产企业对应的新劳动依据后继续；不重复移用旧檀香皂历史报道或洗护企业荣誉。"
+    },
+    {
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用工时依据待补",
+      "restLabel": "适用休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "boomjoy-jiaxing",
+      "name": "宝家洁",
+      "legalName": "嘉兴宝家洁生活科技有限公司",
+      "location": "浙江省嘉兴市（官网所列产业园地区，非本款已核厂址）",
+      "origin": "china",
+      "originNote": "官网具名嘉兴品牌经营企业并介绍国内产业园计划；品牌的中国身份与每款商品的制造主体分别记录。",
+      "cardNote": "品牌经营者已核 · 本款制造厂待补",
+      "scope": "宝家洁官网经营者、产业园计划与XP01、Y46零售条目；不将相关捷顺企业或新规划工厂自动指定为本款制造商。",
+      "finding": "XP01喷雾拖把和Y46扫把套装均有当前准确国内入口。官网介绍2024年开工的产业园和未来自主制造计划，不能据此确定这些商品已经由新厂生产，也没有取得可适用本款制造企业的劳动结果。",
+      "caveats": [
+        "计划开工、拟建智能工厂与现售商品实际制造是不同事实。",
+        "嘉兴宝家洁、洁阳、捷顺等主体不因关联介绍直接合并为同一用人单位。",
+        "官网SKA级电商商家标签不是劳动保障A级；排名、代言和质量宣传不充当劳动评价。"
+      ],
+      "sourceIds": [
+        "boomjoy-brand-production-plan",
+        "boomjoy-xp01-36cm-jd",
+        "boomjoy-y46-jd"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "官网具名品牌经营者，京东准确货号分别对应XP01拖把和Y46扫把簸箕套装。",
+          "sourceIds": [
+            "boomjoy-brand-production-plan",
+            "boomjoy-xp01-36cm-jd",
+            "boomjoy-y46-jd"
+          ]
+        },
+        {
+          "stage": "具体工具制造",
+          "status": "unknown",
+          "detail": "原图未见具名制造标签，新产业园规划未与这两款商品对应，实际厂商及适用劳动资料仍待补。",
+          "sourceIds": [
+            "boomjoy-brand-production-plan",
+            "boomjoy-xp01-36cm-jd",
+            "boomjoy-y46-jd"
+          ]
+        },
+        {
+          "stage": "材料与配送用工",
+          "status": "unknown",
+          "detail": "塑料、金属杆、拖布等供应及仓储配送雇主另作补充调查，按各自适用范围保留。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "有XP01或Y46具名包装、制造说明或对应企业的原始劳动结果时继续；不重复从关联企业旧工会活动或拟建园区推断本款工厂。"
     }
   ],
   "products": [
@@ -23985,6 +24237,219 @@
           ]
         }
       }
+    },
+    {
+      "id": "beeflower-pomegranate-shampoo500",
+      "name": "红石榴洋甘菊洗发露500mL",
+      "brand": "蜂花（洗护）",
+      "companyId": "beeflower-hair",
+      "category": "daily",
+      "needs": [
+        "洗发水"
+      ],
+      "description": "所选为500mL红石榴洋甘菊洗发露，京东货号1458652，粉色瓶身。名称及规格来自零售卡片，配方以现售标签为准。",
+      "tags": [
+        "洗发水",
+        "洗发露",
+        "红石榴",
+        "洋甘菊",
+        "500mL"
+      ],
+      "url": "https://item.jd.com/1458652.html",
+      "market": "京东1458652提供500mL单瓶的具体购买入口，地区库存和结算价格以商家为准。",
+      "relationship": "企业旧文明确蜂花洗护业务，准确零售卡片对应本款；当前未见制造背标，不把其他无硅健发品种的历史备案移用过来。",
+      "relationshipSourceIds": [
+        "beeflower-pomegranate500-jd",
+        "beeflower-hair-labor2021"
+      ],
+      "image": "images/beeflower-pomegranate-shampoo500.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/1306/38/24870/124136/66e3e3a2F34a2822d/6fc03736c6f454b5.jpg",
+      "imageRights": "蜂花洗护品牌、京东零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日原始京东卡片列红石榴洋甘菊洗发露500mL及独立货号1458652，与所看商品原图对应。",
+          "sourceIds": [
+            "beeflower-pomegranate500-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "所看图片未显示本款具名制造背标，品牌业务及官网联系地址不能直接确定生产法人或厂址。",
+          "sourceIds": [
+            "beeflower-pomegranate500-jd",
+            "beeflower-hair-labor2021"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "企业2021年合同制度自述与历史称号未补成适用于本款实际制造企业的原始综合劳动结果或独立审核。",
+          "sourceIds": [
+            "beeflower-hair-labor2021"
+          ]
+        }
+      }
+    },
+    {
+      "id": "beeflower-jasmine-soap125",
+      "name": "茉莉香皂125g · 单块",
+      "brand": "蜂花（香皂）",
+      "companyId": "beeflower-soap",
+      "category": "daily",
+      "needs": [
+        "香皂"
+      ],
+      "description": "蜂花茉莉香皂125g单块，所选京东2875874，绿色花卉包装。包装与皂体同图展示，不表示两块装。",
+      "tags": [
+        "香皂",
+        "茉莉香皂",
+        "125g",
+        "单块"
+      ],
+      "url": "https://item.jd.com/2875874.html",
+      "market": "当前京东目录有2875874的准确茉莉125g单块入口，其他香型和多块组合另核。",
+      "relationship": "商务部品牌档案列蜂花香皂所属企业为上海制皂厂有限公司；当前具体货号属于茉莉系列，但还没有现售制造背标。",
+      "relationshipSourceIds": [
+        "beeflower-soap-mofcom-brand",
+        "beeflower-jasmine125-jd"
+      ],
+      "image": "images/beeflower-jasmine-soap125.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img14.360buyimg.com/n7/jfs/t1/494369/27/1667/142745/6a6ac4cdFec7c5123/0083320320ad1fd0.jpg",
+      "imageRights": "蜂花香皂品牌、京东零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "原始零售卡片列货号2875874、蜂花茉莉香皂125g，提供独立商品链接及对应单块图片。",
+          "sourceIds": [
+            "beeflower-jasmine125-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "政府资料确认品牌归属，尚未将现售茉莉125g对应到具名制造企业和厂址；不凭中国品牌直接判定制造地。",
+          "sourceIds": [
+            "beeflower-soap-mofcom-brand",
+            "beeflower-jasmine125-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "本款实际生产企业及适用劳动依据尚未确定；香皂品牌的老字号、质量奖和蜂花洗护企业的劳动自述都不能代替。",
+          "sourceIds": [
+            "beeflower-soap-mofcom-brand"
+          ]
+        }
+      }
+    },
+    {
+      "id": "boomjoy-xp01-mop36-2cloths",
+      "name": "XP01喷雾平板拖把36cm · 2片布",
+      "brand": "宝家洁",
+      "companyId": "boomjoy-jiaxing",
+      "category": "daily",
+      "needs": [
+        "拖把"
+      ],
+      "description": "XP01喷雾平板拖把，面板宽36cm、杆长127cm，所选组合配2片布。型号和规格来自准确零售卡片。",
+      "tags": [
+        "清洁工具",
+        "拖把",
+        "喷雾拖把",
+        "XP01",
+        "36cm",
+        "2片布"
+      ],
+      "url": "https://item.jd.com/100211674040.html",
+      "market": "京东100211674040有整把XP01配2片布的具体入口，替换布和其他面板宽度不算入本条目。",
+      "relationship": "官网具名宝家洁品牌经营者并介绍产业园建设计划，零售准确货号确认XP01规格；未取得该款实际制造商。",
+      "relationshipSourceIds": [
+        "boomjoy-xp01-36cm-jd",
+        "boomjoy-brand-production-plan"
+      ],
+      "image": "images/boomjoy-xp01-mop36-2cloths.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/450254/37/5956/239126/6a59dd31F1611050f/00835a05a05b4903.jpg",
+      "imageRights": "宝家洁品牌、京东零售图片提供方及原摄影和肖像相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日京东原始卡片提供100211674040、XP01、36cm宽、127cm杆长、配2布的独立购买入口。",
+          "sourceIds": [
+            "boomjoy-xp01-36cm-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官网拟建产业园未指定本款现售制造厂，所看零售图也没有具名标签，实际生产企业及厂址待核。",
+          "sourceIds": [
+            "boomjoy-brand-production-plan",
+            "boomjoy-xp01-36cm-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得可对应XP01实际生产企业的综合劳动评价或独立审核；品牌经营与未来制造计划不用于判断工厂守法。",
+          "sourceIds": [
+            "boomjoy-brand-production-plan"
+          ]
+        }
+      }
+    },
+    {
+      "id": "boomjoy-y46-broom-set",
+      "name": "Y46扫把簸箕套装",
+      "brand": "宝家洁",
+      "companyId": "boomjoy-jiaxing",
+      "category": "daily",
+      "needs": [
+        "扫帚"
+      ],
+      "description": "Y46扫把与簸箕组合，商品图显示梳齿簸箕。所选京东货号100219409844，不与XY06、磁吸款或单售簸箕混用。",
+      "tags": [
+        "清洁工具",
+        "扫帚",
+        "扫把",
+        "簸箕",
+        "Y46",
+        "套装"
+      ],
+      "url": "https://item.jd.com/100219409844.html",
+      "market": "当前京东100219409844提供Y46扫把簸箕套装的准确入口，配送与结算价格以商家为准。",
+      "relationship": "零售卡片对应宝家洁Y46，官网具名嘉兴品牌经营者；本款包装制造商尚未取得，关联捷顺企业也没有自动作为生产者。",
+      "relationshipSourceIds": [
+        "boomjoy-y46-jd",
+        "boomjoy-brand-production-plan"
+      ],
+      "image": "images/boomjoy-y46-broom-set.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/490028/30/5274/144528/6a6b0602F5a0bc26c/00835a05a0ba1580.jpg",
+      "imageRights": "宝家洁品牌、京东零售图片提供方及原摄影相关权利人；确切图片著作权法人未核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日原始卡片列100219409844、Y46扫把簸箕套装及对应原图，提供具体商品链接。",
+          "sourceIds": [
+            "boomjoy-y46-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "准确型号已有国内零售，但图片没有可读制造标签，品牌经营者和拟建产业园尚未与该款实际制造企业对应。",
+          "sourceIds": [
+            "boomjoy-y46-jd",
+            "boomjoy-brand-production-plan"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "还没有适用于Y46实际生产企业的综合劳动评价或独立审核；关联公司历史工会活动不直接扩展到本款。",
+          "sourceIds": [
+            "boomjoy-brand-production-plan"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -24682,8 +25147,12 @@
           "query": "纸尿裤"
         },
         {
-          "label": "清洁工具",
-          "query": "清洁工具"
+          "label": "拖把",
+          "query": "拖把"
+        },
+        {
+          "label": "扫帚",
+          "query": "扫帚"
         },
         {
           "label": "洗脸巾",
@@ -24698,7 +25167,7 @@
           "query": "灭蝇用品"
         }
       ],
-      "note": "正式收录奇酷 AIR 薄 M码24片纸尿裤和达豪中号加大粘蝇纸20片，分别对应具体零售、境内制造企业及适用劳动评价。其余牙刷、卫生巾、纸品、洗洁精和湿巾资料保留各自缺口；洗发水、香皂、清洁工具仍缺具体记录。灭蝇用品单列，不充当其他清洁需求的覆盖。",
+      "note": "日用清洁16项需求均有具体研究资料。正式收录奇酷AIR薄M码24片纸尿裤和达豪中号加大粘蝇纸20片；新增蜂花红石榴洋甘菊洗发露500mL、茉莉香皂125g单块、宝家洁XP01拖把和Y46扫把套装，均有准确国内购买入口，制造与劳动依据待对应。清洁工具细分为拖把、扫帚，其余商品保留各自证据缺口。",
       "sourceIds": [
         "jahwa-2025",
         "darlie-hours",
@@ -24726,7 +25195,14 @@
         "tongling-labor2024-final",
         "dahao-enlarged-flypaper-official",
         "dahao-enlarged-flypaper-jd20",
-        "kaiping-labor-2025"
+        "kaiping-labor-2025",
+        "beeflower-hair-labor2021",
+        "beeflower-pomegranate500-jd",
+        "beeflower-soap-mofcom-brand",
+        "beeflower-jasmine125-jd",
+        "boomjoy-brand-production-plan",
+        "boomjoy-xp01-36cm-jd",
+        "boomjoy-y46-jd"
       ]
     },
     {
