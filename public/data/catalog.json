@@ -4074,7 +4074,7 @@
       "publisher": "河南双汇投资发展股份有限公司",
       "url": "https://www.shuanghui.net/page-82.html",
       "summary": "官网声明适用于双汇发展全体员工，涉及自愿雇佣、反童工、薪酬公平、职业安全及申诉保护，并倡议供应商、承包商等相关方遵循。",
-      "limitation": "政策承诺没有列出本项目要求的每周 40 小时与两天休息，也没有对应具体养殖、屠宰、分装或冷链班组的实际履行。落款只有月份，不补造精确发布日期。",
+      "limitation": "这是企业政策声明，尚未对应所选商品的实际制造法人及可适用的独立劳动评价。政策不需要额外承诺固定双休才能作为补充资料；落款只有月份，不补造精确发布日期。",
       "publishedAt": null,
       "checkedAt": "2026-09-12",
       "locator": "官网人权政策声明正文、适用范围及落款 2026 年 1 月；2026-09-12 读取",
@@ -6947,6 +6947,150 @@
       "locator": "皖政办秘〔2025〕32号，正文实施日期及附表第二档宿州市区",
       "summary": "文件自2025-09-01起调整标准，附表宿州市区月最低工资2170元、非全日制小时最低工资22元。",
       "limitation": "原始正文和附表图片均已读，表格已目视核对。该政策仅提供比较口径；招聘中使用兼职一词不能单独证明属于法律上的非全日制用工，也不能据未核实招聘索引作违法结论。"
+    },
+    {
+      "id": "jingmi-mandarins-jd-100296422662",
+      "title": "京觅湖北青皮蜜桔8斤／55–60mm京东商品卡片",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/1221843e09f6b5af41695.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始HTML的商品名称、准确货号及对应图片；商品号 100296422662",
+      "summary": "京觅湖北青皮蜜桔，净重8斤，单果55–60mm；卡片标记自营，并链接准确商品号。",
+      "limitation": "本次读取的是零售商当前商品卡片。产区、规格及认证字样属于销售资料，不单独证明具名生产者的劳动合规；地区库存、配送和实物供货仍以购买页面为准。"
+    },
+    {
+      "id": "jingxiansheng-bananas-jd-100121291869",
+      "title": "京鲜生云南甜香蕉5斤／120g起京东商品卡片",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/pinpai1/122181f62640a14170334.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始HTML的商品名称、准确货号及对应图片；商品号 100121291869",
+      "summary": "京鲜生云南甜香蕉，净重5斤，单果120g起；卡片标记自营，并链接准确商品号。",
+      "limitation": "本次读取的是零售商当前商品卡片。产区、规格及认证字样属于销售资料，不单独证明具名生产者的劳动合规；地区库存、配送和实物供货仍以购买页面为准。"
+    },
+    {
+      "id": "jingmi-grapes-jd-100063610707",
+      "title": "京觅四川阳光玫瑰3斤／8g起京东商品卡片",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/12218bb16e1a4c30f87f8.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始HTML的商品名称、准确货号及对应图片；商品号 100063610707",
+      "summary": "京觅四川阳光玫瑰葡萄，净重3斤，单果8g起；卡片标记自营，并链接准确商品号。",
+      "limitation": "本次读取的是零售商当前商品卡片。产区、规格及认证字样属于销售资料，不单独证明具名生产者的劳动合规；地区库存、配送和实物供货仍以购买页面为准。"
+    },
+    {
+      "id": "jingxiansheng-potatoes-jd-100095167737",
+      "title": "京鲜生甘肃定西土豆5斤／100g起京东商品卡片",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/xinghao/122182d3693cec091d090.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始HTML的商品名称、准确货号及对应图片；商品号 100095167737",
+      "summary": "京鲜生甘肃定西土豆，标题标注2026年、净重5斤、单果100g起；卡片标记自营，并链接准确商品号。",
+      "limitation": "本次读取的是零售商当前商品卡片。产区、规格及认证字样属于销售资料，不单独证明具名生产者的劳动合规；地区库存、配送和实物供货仍以购买页面为准。"
+    },
+    {
+      "id": "xiaotangshan-fresh-jd-listings",
+      "title": "小汤山小白菜、北京胡萝卜与荷兰黄瓜京东商品卡片",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/12218b445ee2a7e49fcba.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始HTML的商品名称、准确货号及对应图片；商品号 3066391、2902589、3107324",
+      "summary": "分别对应小白菜250g、北京胡萝卜净重350g、荷兰黄瓜350g，均标记自营并有准确商品入口。未将有机小白菜或其他重量的黄瓜混入。",
+      "limitation": "本次读取的是零售商当前商品卡片。产区、规格及认证字样属于销售资料，不单独证明具名生产者的劳动合规；地区库存、配送和实物供货仍以购买页面为准。"
+    },
+    {
+      "id": "tianan-market-2026-index",
+      "title": "北京优农市集：北京天安农业及小汤山品牌介绍",
+      "publisher": "北京市农业农村局",
+      "type": "政府产业介绍",
+      "url": "https://nyncj.beijing.gov.cn/nyj/zwgk/ztgk/bjyntsncpsj/744089171/index.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公开索引中的北京天安农业发展有限公司介绍段；索引显示约2026年8月，未取得完整发布日期",
+      "summary": "介绍将小汤山品牌对应北京天安农业发展有限公司，称其在全国有20余个生产基地，并通过超市及电商销售。",
+      "limitation": "本次仅取得公开索引，原网页直接请求返回403，未绕过访问限制。产业介绍不是劳动评价，也没有逐项对应本目录三款蔬菜的供货基地。"
+    },
+    {
+      "id": "tianan-quality-standard-2022",
+      "title": "首家蔬菜全产业链控制标准样板建成：天安农业",
+      "publisher": "北京市人民政府门户网站／北京日报",
+      "type": "政府产业介绍",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202211/t20221123_2864281.html",
+      "publishedAt": "2022-11-23",
+      "checkedAt": "2026-09-13",
+      "locator": "公开索引的企业、品牌与示范区考核介绍",
+      "summary": "报道将小汤山蔬菜品牌对应北京天安农业发展有限公司，并介绍蔬菜产业链质量控制标准化示范区。",
+      "limitation": "原页直接请求返回403，本次只使用公开索引可读部分。质量控制标准化考核不等于综合劳动保障评价，也不能证明某袋蔬菜来自某个指定农场。"
+    },
+    {
+      "id": "agricert-operators-grasp-2025",
+      "title": "AGRICERT运营者名单（2025-03-20更新）",
+      "publisher": "AGRICERT",
+      "type": "认证机构名单",
+      "url": "https://agricert.pt/tr/files/documents/AGRICERT_20250320%20operadores%20GGAP.pdf",
+      "publishedAt": "2025-03-20",
+      "checkedAt": "2026-09-13",
+      "locator": "原始PDF第21页GlobalGAP/994行，已逐页定位并核对表格图像",
+      "summary": "YANTAI YITIAN FOOD CO., LTD一行带GRASP标记，列苹果、生姜、梨、柚和中国。该名单提供具名社会实践审核线索。",
+      "limitation": "名单未列该轮GRASP的详细结论、审核期间和有效截止日，不能把名单更新时间作为审核日期；不能外推到其他关联公司、未列作物或当前全部用工。"
+    },
+    {
+      "id": "agricert-operators-globalgap-2026",
+      "title": "AGRICERT GLOBALG.A.P.运营者名单（2026-03-16更新）",
+      "publisher": "AGRICERT",
+      "type": "认证机构名单",
+      "url": "https://agricert.pt/pt/files/documents/GLOBALGAP_16032026.pdf",
+      "publishedAt": "2026-03-16",
+      "checkedAt": "2026-09-13",
+      "locator": "原始PDF第15页GlobalGAP/994行，已核对表格图像",
+      "summary": "YANTAI YITIAN FOOD CO., LTD对应GGN 4049928844736、苹果／生姜／梨／柚、中国；表列截止日15/10/26。",
+      "limitation": "这份表没有GRASP栏。GLOBALG.A.P.所列2026-10-15不能当成GRASP劳动审核有效期，也不能用它自动延续2025年GRASP标记。名单只反映其更新时的记录。"
+    },
+    {
+      "id": "agricert-globalgap-current-directory",
+      "title": "AGRICERT官网GLOBALG.A.P.说明与运营者名单入口",
+      "publisher": "AGRICERT",
+      "type": "认证机构目录",
+      "url": "https://agricert.pt/en/certificacao/globalg_a_p",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "官网GLOBALG.A.P.页面的Lista de Operadores链接",
+      "summary": "本次官网运营者名单入口指向GLOBALGAP_16032026.pdf，并提供GLOBALG.A.P.认证机构记录的查验链接。",
+      "limitation": "目录入口用于确认文件出处，不代替具体企业的完整劳动审核结果。"
+    },
+    {
+      "id": "yantai-yitian-lei-name",
+      "title": "烟台奕天食品有限公司LEI中英文名称对应",
+      "publisher": "Bloomberg LEI",
+      "type": "法人名称登记资料",
+      "url": "https://lei.bloomberg.com/leis/view/655600MIV17GP9MWIJ67",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "LEI 655600MIV17GP9MWIJ67：Legal Name、Alternative Language Legal Name与登记状态",
+      "summary": "登记记录将烟台奕天食品有限公司与YANTAI YITIAN FOOD CO.,LTD对应，列统一社会信用代码913706007648232930及山东烟台地址。",
+      "limitation": "LEI记录显示最后更新于2022年、注册状态LAPSED。本条用于历史中英文名称对应，不作为2026年企业存续状态、劳动合规或商品供应证明。"
+    },
+    {
+      "id": "zhangye-labor-2025-proposed",
+      "title": "张掖拟评2025年度劳动保障守法诚信A级企业名单",
+      "publisher": "张掖市人力资源和社会保障局",
+      "type": "政府拟评公示",
+      "url": "https://www.zhangye.gov.cn/rsj/dzdt/tzgg/202605/t20260522_1545900.html",
+      "publishedAt": "2026-05-22",
+      "checkedAt": "2026-09-13",
+      "locator": "名单标题及第42、81、159、162项；原始HTML正文",
+      "summary": "拟评名单列张掖市多成农业、亚盛临泽分公司、山丹县芋兴粉业及甘肃天润薯业等主体，可用于继续寻找生产企业。",
+      "limitation": "该页面明确写拟评定，并非最终结果。本次没有将其写成已生效A级，也未把种薯、马铃薯粉或集团业务当成已找到的鲜食土豆商品。"
     }
   ],
   "companies": [
@@ -8432,12 +8576,12 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "集团制度已补，具体产线待核",
       "scope": "2025 年集团 ESG 报告、2026 年人权政策与望奎 2024 年工厂报告；本目录火腿肠和带皮五花肉分别对应制造法人。",
-      "finding": "已核集团雇佣、薪酬社保与供应商制度，以及具名公司的全国就业与社会保障表彰；这些资料仍未提供所选商品生产班组的实际每周工时、休息和缴费记录。",
+      "finding": "已核集团雇佣、薪酬社保与供应商制度，以及具名公司的全国就业与社会保障表彰；所选商品的实际制造法人及可适用的劳动评价仍需对应，不能将集团资料直接套用于所有关联工厂。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "本档案尚未取得实际考勤、加班和每周休息记录。",
-        "集团报告所称四险一金附有生育与医疗保险合并说明，不据此认定少缴；制度自述也不能替代实际缴费记录。",
+        "待核原因是所选商品的制造主体与适用劳动依据尚未对应；不以缺少逐人考勤或固定双休证明作为排除条件。",
+        "集团报告所称四险一金附有生育与医疗保险合并说明，不据此认定少缴；这仍属于集团制度披露，需与可适用的劳动评价区分。",
         "生猪就近采购约九成属于集团汇总，不能推定所选五花肉的原猪产地，也不由外贸业务推定本款使用进口肉。",
         "望奎 2024 年工厂报告未锁定本目录两款的制造批次，不能套用到全部关联工厂。"
       ],
@@ -8452,7 +8596,7 @@
         {
           "stage": "集团雇佣与福利制度",
           "status": "policy",
-          "detail": "2025 ESG 与 2026 人权政策列雇佣、薪酬社保及申诉制度，未披露本项目所需的产线实际周工时和逐周休息。",
+          "detail": "2025 ESG 与 2026 人权政策列雇佣、薪酬社保及申诉制度；属于集团披露，不能直接视为所选商品制造企业已获独立劳动审核。",
           "sourceIds": [
             "shuanghui-esg-2025",
             "shuanghui-humanrights-2026"
@@ -8461,7 +8605,7 @@
         {
           "stage": "屠宰、加工与包装",
           "status": "unknown",
-          "detail": "望奎报告是特定工厂历史资料；五花肉与火腿肠各自的当前制造厂、班组和批次仍待锁定。",
+          "detail": "望奎报告是特定工厂历史资料；五花肉与火腿肠各自的制造法人及其与所选商品的对应关系仍待确认。",
           "sourceIds": [
             "shuanghui-wangkui-csr-2024",
             "shuanghui-pork-jd-4785602"
@@ -8470,7 +8614,7 @@
         {
           "stage": "原猪养殖、包材与冷链",
           "status": "unknown",
-          "detail": "集团采购比例和供应商管理不对应具体原猪、包材厂及运输雇主；相关岗位的实际劳动记录仍待核。",
+          "detail": "集团采购比例和供应商管理未具体对应原猪、包材厂及运输雇主。这些资料作为供应链补充，不设为全部追溯齐备才能收录的额外门槛。",
           "sourceIds": [
             "shuanghui-esg-2025",
             "shuanghui-humanrights-2026"
@@ -8486,7 +8630,7 @@
           "result": "全国就业与社会保障先进民营企业",
           "period": "2025 年 12 月 31 日表彰决定",
           "sourceId": "national-employment-award-2025",
-          "limitation": "具名公司表彰不覆盖所有生产法人；不能替代望奎或本目录商品当前批次的实际工时和休息记录。"
+          "limitation": "具名公司表彰不覆盖所有生产法人；仍需核对该表彰的劳动权益评价范围，以及所选商品与受评主体的对应关系。"
         }
       ]
     },
@@ -15554,6 +15698,256 @@
         }
       ],
       "nextCheck": "出现原招聘页可核实更正、具名用工说明、更新劳动结果或本门店菜单后再继续；不重复受限访问，不由招聘索引或旧A级单独判定当前工资合法性。"
+    },
+    {
+      "id": "jingxiansheng-fresh-suppliers",
+      "name": "京鲜生 · 生鲜生产者待核",
+      "legalName": "所列香蕉、土豆的种植及分选经营法人待核",
+      "location": "云南、甘肃定西（零售所列产区）",
+      "origin": "china",
+      "originNote": "按国内零售品牌整理；品牌或平台身份不替代具体商品的境内种植与生产用工证据。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用工时资料待核",
+      "restLabel": "适用休息资料待核",
+      "cardNote": "具体生产主体与劳动依据待对应",
+      "scope": "本目录所列鲜果或蔬菜的种植、采收及分选用工。",
+      "finding": "已取得具体商品的零售入口；当前缺口是商品与实际生产经营主体、适用劳动依据的对应关系。",
+      "caveats": [
+        "零售品牌、果品等级及质量认证不等于生产企业的劳动评价。",
+        "产区或厂址不能证明每位劳动者的国籍。",
+        "未找到适用依据只表示待核，不表示企业违法；不额外要求固定双休或逐人考勤。"
+      ],
+      "sourceIds": [
+        "jingxiansheng-bananas-jd-100121291869",
+        "jingxiansheng-potatoes-jd-100095167737"
+      ],
+      "supply": [
+        {
+          "stage": "种植与采收",
+          "status": "unknown",
+          "detail": "零售产区尚未对应具名经营主体及适用劳动依据。",
+          "sourceIds": [
+            "jingxiansheng-bananas-jd-100121291869",
+            "jingxiansheng-potatoes-jd-100095167737"
+          ]
+        },
+        {
+          "stage": "分选与包装",
+          "status": "unknown",
+          "detail": "尚未取得所选商品对应的分选或包装经营主体资料，不能将平台或其他供货商的评价代入。",
+          "sourceIds": [
+            "jingxiansheng-bananas-jd-100121291869",
+            "jingxiansheng-potatoes-jd-100095167737"
+          ]
+        },
+        {
+          "stage": "包材与配送补充",
+          "status": "unknown",
+          "detail": "供应链资料继续补充，不作为全链全部查齐才能收录的额外门槛。",
+          "sourceIds": [
+            "jingxiansheng-bananas-jd-100121291869",
+            "jingxiansheng-potatoes-jd-100095167737"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得准确货号对应的供货商、标签或生产者资料后，核对适用的政府综合劳动结果或独立劳动审核；没有新线索不反复搜索品牌。"
+    },
+    {
+      "id": "jingmi-fresh-suppliers",
+      "name": "京觅 · 生鲜生产者待核",
+      "legalName": "所列蜜桔、葡萄的种植及分选经营法人待核",
+      "location": "湖北、四川（零售所列产区）",
+      "origin": "china",
+      "originNote": "准确商品卡片及宣传图显示京东自有品牌；各款水果的生产经营主体分别核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用工时资料待核",
+      "restLabel": "适用休息资料待核",
+      "cardNote": "具体生产主体与劳动依据待对应",
+      "scope": "本目录所列鲜果或蔬菜的种植、采收及分选用工。",
+      "finding": "已取得具体商品的零售入口；当前缺口是商品与实际生产经营主体、适用劳动依据的对应关系。",
+      "caveats": [
+        "零售品牌、果品等级及质量认证不等于生产企业的劳动评价。",
+        "产区或厂址不能证明每位劳动者的国籍。",
+        "未找到适用依据只表示待核，不表示企业违法；不额外要求固定双休或逐人考勤。"
+      ],
+      "sourceIds": [
+        "jingmi-mandarins-jd-100296422662",
+        "jingmi-grapes-jd-100063610707"
+      ],
+      "supply": [
+        {
+          "stage": "种植与采收",
+          "status": "unknown",
+          "detail": "零售产区尚未对应具名经营主体及适用劳动依据。",
+          "sourceIds": [
+            "jingmi-mandarins-jd-100296422662",
+            "jingmi-grapes-jd-100063610707"
+          ]
+        },
+        {
+          "stage": "分选与包装",
+          "status": "unknown",
+          "detail": "尚未取得所选商品对应的分选或包装经营主体资料，不能将平台或其他供货商的评价代入。",
+          "sourceIds": [
+            "jingmi-mandarins-jd-100296422662",
+            "jingmi-grapes-jd-100063610707"
+          ]
+        },
+        {
+          "stage": "包材与配送补充",
+          "status": "unknown",
+          "detail": "供应链资料继续补充，不作为全链全部查齐才能收录的额外门槛。",
+          "sourceIds": [
+            "jingmi-mandarins-jd-100296422662",
+            "jingmi-grapes-jd-100063610707"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得准确货号对应的供货商、标签或生产者资料后，核对适用的政府综合劳动结果或独立劳动审核；没有新线索不反复搜索品牌。"
+    },
+    {
+      "id": "tianan-xiaotangshan",
+      "name": "小汤山 · 天安农业",
+      "legalName": "北京天安农业发展有限公司（各供货基地另核）",
+      "location": "北京昌平；其他生产基地另核",
+      "origin": "china",
+      "originNote": "政府产业介绍将小汤山品牌对应北京天安农业；不能因此指定所选每款蔬菜的供货基地。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用工时资料待核",
+      "restLabel": "适用休息资料待核",
+      "cardNote": "具体生产主体与劳动依据待对应",
+      "scope": "所选小白菜250g、北京胡萝卜350g、荷兰黄瓜350g的供货主体与生产劳动资料。",
+      "finding": "政府产业介绍可对应品牌与企业，当前零售卡片可对应三款规格；尚未取得适用于所选供货主体的综合劳动评价或独立劳动审核。",
+      "caveats": [
+        "零售品牌、果品等级及质量认证不等于生产企业的劳动评价。",
+        "产区或厂址不能证明每位劳动者的国籍。",
+        "未找到适用依据只表示待核，不表示企业违法；不额外要求固定双休或逐人考勤。",
+        "政府品牌介绍本次只读到公开索引，原页403；未把质量标准示范区考核或GAP宣传当作劳动守法结果。"
+      ],
+      "sourceIds": [
+        "xiaotangshan-fresh-jd-listings",
+        "tianan-market-2026-index",
+        "tianan-quality-standard-2022"
+      ],
+      "supply": [
+        {
+          "stage": "种植与采收",
+          "status": "unknown",
+          "detail": "零售产区尚未对应具名经营主体及适用劳动依据。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings",
+            "tianan-market-2026-index",
+            "tianan-quality-standard-2022"
+          ]
+        },
+        {
+          "stage": "分选与包装",
+          "status": "unknown",
+          "detail": "尚未取得所选商品对应的分选或包装经营主体资料，不能将平台或其他供货商的评价代入。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings",
+            "tianan-market-2026-index",
+            "tianan-quality-standard-2022"
+          ]
+        },
+        {
+          "stage": "包材与配送补充",
+          "status": "unknown",
+          "detail": "供应链资料继续补充，不作为全链全部查齐才能收录的额外门槛。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings",
+            "tianan-market-2026-index",
+            "tianan-quality-standard-2022"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得准确货号对应的供货商、标签或生产者资料后，核对适用的政府综合劳动结果或独立劳动审核；没有新线索不反复搜索品牌。"
+    },
+    {
+      "id": "yantai-yitian-food",
+      "name": "烟台奕天食品 · 认证线索",
+      "legalName": "烟台奕天食品有限公司（英文名称历史对应已核）",
+      "location": "山东烟台；名单所涉种植基地另核",
+      "origin": "china",
+      "originNote": "法人名称登记和认证机构名单均列中国；不据此保证每名劳动者国籍。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用工时资料待核",
+      "restLabel": "适用休息资料待核",
+      "cardNote": "具名GRASP线索已核，当前结果待补",
+      "scope": "AGRICERT 2025年名单中的GlobalGAP/994及2026年GLOBALG.A.P.目录对应记录。",
+      "finding": "认证机构2025年原始名单确有该企业GRASP标记；2026年表只列GLOBALG.A.P.及其截止日，当前GRASP结果和适用期间仍需核对。",
+      "caveats": [
+        "零售品牌、果品等级及质量认证不等于生产企业的劳动评价。",
+        "产区或厂址不能证明每位劳动者的国籍。",
+        "未找到适用依据只表示待核，不表示企业违法；不额外要求固定双休或逐人考勤。"
+      ],
+      "sourceIds": [
+        "agricert-operators-grasp-2025",
+        "agricert-operators-globalgap-2026",
+        "agricert-globalgap-current-directory",
+        "yantai-yitian-lei-name"
+      ],
+      "supply": [
+        {
+          "stage": "名单所列作物",
+          "status": "unknown",
+          "detail": "2025年GRASP标记与苹果、生姜、梨、柚同列；需核对对应农场、审核范围及当前结果。",
+          "sourceIds": [
+            "agricert-operators-grasp-2025",
+            "agricert-operators-globalgap-2026",
+            "agricert-globalgap-current-directory",
+            "yantai-yitian-lei-name"
+          ]
+        },
+        {
+          "stage": "具体消费商品",
+          "status": "unknown",
+          "detail": "尚未将国内准确零售商品对应到该具名企业。奕天壹去皮蒜旧索引本次未在当前原始列表中找到，未生成商品记录。",
+          "sourceIds": [
+            "agricert-operators-grasp-2025",
+            "agricert-operators-globalgap-2026",
+            "agricert-globalgap-current-directory",
+            "yantai-yitian-lei-name"
+          ]
+        },
+        {
+          "stage": "其他关联公司与供应链",
+          "status": "unknown",
+          "detail": "不能将本企业名单标记套用于山东奕鲜、漳州或厦门等其他法人，也不把GLOBALG.A.P.截止日充当GRASP期限。",
+          "sourceIds": [
+            "agricert-operators-grasp-2025",
+            "agricert-operators-globalgap-2026",
+            "agricert-globalgap-current-directory",
+            "yantai-yitian-lei-name"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得该GGN可独立查验的当前GRASP详细结果，并有国内零售规格对应受评主体时继续；不以不同认证期限续接旧GRASP标记。",
+      "assessments": [
+        {
+          "subject": "烟台奕天食品有限公司（YANTAI YITIAN FOOD CO., LTD）",
+          "result": "认证机构运营者名单中的GRASP标记",
+          "period": "2025-03-20名单更新；具体审核期间未列",
+          "sourceId": "agricert-operators-grasp-2025",
+          "limitation": "这是历史名单线索，尚无当前GRASP详细结论与期限，未作为可支持正式收录的独立劳动审核。"
+        }
+      ]
     }
   ],
   "products": [
@@ -26491,6 +26885,365 @@
           "sourceIds": []
         }
       }
+    },
+    {
+      "id": "jingmi-hubei-mandarins4kg",
+      "name": "湖北青皮蜜桔（净重8斤，55–60mm）",
+      "brand": "京觅",
+      "companyId": "jingmi-fresh-suppliers",
+      "category": "fresh",
+      "description": "京东准确货号100296422662对应的湖北青皮蜜桔（净重8斤，55–60mm）。具体种植或分选主体继续核对。",
+      "tags": [
+        "柑橘",
+        "净重8斤，单果55–60mm",
+        "湖北"
+      ],
+      "needs": [
+        "柑橘"
+      ],
+      "url": "https://item.jd.com/100296422662.html",
+      "market": "已核京东当前商品卡片及货号100296422662的购买入口，规格为净重8斤，单果55–60mm；地区配送和即时库存以购买页面为准。",
+      "relationship": "零售卡片对应品牌、规格和产区；品牌及京东平台不能直接当作种植或分选用人单位。",
+      "relationshipSourceIds": [
+        "jingmi-mandarins-jd-100296422662"
+      ],
+      "image": "images/jingmi-hubei-mandarins4kg.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/343459/15/2871/181722/68c4d6a4F96cf613f/88c5df894f43f9b9.png",
+      "imageRights": "京东、对应商品品牌及图片相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东原始商品列表提供货号100296422662及净重8斤，单果55–60mm选项的零售入口；库存、配送按地区核对。",
+          "sourceIds": [
+            "jingmi-mandarins-jd-100296422662"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售标题标注湖北，尚未把该货号对应到具名种植、采收及分选经营主体；保留产区声明，不指定未经证实的农场。",
+          "sourceIds": [
+            "jingmi-mandarins-jd-100296422662"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "仍需把所选商品与实际生产经营主体及可适用的综合劳动评价或独立劳动审核对应；品牌、产区或质量认证不能代替这一关系，缺资料不表示违法。",
+          "sourceIds": [
+            "jingmi-mandarins-jd-100296422662"
+          ]
+        }
+      }
+    },
+    {
+      "id": "jingxiansheng-yunnan-bananas2500",
+      "name": "云南甜香蕉（净重5斤，单果120g起）",
+      "brand": "京鲜生",
+      "companyId": "jingxiansheng-fresh-suppliers",
+      "category": "fresh",
+      "description": "京东准确货号100121291869对应的云南甜香蕉（净重5斤，单果120g起）。具体种植或分选主体继续核对。",
+      "tags": [
+        "香蕉",
+        "净重5斤，单果120g起",
+        "云南"
+      ],
+      "needs": [
+        "香蕉"
+      ],
+      "url": "https://item.jd.com/100121291869.html",
+      "market": "已核京东当前商品卡片及货号100121291869的购买入口，规格为净重5斤，单果120g起；地区配送和即时库存以购买页面为准。",
+      "relationship": "零售卡片对应品牌、规格和产区；品牌及京东平台不能直接当作种植或分选用人单位。",
+      "relationshipSourceIds": [
+        "jingxiansheng-bananas-jd-100121291869"
+      ],
+      "image": "images/jingxiansheng-yunnan-bananas2500.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/188904/38/49021/78755/670b60c0Fdfd088ef/cf11fbe640782377.jpg",
+      "imageRights": "京东、对应商品品牌及图片相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东原始商品列表提供货号100121291869及净重5斤，单果120g起选项的零售入口；库存、配送按地区核对。",
+          "sourceIds": [
+            "jingxiansheng-bananas-jd-100121291869"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售标题标注云南，尚未把该货号对应到具名种植、采收及分选经营主体；保留产区声明，不指定未经证实的农场。",
+          "sourceIds": [
+            "jingxiansheng-bananas-jd-100121291869"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "仍需把所选商品与实际生产经营主体及可适用的综合劳动评价或独立劳动审核对应；品牌、产区或质量认证不能代替这一关系，缺资料不表示违法。",
+          "sourceIds": [
+            "jingxiansheng-bananas-jd-100121291869"
+          ]
+        }
+      }
+    },
+    {
+      "id": "jingmi-sichuan-grapes1500",
+      "name": "四川阳光玫瑰葡萄（净重3斤，单果8g起）",
+      "brand": "京觅",
+      "companyId": "jingmi-fresh-suppliers",
+      "category": "fresh",
+      "description": "京东准确货号100063610707对应的四川阳光玫瑰葡萄（净重3斤，单果8g起）。具体种植或分选主体继续核对。",
+      "tags": [
+        "葡萄",
+        "净重3斤，单果8g起",
+        "四川"
+      ],
+      "needs": [
+        "葡萄"
+      ],
+      "url": "https://item.jd.com/100063610707.html",
+      "market": "已核京东当前商品卡片及货号100063610707的购买入口，规格为净重3斤，单果8g起；地区配送和即时库存以购买页面为准。",
+      "relationship": "零售卡片对应品牌、规格和产区；品牌及京东平台不能直接当作种植或分选用人单位。",
+      "relationshipSourceIds": [
+        "jingmi-grapes-jd-100063610707"
+      ],
+      "image": "images/jingmi-sichuan-grapes1500.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/484492/9/8377/175692/6a65c661F575779c1/0083320320e95a42.jpg",
+      "imageRights": "京东、对应商品品牌及图片相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东原始商品列表提供货号100063610707及净重3斤，单果8g起选项的零售入口；库存、配送按地区核对。",
+          "sourceIds": [
+            "jingmi-grapes-jd-100063610707"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售标题标注四川，尚未把该货号对应到具名种植、采收及分选经营主体；保留产区声明，不指定未经证实的农场。",
+          "sourceIds": [
+            "jingmi-grapes-jd-100063610707"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "仍需把所选商品与实际生产经营主体及可适用的综合劳动评价或独立劳动审核对应；品牌、产区或质量认证不能代替这一关系，缺资料不表示违法。",
+          "sourceIds": [
+            "jingmi-grapes-jd-100063610707"
+          ]
+        }
+      }
+    },
+    {
+      "id": "jingxiansheng-dingxi-potatoes2500",
+      "name": "甘肃定西土豆（净重5斤，单果100g起）",
+      "brand": "京鲜生",
+      "companyId": "jingxiansheng-fresh-suppliers",
+      "category": "fresh",
+      "description": "京东准确货号100095167737对应的甘肃定西土豆（净重5斤，单果100g起）。标题标注2026年，具体供货生产者仍待核对。",
+      "tags": [
+        "土豆",
+        "净重5斤，单果100g起",
+        "甘肃定西"
+      ],
+      "needs": [
+        "土豆"
+      ],
+      "url": "https://item.jd.com/100095167737.html",
+      "market": "已核京东当前商品卡片及货号100095167737的购买入口，规格为净重5斤，单果100g起；地区配送和即时库存以购买页面为准。",
+      "relationship": "零售卡片对应品牌、规格和产区；品牌及京东平台不能直接当作种植或分选用人单位。",
+      "relationshipSourceIds": [
+        "jingxiansheng-potatoes-jd-100095167737"
+      ],
+      "image": "images/jingxiansheng-dingxi-potatoes2500.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/306581/27/14140/122318/6867a37fFc4f282cd/5d56b93ff40ef7cc.jpg",
+      "imageRights": "京东、对应商品品牌及图片相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东原始商品列表提供货号100095167737及净重5斤，单果100g起选项的零售入口；库存、配送按地区核对。",
+          "sourceIds": [
+            "jingxiansheng-potatoes-jd-100095167737"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售标题标注甘肃定西，尚未把该货号对应到具名种植、采收及分选经营主体；保留产区声明，不指定未经证实的农场。",
+          "sourceIds": [
+            "jingxiansheng-potatoes-jd-100095167737"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "仍需把所选商品与实际生产经营主体及可适用的综合劳动评价或独立劳动审核对应；品牌、产区或质量认证不能代替这一关系，缺资料不表示违法。",
+          "sourceIds": [
+            "jingxiansheng-potatoes-jd-100095167737"
+          ]
+        }
+      }
+    },
+    {
+      "id": "xiaotangshan-bokchoy250",
+      "name": "小白菜250g",
+      "brand": "小汤山",
+      "companyId": "tianan-xiaotangshan",
+      "category": "fresh",
+      "description": "京东准确货号3066391对应的小白菜250g。本项为普通小白菜，未与同页有机小白菜混用。",
+      "tags": [
+        "蔬菜",
+        "250g"
+      ],
+      "needs": [
+        "蔬菜"
+      ],
+      "url": "https://item.jd.com/3066391.html",
+      "market": "已核京东当前商品卡片及货号3066391的购买入口，规格为250g；地区配送和即时库存以购买页面为准。",
+      "relationship": "政府产业介绍将小汤山品牌对应天安农业；当前商品卡片对应具体规格，但供货基地和实际生产用工主体仍待核。",
+      "relationshipSourceIds": [
+        "xiaotangshan-fresh-jd-listings",
+        "tianan-market-2026-index",
+        "tianan-quality-standard-2022"
+      ],
+      "image": "images/xiaotangshan-bokchoy250.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/333681/40/16005/136142/68d20427F4e5be7dc/fb0391a8204601e0.jpg",
+      "imageRights": "京东、对应商品品牌及图片相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东原始商品列表提供货号3066391及250g选项的零售入口；库存、配送按地区核对。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售资料可对应品牌与规格，但未列本款实际供货农场；小汤山全国基地介绍不能代替本款生产主体资料。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings",
+            "tianan-market-2026-index",
+            "tianan-quality-standard-2022"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "仍需把所选商品与实际生产经营主体及可适用的综合劳动评价或独立劳动审核对应；品牌、产区或质量认证不能代替这一关系，缺资料不表示违法。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings",
+            "tianan-market-2026-index",
+            "tianan-quality-standard-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "xiaotangshan-carrots350",
+      "name": "北京胡萝卜350g",
+      "brand": "小汤山",
+      "companyId": "tianan-xiaotangshan",
+      "category": "fresh",
+      "description": "京东准确货号2902589对应的北京胡萝卜350g。具体种植或分选主体继续核对。",
+      "tags": [
+        "蔬菜",
+        "净重350g",
+        "北京"
+      ],
+      "needs": [
+        "蔬菜"
+      ],
+      "url": "https://item.jd.com/2902589.html",
+      "market": "已核京东当前商品卡片及货号2902589的购买入口，规格为净重350g；地区配送和即时库存以购买页面为准。",
+      "relationship": "政府产业介绍将小汤山品牌对应天安农业；当前商品卡片对应具体规格，但供货基地和实际生产用工主体仍待核。",
+      "relationshipSourceIds": [
+        "xiaotangshan-fresh-jd-listings",
+        "tianan-market-2026-index",
+        "tianan-quality-standard-2022"
+      ],
+      "image": "images/xiaotangshan-carrots350.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/335905/30/10277/162599/68edafe1Fe08efd30/40a86c003d09a397.jpg",
+      "imageRights": "京东、对应商品品牌及图片相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东原始商品列表提供货号2902589及净重350g选项的零售入口；库存、配送按地区核对。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售标题标注北京，尚未把该货号对应到具名种植、采收及分选经营主体；保留产区声明，不指定未经证实的农场。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings",
+            "tianan-market-2026-index",
+            "tianan-quality-standard-2022"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "仍需把所选商品与实际生产经营主体及可适用的综合劳动评价或独立劳动审核对应；品牌、产区或质量认证不能代替这一关系，缺资料不表示违法。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings",
+            "tianan-market-2026-index",
+            "tianan-quality-standard-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "xiaotangshan-cucumbers350",
+      "name": "荷兰黄瓜350g",
+      "brand": "小汤山",
+      "companyId": "tianan-xiaotangshan",
+      "category": "fresh",
+      "description": "京东准确货号3107324对应的荷兰黄瓜350g。“荷兰黄瓜”为零售品名，不据名称判断荷兰产地。",
+      "tags": [
+        "蔬菜",
+        "350g"
+      ],
+      "needs": [
+        "蔬菜"
+      ],
+      "url": "https://item.jd.com/3107324.html",
+      "market": "已核京东当前商品卡片及货号3107324的购买入口，规格为350g；地区配送和即时库存以购买页面为准。",
+      "relationship": "政府产业介绍将小汤山品牌对应天安农业；当前商品卡片对应具体规格，但供货基地和实际生产用工主体仍待核。",
+      "relationshipSourceIds": [
+        "xiaotangshan-fresh-jd-listings",
+        "tianan-market-2026-index",
+        "tianan-quality-standard-2022"
+      ],
+      "image": "images/xiaotangshan-cucumbers350.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/331917/32/22491/109369/68edafebFaee0380e/9a9bf99af7018d95.jpg",
+      "imageRights": "京东、对应商品品牌及图片相关权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东原始商品列表提供货号3107324及350g选项的零售入口；库存、配送按地区核对。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售资料可对应品牌与规格，但未列本款实际供货农场；小汤山全国基地介绍不能代替本款生产主体资料。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings",
+            "tianan-market-2026-index",
+            "tianan-quality-standard-2022"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "仍需把所选商品与实际生产经营主体及可适用的综合劳动评价或独立劳动审核对应；品牌、产区或质量认证不能代替这一关系，缺资料不表示违法。",
+          "sourceIds": [
+            "xiaotangshan-fresh-jd-listings",
+            "tianan-market-2026-index",
+            "tianan-quality-standard-2022"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -26794,7 +27547,7 @@
           "query": "虾"
         }
       ],
-      "note": "新增国联原条黄花鱼净重2斤／3条及双汇带皮五花肉净重2斤的准确货号，生鲜研究覆盖8／13项；当前可售、生产批次和实际劳动仍待核。柑橘、香蕉、葡萄、蔬菜、土豆仍有缺口。青怡招聘正文停留于2013年前后，土豆集双休线索属于销售岗位且有文案差异；农场实际用工不能据此补齐。橙子原页未对应缓存5kg规格，境内外基地、成品与原料产地继续分开核查。",
+      "note": "生鲜13项需求现均有具体研究记录。本批增加湖北蜜桔、云南香蕉、四川葡萄、定西土豆，以及小白菜、胡萝卜、黄瓜共7款准确规格与零售入口；具体供货主体及适用劳动依据仍待核。已核独立认证机构具名GRASP历史标记，未用GLOBALG.A.P.期限续接劳动审核；张掖2025年拟评名单尚不作为最终评级。",
       "sourceIds": [
         "national-harmony-2022",
         "nxnk-lianhu-production-2026",
@@ -26839,7 +27592,19 @@
         "shuanghui-humanrights-2026",
         "qingyi-hiring-historical",
         "tudouji-city-hiring",
-        "tudouji-sales-copy-mismatch"
+        "tudouji-sales-copy-mismatch",
+        "jingmi-mandarins-jd-100296422662",
+        "jingxiansheng-bananas-jd-100121291869",
+        "jingmi-grapes-jd-100063610707",
+        "jingxiansheng-potatoes-jd-100095167737",
+        "xiaotangshan-fresh-jd-listings",
+        "tianan-market-2026-index",
+        "tianan-quality-standard-2022",
+        "agricert-operators-grasp-2025",
+        "agricert-operators-globalgap-2026",
+        "agricert-globalgap-current-directory",
+        "yantai-yitian-lei-name",
+        "zhangye-labor-2025-proposed"
       ]
     },
     {
