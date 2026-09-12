@@ -70,7 +70,7 @@
     {
       "id": "dining",
       "name": "餐饮饮品",
-      "description": "中式正餐、咖啡与餐厅服务"
+      "description": "正餐、快餐、饺子、面食、火锅、咖啡、茶饮、烘焙与自助餐"
     },
     {
       "id": "culture",
@@ -6767,6 +6767,186 @@
       "locator": "2026-06-17品牌介绍及页脚公司名称、惠州地址",
       "summary": "官网具名广东爱华仕箱包集团有限公司，介绍品牌在惠州、研发生产营销物流一体及国内线上线下渠道。",
       "limitation": "原始正文已读。公司及品牌介绍没有逐款对应OCX6708-20的生产标签；设计奖、守合同重信用与商标保护称号不属于综合劳动守法评价，也不自动把历史成员公司指定为本款制造厂。"
+    },
+    {
+      "id": "suzhou-labor2024-dining-a",
+      "title": "宿州2024年度劳动A级原附件：餐饮经营主体",
+      "publisher": "宿州市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://rsj.ahsz.gov.cn/group1/M00/04/27/Cp8OO2k_0BiAcHj6AAZbevlR_FU985.doc",
+      "publishedAt": "2025-12-15",
+      "checkedAt": "2026-09-13",
+      "locator": "2025年（2024年度）A级单位表，第313、440行；对应2025-12-15最终公告",
+      "summary": "原附件第313行列安徽联升餐厅食品有限公司宿州汴河路餐厅，第440行列简阳市海捞餐饮管理有限公司宿州市人民路分公司。",
+      "limitation": "原DOC已取得并转换读取。2025年是开展评价的年份，覆盖2024年；不扩大到同品牌所有门店。人民路分公司尚未与华夏世贸店完成主体对应；较早评价不能替代对更新线索的判断。"
+    },
+    {
+      "id": "haidilao-huaxia-official-store",
+      "title": "海底捞官网门店目录：宿州华夏世贸店",
+      "publisher": "海底捞",
+      "type": "企业官方门店资料",
+      "url": "https://www.haidilao.com/serve/storeSearch",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "官网公开门店列表，宿州市、storeId 043001；同城043002是万达广场店",
+      "summary": "官网公开列表列华夏世贸店及人民路与汴河路交叉口、5楼0500商铺的地址，门店展示状态为营业。",
+      "limitation": "读取页面及其公开数据，未执行远程脚本。返回内容只有店名、地址和营业资料，没有营业执照或经营企业名称；不能仅因地址含人民路便认定为劳动名单中的人民路分公司。"
+    },
+    {
+      "id": "haidilao-huaxia-tomato-menu",
+      "title": "宿州海底捞华夏世贸店：海底捞6斤番茄锅",
+      "publisher": "携程美食",
+      "type": "餐饮门店与菜品资料",
+      "url": "https://you.ctrip.com/yougourmet/restdetail/suzhou672/78699825.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "当前餐厅资料poiId 78699825，foods中的海底捞6斤番茄锅及华夏世贸店地址",
+      "summary": "同一门店条目列海底捞6斤番茄锅，地址为安徽省宿州市埇桥区西关街道人民路与汴河路交叉口华夏世贸广场5楼0500商铺。",
+      "limitation": "已读取当前原始页面中的门店数据。6斤是所列菜品名称，不换算成已核净重或人数套餐；锅格、份量、现售价格及餐段以门店为准，未借用万达广场店的菜单或图片。"
+    },
+    {
+      "id": "haidilao-esg2025-dining",
+      "title": "海底捞2025年ESG报告：招聘、薪酬与假期披露",
+      "publisher": "海底捞国际控股有限公司（香港交易所披露）",
+      "type": "企业可持续发展披露",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042403014_c.pdf",
+      "publishedAt": "2026-04-24",
+      "checkedAt": "2026-09-13",
+      "locator": "PDF第50—53页（印刷47—50），招聘方式、岗位薪酬及福利待遇",
+      "summary": "报告披露自主与第三方招聘、灵活用工、加班自愿原则、门店计件薪酬及法定假期等制度。",
+      "limitation": "全文已取得，相关文字已读，第53页已目视核对。这是集团2025年度披露，不能代替宿州所选门店的经营主体对应或独立劳动审核；报告员工地域统计不证明个人国籍。"
+    },
+    {
+      "id": "xijiade-tianyuan-sanxian-menu",
+      "title": "大连喜家德开发区田苑店：新喜三鲜水饺",
+      "publisher": "携程美食",
+      "type": "餐饮门店与菜品资料",
+      "url": "https://you.ctrip.com/food/dalian4/5054669.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "页面餐厅数据poiId 11203741，foods中的新喜三鲜水饺及本溪街5号地址",
+      "summary": "同一门店资料列新喜三鲜水饺，门店位于大连本溪街5号、昌林大厦对面田苑酒店楼下。",
+      "limitation": "原始门店数据已读，旧网址编号5054669对应当前poiId 11203741。没有确定每份只数、克重、价格和经营执照；未把其他门店或品牌旧款的馅料、规格移用于新喜三鲜。"
+    },
+    {
+      "id": "xijiade-brandbook-historical",
+      "title": "喜家德品牌介绍：水饺制作方式与历史产品",
+      "publisher": "喜家德（黑龙江八一农垦大学就业网托管）",
+      "type": "企业品牌介绍",
+      "url": "https://jiuye.byau.edu.cn/_upload/article/files/53/58/901c801943b08f184af0a5f47985/6043255b-e269-4623-9b85-446339910d19.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "PDF第2、4、5页，时间线至2022年、现擀现包及五款馅料示意",
+      "summary": "材料介绍品牌现擀、现包、现煮的制作方式，并展示历史产品；第4页亦说明所用小麦有多个来源国家。",
+      "limitation": "全文已取得，第5页已目视核对，材料未注明确定发布日期。历史产品喜三鲜与当前门店的新喜三鲜没有被当成相同配方；品牌制作说明不能代替所选店的营业主体和劳动依据，亦不宣称所有原料国产。"
+    },
+    {
+      "id": "hefu-techpark-sour-beef-menu",
+      "title": "杭州和府捞面科技园店：草本酸辣肥牛面",
+      "publisher": "携程美食",
+      "type": "餐饮门店与菜品资料",
+      "url": "https://you.ctrip.com/food/14/122728786.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "poiId 122728786，草本酸辣肥牛面；科技园路20号8幢114—117室",
+      "summary": "门店为和府捞面新加坡杭州科技园店，当前门店菜品资料列草本酸辣肥牛面，所在城市为杭州。",
+      "limitation": "原始门店数据已读。新加坡杭州科技园是杭州的园区名，不是境外餐厅；份量、价格和实际经营执照待对应，不从面食名称推断牛肉产地或配方。"
+    },
+    {
+      "id": "kawangka-suzhou-wanda-menu",
+      "title": "卡旺卡宿州万达店：麻薯芋泥牛奶茶",
+      "publisher": "携程美食",
+      "type": "餐饮门店与菜品资料",
+      "url": "https://you.ctrip.com/food/suzhou672/16678377.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "当前门店poiId 33673794，麻薯芋泥牛奶茶；拂晓大道万达广场一楼",
+      "summary": "同一门店资料列麻薯芋泥牛奶茶和宿州万达广场一楼、一号门入口左手边的地址。",
+      "limitation": "原始数据已读，旧网址编号16678377对应当前poiId 33673794。杯型、容量、糖冰选项、现价和具体经营企业未核到；平台归类为面包甜点不作为本款烘焙归类依据，本款只对应茶饮需求。"
+    },
+    {
+      "id": "luxihe-fuzimiao-seaweed-floss-menu",
+      "title": "泸溪河秦淮夫子庙一店：海苔肉松小贝",
+      "publisher": "携程美食",
+      "type": "餐饮门店与菜品资料",
+      "url": "https://you.ctrip.com/food/shanghai9/12632178-dianping.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "当前poiId 25831704、cityId 9，海苔肉松小贝；建康路70号",
+      "summary": "该门店的原始菜品资料列海苔肉松小贝，地址为南京秦淮区建康路70号。",
+      "limitation": "已读当前餐厅数据；旧网址含shanghai9，但实际条目城市与门店均为南京，不按路径字样指定上海。只选海苔肉松小贝，不推定每盒只数、称重方式或现供价格；门店与加工主体待对应。"
+    },
+    {
+      "id": "luxihe-official-fuzimiao-index",
+      "title": "泸溪河官方目录中的南京秦淮夫子庙一店",
+      "publisher": "泸溪河",
+      "type": "企业官方门店资料（索引）",
+      "url": "https://www.lxhts.com.cn/mendian.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "官方全国门店目录的南京秦淮夫子庙一店条目（公开索引）",
+      "summary": "官方目录索引列南京秦淮夫子庙一店及70号商铺，与同名消费者门店资料交叉提供品牌门店线索。",
+      "limitation": "本次索引可读，直接请求返回403，未取得原页全文、未绕过限制。索引路名写健康路，携程写建康路，保留这一差异；官方门店介绍没有提供本店营业执照或糕点加工单位。"
+    },
+    {
+      "id": "mcd-suzhou-guogou-license-index",
+      "title": "麦当劳官网：宿州国购广场餐厅证照公示",
+      "publisher": "麦当劳中国",
+      "type": "企业官方证照公示",
+      "url": "https://www.mcdonalds.com.cn/index/Quality/deliveryinfo?data%5BSearch%5D%5Bcity%5D=%E5%AE%BF%E5%B7%9E%E5%B8%82",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "宿州市表第一行，麦当劳宿州国购广场餐厅，门店3500070的证照图片链接",
+      "summary": "官网公示将麦当劳宿州国购广场餐厅与同一门店号的营业执照、食品经营许可证对应。",
+      "limitation": "原始页面及两张证照图片已读。其他万达CBD、埇桥万达、吾悦等门店使用不同编号，没有合并为同一劳动评价主体；证照不证明当前餐品菜单或劳动合规。"
+    },
+    {
+      "id": "mcd-suzhou-guogou-business-license",
+      "title": "宿州国购广场麦当劳营业执照：汴河路餐厅",
+      "publisher": "麦当劳中国证照公示",
+      "type": "营业执照图片",
+      "url": "https://slm-cdn.mcd.cn/license/3500070/BUSINESS_LICENSE/8a60d0b7a6f4464bb8dcbe47c6853689.jpg",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "门店3500070营业执照，名称、统一社会信用代码及营业场所",
+      "summary": "图片具名安徽联升餐厅食品有限公司宿州汴河路餐厅、91341302MA2RYBBK47，营业场所为宿州埇桥区汴河路国购广场一层1036号、二层2023号。",
+      "limitation": "完整原图已目视核对。营业范围包括餐饮及麦当劳产品加工销售，不能代替劳动守法结果或每道菜的现售证明；未采集与任务无关的自然人身份资料。"
+    },
+    {
+      "id": "mcd-suzhou-guogou-food-license",
+      "title": "宿州国购广场麦当劳食品经营许可证",
+      "publisher": "麦当劳中国证照公示",
+      "type": "食品经营许可证图片",
+      "url": "https://slm-cdn.mcdonalds.cn/license/3500070/FOOD_BUSINESS_LICENSE/32c74f7e01924af0859f6a3d7e584868.jpeg",
+      "publishedAt": "2023-11-01",
+      "checkedAt": "2026-09-13",
+      "locator": "JY23413020071197；2023-11-01发证，有效期至2028-10-31",
+      "summary": "图片所列名称、信用代码和国购广场地址与营业执照一致，许可范围包括热食类食品制售和自制饮品制售。",
+      "limitation": "完整原图已目视核对，证照支持门店餐饮制作主体。食品经营许可期限不作为劳动评价有效期，也没有据此推定所有菜单项目现售。"
+    },
+    {
+      "id": "mcd-bianhe-recruitment202609-index",
+      "title": "汴河路麦当劳服务员招聘工资线索（仅索引可读）",
+      "publisher": "砀山信息网／宿州信息网招聘栏目",
+      "type": "招聘索引线索",
+      "url": "https://ds.szxx.com.cn/5448349",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "页面索引的招聘主体、国购广场工作地点、所示2026-09-11发布／刷新时间及兼职时薪字段",
+      "summary": "索引署名安徽联升餐厅食品有限公司宿州汴河路餐厅，工作地点写国购广场，兼职服务员时薪字段为10元。",
+      "limitation": "仅索引可读，原页TLS读取失败，未绕过限制；首次发布日期、发布者身份、是否模板旧价及实际用工类型均未独立核实。该数字需与适用工资口径核对，尚不能认定该企业已实施违法支付。"
+    },
+    {
+      "id": "anhui-minimum-wage2025-suzhou",
+      "title": "安徽最低工资标准：2025年9月起宿州市区档次",
+      "publisher": "安徽省人民政府办公厅（宿州市政府公开）",
+      "type": "政府劳动政策",
+      "url": "https://www.ahsz.gov.cn/public/2655573/195908171.html",
+      "publishedAt": "2025-09-17",
+      "checkedAt": "2026-09-13",
+      "locator": "皖政办秘〔2025〕32号，正文实施日期及附表第二档宿州市区",
+      "summary": "文件自2025-09-01起调整标准，附表宿州市区月最低工资2170元、非全日制小时最低工资22元。",
+      "limitation": "原始正文和附表图片均已读，表格已目视核对。该政策仅提供比较口径；招聘中使用兼职一词不能单独证明属于法律上的非全日制用工，也不能据未核实招聘索引作违法结论。"
     }
   ],
   "companies": [
@@ -15042,6 +15222,338 @@
         }
       ],
       "nextCheck": "有OCX6708-20具名制造标签或适用劳动评价、独立审核时继续；不从旧成员公司、质量荣誉和其他尺寸反复推断。"
+    },
+    {
+      "origin": "china",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用劳动资料待补",
+      "restLabel": "休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "haidilao-huaxia-suzhou",
+      "name": "海底捞 · 宿州华夏世贸店",
+      "legalName": "海底捞 · 宿州华夏世贸店（具体经营主体待核）",
+      "location": "安徽省宿州市埇桥区人民路与汴河路交叉口华夏世贸广场5楼0500商铺",
+      "originNote": "资料对应中国境内的具体门店；店址不用于推断每名员工的国籍，品牌与实际经营企业分别记录。",
+      "cardNote": "具体门店餐品已对应 · 经营主体与劳动待核",
+      "scope": "海底捞 · 宿州华夏世贸店及所选餐品，不扩大到同品牌其他门店。",
+      "finding": "番茄锅已对应官网具名的华夏世贸门店。宿州劳动名单中的人民路分公司有2024年度A级结果，但尚未证实就是本店；集团2025年披露仅作补充。",
+      "caveats": [
+        "菜单和地址提供具体消费线索，不能代替营业主体和劳动结果。",
+        "堂食或门店购买的份量、餐段及价格以现售菜单为准。",
+        "没有找到适用劳动资料不等于门店违法。"
+      ],
+      "sourceIds": [
+        "haidilao-huaxia-official-store",
+        "haidilao-huaxia-tomato-menu",
+        "suzhou-labor2024-dining-a",
+        "haidilao-esg2025-dining"
+      ],
+      "supply": [
+        {
+          "stage": "具体门店与菜品",
+          "status": "verified",
+          "detail": "番茄锅已对应官网具名的华夏世贸门店。宿州劳动名单中的人民路分公司有2024年度A级结果，但尚未证实就是本店；集团2025年披露仅作补充。",
+          "sourceIds": [
+            "haidilao-huaxia-official-store",
+            "haidilao-huaxia-tomato-menu",
+            "suzhou-labor2024-dining-a",
+            "haidilao-esg2025-dining"
+          ]
+        },
+        {
+          "stage": "制作与实际雇主",
+          "status": "unknown",
+          "detail": "已定位境内门店，尚缺可对应所选餐品制作或门店服务的具名经营主体。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产岗位劳动",
+          "status": "unknown",
+          "detail": "尚缺可对应实际制作或门店雇主的综合劳动守法依据，不额外要求全部上游逐人资料。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现本门店营业执照、食品经营许可或具名经营企业后，再核对适用的政府劳动结果或独立劳动审核；没有新线索时不重复宽泛搜索。"
+    },
+    {
+      "origin": "china",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用劳动资料待补",
+      "restLabel": "休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "xijiade-dalian-tianyuan",
+      "name": "喜家德 · 大连开发区田苑店",
+      "legalName": "喜家德 · 大连开发区田苑店（具体经营主体待核）",
+      "location": "辽宁省大连市本溪街5号、昌林大厦对面田苑酒店楼下",
+      "originNote": "资料对应中国境内的具体门店；店址不用于推断每名员工的国籍，品牌与实际经营企业分别记录。",
+      "cardNote": "具体门店餐品已对应 · 经营主体与劳动待核",
+      "scope": "喜家德 · 大连开发区田苑店及所选餐品，不扩大到同品牌其他门店。",
+      "finding": "当前门店资料列新喜三鲜水饺及本溪街5号地址。历史品牌材料介绍现擀现包，尚未对应本店经营企业或独立劳动结果。",
+      "caveats": [
+        "菜单和地址提供具体消费线索，不能代替营业主体和劳动结果。",
+        "堂食或门店购买的份量、餐段及价格以现售菜单为准。",
+        "没有找到适用劳动资料不等于门店违法。"
+      ],
+      "sourceIds": [
+        "xijiade-tianyuan-sanxian-menu",
+        "xijiade-brandbook-historical"
+      ],
+      "supply": [
+        {
+          "stage": "具体门店与菜品",
+          "status": "verified",
+          "detail": "当前门店资料列新喜三鲜水饺及本溪街5号地址。历史品牌材料介绍现擀现包，尚未对应本店经营企业或独立劳动结果。",
+          "sourceIds": [
+            "xijiade-tianyuan-sanxian-menu",
+            "xijiade-brandbook-historical"
+          ]
+        },
+        {
+          "stage": "制作与实际雇主",
+          "status": "unknown",
+          "detail": "已定位境内门店，尚缺可对应所选餐品制作或门店服务的具名经营主体。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产岗位劳动",
+          "status": "unknown",
+          "detail": "尚缺可对应实际制作或门店雇主的综合劳动守法依据，不额外要求全部上游逐人资料。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现本门店营业执照、食品经营许可或具名经营企业后，再核对适用的政府劳动结果或独立劳动审核；没有新线索时不重复宽泛搜索。"
+    },
+    {
+      "origin": "china",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用劳动资料待补",
+      "restLabel": "休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "hefu-hangzhou-techpark",
+      "name": "和府捞面 · 杭州科技园店",
+      "legalName": "和府捞面 · 杭州科技园店（具体经营主体待核）",
+      "location": "浙江省杭州市科技园路20号8幢114—117室（新加坡杭州科技园店）",
+      "originNote": "资料对应中国境内的具体门店；店址不用于推断每名员工的国籍，品牌与实际经营企业分别记录。",
+      "cardNote": "具体门店餐品已对应 · 经营主体与劳动待核",
+      "scope": "和府捞面 · 杭州科技园店及所选餐品，不扩大到同品牌其他门店。",
+      "finding": "草本酸辣肥牛面已对应杭州科技园路门店。园区名称含新加坡，实际地点在杭州；本店经营主体及劳动依据仍待核。",
+      "caveats": [
+        "菜单和地址提供具体消费线索，不能代替营业主体和劳动结果。",
+        "堂食或门店购买的份量、餐段及价格以现售菜单为准。",
+        "没有找到适用劳动资料不等于门店违法。"
+      ],
+      "sourceIds": [
+        "hefu-techpark-sour-beef-menu"
+      ],
+      "supply": [
+        {
+          "stage": "具体门店与菜品",
+          "status": "verified",
+          "detail": "草本酸辣肥牛面已对应杭州科技园路门店。园区名称含新加坡，实际地点在杭州；本店经营主体及劳动依据仍待核。",
+          "sourceIds": [
+            "hefu-techpark-sour-beef-menu"
+          ]
+        },
+        {
+          "stage": "制作与实际雇主",
+          "status": "unknown",
+          "detail": "已定位境内门店，尚缺可对应所选餐品制作或门店服务的具名经营主体。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产岗位劳动",
+          "status": "unknown",
+          "detail": "尚缺可对应实际制作或门店雇主的综合劳动守法依据，不额外要求全部上游逐人资料。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现本门店营业执照、食品经营许可或具名经营企业后，再核对适用的政府劳动结果或独立劳动审核；没有新线索时不重复宽泛搜索。"
+    },
+    {
+      "origin": "china",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用劳动资料待补",
+      "restLabel": "休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "kawangka-suzhou-wanda",
+      "name": "卡旺卡 · 宿州万达店",
+      "legalName": "卡旺卡 · 宿州万达店（具体经营主体待核）",
+      "location": "安徽省宿州市拂晓大道万达广场一楼、一号门入口左手边",
+      "originNote": "资料对应中国境内的具体门店；店址不用于推断每名员工的国籍，品牌与实际经营企业分别记录。",
+      "cardNote": "具体门店餐品已对应 · 经营主体与劳动待核",
+      "scope": "卡旺卡 · 宿州万达店及所选餐品，不扩大到同品牌其他门店。",
+      "finding": "麻薯芋泥牛奶茶已对应宿州万达门店，杯型与容量未固定；尚缺本店实际经营企业及适用劳动资料。",
+      "caveats": [
+        "菜单和地址提供具体消费线索，不能代替营业主体和劳动结果。",
+        "堂食或门店购买的份量、餐段及价格以现售菜单为准。",
+        "没有找到适用劳动资料不等于门店违法。"
+      ],
+      "sourceIds": [
+        "kawangka-suzhou-wanda-menu"
+      ],
+      "supply": [
+        {
+          "stage": "具体门店与菜品",
+          "status": "verified",
+          "detail": "麻薯芋泥牛奶茶已对应宿州万达门店，杯型与容量未固定；尚缺本店实际经营企业及适用劳动资料。",
+          "sourceIds": [
+            "kawangka-suzhou-wanda-menu"
+          ]
+        },
+        {
+          "stage": "制作与实际雇主",
+          "status": "unknown",
+          "detail": "已定位境内门店，尚缺可对应所选餐品制作或门店服务的具名经营主体。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产岗位劳动",
+          "status": "unknown",
+          "detail": "尚缺可对应实际制作或门店雇主的综合劳动守法依据，不额外要求全部上游逐人资料。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现本门店营业执照、食品经营许可或具名经营企业后，再核对适用的政府劳动结果或独立劳动审核；没有新线索时不重复宽泛搜索。"
+    },
+    {
+      "origin": "china",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用劳动资料待补",
+      "restLabel": "休息依据待补",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "luxihe-nanjing-fuzimiao",
+      "name": "泸溪河 · 南京秦淮夫子庙一店",
+      "legalName": "泸溪河 · 南京秦淮夫子庙一店（具体经营主体待核）",
+      "location": "江苏省南京市秦淮区建康路70号（携程店址；官网索引路名有差异）",
+      "originNote": "资料对应中国境内的具体门店；店址不用于推断每名员工的国籍，品牌与实际经营企业分别记录。",
+      "cardNote": "具体门店餐品已对应 · 经营主体与劳动待核",
+      "scope": "泸溪河 · 南京秦淮夫子庙一店及所选餐品，不扩大到同品牌其他门店。",
+      "finding": "海苔肉松小贝已对应秦淮夫子庙一店。官方目录索引可交叉确认同名品牌门店，原页本次受限；实际加工企业、门店雇主及劳动依据待核。",
+      "caveats": [
+        "菜单和地址提供具体消费线索，不能代替营业主体和劳动结果。",
+        "堂食或门店购买的份量、餐段及价格以现售菜单为准。",
+        "没有找到适用劳动资料不等于门店违法。"
+      ],
+      "sourceIds": [
+        "luxihe-fuzimiao-seaweed-floss-menu",
+        "luxihe-official-fuzimiao-index"
+      ],
+      "supply": [
+        {
+          "stage": "具体门店与菜品",
+          "status": "verified",
+          "detail": "海苔肉松小贝已对应秦淮夫子庙一店。官方目录索引可交叉确认同名品牌门店，原页本次受限；实际加工企业、门店雇主及劳动依据待核。",
+          "sourceIds": [
+            "luxihe-fuzimiao-seaweed-floss-menu",
+            "luxihe-official-fuzimiao-index"
+          ]
+        },
+        {
+          "stage": "制作与实际雇主",
+          "status": "unknown",
+          "detail": "已定位境内门店，尚缺可对应所选餐品制作或门店服务的具名经营主体。",
+          "sourceIds": []
+        },
+        {
+          "stage": "生产岗位劳动",
+          "status": "unknown",
+          "detail": "尚缺可对应实际制作或门店雇主的综合劳动守法依据，不额外要求全部上游逐人资料。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现本门店营业执照、食品经营许可或具名经营企业后，再核对适用的政府劳动结果或独立劳动审核；没有新线索时不重复宽泛搜索。"
+    },
+    {
+      "origin": "international",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "2024年工时休息纳入政府评价",
+      "restLabel": "更新工资线索待核",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "mcd-suzhou-guogou",
+      "name": "麦当劳 · 宿州国购广场餐厅",
+      "legalName": "安徽联升餐厅食品有限公司宿州汴河路餐厅",
+      "location": "安徽省宿州市埇桥区汴河路国购广场一层1036号、二层2023号",
+      "originNote": "国际品牌的宿州境内餐厅；官网两张证照已对应实际本地经营主体，不从地址推断人员国籍。",
+      "cardNote": "2024年度A级 · 新招聘工资线索待核",
+      "scope": "仅安徽联升餐厅食品有限公司宿州汴河路餐厅及国购广场门店；当前未新增餐品收录。",
+      "finding": "官网营业执照与食品经营许可已对应2024年度劳动A级的汴河路餐厅。2026-09招聘索引出现需要核实的兼职时薪字段，发布者、实际工资和用工类型未确认；先保留历史评价，不据此升级当前商品。",
+      "caveats": [
+        "2025年公布的A级覆盖2024年度，不等于2025或2026年度全部用工已经核实。",
+        "招聘索引中的10元时薪与政府非全日制22元小时标准需要核对，但原招聘页未能完整读取、实际用工类型未知，未作违法认定。",
+        "食品经营许可证有效期至2028-10-31，不是劳动评价的有效期；本次亦未核到该店的准确现售餐品菜单。"
+      ],
+      "sourceIds": [
+        "suzhou-labor2024-dining-a",
+        "mcd-suzhou-guogou-license-index",
+        "mcd-suzhou-guogou-business-license",
+        "mcd-suzhou-guogou-food-license",
+        "mcd-bianhe-recruitment202609-index",
+        "anhui-minimum-wage2025-suzhou"
+      ],
+      "supply": [
+        {
+          "stage": "门店与实际经营企业",
+          "status": "verified",
+          "detail": "官网门店3500070的营业执照及食品经营许可证对应同一汴河路餐厅、信用代码与国购广场店址。",
+          "sourceIds": [
+            "mcd-suzhou-guogou-license-index",
+            "mcd-suzhou-guogou-business-license",
+            "mcd-suzhou-guogou-food-license"
+          ]
+        },
+        {
+          "stage": "历史劳动评价",
+          "status": "policy",
+          "detail": "该经营主体列宿州2025年开展、审查2024年的A级最终名单第313行。",
+          "sourceIds": [
+            "suzhou-labor2024-dining-a"
+          ]
+        },
+        {
+          "stage": "更新用工线索及现售餐品",
+          "status": "unknown",
+          "detail": "招聘索引时薪字段、发布者身份与实际用工类型待核，当前门店菜品菜单也待补；不因旧评级直接生成收录商品。",
+          "sourceIds": [
+            "mcd-bianhe-recruitment202609-index",
+            "anhui-minimum-wage2025-suzhou"
+          ]
+        }
+      ],
+      "assessments": [
+        {
+          "subject": "安徽联升餐厅食品有限公司宿州汴河路餐厅",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025年评价（审查2024年）",
+          "sourceId": "suzhou-labor2024-dining-a",
+          "limitation": "最终A级原附件第313行。保留历史结果，2026年招聘工资线索尚待澄清，不能据该结果直接认定当前商品符合收录要求；本站复核期限不是政府有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13"
+        }
+      ],
+      "nextCheck": "出现原招聘页可核实更正、具名用工说明、更新劳动结果或本门店菜单后再继续；不重复受限访问，不由招聘索引或旧A级单独判定当前工资合法性。"
     }
   ],
   "products": [
@@ -25724,6 +26236,261 @@
           ]
         }
       }
+    },
+    {
+      "id": "haidilao-huaxia-tomato-pot",
+      "name": "海底捞6斤番茄锅 · 宿州华夏世贸店",
+      "brand": "海底捞",
+      "companyId": "haidilao-huaxia-suzhou",
+      "category": "dining",
+      "needs": [
+        "火锅"
+      ],
+      "description": "所选为宿州华夏世贸店菜单中的海底捞6斤番茄锅。6斤保留为菜品名称，锅格、份量和就餐人数未固定。",
+      "tags": [
+        "火锅",
+        "番茄锅",
+        "海底捞",
+        "宿州",
+        "华夏世贸"
+      ],
+      "url": "https://you.ctrip.com/yougourmet/restdetail/suzhou672/78699825.html",
+      "market": "当前门店条目列所选餐品及境内地址，可作为到店购买线索；当日供应、份量、价格和餐段以该门店现售菜单为准。",
+      "relationship": "携程所选番茄锅对应华夏世贸店，店名及5楼0500店址与海底捞官网043001一致；尚缺本店营业执照来对应具体经营企业。",
+      "relationshipSourceIds": [
+        "haidilao-huaxia-tomato-menu",
+        "haidilao-huaxia-official-store"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示具体餐品名称；未以同品牌其他菜品或无对应关系的门店照片补位。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "同一境内门店的当前公开餐品资料已对应所选菜名和店址，具体份量及当日供应以门店为准。",
+          "sourceIds": [
+            "haidilao-huaxia-tomato-menu"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "境内门店地点已找到，仍缺本款制作或门店服务的具名经营主体，不能直接把品牌或总部当作实际雇主。",
+          "sourceIds": [
+            "haidilao-huaxia-tomato-menu",
+            "haidilao-huaxia-official-store"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "宿州人民路分公司有2024年度A级，但未确认就是所选华夏世贸店；集团2025年招聘和薪酬披露没有替代门店主体对应。",
+          "sourceIds": [
+            "suzhou-labor2024-dining-a",
+            "haidilao-esg2025-dining"
+          ]
+        }
+      }
+    },
+    {
+      "id": "xijiade-tianyuan-new-sanxian",
+      "name": "新喜三鲜水饺 · 大连开发区田苑店",
+      "brand": "喜家德",
+      "companyId": "xijiade-dalian-tianyuan",
+      "category": "dining",
+      "needs": [
+        "饺子"
+      ],
+      "description": "大连本溪街田苑店菜单中的新喜三鲜水饺，不固定未核实的每份只数、重量或馅料配比。",
+      "tags": [
+        "饺子",
+        "水饺",
+        "三鲜",
+        "大连",
+        "田苑"
+      ],
+      "url": "https://you.ctrip.com/food/dalian4/5054669.html",
+      "market": "当前门店条目列所选餐品及境内地址，可作为到店购买线索；当日供应、份量、价格和餐段以该门店现售菜单为准。",
+      "relationship": "当前具体菜名和大连田苑店地址已对应；历史品牌资料仅说明制作方式，不代替本店经营执照或当前新喜三鲜配方。",
+      "relationshipSourceIds": [
+        "xijiade-tianyuan-sanxian-menu",
+        "xijiade-brandbook-historical"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示具体餐品名称；未以同品牌其他菜品或无对应关系的门店照片补位。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "同一境内门店的当前公开餐品资料已对应所选菜名和店址，具体份量及当日供应以门店为准。",
+          "sourceIds": [
+            "xijiade-tianyuan-sanxian-menu"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "境内门店地点已找到，仍缺本款制作或门店服务的具名经营主体，不能直接把品牌或总部当作实际雇主。",
+          "sourceIds": [
+            "xijiade-tianyuan-sanxian-menu",
+            "xijiade-brandbook-historical"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得适用于田苑店实际经营企业的综合政府劳动结果或可核验独立劳动审核；其他城市同品牌主体的资料不移用于本店。",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "hefu-techpark-sour-beef-noodles",
+      "name": "草本酸辣肥牛面 · 杭州科技园店",
+      "brand": "和府捞面",
+      "companyId": "hefu-hangzhou-techpark",
+      "category": "dining",
+      "needs": [
+        "面食"
+      ],
+      "description": "杭州新加坡杭州科技园店菜单中的草本酸辣肥牛面，店址为科技园路20号8幢114—117室。",
+      "tags": [
+        "面食",
+        "面条",
+        "酸辣肥牛面",
+        "杭州",
+        "科技园"
+      ],
+      "url": "https://you.ctrip.com/food/14/122728786.html",
+      "market": "当前门店条目列所选餐品及境内地址，可作为到店购买线索；当日供应、份量、价格和餐段以该门店现售菜单为准。",
+      "relationship": "同一门店资料同时列草本酸辣肥牛面和杭州店址；具体经营分公司、厨房与所选餐品制作关系仍待补。",
+      "relationshipSourceIds": [
+        "hefu-techpark-sour-beef-menu"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示具体餐品名称；未以同品牌其他菜品或无对应关系的门店照片补位。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "同一境内门店的当前公开餐品资料已对应所选菜名和店址，具体份量及当日供应以门店为准。",
+          "sourceIds": [
+            "hefu-techpark-sour-beef-menu"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "境内门店地点已找到，仍缺本款制作或门店服务的具名经营主体，不能直接把品牌或总部当作实际雇主。",
+          "sourceIds": [
+            "hefu-techpark-sour-beef-menu"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚缺所选杭州门店实际雇主适用的综合劳动评价或独立劳动审核，品牌招聘或福利宣传不直接形成收录结论。",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "kawangka-wanda-mochi-taro-milk-tea",
+      "name": "麻薯芋泥牛奶茶 · 宿州万达店",
+      "brand": "卡旺卡",
+      "companyId": "kawangka-suzhou-wanda",
+      "category": "dining",
+      "needs": [
+        "茶饮"
+      ],
+      "description": "宿州万达广场店菜单中的麻薯芋泥牛奶茶；杯型、容量、糖度和冰量以该店当前可选项为准。",
+      "tags": [
+        "茶饮",
+        "奶茶",
+        "麻薯",
+        "芋泥",
+        "宿州"
+      ],
+      "url": "https://you.ctrip.com/food/suzhou672/16678377.html",
+      "market": "当前门店条目列所选餐品及境内地址，可作为到店购买线索；当日供应、份量、价格和餐段以该门店现售菜单为准。",
+      "relationship": "所选茶饮与拂晓大道宿州万达广场一楼的同一门店资料对应；尚未取得具名食品经营许可或营业执照。",
+      "relationshipSourceIds": [
+        "kawangka-suzhou-wanda-menu"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示具体餐品名称；未以同品牌其他菜品或无对应关系的门店照片补位。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "同一境内门店的当前公开餐品资料已对应所选菜名和店址，具体份量及当日供应以门店为准。",
+          "sourceIds": [
+            "kawangka-suzhou-wanda-menu"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "境内门店地点已找到，仍缺本款制作或门店服务的具名经营主体，不能直接把品牌或总部当作实际雇主。",
+          "sourceIds": [
+            "kawangka-suzhou-wanda-menu"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "本次未取得适用于宿州万达店实际制作和服务雇主的综合劳动结果；品牌客服新闻或第三方配送招聘不作为本店劳动结论。",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "luxihe-fuzimiao-seaweed-floss-cake",
+      "name": "海苔肉松小贝 · 南京秦淮夫子庙一店",
+      "brand": "泸溪河",
+      "companyId": "luxihe-nanjing-fuzimiao",
+      "category": "dining",
+      "needs": [
+        "烘焙"
+      ],
+      "description": "南京秦淮夫子庙一店菜单中的海苔肉松小贝；当前售卖份量、装盒选项和价格以门店为准。",
+      "tags": [
+        "烘焙",
+        "糕点",
+        "海苔",
+        "肉松小贝",
+        "南京",
+        "夫子庙"
+      ],
+      "url": "https://you.ctrip.com/food/shanghai9/12632178-dianping.html",
+      "market": "当前门店条目列所选餐品及境内地址，可作为到店购买线索；当日供应、份量、价格和餐段以该门店现售菜单为准。",
+      "relationship": "菜名和南京同名门店已对应；官网目录索引只提供品牌门店线索，店址路名字样差异及加工、经营主体尚待核实。",
+      "relationshipSourceIds": [
+        "luxihe-fuzimiao-seaweed-floss-menu",
+        "luxihe-official-fuzimiao-index"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示具体餐品名称；未以同品牌其他菜品或无对应关系的门店照片补位。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "同一境内门店的当前公开餐品资料已对应所选菜名和店址，具体份量及当日供应以门店为准。",
+          "sourceIds": [
+            "luxihe-fuzimiao-seaweed-floss-menu"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "境内门店地点已找到，仍缺本款制作或门店服务的具名经营主体，不能直接把品牌或总部当作实际雇主。",
+          "sourceIds": [
+            "luxihe-fuzimiao-seaweed-floss-menu",
+            "luxihe-official-fuzimiao-index"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "未取得可对应本店实际制作或门店雇主的综合劳动评价或独立劳动审核；品牌规模、质量和经营荣誉不代替劳动结果。",
+          "sourceIds": []
+        }
+      }
     }
   ],
   "coverage": [
@@ -26938,10 +27705,20 @@
           "query": "自助餐"
         }
       ],
-      "note": "老乡鸡、瑞幸已有具体菜品资料；海口酒店有岗位线索。门店、中央厨房、加盟和外包人员分别核验。 宿州最新最终劳动名单提供肯德基、必胜客的具名餐厅线索，具体门店地址及在售餐品尚待对应。",
+      "note": "餐饮9项需求均有研究资料。本批补入具体门店的番茄锅、三鲜水饺、酸辣肥牛面、麻薯芋泥牛奶茶和海苔肉松小贝，5项均有境内门店菜品线索，制作经营主体与适用劳动证据仍待对应。宿州国购麦当劳的证照已对应2024年度A级主体，但新招聘工资线索和现售餐品菜单仍待核，未新增正式收录。资料覆盖不代表这些门店已核实守法。",
       "sourceIds": [
         "sofitel-haikou-campus",
-        "suzhou-labor-2024"
+        "suzhou-labor-2024",
+        "haidilao-huaxia-tomato-menu",
+        "haidilao-huaxia-official-store",
+        "suzhou-labor2024-dining-a",
+        "xijiade-tianyuan-sanxian-menu",
+        "hefu-techpark-sour-beef-menu",
+        "kawangka-suzhou-wanda-menu",
+        "luxihe-fuzimiao-seaweed-floss-menu",
+        "mcd-suzhou-guogou-license-index",
+        "mcd-bianhe-recruitment202609-index",
+        "anhui-minimum-wage2025-suzhou"
       ]
     },
     {
