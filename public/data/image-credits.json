@@ -8231,6 +8231,56 @@
       },
       "filename": "images/chengyu-tianxi-one-bedroom-50-94.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "xinhua-dictionary-13-two-colour",
+      "product_name": "《新华字典》第13版双色本（ISBN9787100261869）",
+      "official_source_page_url": "https://www.cp.com.cn/book/491f612a-1.html",
+      "image_url": "https://pic.cp.com.cn/Images/2026/6/15/141721698f35f411-0_hwc268268.jpg",
+      "width": 268,
+      "height": 268,
+      "notes": "已核对红色封面为第13版双色本；仅展示书籍外观，不由封面推断实际印厂或劳动合规。",
+      "content_type": "image/jpeg",
+      "bytes": 8102,
+      "sha256": "9ebe10690857e1f5dd51fa5d817e8ec071f5ae435b709efb274876ddf6708946",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "商务印书馆有限公司／原图权利人",
+        "license": "未取得开放再授权；保留来源及权利信息，仅作为可溯源商品资料插图，不纳入项目 MIT 代码授权。"
+      },
+      "source_image_metadata": {
+        "width": 268,
+        "height": 268,
+        "bytes": 29717,
+        "sha256": "ce3b6acfff47d9a5baf61a885a32be1a13f2e815bb5f8180d941b327c404388e"
+      },
+      "filename": "images/xinhua-dictionary-13-two-colour.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "bingfeng-orange-glass-200x24",
+      "product_name": "冰峰橙味汽水200mL×24瓶（玻璃瓶）",
+      "official_source_page_url": "https://www.jd.com/tupian/1320dbe3c7d20020ad7a.html",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/171836/9/37293/83588/6513b40eF63c5ca2a/90effac5061156a3.jpg",
+      "width": 220,
+      "height": 220,
+      "notes": "来自商品号10086979035174的橙味200ml×24瓶选项；画面为多瓶示意，24瓶数量依据同一零售卡，不能由图片中展示的瓶数推断。图片不独立证明制造企业或劳动合规。",
+      "content_type": "image/jpeg",
+      "bytes": 7786,
+      "sha256": "4b5c45554c4db75d9ccb4cda3c2b5bff691c855ffbf0982d5ec647773556be16",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "原零售商品图片权利人／冰峰",
+        "license": "未取得开放再授权；保留来源及权利信息，仅作为可溯源商品资料插图，不纳入项目 MIT 代码授权。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 18162,
+        "sha256": "aef1780deb87b69ede9cc8ea4f33534641e4c91bad4e699d2721566b516860c8"
+      },
+      "filename": "images/bingfeng-orange-glass-200x24.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

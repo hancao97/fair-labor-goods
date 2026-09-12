@@ -7292,9 +7292,9 @@
       "url": "https://rs.tongchuan.gov.cn/129/17455.jhtml",
       "publishedAt": "2026-01-06",
       "checkedAt": "2026-09-13",
-      "locator": "陕人社函〔2025〕566号，2025-12-29成文；附件1第3家：中国铁路西安局集团有限公司；第44家为陕西众合森工实业有限公司",
-      "summary": "已读取政府页面公开检索提供的完整通知正文及47家企业名单，中国铁路西安局集团有限公司具名列入最终命名结果。与已取得的同批原始评价标准共同判断。 本轮同一最终名单另核对第44家陕西众合森工实业有限公司。",
-      "limitation": "本轮读取的是政府网页的公开索引全文，直接链接此前返回403，未声称下载到原始HTML，也未重试受限路径。名单未公开逐项得分或完整审查起止日；结果不自动覆盖其他铁路局、子公司及外包单位。"
+      "locator": "陕人社函〔2025〕566号，2025-12-29成文；附件1第3家：中国铁路西安局集团有限公司；第44家为陕西众合森工实业有限公司；第12家为西安冰峰饮料股份有限公司",
+      "summary": "已读取政府页面公开检索提供的完整通知正文及47家企业名单，其中第3家为中国铁路西安局集团有限公司、第12家为西安冰峰饮料股份有限公司、第44家为陕西众合森工实业有限公司。与已取得的同批原始评价标准共同判断。",
+      "limitation": "采用政府网页的公开索引全文，直接链接此前返回403，未声称下载到原始HTML，也未重试受限路径。名单未公开逐项得分或完整审查起止日；结果仅适用具名企业，不自动覆盖其他法人、子公司及外包单位。"
     },
     {
       "id": "xiyan-commutation-official-2026",
@@ -7499,6 +7499,162 @@
       "locator": "公司介绍的木门、板材、家具业务与商洛生产中心",
       "summary": "企业招聘档案公开正文介绍木门等业务和商洛生产中心，为从具名劳动评价继续寻找具体商品提供线索。",
       "limitation": "企业业务自述不是某款商品的制造证据，未取得可核对型号及大陆个人零售入口；岗位招聘不代替独立劳动结果。"
+    },
+    {
+      "id": "xinhua-dictionary-13-two-colour-official",
+      "title": "新华字典第13版双色本官方书目",
+      "publisher": "商务印书馆有限公司",
+      "type": "官方商品资料",
+      "url": "https://www.cp.com.cn/book/491f612a-1.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "书名、ISBN978-7-100-26186-9、64开及双色本封面",
+      "summary": "官方书目与已查看封面对应第13版双色本，ISBN9787100261869、64开、1册；页面书目日期为2026年3月。",
+      "limitation": "出版社书目不是当前发货书籍的印刷厂证明；未公开准确发布日期时不由月份补造日期。没有沿用第12版的ISBN、印次或旧印刷企业。"
+    },
+    {
+      "id": "commercial-press-company",
+      "title": "商务印书馆官方机构简介及公司名称",
+      "publisher": "商务印书馆有限公司",
+      "type": "企业主体资料",
+      "url": "https://www.cp.com.cn/ourselves/outline/introduction.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "机构沿革、2011年公司改制及代表性出版物",
+      "summary": "官方简介说明商务印书馆2011年改制为商务印书馆有限公司，并列新华字典等代表性出版物。",
+      "limitation": "出版主体与实体书印刷主体分别核对，历史自有印刷业务或出版奖项不能用于推断本版制造厂或劳动合规。"
+    },
+    {
+      "id": "xinhua-dictionary-13-two-colour-jd",
+      "title": "新华字典第13版双色本具体零售条目",
+      "publisher": "京东商品列表",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/hprm/17134b8d537cbe956ca3.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "商品号14727483：第13版双色本、商务印书馆、具体商品链接",
+      "summary": "当前列表明确列第13版双色本，指向商品号14727483；与官方书目、红色第13版双色本封面对应。",
+      "limitation": "直接商品页本次只返回通用文字，具体选项依据来自可读商品卡；赠送数字版权益按页面和书内核验规则确认。尚未取得当前发货书的版权页及印刷法人。"
+    },
+    {
+      "id": "cloudmusic-paid-membership-2026",
+      "title": "网易云音乐会员付费协议（2026-04-27版）",
+      "publisher": "杭州乐读科技有限公司／网易云音乐",
+      "type": "运营商服务协议",
+      "url": "https://y.music.163.com/m/at/prime-membership-contract",
+      "publishedAt": "2026-04-27",
+      "checkedAt": "2026-09-13",
+      "locator": "导言具名杭州乐读；第二条付费会员种类与运营权",
+      "summary": "官方当前付费协议具名杭州乐读科技有限公司，包含黑胶VIP等会员类型，明确会员运营方及权益以对应页面为准。",
+      "limitation": "运营法人不等于应用商店列出的开发者法人；会员运营服务不代表曲库内所有音乐作品在中国创作、录制或由同一主体雇佣人员制作。"
+    },
+    {
+      "id": "cloudmusic-auto-renew-2022",
+      "title": "网易云音乐自动续费服务协议（V3.0）",
+      "publisher": "杭州乐读科技有限公司／网易云音乐",
+      "type": "运营商服务协议",
+      "url": "https://y.music.163.com/m/at/vipAutopay",
+      "publishedAt": "2022-09-16",
+      "checkedAt": "2026-09-13",
+      "locator": "版本号V3.0、Apple ID自动续费及退订方式",
+      "summary": "当前官方入口仍展示2022-09-16版自动续费协议，说明订阅到期前扣费与取消规则；未把本次查阅日写成协议更新日。",
+      "limitation": "本条仅用于明确所选连续包月会自动续费，具体账户价格及苹果渠道实际扣费规则以购买确认页为准；不是劳动依据。"
+    },
+    {
+      "id": "cloudmusic-ios-black-vip-monthly",
+      "title": "网易云音乐中国区iOS黑胶VIP连续包月",
+      "publisher": "网易云音乐开发者资料；Apple中国区App Store",
+      "type": "官方应用内购资料",
+      "url": "https://apps.apple.com/cn/app/id590338362",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "应用590338362；连续包月说明及黑胶VIP连续包月内购项",
+      "summary": "中国区应用页列黑胶VIP连续包月，周期1个月，常规展示价格15元；开发者及提供者为杭州网易云音乐科技有限公司。",
+      "limitation": "记录普通黑胶VIP，不合并SVIP、音乐包或首月促销。最终价格以对应账户确认页为准；应用商店提供者不替代会员协议经营方，未实际订阅。"
+    },
+    {
+      "id": "tencent-video-membership-ios-current",
+      "title": "腾讯视频系列会员协议及苹果渠道续费规则（当前发布版本）",
+      "publisher": "深圳市腾讯计算机系统有限公司／腾讯视频",
+      "type": "运营商服务协议",
+      "url": "https://film.qq.com/support/term.html",
+      "publishedAt": "2024-11-22",
+      "checkedAt": "2026-09-13",
+      "locator": "官方协议页引用的公开只读内容；hvip、ios，活动版本记录102，版本2024-11-22",
+      "summary": "已读取官方页面所引用的协议正文：当前活动版本具名深圳市腾讯计算机系统有限公司；区分VIP与SVIP权益，苹果渠道续费规则列1个月订阅和取消方式。",
+      "limitation": "页面正文由公开数据提供，本轮依页面明示的只读请求取得并解析，没有执行远程脚本或登录。活动版本日期2024-11-22与后台修改时间、本站查阅日分别记录；会员权益可能依页面更新。"
+    },
+    {
+      "id": "tencent-video-operator-terms-2022",
+      "title": "腾讯视频用户服务协议及运营主体",
+      "publisher": "深圳市腾讯计算机系统有限公司／腾讯视频",
+      "type": "运营商服务协议",
+      "url": "https://m.v.qq.com/about/privacy.html",
+      "publishedAt": "2022-11-17",
+      "checkedAt": "2026-09-13",
+      "locator": "2022-11-20生效；首部及导言的运营公司名称",
+      "summary": "当前官网链接的用户协议将腾讯视频网站及客户端相关服务运营方明确为深圳市腾讯计算机系统有限公司，与会员协议主体一致。",
+      "limitation": "这份协议确认服务运营关系，不证明员工劳动条件；腾讯科技（深圳）有限公司这一应用商店提供者是另一个法人，不能自动混用劳动评价。"
+    },
+    {
+      "id": "tencent-video-ios-vip-monthly",
+      "title": "腾讯视频中国区iOS VIP连续包月",
+      "publisher": "腾讯科技（深圳）有限公司开发者资料；Apple中国区App Store",
+      "type": "官方应用内购资料",
+      "url": "https://apps.apple.com/cn/app/id458318329",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "应用458318329；腾讯视频VIP连续包月1个月及对应内购项",
+      "summary": "中国区应用页列腾讯视频VIP连续包月1个月，常规展示价格25元；提供者为腾讯科技（深圳）有限公司。",
+      "limitation": "所选为普通视频VIP，未合并SVIP、体育会员或电视端权益；会自动续费，最终价格及适用账户以确认页为准。本次没有开通、绑定支付或下单。"
+    },
+    {
+      "id": "bingfeng-classic-glass-200-official",
+      "title": "冰峰官方经典200mL与460mL玻璃瓶产品说明",
+      "publisher": "西安冰峰饮料股份有限公司",
+      "type": "官方商品资料",
+      "url": "https://m.worldbingfeng.com/nd.jsp?groupId=0&id=402&mid=307",
+      "publishedAt": "2024-06-24",
+      "checkedAt": "2026-09-13",
+      "locator": "品牌新瓶发布说明中200mL经典装与460mL分享装的区别",
+      "summary": "品牌官方公开索引正文明确200mL经典橙味汽水玻璃瓶与460mL分享装的产品关系，提供所选容量和包装的对应依据。",
+      "limitation": "本轮使用可读公开索引，未声称取得本页原始HTML；没有将460mL、520mL或无糖、其他口味当作200mL同款。品牌产品说明与劳动评价分别使用。"
+    },
+    {
+      "id": "bingfeng-glass-self-production-csrc",
+      "title": "证监会公开冰峰辅导材料：玻璃瓶自产与罐装委外",
+      "publisher": "华创证券有限责任公司；中国证监会陕西监管局公开",
+      "type": "公开企业生产资料",
+      "url": "https://www.csrc.gov.cn/shaanxi/c101329/c1404267/1404267/files/1614654320026_15014.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始PDF第1、4、13页；第21页的2020—2021辅导计划",
+      "summary": "已下载并查看原始PDF：第4页具名西安冰峰饮料股份有限公司及西安地址；第13页说明公司玻璃瓶汽水生产线由自身组织生产，易拉罐装采用委外加工。",
+      "limitation": "属于2020—2021时期的历史辅导材料，不是2026年生产现场检查，也不是劳动认证；结合仍有的官方经典玻璃瓶说明和当前精确零售规格判断，不扩展到罐装、其他包装或不同生产法人。"
+    },
+    {
+      "id": "bingfeng-current-brand-products",
+      "title": "冰峰当前品牌官网及玻璃瓶产品目录",
+      "publisher": "西安冰峰饮料股份有限公司",
+      "type": "企业生产披露",
+      "url": "https://www.worldbingfeng.com/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公司简介、产品展示中的橙味玻璃瓶汽水",
+      "summary": "当前公开索引仍列具名公司的饮料生产业务及橙味玻璃瓶产品，与历史自产材料、200mL经典装说明交叉核对。",
+      "limitation": "直接请求出现TLS证书错误，已停止该路径；本条仅使用公开索引，没有降低验证或改用其他主机。没有把品牌的税务A级或自述荣誉当作劳动评价。"
+    },
+    {
+      "id": "bingfeng-orange-glass-200x24-jd",
+      "title": "冰峰橙味玻璃瓶200mL×24瓶零售条目",
+      "publisher": "京东商品列表",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/tupian/1320dbe3c7d20020ad7a.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "商品号10086979035174，选项橙味200ml×24瓶",
+      "summary": "当前列表列冰峰200mL玻璃瓶橙味24瓶，链接到商品号10086979035174；所用商品图来自同一选项并已目视核对。",
+      "limitation": "直接商品页本次返回通用文字，规格与购买链接依据取自可读商品卡。没有把橙味加酸梅汤混装或330mL罐装当作同款；地区配送、退瓶及具体价格按实际渠道确认。"
     }
   ],
   "companies": [
@@ -16992,6 +17148,263 @@
           "periodEnd": "2025-12-31",
           "reviewedAt": "2026-09-13",
           "reviewDueAt": "2027-06-03"
+        }
+      ]
+    },
+    {
+      "hours": null,
+      "restDays": null,
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "commercial-press",
+      "name": "商务印书馆",
+      "legalName": "商务印书馆有限公司",
+      "location": "北京市；所选字典实际印刷厂待核",
+      "origin": "china",
+      "originNote": "中国出版机构；出版地与实体书印制地分别核对，不由出版社地址推断印刷工人国籍。",
+      "level": "research",
+      "hoursLabel": "实际印刷企业劳动待核",
+      "restLabel": "实际印刷企业劳动待核",
+      "cardNote": "第13版及零售已核 · 印刷待核",
+      "scope": "所选新华字典第13版双色本的出版关系；未确定当前发货印刷企业。",
+      "finding": "官方书目、封面和准确零售选项对应第13版双色本及ISBN9787100261869；出版社公司名称已核，当前印刷厂及其劳动依据仍缺。",
+      "caveats": [
+        "字典书名中的第13版已由封面确认，不沿用第12版的ISBN或印刷信息。",
+        "同一出版社、同一ISBN的不同印次可能由不同印厂承印，出版社和书店的劳动资料不能直接替代印刷企业。",
+        "官方宣传图提供封面和数字功能说明，没有核到当前发货本的版权页。"
+      ],
+      "sourceIds": [
+        "xinhua-dictionary-13-two-colour-official",
+        "commercial-press-company",
+        "xinhua-dictionary-13-two-colour-jd"
+      ],
+      "supply": [
+        {
+          "stage": "图书出版",
+          "status": "verified",
+          "detail": "商务印书馆官方书目及公司介绍对应所选ISBN和第13版双色本。",
+          "sourceIds": [
+            "xinhua-dictionary-13-two-colour-official",
+            "commercial-press-company"
+          ]
+        },
+        {
+          "stage": "实体印刷装订",
+          "status": "unknown",
+          "detail": "当前印刷企业及准确印次待核，没有把旧版下线仪式或其他印次资料套用。",
+          "sourceIds": [
+            "xinhua-dictionary-13-two-colour-official",
+            "xinhua-dictionary-13-two-colour-jd"
+          ]
+        },
+        {
+          "stage": "印刷岗位劳动",
+          "status": "unknown",
+          "detail": "需要对应实际印厂的综合劳动依据，现有出版和零售资料不作替代。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "取得当前所售第13版双色本的可读版权页、具名印刷记录或对应印厂后，继续核对其劳动资料。",
+      "assessments": []
+    },
+    {
+      "hours": null,
+      "restDays": null,
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "netease-cloudmusic-ledu",
+      "name": "网易云音乐 · 杭州乐读",
+      "legalName": "杭州乐读科技有限公司",
+      "location": "浙江省杭州市；中国区会员运营服务",
+      "origin": "china",
+      "originNote": "具名境内会员运营单位；不据中国区销售或公司地址推断所有创作者国籍。",
+      "level": "research",
+      "hoursLabel": "未取得适用综合劳动结果",
+      "restLabel": "未取得适用综合劳动结果",
+      "cardNote": "会员经营主体已核 · 劳动待核",
+      "scope": "杭州乐读提供的中国区黑胶VIP会员运营服务；应用开发者与独立音乐制作单位分别判断。",
+      "finding": "2026年官方会员协议具名杭州乐读，中国区应用内购明确黑胶VIP连续包月1个月。尚无适用本用人单位的综合劳动结果。",
+      "caveats": [
+        "应用商店开发者杭州网易云音乐科技有限公司与协议主体杭州乐读科技有限公司是不同法人，不混用其劳动资料。",
+        "黑胶VIP连续包月会自动续费，不能写成一次性月卡；未合并SVIP和音乐包。",
+        "本档案研究会员运营，不代表全曲库作品均在中国制作，也不把所有创作者算为运营公司雇员。"
+      ],
+      "sourceIds": [
+        "cloudmusic-paid-membership-2026",
+        "cloudmusic-auto-renew-2022",
+        "cloudmusic-ios-black-vip-monthly"
+      ],
+      "supply": [
+        {
+          "stage": "境内会员运营",
+          "status": "verified",
+          "detail": "当前官方付费协议明确杭州乐读为会员服务经营方。",
+          "sourceIds": [
+            "cloudmusic-paid-membership-2026"
+          ]
+        },
+        {
+          "stage": "应用及渠道",
+          "status": "verified",
+          "detail": "中国区内购页面列具体月度订阅，开发者为杭州网易云音乐科技有限公司，与经营方分开记录。",
+          "sourceIds": [
+            "cloudmusic-ios-black-vip-monthly"
+          ]
+        },
+        {
+          "stage": "运营用工及独立内容",
+          "status": "unknown",
+          "detail": "运营主体综合劳动依据待核；独立应用研发、音乐制作和录音不借用会员协议作劳动证明。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现杭州乐读或实际适用运营用人单位的具名政府综合劳动结果、独立审核后复核；会员价格与续费条款按官方更新。",
+      "assessments": []
+    },
+    {
+      "hours": null,
+      "restDays": null,
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "tencent-video-operator",
+      "name": "腾讯视频 · 会员运营",
+      "legalName": "深圳市腾讯计算机系统有限公司",
+      "location": "广东省深圳市；中国区会员运营服务",
+      "origin": "china",
+      "originNote": "具名境内视频平台运营单位；不把中国区会员服务理解为所有影片、节目均国产。",
+      "level": "research",
+      "hoursLabel": "未取得适用综合劳动结果",
+      "restLabel": "未取得适用综合劳动结果",
+      "cardNote": "会员经营主体已核 · 劳动待核",
+      "scope": "深圳市腾讯计算机系统有限公司提供的中国区视频VIP会员运营服务，不涵盖所有影片制作或不同法人研发团队。",
+      "finding": "官网一般用户协议与当前发布的会员协议均具名同一运营公司；中国区iOS内购提供普通视频VIP连续包月。适用的综合劳动依据仍待补。",
+      "caveats": [
+        "应用商店提供者腾讯科技（深圳）有限公司是另一法人，不能与会员运营公司互换使用劳动评价。",
+        "普通视频VIP和SVIP、体育会员权益不同，所选订阅不能写成全端通用。",
+        "未把招聘服务商的劳动荣誉归给其客户腾讯；平台会员协议也不证明影视制作人员劳动合规。"
+      ],
+      "sourceIds": [
+        "tencent-video-membership-ios-current",
+        "tencent-video-operator-terms-2022",
+        "tencent-video-ios-vip-monthly"
+      ],
+      "supply": [
+        {
+          "stage": "境内会员运营",
+          "status": "verified",
+          "detail": "官方一般服务及会员协议均明确深圳市腾讯计算机系统有限公司。",
+          "sourceIds": [
+            "tencent-video-membership-ios-current",
+            "tencent-video-operator-terms-2022"
+          ]
+        },
+        {
+          "stage": "应用内购买",
+          "status": "verified",
+          "detail": "中国区iOS应用458318329列VIP连续包月1个月，提供者另为腾讯科技（深圳）有限公司。",
+          "sourceIds": [
+            "tencent-video-ios-vip-monthly"
+          ]
+        },
+        {
+          "stage": "运营用工与影视制作",
+          "status": "unknown",
+          "detail": "缺本用人单位适用综合劳动结果；独立影片、节目制作与其他关联法人分别核对。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "取得具名运营公司的综合劳动评价或独立审核后复核；协议与内购权益按当前渠道更新，不重复无关招聘服务商的荣誉检索。",
+      "assessments": []
+    },
+    {
+      "hours": null,
+      "restDays": null,
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "xian-bingfeng",
+      "name": "冰峰 · 西安制造",
+      "legalName": "西安冰峰饮料股份有限公司",
+      "location": "陕西省西安市；历史生产主体资料地址为东十里铺北酒十路189号",
+      "origin": "china",
+      "originNote": "西安境内具名饮料生产企业；所选为玻璃瓶汽水，不以品牌或厂址推断每位员工国籍。",
+      "level": "assessment",
+      "hoursLabel": "综合评价覆盖工时制度",
+      "restLabel": "综合评价覆盖休息休假",
+      "cardNote": "2025年政府综合劳动评价",
+      "scope": "本公司自产玻璃瓶橙味汽水及其适用的2025年度综合劳动评价；不同包装制造关系单独核对。",
+      "finding": "陕西最终劳动名单第12家为本公司。证监会公开原始材料说明玻璃瓶汽水自产；当前品牌目录、200mL经典装说明与精确零售规格交叉对应，支持所选玻璃瓶款。",
+      "caveats": [
+        "自产与委外说明为2020—2021时期材料，未冒充2026年现场核查；当前官方目录和2024年经典装说明作为后续产品交叉依据。",
+        "易拉罐装曾采用独立厂商加工；没有将本公司评价用于罐装、PET装、其他口味或未对应的生产主体。",
+        "综合结果未公开完整审查起止日及逐项分数；原料、包装和运输的独立用工不随本公司结果自动获得保证。"
+      ],
+      "sourceIds": [
+        "shaanxi-harmony-final-2025",
+        "shaanxi-harmony-criteria-2025",
+        "bingfeng-glass-self-production-csrc",
+        "bingfeng-current-brand-products",
+        "bingfeng-classic-glass-200-official",
+        "bingfeng-orange-glass-200x24-jd"
+      ],
+      "supply": [
+        {
+          "stage": "玻璃瓶汽水制造",
+          "status": "verified",
+          "detail": "原始辅导材料说明本公司组织玻璃瓶汽水自产，结合当前品牌目录、经典200mL说明及同款零售规格对应。",
+          "sourceIds": [
+            "bingfeng-glass-self-production-csrc",
+            "bingfeng-current-brand-products",
+            "bingfeng-classic-glass-200-official",
+            "bingfeng-orange-glass-200x24-jd"
+          ]
+        },
+        {
+          "stage": "具名制造企业用工",
+          "status": "verified",
+          "detail": "本公司为2025年陕西最终综合劳动评价名单第12家，使用同批原始标准。",
+          "sourceIds": [
+            "shaanxi-harmony-final-2025",
+            "shaanxi-harmony-criteria-2025"
+          ]
+        },
+        {
+          "stage": "委外与上游",
+          "status": "unknown",
+          "detail": "易拉罐委外加工及原料、包材、运输不借用本公司劳动结果；本款没有扩展全供应链保证。",
+          "sourceIds": [
+            "bingfeng-glass-self-production-csrc"
+          ]
+        }
+      ],
+      "nextCheck": "2026-10-13前复核具名劳动结果；出现玻璃瓶生产方式或制造标识变化时立即重新判断所选规格，不扩展到委外罐装。",
+      "assessments": [
+        {
+          "subject": "西安冰峰饮料股份有限公司",
+          "result": "2025年陕西省劳动关系和谐企业",
+          "period": "2025年度评价；2026-01-06公开结果；完整审查起止日未公开",
+          "sourceId": "shaanxi-harmony-final-2025",
+          "limitation": "最终通知附件1第12家；具名企业按同批综合标准评审，未公开逐项分数，不表示所有条目满分或未来均合规。名单公开索引全文已读，直接HTML未取得。",
+          "kind": "government-labor-review",
+          "resultPublishedAt": "2026-01-06",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "陕西省人力资源和社会保障厅、总工会、企业家协会、企业联合会、工商业联合会",
+          "scopeType": "employer",
+          "scope": "西安冰峰饮料股份有限公司的2025年度综合劳动评价，按陕人社函〔2025〕235号附件5评审。",
+          "verificationSourceId": "shaanxi-harmony-final-2025",
+          "basisSourceIds": [
+            "shaanxi-harmony-criteria-2025"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ]
         }
       ]
     }
@@ -28816,6 +29229,247 @@
           ]
         }
       }
+    },
+    {
+      "image": "images/xinhua-dictionary-13-two-colour.webp",
+      "imageMode": "contain",
+      "imageSource": "https://pic.cp.com.cn/Images/2026/6/15/141721698f35f411-0_hwc268268.jpg",
+      "imageRights": "商务印书馆有限公司／原图权利人",
+      "id": "xinhua-dictionary-13-two-colour",
+      "name": "《新华字典》第13版双色本（ISBN9787100261869）",
+      "brand": "商务印书馆",
+      "companyId": "commercial-press",
+      "category": "culture",
+      "needs": [
+        "图书"
+      ],
+      "description": "第13版双色本汉语字典，64开、单册；适用于汉字查检和语文学习。ISBN9787100261869，区别于第12版及单色、大字版本。",
+      "tags": [
+        "图书",
+        "字典",
+        "新华字典",
+        "第13版",
+        "双色本",
+        "64开",
+        "9787100261869"
+      ],
+      "url": "https://item.jd.com/14727483.html",
+      "market": "京东商品号14727483，对应商务印书馆第13版双色本单册。具体价格、发货印次及赠送数字权益按本款页面、书内核验规则确认。",
+      "relationship": "官方书目与封面明确第13版双色本及ISBN，零售卡对应同一出版机构和版本；当前实体书印刷厂仍待核。",
+      "relationshipSourceIds": [
+        "xinhua-dictionary-13-two-colour-official",
+        "commercial-press-company",
+        "xinhua-dictionary-13-two-colour-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前零售卡和具体商品链接可对应第13版双色本，官方书目提供ISBN；地区库存及发货印次另核。",
+          "sourceIds": [
+            "xinhua-dictionary-13-two-colour-jd",
+            "xinhua-dictionary-13-two-colour-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "出版机构及版本已明确，但未取得当前所售本的版权页或具名印刷记录，不能用出版社所在地代替印厂。",
+          "sourceIds": [
+            "xinhua-dictionary-13-two-colour-official",
+            "commercial-press-company",
+            "xinhua-dictionary-13-two-colour-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "实际印刷企业尚未对应，缺可适用劳动依据；旧版印刷厂、书店评价和出版奖项均未移用。",
+          "sourceIds": [
+            "xinhua-dictionary-13-two-colour-official",
+            "commercial-press-company"
+          ]
+        }
+      }
+    },
+    {
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "id": "cloudmusic-black-vip-ios-monthly",
+      "name": "网易云音乐黑胶VIP连续包月（iOS／1个月）",
+      "brand": "网易云音乐",
+      "companyId": "netease-cloudmusic-ledu",
+      "category": "culture",
+      "needs": [
+        "音乐"
+      ],
+      "description": "中国区iOS应用内的普通黑胶VIP连续包月，订阅周期1个月并自动续费。研究会员运营服务，曲目可用范围按实际权益确认。",
+      "tags": [
+        "音乐",
+        "黑胶VIP",
+        "会员",
+        "连续包月",
+        "1个月",
+        "iOS",
+        "网易云音乐"
+      ],
+      "url": "https://apps.apple.com/cn/app/id590338362",
+      "market": "中国区App Store的网易云音乐应用590338362内选择黑胶VIP连续包月。页面常规展示15元/月，最终价格以账户确认页为准；会自动续费，可在苹果账户订阅管理中取消，宜在下一次扣费前按平台时限操作。",
+      "relationship": "官方2026年会员协议明确杭州乐读为运营方；中国区应用内购列黑胶VIP月度订阅，应用开发者杭州网易云音乐科技有限公司单独记录。",
+      "relationshipSourceIds": [
+        "cloudmusic-paid-membership-2026",
+        "cloudmusic-ios-black-vip-monthly",
+        "cloudmusic-auto-renew-2022"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "中国区官方应用资料与内购项明确黑胶VIP连续包月1个月，非境外会员或一次性月卡。",
+          "sourceIds": [
+            "cloudmusic-ios-black-vip-monthly",
+            "cloudmusic-paid-membership-2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "本项为杭州乐读这一具名境内公司提供的中国区会员运营服务；不声称全部曲目在中国创作录制。",
+          "sourceIds": [
+            "cloudmusic-paid-membership-2026",
+            "cloudmusic-ios-black-vip-monthly"
+          ],
+          "subject": "杭州乐读科技有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "会员运营主体已核，尚未取得适用杭州乐读或实际运营用人单位的综合劳动结果；开发者与集团资料不自动移用。",
+          "sourceIds": [
+            "cloudmusic-paid-membership-2026",
+            "cloudmusic-ios-black-vip-monthly"
+          ]
+        }
+      }
+    },
+    {
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "id": "tencent-video-vip-ios-monthly",
+      "name": "腾讯视频VIP连续包月（iOS／1个月）",
+      "brand": "腾讯视频",
+      "companyId": "tencent-video-operator",
+      "category": "culture",
+      "needs": [
+        "视频"
+      ],
+      "description": "中国区iOS应用内的普通腾讯视频VIP连续包月，周期1个月并自动续费；与SVIP、体育会员分开，片库和适用终端按当期权益确认。",
+      "tags": [
+        "视频",
+        "腾讯视频",
+        "VIP",
+        "会员",
+        "连续包月",
+        "1个月",
+        "iOS"
+      ],
+      "url": "https://apps.apple.com/cn/app/id458318329",
+      "market": "中国区App Store腾讯视频应用458318329内选择VIP连续包月。页面常规展示25元/月，实际账户报价为准；会自动续费，可通过苹果账户订阅管理或适用的官方续费管理入口取消，需遵守扣费前的退订时限。",
+      "relationship": "官方一般用户协议与当前活动会员协议均具名深圳市腾讯计算机系统有限公司；应用内购提供所选月度VIP，应用商店提供者腾讯科技（深圳）有限公司另列。",
+      "relationshipSourceIds": [
+        "tencent-video-membership-ios-current",
+        "tencent-video-operator-terms-2022",
+        "tencent-video-ios-vip-monthly"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "中国区iOS应用内购和官方会员规则对应普通视频VIP1个月自动续费订阅，未混入SVIP或其他端口套餐。",
+          "sourceIds": [
+            "tencent-video-ios-vip-monthly",
+            "tencent-video-membership-ios-current"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "本项为具名境内公司提供的中国区视频会员运营服务；不把平台片库内全部影视作品的制作地点一并认定为中国。",
+          "sourceIds": [
+            "tencent-video-membership-ios-current",
+            "tencent-video-operator-terms-2022",
+            "tencent-video-ios-vip-monthly"
+          ],
+          "subject": "深圳市腾讯计算机系统有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚缺会员运营用人单位可适用的综合劳动评价或独立审核，未把开发者或招聘服务商荣誉当作本公司的依据。",
+          "sourceIds": [
+            "tencent-video-membership-ios-current",
+            "tencent-video-operator-terms-2022"
+          ]
+        }
+      }
+    },
+    {
+      "image": "images/bingfeng-orange-glass-200x24.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/171836/9/37293/83588/6513b40eF63c5ca2a/90effac5061156a3.jpg",
+      "imageRights": "原零售商品图片权利人／冰峰",
+      "id": "bingfeng-orange-glass-200x24",
+      "name": "冰峰橙味汽水200mL×24瓶（玻璃瓶）",
+      "brand": "冰峰",
+      "companyId": "xian-bingfeng",
+      "category": "drinks",
+      "needs": [
+        "汽水"
+      ],
+      "description": "经典橙味碳酸汽水，玻璃瓶200毫升、24瓶装。所选为橙味单一口味，区别于酸梅汤混装、330毫升罐装及大容量瓶。",
+      "tags": [
+        "汽水",
+        "碳酸饮料",
+        "橙味",
+        "玻璃瓶",
+        "200mL",
+        "24瓶",
+        "西安",
+        "冰峰"
+      ],
+      "url": "https://item.jd.com/10086979035174.html",
+      "market": "京东商品号10086979035174，选择橙味200ml×24瓶。当前报价、配送区域、运费及玻璃瓶退还条件以该款实际渠道为准，未将餐馆或经销商的退瓶押金规则套用到网上订单。",
+      "relationship": "品牌官方200mL经典玻璃瓶说明与当前零售选项一致；证监会公开辅导材料区分本公司玻璃瓶自产和易拉罐委外，当前品牌目录仍展示橙味玻璃瓶产品。",
+      "relationshipSourceIds": [
+        "bingfeng-classic-glass-200-official",
+        "bingfeng-glass-self-production-csrc",
+        "bingfeng-current-brand-products",
+        "bingfeng-orange-glass-200x24-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已核当前零售卡的橙味、200mL玻璃瓶、24瓶选项及直接商品链接；地区配送和具体报价另核。",
+          "sourceIds": [
+            "bingfeng-orange-glass-200x24-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "综合公开自产材料、仍有的品牌玻璃瓶目录、官方200mL经典装说明与当前零售选项，支持本款对应西安冰峰饮料股份有限公司。自产原始说明属2020—2021时期，不冒充本年现场核查。",
+          "sourceIds": [
+            "bingfeng-glass-self-production-csrc",
+            "bingfeng-current-brand-products",
+            "bingfeng-classic-glass-200-official",
+            "bingfeng-orange-glass-200x24-jd"
+          ],
+          "subject": "西安冰峰饮料股份有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "具名制造公司列2025年陕西省最终综合劳动评价名单第12家，使用同批完整标准支持所选自产玻璃瓶款；不用于其他法人委外罐装。",
+          "sourceIds": [
+            "shaanxi-harmony-final-2025",
+            "shaanxi-harmony-criteria-2025"
+          ],
+          "assessmentSourceId": "shaanxi-harmony-final-2025"
+        }
+      }
     }
   ],
   "coverage": [
@@ -29225,9 +29879,13 @@
         {
           "label": "冲调饮品",
           "query": "冲调饮品"
+        },
+        {
+          "label": "汽水",
+          "query": "汽水"
         }
       ],
-      "note": "饮料酒水11项需求均有具体研究资料。口子窖六年型41%vol 450mL、金惟他多维葡萄糖300g和迎驾山泉550mL×24瓶保留正式收录；新增N158第九代特选级解百纳750mL单瓶，国内入口和烟台制造主体已对应，劳动依据待补。其余商品保留各自缺口，研究覆盖不等于正式收录。",
+      "note": "饮料酒水补入独立的汽水需求，共12项，均有具体研究资料。冰峰200mL×24瓶橙味玻璃瓶依据具名自产资料和2025年政府综合劳动评价正式收录，原始制造说明年份与范围保留；不扩展到委外罐装。口子窖、金惟他冲饮和迎驾山泉继续保留收录，其余产品按各自缺口复核。",
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
@@ -29265,7 +29923,13 @@
         "changyu-n158-750-jd",
         "changyu-n158-suning",
         "changyu-n158-label",
-        "changyu-csr2025"
+        "changyu-csr2025",
+        "bingfeng-classic-glass-200-official",
+        "bingfeng-glass-self-production-csrc",
+        "bingfeng-current-brand-products",
+        "bingfeng-orange-glass-200x24-jd",
+        "shaanxi-harmony-final-2025",
+        "shaanxi-harmony-criteria-2025"
       ]
     },
     {
@@ -30130,7 +30794,7 @@
           "query": "演出"
         }
       ],
-      "note": "石牛山景区成人门票已正式收录。新增砀山万达广场店成人单场观影资料：具名境内分店和2024年度劳动A级结果已对应，当前可售场次待核。清明上河园门票与演出继续补证；图书、视频和音乐仍缺具体商品记录。",
+      "note": "文化娱乐9项需求均有具体研究资料。石牛山成人首道门票已正式收录；新华字典第13版双色本、腾讯视频VIP和网易云音乐黑胶VIP的iOS月度订阅保留印刷或劳动缺口；砀山万达分店劳动依据已对应，当前售票场次仍待核。会员运营不等于全部影视、音乐内容国产。",
       "sourceIds": [
         "national-harmony-2022",
         "vista-hiring",
@@ -30141,7 +30805,16 @@
         "suzhou-labor-2024",
         "dangshan-wanda-operator-register-2024",
         "dangshan-wanda-ticket-entry",
-        "dangshan-wanda-hours-2024"
+        "dangshan-wanda-hours-2024",
+        "xinhua-dictionary-13-two-colour-official",
+        "commercial-press-company",
+        "xinhua-dictionary-13-two-colour-jd",
+        "cloudmusic-paid-membership-2026",
+        "cloudmusic-auto-renew-2022",
+        "cloudmusic-ios-black-vip-monthly",
+        "tencent-video-membership-ios-current",
+        "tencent-video-operator-terms-2022",
+        "tencent-video-ios-vip-monthly"
       ]
     },
     {
