@@ -1061,11 +1061,11 @@
       "title": "开平市 2025 年度劳动保障守法诚信等级评价结果",
       "publisher": "开平市人力资源和社会保障局",
       "url": "https://www.kaiping.gov.cn/jmkpsrsj/gkmlpt/content/3/3501/post_3501327.html",
-      "summary": "公布对 2025 全年的评价结果；广东嘉士利食品集团、开兰面粉、美玉子食品、康力食品集团、广中皇食品、开平金箩米业、粤师傅调味食品等具体法人列为 A 级。",
+      "summary": "公布对 2025 全年的评价结果；广东嘉士利食品集团、开兰面粉、美玉子食品、康力食品集团、广中皇食品、开平金箩米业、粤师傅调味食品等具体法人列为 A 级。 本次另核对开平威技电器有限公司和开平市达豪日化科技有限公司，均列A级。",
       "limitation": "覆盖名单所列法人在 2025 年的劳动保障守法情况；不能扩展到不同法人，也不是未来持续合规保证。",
       "publishedAt": "2026-06-03",
       "checkedAt": "2026-09-12",
-      "locator": "附件企业名单第 2、5、139、182、222、256、295 行等；182 为康力食品，256 为金箩米业",
+      "locator": "附件企业名单第2、5、139、182、202、222、256、295、324行等；202为开平威技电器，324为开平市达豪日化科技",
       "type": "政府评价"
     },
     {
@@ -6095,6 +6095,90 @@
       "locator": "公开索引表第2行：1000ml小长方保鲜盒LK-2015",
       "summary": "报道转述浙江2018年第二季度检查，第2行列龙士达LK-2015、1000mL、2017-10-26样品及浙江龙士达家居用品有限公司。",
       "limitation": "直接请求返回405，使用公开索引。不是本次LK-2017、2.5L款，不能跨型号套用制造商；也不构成当前供货、劳动合规或品牌全部商品的证明。"
+    },
+    {
+      "id": "dahao-official-profile",
+      "title": "达豪官网企业简介与国内生产业务",
+      "publisher": "开平市达豪日化科技有限公司",
+      "type": "企业介绍",
+      "url": "http://www.kpdh.cn/article-2-view.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "企业简介原始附图及网站具名页脚",
+      "summary": "企业简介介绍开平的粘捕用品生产业务及国内生产基地，网站产品家族包含粘蝇纸。所选型号另以具名包装对应制造商。",
+      "limitation": "原始HTML与简介附图已读取、目视。图片文件名及网站旧版权年份不是资料发布日期；介绍中的税务、质量等荣誉不作为劳动评价。"
+    },
+    {
+      "id": "dahao-enlarged-flypaper-official",
+      "title": "达豪中号加大粘蝇纸官网型号与具名包装",
+      "publisher": "开平市达豪日化科技有限公司",
+      "type": "制造商产品资料",
+      "url": "http://www.kpdh.cn/goods_show-83-view.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "产品信息“中号加大粘蝇纸”；正面、背面原图",
+      "summary": "官网列中号加大粘蝇纸，正面尺寸18.5×12.5cm。包装正面具名开平市达豪日化科技有限公司，背面列广东开平市马冈镇湾琴山工业区3号，条码6948926220017。",
+      "limitation": "页面与包装正反面已查看，未将图片路径年份作为生产日期。官网2000张/箱为工厂箱规，本站20片来自独立零售选项；正面尺寸不冒充展开尺寸。包装上的质量认证宣传不是劳动证据，其他型号及制造法人分别核对。"
+    },
+    {
+      "id": "dahao-enlarged-flypaper-jd20",
+      "title": "京东达豪中号加大粘蝇纸20片（10140519337773）",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/131696edafe111a1be22.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始HTML货号10140519337773，选项“达豪中号加大粘蝇纸 20片”",
+      "summary": "当前目录列具体20片选项及独立商品入口；对应商品图可见达豪绿色中号加大包装及同名开平生产企业，与官网型号包装对应。",
+      "limitation": "直接数字货号页仅返回通用框架，销售依据为原始目录卡片。宣传图同时出现10片包装及其他数量促销字样，所选数量以本货号20片标题为准；不采用错误品牌图片的另一货号10231341200575。没有把目录卡片当作各地区库存或报价保证。"
+    },
+    {
+      "id": "widetech-dd40p-suning",
+      "title": "苏宁德龙DD40P国内版本具名制造参数",
+      "publisher": "苏宁易购／广州晨初贸易专营店",
+      "type": "零售商品制造资料",
+      "url": "https://product.suning.com/0070146675/102488509.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始HTML参数表：型号DD40P、制造商、产地、电压、功率和水箱",
+      "summary": "该货号参数列DD40P、220V、620W、7L水箱，制造商为开平威技电器有限公司，产地广东开平。",
+      "limitation": "原始HTML已读取。页面同时含多种隐藏交易状态，未以“有货”或“已下架”的模板文字判断实时销售。所列CCC编号未独立核验证书有效性；控制方式栏与另一零售表不一致，未采纳该项。不同电气版本和DD230P等型号不混用。"
+    },
+    {
+      "id": "widetech-dd40p-suning-profile",
+      "title": "苏宁DD40P另一货号的制造与国内电气参数",
+      "publisher": "苏宁易购",
+      "type": "零售商品制造资料",
+      "url": "https://www.suning.com/item/0000000000/105794285.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始HTML完整参数及“暂无报价”，跳转货号000000000105794285",
+      "summary": "另一货号同样将DD40P、220V、620W、7L对应开平威技电器有限公司，产地列中国广东江门；页面没有报价。",
+      "limitation": "资料页及其直接商品入口均已读取。两条记录均来自苏宁，不能称为两个独立机构认证；它们支持具体国内版本的制造对应，仍需当前可购渠道。"
+    },
+    {
+      "id": "widetech-dd40p-suning-sale-check",
+      "title": "DD40P第三方商家公开供货查询（南京玄武区）",
+      "publisher": "苏宁易购",
+      "type": "公开销售状态查询",
+      "url": "https://pas.suning.com/nspcsale_0_000000000102488509_000000000102488509_0070146675_100_025_0250101_20358_1000173_9173_11365_Z001___R2402003_19.1_1___000070516____0___96145.0_2_01_20366_20396____.html?callback=pcData",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "2026-09-12查询；货号000000000102488509、商家0070146675的saleInfo",
+      "summary": "公开查询返回空价格、状态2、库存状态3，原因代码XY4008，说明为商家页面寻源未返回货源。该次查询未获得可售供货信息。",
+      "limitation": "使用公开页面参数及公开地区表，以访客方式读取响应；没有登录、下单或执行远程脚本。南京玄武区为核对样例，不是用户地址；一次地区查询不能证明全国停售。仅记录商品、区域和销售结果，排除响应中的网络地址等无关数据。"
+    },
+    {
+      "id": "widetech-dd40p-suning-self-sale-check",
+      "title": "DD40P自营货号公开供货查询（南京玄武区）",
+      "publisher": "苏宁易购",
+      "type": "公开销售状态查询",
+      "url": "https://pas.suning.com/nspcsale_0_000000000105794285_000000000105794285_0000000000_100_025_0250101_20358_1000173_9173_11365_Z001___R2402003_18.0_0___000070516____0___71394.4_1_01_20366_20396____.html?callback=pcData",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "2026-09-12查询；货号000000000105794285、商家0000000000的saleInfo",
+      "summary": "公开查询返回空价格、状态2、库存状态3，原因代码XY1002，说明为自营页面区域寻源未返回供货所需信息。该次查询未获得可售供货信息。",
+      "limitation": "使用公开页面参数和同一公开地区样例，以访客方式只读查询。此结果只用于记录当前销售缺口，不能推断所有地区无货、产品质量或生产企业劳动状况。"
     }
   ],
   "companies": [
@@ -13278,6 +13362,156 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "优先补1093993的制造背标，按确切工厂查劳动守法评级、综合劳动评价或独立审核；不重复用LK-2015旧抽查填补本款。"
+    },
+    {
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年劳动守法 A 级",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "dahao-kaiping",
+      "name": "达豪",
+      "legalName": "开平市达豪日化科技有限公司",
+      "location": "广东省开平市马冈镇湾琴山工业区3号",
+      "origin": "china",
+      "originNote": "品牌官网和所选型号包装具名开平制造企业，中国品牌背景与实际生产依据分别记录。",
+      "scope": "开平市达豪日化科技有限公司；本次对应中号加大粘蝇纸，不扩展到同品牌其他制造法人。",
+      "finding": "开平2025年度劳动评价第324行列同一法人为A级。官网具名包装与当前京东中号加大粘蝇纸20片选项已对应，满足本款收录所需的制造、销售与劳动证据。",
+      "caveats": [
+        "劳动评价覆盖2025年度，不代表未来持续合规。",
+        "官网工厂箱规、单包数量与零售购买数量分别记录，不把不同包装变体混为一款。",
+        "广东达豪生物科技有限公司与本公司是不同法人；换厂后的商品需重新对应制造及劳动依据。"
+      ],
+      "sourceIds": [
+        "kaiping-labor-2025",
+        "law-labor-rating",
+        "dahao-official-profile",
+        "dahao-enlarged-flypaper-official",
+        "dahao-enlarged-flypaper-jd20"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "policy",
+          "detail": "官网具名达豪品牌生产业务，京东当前目录提供中号加大粘蝇纸20片的独立零售选项。",
+          "sourceIds": [
+            "dahao-official-profile",
+            "dahao-enlarged-flypaper-jd20"
+          ]
+        },
+        {
+          "stage": "具体商品制造",
+          "status": "policy",
+          "detail": "同款官网包装具名本法人及开平厂址，零售图对应相同绿色包装；同一法人获2025年度劳动A级。",
+          "sourceIds": [
+            "dahao-enlarged-flypaper-official",
+            "dahao-enlarged-flypaper-jd20",
+            "kaiping-labor-2025"
+          ]
+        },
+        {
+          "stage": "原料及零售配送用工",
+          "status": "unknown",
+          "detail": "相关其他雇主的劳动条件保留为补充调查，不把本制造企业评价延伸到其他公司。",
+          "sourceIds": []
+        }
+      ],
+      "assessments": [
+        {
+          "subject": "开平市达豪日化科技有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "评价仅覆盖具名法人在2025年度的劳动保障守法情况，不适用于其他法人或未来全部用工；本站复核期限不是政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2027-06-03"
+        }
+      ],
+      "nextCheck": "复核后续劳动结果及适用相反事实；若零售型号、包装制造商发生变化，再核对该生产企业和具体购买选项。"
+    },
+    {
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年劳动守法 A 级",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "widetech-kaiping",
+      "name": "开平威技 · 德龙DD40P制造商",
+      "legalName": "开平威技电器有限公司",
+      "location": "广东省江门市开平市水口镇",
+      "origin": "international",
+      "originNote": "所选商品为国际品牌德龙；国内版本参数具名广东开平制造商，品牌背景与生产地分别记录。",
+      "scope": "开平威技电器有限公司；本次仅对应苏宁资料中的DD40P、220V／620W国内版本。",
+      "finding": "开平2025年度劳动评价第202行列该法人为A级，两条苏宁货号均具名该制造商。当前供货查询没有取得可售货源，因此DD40P保留待核查，缺口在同版本购买渠道。",
+      "caveats": [
+        "劳动评价与制造资料已对应，不因销售缺口推断企业违法。",
+        "DD40P的其他电气版本、DD230P等不同型号及开平威镫等其他法人不沿用本条依据。",
+        "苏宁两条货号来自同一零售平台；样例区域查询未返回供货，不等于全国停售。"
+      ],
+      "sourceIds": [
+        "kaiping-labor-2025",
+        "law-labor-rating",
+        "widetech-dd40p-suning",
+        "widetech-dd40p-suning-profile",
+        "widetech-dd40p-suning-sale-check",
+        "widetech-dd40p-suning-self-sale-check"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与国内销售",
+          "status": "unknown",
+          "detail": "国内版本的两个零售货号已定位，但公开供货查询均未取得可售信息；当前购买渠道仍待补。",
+          "sourceIds": [
+            "widetech-dd40p-suning",
+            "widetech-dd40p-suning-sale-check",
+            "widetech-dd40p-suning-self-sale-check"
+          ]
+        },
+        {
+          "stage": "具体商品制造",
+          "status": "policy",
+          "detail": "苏宁两条参数表均把DD40P、220V／620W对应开平威技电器有限公司；同法人列2025年度劳动A级。",
+          "sourceIds": [
+            "widetech-dd40p-suning",
+            "widetech-dd40p-suning-profile",
+            "kaiping-labor-2025"
+          ]
+        },
+        {
+          "stage": "部件及零售配送用工",
+          "status": "unknown",
+          "detail": "其他雇主和零部件的劳动情况作为补充调查，不从整机制造商评价推断。",
+          "sourceIds": []
+        }
+      ],
+      "assessments": [
+        {
+          "subject": "开平威技电器有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "评价仅覆盖具名法人在2025年度的劳动保障守法情况，不适用于其他法人或未来全部用工；本站复核期限不是政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2027-06-03"
+        }
+      ],
+      "nextCheck": "出现DD40P、220V／620W的明确新销售入口或补货信息再核；同一空货源查询没有新线索不重复。持续关注该法人的更新劳动资料。"
     }
   ],
   "products": [
@@ -22674,6 +22908,118 @@
           "sourceIds": []
         }
       }
+    },
+    {
+      "id": "dahao-enlarged-flypaper-20pcs",
+      "name": "中号加大粘蝇纸 20片",
+      "brand": "达豪",
+      "companyId": "dahao-kaiping",
+      "category": "daily",
+      "needs": [
+        "灭蝇用品"
+      ],
+      "description": "中号加大纸质粘蝇用品；所选京东货号为20片。官网正面尺寸18.5×12.5cm，配图展示单件包装，不表示工厂整箱出售。",
+      "tags": [
+        "粘蝇纸",
+        "灭蝇用品",
+        "中号加大",
+        "20片"
+      ],
+      "url": "https://item.jd.com/10140519337773.html",
+      "market": "京东货号10140519337773，选择中号加大粘蝇纸20片。商品图的其他包装或促销数量不替代本货号选项，价格、配送和地区库存以商家为准。",
+      "relationship": "厂家型号页及包装具名开平市达豪日化科技有限公司和马冈镇湾琴山工业区3号；同型号零售卡片的绿色包装对应相同制造企业。",
+      "relationshipSourceIds": [
+        "dahao-enlarged-flypaper-official",
+        "dahao-enlarged-flypaper-jd20"
+      ],
+      "image": "images/dahao-enlarged-flypaper-20pcs.webp",
+      "imageMode": "contain",
+      "imageSource": "http://www.kpdh.cn/uploadfile/webuploader/2019-01-21/154807477040368.jpg",
+      "imageRights": "开平市达豪日化科技有限公司／达豪商品图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前京东原始目录列独立货号10140519337773及中号加大粘蝇纸20片选项，附同款包装图。地区供货另核。",
+          "sourceIds": [
+            "dahao-enlarged-flypaper-jd20"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "开平市达豪日化科技有限公司",
+          "detail": "同款厂家包装正面具名开平市达豪日化科技有限公司，背面列广东开平马冈镇厂址；零售卡片型号、品牌及生产企业对应。后续换厂批次需重新核验。",
+          "sourceIds": [
+            "dahao-enlarged-flypaper-official",
+            "dahao-enlarged-flypaper-jd20"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "kaiping-labor-2025",
+          "detail": "该制造法人列开平2025年度劳动保障守法诚信A级最终结果第324行，2026-06-03公布。证据适用于该法人和评价年度。",
+          "sourceIds": [
+            "kaiping-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "delonghi-dd40p-220v-dehumidifier",
+      "name": "DD40P除湿机（220V／620W）",
+      "brand": "德龙",
+      "companyId": "widetech-kaiping",
+      "category": "appliances",
+      "needs": [
+        "除湿机"
+      ],
+      "description": "国内零售资料版本的DD40P除湿机，220V、620W、7L水箱。两条货号已对应制造商，当前同版本供货渠道仍待核查。",
+      "tags": [
+        "除湿机",
+        "DD40P",
+        "220V",
+        "620W"
+      ],
+      "url": "https://product.suning.com/0070146675/102488509.html",
+      "market": "已定位苏宁第三方和自营两条货号，2026-09-12以南京玄武区为样例的公开查询均未取得可售供货信息；该区域结果不能代表全国停售。",
+      "relationship": "两条苏宁完整参数将DD40P、220V／620W及7L对应开平威技电器有限公司和广东产地；不同型号、电气版本及其他关联公司不混用。",
+      "relationshipSourceIds": [
+        "widetech-dd40p-suning",
+        "widetech-dd40p-suning-profile"
+      ],
+      "image": "images/delonghi-dd40p-220v-dehumidifier.webp",
+      "imageMode": "contain",
+      "imageSource": "https://image.suning.cn/uimg/b2c/newcatentries/0070146675-000000000102488509_1.jpg_800w_800h_4e",
+      "imageRights": "德龙／苏宁对应商品图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "国内型号资料已找到，但两条购买入口在样例区域的公开查询均返回空价格且无供货结果，尚缺当前可购渠道；不据此判断所有地区无货。",
+          "sourceIds": [
+            "widetech-dd40p-suning-sale-check",
+            "widetech-dd40p-suning-self-sale-check",
+            "widetech-dd40p-suning-profile"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "开平威技电器有限公司",
+          "detail": "两条苏宁参数均把DD40P国内220V／620W版本对应开平威技电器有限公司，产地列广东开平或广东江门；制造依据限所记录版本，现售换厂另核。",
+          "sourceIds": [
+            "widetech-dd40p-suning",
+            "widetech-dd40p-suning-profile"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "kaiping-labor-2025",
+          "detail": "开平2025年度劳动保障守法诚信A级最终结果第202行列同一制造法人，2026-06-03公布。当前未收录的原因是销售缺口。",
+          "sourceIds": [
+            "kaiping-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -23368,9 +23714,13 @@
         {
           "label": "湿巾",
           "query": "湿巾"
+        },
+        {
+          "label": "灭蝇用品",
+          "query": "灭蝇用品"
         }
       ],
-      "note": "奇酷 AIR 薄 M 码 24 片纸尿裤已对应国内零售、境内制造商和同法人 2024 年劳动守法 A 级评价，正式收录。其余已整理牙刷、卫生巾、纸品、洗洁精等具体资料，制造或劳动依据仍待补；香皂和清洁工具有缺口。 新增Babycare手口湿巾188×140mm的JY工厂记录，现售抽数及劳动评价审查期间仍待核。",
+      "note": "正式收录奇酷 AIR 薄 M码24片纸尿裤和达豪中号加大粘蝇纸20片，分别对应具体零售、境内制造企业及适用劳动评价。其余牙刷、卫生巾、纸品、洗洁精和湿巾资料保留各自缺口；洗发水、香皂、清洁工具仍缺具体记录。灭蝇用品单列，不充当其他清洁需求的覆盖。",
       "sourceIds": [
         "jahwa-2025",
         "darlie-hours",
@@ -23395,7 +23745,10 @@
         "chikool-m24-sampling-2025-media",
         "chikool-air-m24-jd",
         "babycare188x140-rudong2025",
-        "tongling-labor2024-final"
+        "tongling-labor2024-final",
+        "dahao-enlarged-flypaper-official",
+        "dahao-enlarged-flypaper-jd20",
+        "kaiping-labor-2025"
       ]
     },
     {
@@ -23531,9 +23884,13 @@
         {
           "label": "剃须刀",
           "query": "剃须刀"
+        },
+        {
+          "label": "除湿机",
+          "query": "除湿机"
         }
       ],
-      "note": "新增 SF20FC45 2L 电饭煲、SW-17S59A 1.7L 电水壶与 SY-50FC03Q 5L 电压力锅。能效标识和历史抽查帮助锁定部分制造法人，当前批次及实际劳动条件待核；杭州实习长班与集团基地审核范围分别保留。空调、电视、油烟机、燃气灶、吹风机和剃须刀继续查。",
+      "note": "电饭煲、电水壶和电压力锅等资料保留原缺口。新增DD40P、220V／620W除湿机，境内制造商与2025年度劳动评价已对应，但两条公开供货查询没有返回可售信息，暂未收录。除湿机单列；空调、电视、油烟机、燃气灶、吹风机和剃须刀继续保留缺口。",
       "sourceIds": [
         "bsh-code",
         "anker-2025",
@@ -23541,7 +23898,12 @@
         "supor-hangzhou-intern-hiring-2025",
         "supor-sf20fc45-energy-label",
         "supor-sw17s59a-jinan-sampling",
-        "supor-sy50fc03q-suning"
+        "supor-sy50fc03q-suning",
+        "widetech-dd40p-suning",
+        "widetech-dd40p-suning-profile",
+        "widetech-dd40p-suning-sale-check",
+        "widetech-dd40p-suning-self-sale-check",
+        "kaiping-labor-2025"
       ]
     },
     {

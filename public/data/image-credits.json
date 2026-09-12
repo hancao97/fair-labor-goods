@@ -7312,6 +7312,58 @@
       },
       "filename": "images/longstar-lk2017-food-container-2500ml.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "dahao-enlarged-flypaper-20pcs",
+      "title": "中号加大粘蝇纸20片 · 单件包装示意",
+      "image_url": "http://www.kpdh.cn/uploadfile/webuploader/2019-01-21/154807477040368.jpg",
+      "source_url": "http://www.kpdh.cn/goods_show-83-view.html",
+      "product_url": "https://item.jd.com/10140519337773.html",
+      "visual_check": "已目视厂家型号页引用的原图；绿色包装写中号加大，并具名开平市达豪日化科技有限公司。图片展示单件外包装，不表示所选20片的总量；没有使用另一京东货号误配的灭博士图片。包装上的质量荣誉不作劳动合规依据。",
+      "width": 800,
+      "height": 800,
+      "bytes": 44082,
+      "sha256": "082d2fc334fc2aea3044e6ecb999ef81d05266786f887b6fc8556f1d3ab11b78",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "开平市达豪日化科技有限公司／达豪商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目MIT许可。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 310605,
+        "sha256": "0f7b5441492a020dde8e3b227adb0ec547d926ffcc5504f92ca0167e2bb7eba9"
+      },
+      "filename": "images/dahao-enlarged-flypaper-20pcs.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "delonghi-dd40p-220v-dehumidifier",
+      "title": "DD40P除湿机 · 国内零售资料配图",
+      "image_url": "https://image.suning.cn/uimg/b2c/newcatentries/0070146675-000000000102488509_1.jpg_800w_800h_4e",
+      "source_url": "https://product.suning.com/0070146675/102488509.html",
+      "product_url": "https://product.suning.com/0070146675/102488509.html",
+      "visual_check": "已目视对应苏宁DD40P货号原图，白灰机身、顶部数码面板及DeLonghi Pump System标识。图中无可读电气或制造铭牌，国内电压功率及制造商来自同货号参数表，图像不单独证明供货状态。",
+      "width": 800,
+      "height": 800,
+      "bytes": 15648,
+      "sha256": "c8d13e8a6d5d8e9d8ad93cd93822f0e3d0363a5ae0ffb747300571a6f515fa66",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "reuse_info": {
+        "rights_holder": "德龙／苏宁对应商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目MIT许可。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 151440,
+        "sha256": "855b681fdd923f1389f3a59ed335761d1d79374ca6d242b472304503cf7409e4"
+      },
+      "filename": "images/delonghi-dd40p-220v-dehumidifier.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
