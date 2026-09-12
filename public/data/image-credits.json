@@ -8206,6 +8206,31 @@
       },
       "filename": "images/geely-emgrand5-15l-cvt-luxury.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "chengyu-tianxi-one-bedroom-50-94",
+      "product_name": "承寓·天玺社区一居室整租（50.94㎡）",
+      "official_source_page_url": "https://www.hfgfgs.com/index.php/produced/detail/id/42273/cid/16.html",
+      "image_url": "https://www.hfgfgs.com/Uploads/admin/image/2025-02-13/67ad67890c5fe.jpg",
+      "content_type": "image/jpeg",
+      "width": 900,
+      "height": 675,
+      "bytes": 133552,
+      "sha256": "cdf01db887bcc623460f3959986f1e2186137179c2785c44ed99fdebe1c439ed",
+      "visually_verified": true,
+      "notes": "运营方官网天玺社区住宅楼及庭院实景图，仅作为所选项目外观插图，不是50.94平方米出租单元的室内照片，也不证明当前房态、报价或劳动条件。",
+      "reuse_info": {
+        "rights_holder": "合肥市安居控股集团股份有限公司／原摄影权利人",
+        "license": "No open reuse license identified. Rights remain with the original owner."
+      },
+      "source_image_metadata": {
+        "width": 1600,
+        "height": 1200,
+        "bytes": 664401,
+        "sha256": "acc77e817fd96e2b4171c69d9de2b1b7a71a310b09279f6da11ae152762abb59"
+      },
+      "filename": "images/chengyu-tianxi-one-bedroom-50-94.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

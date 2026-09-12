@@ -1061,11 +1061,11 @@
       "title": "开平市 2025 年度劳动保障守法诚信等级评价结果",
       "publisher": "开平市人力资源和社会保障局",
       "url": "https://www.kaiping.gov.cn/jmkpsrsj/gkmlpt/content/3/3501/post_3501327.html",
-      "summary": "公布对 2025 全年的评价结果；广东嘉士利食品集团、开兰面粉、美玉子食品、康力食品集团、广中皇食品、开平金箩米业、粤师傅调味食品等具体法人列为 A 级。 本次另核对开平威技电器有限公司和开平市达豪日化科技有限公司，均列A级。",
+      "summary": "公布对 2025 全年的评价结果；广东嘉士利食品集团、开兰面粉、美玉子食品、康力食品集团、广中皇食品、开平金箩米业、粤师傅调味食品等具体法人列为 A 级。 本次另核对开平威技电器有限公司和开平市达豪日化科技有限公司，均列A级。 本轮核对第203行开平艺和门业有限公司，列水口镇A级。",
       "limitation": "覆盖名单所列法人在 2025 年的劳动保障守法情况；不能扩展到不同法人，也不是未来持续合规保证。",
       "publishedAt": "2026-06-03",
-      "checkedAt": "2026-09-12",
-      "locator": "附件企业名单第2、5、139、182、202、222、256、295、324行等；202为开平威技电器，324为开平市达豪日化科技",
+      "checkedAt": "2026-09-13",
+      "locator": "附件企业名单第2、5、139、182、202、222、256、295、324行等；202为开平威技电器，324为开平市达豪日化科技；第203行为开平艺和门业有限公司",
       "type": "政府评价"
     },
     {
@@ -7292,8 +7292,8 @@
       "url": "https://rs.tongchuan.gov.cn/129/17455.jhtml",
       "publishedAt": "2026-01-06",
       "checkedAt": "2026-09-13",
-      "locator": "陕人社函〔2025〕566号，2025-12-29成文；附件1第3家：中国铁路西安局集团有限公司",
-      "summary": "已读取政府页面公开检索提供的完整通知正文及47家企业名单，中国铁路西安局集团有限公司具名列入最终命名结果。与已取得的同批原始评价标准共同判断。",
+      "locator": "陕人社函〔2025〕566号，2025-12-29成文；附件1第3家：中国铁路西安局集团有限公司；第44家为陕西众合森工实业有限公司",
+      "summary": "已读取政府页面公开检索提供的完整通知正文及47家企业名单，中国铁路西安局集团有限公司具名列入最终命名结果。与已取得的同批原始评价标准共同判断。 本轮同一最终名单另核对第44家陕西众合森工实业有限公司。",
       "limitation": "本轮读取的是政府网页的公开索引全文，直接链接此前返回403，未声称下载到原始HTML，也未重试受限路径。名单未公开逐项得分或完整审查起止日；结果不自动覆盖其他铁路局、子公司及外包单位。"
     },
     {
@@ -7355,6 +7355,150 @@
       "locator": "批复第一项的6名相关岗位员工；第五项有效期限",
       "summary": "具名分店曾获6人综合计算工时审批，批复期为2024-12-02至2025-06-01，并列休息、加班报酬及岗位范围要求。",
       "limitation": "这是已届期的特定工时批复，不表示2026年仍有同一许可，也不单独证明全面劳动合规。未取得续批或当前排班，不由此推定违法；本分店的劳动依据另取完整年度A级结果。"
+    },
+    {
+      "id": "hefei-anju-company",
+      "title": "合肥安居集团公司简介及更名记录",
+      "publisher": "合肥市安居控股集团股份有限公司",
+      "type": "企业主体资料",
+      "url": "https://www.hfgfgs.com/index.php/about/introduce.html?cid=24",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公司介绍中的旧名、更名日期和租赁业务",
+      "summary": "官网将合肥市住房租赁发展股份有限公司与2024-05-18更名后的合肥市安居控股集团股份有限公司对应，介绍境内住房租赁业务。",
+      "limitation": "公司简介中的行业信用AAA、文明单位和劳动关系称号须分别判断；简介没有提供具名近期劳动结果及完整评价范围，不能单独确认劳动合规。"
+    },
+    {
+      "id": "chengyu-tianxi-official",
+      "title": "承寓·天玺社区官方项目资料",
+      "publisher": "合肥市安居控股集团股份有限公司",
+      "type": "运营商服务资料",
+      "url": "https://www.hfgfgs.com/index.php/produced/detail/id/42273/cid/16.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "项目名、瑶海区龙岗板块地址、项目长图的一室户型及租客端入口",
+      "summary": "当前官网保留天玺社区租赁项目，地址位于瑶海区龙岗板块、地铁2号线东二十埠站附近；项目图展示一室、两室、三室户型及社区实景。",
+      "limitation": "项目长图文案回顾2024年开租，图片路径日期不作为项目发布日期。当前页面未给出精确到50.94平方米户型的即时房态或现价；项目外观图不是具体出租单元的室内实拍。"
+    },
+    {
+      "id": "chengyu-tianxi-one-bedroom-listing",
+      "title": "合肥住房租赁协会2025年第一期房源：承寓天玺一居室",
+      "publisher": "合肥市住房租赁协会",
+      "type": "行业房源资料",
+      "url": "https://www.hfzfzl.org.cn/LeaseA/Contents/2025-02-08/1334_1.html",
+      "publishedAt": "2025-02-08",
+      "checkedAt": "2026-09-13",
+      "locator": "合肥市安居控股集团股份有限公司栏目；承寓·天玺社区第一条一居室",
+      "summary": "具名运营方栏目列瑶海区龙湖天玺2期、一居室整租50.94平方米，房源性质为保障性租赁住房；当期挂牌租金1400元/月。",
+      "limitation": "这是2025年房源单，1400元/月不作为2026年现价，也不套用前一个项目的新店折扣。当前房态、准入条件、租期、押金及费用以本项目确认结果为准。"
+    },
+    {
+      "id": "hefei-anju-harmony-self-report-2024",
+      "title": "合肥安居前身2024年荣誉报道及劳动关系称号自述",
+      "publisher": "合肥市住房租赁发展股份有限公司（现合肥安居集团）",
+      "type": "企业劳动披露",
+      "url": "https://www.hfgfgs.com/index.php/dynamic/detail/id/42069/cid/23.html",
+      "publishedAt": "2024-04-30",
+      "checkedAt": "2026-09-13",
+      "locator": "正文公司蝉联合肥市和谐劳动关系企业的表述",
+      "summary": "企业报道提及和谐劳动关系称号，作为进一步核对劳动资料的线索。",
+      "limitation": "标题中的2020—2023年属于先进集体奖项，不能冒充劳动评价审查期；文内劳动称号未给出对应批次、最终结果或完整标准，本条没有转成正式劳动评估。"
+    },
+    {
+      "id": "hefei-anju-recruitment-employer-2024",
+      "title": "合肥安居2024年招聘：劳动合同签约单位说明",
+      "publisher": "合肥市建设投资控股（集团）有限公司",
+      "type": "企业招聘披露",
+      "url": "https://www.hfjtjt.com/col24/1522",
+      "publishedAt": "2024-11-14",
+      "checkedAt": "2026-09-13",
+      "locator": "第五部分相关说明第一项；第四部分福利待遇",
+      "summary": "集团正式招聘公告明确，本次录用人员与合肥市承兴物业服务有限公司签订劳动合同，由安居集团安排工作地点；另有社保和休假制度说明。",
+      "limitation": "本次通过公开网页正文读取，直接HTTP下载超时。公告只说明该批招聘，不能据此确认天玺当前全部岗位的签约单位；集团荣誉不自动覆盖独立子公司的用工。"
+    },
+    {
+      "id": "baixing-kitchen-renovation-official",
+      "title": "百姓家焕新厨房局部翻新服务及预约入口",
+      "publisher": "上海百姓装潢有限公司",
+      "type": "官方销售渠道",
+      "url": "https://www.shbx.com.cn/service/Index",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "百姓家焕新局部焕新、厨房翻新、装修前中后服务及在线预约",
+      "summary": "官网明确提供厨房局部翻新，列设计、拆改施工及饰后服务，并有在线预约和家装报价入口。",
+      "limitation": "按房屋情况确定工程内容和报价，页面没有统一面积套餐或固定价格。没有提交预约、手机号或订单；质量及保修宣传不作为劳动评价。"
+    },
+    {
+      "id": "baixing-company-official",
+      "title": "上海百姓装潢有限公司官方介绍",
+      "publisher": "上海百姓装潢有限公司",
+      "type": "企业主体资料",
+      "url": "https://www.shbx.com.cn/about/about_us",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公司名称、上海家装业务及企业沿革",
+      "summary": "官网介绍上海百姓装潢有限公司及家装业务，与厨房局部翻新页面的经营主体一致。",
+      "limitation": "国有企业背景、文明单位和质量荣誉均不能替代劳动依据；具体工程合同、材料品牌和现场人员签约单位依项目核对。"
+    },
+    {
+      "id": "baixing-construction-team-disclosure",
+      "title": "百姓装潢施工队及管理方式披露",
+      "publisher": "上海百姓装潢有限公司",
+      "type": "企业施工披露",
+      "url": "https://www.shbx.com.cn/plant/featured_craftsmanship",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "百姓专业施工队、考核和统一管理介绍",
+      "summary": "公司公开介绍专业施工队及统一考核、管理方式，用于说明家装服务组织方式。",
+      "limitation": "属于企业自述，没有独立综合劳动结论；统一管理不能证明所有现场人员均与同一法人签约，亦不能推出工资、社保或实际工时已全面核实。"
+    },
+    {
+      "id": "panpan-beli-2050-960-jd",
+      "title": "盼盼上品贝里单门2050×960外开机械锁零售条目",
+      "publisher": "京东盼盼安全门旗舰店页面",
+      "type": "零售商品资料",
+      "url": "https://mall.jd.com/view_search-628778-0-4-1-24-1.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "商品号10026590806008的准确款式标题及商品链接",
+      "summary": "当前店铺列表列盼盼上品贝里单门2050×960、外开、盼盼机械锁，链接到商品号10026590806008。",
+      "limitation": "直接商品页本次只返回通用页面文本，规格依据取自可读店铺商品卡。未确认价格、地区配送和安装条件，也未读取该型号制造背标；标题中的甲级是产品宣传，不是劳动A级。"
+    },
+    {
+      "id": "panpan-brand-and-factories",
+      "title": "盼盼品牌及国内生产基地介绍",
+      "publisher": "盼盼品牌官网",
+      "type": "企业生产披露",
+      "url": "https://www.panpan-door.com/about-us",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "关于盼盼：营口、长沙、成都基地及2010年集团关系",
+      "summary": "品牌官网公开索引介绍营口、长沙和成都生产基地，说明盼盼于2010年加入亚萨合莱集团。",
+      "limitation": "本次直接HTML只有通用页面，内容依据可读公开索引。品牌背景与生产地分别记录；存在国内工厂不足以指定贝里款的实际生产企业，也不是劳动审核。"
+    },
+    {
+      "id": "panpan-yingkou-legal-entity",
+      "title": "盼盼营口基地及具名企业",
+      "publisher": "盼盼品牌官网",
+      "type": "企业生产披露",
+      "url": "https://www.panpan-door.com/about-us/yingkou-factory",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "营口生产基地与盼盼安居门业有限责任公司介绍",
+      "summary": "官网公开索引把盼盼品牌营口基地对应辽宁营口盼盼工业园及盼盼安居门业有限责任公司，介绍安全门生产业务。",
+      "limitation": "只确认一个品牌生产主体，没有本次所选贝里款的生产标识；未把质量、信用或高新技术称号用作劳动合规依据。"
+    },
+    {
+      "id": "zhonghe-wood-company-profile",
+      "title": "众合森工公司业务及商洛生产线索",
+      "publisher": "陕西众合森工实业有限公司；智联招聘刊载",
+      "type": "企业招聘披露",
+      "url": "https://www.zhaopin.com/companydetail/CZL1224119030.htm",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公司介绍的木门、板材、家具业务与商洛生产中心",
+      "summary": "企业招聘档案公开正文介绍木门等业务和商洛生产中心，为从具名劳动评价继续寻找具体商品提供线索。",
+      "limitation": "企业业务自述不是某款商品的制造证据，未取得可核对型号及大陆个人零售入口；岗位招聘不代替独立劳动结果。"
     }
   ],
   "companies": [
@@ -16529,6 +16673,325 @@
           "periodEnd": "2024-12-31",
           "reviewedAt": "2026-09-13",
           "reviewDueAt": "2026-12-15"
+        }
+      ]
+    },
+    {
+      "hours": null,
+      "restDays": null,
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "hefei-anju",
+      "name": "承寓 · 合肥安居",
+      "legalName": "合肥市安居控股集团股份有限公司",
+      "location": "安徽省合肥市；所选天玺社区位于瑶海区",
+      "origin": "china",
+      "originNote": "中国境内住房租赁经营单位；研究本地租住服务，不以地点推断每位员工国籍。",
+      "level": "disclosure",
+      "hoursLabel": "未取得适用综合劳动结果",
+      "restLabel": "招聘有休假制度说明",
+      "cardNote": "租赁项目已对应 · 劳动待核",
+      "scope": "合肥安居的承寓天玺租赁服务；现场物业等独立用人单位需按实际范围对应。",
+      "finding": "公司更名、品牌、具体天玺项目及50.94平方米一居室房源相互对应。既有劳动称号自述未取得适用批次及完整标准；招聘又显示部分人员由独立物业子公司签约。",
+      "caveats": [
+        "2025年房源单报价不是现价；当前可租房源、准入、租期和押金以项目确认为准。",
+        "2024年企业报道的先进集体期间不能当作劳动评价期间；没有劳动结果不表示企业违法。",
+        "2024年招聘说明不代表天玺当前全部员工雇主已知；不能将集团称号直接套用于承兴物业。"
+      ],
+      "sourceIds": [
+        "hefei-anju-company",
+        "chengyu-tianxi-official",
+        "chengyu-tianxi-one-bedroom-listing",
+        "hefei-anju-harmony-self-report-2024",
+        "hefei-anju-recruitment-employer-2024"
+      ],
+      "supply": [
+        {
+          "stage": "境内租赁服务",
+          "status": "verified",
+          "detail": "公司官网和行业房源单对应天玺社区及具名运营公司。",
+          "sourceIds": [
+            "hefei-anju-company",
+            "chengyu-tianxi-official",
+            "chengyu-tianxi-one-bedroom-listing"
+          ]
+        },
+        {
+          "stage": "运营及物业用工",
+          "status": "unknown",
+          "detail": "部分招聘由承兴物业签约，仍需适用于本服务实际用人单位的综合劳动结果。",
+          "sourceIds": [
+            "hefei-anju-recruitment-employer-2024",
+            "hefei-anju-harmony-self-report-2024"
+          ]
+        },
+        {
+          "stage": "房屋建设与外部服务",
+          "status": "unknown",
+          "detail": "本记录为租住服务，没有将运营方资料扩展到历史房屋施工或独立服务商。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现天玺实际服务用人单位的具名政府或独立综合劳动资料后复核；租赁价格、准入与房态在官方项目渠道确认。",
+      "assessments": []
+    },
+    {
+      "hours": null,
+      "restDays": null,
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "shanghai-baixing-decoration",
+      "name": "百姓装潢 · 百姓家焕新",
+      "legalName": "上海百姓装潢有限公司",
+      "location": "上海市",
+      "origin": "china",
+      "originNote": "上海境内家装服务经营单位；不以公司地址推断每位施工人员国籍。",
+      "level": "disclosure",
+      "hoursLabel": "未取得适用综合劳动结果",
+      "restLabel": "未取得适用综合劳动结果",
+      "cardNote": "厨房翻新服务已核 · 劳动待核",
+      "scope": "上海百姓装潢有限公司提供的厨房局部翻新；具体施工人员的用人单位按工程对应。",
+      "finding": "官网可对应厨房翻新服务、预约入口和上海百姓装潢有限公司，另有施工队统一管理自述；尚未找到可适用的综合劳动评价或独立审核。",
+      "caveats": [
+        "统一管理、质量体系及国企背景不能直接证明劳动合规。",
+        "本服务按房屋情况设计和报价，没有编造固定面积、工期或价格。",
+        "公司承接服务与现场人员劳动合同主体分别核对；未查到劳动依据不推定违法。"
+      ],
+      "sourceIds": [
+        "baixing-kitchen-renovation-official",
+        "baixing-company-official",
+        "baixing-construction-team-disclosure"
+      ],
+      "supply": [
+        {
+          "stage": "境内家装服务",
+          "status": "verified",
+          "detail": "官网的厨房局部翻新及预约渠道由上海百姓装潢有限公司提供。",
+          "sourceIds": [
+            "baixing-kitchen-renovation-official",
+            "baixing-company-official"
+          ]
+        },
+        {
+          "stage": "现场施工用工",
+          "status": "unknown",
+          "detail": "已取得施工队管理自述，实际适用用人单位及综合劳动结果待核。",
+          "sourceIds": [
+            "baixing-construction-team-disclosure"
+          ]
+        },
+        {
+          "stage": "材料与独立分包",
+          "status": "unknown",
+          "detail": "材料生产及独立施工方按实际工程范围另核，未以品牌统一管理作保证。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "取得本服务施工用人单位及适用政府综合结果或独立劳动审核后复核；不重复将装修质量奖作劳动依据。",
+      "assessments": []
+    },
+    {
+      "hours": null,
+      "restDays": null,
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "panpan-door",
+      "name": "盼盼安全门",
+      "legalName": "盼盼安居门业有限责任公司",
+      "location": "辽宁省营口市；所选贝里款具体制造基地待核",
+      "origin": "china",
+      "originNote": "中国起源品牌，2010年加入亚萨合莱集团；品牌起源与当前所有权、商品实际生产地分别记录。",
+      "level": "disclosure",
+      "hoursLabel": "实际制造企业劳动待核",
+      "restLabel": "实际制造企业劳动待核",
+      "cardNote": "准确门款有零售 · 工厂待核",
+      "scope": "本档案具名营口品牌生产企业；不宣称它已经对应所选贝里款，也不覆盖长沙、成都等其他法人。",
+      "finding": "京东店铺可核贝里单门2050×960外开机械锁条目。品牌有多个国内基地，所选门款制造标识及适用劳动结果尚未取得。",
+      "caveats": [
+        "中国品牌和国内工厂介绍不能替代准确型号的制造关系。",
+        "零售标题的甲级及工厂质量、环境认证均不当作劳动A级或综合劳动结论。",
+        "当前价格、配送、上门测量和安装范围应在该款渠道确认；未确认的制造主体不借用其他门厂评价。"
+      ],
+      "sourceIds": [
+        "panpan-beli-2050-960-jd",
+        "panpan-brand-and-factories",
+        "panpan-yingkou-legal-entity"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与生产基地",
+          "status": "verified",
+          "detail": "官网公开资料列营口生产企业及营口、长沙、成都国内基地。",
+          "sourceIds": [
+            "panpan-brand-and-factories",
+            "panpan-yingkou-legal-entity"
+          ]
+        },
+        {
+          "stage": "贝里款实际制造",
+          "status": "unknown",
+          "detail": "已有明确规格和零售商品号，仍缺该款可读制造标识或对应生产记录。",
+          "sourceIds": [
+            "panpan-beli-2050-960-jd"
+          ]
+        },
+        {
+          "stage": "制造与安装用工",
+          "status": "unknown",
+          "detail": "尚未取得实际制造企业及安装服务方适用的劳动依据。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "取得商品号10026590806008对应的制造铭牌、产品证书或具名生产记录后，核对该用人单位劳动资料。",
+      "assessments": []
+    },
+    {
+      "hours": null,
+      "restDays": null,
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "shaanxi-zhonghe-wood",
+      "name": "陕西众合森工",
+      "legalName": "陕西众合森工实业有限公司",
+      "location": "陕西省；企业资料提及商洛生产中心",
+      "origin": "china",
+      "originNote": "陕西境内具名企业；尚无锁定型号的消费品记录，不推断每位工人国籍。",
+      "level": "assessment",
+      "hoursLabel": "综合评价覆盖工时制度",
+      "restLabel": "综合评价覆盖休息休假",
+      "cardNote": "2025年政府综合劳动评价",
+      "scope": "陕西众合森工实业有限公司的2025年度政府综合劳动评价；具体商品尚待对应。",
+      "finding": "陕西最终名单第44家为本公司，同批完整标准覆盖六项主要劳动权益。企业资料有木门业务线索，尚未取得准确门款及国内消费者购买入口。",
+      "caveats": [
+        "完整审查起止日及逐项得分未公开，记录评价年度和实际结果公布日。",
+        "政府结果来自已读公开索引全文，原网页直接访问受限的情况保留。",
+        "有企业劳动依据不意味着其所有品牌、关联厂或商品均已核实；未以通用木门品类凑商品数量。"
+      ],
+      "sourceIds": [
+        "shaanxi-harmony-final-2025",
+        "shaanxi-harmony-criteria-2025",
+        "zhonghe-wood-company-profile"
+      ],
+      "supply": [
+        {
+          "stage": "具名企业用工",
+          "status": "verified",
+          "detail": "2025年度最终综合劳动结果及同批原始标准对应本公司。",
+          "sourceIds": [
+            "shaanxi-harmony-final-2025",
+            "shaanxi-harmony-criteria-2025"
+          ]
+        },
+        {
+          "stage": "具体门款与制造",
+          "status": "unknown",
+          "detail": "企业资料介绍木门业务，尚未锁定可核对型号及其制造关系。",
+          "sourceIds": [
+            "zhonghe-wood-company-profile"
+          ]
+        },
+        {
+          "stage": "大陆个人购买",
+          "status": "unknown",
+          "detail": "尚未取得准确门款的个人零售入口，不将通用公司介绍当作购买渠道。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "出现具名门款目录、型号或国内个人零售链接后继续对应；2026-10-13前复核劳动结果更新或撤销情况。",
+      "assessments": [
+        {
+          "subject": "陕西众合森工实业有限公司",
+          "result": "2025年陕西省劳动关系和谐企业",
+          "period": "2025年度评价；2026-01-06公开结果；完整审查起止日未公开",
+          "sourceId": "shaanxi-harmony-final-2025",
+          "limitation": "最终通知附件1第44家；采用同批标准，不推断各项满分，不自动扩展到其他法人。已读政府公开索引全文，未取得直接HTML。",
+          "kind": "government-labor-review",
+          "resultPublishedAt": "2026-01-06",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "陕西省人力资源和社会保障厅、总工会、企业家协会、企业联合会、工商业联合会",
+          "scopeType": "employer",
+          "scope": "陕西众合森工实业有限公司的2025年度综合劳动评价，按陕人社函〔2025〕235号附件5评审。",
+          "verificationSourceId": "shaanxi-harmony-final-2025",
+          "basisSourceIds": [
+            "shaanxi-harmony-criteria-2025"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ]
+        }
+      ]
+    },
+    {
+      "hours": null,
+      "restDays": null,
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "id": "kaiping-yihe-door",
+      "name": "开平艺和门业",
+      "legalName": "开平艺和门业有限公司",
+      "location": "广东省开平市水口镇",
+      "origin": "china",
+      "originNote": "政府名单具名广东境内企业；未取得具体门款记录，不推断全部人员国籍。",
+      "level": "assessment",
+      "hoursLabel": "工时制度纳入年度评价",
+      "restLabel": "休息休假纳入年度评价",
+      "cardNote": "2025年劳动A级 · 门款待对应",
+      "scope": "开平艺和门业有限公司；须把具体商品制造主体对应到本法人后才能使用其评价。",
+      "finding": "开平2025年度最终名单第203行具名本公司为A级，属水口镇。当前只有门类业务线索，尚未取得明确款式、规格及国内零售入口。",
+      "caveats": [
+        "2025年度劳动A级不能直接用于其他名称相似法人或未对应的品牌商品。",
+        "企业官网本轮访问受限，没有绕过限制；没有以访问失败认定停产或违法。",
+        "尚无准确门款，企业档案不增加正式商品数量。"
+      ],
+      "sourceIds": [
+        "kaiping-labor-2025",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "具名企业用工",
+          "status": "verified",
+          "detail": "最终名单第203行列开平艺和门业有限公司、水口镇、A级。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        },
+        {
+          "stage": "门款及制造关系",
+          "status": "unknown",
+          "detail": "需取得明确款式、尺寸及制造主体对应记录，未将门类概称作具体商品。",
+          "sourceIds": []
+        },
+        {
+          "stage": "大陆个人购买",
+          "status": "unknown",
+          "detail": "准确门款的零售或定制购买入口待核。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "取得可读具名产品目录或具体门款购买入口后继续对应；2027-06-03前核对更新劳动评价。",
+      "assessments": [
+        {
+          "subject": "开平艺和门业有限公司",
+          "result": "劳动保障守法诚信A级",
+          "period": "2025年度",
+          "sourceId": "kaiping-labor-2025",
+          "limitation": "最终名单第203行；仅适用所列法人及2025年度，本站复核期限不是政府评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2027-06-03"
         }
       ]
     }
@@ -28177,6 +28640,182 @@
           "assessmentSourceId": "suzhou-labor-2024"
         }
       }
+    },
+    {
+      "image": "images/chengyu-tianxi-one-bedroom-50-94.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.hfgfgs.com/Uploads/admin/image/2025-02-13/67ad67890c5fe.jpg",
+      "imageRights": "合肥市安居控股集团股份有限公司／原摄影权利人",
+      "id": "chengyu-tianxi-one-bedroom-50-94",
+      "name": "承寓·天玺社区一居室整租（50.94㎡）",
+      "brand": "承寓",
+      "companyId": "hefei-anju",
+      "category": "housing",
+      "needs": [
+        "长租公寓",
+        "保障性住房"
+      ],
+      "description": "合肥瑶海区龙湖天玺2期的保障性租赁住房，一居室整租50.94平方米；所选户型来自具名行业房源单，适合查找本地长租住房。",
+      "tags": [
+        "长租公寓",
+        "保障性住房",
+        "保障性租赁住房",
+        "一居室",
+        "整租",
+        "50.94㎡",
+        "合肥",
+        "天玺"
+      ],
+      "url": "https://www.hfgfgs.com/index.php/produced/detail/id/42273/cid/16.html",
+      "market": "通过承寓天玺官方项目页及租客端渠道咨询租赁。50.94㎡一居室见2025-02-08房源单，当期1400元/月仅作历史参考；当前准入、房态、租金、租期、押金及其他费用需按本项目确认。",
+      "relationship": "安居集团官网介绍天玺社区，住房租赁协会在同一具名运营公司栏目列天玺50.94㎡一居室和保障性租赁住房性质。",
+      "relationshipSourceIds": [
+        "hefei-anju-company",
+        "chengyu-tianxi-official",
+        "chengyu-tianxi-one-bedroom-listing"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "官方项目与租赁咨询渠道仍可查，行业房源单明确到本项目及50.94㎡一居室；此项确认境内租赁入口，不保证该户型当前空置或历史价格仍有效。",
+          "sourceIds": [
+            "chengyu-tianxi-official",
+            "chengyu-tianxi-one-bedroom-listing"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "所选服务为合肥瑶海区天玺社区租住服务，官方项目与行业房源单均对应合肥安居这一境内运营单位。",
+          "sourceIds": [
+            "hefei-anju-company",
+            "chengyu-tianxi-official",
+            "chengyu-tianxi-one-bedroom-listing"
+          ],
+          "subject": "合肥市安居控股集团股份有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "已核到历史劳动关系称号自述及物业子公司签约线索，尚缺适用于本项目实际用人单位的具名综合劳动结果；不因资料不足推定违法。",
+          "sourceIds": [
+            "hefei-anju-harmony-self-report-2024",
+            "hefei-anju-recruitment-employer-2024"
+          ]
+        }
+      }
+    },
+    {
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "id": "baixing-kitchen-local-renovation-shanghai",
+      "name": "百姓家焕新·厨房局部翻新（上海）",
+      "brand": "百姓家焕新",
+      "companyId": "shanghai-baixing-decoration",
+      "category": "housing",
+      "needs": [
+        "装修"
+      ],
+      "description": "上海家庭厨房局部翻新服务，包含按房屋情况确定的设计、拆改施工及饰后服务。工程范围与报价需在预约后确认。",
+      "tags": [
+        "装修",
+        "局部翻新",
+        "厨房翻新",
+        "家装",
+        "上海",
+        "百姓装潢"
+      ],
+      "url": "https://www.shbx.com.cn/service/Index",
+      "market": "上海百姓装潢官网的厨房翻新服务页提供在线预约、家装咨询及报价入口；实际承接区域、工程内容、工期和费用以项目方案、合同为准，无统一面积套餐或固定价格。",
+      "relationship": "官网明确提供百姓家焕新厨房局部翻新，服务页与公司介绍均为上海百姓装潢有限公司。",
+      "relationshipSourceIds": [
+        "baixing-kitchen-renovation-official",
+        "baixing-company-official"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "官方当前厨房局部翻新页有面向家庭的预约和报价入口，可对应所选具体服务；未提交预约或取得个人项目报价。",
+          "sourceIds": [
+            "baixing-kitchen-renovation-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "本款是由上海百姓装潢有限公司提供的上海境内家装服务，官方介绍及同一主体的服务页对应。",
+          "sourceIds": [
+            "baixing-kitchen-renovation-official",
+            "baixing-company-official"
+          ],
+          "subject": "上海百姓装潢有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "施工队考核和统一管理属于企业自述，尚缺实际施工用人单位可适用的综合劳动评价或独立审核。",
+          "sourceIds": [
+            "baixing-construction-team-disclosure"
+          ]
+        }
+      }
+    },
+    {
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "id": "panpan-beli-single-door-2050-960-mechanical",
+      "name": "盼盼上品·贝里单门2050×960mm（外开／机械锁）",
+      "brand": "盼盼",
+      "companyId": "panpan-door",
+      "category": "housing",
+      "needs": [
+        "门窗"
+      ],
+      "description": "盼盼上品贝里单扇入户门，所选零售配置为2050×960毫米、外开、盼盼机械锁；未合并子母门、指纹锁等其他选项。",
+      "tags": [
+        "门窗",
+        "入户门",
+        "防盗门",
+        "贝里",
+        "单门",
+        "2050×960mm",
+        "外开",
+        "机械锁"
+      ],
+      "url": "https://item.jd.com/10026590806008.html",
+      "market": "京东盼盼安全门旗舰店列表的商品号10026590806008，选贝里、单门2050×960、外开、盼盼机械锁。配送、测量安装、门洞适配和当前报价按该款渠道确认。",
+      "relationship": "零售商品卡明确品牌、贝里款式及尺寸和锁型；品牌官网列多个国内生产基地，尚未取得将该商品对应到营口或其他具体厂家的制造记录。",
+      "relationshipSourceIds": [
+        "panpan-beli-2050-960-jd",
+        "panpan-brand-and-factories",
+        "panpan-yingkou-legal-entity"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "可读店铺商品卡及直接购买链接精确到款式、尺寸、开门方式和锁型；当前价格及地区供货另核。",
+          "sourceIds": [
+            "panpan-beli-2050-960-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "品牌有营口、长沙和成都基地，仍需本款制造标识或具名生产记录，不能仅凭品牌国内工厂介绍指定制造企业。",
+          "sourceIds": [
+            "panpan-brand-and-factories",
+            "panpan-yingkou-legal-entity",
+            "panpan-beli-2050-960-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "实际制造主体未对应，尚无可适用于本款的综合劳动结果；产品甲级与劳动评级是不同概念。",
+          "sourceIds": [
+            "panpan-beli-2050-960-jd",
+            "panpan-brand-and-factories"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -29347,7 +29986,7 @@
           "query": "水龙头"
         }
       ],
-      "note": "花洒 S260033-2B01-1 和厨房龙头 P33146-105/1C-Z 已对应国内销售、境内制造法人及其 2025 年劳动守法 A 级评价，进入正式目录；龙头为一件起订的长交期渠道。既有瓷砖、地板、涂料、坐便器和其他卫浴资料继续核查。长租、保障性住房、装修服务和门窗仍是研究缺口。",
+      "note": "住房11项需求均有具体研究资料，正式收录仍为已对应劳动依据的九牧花洒和厨房龙头。新增承寓天玺50.94㎡一居室保租房、上海百姓厨房局部翻新和盼盼贝里2050×960外开机械锁门，分别保留劳动或制造缺口；另有众合森工、开平艺和两家具名劳动评价档案，待对应准确零售门款。",
       "sourceIds": [
         "national-harmony-2022",
         "jingmen-mingting-project",
@@ -29377,7 +30016,22 @@
         "tianjin-water-label-2025-media",
         "jomoo-p33146-cqc-2025",
         "jomoo-s260033-2b01-1-jd",
-        "jomoo-p33146-ehsy"
+        "jomoo-p33146-ehsy",
+        "hefei-anju-company",
+        "chengyu-tianxi-official",
+        "chengyu-tianxi-one-bedroom-listing",
+        "hefei-anju-harmony-self-report-2024",
+        "hefei-anju-recruitment-employer-2024",
+        "baixing-kitchen-renovation-official",
+        "baixing-company-official",
+        "baixing-construction-team-disclosure",
+        "panpan-beli-2050-960-jd",
+        "panpan-brand-and-factories",
+        "panpan-yingkou-legal-entity",
+        "zhonghe-wood-company-profile",
+        "kaiping-labor-2025",
+        "shaanxi-harmony-final-2025",
+        "shaanxi-harmony-criteria-2025"
       ]
     },
     {
