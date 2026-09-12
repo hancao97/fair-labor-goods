@@ -6606,6 +6606,58 @@
       },
       "filename": "images/jomoo-p33146-105-1c-z-kitchen-faucet.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "kouzi-six-41-450ml",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/422785/12/20181/105827/69ef1c0aF6a01dda7/00833203202ef870.jpg",
+      "source_page": "https://www.jd.com/hprm/12259f0ab64032e671afb.html",
+      "product_url": "https://item.jd.com/10219427690682.html",
+      "checked_at": "2026-09-12",
+      "width": 800,
+      "height": 800,
+      "bytes": 54614,
+      "sha256": "b71c938a88feca291ec64c29ec006eb217c75baa95efdae879803892ddaf66a1",
+      "visually_verified": true,
+      "visual_notes": "目视红瓶单瓶及单盒；盒面可读六年型、41%vol、450mL 及安徽口子酒业股份有限公司。采用同规格零售卡 10219427690682 的包装图，购买入口为 100044383067；保留 JD 水印，不混用官网双酒精度合照或时效促销图片。",
+      "reuse_info": {
+        "rights_holder": "安徽口子酒业股份有限公司、京东平台及相关图片权利人",
+        "license": "版权所有；未发现开放再授权",
+        "usage": "可溯源的商品或房型资料插图，保留原有标识，仅缩放和格式转换。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 135069,
+        "sha256": "5d007bb2459552b7c414da7ca4b14fd827d653042984a502cc2a6c10581fcba3"
+      },
+      "filename": "images/kouzi-six-41-450ml.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "kouzi-hotel-huaibei-superior-twin",
+      "image_url": "https://dimg04.c-ctrip.com/images/1mc0i12000f6fekna18EF.jpg",
+      "source_page": "https://hotels.ctrip.com/hotels/1283086.html",
+      "product_url": "https://hotels.ctrip.com/hotels/1283086.html",
+      "checked_at": "2026-09-12",
+      "width": 900,
+      "height": 600,
+      "bytes": 53676,
+      "sha256": "b77e5c3a4d4627ed8563c31ab812280703bc8d0683f619281c72271651a6db8e",
+      "visually_verified": true,
+      "visual_notes": "携程公开酒店资料将本图列入酒店提供的高级优享双床房图片；目视两张独立床、书桌及窗户。完整保留房间图，不把房型照片当作具体入住客房承诺。",
+      "reuse_info": {
+        "rights_holder": "淮北口子国际大酒店、携程平台及相关图片权利人",
+        "license": "版权所有；未发现开放再授权",
+        "usage": "可溯源的商品或房型资料插图，保留原有标识，仅缩放和格式转换。"
+      },
+      "source_image_metadata": {
+        "width": 5000,
+        "height": 3333,
+        "bytes": 7199301,
+        "sha256": "da0a395bd7046da7e32305b64b8f9fde4894d08c492bc1402bd5f3a23fcc72d3"
+      },
+      "filename": "images/kouzi-hotel-huaibei-superior-twin.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

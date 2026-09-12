@@ -4487,6 +4487,114 @@
       "locator": "越城区、柯桥区拟评名单及公示期限；已从迁移后的政府目录恢复原文",
       "summary": "政府迁移后的原页面列浙江绍兴苏泊尔生活电器有限公司、浙江苏泊尔厨卫电器有限公司为 2024 年度 AAAAA 级拟评企业，公示期为 2025-09-15 至 2025-09-19。",
       "limitation": "这是拟评公示，不是最终授予名单；公示期经过也不能自动当作获评。企业披露荣誉照片未能补足具名最终决定，因此不升级苏泊尔现有商品的劳动状态。"
+    },
+    {
+      "id": "huaibei-labor-2025",
+      "title": "淮北市 2025 年劳动保障诚信 A 级单位最终认定",
+      "publisher": "淮北市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://rsj.huaibei.gov.cn/gggs/57999864.html",
+      "publishedAt": "2025-11-05",
+      "checkedAt": "2026-09-12",
+      "locator": "2025-10-29 签发的最终通知；附件中的安徽口子酒业股份有限公司、淮北口子国际大酒店有限公司",
+      "summary": "通知经综合评审和社会公示后正式认定 118 家 A 级单位，名单同时列口子酒业与口子国际大酒店两个独立法人。依据皖人社秘〔2025〕121号开展当年评价；同省实施通知明确书面审查年度为 2024 年。",
+      "limitation": "最终结果只适用具名用人单位和评价范围。2025 为评价开展年份，不能写成已审查 2025 全年；酒业公司与酒店分别使用各自的具名记录。"
+    },
+    {
+      "id": "anhui-labor-2025-scope",
+      "title": "安徽 2025 年劳动评价的书面审查范围：2024 年度",
+      "publisher": "池州经济技术开发区",
+      "type": "政府实施通知",
+      "url": "https://czkfq.chizhou.gov.cn/News/show/750700.html",
+      "publishedAt": "2025-07-15",
+      "checkedAt": "2026-09-12",
+      "locator": "正文依据皖人社秘〔2025〕121号；一（二）书面审查内容及二、守法诚信等级评价工作",
+      "summary": "通知明确 2025 年审查 2024 年劳动保障守法情况，内容包含合同、工时休息、工资、社保及派遣；评价综合书面材料、巡查和举报投诉等信息。淮北最终通知引用同一省级文件，宿州最终公告也直接标注 2025 年（2024 年度）。",
+      "limitation": "本来源用于说明同一省级评价工作的年度和方法，不能代替淮北具名企业的最终结果。"
+    },
+    {
+      "id": "kouzi-six-official",
+      "title": "口子窖六年型官方产品页：41%vol／46%vol、450mL",
+      "publisher": "安徽口子酒业股份有限公司",
+      "type": "企业产品资料",
+      "url": "https://www.kouzi.com/index.php?c=show&id=5833",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "产品名称、香型、酒精度和净含量；页脚公司名称",
+      "summary": "制造商官网列六年型为年份系列，兼香型、450mL，有 41%vol 和 46%vol 两种酒精度，并提供国内京东购买入口。本条选 41%vol 单瓶规格。",
+      "limitation": "六年型为产品系列名称，不将名称解释为整瓶全部酒液已储存六年。官网同时展示两种酒精度，不能把合照当作所选单瓶规格图。"
+    },
+    {
+      "id": "kouzi-six-sampling-2025-media",
+      "title": "蚌埠食品抽检结果转载：口子窖六年型 41%vol 450mL",
+      "publisher": "中国质量新闻网／新浪财经转载",
+      "type": "公开转载",
+      "url": "https://finance.sina.cn/2025-08-06/detail-infiztfu9955110.d.html",
+      "publishedAt": "2025-08-06",
+      "checkedAt": "2026-09-12",
+      "locator": "2025 年第 12 期通告合格表第 86 行；原通告落款 2025-07-22",
+      "summary": "第 86 行列口子窖六年型白酒、450mL/瓶、41%vol，标称生产者为安徽口子酒业股份有限公司，地址安徽省淮北市相山南路 9 号；受检商家为蚌埠高新区绿地伍佰生鲜超市。",
+      "limitation": "样品生产日期为 2023-03-18；2025 是抽检公布年份，不能写成 2025 生产批次。已读完整转载表行，未取得蚌埠原通告。此表用于对应规格和制造主体，质量合格不等于劳动合规。"
+    },
+    {
+      "id": "kouzi-six-jd",
+      "title": "京东口子窖六年型 41 度 450mL 单瓶准确商品卡",
+      "publisher": "京东零售平台",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/hprm/12259f0ab64032e671afb.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品号 100044383067 的标题与独立链接；同规格 10219427690682 的包装插图",
+      "summary": "100044383067 明确为口子窖六年型兼香型白酒 41 度 450mL×1 瓶，提供独立国内购买链接。同页 10219427690682 的单瓶包装图可读六年型、41%vol、450mL 及安徽口子酒业股份有限公司。",
+      "limitation": "主图采用同规格另一零售卡的包装资料并分别注明出处，不表示两家商家的交易条件相同。库存、价格、包装版本和配送以实际订单为准；不采用带充值满减等时效促销的图片。"
+    },
+    {
+      "id": "kouzi-hotel-ctrip",
+      "title": "携程淮北口子国际大酒店：高级优享双床房",
+      "publisher": "携程旅行",
+      "type": "境内服务预订资料",
+      "url": "https://hotels.ctrip.com/hotels/1283086.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "酒店号 1283086；地址、房型清单中的高级优享双床房（房型号 498482762）及酒店提供的同名房型图片",
+      "summary": "国内预订页列酒店位于安徽淮北相山区人民路中段，提供客房预订。公开页面资料列高级优享双床房及同名酒店图片，可对应具体境内住宿服务。",
+      "limitation": "仅核对公开预订资料，未下单。所选房型的可订日期、餐食、退改和价格需按订单确认；照片为房型资料，不保证每间客房陈设完全相同。页面管理品牌介绍不单独用作雇主证明。"
+    },
+    {
+      "id": "kouzi-hotel-company-gov",
+      "title": "淮北商务局商户名单：口子酒店经营法人及地址",
+      "publisher": "淮北市商务局",
+      "type": "政府商户资料",
+      "url": "https://swj.huaibei.gov.cn/swzx/tzgg/57694427.html",
+      "publishedAt": "2023-09-07",
+      "checkedAt": "2026-09-12",
+      "locator": "2023 年秋季消费券参加商户表第 34 行",
+      "summary": "第 34 行将宣传名称口子酒店对应淮北口子国际大酒店有限公司，经营地址安徽省淮北市人民路中段南侧；与当前住宿预订地址对应。",
+      "limitation": "历史商户表只用于经营名称、法人和地址交叉对应，不表示旧消费券活动仍有效，也不是劳动评价。当前经营范围另由 2026 年披露补充。"
+    },
+    {
+      "id": "kouzi-hotel-company-2026",
+      "title": "口子酒业 2026 年公告中的口子国际大酒店经营主体",
+      "publisher": "安徽口子酒业股份有限公司／上海证券报披露",
+      "type": "企业法定披露",
+      "url": "https://paper.cnstock.com/html/2026-04/23/content_2203536.htm",
+      "publishedAt": "2026-04-23",
+      "checkedAt": "2026-09-12",
+      "locator": "关联方基本情况“2、淮北口子国际大酒店有限公司”",
+      "summary": "公告列酒店法人全名、统一社会信用代码 91340600680808790B、住所安徽省淮北市人民路中段南侧，主营许可范围包含住宿与餐饮服务，并披露 2025 年经营情况。",
+      "limitation": "法定披露补充确认经营主体与业务，不将关联公司的劳动评价移用到酒店；本款劳动依据来自酒店自身在淮北名单中的记录。"
+    },
+    {
+      "id": "suzhou-labor-2024",
+      "title": "宿州市 2025 年（2024 年度）劳动守法诚信评价最终结果",
+      "publisher": "宿州市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://rsj.ahsz.gov.cn/xwzx/tzgg/196173891.html",
+      "publishedAt": "2025-12-15",
+      "checkedAt": "2026-09-12",
+      "locator": "最终公告及附件 1 A 级单位表；第 46、48、50、104、207 行等消费企业线索",
+      "summary": "公告明确评价年度为 2024 年。已读原 A 级附件，其中包括南京肯德基宿州时代广场、苏宁广场餐厅，上海必胜客宿州万达广场餐厅，以及食品、饮料、服装企业，可继续逐个对应具体商品与服务。",
+      "limitation": "这是后续研究来源，本批尚未把这些企业对应到准确在售商品或门店套餐，不据名单扩张为整个连锁品牌均获评。附件序号以原文件为准。"
     }
   ],
   "companies": [
@@ -5374,19 +5482,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "septwolves",
@@ -5423,19 +5531,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "doximi",
@@ -5472,19 +5580,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "jinhe",
@@ -5532,13 +5640,13 @@
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "sofitel-haikou",
@@ -5575,19 +5683,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "hodo",
@@ -5675,7 +5783,7 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "工时与休息资料待补",
       "scope": "电商校招的双休福利；工厂、缝纫工及具体门店另核。",
-      "finding": "已找到电商招聘的双休表述，仍缺明确的 40 小时依据。",
+      "finding": "已找到电商岗位招聘福利；本款制造企业及该主体可复核的劳动合规依据仍待对应。",
       "caveats": [
         "页面标题届次与正文存在差异，来源日期不能确定。",
         "电商办公室福利不能代表缝纫、车间或加盟店。",
@@ -5694,19 +5802,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体家纺商品的制造企业，再核对该主体的劳动合规资料；办公室福利保留为岗位线索。"
     },
     {
       "id": "jinjian",
@@ -5744,19 +5852,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "yili",
@@ -5789,19 +5897,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "haday",
@@ -5892,19 +6000,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "laoxiangji",
@@ -5937,19 +6045,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "shuanghui",
@@ -6054,19 +6162,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "forever",
@@ -6099,19 +6207,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "luckin",
@@ -6144,19 +6252,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "xiaomi",
@@ -6189,19 +6297,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "kailan",
@@ -6402,7 +6510,7 @@
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
@@ -6462,7 +6570,7 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
@@ -6523,19 +6631,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "雅戈尔集团股份有限公司",
@@ -6579,19 +6687,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "安琪酵母股份有限公司",
@@ -6636,19 +6744,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "南京卫岗乳业有限公司",
@@ -6692,19 +6800,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "江苏洋河酒厂股份有限公司",
@@ -6748,19 +6856,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "浙江吉利控股集团有限公司",
@@ -6804,19 +6912,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "开封清明上河园股份有限公司",
@@ -6860,19 +6968,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "广州塔旅游文化发展股份有限公司",
@@ -6917,13 +7025,13 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
@@ -6975,7 +7083,7 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
@@ -7042,19 +7150,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "lenovo",
@@ -7089,19 +7197,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "cofco-fulinmen",
@@ -7218,19 +7326,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "purcotton",
@@ -7277,13 +7385,13 @@
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "稳健医疗（天门）有限公司",
@@ -7329,19 +7437,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "宁夏农垦集团有限公司",
@@ -7386,19 +7494,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "四川尚好茶业有限公司",
@@ -7445,19 +7553,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "suntissue",
@@ -7494,19 +7602,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "山东太阳纸业股份有限公司",
@@ -7552,19 +7660,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。",
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
       "assessments": [
         {
           "subject": "燕京啤酒（浙江仙都）有限公司",
@@ -7617,7 +7725,7 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
@@ -7632,7 +7740,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "hogood",
@@ -7669,19 +7777,19 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "尚未取得与此商品或服务对应的实际排班及雇佣主体清单。",
+          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
           "sourceIds": []
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充所述主体的当前排班与考勤，再对应到具体商品的制造、门店及供应商。"
+      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
     },
     {
       "id": "liby-xinxiang",
@@ -7785,7 +7893,7 @@
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "上游与外包人员的每周工时、休息记录未完成核验。",
+          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
           "sourceIds": []
         }
       ],
@@ -8837,7 +8945,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "核查三款现供批次的制造标签，逐一对应陶瓷、五金、部件及安装雇主，再核实际工时、逐周休息与工资社保。",
+      "nextCheck": "分别核对三款商品的陶瓷或五金实际制造法人及更新劳动依据；部件、原料和安装雇主作为补充调查。",
       "assessments": [
         {
           "subject": "景德镇乐华陶瓷洁具有限公司",
@@ -9050,11 +9158,11 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "合同社保有自述 · 制盐实际工时待核",
       "scope": "苏盐井神 2025 年报告和淮盐 500g 加碘井矿盐示例包装；不覆盖淮盐品牌全部生产者或盐城海盐。",
-      "finding": "准确井矿盐背面稿列苏盐井神生产信息，年报可解释厂家旧名。报告有合同、社保及派遣外包管理自述，仍缺当前批次及制盐包装班组每周 40 小时、两天休息的实际记录。",
+      "finding": "井矿盐包装示意稿列苏盐井神，年报解释厂家旧名。合同、社保与派遣外包信息仍是企业自述，尚需对应所选商品及该制造法人的独立劳动依据。",
       "caveats": [
         "背面图是包装示意稿，日期与贴标框未填；不能当作实际消费者批次或当前许可证核验。",
         "员工权益比例为企业汇总口径，外包、派遣及在职人员不能自动视为同一雇主与同等履行。",
-        "带薪年休假不等于每周两天休息，职业安全管理说明也不替代实际工时。",
+        "年休假与职业安全资料属于不同事项，仍需对应制造法人的综合劳动合规依据。",
         "同品牌另有盐城海盐图，不能借用本主体报告；出品者、制造者、具体盐矿及物流雇主分别核查。"
       ],
       "sourceIds": [
@@ -9095,7 +9203,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "取得淮盐井矿盐现供实物背标及批号，核实具体制盐、包装及盐矿主体，再查当前班组工时、逐周休息、工资社保及外包履行。"
+      "nextCheck": "核对所选井矿盐的现供制造标签、法人和适用劳动评价；盐矿、包材和运输追踪作为补充调查。"
     },
     {
       "id": "wufeng-jiangxi",
@@ -9228,10 +9336,10 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "合同社保有自述 · 多种工时与制造厂待核",
       "scope": "洽洽 2025 ESG 合并范围、云南核桃基地关系及有机核桃仁 500g/10袋零售资料；未指定此款生产厂。",
-      "finding": "报告自述合同社保覆盖，同时说明按岗位实行多种工时制。云南基地提供原果来源调查方向，但尚无该款批次和制造背标，实际种植、加工、包装劳动均未核验。",
+      "finding": "报告披露合同社保汇总信息与多种工时制度；所选核桃仁实际成品制造企业尚未锁定，仍需对应该主体的独立劳动依据。",
       "caveats": [
         "集团境内外员工按地域统计，不代表全部生产者国籍；本项目不收集工人身份资料。",
-        "按岗位实行多种工时制与每周 40 小时、双休的实际履行不能画等号，派遣和外包另核。",
+        "多种工时制度应按各自适用规则判断；集团汇总自述不能替代具体制造企业的独立劳动依据。",
         "有云南基地不等于所有坚果国产，不能借混合坚果或其他核桃款的工厂信息。",
         "有机为所选商品名称及图片宣称，认证码未独立核验，不能替代劳动或批次溯源证明。"
       ],
@@ -9276,7 +9384,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "获取有机核桃仁 500g/10袋现供背标及批号，沿原果、初加工、精加工与包装逐个锁定境内生产者，再核实际工时、逐周休息、工资社保及派遣外包。"
+      "nextCheck": "核对有机核桃仁 500g/10袋的制造标签、法人和劳动依据；原果、包材及物流追踪作为补充调查。"
     },
     {
       "id": "hengdu-beef",
@@ -9292,7 +9400,7 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "有集团表彰，生产排班待核",
       "scope": "所选国产原切牛腩 2925346 的品牌集团及生产业务线索；不将集团表彰移用到未知工厂。",
-      "finding": "集团获得 2025 年底就业与社会保障表彰，国内生产业务和准确国产牛腩货号已有资料；具体批次工厂、养殖场及实际 40 小时与双休仍未对应。",
+      "finding": "集团有 2025 年底就业与社会保障表彰、境内生产业务和准确国产牛腩货号；所选制造企业及表彰的适用关系仍待对应。",
       "caveats": [
         "表彰不自动覆盖其他子公司和供应商；应对应所选商品的实际制造企业。",
         "集团也有进口原料历史业务；所选国产宣传需由当前养殖、屠宰和包装追溯确认。",
@@ -9336,7 +9444,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先用当前包装追溯 2925346 的养殖、屠宰及分装法人，再核对应班组与冷链岗位的实际周工时、休息、合同、工资社保和安全记录。",
+      "nextCheck": "核对 2925346 的实际屠宰或分装制造法人及其劳动依据；养殖来源和冷链继续补充调查。",
       "assessments": [
         {
           "subject": "重庆恒都农业集团有限公司",
@@ -9361,9 +9469,9 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "有车间报道，实际排班待核",
       "scope": "宁鑫去骨羊腿肉 400g 的品牌与盐池生产业务线索；养殖户、分割包装和冷链人员分别核查。",
-      "finding": "已有准确 400g 零售页、盐池生产车间灵活岗位报道和节前加班线索。没有此商品对应的实际周工时、休息及工资社保记录，仍不能确认合格。",
+      "finding": "已有准确 400g 零售页、盐池生产车间灵活岗位与节前加班报道；仍需对应本款实际制造法人及独立劳动依据，现有报道不足以完成收录核对。",
       "caveats": [
-        "灵活岗位与子女托管报道不等于全部生产者都有每周双休。",
+        "灵活岗位与子女托管是局部用工信息，不能单独证明制造企业各项劳动义务的履行。",
         "历史旺季加班报道未给出时长及补偿，不能直接推定违法，也不能单独作为劳动合规依据。",
         "联合体含合作社、家庭农场和农户，集团或企业员工资料不能覆盖这些人的雇佣关系。",
         "官网完整原页本次未取得；品牌介绍和产区宣传不代替当前商品制造背标。"
@@ -9405,7 +9513,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "取得 7213404 当前包装与生产追溯，对应养殖场和分割包装人员；分别核淡旺季考勤、逐周休息、加班补偿、合同社保及冷链外包。"
+      "nextCheck": "核对 7213404 的实际屠宰或分割包装法人及其劳动依据；合作养殖和冷链另作补充调查。"
     },
     {
       "id": "yueshifu",
@@ -9695,6 +9803,154 @@
           "periodEnd": "2024-12-31",
           "reviewedAt": "2026-09-12",
           "reviewDueAt": "2026-10-24"
+        }
+      ]
+    },
+    {
+      "id": "kouzi-distillery",
+      "name": "口子酒业 · 口子窖",
+      "legalName": "安徽口子酒业股份有限公司",
+      "location": "安徽淮北；产品制造记录列相山南路 9 号",
+      "origin": "china",
+      "originNote": "口子窖为安徽口子酒业旗下品牌；此款境内制造另有准确规格的公开生产记录与包装资料。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年获评劳动 A 级 · 审查 2024 年",
+      "scope": "安徽口子酒业股份有限公司及六年型 41%vol 450mL 规格；劳动审查覆盖 2024 年。",
+      "finding": "本法人获淮北 2025 年劳动保障诚信 A 级认定；官方六年型产品、同规格制造记录和国内单瓶零售入口已经对应。",
+      "caveats": [
+        "政府于 2025 年认定，书面审查覆盖 2024 年；本站在 2026-11-05 前复核，不作未来持续合规保证。",
+        "历史抽检样品生产于 2023 年，未写成当前所有批次的检测结果；商品变更制造商时需重新核对。",
+        "只收录已对应的六年型 41%vol 450mL 单瓶，不扩展到其他酒款、经销商或关联公司。"
+      ],
+      "sourceIds": [
+        "huaibei-labor-2025",
+        "anhui-labor-2025-scope",
+        "kouzi-six-official",
+        "kouzi-six-sampling-2025-media",
+        "kouzi-six-jd",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与产品",
+          "status": "policy",
+          "detail": "官网列六年型 450mL，并区分 41%vol 与 46%vol。",
+          "sourceIds": [
+            "kouzi-six-official"
+          ]
+        },
+        {
+          "stage": "酿造与成品制造",
+          "status": "policy",
+          "detail": "所选 41%vol 450mL 制造记录及包装列安徽口子酒业，与政府劳动评价法人一致。",
+          "sourceIds": [
+            "kouzi-six-sampling-2025-media",
+            "kouzi-six-jd",
+            "huaibei-labor-2025"
+          ]
+        },
+        {
+          "stage": "原料、包材与运输",
+          "status": "unknown",
+          "detail": "相关供应商资料保留为补充调查，不另设全链准入门槛。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "在本站复核期限前查询更新评价和相反证据；制造或服务经营法人变化时重新对应。",
+      "assessments": [
+        {
+          "subject": "安徽口子酒业股份有限公司",
+          "result": "劳动保障诚信 A 级",
+          "period": "2025 年评价（审查 2024 年）",
+          "sourceId": "huaibei-labor-2025",
+          "limitation": "仅覆盖具名法人及 2024 年审查范围。2025 年最终认定于 2025-11-05 公布；本站复核期限不是政府公布的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "kouzi-hotel-huaibei",
+      "name": "淮北口子国际大酒店",
+      "legalName": "淮北口子国际大酒店有限公司",
+      "location": "安徽省淮北市相山区人民路中段南侧",
+      "origin": "china",
+      "originNote": "在安徽淮北经营的境内酒店法人；经营地点、主体与住宿预订资料均可交叉核对。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年获评劳动 A 级 · 审查 2024 年",
+      "scope": "人民路中段的淮北口子国际大酒店住宿服务及具名经营法人；劳动审查覆盖 2024 年。",
+      "finding": "酒店法人自身列入淮北 2025 年 A 级名单；政府商户表、2026 年经营披露和携程具体酒店房型交叉对应。",
+      "caveats": [
+        "2025 年获评的审查范围为 2024 年；本站在 2026-11-05 前复核，不作未来持续合规保证。",
+        "仅对应淮北人民路这家酒店及其经营法人，不推广到口子酒业、金陵管理品牌的其他企业。",
+        "国内现场住宿属于境内服务，客房家具和用品的生产地与供应商不由酒店地址推断。"
+      ],
+      "sourceIds": [
+        "huaibei-labor-2025",
+        "anhui-labor-2025-scope",
+        "kouzi-hotel-company-gov",
+        "kouzi-hotel-company-2026",
+        "kouzi-hotel-ctrip",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "酒店经营主体",
+          "status": "policy",
+          "detail": "政府商户表及近期披露对应同名酒店法人、人民路地址和住宿业务。",
+          "sourceIds": [
+            "kouzi-hotel-company-gov",
+            "kouzi-hotel-company-2026"
+          ]
+        },
+        {
+          "stage": "境内住宿服务",
+          "status": "policy",
+          "detail": "所选为该地点的高级优享双床房；本酒店法人有独立的劳动 A 级记录。",
+          "sourceIds": [
+            "kouzi-hotel-ctrip",
+            "huaibei-labor-2025"
+          ]
+        },
+        {
+          "stage": "外包与用品供应",
+          "status": "unknown",
+          "detail": "外包和用品供应商保留为补充调查；本酒店评价不扩展为供应商或管理品牌全部人员的认证。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "在本站复核期限前查询更新评价和相反证据；制造或服务经营法人变化时重新对应。",
+      "assessments": [
+        {
+          "subject": "淮北口子国际大酒店有限公司",
+          "result": "劳动保障诚信 A 级",
+          "period": "2025 年评价（审查 2024 年）",
+          "sourceId": "huaibei-labor-2025",
+          "limitation": "仅覆盖具名法人及 2024 年审查范围。2025 年最终认定于 2025-11-05 公布；本站复核期限不是政府公布的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-11-05"
         }
       ]
     }
@@ -11266,7 +11522,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未取得本款缝制厂、织造厂和外包团队的实际工时、每周两天休息及其他权益履行资料。",
+          "detail": "本款缝制企业尚未对应到可复核的劳动合规依据；办公室福利不能单独代表制造法人。",
           "sourceIds": [
             "hodo-esg-2025-labor",
             "hodo-annual-2025-online"
@@ -12520,7 +12776,7 @@
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "尚未锁定该盒鸡蛋的养殖与分装基地。官网明确喂养原料含进口亚麻籽；这不等于鸡蛋境外生产，但不支持全链原料均在中国生产。",
+          "detail": "尚未锁定这盒鸡蛋的养殖或分装基地。喂养原料含进口亚麻籽不等于鸡蛋境外生产，原料追踪作为补充信息。",
           "sourceIds": [
             "sundaily-omega-product",
             "sundaily-company"
@@ -12767,7 +13023,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团有员工权益网页自述，但本款现供制造厂尚未锁定。张家港大豆油样品及该厂历史评价不覆盖此油种；实际产线及上游工时、逐周休息和工资社保仍待核。",
+          "detail": "本款实际制造厂尚未锁定；张家港大豆油样品和该厂历史评价不能用于其他油种。需先对应制造法人，再核该主体的劳动依据。",
           "sourceIds": [
             "cofco-employees-2025-web"
           ]
@@ -12817,7 +13073,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团有员工权益网页自述，但本款现供制造厂尚未锁定。张家港大豆油样品及该厂历史评价不覆盖此油种；实际产线及上游工时、逐周休息和工资社保仍待核。",
+          "detail": "本款实际制造厂尚未锁定；张家港大豆油样品和该厂历史评价不能用于其他油种。需先对应制造法人，再核该主体的劳动依据。",
           "sourceIds": [
             "cofco-employees-2025-web"
           ]
@@ -12867,7 +13123,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团有员工权益网页自述，但本款现供制造厂尚未锁定。张家港大豆油样品及该厂历史评价不覆盖此油种；实际产线及上游工时、逐周休息和工资社保仍待核。",
+          "detail": "本款实际制造厂尚未锁定；张家港大豆油样品和该厂历史评价不能用于其他油种。需先对应制造法人，再核该主体的劳动依据。",
           "sourceIds": [
             "cofco-employees-2025-web"
           ]
@@ -13603,7 +13859,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "没有对应养殖、屠宰、分装和冷链岗位的实际工时、休息、工资及社保核验。",
+          "detail": "尚未把本款实际屠宰、加工或分装企业对应到可复核的劳动合规依据；养殖及冷链作为补充调查。",
           "sourceIds": [
             "sunner-annual-2025"
           ]
@@ -13703,7 +13959,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "2025 年集团报告的每 8 天休 2 天安排不等于每周 40 小时、周休两天；具体产线和外包岗位仍需实证。",
+          "detail": "集团报告披露四班三运转、每 8 天休 2 天，需按适用工时制度判断。尚缺生活用纸实际制造法人的对应劳动依据。",
           "sourceIds": [
             "sunpaper-esg-2025",
             "national-harmony-2022"
@@ -13753,7 +14009,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "2025 年集团报告的每 8 天休 2 天安排不等于每周 40 小时、周休两天；具体产线和外包岗位仍需实证。",
+          "detail": "集团报告披露四班三运转、每 8 天休 2 天，需按适用工时制度判断。尚缺生活用纸实际制造法人的对应劳动依据。",
           "sourceIds": [
             "sunpaper-esg-2025",
             "national-harmony-2022"
@@ -13849,7 +14105,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "示范称号之外尚缺具体酿造、灌装、包装、原料和物流岗位的实际工时与休息记录。",
+          "detail": "历史示范称号尚未补足本款实际制造法人可用于当前收录的劳动依据；需继续核对称号范围和更新记录。",
           "sourceIds": [
             "national-harmony-2022"
           ]
@@ -13890,7 +14146,7 @@
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "抽检已锁定一个 2026 年批次的浙江制造法人和地址；待购批次、水源与包材仍需逐项核对。",
+          "detail": "抽检已对应一个 2026 年批次的浙江制造法人和地址；当前零售规格与供货制造商仍需对应。",
           "sourceIds": [
             "nongfu-water550-official",
             "nongfu-water550-sampling2026"
@@ -13898,7 +14154,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "公开政策采用多种工时制度，尚无对应生产、原料、包材和物流岗位的实际工时与逐周休息记录。",
+          "detail": "公开政策介绍多种工时制度，但尚缺与本款实际制造法人对应的可复核劳动合规依据。",
           "sourceIds": [
             "nongfu-employment-policy2026",
             "nongfu-esg2025"
@@ -13946,7 +14202,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "公开政策采用多种工时制度，尚无对应生产、原料、包材和物流岗位的实际工时与逐周休息记录。",
+          "detail": "公开政策介绍多种工时制度，但尚缺与本款实际制造法人对应的可复核劳动合规依据。",
           "sourceIds": [
             "nongfu-employment-policy2026",
             "nongfu-esg2025"
@@ -13989,7 +14245,7 @@
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "官方资料有云南小粒咖啡及种植园线索，但没有当前批次制造法人、厂址与全部原料追溯；不能据此作全链境内生产保证。",
+          "detail": "官方资料有云南咖啡种植业务线索，尚未取得此款明确的制造法人和厂址；原料追溯另作补充。",
           "sourceIds": [
             "hogood-liujin58-official",
             "hogood-liujin58-yunnan",
@@ -14047,7 +14303,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团披露标准、综合等工时制度，缺少该衬衫缝制、织造和原料岗位的实际工时、休息及其他劳动履行资料。",
+          "detail": "集团披露标准、综合等工时制度；本款制造法人及适用的独立劳动依据仍需对应，工时制度名称本身不作合法或违法判断。",
           "sourceIds": [
             "youngor-esg-2025-labor"
           ]
@@ -14089,7 +14345,7 @@
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "历史抽查有新乡生产主体线索；当前销售批次的制造厂、国内原料和包材来源仍未锁定。",
+          "detail": "历史抽查有新乡制造企业线索，当前所选零售规格与制造主体仍需对应；原料和包材来源另作补充。",
           "sourceIds": [
             "liby-qingning1kg-sampling2025",
             "liby-csr-2023"
@@ -14097,7 +14353,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "主管双休不覆盖配料工的月休四天及操作工倒班；各生产岗位和上游的实际工时、休息、工资与社保尚未验证。",
+          "detail": "招聘中管理与生产岗位排班不同，不能用单个岗位福利代表制造企业；本款对应制造法人的劳动合规依据仍待补。",
           "sourceIds": [
             "liby-csr-2023",
             "liby-xinxiang-production-manager",
@@ -14149,7 +14405,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "招聘工时与双休标签未对应此款牙刷产线，实际加班、休息及其他劳动权益记录待补。",
+          "detail": "现有岗位招聘尚未对应本款制造企业，不能替代该制造法人的劳动合规依据。",
           "sourceIds": [
             "darlie-hours",
             "darlie-rest"
@@ -14194,7 +14450,7 @@
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "抽查样品标称生产者为重庆百亚；具体厂址、当前批次及原料包材来源尚未对应。",
+          "detail": "抽查样品标称生产者为重庆百亚，所选零售规格与境内制造厂址仍需交叉对应。",
           "sourceIds": [
             "hangzhou-hygiene-sampling-2025",
             "baiya-annual-2025"
@@ -14302,7 +14558,7 @@
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "平台标国产、河南郑州，样例背标列代码 A 等多组企业；角色前缀部分不清，当前实际批次工厂和原料来源待核。",
+          "detail": "平台标国产、河南郑州，样例背标列代码 A 等多组企业；角色前缀部分不清，所选供货制造企业仍待对应。",
           "sourceIds": [
             "sanquan-dumpling-suning",
             "sanquan-dumpling-packaging"
@@ -14310,7 +14566,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "淡季增加带薪休假不能证明每周双休；对应工厂及原料、冷链人员的实际劳动记录仍缺。",
+          "detail": "淡季带薪休假属于企业自述；实际制造企业尚未锁定，仍需对应该法人的劳动合规依据。",
           "sourceIds": [
             "sanquan-esg-2025"
           ]
@@ -14363,7 +14619,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "企业权益制度与历史车间事迹均不能证明该袋商品所涉养殖、加工及冷链岗位的实际工时和休息。",
+          "detail": "企业制度与历史车间事迹尚未对应本款实际加工法人的劳动合规依据；养殖和冷链另作补充调查。",
           "sourceIds": [
             "guolian-annual-2025",
             "guolian-jade-union-2020"
@@ -14415,7 +14671,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "招聘简介的五天八小时双休与产线加班并存，岗位已过期，尚未取得此款实际生产工时及休息记录。",
+          "detail": "已过期招聘同时介绍正常排班和加班安排；招聘不能单独证明本款制造企业当前劳动合规，仍需对应的独立依据。",
           "sourceIds": [
             "simao-production-hiring-2025"
           ]
@@ -14467,7 +14723,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "齐心集团员工及供应商准则尚未对应 B3252 制尺、包材和物流人员的实际履行。",
+          "detail": "集团员工和供应商准则尚未对应 B3252 的实际制造企业及其劳动合规依据。",
           "sourceIds": [
             "comix-esg-2025"
           ]
@@ -14732,7 +14988,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "公司历史自评与车间改善案例不足以证明此货号制袜及纱线、外包岗位的实际周工时和每周两天休息。",
+          "detail": "历史企业自评和车间改善案例尚未对应本货号实际制袜企业可用于当前收录的劳动依据。",
           "sourceIds": [
             "mengna-social-report-2025",
             "mengna-score-workplace-case"
@@ -15322,7 +15578,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "年报制度与广东家美 2022 年称号不证明本款生产、原料及铺贴人员的实际劳动条件。",
+          "detail": "需先对应本款实际制造企业，再核对 2022 年示范称号的适用主体及更新劳动依据；铺贴服务另作调查。",
           "sourceIds": [
             "marcopolo-annual-2025",
             "national-harmony-2022"
@@ -15371,7 +15627,7 @@
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "政府 2024-04-13 历史样品提供广东制造法人线索；当前包装、配方、灌装批次和原料来源仍待核，不能将旧样品当作现批次。",
+          "detail": "2024-04-13 历史样品提供广东制造法人线索，当前所选规格与制造企业仍需对应；原料追踪另作补充。",
           "sourceIds": [
             "carpoly-g101-hainan-2024",
             "carpoly-g101-20kg-suning",
@@ -15380,7 +15636,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "2022 年守法评价公开文本尚待原页复核，2025 年企业等级附件未读到；没有当前配料、灌装及上游人员的实际劳动记录。",
+          "detail": "2022 年劳动评价原页尚待复核，2025 年等级附件未读到；本款制造企业可用于当前收录的劳动依据仍待补。",
           "sourceIds": [
             "carpoly-guangdong-labor-2022",
             "pengjiang-labor-2025-announcement"
@@ -15435,7 +15691,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "年报有权益制度和南京销售法人的纠纷披露，均不替代 GT0217 实际制造、原料与铺装班组工时、休息及工资社保记录。",
+          "detail": "年报制度与南京销售法人的纠纷披露尚未对应 GT0217 实际制造企业；需补该主体的劳动合规依据。",
           "sourceIds": [
             "powerdekor-annual-2025"
           ]
@@ -15479,7 +15735,7 @@
         },
         "chinaProduction": {
           "status": "pending",
-          "detail": "公共标签样例对应佛山市海天（高明）调味食品有限公司及高明沧江工业园东园。采集及生产日期未明，当前零售批次、原料供应尚未闭合。",
+          "detail": "公共标签样例对应佛山市海天（高明）调味食品有限公司及高明沧江工业园东园，但图样日期未明，当前零售规格与制造关系仍需核对。",
           "sourceIds": [
             "haday-dark500-cdc",
             "haday-dark500-cdc-label"
@@ -15487,7 +15743,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "高明有 2022—2024 年历史信用线索，集团 2025 制度含制造岗位综合工时例外。未核本款酿造、灌装班组及上游实际工时、逐周休息和工资社保。",
+          "detail": "高明制造企业有 2022—2024 年历史信用线索；仍需核对其评价原文、适用年度及更新结果。集团工时制度自述不能单独替代对应劳动依据。",
           "sourceIds": [
             "haday-esg-2025",
             "haday-gaoming-legal-2025"
@@ -15589,7 +15845,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "2025 报告有合同、社保及派遣外包权益管理自述，未取得此制盐和包装产线的实际周工时、逐周休息、工资社保及原料运输人员履行记录。",
+          "detail": "2025 年报告有合同、社保及派遣外包权益自述，尚缺本款对应制盐或包装法人可用于收录的独立劳动依据。",
           "sourceIds": [
             "suyan-jingshen-esg-2025"
           ]
@@ -15639,7 +15895,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团有工时休假与社保制度自述，未取得该燕麦米分装班组及原粮、包材、物流人员的实际周工时、逐周休息和工资社保。",
+          "detail": "集团有工时休假与社保制度自述，尚未对应本款实际分装企业及该法人的劳动合规依据。",
           "sourceIds": [
             "shiyue-esg-2025"
           ]
@@ -15838,7 +16094,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "东海有 2022 年 2A 级复查确认，未取得当前产线的实际工时、逐周休息与工资社保；集团网页、仪表岗位和菏泽校招不能替代本款及上游的劳动履行。",
+          "detail": "制造企业有 2022 年 2A 级复查线索，尚需核对评价范围和更新结果；集团网页与其他岗位招聘不单独替代对应劳动依据。",
           "sourceIds": [
             "cofco-eastsea-labor-credit-2022",
             "cofco-employees-2025-web",
@@ -15893,7 +16149,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "操作工招聘列计件，未披露周工时和休息；集团权益摘录没有该班组实际履行，生产及上游工资社保仍待补。",
+          "detail": "操作工招聘和集团权益摘录属于线索，尚缺本款实际制造法人可用于收录的独立劳动依据。",
           "sourceIds": [
             "wufeng-huichang-jobs-2026jan",
             "wufeng-esg2024-index"
@@ -15997,7 +16253,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "2025 报告按岗位实行多种工时制；合同社保汇总自述不证明本款生产班组每周 40 小时、两天休息和供应链劳动履行。",
+          "detail": "集团报告披露多种工时制度及合同社保汇总信息，尚未锁定本款成品制造法人并对应可复核的劳动合规依据。",
           "sourceIds": [
             "qiaqia-esg2025-labor"
           ]
@@ -16050,7 +16306,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团表彰与旧招聘没有对应本款生产班组实际周工时、休息、工资社保和安全履行；合作养殖及冷链另核。",
+          "detail": "集团表彰与旧招聘尚未对应本款实际生产法人及适用劳动依据；养殖与冷链作为补充调查。",
           "sourceIds": [
             "national-employment-award-2025",
             "hengdu-production-hiring-2022"
@@ -16105,7 +16361,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "灵活就业与节前加班报道未提供此款生产班组实际工时、逐周休息及合同社保；合作农户和冷链人员另核。",
+          "detail": "灵活就业和节前加班报道不能单独证明实际制造法人的劳动合规；仍需对应本款生产主体及独立依据。",
           "sourceIds": [
             "ningxin-production-employment-2025",
             "ningxin-seasonal-work-2024",
@@ -16158,7 +16414,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团员工权益自述未对应本款养殖、加工、包材及冷链岗位的实际工时、休息、工资和社保。",
+          "detail": "集团权益自述尚未对应本款实际加工或分装企业及其独立劳动依据；养殖、包材和冷链作为补充调查。",
           "sourceIds": [
             "guolian-annual-2025"
           ]
@@ -16209,7 +16465,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "集团制度、公司表彰与望奎历史报告未对应本款实际生产班组；养殖、屠宰、分装和冷链的工时、休息、工资社保均待核。",
+          "detail": "集团制度、企业表彰和望奎历史报告尚未对应本款实际屠宰或分装法人，需继续核对该主体适用的劳动依据。",
           "sourceIds": [
             "shuanghui-esg-2025",
             "shuanghui-humanrights-2026",
@@ -16610,6 +16866,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "kouzi-six-41-450ml",
+      "name": "六年型兼香型白酒 41%vol 450mL 单瓶",
+      "brand": "口子窖",
+      "companyId": "kouzi-distillery",
+      "category": "drinks",
+      "description": "口子窖六年型，兼香型白酒，酒精度 41%vol，单瓶净含量 450mL。",
+      "tags": [
+        "白酒",
+        "六年型",
+        "兼香型",
+        "41度",
+        "450mL",
+        "单瓶"
+      ],
+      "needs": [
+        "白酒"
+      ],
+      "url": "https://item.jd.com/100044383067.html",
+      "market": "京东商品号 100044383067，所选为 41 度 450mL×1 瓶；库存、价格、包装版本和配送条件以当前商品订单为准。",
+      "relationship": "制造商官网、公开抽检表第 86 行和同规格包装均对应安徽口子酒业股份有限公司；国内零售卡明确 41 度 450mL 单瓶。",
+      "relationshipSourceIds": [
+        "kouzi-six-official",
+        "kouzi-six-sampling-2025-media",
+        "kouzi-six-jd"
+      ],
+      "image": "images/kouzi-six-41-450ml.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/422785/12/20181/105827/69ef1c0aF6a01dda7/00833203202ef870.jpg",
+      "imageRights": "安徽口子酒业股份有限公司、京东平台及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东准确商品卡 100044383067 提供 41 度 450mL 单瓶的国内购买入口；不混用 46 度或整箱选项。",
+          "sourceIds": [
+            "kouzi-six-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "同规格公开制造记录列安徽口子酒业股份有限公司及淮北相山南路 9 号，官网与包装资料交叉对应。历史样品生产日期保留为 2023-03-18，不当作当前全部批次记录。",
+          "sourceIds": [
+            "kouzi-six-sampling-2025-media",
+            "kouzi-six-official",
+            "kouzi-six-jd"
+          ],
+          "subject": "安徽口子酒业股份有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "对应制造法人获淮北 2025 年劳动保障诚信 A 级认定，2025-11-05 最终公布；该轮书面审查覆盖 2024 年。",
+          "sourceIds": [
+            "huaibei-labor-2025",
+            "anhui-labor-2025-scope",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "huaibei-labor-2025"
+        }
+      }
+    },
+    {
+      "id": "kouzi-hotel-huaibei-superior-twin",
+      "name": "淮北人民路 · 高级优享双床房（1 晚）",
+      "brand": "口子国际大酒店",
+      "companyId": "kouzi-hotel-huaibei",
+      "category": "transport",
+      "description": "安徽淮北相山区人民路中段的酒店住宿服务，所选高级优享双床房，一间一晚；按入住日期确认房态和价格。",
+      "tags": [
+        "酒店",
+        "住宿",
+        "淮北",
+        "安徽",
+        "双床房",
+        "高级优享"
+      ],
+      "needs": [
+        "酒店"
+      ],
+      "url": "https://hotels.ctrip.com/hotels/1283086.html",
+      "market": "携程酒店号 1283086，进入后选择“高级优享双床房”及入住日期；房态、早餐、退改、押金和价格以确认订单为准。",
+      "relationship": "政府商户表及 2026 年法定披露将人民路中段的口子酒店对应淮北口子国际大酒店有限公司；携程同址酒店列高级优享双床房。",
+      "relationshipSourceIds": [
+        "kouzi-hotel-company-gov",
+        "kouzi-hotel-company-2026",
+        "kouzi-hotel-ctrip"
+      ],
+      "image": "images/kouzi-hotel-huaibei-superior-twin.webp",
+      "imageMode": "contain",
+      "imageSource": "https://dimg04.c-ctrip.com/images/1mc0i12000f6fekna18EF.jpg",
+      "imageRights": "淮北口子国际大酒店、携程平台及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "携程国内预订页酒店号 1283086 列高级优享双床房及对应房型图片；实际可订日期与交易条件按订单确认。",
+          "sourceIds": [
+            "kouzi-hotel-ctrip"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "住宿服务在安徽淮北人民路中段提供；政府商户表、当前经营披露和预订地址对应同一境内酒店经营法人。",
+          "sourceIds": [
+            "kouzi-hotel-company-gov",
+            "kouzi-hotel-company-2026",
+            "kouzi-hotel-ctrip"
+          ],
+          "subject": "淮北口子国际大酒店有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "酒店经营法人自身获淮北 2025 年劳动保障诚信 A 级认定，审查范围为 2024 年；采用酒店具名结果。",
+          "sourceIds": [
+            "huaibei-labor-2025",
+            "anhui-labor-2025-scope",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "huaibei-labor-2025"
+        }
+      }
     }
   ],
   "coverage": [
@@ -16941,7 +17317,7 @@
           "query": "葡萄酒"
         }
       ],
-      "note": "已补 1500g 酸奶、500mL 仙都啤酒、550mL 天然水、300mL 新疆苹果汁及后谷鎏金58 冻干咖啡 100g。咖啡有云南原料宣传，实际制造主体及原料追溯仍待核；天然水有建德批次记录，各款销售和实际岗位仍待补。所查炭仌咖啡使用巴西豆，未列入全链境内候选。豆奶和葡萄酒继续查。",
+      "note": "已正式收录口子窖六年型 41%vol 450mL 单瓶。酸奶、啤酒、天然水、新疆苹果汁及后谷冻干咖啡等已有具体资料，继续对应实际制造企业、劳动依据和销售规格。进口咖啡原料本身不排除境内加工商品；豆奶和葡萄酒等缺口继续查。",
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
@@ -16954,7 +17330,11 @@
         "hogood-liujin58-official",
         "hogood-liujin58-yunnan",
         "hogood-group-members",
-        "hogood-responsibility"
+        "hogood-responsibility",
+        "huaibei-labor-2025",
+        "kouzi-six-official",
+        "kouzi-six-sampling-2025-media",
+        "kouzi-six-jd"
       ]
     },
     {
@@ -17457,9 +17837,13 @@
           "query": "雨伞"
         }
       ],
-      "note": "自行车和电动车已查官网型号；海口酒店有具体地点及招聘。交通运营、车辆制造、外包需分别核对。",
+      "note": "已正式收录淮北口子国际大酒店人民路高级优享双床房一晚，具名经营法人有政府劳动 A 级评价。自行车、电动车及海口酒店等有研究资料；交通、制造和服务经营主体分别对应。",
       "sourceIds": [
-        "sofitel-haikou-campus"
+        "sofitel-haikou-campus",
+        "huaibei-labor-2025",
+        "kouzi-hotel-company-gov",
+        "kouzi-hotel-company-2026",
+        "kouzi-hotel-ctrip"
       ]
     },
     {
@@ -17612,9 +17996,10 @@
           "query": "自助餐"
         }
       ],
-      "note": "老乡鸡、瑞幸已有具体菜品资料；海口酒店有岗位线索。门店、中央厨房、加盟和外包人员分别核验。",
+      "note": "老乡鸡、瑞幸已有具体菜品资料；海口酒店有岗位线索。门店、中央厨房、加盟和外包人员分别核验。 宿州最新最终劳动名单提供肯德基、必胜客的具名餐厅线索，具体门店地址及在售餐品尚待对应。",
       "sourceIds": [
-        "sofitel-haikou-campus"
+        "sofitel-haikou-campus",
+        "suzhou-labor-2024"
       ]
     },
     {
