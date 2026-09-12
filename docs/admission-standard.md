@@ -2,6 +2,8 @@
 
 修正日期：2026-09-12。
 
+2026-09-13继续按现有规则纠正21条销售判断，并以具名2022年综合劳动评价、2026年制造记录和具体零售入口收录燕京小炮；明确标注较早的评价年份，不当作2026年新认证。详见[销售条件与生产对应复核](retail-scope-and-maker-matching.md)。
+
 后续已修正“仅允许政府A级”的单一证据入口。当前同时接受符合范围要求的政府综合劳动评价与独立劳动审核，保留出具机构、原始依据、劳动权益覆盖、企业或工厂、期间及局限，详见[劳动证据与研究方法修正](evidence-review-policy.md)。下文原批次结果和政府A级示例仍保留其历史范围。
 
 规则修正后的后续研究持续增加正式收录，当前数量以[目录数据](../public/data/catalog.json)为准；各批记录见 [食品收录复核](food-admission-expansion.md)、[家居收录复核](nonfood-admission-expansion.md)、[纸尿裤及厨房清单复核](daily-admission-expansion.md)、[白酒、住宿及旧标准清理](consumer-scope-audit.md)、[宿州熟食与公交](suzhou-consumer-expansion.md)、[意面与家庭装米面](staple-admission-expansion.md)、[厨房用品与景区门票](kitchen-and-culture-expansion.md)、[福州制造企业与消费品](fuzhou-consumer-expansion.md)、[家庭用醋与调味油](pantry-vinegar-and-oil.md)、[早餐燕麦与条装冲饮](breakfast-and-drink-expansion.md)、[福清速冻面点](fuqing-frozen-food-expansion.md)、[宝锋对讲机](baofeng-electronics-expansion.md)、[迎驾山泉饮用水](yingjia-water-expansion.md)及[开平日用品](household-supplier-expansion.md)。下文“此次复核结果”保留规则首次修正时的批次记录。

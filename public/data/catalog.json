@@ -7739,6 +7739,54 @@
       "locator": "PDF第43—44页，印刷第33—34页：风险因素；第170—171页：人员安排",
       "summary": "申请版本披露，截至2025年底，未为部分员工缴纳社保和公积金，也未按实际薪金足额缴纳；2023、2024、2025年两项缴费缺口合计分别约80万、180万、370万元。文件另披露当时未因相关事项受到行政处罚或强制执行。",
       "limitation": "已取得港交所原始PDF并目视核对第43—44页。数字为报告集团口径、社保与公积金合计，未逐一分配到法人或员工；630万元不能写成纯社保金额。申请版本可修改，未把潜在处罚测算当成已发生罚款，也未取得后续全部补缴完成的资料。这是企业自报的具体问题，不是独立审计认证或行政违法裁定。"
+    },
+    {
+      "id": "yanjing-xiaopao500-six-jd",
+      "title": "燕京小炮500mL×6罐的大陆零售条目",
+      "publisher": "京东",
+      "type": "零售商商品页",
+      "url": "https://www.jd.com/tupian/1225961bacc433c9f03af.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "题名为燕京小炮啤酒*6听500mL、实际链接为10104254055786的卡片",
+      "summary": "直接读取公开HTML，卡片明确燕京小炮、每罐500mL和6听组合，链接指向商品10104254055786。没有借用相邻U8、特制、330mL或12罐选项。",
+      "limitation": "卡片支持具体销售规格和大陆入口，未返回价格、地区库存或制造背标；详情页为通用脚本页面，未执行脚本。制造企业另据2026年具名抽检记录匹配；其他工厂产品不适用仙都公司的劳动评价。"
+    },
+    {
+      "id": "edenbo-d241054536-manufacture2025",
+      "title": "福建2025年针织内衣抽查：爱登堡D241054536",
+      "publisher": "新浪财经（转载中国质量新闻网、福建省市场监督管理局资料）",
+      "type": "产品抽查转载",
+      "url": "https://finance.sina.com.cn/jjxw/2025-02-12/doc-inekfhca1736808.shtml",
+      "publishedAt": "2025-02-12",
+      "checkedAt": "2026-09-13",
+      "locator": "2025年第014期针织内衣合格表第14行",
+      "summary": "直接读取转载HTML表格，受检企业和标称生产企业均为爱登堡（中国）有限公司；内衣175/92A，生产日期/批号2024-01/D241054536，抽查合格。",
+      "limitation": "仅支持该款号样品的制造对应；本轮精确款号检索没有找到零售入口。质量合格不作为劳动依据，未新增待核商品充当衣物覆盖。"
+    },
+    {
+      "id": "edenbo-h241022p08-manufacture2025",
+      "title": "福建2025年夹克衫抽查：爱登堡H241022P08派克服",
+      "publisher": "新浪财经（转载中国质量新闻网、福建省市场监督管理局资料）",
+      "type": "产品抽查转载",
+      "url": "https://finance.sina.com.cn/jjxw/2025-02-12/doc-inekfhca1742323.shtml",
+      "publishedAt": "2025-02-12",
+      "checkedAt": "2026-09-13",
+      "locator": "2025年第014期夹克衫合格表第4行",
+      "summary": "直接读取转载HTML表格，受检企业和标称生产企业均为爱登堡（中国）有限公司；休闲服（派克）165/84A，2024-01/H241022P08，抽查合格。",
+      "limitation": "这是所列样品的制造资料，不是当前销售或劳动评价。精确款号检索未找到个人零售入口，没有另建商品重复计算覆盖。"
+    },
+    {
+      "id": "edenbo-d244026010-inspection-lead2025",
+      "title": "福建2025年羽绒服抽查中的爱登堡D244026010线索",
+      "publisher": "新浪财经（转载中国质量新闻网、福建省市场监督管理局资料）",
+      "type": "产品抽查转载",
+      "url": "https://finance.sina.com.cn/jjxw/2025-07-24/doc-infhqhuw4112201.shtml",
+      "publishedAt": "2025-07-24",
+      "checkedAt": "2026-09-13",
+      "locator": "2025年第023期羽绒服合格表中爱登堡（中国）有限公司一行",
+      "summary": "转载表可读爱登堡（中国）有限公司、羽绒服170/88A、2024-12/D244026010及合格结果。保存准确款号，作为后续商品匹配线索。",
+      "limitation": "本次原始HTML表头和生产企业列不完整，不将单一企业名擅自补写为完整的受检、标称生产两列；同款销售入口亦未找到，未据此作商品收录。"
     }
   ],
   "companies": [
@@ -10861,38 +10909,45 @@
       "location": "浙江缙云五云街道鼎湖路 1 号",
       "origin": "china",
       "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
-      "level": "research",
+      "level": "assessment",
       "hours": null,
       "restDays": null,
-      "hoursLabel": "具体工时制度待补",
-      "restLabel": "具体休息安排待补",
-      "cardNote": "已对应工厂及啤酒批次",
-      "scope": "仅核对燕京啤酒（浙江仙都）有限公司；其他燕京工厂单独调查。",
-      "finding": "2022 年示范名单与近期食品抽检可对应同一个生产法人；已找到小炮 500mL 的具体生产批次和大陆商超记录，尚缺工厂实际排班、工时及每周休息记录。",
+      "hoursLabel": "2022年综合标准涵盖工时",
+      "restLabel": "2022年综合标准涵盖休假",
+      "cardNote": "2022年政府综合劳动评价",
+      "scope": "燕京啤酒（浙江仙都）有限公司的2022年全国综合劳动评价；依据年份较早。",
+      "finding": "2022年正式名单、同批完整劳动标准和2026年小炮500mL具名制造记录已对应同一法人，另补京东6罐零售入口。按公开综合评价支持收录，保留较早的评价年份；未取得新的2023—2026年综合复核结果。",
       "caveats": [
-        "食品抽检只说明所检项目，不是劳动法合规认定。",
-        "麦芽、酒花、包装及物流供应链仍需分别核查。",
-        "历史示范称号不自动延续为当前每个生产岗位的结论。"
+        "劳动判断依据为2022年综合评价，2026年是本站查阅日期，不是新一轮政府检查，也不保证之后所有用工行为。",
+        "制造对应采用2026-05-15样品及具名工厂地址，零售数量采用6罐卡片；若实际标签列其他生产企业，本条劳动依据不适用。",
+        "食品抽检用于对应制造主体，不能证明劳动守法；麦芽、酒花、包装和物流另作补充调查。"
       ],
       "sourceIds": [
         "national-harmony-2022",
         "yanjing-xiandu-sampling2026",
         "yanjing-xiaopao-sampling2026",
         "national-harmony-2022-criteria",
-        "national-harmony-2022-final-notice"
+        "national-harmony-2022-final-notice",
+        "yanjing-xiaopao500-six-jd"
       ],
       "supply": [
         {
           "stage": "品牌与运营",
-          "status": "unknown",
-          "detail": "仅核对燕京啤酒（浙江仙都）有限公司；其他燕京工厂单独调查。",
-          "sourceIds": []
+          "status": "policy",
+          "detail": "本条仅对应燕京小炮500mL及仙都制造企业，不将其他燕京工厂的商品合并。",
+          "sourceIds": [
+            "yanjing-xiaopao-sampling2026"
+          ]
         },
         {
           "stage": "生产或门店服务",
-          "status": "unknown",
-          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
-          "sourceIds": []
+          "status": "verified",
+          "detail": "2026年抽检记录对应浙江仙都生产法人；具名2022年政府综合评价与同批标准作为劳动依据，保留较早年份。",
+          "sourceIds": [
+            "yanjing-xiaopao-sampling2026",
+            "national-harmony-2022",
+            "national-harmony-2022-criteria"
+          ]
         },
         {
           "stage": "原料、外包与物流",
@@ -10903,14 +10958,36 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
+      "nextCheck": "2026-10-13前复查该法人是否出现更新劳动结果、撤销或具名相反事实；制造主体变化时重新判断，不追加逐人考勤或完整原料追溯门槛。",
       "assessments": [
         {
           "subject": "燕京啤酒（浙江仙都）有限公司",
           "result": "全国和谐劳动关系创建示范企业",
-          "period": "2022 年命名",
+          "period": "2022年综合评价（较早资料）；完整审查起止日未公开",
           "sourceId": "national-harmony-2022",
-          "limitation": "仅为该法人历史记录；不扩大到其他燕京公司、当前排班及原料供应链。"
+          "limitation": "保留2022年综合结果及完整标准，未取得2023—2026年新的具名综合复核结果；本站一个月复查安排不是官方延长有效期，也不表示未来全部岗位合规。",
+          "kind": "government-labor-review",
+          "resultPublishedAt": "2022-09-16",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "人力资源社会保障部、全国总工会、中国企联、全国工商联",
+          "scopeType": "employer",
+          "scope": "燕京啤酒（浙江仙都）有限公司；按2022年全国创建示范标准作出的具名综合结果，不扩展到燕京其他工厂。",
+          "verificationSourceId": "national-harmony-2022",
+          "basisSourceIds": [
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ]
         }
       ]
     },
@@ -13876,17 +13953,20 @@
       "restLabel": "具体排班未单独披露",
       "cardNote": "2024 年劳动守法 A 级",
       "scope": "爱登堡（中国）有限公司；评价覆盖2024年度。",
-      "finding": "石狮2024年度最终A级名单列该法人；服装生产抽查记录对应D232081747 T恤衫。当前缺同款在售渠道，商品保留待核查。",
+      "finding": "石狮2024年度最终A级名单列该法人。已核对T恤D232081747及2025年公布的内衣D241054536、派克服H241022P08制造记录；三个款号均未对应到个人零售入口。羽绒服D244026010另保留为表格不完整的线索。",
       "caveats": [
         "政府评价只覆盖爱登堡（中国）有限公司和2024年度，不扩展至品牌授权商或其他同名公司。",
-        "D232081747对应2023年抽查样品，未找到当前国内同款零售入口，不据此承诺能买到。",
+        "T恤、内衣及派克服均只有具名制造记录，精确款号检索未取得零售入口；没有把相近款式或更多研究行当作已可购买商品。",
         "产品质量抽查用于制造主体对应，不作为劳动守法评价；其他款式需要单独核对。"
       ],
       "sourceIds": [
         "shishi-labor-2024",
         "shishi-labor-2024-followup",
         "law-labor-rating",
-        "edenbo-d232081747-sampling-2024"
+        "edenbo-d232081747-sampling-2024",
+        "edenbo-d241054536-manufacture2025",
+        "edenbo-h241022p08-manufacture2025",
+        "edenbo-d244026010-inspection-lead2025"
       ],
       "supply": [
         {
@@ -13915,7 +13995,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "寻找D232081747同款个人零售入口，核对当前包装制造商；在2026-10-24前复核更新劳动评价。",
+      "nextCheck": "出现D232081747、D241054536或H241022P08的具名零售资料时继续匹配；无新资料不重复抽检搜索。D244026010先补完整生产列；2026-10-24前复核劳动评价。",
       "assessments": [
         {
           "subject": "爱登堡（中国）有限公司",
@@ -19129,7 +19209,7 @@
         "hodo-021314-suning",
         "hodo-brand"
       ],
-      "market": "苏宁准确商品编号对应深麻灰男款 170/95，当前供货和配送仍待核。",
+      "market": "苏宁商品12164234417对应深麻灰男款170/95，上衣和裤子各一件。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "品牌及所选男款有零售资料；合写 02-13/14 不能拆成未经核实的制造商独立型号，生产法人未知。",
       "image": "images/hodo-thermal-underwear.webp",
       "imageMode": "contain",
@@ -19137,8 +19217,8 @@
       "imageRights": "红豆/红豆居家品牌、苏宁商品页图片提供方及原摄影/模特相关权利人；确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已核深麻灰男款 170/95 与上下装各一件；没有取得当前地区库存，不根据隐藏有货或下架模板判断。",
+          "status": "supported",
+          "detail": "苏宁商品12164234417对应深麻灰男款170/95，上衣和裤子各一件。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "hodo-021314-suning"
           ]
@@ -19152,7 +19232,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚未锁定本款制造工厂；上市公司供应商管理和集团历史称号不能代替实际制衣、面料与运输岗位记录。",
+          "detail": "本款实际制衣法人尚未锁定；上市公司供应商制度和集团2022年评价不能直接用于未对应的制造企业。面料、运输另作补充调查。",
           "sourceIds": [
             "hodo-esg-2025-labor",
             "hodo-annual-2025-online",
@@ -19234,7 +19314,7 @@
         "hodo-jbb016-label-example",
         "hodo-brand"
       ],
-      "market": "大陆苏宁准确商品编号已核，地区库存与当前可下单状态待核。",
+      "market": "苏宁商品12364205471对应JBB016、珍珠粉80B、一件装。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "苏宁列红豆居家品牌和 JBB016 货号；吊牌仅为同款 B70 示例，制造及零售法人仍待逐项核对。",
       "image": "images/hodo-bra.webp",
       "imageMode": "contain",
@@ -19242,8 +19322,8 @@
       "imageRights": "红豆/红豆居家品牌、苏宁商品页图片提供方及原摄影/模特相关权利人；确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已核大陆商品编号、珍珠粉 80B 与一件装，尚未取得有效的当前库存和地区配送结果。",
+          "status": "supported",
+          "detail": "苏宁商品12364205471对应JBB016、珍珠粉80B、一件装。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "hodo-jbb016-suning"
           ]
@@ -20652,7 +20732,7 @@
       "relationshipSourceIds": [
         "lenovo-xiaoxin-product"
       ],
-      "market": "已核官网货号 1044736 的 Core 5-220H、24GB/1TB 配置，但动态价格与库存待核；页面模板不作为下架或有货结论。",
+      "market": "联想中国商城货号1044736对应Core 5-220H、24GB/1TB、西子绿配置。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "联想中国商城货号 1044736 的主标题及配置表可核 CPU、内存和硬盘；具体制造工厂与设备批次待核。",
       "image": null,
       "imageMode": "typography",
@@ -20660,8 +20740,8 @@
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已核官网货号 1044736 的 Core 5-220H、24GB/1TB 配置，但动态价格与库存待核；页面模板不作为下架或有货结论。",
+          "status": "supported",
+          "detail": "联想中国商城货号1044736对应Core 5-220H、24GB/1TB、西子绿配置。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "lenovo-xiaoxin-product"
           ]
@@ -21513,7 +21593,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "生产、种植和外包岗位尚未对应到当前记录；2022 年公司的示范称号只作为调查线索。",
+          "detail": "四川尚好茶业有限公司的2022年具名综合评价及同批标准已保留；本款40g盒装尚未核对实际加工法人，不将合作社或其他企业自动归入该结果。",
           "sourceIds": [
             "national-harmony-2022"
           ]
@@ -21762,7 +21842,7 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "2022 年南京公司的示范记录不能替代养殖、发酵、灌装、配送及关联公司的实际岗位核验。",
+          "detail": "南京卫岗乳业有限公司有2022年具名综合评价及完整标准；本款1500g酸奶的实际生产法人尚未核清，不能仅凭品牌套用。奶源和独立配送另作补充调查。",
           "sourceIds": [
             "national-harmony-2022"
           ]
@@ -21771,49 +21851,54 @@
     },
     {
       "id": "yanjing-xiaopao500",
-      "name": "小炮啤酒 500mL/罐（仙都工厂线索）",
+      "name": "小炮啤酒 · 500mL×6罐",
       "brand": "燕京",
       "companyId": "yanjing-xiandu",
       "category": "drinks",
-      "description": "已找到 2026-05-15 批次，酒精度不低于 3.1%vol 的 500mL 罐装商品记录。",
+      "description": "每罐500mL，按京东6罐组合整理；制造依据对应仙都公司2026-05-15的单罐样品，劳动依据为2022年综合评价。",
       "tags": [
         "啤酒"
       ],
       "needs": [
         "啤酒"
       ],
-      "url": "https://www.cqn.com.cn/ms/content/2026-09/03/content_9171176.htm",
+      "url": "https://item.jd.com/10104254055786.html",
       "relationshipSourceIds": [
-        "yanjing-xiaopao-sampling2026"
+        "yanjing-xiaopao-sampling2026",
+        "yanjing-xiaopao500-six-jd"
       ],
-      "market": "近期通告记录江苏淮安具体超市售卖的商品；未取得可直接下单的同厂当前批次链接。",
-      "relationship": "所列小炮批次的标称制造商为燕京啤酒（浙江仙都）有限公司；不能将其他燕京产品套用此厂记录。",
+      "market": "京东商品10104254055786提供500mL×6罐入口；具体价格、地区库存和配送由商家确认。生产标签应对应燕京啤酒（浙江仙都）有限公司，其他工厂产品不适用本条劳动依据。",
+      "relationship": "2026年淮安抽检第391行将小炮500mL对应燕京啤酒（浙江仙都）有限公司及缙云鼎湖路1号；零售数量按同款500mL的6罐卡片记录，不把销售商当作制造企业。",
       "image": null,
       "imageMode": "typography",
       "imageSource": null,
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "2026 年通告转载列明淮安商超、规格及批次；当前在售状态和其他地区供应仍待核。",
+          "status": "supported",
+          "detail": "京东实际商品10104254055786的卡片明确小炮500mL×6罐；已对应大陆零售入口，不要求每个地区实时有库存。",
           "sourceIds": [
-            "yanjing-xiaopao-sampling2026"
+            "yanjing-xiaopao500-six-jd"
           ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "已锁定记录中的仙都生产法人和浙江地址；当前待售批次、麦芽酒花来源仍需核验。",
+          "status": "supported",
+          "subject": "燕京啤酒（浙江仙都）有限公司",
+          "detail": "2026年抽检第391行具名记录小炮500mL、2026-05-15样品与缙云鼎湖路1号生产企业；按该制造版本对应，不要求麦芽、酒花全链资料，不扩展到其他工厂版本。",
           "sourceIds": [
             "yanjing-xiaopao-sampling2026",
             "yanjing-xiandu-sampling2026"
           ]
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "历史示范称号尚未补足本款实际制造法人可用于当前收录的劳动依据；需继续核对称号范围和更新记录。",
+          "status": "supported",
+          "detail": "同一生产法人列2022年全国正式综合评价名单，同批标准已核合同、报酬、社保、工时休假及劳动保护；这是较早的2022年依据，未当作2026年新评价。",
           "sourceIds": [
-            "national-harmony-2022"
-          ]
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ],
+          "assessmentSourceId": "national-harmony-2022"
         }
       }
     },
@@ -21985,7 +22070,7 @@
         "youngor-yldp10265ija-sale",
         "youngor-esg-2025-labor"
       ],
-      "market": "大陆苏宁商品页可核货号与配色；隐藏模板不能判断在售或下架，当前库存及可下单状态待核。",
+      "market": "苏宁商品10887087635对应YLDP10265IJA及A010白底蓝条；尺码按该款选项选择。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "苏宁页面列雅戈尔品牌及此货号；集团报告不直接对应该件衬衫的制造、面料和外包法人。",
       "image": "images/youngor-yldp10265ija.webp",
       "imageMode": "contain",
@@ -21993,8 +22078,8 @@
       "imageRights": "雅戈尔／YOUNGOR 及苏宁商品图相关权利人；确切图片著作权法人未公开核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "准确大陆款式页已找到，但尚未取得有效的当前库存结果；不把隐藏下架模板或通用有货弹窗当作销售状态。",
+          "status": "supported",
+          "detail": "苏宁商品10887087635对应YLDP10265IJA及A010白底蓝条；尺码按该款选项选择。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "youngor-yldp10265ija-sale"
           ]
@@ -22192,7 +22277,7 @@
         "shiyue-millet-packaging",
         "shiyue-esg-2025"
       ],
-      "market": "苏宁自营有同名同规格直接商品资料，当前送达地区及库存仍需核实。",
+      "market": "苏宁商品12445617523的题名、规格和包装均对应磨米世家黄小米1kg。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "公开背标列沈阳信昌为分装受委托方；集团 ESG 提及沈阳信昌工厂，不能据此推断当前批次采用哪处厂址。",
       "image": "images/shiyue-millet1kg.webp",
       "imageMode": "contain",
@@ -22200,8 +22285,8 @@
       "imageRights": "十月稻田品牌及苏宁自营商品图相关权利人；确切图片著作权法人未公开核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已找到大陆同款 1kg 直接销售资料，当前库存与地区配送未核实；隐藏页面模板不用于判断在售状态。",
+          "status": "supported",
+          "detail": "苏宁商品12445617523的题名、规格和包装均对应磨米世家黄小米1kg。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "shiyue-millet-suning"
           ]
@@ -22245,7 +22330,7 @@
         "sanquan-dumpling-packaging",
         "sanquan-esg-2025"
       ],
-      "market": "苏宁直接商品页和京东自营店内条目均有该口味与规格；静安另有历史价格监测。当前地区库存待核。",
+      "market": "苏宁直接商品页与京东店内100058931871卡片均对应猪肉白菜灌汤水饺1kg。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "同款包装可读三全食品股份有限公司代码 A 及郑州地址，但还有其他企业代码组；当前批次实际生产者尚未锁定。",
       "image": "images/sanquan-pork-cabbage1kg.webp",
       "imageMode": "contain",
@@ -22253,8 +22338,8 @@
       "imageRights": "三全品牌及原商品图相关权利人；图片带家乐福/Carrefour水印，来源为苏宁自营商品页，确切图片权利法人未核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已找到大陆精确口味规格的销售资料与历史价格监测，当前到货地区和库存待核。",
+          "status": "supported",
+          "detail": "苏宁直接商品页与京东店内100058931871卡片均对应猪肉白菜灌汤水饺1kg。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "sanquan-dumpling-suning",
             "sanquan-dumpling-jd-store",
@@ -22299,7 +22384,7 @@
         "guolian-jade-union-2020",
         "guolian-annual-2025"
       ],
-      "market": "苏宁自营有同名同规格直接商品资料；当前库存及地区配送待核。",
+      "market": "苏宁商品10740378083的题名、包装和参数对应翡翠生虾仁200g、71/90规格。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "包装可读国联水产品牌、品名及规格；工会历史资料将同名虾仁与国联车间联系起来，但未取得当前批次制造背标。",
       "image": "images/guolian-jade-shrimp200.webp",
       "imageMode": "contain",
@@ -22307,8 +22392,8 @@
       "imageRights": "国联水产品牌及原商品图相关权利人；来源为苏宁自营商品页，确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "大陆直接商品页与 200g 包装匹配，现时库存及配送范围未核实。",
+          "status": "supported",
+          "detail": "苏宁商品10740378083的题名、包装和参数对应翡翠生虾仁200g、71/90规格。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "guolian-jade-suning"
           ]
@@ -22510,7 +22595,7 @@
         "supor-sf20fc45-energy-label",
         "supor-esg-2025"
       ],
-      "market": "苏宁自营具体商品资料对应 2L 蓝色，当前库存及地区配送待核。",
+      "market": "苏宁商品12403974140的题名、参数和详情图对应SF20FC45、2L、蓝色。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "同页能效标识写生产者浙江苏泊尔家电制造有限公司及型号 SF20FC45；未给厂址，公开资料图不能代替当前到货铭牌。",
       "image": "images/supor-sf20fc45-rice2l.webp",
       "imageMode": "contain",
@@ -22518,8 +22603,8 @@
       "imageRights": "SUPOR苏泊尔品牌、苏宁商品页提供方及原图相关权利人；确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已核苏宁同型号2L蓝色商品资料；原记录尚未确认该入口的可售状态，不从隐藏模板判断停售，也不要求全国各地区都有库存。",
+          "status": "supported",
+          "detail": "苏宁商品12403974140的题名、参数和详情图对应SF20FC45、2L、蓝色。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "supor-sf20fc45-suning"
           ]
@@ -22615,7 +22700,7 @@
         "supor-sy50fc03q-suning",
         "supor-esg-2025"
       ],
-      "market": "苏宁直接商品页对应 5L 规格，店名按平台展示记录，当前库存和配送待核。",
+      "market": "苏宁商品11887558782对应SY-50FC03Q、5L电压力锅。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "具体零售资料列苏泊尔及 SY-50FC03Q；当前设备制造标签尚未取得，不将其他苏泊尔型号的制造商记录移用到本款。",
       "image": "images/supor-sy50fc03q-pressure5l.webp",
       "imageMode": "contain",
@@ -22623,8 +22708,8 @@
       "imageRights": "SUPOR苏泊尔品牌、苏宁页面图片提供方及原图相关权利人；确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已核苏宁SY-50FC03Q、5L具体商品资料，原记录的可售状态尚未确认；地区供货和商家授权分别核对，不要求全国库存。",
+          "status": "supported",
+          "detail": "苏宁商品11887558782对应SY-50FC03Q、5L电压力锅。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "supor-sy50fc03q-suning"
           ]
@@ -22877,7 +22962,7 @@
         "rapoo-e9350g-white-suning",
         "rapoo-annual-2025"
       ],
-      "market": "找到准确白色 99 键直接商品资料；当前地区库存、销售法人及供货批次待核。",
+      "market": "苏宁商品12333525757的题名和主图对应E9350G白色99键版本。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "官方新闻确认 E9350G 型号，苏宁确认白色规格。年报存在外协生产，不能把雷柏总部地址填成此键盘制造厂。",
       "image": "images/rapoo-e9350g-white.webp",
       "imageMode": "contain",
@@ -22885,8 +22970,8 @@
       "imageRights": "雷柏及图片相关权利人；苏宁公开展示，具体图片著作权归属未单独核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "找到准确白色 99 键直接商品资料；当前地区库存、销售法人及供货批次待核。",
+          "status": "supported",
+          "detail": "苏宁商品12333525757的题名和主图对应E9350G白色99键版本。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "rapoo-e9350g-white-suning"
           ]
@@ -22929,7 +23014,7 @@
         "rapoo-mt760-black-jd",
         "rapoo-annual-2025"
       ],
-      "market": "官网型号与京东货号 10162153427726 相互对应；地区供货、当前销售主体及赠品规则待核。",
+      "market": "官网型号与京东10162153427726卡片对应MT760雅醺黑；未包含相邻mini或底座套装。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "雷柏官网直接列 MT760 雅醺黑及对应图片，零售卡片为同款颜色；尚未锁定实际生产法人。",
       "image": "images/rapoo-mt760-black.webp",
       "imageMode": "contain",
@@ -22937,8 +23022,8 @@
       "imageRights": "Rapoo雷柏及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "官网型号与京东货号 10162153427726 相互对应；地区供货、当前销售主体及赠品规则待核。",
+          "status": "supported",
+          "detail": "官网型号与京东10162153427726卡片对应MT760雅醺黑；未包含相邻mini或底座套装。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "rapoo-mt760-official",
             "rapoo-mt760-black-jd"
@@ -22983,7 +23068,7 @@
         "zhitai-tiplus7100-official",
         "zhitai-tiplus7100-2tb-suning"
       ],
-      "market": "官网规格与苏宁普通版 2TB 直接商品资料已对应；当前销售法人、库存及地区配送待核。",
+      "market": "官网规格与苏宁商品12442318183的题名及主图对应普通TiPlus7100 2TB。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "官网确认致态品牌与系列；零售 2TB 标签列长江存储英文公司名及中国制造，尚无实际装配厂址或当前批次追溯。",
       "image": "images/zhitai-tiplus7100-2tb.webp",
       "imageMode": "contain",
@@ -22991,8 +23076,8 @@
       "imageRights": "致态/长江存储及图片相关权利人；苏宁公开展示，具体图片著作权归属未单独核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "官网规格与苏宁普通版 2TB 直接商品资料已对应；当前销售法人、库存及地区配送待核。",
+          "status": "supported",
+          "detail": "官网规格与苏宁商品12442318183的题名及主图对应普通TiPlus7100 2TB。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "zhitai-tiplus7100-official",
             "zhitai-tiplus7100-2tb-suning"
@@ -23093,7 +23178,7 @@
         "arrow-ab1116-1-305-jd",
         "building-green-directory-2024nov"
       ],
-      "market": "官方型号与京东 305/300mm 货号已对应，当前销售法人、地区供货及安装范围待核。",
+      "market": "京东商品10025744128494卡片明确AB1116-1及305/300mm坑距，未合并400mm或其他后缀。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "历史绿色建材目录将 AB1116-1 对应景德镇乐华；没有把其他后缀和坑距批次的工厂记录合并。",
       "image": "images/arrow-ab1116-1-305.webp",
       "imageMode": "contain",
@@ -23101,8 +23186,8 @@
       "imageRights": "箭牌及商品图相关权利人；京东公开展示，具体图片著作权主体未单独确认",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "官方型号与京东 305/300mm 货号已对应，当前销售法人、地区供货及安装范围待核。",
+          "status": "supported",
+          "detail": "京东商品10025744128494卡片明确AB1116-1及305/300mm坑距，未合并400mm或其他后缀。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "arrow-ab1116-1-305-jd",
             "arrow-ab1116-1-official"
@@ -23424,7 +23509,7 @@
         "haday-dark500-cdc",
         "haday-dark500-cdc-label"
       ],
-      "market": "大陆直接商品资料对应 500mL 单瓶，现时地区供货及到货包装待核。",
+      "market": "苏宁商品12442715101的题名、净含量和清单对应特级草菇老抽500mL单瓶。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "公共标签数据库样例明确海天股份为委托方、高明海天为受托加工方；当前零售批次仍需重新对应。",
       "image": "images/haday-mushroom-dark500.webp",
       "imageMode": "contain",
@@ -23432,8 +23517,8 @@
       "imageRights": "海天及商品图片相关权利人；苏宁公开展示，具体图片著作权法人未单独确认。图示说明：原始零售单瓶宣传图，图中原料宣传未独立核实；不保证当前包装。",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已核大陆 500mL 单瓶资料；动态可售、销售法人及当前配送范围仍待核，未采用隐藏库存模板。",
+          "status": "supported",
+          "detail": "苏宁商品12442715101的题名、净含量和清单对应特级草菇老抽500mL单瓶。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "haday-dark500-suning"
           ]
@@ -23475,7 +23560,7 @@
       "relationshipSourceIds": [
         "haday-chili300-suning"
       ],
-      "market": "大陆单瓶商品页可核 300g 规格，当前地区供货、新旧包装及批次待核。",
+      "market": "苏宁商品12436178035的题名与清单对应香辣香菇味拌饭酱300g单瓶。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "准确单瓶页及原图明确海天品牌和香辣香菇口味；零售厂址尚未对应可读制造背标。",
       "image": "images/haday-mushroom-chili300.webp",
       "imageMode": "contain",
@@ -23483,8 +23568,8 @@
       "imageRights": "海天及商品图片相关权利人；苏宁公开展示，具体图片著作权法人未单独确认。图示说明：准确单瓶页的黄色封膜示例图，不保证当前到货包装。",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已核 300g×1 直接零售资料和原始单瓶图；现时库存及销售法人待核，未合并双瓶选项。",
+          "status": "supported",
+          "detail": "苏宁商品12436178035的题名与清单对应香辣香菇味拌饭酱300g单瓶。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "haday-chili300-suning"
           ]
@@ -23883,7 +23968,7 @@
         "jiayili-white454-jinjiang2024",
         "nanz-annual2024-labor"
       ],
-      "market": "大陆精幼白砂糖 454g 准确卡片与单包图相符；当前供货及到货版本待核。",
+      "market": "京东10047977738327卡片明确精幼白砂糖454g×1包，并与单袋图片对应。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "南字科技年报对应佳一粒品牌；同名同规格历史样品生产者为南海嘉润，当前到货不直接沿用历史工厂。",
       "image": "images/jiayili-white-sugar454.webp",
       "imageMode": "contain",
@@ -23891,8 +23976,8 @@
       "imageRights": "佳一粒及南字牌品牌及原商品图片相关权利人；京东页面公开展示，具体摄影或设计著作权法人未确认；220px 原始单包图，品名精幼白砂糖，454克由准确卡片和图注确认；制造背标未知。",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "货号 10047977738327 对应精幼白砂糖 454g×1；准确静态卡片不是当前库存证明，销售法人和配送待核。",
+          "status": "supported",
+          "detail": "京东10047977738327卡片明确精幼白砂糖454g×1包，并与单袋图片对应。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "jiayili-white454-jd"
           ]
@@ -23934,7 +24019,7 @@
         "qiaqia-organic-walnut500-jd",
         "qiaqia-yunnan-walnut-2026"
       ],
-      "market": "大陆准确货号标注总重 500g、10袋；当前供货、每袋实物规格与包装批次待核。",
+      "market": "京东100200778405卡片明确有机核桃仁500g/10袋；未将其改写成已核对背标的50g×10。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "准确卡片和原图为洽洽有机核桃仁；云南核桃基地仅提供调查方向，未指定此款原果和成品生产者。",
       "image": "images/qiaqia-organic-walnut500.webp",
       "imageMode": "contain",
@@ -23942,8 +24027,8 @@
       "imageRights": "洽洽品牌及原商品图片相关权利人；京东页面公开展示，具体摄影或设计著作权法人未确认；220px 原始宣传图，总重与十袋来自准确卡片；图中促销价和有机宣称不是本项目核实的现价或认证。",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "卡片 100200778405 为 500g/10袋；原图不能清点整套或独立读出每袋净含量，当前销售法人和地区供货待核。",
+          "status": "supported",
+          "detail": "京东100200778405卡片明确有机核桃仁500g/10袋；未将其改写成已核对背标的50g×10。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "qiaqia-organic-walnut500-jd"
           ]
@@ -23986,7 +24071,7 @@
         "hengdu-beef-jd-2925346",
         "hengdu-mainland-chain-2023"
       ],
-      "market": "京东准确货号 2925346；2 斤按市斤为 1kg，不推断袋数，现时供货地区和可下单结果待核。",
+      "market": "京东牛肉专区2925346卡片对应原切牛腩块2斤、肥瘦比3:7版本。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "零售恒都品牌和集团牛肉业务已有对应线索；尚未将本货号指定到集团某个养殖场、食品厂或包装法人。",
       "image": "images/hengdu-domestic-beef-brisket1kg.webp",
       "imageMode": "contain",
@@ -23994,8 +24079,8 @@
       "imageRights": "恒都品牌及商品图片相关权利人；原图为 350×350 牛腩摆盘宣传，非实物包装。2斤、3:7 来自准确卡片，未从图推断制造者、养殖场或现供批次。",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已核准确大陆零售卡片与 2925346 货号；库存、配送区域、销售主体及当前可下单仍待核。",
+          "status": "supported",
+          "detail": "京东牛肉专区2925346卡片对应原切牛腩块2斤、肥瘦比3:7版本。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "hengdu-beef-jd-2925346"
           ]
@@ -24041,7 +24126,7 @@
         "ningxin-brand-official-index",
         "ningxin-production-employment-2025"
       ],
-      "market": "已核京东准确商品页和自营店同款卡片；现时可下单、配送范围、包装版本和生产批次待核。",
+      "market": "京东可读商品页与店内7213404卡片对应盐池滩羊原切去骨羊腿肉400g。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "宁鑫官网公开索引联系到盐池鑫海，生产报道也指向当地企业；没有把品牌关系和旧生产活动写成该包装的当前制造证明。",
       "image": "images/ningxin-boneless-lamb400.webp",
       "imageMode": "contain",
@@ -24049,8 +24134,8 @@
       "imageRights": "宁鑫品牌及商品图片相关权利人；原图为 220×220 去骨后腿肉摆盘宣传，非可读制造背标。400g 来自准确商品标题，未从缩略标签推断生产者。",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "大陆准确商品页及自营店卡片对应 7213404 和 400g，仍缺当前可下单及地区配送确认。",
+          "status": "supported",
+          "detail": "京东可读商品页与店内7213404卡片对应盐池滩羊原切去骨羊腿肉400g。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "ningxin-lamb-jd-7213404"
           ]
@@ -24095,7 +24180,7 @@
         "guolian-fish-jd-100005639990",
         "guolian-annual-2025"
       ],
-      "market": "京东公开卡片对应准确货号 100005639990；直接货号页当前未读到本款报价与地区库存。",
+      "market": "京东100005639990卡片的题名和图片对应原条黄花鱼净重2斤、3条装。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "准确卡片和原始宣传图对应国联品牌、原条黄花鱼及 2斤／3条；宁德来自销售标题，养殖场与当前制造批次未核。",
       "image": "images/guolian-whole-yellow-croaker1kg.webp",
       "imageMode": "contain",
@@ -24103,8 +24188,8 @@
       "imageRights": "国联水产品牌及原图片相关权利人；具体摄影、设计著作权法人未单独核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "京东准确卡片对应 100005639990；直接页只返回通用内容，当前销售主体、报价、地区库存与配送仍待核。",
+          "status": "supported",
+          "detail": "京东100005639990卡片的题名和图片对应原条黄花鱼净重2斤、3条装。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "guolian-fish-jd-100005639990"
           ]
@@ -24146,7 +24231,7 @@
         "shuanghui-pork-jd-4785602",
         "shuanghui-esg-2025"
       ],
-      "market": "所选京东卡片货号为 4785602；同页另一同名货号另行区分，当前销售主体与地区供货未核。",
+      "market": "京东4785602卡片对应双汇冷冻带皮五花肉净重2斤，未合并另一同名货号。渠道依据不表示所有地区随时有货，也不代替制造和劳动资料。",
       "relationship": "该货号卡片写双汇冷冻带皮五花肉净重 2斤，原图品名一致；未取得制造背标，不指定为望奎或其他关联工厂生产。",
       "image": "images/shuanghui-pork-belly1kg.webp",
       "imageMode": "contain",
@@ -24154,8 +24239,8 @@
       "imageRights": "双汇品牌及原图片相关权利人；具体摄影、设计著作权法人未单独核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已对应京东准确卡片及货号 4785602；直接页仅有通用内容，当前报价、地区库存、配送和销售法人待核。",
+          "status": "supported",
+          "detail": "京东4785602卡片对应双汇冷冻带皮五花肉净重2斤，未合并另一同名货号。已有对应的大陆商品入口；价格、库存和配送以商家所选地区结果为准。",
           "sourceIds": [
             "shuanghui-pork-jd-4785602"
           ]
