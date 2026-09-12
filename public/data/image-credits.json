@@ -6953,6 +6953,81 @@
       },
       "filename": "images/jinweita-multivitamin-glucose-300g.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "mingwei-vegetable-curry-400g",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/488337/20/12076/78055/6a7a7d94Fab825eb6/008332032002e256.jpg",
+      "source_page": "https://www.jd.com/brand/132094f890cb79778eec.html",
+      "product_url": "https://item.jd.com/10232106600642.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 63980,
+      "sha256": "9949aa15e5c1dac1437936931cf406c48c9a27c601abc6e9c4229b3f318b8276",
+      "visually_verified": true,
+      "visual_notes": "已目视核对完整绿色名味包装：蔬菜咖喱角、400克/20粒；保留京东水印。",
+      "reuse_info": {
+        "rights_holder": "名味品牌相关权利人、京东及相关图片权利人",
+        "license": "版权归原权利人所有，未取得开放再授权；不适用本站代码MIT许可。",
+        "attribution": "来源：京东商品10232106600642，仅作可追溯的商品资料插图。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 91689,
+        "sha256": "b9a0529bf316404fb56c44d55c7f6e4a994d3b01a087ddf8edf24d345117dd52"
+      },
+      "filename": "images/mingwei-vegetable-curry-400g.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "mingwei-chicken-curry-400gx3",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/398239/35/15712/90221/69ad5d47F2517654e/00833203205f0445.jpg",
+      "source_page": "https://www.jd.com/brand/132094f890cb79778eec.html",
+      "product_url": "https://item.jd.com/10212486509637.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 57678,
+      "sha256": "5c2c0d6661c5506dad91a5590de12943071cd1071e192fa43c3c3ea081962ec4",
+      "visually_verified": true,
+      "visual_notes": "已目视核对红字鸡肉咖喱角标签及400克/20粒；图为单袋包装，零售条目明确三袋组合。保留水印。",
+      "reuse_info": {
+        "rights_holder": "名味品牌相关权利人、京东及相关图片权利人",
+        "license": "版权归原权利人所有，未取得开放再授权；不适用本站代码MIT许可。",
+        "attribution": "来源：京东商品10212486509637，仅作可追溯的商品资料插图。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 115003,
+        "sha256": "dce8de4cebcf07927fbdf1e93b2db7cec6a1fb419ec6d245b0ad22da5ccee719"
+      },
+      "filename": "images/mingwei-chicken-curry-400gx3.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "mingwei-vegetable-roll-400gx18",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/417200/28/14412/247660/69de8c6cFd13ae131/00835a05a0fe4aee.jpg",
+      "source_page": "https://www.jd.com/tupian/12218f7e87843f3b39ddc.html",
+      "product_url": "https://item.jd.com/10220602439694.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 92874,
+      "sha256": "96e0191f60866fb6e4e8cc13ae039401b2be3fd5e9bb63a76554f3552f1a7ebc",
+      "visually_verified": true,
+      "visual_notes": "已目视核对绿色蔬菜春卷标签、400克/20粒及整箱18包说明；保留零售方的原始文字与水印。",
+      "reuse_info": {
+        "rights_holder": "名味品牌相关权利人、京东及相关图片权利人",
+        "license": "版权归原权利人所有，未取得开放再授权；不适用本站代码MIT许可。",
+        "attribution": "来源：京东商品10220602439694，仅作可追溯的商品资料插图。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 223156,
+        "sha256": "6e0184e107059dd6489be2ba94a8f4ac9e0bd840002cd33dc93ddc37242443ae"
+      },
+      "filename": "images/mingwei-vegetable-roll-400gx18.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

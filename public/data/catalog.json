@@ -5024,9 +5024,9 @@
       "url": "https://www.fuzhou.gov.cn/zgfzzt/srsj/zfxxgkzl/gkml_31841/whjyylshbzcjjydfmdzccsjqssqk/202507/t20250701_5041691.htm",
       "publishedAt": "2025-07-01",
       "checkedAt": "2026-09-12",
-      "locator": "榕人社监〔2025〕10号；A级原始XLSX的Sheet2，序号83（工作表第87行）",
-      "summary": "最终公告经评价、复核公布175家A级企业。原表第83项列福建奔驰汽车有限公司，信用代码91350000717867832M，青口投资区奔驰大道1号；评价结果A级，评价时间2025-06-06，评价部门闽侯县人社局。依据栏记载遵守劳动保障法律法规、未因劳动保障违法行为被查处。",
-      "limitation": "评价覆盖2024年度，公告查阅时标注有效；这不是对2025、2026年用工的再次评价。未取得该法人更晚年度结果，本次将下一次复核设在2026-10-12；此日期是本站复核安排，不是政府评级有效期。"
+      "locator": "榕人社监〔2025〕10号；A级原始XLSX的Sheet2，序号80（工作表第84行）及序号83（第87行）",
+      "summary": "最终公告经评价、复核公布175家A级企业。原表第80项列福建名味食品有限公司，信用代码91350181757374776D，金印村福中路普前新村91号，福清市人社局于2025-06-03评定A级；第83项列福建奔驰汽车有限公司，信用代码91350000717867832M，闽侯县人社局于2025-06-06评定A级。两项依据栏均记载遵守劳动保障法律法规、未因劳动保障违法行为被查处。",
+      "limitation": "评价覆盖2024年度，公告查阅时标注有效；这不是对2025、2026年用工的再次评价。未取得上述法人的更晚年度结果，本站计划2026-10-12前复核；此日期是本站维护安排，不是政府评级有效期。"
     },
     {
       "id": "benz-v300-pilot-official",
@@ -5303,6 +5303,114 @@
       "locator": "800×800原图；绿色单袋包装的名称、净含量及条数。",
       "summary": "完整包装显示金惟他KINGVITA多维葡萄糖固体饮料、300克、10克×30条及独立条装；与政府制造表对应。",
       "limitation": "图片保留商标及水印，只用作规格识别和产品插图。未读取完整配料表，本站不据商家广告判断健康功效。"
+    },
+    {
+      "id": "mingwei-official-mainland-products",
+      "title": "名味食品的境内产品与合作业务",
+      "publisher": "福建名味食品有限公司",
+      "type": "企业官网",
+      "url": "https://www.mingweifood.com/application",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "产品及合作伙伴说明；新加坡总公司工艺、国内零售小包装和春卷、咖喱角等产品线",
+      "summary": "制造商说明其春卷、咖喱角、印度飞饼等产品业务，提及新加坡总公司工艺以及面向家庭零售的小包装。仅用于品牌、产品线和企业背景对应。",
+      "limitation": "按公开索引正文核读；本次官网主页的直接请求返回403，未绕过。企业自述不替代具名政府劳动评价，也不能单独证明具体商品当前库存。"
+    },
+    {
+      "id": "mingwei-fuqing-production2025",
+      "title": "福清第十期食品抽检表中的名味速冻面点制造记录",
+      "publisher": "福清市人民政府网站（食品安全监督抽检栏目）",
+      "type": "政府公示",
+      "url": "https://www.fuqing.gov.cn/xjwz/zwgk/zfxxgkzdgz/wshspypaq/spypjd/202601/P020260116404960701533.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原PDF第10页序号157—159、第15页序号235—238；已目视核对扫描表",
+      "summary": "名味鸡肉咖喱角400克/20粒（2025-09-14）、蔬菜春卷400克/20粒（2025-09-14）、虾肉春卷400克/20粒（2025-09-20）、蔬菜咖喱角400克/20粒（2025-10-09）均具名福建名味食品有限公司及同一福清厂址。表内另列600克/40张春卷皮、200克/10张奶香蛋皮。",
+      "limitation": "用于对应所列生产批次的名称、规格、制造法人和厂址；不是劳动合规证明，也不代表当前销售的是这些历史批次。商标栏为“/”，品牌另与制造商产品说明和零售包装交叉核对。未确定母通告发布日期。"
+    },
+    {
+      "id": "mingwei-vegetable-curry400-jd",
+      "title": "名味蔬菜咖喱角400g单袋的京东购买入口",
+      "publisher": "京东",
+      "type": "零售商品",
+      "url": "https://www.jd.com/brand/132094f890cb79778eec.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "当前商品卡10232106600642；所选规格“蔬菜咖喱角400g”",
+      "summary": "商品卡名称、单袋规格及包装所印“蔬菜咖喱角、400克/20粒”一致，有具体大陆零售入口。",
+      "limitation": "核读的是当前公开商品卡和具体商品号。商品详情直读为通用页面，未执行页面脚本，未核实时库存或提交订单。冷链配送和生产批次需以实际购买条件为准。"
+    },
+    {
+      "id": "mingwei-vegetable-curry-400g-packaging",
+      "title": "蔬菜咖喱角 400g（20粒）单袋的零售包装图",
+      "publisher": "名味品牌及京东零售页面",
+      "type": "零售商品",
+      "url": "https://img30.360buyimg.com/n0/jfs/t1/488337/20/12076/78055/6a7a7d94Fab825eb6/008332032002e256.jpg",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "具体商品10232106600642的包装图；目视核对",
+      "summary": "已目视核对完整绿色名味包装：蔬菜咖喱角、400克/20粒；保留京东水印。",
+      "limitation": "图片用于核对品牌、口味、克重和售卖组合；不能单独证明劳动合规，也不替代实物批次标签。"
+    },
+    {
+      "id": "mingwei-chicken-curry400x3-jd",
+      "title": "名味鸡肉咖喱角400g三袋组合的京东购买入口",
+      "publisher": "京东",
+      "type": "零售商品",
+      "url": "https://www.jd.com/brand/132094f890cb79778eec.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "当前商品卡10212486509637；所选规格“[3包]鸡肉咖喱角400g”",
+      "summary": "具体商品卡为鸡肉款400g三袋组合，包装照片明确“鸡肉咖喱角、400克/20粒”。采用所选口味和规格，不沿用共享标题中的“全素”描述。",
+      "limitation": "核读的是当前公开商品卡和具体商品号。商品详情直读为通用页面，未执行页面脚本，未核实时库存或提交订单。冷链配送和生产批次需以实际购买条件为准。"
+    },
+    {
+      "id": "mingwei-chicken-curry-400gx3-packaging",
+      "title": "鸡肉咖喱角 400g×3袋（每袋20粒）的零售包装图",
+      "publisher": "名味品牌及京东零售页面",
+      "type": "零售商品",
+      "url": "https://img30.360buyimg.com/n0/jfs/t1/398239/35/15712/90221/69ad5d47F2517654e/00833203205f0445.jpg",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "具体商品10212486509637的包装图；目视核对",
+      "summary": "已目视核对红字鸡肉咖喱角标签及400克/20粒；图为单袋包装，零售条目明确三袋组合。保留水印。",
+      "limitation": "图片用于核对品牌、口味、克重和售卖组合；不能单独证明劳动合规，也不替代实物批次标签。"
+    },
+    {
+      "id": "mingwei-vegetable-roll400x18-jd",
+      "title": "名味蔬菜春卷400g十八袋整箱的京东购买入口",
+      "publisher": "京东",
+      "type": "零售商品",
+      "url": "https://www.jd.com/tupian/12218f7e87843f3b39ddc.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "当前商品卡10220602439694；所选规格“整箱18包装蔬菜春卷”",
+      "summary": "当前商品卡及包装宣传图共同明确蔬菜春卷、400g/20粒、整箱18包；本条只对应整箱购买，没有把它记作单袋销售。",
+      "limitation": "核读的是当前公开商品卡和具体商品号。商品详情直读为通用页面，未执行页面脚本，未核实时库存或提交订单。冷链配送和生产批次需以实际购买条件为准。"
+    },
+    {
+      "id": "mingwei-vegetable-roll-400gx18-packaging",
+      "title": "蔬菜春卷 400g×18袋（每袋20粒）的零售包装图",
+      "publisher": "名味品牌及京东零售页面",
+      "type": "零售商品",
+      "url": "https://img30.360buyimg.com/n0/jfs/t1/417200/28/14412/247660/69de8c6cFd13ae131/00835a05a0fe4aee.jpg",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "具体商品10220602439694的包装图；目视核对",
+      "summary": "已目视核对绿色蔬菜春卷标签、400克/20粒及整箱18包说明；保留零售方的原始文字与水印。",
+      "limitation": "图片用于核对品牌、口味、克重和售卖组合；不能单独证明劳动合规，也不替代实物批次标签。"
+    },
+    {
+      "id": "mingwei-shrimp-roll400-jd-mismatch",
+      "title": "名味虾肉春卷400g的京东口味图片冲突",
+      "publisher": "京东",
+      "type": "零售商品",
+      "url": "https://www.jd.com/brand/132094f890cb79778eec.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "当前商品卡10232106600649；题名“虾肉春卷400g”，图片标签却为“鸡肉春卷”",
+      "summary": "已找到具体虾肉春卷400g商品号，但当前图片印有鸡肉春卷，所选口味与图片未对应，购买依据继续待核。",
+      "limitation": "口味图片存在直接冲突，未用共享标题或相邻规格代替核验。此条不构成可购买的同款已确认依据。"
     }
   ],
   "companies": [
@@ -11492,6 +11600,88 @@
           "period": "2024 年度",
           "sourceId": "quangang-labor-2024",
           "limitation": "仅覆盖具名法人及2024年度；2025年度最终名单未列本公司。复核期限是本站安排，不是政府评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "mingwei-fuqing",
+      "name": "名味 · 福清食品厂",
+      "legalName": "福建名味食品有限公司",
+      "location": "福建福清；福清市融侨经济技术开发区宏路街道金印村福中路普前新村91号",
+      "origin": "international",
+      "originNote": "制造商官网提及新加坡总公司工艺；此处按国际企业在华生产记录整理，只对应福建具名制造产品，不对应新加坡或其他境外制造产品。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2024 年劳动守法 A 级",
+      "scope": "福建名味食品有限公司；评价覆盖2024年度。",
+      "finding": "福州最终A级表第80项具名该法人；2025年福清食品制造表列相同法人、厂址及具体速冻面点规格。已匹配两款咖喱角及整箱蔬菜春卷的国内购买入口。",
+      "caveats": [
+        "仅使用2024年度政府评价，尚未取得该法人更晚年度结果；本站计划2026-10-12前复核，复核期限不是政府保证的有效期。",
+        "不延伸到第一家集团的境外工厂、其他制造法人或零售经营者。食品抽检仅用于制造对应，不替代劳动评价。",
+        "零售页面部分相邻口味混用图片；已明确整箱、组合装与单袋规格，虾肉春卷的图片冲突仍待解决。",
+        "境内厂址不能证明每名工人的国籍；政府年度评价不是对未来所有用工行为的保证。"
+      ],
+      "sourceIds": [
+        "fuzhou-labor-2024",
+        "mingwei-fuqing-production2025",
+        "mingwei-official-mainland-products",
+        "mingwei-vegetable-curry400-jd",
+        "mingwei-chicken-curry400x3-jd",
+        "mingwei-vegetable-roll400x18-jd",
+        "mingwei-shrimp-roll400-jd-mismatch",
+        "mingwei-vegetable-curry-400g-packaging",
+        "mingwei-chicken-curry-400gx3-packaging",
+        "mingwei-vegetable-roll-400gx18-packaging",
+        "law-labor-rating"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与大陆零售",
+          "status": "policy",
+          "detail": "制造商列明相应速冻产品线，当前京东条目分别提供单袋蔬菜咖喱角、三袋鸡肉咖喱角及十八袋蔬菜春卷整箱。",
+          "sourceIds": [
+            "mingwei-official-mainland-products",
+            "mingwei-vegetable-curry400-jd",
+            "mingwei-chicken-curry400x3-jd",
+            "mingwei-vegetable-roll400x18-jd"
+          ]
+        },
+        {
+          "stage": "境内制造与劳动评价",
+          "status": "policy",
+          "detail": "福清抽检原表具名制造法人及金印村厂址；福州2024年度A级最终名单列同一法人。",
+          "sourceIds": [
+            "mingwei-fuqing-production2025",
+            "fuzhou-labor-2024"
+          ]
+        },
+        {
+          "stage": "原料、冷链及其他雇主",
+          "status": "unknown",
+          "detail": "原料供应、冷链运输及零售主体的劳动记录尚未逐一核实，不扩大为全供应链评价。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-12前复核更晚年度劳动评价、具体零售规格与当前实物制造标签，并解决虾肉春卷的图片冲突。",
+      "assessments": [
+        {
+          "subject": "福建名味食品有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2024 年度",
+          "sourceId": "fuzhou-labor-2024",
+          "limitation": "仅覆盖具名法人及2024年度；福清市人社局2025-06-03作出评价，福州市2025-07-01最终公告公布。本站复核日期不是政府评级有效期。",
           "kind": "government-labor-rating",
           "grade": "A",
           "status": "current",
@@ -19732,6 +19922,241 @@
       },
       "imageMode": "contain",
       "imageRights": "金惟他品牌相关权利人、京东及相关图片权利人"
+    },
+    {
+      "id": "mingwei-vegetable-curry-400g",
+      "name": "蔬菜咖喱角 400g（20粒）单袋",
+      "brand": "名味",
+      "companyId": "mingwei-fuqing",
+      "category": "food",
+      "needs": [
+        "咖喱角"
+      ],
+      "description": "蔬菜馅咖喱角，400克单袋，共20粒。属于速冻生制面点，按包装说明充分加热后食用，并按要求冷冻保存。",
+      "tags": [
+        "名味",
+        "咖喱角",
+        "速冻面点",
+        "福建",
+        "400g"
+      ],
+      "url": "https://item.jd.com/10232106600642.html",
+      "market": "京东商品10232106600642，所选为400g单袋、20粒。价格、库存、冷链配送范围和实物批次以购买页面为准。",
+      "relationship": "制造商公开产品说明列相应产品线；福清原始抽检表按具体品名、400克/20粒规格对应福建名味食品有限公司及其福清厂址。零售组合数量与单袋制造规格分别记录。",
+      "relationshipSourceIds": [
+        "mingwei-fuqing-production2025",
+        "mingwei-official-mainland-products",
+        "mingwei-vegetable-curry400-jd",
+        "mingwei-vegetable-curry-400g-packaging"
+      ],
+      "image": "images/mingwei-vegetable-curry-400g.webp",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/488337/20/12076/78055/6a7a7d94Fab825eb6/008332032002e256.jpg",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "商品卡名称、单袋规格及包装所印“蔬菜咖喱角、400克/20粒”一致，有具体大陆零售入口。",
+          "sourceIds": [
+            "mingwei-vegetable-curry400-jd",
+            "mingwei-vegetable-curry-400g-packaging"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "福建名味食品有限公司",
+          "detail": "福清原始制造记录第15页第236行，400克/20粒/袋，生产日期2025-10-09，生产者及被抽样单位均为福建名味食品有限公司，厂址为福清市融侨经济技术开发区宏路街道金印村福中路普前新村91号。对应记录中的具体产品，不把旧批次写成当前发货批次。",
+          "sourceIds": [
+            "mingwei-fuqing-production2025",
+            "mingwei-official-mainland-products",
+            "mingwei-vegetable-curry-400g-packaging"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "fuzhou-labor-2024",
+          "detail": "制造法人列福州2024年度最终A级表第80项（Sheet2第84行），福清市人社局2025-06-03评定；仅保留2024年度范围，本站计划2026-10-12前复核。",
+          "sourceIds": [
+            "fuzhou-labor-2024",
+            "law-labor-rating"
+          ]
+        }
+      },
+      "imageMode": "contain",
+      "imageRights": "名味品牌相关权利人、京东及相关图片权利人"
+    },
+    {
+      "id": "mingwei-chicken-curry-400gx3",
+      "name": "鸡肉咖喱角 400g×3袋（每袋20粒）",
+      "brand": "名味",
+      "companyId": "mingwei-fuqing",
+      "category": "food",
+      "needs": [
+        "咖喱角"
+      ],
+      "description": "鸡肉馅咖喱角，400克×3袋，共1.2千克、60粒。按包装说明冷冻保存及充分加热；展示的是单袋包装，购买组合为三袋。",
+      "tags": [
+        "名味",
+        "咖喱角",
+        "速冻面点",
+        "福建",
+        "400g"
+      ],
+      "url": "https://item.jd.com/10212486509637.html",
+      "market": "京东商品10212486509637，选择鸡肉咖喱角400g×3袋组合，共60粒；该款含鸡肉。价格、库存及冷链配送范围以购买页面为准。",
+      "relationship": "制造商公开产品说明列相应产品线；福清原始抽检表按具体品名、400克/20粒规格对应福建名味食品有限公司及其福清厂址。零售组合数量与单袋制造规格分别记录。",
+      "relationshipSourceIds": [
+        "mingwei-fuqing-production2025",
+        "mingwei-official-mainland-products",
+        "mingwei-chicken-curry400x3-jd",
+        "mingwei-chicken-curry-400gx3-packaging"
+      ],
+      "image": "images/mingwei-chicken-curry-400gx3.webp",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/398239/35/15712/90221/69ad5d47F2517654e/00833203205f0445.jpg",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "具体商品卡为鸡肉款400g三袋组合，包装照片明确“鸡肉咖喱角、400克/20粒”。采用所选口味和规格，不沿用共享标题中的“全素”描述。",
+          "sourceIds": [
+            "mingwei-chicken-curry400x3-jd",
+            "mingwei-chicken-curry-400gx3-packaging"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "福建名味食品有限公司",
+          "detail": "福清原始制造记录第10页第157行，400克/20粒/包，生产日期2025-09-14，生产者及被抽样单位均为福建名味食品有限公司，厂址为福清市融侨经济技术开发区宏路街道金印村福中路普前新村91号。对应记录中的具体产品，不把旧批次写成当前发货批次。",
+          "sourceIds": [
+            "mingwei-fuqing-production2025",
+            "mingwei-official-mainland-products",
+            "mingwei-chicken-curry-400gx3-packaging"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "fuzhou-labor-2024",
+          "detail": "制造法人列福州2024年度最终A级表第80项（Sheet2第84行），福清市人社局2025-06-03评定；仅保留2024年度范围，本站计划2026-10-12前复核。",
+          "sourceIds": [
+            "fuzhou-labor-2024",
+            "law-labor-rating"
+          ]
+        }
+      },
+      "imageMode": "contain",
+      "imageRights": "名味品牌相关权利人、京东及相关图片权利人"
+    },
+    {
+      "id": "mingwei-vegetable-roll-400gx18",
+      "name": "蔬菜春卷 400g×18袋（每袋20粒）",
+      "brand": "名味",
+      "companyId": "mingwei-fuqing",
+      "category": "food",
+      "needs": [
+        "速冻春卷"
+      ],
+      "description": "蔬菜馅春卷，每袋400克、20粒；整箱18袋，共7.2千克、360粒。属于大包装速冻食品，购买前留意所需数量和冷冻储存空间。",
+      "tags": [
+        "名味",
+        "速冻春卷",
+        "速冻面点",
+        "福建",
+        "400g"
+      ],
+      "url": "https://item.jd.com/10220602439694.html",
+      "market": "京东商品10220602439694，仅核实整箱18袋规格，总重7.2kg；未核实该条目可拆卖单袋。实际价格、库存及冷链可配送地区以购买页面为准。",
+      "relationship": "制造商公开产品说明列相应产品线；福清原始抽检表按具体品名、400克/20粒规格对应福建名味食品有限公司及其福清厂址。零售组合数量与单袋制造规格分别记录。",
+      "relationshipSourceIds": [
+        "mingwei-fuqing-production2025",
+        "mingwei-official-mainland-products",
+        "mingwei-vegetable-roll400x18-jd",
+        "mingwei-vegetable-roll-400gx18-packaging"
+      ],
+      "image": "images/mingwei-vegetable-roll-400gx18.webp",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/417200/28/14412/247660/69de8c6cFd13ae131/00835a05a0fe4aee.jpg",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前商品卡及包装宣传图共同明确蔬菜春卷、400g/20粒、整箱18包；本条只对应整箱购买，没有把它记作单袋销售。",
+          "sourceIds": [
+            "mingwei-vegetable-roll400x18-jd",
+            "mingwei-vegetable-roll-400gx18-packaging"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "福建名味食品有限公司",
+          "detail": "福清原始制造记录第10页第158行及第15页第235行，400克/20粒，生产日期2025-09-14，生产者及被抽样单位均为福建名味食品有限公司，厂址为福清市融侨经济技术开发区宏路街道金印村福中路普前新村91号。对应记录中的具体产品，不把旧批次写成当前发货批次。",
+          "sourceIds": [
+            "mingwei-fuqing-production2025",
+            "mingwei-official-mainland-products",
+            "mingwei-vegetable-roll-400gx18-packaging"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "fuzhou-labor-2024",
+          "detail": "制造法人列福州2024年度最终A级表第80项（Sheet2第84行），福清市人社局2025-06-03评定；仅保留2024年度范围，本站计划2026-10-12前复核。",
+          "sourceIds": [
+            "fuzhou-labor-2024",
+            "law-labor-rating"
+          ]
+        }
+      },
+      "imageMode": "contain",
+      "imageRights": "名味品牌相关权利人、京东及相关图片权利人"
+    },
+    {
+      "id": "mingwei-shrimp-roll-400g",
+      "name": "虾肉春卷 400g（20粒）",
+      "brand": "名味",
+      "companyId": "mingwei-fuqing",
+      "category": "food",
+      "needs": [
+        "速冻春卷"
+      ],
+      "description": "政府制造记录中的虾肉春卷规格为400克、20粒。现有零售条目的口味与图片冲突，尚未进入正式商品目录。",
+      "tags": [
+        "名味",
+        "速冻春卷",
+        "速冻面点",
+        "福建",
+        "400g"
+      ],
+      "url": "https://item.jd.com/10232106600649.html",
+      "market": "京东商品10232106600649仅保留为调查线索；文字为虾肉款，图片为鸡肉款，尚不能确定当前发售的准确口味。",
+      "relationship": "制造商公开产品说明列相应产品线；福清原始抽检表按具体品名、400克/20粒规格对应福建名味食品有限公司及其福清厂址。零售组合数量与单袋制造规格分别记录。",
+      "relationshipSourceIds": [
+        "mingwei-fuqing-production2025",
+        "mingwei-official-mainland-products",
+        "mingwei-shrimp-roll400-jd-mismatch"
+      ],
+      "image": null,
+      "imageSource": null,
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已找到具体虾肉春卷400g商品号，但当前图片印有鸡肉春卷，所选口味与图片未对应，购买依据继续待核。",
+          "sourceIds": [
+            "mingwei-shrimp-roll400-jd-mismatch"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "福建名味食品有限公司",
+          "detail": "福清原始制造记录第10页第159行，400克/20粒/包，生产日期2025-09-20，生产者及被抽样单位均为福建名味食品有限公司，厂址为福清市融侨经济技术开发区宏路街道金印村福中路普前新村91号。对应记录中的具体产品，不把旧批次写成当前发货批次。",
+          "sourceIds": [
+            "mingwei-fuqing-production2025",
+            "mingwei-official-mainland-products"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "fuzhou-labor-2024",
+          "detail": "制造法人列福州2024年度最终A级表第80项（Sheet2第84行），福清市人社局2025-06-03评定；仅保留2024年度范围，本站计划2026-10-12前复核。",
+          "sourceIds": [
+            "fuzhou-labor-2024",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -19857,9 +20282,17 @@
         {
           "label": "即食熟肉",
           "query": "熟食"
+        },
+        {
+          "label": "咖喱角",
+          "query": "咖喱角"
+        },
+        {
+          "label": "速冻春卷",
+          "query": "速冻春卷"
         }
       ],
-      "note": "30项粮油食品需求均有具体研究资料；面粉、意面、燕麦、酱油、醋、腐乳、饼干、即食蛋和即食熟肉已有正式收录。新增金惟他450g牛奶加钙复合燕麦片，明确包装、制造法人及2024年度劳动评价。大米、食用油等继续补购买与制造依据；25kg面粉的地区配送范围单独列明。",
+      "note": "32项粮油食品需求均有具体研究资料；面粉、意面、燕麦、酱油、醋、腐乳、饼干、即食蛋、即食熟肉、咖喱角及速冻春卷已有正式收录。名味按具体口味及零售数量收录，蔬菜春卷现核实的渠道仅售18袋整箱，虾肉春卷的图片冲突仍待查。大米、食用油等继续补购买与制造依据。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -19947,7 +20380,18 @@
         "quangang-labor-2024",
         "jinweita-milk-oats450-jd",
         "jinweita-milk-oats450-image",
-        "jinweita-milk-oats450-production-2021"
+        "jinweita-milk-oats450-production-2021",
+        "fuzhou-labor-2024",
+        "mingwei-fuqing-production2025",
+        "mingwei-official-mainland-products",
+        "mingwei-vegetable-curry400-jd",
+        "mingwei-chicken-curry400x3-jd",
+        "mingwei-vegetable-roll400x18-jd",
+        "mingwei-shrimp-roll400-jd-mismatch",
+        "mingwei-vegetable-curry-400g-packaging",
+        "mingwei-chicken-curry-400gx3-packaging",
+        "mingwei-vegetable-roll-400gx18-packaging",
+        "law-labor-rating"
       ]
     },
     {
