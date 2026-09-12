@@ -1,17 +1,27 @@
-export type EvidenceLevel = "assessment" | "disclosure" | "hiring" | "research";
+export type EvidenceLevel = "assessment" | "audit" | "disclosure" | "hiring" | "research";
+export type LaborTopic = "contracts" | "pay" | "insurance" | "hours" | "rest" | "protection";
 export interface LaborAssessment {
   subject: string;
   result: string;
   period: string;
   sourceId: string;
   limitation: string;
-  kind?: "government-labor-rating";
+  kind?: "government-labor-rating" | "government-labor-review" | "independent-labor-audit";
   grade?: "A" | "B" | "C";
   periodStart?: string;
   periodEnd?: string;
   reviewedAt?: string;
   reviewDueAt?: string;
   status?: "current" | "withdrawn";
+  conclusion?: "supported" | "unresolved" | "adverse";
+  issuer?: string;
+  scope?: string;
+  scopeType?: "employer" | "facility";
+  facility?: string;
+  verificationSourceId?: string;
+  basisSourceIds?: string[];
+  coverage?: LaborTopic[];
+  validUntil?: string;
 }
 export interface Source {
   id: string;
@@ -82,6 +92,7 @@ export interface AdmissionCheck {
   detail: string;
   sourceIds: string[];
   subject?: string;
+  facility?: string;
   assessmentSourceId?: string;
 }
 export interface Catalog {

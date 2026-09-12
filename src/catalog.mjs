@@ -14,7 +14,40 @@ const today = () => new Date(Date.now() + 8 * 60 * 60 * 1000).toISOString().slic
 const dated = (value) => typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value) &&
   !Number.isNaN(Date.parse(value)) && new Date(value).toISOString().slice(0, 10) === value;
 
-// A government assessment applies to its named employer and assessment period.
+export const laborTopics = {
+  contracts: "劳动合同",
+  pay: "工资与加班报酬",
+  insurance: "社会保险",
+  hours: "工时制度",
+  rest: "休息休假",
+  protection: "劳动保护",
+};
+const assessmentKinds = ["government-labor-rating", "government-labor-review", "independent-labor-audit"];
+const nonempty = (value) => typeof value === "string" && value.trim().length > 0;
+
+// Alternative evidence needs an identifiable reviewer, a checked original record,
+// and a documented review of labor rights, rather than a logo or a recruiting claim.
+export function hasSupportingLaborEvidence(assessment) {
+  if (["unresolved", "adverse"].includes(assessment.conclusion)) return false;
+  if (assessment.kind === "government-labor-rating") return assessment.grade === "A";
+  return Boolean(assessmentKinds.includes(assessment.kind) &&
+    assessment.conclusion === "supported" && nonempty(assessment.issuer) &&
+    nonempty(assessment.scope) && ["employer", "facility"].includes(assessment.scopeType) &&
+    (assessment.scopeType !== "facility" || nonempty(assessment.facility)) &&
+    nonempty(assessment.verificationSourceId) &&
+    Array.isArray(assessment.basisSourceIds) && assessment.basisSourceIds.length > 0 &&
+    Array.isArray(assessment.coverage) &&
+    Object.keys(laborTopics).every((topic) => assessment.coverage.includes(topic)));
+}
+
+export function laborEvidenceLabel(assessment) {
+  if (assessment.kind === "government-labor-rating") return `政府劳动守法 ${assessment.grade} 级`;
+  if (assessment.kind === "government-labor-review") return "政府综合劳动评价";
+  if (assessment.kind === "independent-labor-audit") return "独立劳动审核";
+  return "劳动资料";
+}
+
+// Each assessment applies to its named employer, facility scope and review period.
 // A brand's policies, unknown upstream stages or a weekly schedule alone are not a legal verdict.
 export function getLaborAssessment(product, company, onDate = today()) {
   const labor = product.admission?.productionLabor;
@@ -23,15 +56,21 @@ export function getLaborAssessment(product, company, onDate = today()) {
       production?.status !== "supported" || !production.subject?.trim() ||
       labor?.status !== "supported" || !labor.sourceIds?.includes(labor.assessmentSourceId)) return undefined;
   const assessments = (company.assessments || []).filter((a) =>
-    a.kind === "government-labor-rating" && a.subject === production.subject,
+    assessmentKinds.includes(a.kind) && a.subject === production.subject &&
+    (a.scopeType !== "facility" || (nonempty(a.facility) && a.facility === production.facility)),
   );
   return assessments.find((a) =>
-    a.sourceId === labor.assessmentSourceId && a.grade === "A" && a.status === "current" &&
+    a.sourceId === labor.assessmentSourceId && hasSupportingLaborEvidence(a) && a.status === "current" &&
     [a.periodStart, a.periodEnd, a.reviewedAt, a.reviewDueAt, onDate].every(dated) &&
     a.periodStart <= a.periodEnd && a.periodEnd <= a.reviewedAt &&
     a.reviewedAt <= onDate && onDate < a.reviewDueAt &&
-    !assessments.some((newer) => newer.periodEnd > a.periodEnd ||
-      (newer.periodEnd === a.periodEnd && newer.sourceId !== a.sourceId && newer.reviewedAt >= a.reviewedAt)),
+    (a.validUntil === undefined || (dated(a.validUntil) && onDate <= a.validUntil)) &&
+    !assessments.some((newer) =>
+      dated(newer.periodEnd) && dated(newer.reviewedAt) && newer.reviewedAt <= onDate &&
+      (newer.kind === "government-labor-rating" || newer.conclusion === "adverse" ||
+        Object.keys(laborTopics).every((topic) => newer.coverage?.includes(topic))) &&
+      newer.periodEnd <= newer.reviewedAt && (newer.periodEnd > a.periodEnd ||
+      (newer.periodEnd === a.periodEnd && newer.sourceId !== a.sourceId && newer.reviewedAt >= a.reviewedAt))),
   );
 }
 export function isAdmitted(product, company, onDate = today()) {
@@ -101,7 +140,7 @@ export function selectProducts(data, filters, savedIds = []) {
   });
   if (filters.sort === "name")
     return selected.sort((a, b) => a.name.localeCompare(b.name, "zh-CN"));
-  const priority = { assessment: 0, disclosure: 1, hiring: 2, research: 3 };
+  const priority = { assessment: 0, audit: 1, disclosure: 2, hiring: 3, research: 4 };
   return selected.sort(
     (a, b) =>
       priority[companies.get(a.companyId).level] -
@@ -117,7 +156,7 @@ export function readFilters(search, categoryIds) {
     query: (p.get("q") || "").slice(0, 200),
     need: (p.get("need") || "").slice(0, 50),
     origin: p.get("origin") === "china" ? "china" : "all",
-    evidence: ["assessment", "disclosure", "hiring", "research"].includes(p.get("evidence"))
+    evidence: ["assessment", "audit", "disclosure", "hiring", "research"].includes(p.get("evidence"))
       ? p.get("evidence")
       : "all",
     supply: p.get("supply") === "verified",

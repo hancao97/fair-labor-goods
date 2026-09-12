@@ -2,6 +2,8 @@
 
 整理日期：2026-09-12。采用企业与高校网页、政府正式名单、食品生产许可证、品牌及零售商商品资料核对。数据详见 [`catalog.json`](../public/data/catalog.json)。
 
+最新修正了只允许政府A级的判定和展示，增加政府综合劳动评价、独立劳动审核的评估入口，并约束同款无新线索的重复研究。此改动没有自动升级旧商品资料，详见[劳动证据与研究方法修正](evidence-review-policy.md)。
+
 目前整理 175 条商品与服务资料、114 份企业档案、476 条来源；覆盖 16 个生活领域和 189 项细分需求。按修正后的劳动法口径，24 件正式收录、151 件待核查。详见 [收录规则](admission-standard.md)、[食品收录复核](food-admission-expansion.md) 与 [家居收录复核](nonfood-admission-expansion.md)。后文保留各批调查记录，旧批次的零收录数量和额外门槛不代表当前标准，最新结论以数据为准。研究持续进行；没有把未调查、未查到或证据不足写成合规结论。
 
 最新收录迎驾山泉饮用天然水550mL×24瓶，制造企业、劳动评价及国内零售已对应，并明确年度交叉核对和索引来源的限制，见[饮用水收录复核](yingjia-water-expansion.md)。此前补入[宝锋对讲机](baofeng-electronics-expansion.md)和[纸品、湿巾资料](research-requirements-and-paper.md)。

@@ -747,6 +747,10 @@ input[type="checkbox"] {
   color: #245949;
   background: #e0eee8;
 }
+.badge.audit {
+  color: #365c77;
+  background: #e6eef4;
+}
 .badge.disclosure {
   color: #436c3b;
   background: #eaf2df;

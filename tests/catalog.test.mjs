@@ -10,6 +10,7 @@ import {
   isAdmitted,
   selectAdmittedProducts,
   getCatalogAvailability,
+  laborEvidenceLabel,
 } from "../src/catalog.mjs";
 const data = JSON.parse(
   await readFile(new URL("../public/data/catalog.json", import.meta.url)),
@@ -37,6 +38,93 @@ function assessedProduct() {
   };
   return { company, product };
 }
+function reviewedProduct(kind = "independent-labor-audit") {
+  const { product, company } = assessedProduct();
+  company.level = kind === "independent-labor-audit" ? "audit" : "assessment";
+  const assessment = {
+    ...company.assessments[0], kind, grade: undefined,
+    sourceId: "scoped-labor-review", result: "适用劳动权益审查结论支持",
+    conclusion: "supported", issuer: "示例独立核验机构",
+    scopeType: "facility", facility: "示例制造厂一号厂区",
+    scope: "一号厂区的生产员工，核对适用中国劳动法规",
+    verificationSourceId: "issuer-original-record", basisSourceIds: ["labor-review-criteria"],
+    coverage: ["contracts", "pay", "insurance", "hours", "rest", "protection"],
+  };
+  company.assessments = [assessment];
+  product.admission.chinaProduction.facility = assessment.facility;
+  product.admission.productionLabor.sourceIds = [assessment.sourceId];
+  product.admission.productionLabor.assessmentSourceId = assessment.sourceId;
+  return { product, company, assessment };
+}
+test("scoped government reviews and independent audits can admit goods without a government A rating", () => {
+  for (const kind of ["government-labor-review", "independent-labor-audit"]) {
+    const { product, company, assessment } = reviewedProduct(kind);
+    const catalog = { ...data, products: [product], companies: [company] };
+    assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+    assert.equal(getCatalogAvailability(catalog, defaults, REVIEW_DATE).admittedCount, 1);
+    assert(!laborEvidenceLabel(assessment).includes("A"));
+  }
+});
+test("a recruiting promise, partial wage check or unresolved audit cannot establish overall labor support", () => {
+  for (const change of [
+    { kind: "company-disclosure" }, { coverage: ["pay"] },
+    { verificationSourceId: undefined }, { basisSourceIds: [] },
+    { issuer: "" }, { scope: "" }, { scopeType: undefined },
+    { conclusion: "unresolved" }, { conclusion: "adverse" },
+  ]) {
+    const { product, company, assessment } = reviewedProduct();
+    Object.assign(assessment, change);
+    assert.equal(isAdmitted(product, company, REVIEW_DATE), false, JSON.stringify(change));
+  }
+});
+test("a facility audit cannot be borrowed by a different or unidentified factory of the same employer", () => {
+  const { product, company } = reviewedProduct();
+  for (const facility of [undefined, "示例制造厂二号厂区"]) {
+    product.admission.chinaProduction.facility = facility;
+    assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  }
+});
+test("certificate expiry limits admission even before the site's next review date", () => {
+  const { product, company, assessment } = reviewedProduct();
+  assessment.validUntil = "2026-09-30";
+  assert.equal(isAdmitted(product, company, "2026-09-30"), true);
+  assert.equal(isAdmitted(product, company, "2026-10-01"), false);
+  assessment.validUntil = "2026-99-99";
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  delete assessment.validUntil;
+  assessment.status = "withdrawn";
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+});
+test("a newer adverse labor audit prevents reuse of an older government A rating", () => {
+  const { product, company } = assessedProduct();
+  const { assessment } = reviewedProduct();
+  Object.assign(assessment, { scopeType: "employer", periodEnd: "2026-08-31", conclusion: "adverse" });
+  company.assessments.push(assessment);
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+});
+test("a narrower check does not replace a comprehensive review unless it finds an adverse labor issue", () => {
+  const { product, company } = assessedProduct();
+  const { assessment } = reviewedProduct();
+  Object.assign(assessment, { scopeType: "employer", periodEnd: "2026-08-31", coverage: ["pay"], conclusion: "unresolved" });
+  company.assessments.push(assessment);
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+  assessment.conclusion = "adverse";
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+});
+test("an unrelated factory audit or a future review does not supersede currently applicable evidence", () => {
+  const { product, company, assessment } = reviewedProduct();
+  company.assessments.push({ ...assessment, sourceId: "other-site", facility: "二号厂区", periodEnd: "2026-08-31", conclusion: "adverse" });
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+  company.assessments.push({ ...assessment, sourceId: "future-review", reviewedAt: "2026-10-01", periodEnd: "2026-09-30", conclusion: "adverse" });
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+});
+test("independent-audit filters work and survive shared URLs", () => {
+  const { product, company } = reviewedProduct();
+  const catalog = { ...data, products: [product], companies: [company] };
+  const filters = { ...defaults, evidence: "audit" };
+  assert.deepEqual(readFilters(writeFilters(filters), data.categories.map(c => c.id)), filters);
+  assert.deepEqual(selectProducts(catalog, filters).map(p => p.id), [product.id]);
+});
 test("a scoped government A rating admits a domestic product without 40-hour, double-rest or full-chain prerequisites", () => {
   const { product, company } = assessedProduct();
   assert.equal(hasVerifiedChain(company), false);

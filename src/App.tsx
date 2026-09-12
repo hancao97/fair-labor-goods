@@ -34,6 +34,8 @@ import {
   selectAdmittedProducts,
   getLaborAssessment,
   getCatalogAvailability,
+  laborEvidenceLabel,
+  laborTopics,
 } from "./catalog.mjs";
 import type { Catalog, Product, Source, Filters, EvidenceLevel } from "./types";
 
@@ -43,7 +45,11 @@ const REPO = `https://github.com/${import.meta.env.VITE_REPOSITORY || "hancao97/
 const levels: Record<EvidenceLevel, { name: string; detail: string }> = {
   assessment: {
     name: "政府评价",
-    detail: "有具名法人的劳动保障守法评价；商品须对应同一生产主体，并标明评价年份。",
+    detail: "政府劳动守法评级或符合收录范围的综合劳动评价；逐项对应生产企业、期间和实际评价范围。",
+  },
+  audit: {
+    name: "独立劳动审核",
+    detail: "已核对独立机构的原始审核或认证记录、适用工厂与期间；企业自述通过审核不属于此类。",
   },
   disclosure: {
     name: "制度披露",
@@ -247,7 +253,7 @@ function ProductDetail({
   const sources = [
     ...new Set([
       ...c.sourceIds,
-      ...(c.assessments || []).map((a) => a.sourceId),
+      ...(c.assessments || []).flatMap((a) => [a.sourceId, ...(a.basisSourceIds || []), ...(a.verificationSourceId ? [a.verificationSourceId] : [])]),
       ...product.relationshipSourceIds,
       ...Object.values(product.admission).flatMap((check) => check.sourceIds),
     ]),
@@ -338,7 +344,7 @@ function ProductDetail({
             {Object.entries(admissionLabels).map(([key, label]) => {
               const check = product.admission[key as keyof typeof product.admission];
               return <div key={key} className={key === "productionLabor" && !laborAssessment ? "pending" : check.status}>
-                <strong>{label}<small>{key === "productionLabor" ? (laborAssessment ? "有对应政府评价" : "待补充或复核") : check.status === "supported" ? "有对应来源" : "待补充依据"}</small></strong>
+                <strong>{label}<small>{key === "productionLabor" ? (laborAssessment ? laborEvidenceLabel(laborAssessment) : "待补充或复核") : check.status === "supported" ? "有对应来源" : "待补充依据"}</small></strong>
                 <p>{check.detail}</p>
                 {check.sourceIds.map((id) => <a key={id} href={sourceMap.get(id)!.url} {...external}>{sourceMap.get(id)!.title}<ArrowUpRight size={12} /></a>)}
               </div>;
@@ -366,8 +372,16 @@ function ProductDetail({
                 </div>
                 <div>
                   <dt>劳动判断依据</dt>
-                  <dd>{laborAssessment ? `${laborAssessment.subject}：${laborAssessment.result}（${laborAssessment.period}）。本站于 ${laborAssessment.reviewedAt} 查阅，计划在 ${laborAssessment.reviewDueAt} 前复核；不代表政府保证未来全部用工情况。` : "尚无可用于本商品收录的生产主体劳动评价；详见上方检查与原始来源。"}</dd>
+                  <dd>{laborAssessment ? `${laborAssessment.subject}：${laborAssessment.result}（${laborAssessment.period}）。本站于 ${laborAssessment.reviewedAt} 查阅，计划在 ${laborAssessment.reviewDueAt} 前复核。${laborAssessment.validUntil ? `所引用证书有效截止日：${laborAssessment.validUntil}。` : ""}` : "尚缺可支持本商品收录的劳动依据；政府评级、综合劳动评价及独立审核均可接受核对，详见上方检查与原始来源。"}</dd>
                 </div>
+                {laborAssessment && <div>
+                  <dt>证据范围与局限</dt>
+                  <dd>{laborAssessment.issuer && `核验机构：${laborAssessment.issuer}。`}{laborAssessment.scope && `${laborAssessment.scope}。`}{laborAssessment.facility && `适用工厂：${laborAssessment.facility}。`}{laborAssessment.limitation} 该依据不保证未来所有用工情况。</dd>
+                </div>}
+                {laborAssessment?.coverage && <div>
+                  <dt>劳动权益核对范围</dt>
+                  <dd>{laborAssessment.coverage.map(topic => laborTopics[topic]).join("、")}</dd>
+                </div>}
               </dl>
               <h3 className="minor-title">仍然需要看清的部分</h3>
               <ul className="caveats">
@@ -392,7 +406,7 @@ function ProductDetail({
                 </span>
               </div>
               <p className="help-text">
-                这里继续记录原料、外包与物流等环节。生产企业的劳动守法评价可作为商品收录依据；全供应链追踪是补充信息，不是强制收录条件。
+                这里继续记录原料、外包与物流等环节。生产企业的适用劳动证据用于商品收录判断，全供应链追踪作为补充信息。
               </p>
               <div className="supply-timeline">
                 {c.supply.map((s, i) => (
@@ -432,7 +446,7 @@ function ProductDetail({
           {tab === "sources" && (
             <>
               <p className="help-text">
-                逐条区分政府评价、企业自述、招聘承诺和产品资料。查阅日期不等于评价覆盖期。
+                逐条区分政府评价、独立审核、企业自述、招聘承诺和产品资料。查阅日期不等于证据覆盖期。
               </p>
               <div className="source-list">
                 {sources.map((s) => (
@@ -512,11 +526,11 @@ function ProductCard({
           {product.name}
         </button>
         <p className="product-desc">{product.description}</p>
-        <p className="admission-card-note">{isAdmitted(product, c) ? `生产企业 ${getLaborAssessment(product, c)!.period}劳动守法 A 级` : "待核查 · 不作合规推荐"}</p>
+        <p className="admission-card-note">{isAdmitted(product, c) ? `${laborEvidenceLabel(getLaborAssessment(product, c)!)} · ${getLaborAssessment(product, c)!.period}` : "待核查 · 不作合规推荐"}</p>
         <div className="card-evidence">
           <Badge level={c.level} />
           <span>
-            {c.level === "assessment" ? "评价主体与年份见档案" : c.level === "research"
+            {c.level === "assessment" || c.level === "audit" ? "证据主体与期间见档案" : c.level === "research"
               ? "尚不足以判断"
               : c.level === "hiring"
                 ? "仅适用所述岗位"
@@ -556,14 +570,14 @@ function Method() {
         {[
           ["大陆可以买到", "需要可核验的中国大陆销售渠道与对应型号；海外网页、中文介绍或品牌在华经营不能单独证明商品可购买。"],
           ["中国境内生产或服务", "实体商品需有对应型号或规格的境内制造商依据。餐饮、住宿对应境内具体门店；数字商品对应境内开发及服务团队。批次差异注明适用范围。"],
-          ["依据劳动法判断", "关注合同、工资、社保、工时休息与劳动保护。政府劳动保障守法 A 级评价可作为依据；企业制度和招聘承诺单独不足以判断实际合规。"],
+          ["依据劳动法判断", "关注合同、工资、社保、工时休息与劳动保护。可核对政府守法评级、综合劳动评价和独立劳动审核；企业制度与招聘承诺单独不足以判断实际合规。"],
           [
             "依法安排工时与休息",
             "标准工时为每日 8 小时、每周 40 小时；加班须遵守法定条件、时长和报酬要求。法律不一概要求固定双休，经批准的特殊工时另行核对。",
           ],
           [
-            "对应企业与评价年度",
-            "把商品制造商与评价中的法人逐一对应，保留评价时期、查阅日期和复核日期。总部、关联公司或其他代工厂的评价不互相套用。",
+            "对应企业、工厂与期间",
+            "把商品制造商与证据中的法人逐一对应，工厂限定的审核还需对应同一工厂。保留覆盖期、查阅与复核日期，总部、关联公司或其他代工厂的资料不互相套用。",
           ],
           [
             "继续追踪供应链",
@@ -584,7 +598,7 @@ function Method() {
             <article key={k}>
               <Badge level={k as EvidenceLevel} />
               <h3>
-                {k === "assessment" ? "查得到政府评价" : k === "disclosure"
+                {k === "assessment" ? "查得到政府评价" : k === "audit" ? "核对了独立审核" : k === "disclosure"
                   ? "查得到制度"
                   : k === "hiring"
                     ? "找到了岗位承诺"
@@ -606,7 +620,10 @@ function Method() {
       <section className="method-section text-section">
         <h2>符合劳动法，如何转化为收录标准？</h2>
         <p>
-          以对应生产企业的政府劳动保障守法评价支持收录，并展示评价对象和年度。A 级评价涉及合同、工时休息、工资、社保等情况；它是有范围的行政评价，不是对每一批商品或未来所有劳动行为的保证。
+          政府劳动保障守法 A 级是可用依据之一。符合范围要求的政府综合劳动评价、独立机构劳动审核，也可支持收录。逐项展示出具机构、原始依据、适用企业或工厂、覆盖期间与局限。
+        </p>
+        <p>
+          综合评价和独立审核需核对合同、工资与加班报酬、社保、工时、休息和劳动保护的覆盖范围，以及适用的中国劳动要求。只涉及欠薪一项的证明、证书宣传图或“通过审核”的企业自述，仍不足以支持整体劳动判断。未解决的问题、撤回和到期记录须继续复核。
         </p>
         <p>
           《劳动法》第 38 条规定每周至少休息一日，第 41、44 条规定加班条件、时长与报酬；特殊工时依审批和适用规则核对。本站不再另加“必须双休、含加班也不能超过 40 小时”的门槛。
@@ -621,14 +638,16 @@ function Method() {
         </a>
         <a href={sourceMap.get("law-labor")!.url} {...external} className="text-button">阅读《劳动法》<ArrowUpRight size={15} /></a>
         <a href={sourceMap.get("law-labor-rating")!.url} {...external} className="text-button">阅读劳动保障守法评价办法<ArrowUpRight size={15} /></a>
+        <a href="https://www.mohrss.gov.cn/SYrlzyhshbzb/ztzl/xsdhxldgx/zcwj/202301/t20230103_492690.html?bsh_bid=5907708910" {...external} className="text-button">查看和谐劳动关系评价框架<ArrowUpRight size={15} /></a>
+        <a href="https://sa-intl.org/resources/sa8000-standard/" {...external} className="text-button">查看独立劳动审核框架示例<ArrowUpRight size={15} /></a>
       </section>
       <section className="method-section text-section">
         <h2>什么样的证据值得保留？</h2>
         <p>
-          优先查找具体生产企业的政府劳动守法评价，再核对原始制度、上市公司报告、生产岗位资料与实际劳动记录。政府评价保留所列法人和评价年份；高校转载的企业招聘仍是企业承诺。匿名评价只能作为继续调查的线索。
+          从具体生产企业查起，同时查看政府评价、独立审核及公开劳动资料。政府最终评价保留所列法人和时期；独立审核核对原始报告或可查验的发证记录、核验机构与适用工厂。上市公司制度和招聘用于补充，不能自动升级为实际合规结论。
         </p>
         <p>
-          每条记录包含资料主体、发布日期、查阅日期、适用范围和例外。政府评价设置本站复核日期，届时尚未复核的商品退回待核查；复核期限不是政府认定的有效期。出现更新评价或相反证据，应重新判断并及时撤回不再适用的依据。
+          每条记录包含资料主体、发布日期、查阅日期、适用范围和例外。所有收录依据设置本站复核日期；证书还核对其有效截止日。到期未复核的商品回到待核查区，本站期限不替代发证机构的有效期。出现更新评价或相反证据，应重新判断并及时撤回不再适用的依据。
         </p>
       </section>
       <section className="contribution-panel">
@@ -857,7 +876,7 @@ export default function App() {
                     <strong>
                       有据
                     </strong>
-                    <span>核对生产企业与政府评价</span>
+                    <span>核对生产企业与劳动依据</span>
                   </div>
                 </div>
                 <a href="#/method">
@@ -1041,7 +1060,7 @@ export default function App() {
               <div className="evidence-note">
                 <BookOpen size={17} />
                 <p>
-                  {filters.saved ? "收藏不改变商品的收录状态。正式收录与待核查资料会分别标注。" : researching ? "本区商品仍有购买渠道、生产主体或劳动评价需要补充。资料不足不代表企业违法。" : "已对应大陆销售、境内生产企业及其政府劳动守法评价。评价对象、年度和来源可在每件商品中查看。"}
+                  {filters.saved ? "收藏不改变商品的收录状态。正式收录与待核查资料会分别标注。" : researching ? "本区商品仍有购买渠道、生产主体或劳动依据需要补充。资料不足不代表企业违法。" : "已对应大陆销售、境内生产企业及适用的劳动证据。依据类型、对象、期间和来源可在每件商品中查看。"}
                 </p>
                 <a href="#/method" aria-label="了解资料分级">
                   <CircleHelp size={17} />
@@ -1232,8 +1251,8 @@ export default function App() {
                 <span>有岗位线索</span>
               </div>
               <div>
-                <b>{data.companies.filter((c) => c.level === "assessment").length}</b>
-                <span>有政府守法评价</span>
+                <b>{data.companies.filter((c) => c.level === "assessment" || c.level === "audit").length}</b>
+                <span>有劳动评价或审核</span>
               </div>
             </div>
             <label className="search full-search">
@@ -1264,7 +1283,7 @@ export default function App() {
                   {c.assessments?.map((a) => <div className="official-assessment" key={a.sourceId + a.subject}>
                     <strong>{a.result}<span>{a.period}</span></strong>
                     <p>评价对象：{a.subject}。{a.limitation}</p>
-                    <a href={sourceMap.get(a.sourceId)!.url} {...external}>查看政府原始记录<ArrowUpRight size={13} /></a>
+                    <a href={sourceMap.get(a.sourceId)!.url} {...external}>查看原始依据<ArrowUpRight size={13} /></a>
                   </div>)}
                   <dl>
                     <div>

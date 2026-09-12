@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import { readFile, access } from "node:fs/promises";
-import { getLaborAssessment, selectAdmittedProducts } from "../src/catalog.mjs";
+import { getLaborAssessment, hasSupportingLaborEvidence, laborTopics, selectAdmittedProducts } from "../src/catalog.mjs";
+import { validateLaborEvidenceSources } from "./labor-evidence-sources.mjs";
 
 const data = JSON.parse(
   await readFile(new URL("../public/data/catalog.json", import.meta.url)),
@@ -58,7 +59,7 @@ for (const s of data.sources) {
 for (const c of data.companies) {
   assert(["china", "international", "unconfirmed"].includes(c.origin));
   text(c.originNote, `${c.id}.originNote`);
-  assert(["assessment", "disclosure", "hiring", "research"].includes(c.level));
+  assert(["assessment", "audit", "disclosure", "hiring", "research"].includes(c.level));
   [
     "name",
     "legalName",
@@ -75,21 +76,37 @@ for (const c of data.companies) {
     ["subject", "result", "period", "limitation"].forEach((key) => text(assessment[key], `${c.id}.assessment.${key}`));
     refs([assessment.sourceId]);
     if (assessment.kind) {
-      assert.equal(assessment.kind, "government-labor-rating");
-      assert(["A", "B", "C"].includes(assessment.grade));
+      assert(["government-labor-rating", "government-labor-review", "independent-labor-audit"].includes(assessment.kind));
+      if (assessment.kind === "government-labor-rating") {
+        assert(["A", "B", "C"].includes(assessment.grade));
+      } else {
+        assert(["supported", "unresolved", "adverse"].includes(assessment.conclusion));
+        for (const key of ["issuer", "scope", "verificationSourceId"]) text(assessment[key], `${c.id}.assessment.${key}`);
+        assert(["employer", "facility"].includes(assessment.scopeType));
+        if (assessment.scopeType === "facility") text(assessment.facility, `${c.id}.assessment.facility`);
+        refs([assessment.verificationSourceId]);
+        refs(assessment.basisSourceIds);
+        assert(assessment.basisSourceIds.length > 0);
+        assert(Array.isArray(assessment.coverage));
+        assert(new Set(assessment.coverage).size === assessment.coverage.length);
+        assessment.coverage.forEach(topic => assert(Object.hasOwn(laborTopics, topic)));
+        if (assessment.conclusion === "supported") assert(hasSupportingLaborEvidence(assessment), `${c.id}: incomplete labor review`);
+      }
       assert(["current", "withdrawn"].includes(assessment.status));
       for (const key of ["periodStart", "periodEnd", "reviewedAt", "reviewDueAt"]) date(assessment[key]);
       assert(assessment.periodStart <= assessment.periodEnd);
       assert(assessment.periodEnd <= assessment.reviewedAt);
       assert(assessment.reviewedAt <= data.updatedAt);
       assert(assessment.reviewDueAt > assessment.reviewedAt);
-      const source = data.sources.find((s) => s.id === assessment.sourceId);
-      assert.equal(source.type, "政府评价");
-      assert(new URL(source.url).hostname.endsWith(".gov.cn"));
-      assert(source.publishedAt && source.publishedAt <= assessment.reviewedAt);
+      if (assessment.validUntil !== undefined) {
+        date(assessment.validUntil);
+        assert(assessment.validUntil >= assessment.periodEnd);
+      }
+      validateLaborEvidenceSources(assessment, data.sources);
     }
   }
-  if (c.level === "assessment") assert(c.assessments?.some((a) => a.kind === "government-labor-rating"));
+  if (c.level === "assessment") assert(c.assessments?.some((a) => ["government-labor-rating", "government-labor-review"].includes(a.kind)));
+  if (c.level === "audit") assert(c.assessments?.some((a) => a.kind === "independent-labor-audit"));
   assert(c.caveats.length > 0);
   assert(c.supply.length >= 3);
   for (const s of c.supply) {
@@ -127,7 +144,7 @@ for (const p of data.products) {
   }
   if (p.admission.productionLabor.status === "supported") {
     assert(getLaborAssessment(p, data.companies.find((c) => c.id === p.companyId), data.updatedAt),
-      `${p.id}: labor evidence must match the producer and a current, dated government A rating`);
+      `${p.id}: labor evidence must match the producer, facility scope and a current, supported labor review`);
   }
   if (p.image) {
     assert(/^images\/[a-z0-9-]+\.webp$/.test(p.image));

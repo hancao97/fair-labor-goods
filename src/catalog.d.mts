@@ -1,5 +1,8 @@
-import type { Catalog, Company, Product, Filters, LaborAssessment } from "./types";
+import type { Catalog, Company, Product, Filters, LaborAssessment, LaborTopic } from "./types";
 export const defaults: Filters;
+export const laborTopics: Record<LaborTopic, string>;
+export function hasSupportingLaborEvidence(assessment: LaborAssessment): boolean;
+export function laborEvidenceLabel(assessment: LaborAssessment): string;
 export function getLaborAssessment(product: Product, company: Company, onDate?: string): LaborAssessment | undefined;
 export function isAdmitted(product: Product, company: Company, onDate?: string): boolean;
 export function selectAdmittedProducts(data: Catalog, onDate?: string): Product[];
