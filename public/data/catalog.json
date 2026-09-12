@@ -7955,6 +7955,66 @@
       "locator": "标题为2021年经济技术开发区劳动人事争议仲裁院开庭日程，第580项",
       "summary": "读取官方公开索引，该项以膳魔师江苏为被申请人，案由劳动报酬；页面没有列该案裁决结论。仅保存用人单位及事项，不转载劳动者个人信息。",
       "limitation": "页面发布日期为2024年，标题为2021年日程，不能据此改写为2024年欠薪认定。开庭信息既不等于企业违法成立，也不能证明企业在争议中胜诉；未取得该案裁决。"
+    },
+    {
+      "id": "joyland-harmony-result2023",
+      "title": "嬉戏族2023年省优秀劳动关系和谐企业的政府具名结果",
+      "publisher": "常州市武进区人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.wj.gov.cn/html/czwj/2024/BEAIQHIC_0102/475105.html",
+      "publishedAt": "2024-01-02",
+      "checkedAt": "2026-09-13",
+      "locator": "《书写和谐创建新篇章——2023年武进区劳动关系工作回眸》“和谐劳动关系创建取得新突破”段",
+      "summary": "区人社局2023年工作回顾明确记载嬉戏族集团有限公司获评江苏省优秀劳动关系和谐企业，并介绍参创辅导与三方协调工作。该记录是已命名结果，不是拟推荐名单。",
+      "limitation": "已读取政府原页公开索引全文；直接HTTP返回403后停止。2024-01-02是工作回顾公布日，评价属于2023年工作；完整审查起止日及企业逐项评分未公开，不补造2026年新评价。"
+    },
+    {
+      "id": "joyland-operator-tax2022",
+      "title": "武进税务具名说明环球动漫嬉戏谷运营企业",
+      "publisher": "常州市武进区税务局；中国江苏网",
+      "type": "政府经营资料",
+      "url": "https://jsnews.jschina.com.cn/jssw/202208/t20220824_3061981.shtml",
+      "publishedAt": "2022-08-24",
+      "checkedAt": "2026-09-13",
+      "locator": "《武进税务：税动力助燃文旅产业暑期经济》第二段",
+      "summary": "税务局署名稿明确环球动漫嬉戏谷是嬉戏族集团有限公司投建运营的经营项目，位置在常州武进太湖湾。用于将具体景区服务对应到运营法人。",
+      "limitation": "读取刊发原页公开索引全文；直接HTTP返回403后停止。这是2022年的运营对应资料，减税及企业经营描述本身不构成劳动合规结果。"
+    },
+    {
+      "id": "joyland-current-employer2026",
+      "title": "嬉戏族2026园区夏季工服采购公告",
+      "publisher": "常州市公共资源交易中心武进分中心",
+      "type": "政府经营资料",
+      "url": "https://ggzy.changzhou.gov.cn/wjfzx/jyxx/005007/005007002/005007002001/20260427/da301f05-cf73-4bd3-bd78-e06767b2b0ba.html",
+      "publishedAt": "2026-04-27",
+      "checkedAt": "2026-09-13",
+      "locator": "项目wj202604055的名称、采购人及地址",
+      "summary": "政府交易平台2026年公告仍以嬉戏族集团有限公司为园区夏季工服采购人，列常州市武进区雪堰镇地址，补充同一境内园区经营主体的近期记录。",
+      "limitation": "已读取政府公开索引全文，没有登录采购系统。采购公告不等于成交或交付记录，投标资格要求不是对采购人劳动合规的评价，也不覆盖服装供应商。"
+    },
+    {
+      "id": "joyland-sse-business2024",
+      "title": "交易所募集说明书中的嬉戏族旅游服务业务",
+      "publisher": "江苏武进经济发展集团有限公司；上海证券交易所",
+      "type": "法定经营披露",
+      "url": "https://static.sse.com.cn/bond/bridge2/disclosure/announcement/c/202411/050844_20241128_Y7VF.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "2024年公司债券募集说明书，PDF第95页、印刷第94页“其他服务”",
+      "summary": "直接取得交易所托管的279页原始PDF并目视核对该页。发行人将嬉戏族集团有限公司提供的旅游服务列为其其他服务收入来源，补充核对该公司的实际业务。",
+      "limitation": "文件为2024年募集说明书，未从路径推造具体公布日。该段是发行人的经营披露，未细分每个园区或外包岗位，不用其偿债或无重大违法描述代替劳动评价。"
+    },
+    {
+      "id": "joyland-adult-qunar-current",
+      "title": "环球动漫嬉戏谷成人标准门票的国内销售条目",
+      "publisher": "去哪儿网；页面所列供应商携程-国内",
+      "type": "大陆零售资料",
+      "url": "https://touch.piao.qunar.com/touch/detail.htm?id=33624",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "景区33624；成人票产品2571542767、报价1356198145、供应商23832",
+      "summary": "直接读取公开HTML，确认常州武进太北路1号的嬉戏谷门票成人票-标准价，有预订链接及随买随用、随时退、无需换票标签。使用具体成人票条目，不以电子讲解或酒店套餐代替门票。",
+      "limitation": "价格及条件随所选日期和供应商变化，目录不保存固定票价。页面另有需提前预订的成人报价，不能混用其条件；未读取动态预订须知或进行下单，不承诺全部项目、另售水区或任意日期均可使用。"
     }
   ],
   "companies": [
@@ -18095,6 +18155,95 @@
         }
       ],
       "nextCheck": "2026-10-13前复查具名劳动结果。出现本款杯底TJC/TCC代码、明确制造商的零售标签或新抽检行时再补型号对应；暂停同款无新线索的重复检索。"
+    },
+    {
+      "id": "joyland-xixizu",
+      "name": "环球动漫嬉戏谷运营公司",
+      "legalName": "嬉戏族集团有限公司",
+      "location": "江苏省常州市武进区太北路1号，环球动漫嬉戏谷",
+      "origin": "china",
+      "originNote": "在中国常州经营的境内文旅企业，按当地园区服务及实际用人单位整理。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "综合评价包含工时",
+      "restLabel": "综合评价包含休息休假",
+      "cardNote": "2023年省优秀劳动关系和谐企业",
+      "scope": "嬉戏族集团有限公司的常州乐园运营；具体收录成人标准门票对应的游览服务。",
+      "finding": "区人社局具名结果与适用的江苏综合评价标准已对应；税务局运营说明、经营披露和近期园区采购公告交叉确认境内主体，国内具体成人票入口已核对。",
+      "caveats": [
+        "评价属于2023年工作，2024-01-02公开；完整审查期间未公开，未取得更新的具名综合结果。",
+        "劳动依据限嬉戏族集团有限公司，不自动覆盖票务代理、酒店、外包企业或其他关联法人。",
+        "票种及使用条件以选定日期和渠道预订须知为准，未将电子讲解、酒店套餐及另售项目作为同一张门票。"
+      ],
+      "sourceIds": [
+        "joyland-harmony-result2023",
+        "jiangsu-harmony-standard2019",
+        "joyland-operator-tax2022",
+        "joyland-current-employer2026",
+        "joyland-sse-business2024",
+        "joyland-adult-qunar-current"
+      ],
+      "supply": [
+        {
+          "stage": "票务渠道",
+          "status": "policy",
+          "detail": "去哪儿列具体成人标准门票，供应商为携程-国内；这里只核对国内销售入口。",
+          "sourceIds": [
+            "joyland-adult-qunar-current"
+          ]
+        },
+        {
+          "stage": "常州园区运营",
+          "status": "verified",
+          "detail": "税务局明确嬉戏族运营环球动漫嬉戏谷，同一法人具有2023年政府综合劳动评价。",
+          "sourceIds": [
+            "joyland-operator-tax2022",
+            "joyland-harmony-result2023",
+            "jiangsu-harmony-standard2019",
+            "joyland-current-employer2026"
+          ]
+        },
+        {
+          "stage": "外包与其他关联服务",
+          "status": "unknown",
+          "detail": "设备供应、外包岗位及其他法人经营的服务没有沿用本公司的劳动评价。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "assessments": [
+        {
+          "kind": "government-labor-review",
+          "conclusion": "supported",
+          "subject": "嬉戏族集团有限公司",
+          "result": "江苏省优秀劳动关系和谐企业（2023年政府具名工作记录）",
+          "period": "2023年评价工作；2024-01-02公布，完整审查起止日未公开",
+          "sourceId": "joyland-harmony-result2023",
+          "resultPublishedAt": "2024-01-02",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "issuer": "常州市武进区人力资源和社会保障局（省级评价具名结果发布机关）",
+          "scopeType": "employer",
+          "scope": "嬉戏族集团有限公司的劳动关系综合评价，适用于已对应的常州园区运营服务。",
+          "verificationSourceId": "joyland-harmony-result2023",
+          "basisSourceIds": [
+            "jiangsu-harmony-standard2019"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ],
+          "limitation": "采用具名最终结果和江苏2019版综合评价标准，未取得单项得分或更新的具名综合结果。本站复查日期不是政府规定的有效期，2023年评价不构成此后全部用工行为的保证。"
+        }
+      ],
+      "nextCheck": "2026-10-13前复查更新的具名劳动结果、主体变更和适用的相反事实；票种与使用条件按实际出行日期确认。"
     }
   ],
   "products": [
@@ -18694,7 +18843,7 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "大陆官网列有 225g 规格并链接品牌天猫店；尚未锁定此规格当前可下单条目和区域库存。",
+          "detail": "大陆官网列225g规格并链接品牌天猫店；尚未将该入口对应到此规格的具体销售条目。实时库存证明不作为额外要求。",
           "sourceIds": [
             "darlie-mint-product"
           ]
@@ -22560,7 +22709,7 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "大陆官网有明确款式和品牌店入口；尚未取得同款当前可下单页面与区域库存。",
+          "detail": "大陆官网有明确款式和品牌店入口；尚未取得同款具体销售条目，实时库存证明不作为额外要求。",
           "sourceIds": [
             "darlie-charcoal-product"
           ]
@@ -30401,6 +30550,64 @@
           ]
         }
       }
+    },
+    {
+      "id": "joyland-adult-standard-ticket",
+      "name": "环球动漫嬉戏谷 · 成人标准门票",
+      "brand": "环球动漫嬉戏谷",
+      "companyId": "joyland-xixizu",
+      "category": "culture",
+      "description": "江苏常州环球动漫嬉戏谷的成人标准门票，游览日期与可用项目按所选票种确认。",
+      "tags": [
+        "景区",
+        "主题乐园",
+        "成人票",
+        "常州",
+        "嬉戏谷"
+      ],
+      "needs": [
+        "景区"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "url": "https://touch.piao.qunar.com/touch/detail.htm?id=33624",
+      "market": "去哪儿景区33624内选择“嬉戏谷门票成人票-标准价”，本次对应产品2571542767、供应商“携程-国内”。查阅条目标注随买随用、随时退、无需换票；价格、适用日期及详细规则以所选报价和预订须知为准。",
+      "relationship": "武进区税务局明确环球动漫嬉戏谷由嬉戏族集团有限公司投建运营，近期园区记录与境内地址相符；门票对应常州武进太北路1号的同一乐园。",
+      "relationshipSourceIds": [
+        "joyland-operator-tax2022",
+        "joyland-current-employer2026",
+        "joyland-adult-qunar-current"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "直接读取国内票务页面，取得具名乐园、具体成人标准票及预订链接；不额外要求实时结算或所有日期均有库存。",
+          "sourceIds": [
+            "joyland-adult-qunar-current"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "嬉戏族集团有限公司",
+          "detail": "游览服务在江苏常州提供；税务局明确同一具名公司运营该乐园，2026年园区公告补充近期主体记录。",
+          "sourceIds": [
+            "joyland-operator-tax2022",
+            "joyland-current-employer2026",
+            "joyland-adult-qunar-current"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "joyland-harmony-result2023",
+          "detail": "同一运营法人获2023年省优秀劳动关系和谐企业评价，政府工作回顾于2024-01-02明确公布；以江苏综合评价标准核对权益范围。",
+          "sourceIds": [
+            "joyland-harmony-result2023",
+            "jiangsu-harmony-standard2019"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -31735,7 +31942,7 @@
           "query": "演出"
         }
       ],
-      "note": "文化娱乐9项需求均有具体研究资料。石牛山成人首道门票已正式收录；新华字典第13版双色本、腾讯视频VIP和网易云音乐黑胶VIP的iOS月度订阅保留印刷或劳动缺口；砀山万达分店劳动依据已对应，当前售票场次仍待核。会员运营不等于全部影视、音乐内容国产。",
+      "note": "文化娱乐9项需求均有具体研究资料。正式收录石牛山成人首道门票、常州环球动漫嬉戏谷成人标准门票，均属于景区需求；新增乐园不代表图书、影视、音乐、玩具或演出已正式覆盖。字典、会员及影院等既有资料继续保留各自制造、劳动或售票缺口。",
       "sourceIds": [
         "national-harmony-2022",
         "vista-hiring",
@@ -31755,7 +31962,11 @@
         "cloudmusic-ios-black-vip-monthly",
         "tencent-video-membership-ios-current",
         "tencent-video-operator-terms-2022",
-        "tencent-video-ios-vip-monthly"
+        "tencent-video-ios-vip-monthly",
+        "joyland-harmony-result2023",
+        "jiangsu-harmony-standard2019",
+        "joyland-operator-tax2022",
+        "joyland-adult-qunar-current"
       ]
     },
     {
