@@ -7130,6 +7130,84 @@
       },
       "filename": "images/yingjia-natural-water-550mlx24.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "chahua-xl330-storage-bags-330",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/378644/3/1538/128474/693a1c11F3065ee16/c9d42337f2cefddf.jpg",
+      "source_url": "https://www.jd.com/brand/61964dde719d2f42b30f.html?brand=%E8%8C%B6%E8%8A%B1%EF%BC%88CHAHUA%EF%BC%89&electedExtAttrSet=&extAttrValue=expand_name%2C&sort_type=sort_redissale_desc",
+      "product_url": "https://item.jd.com/100221833807.html",
+      "title": "一大卷保鲜袋XL330 · 30×40cm、330只单卷",
+      "width": 220,
+      "height": 220,
+      "bytes": 12128,
+      "sha256": "0d2066799f1f615dd2d72e86ecc7659011652e8eaec49963bca3f50311458429",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已查看原始220×220卡片图，显示茶花330只大卷包装与两卷摆放。零售单位以330只单卷标题为准，图片不保证两卷装或加赠数量。",
+      "reuse_info": {
+        "rights_holder": "茶花／京东商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目MIT许可。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 25926,
+        "sha256": "e0235652f94136a1482daff830e1d2e0ae45f42022dfd790ab4979392c28ac41"
+      },
+      "filename": "images/chahua-xl330-storage-bags-330.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "chahua-m60-cling-film-25cm-60m",
+      "image_url": "https://www.chahuajj.com/UserFiles/upload/image/20210817/305009(1).jpg",
+      "source_url": "https://www.chahuajj.com/ProductInfo.aspx?Id=10426",
+      "product_url": "https://m.suning.com/product/0071619031/12443118784.html",
+      "title": "优易撕保鲜膜M60 · 25cm×60m单卷",
+      "width": 824,
+      "height": 596,
+      "bytes": 15678,
+      "sha256": "1664b168950730499f857b5996074f43227ff018512605bbdd90e6ab655d3145",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已查看品牌M60原始824×596图，为25cm×60m单卷PE保鲜膜；型号由引用该图的品牌商品页对应。没有从图片推断制造法人或劳动条件。",
+      "reuse_info": {
+        "rights_holder": "茶花商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目MIT许可。"
+      },
+      "source_image_metadata": {
+        "width": 824,
+        "height": 596,
+        "bytes": 30507,
+        "sha256": "085ce654505f2d140e99c691282001b57e0ce3900fff34ec55b822c26c61e32f"
+      },
+      "filename": "images/chahua-m60-cling-film-25cm-60m.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "suncha-carbonized-chopsticks-long-50pairs",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/513807/21/11124/157446/6aa220dfFfb38e500/0083320320b87d90.jpg",
+      "source_url": "https://www.jd.com/brand/6196cfc7a4f4667b46b4.html",
+      "product_url": "https://item.jd.com/100344662982.html",
+      "title": "一次性碳化竹筷 · 加长加粗50双装",
+      "width": 220,
+      "height": 220,
+      "bytes": 17412,
+      "sha256": "d5b45c604451cd8c8ca256bc014138418d6881d264764c81149cec7c2bd1ab14",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已查看原始220×220卡片图，显示盒装碳化竹筷50双及加长加粗宣传。图片促销不作为当前价格或性能承诺；无可读制造标签和准确长度。",
+      "reuse_info": {
+        "rights_holder": "双枪／京东商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目MIT许可。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 31527,
+        "sha256": "037bad9e41e50a1d62edf33d0f49ad27a4b3b946df93d0cf41c34727321d9458"
+      },
+      "filename": "images/suncha-carbonized-chopsticks-long-50pairs.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

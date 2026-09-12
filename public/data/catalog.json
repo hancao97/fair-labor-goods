@@ -5795,6 +5795,162 @@
       "locator": "查阅日原始HTML中商品号10177006762985，550ml×24瓶及“新老包装随机”标题、链接和主图",
       "summary": "京东公开目录原始卡片列出迎驾山泉野岭剐水550mL×24瓶，指向独立商品号10177006762985；图片为迎驾山泉饮用天然水瓶及整箱包装。",
       "limitation": "商品详情直接请求只返回网站框架，销售依据为查阅日京东公开商品目录。未核实具体地区库存、价格和配送；新老包装随机，购买时应核对实物制造商、品名和容量。零售营销中的弱碱性等表述不作为健康功效依据。"
+    },
+    {
+      "id": "fuzhou-kitchen-quality-2025-notice",
+      "title": "福州市2025年生产领域产品质量监督抽查通告",
+      "publisher": "福州市市场监督管理局",
+      "type": "政府抽查通告",
+      "url": "https://scjg.fuzhou.gov.cn/zwgk/tzgg/202511/t20251110_5229236.htm",
+      "publishedAt": "2025-11-10",
+      "checkedAt": "2026-09-12",
+      "locator": "正文“生产领域”及附件《2025年福州市产品质量监督抽查检验结果表》",
+      "summary": "通告说明在生产领域抽查157家企业的225批次产品，并公开对应结果表；用于确认本批表格中的企业角色和调查范围。",
+      "limitation": "通告原始HTML已取得；XLSX附件两次直接请求均超时，表内茶花条目采用明确署名中国质量新闻网的新浪转载。质量抽查不属于劳动评价。"
+    },
+    {
+      "id": "chahua-fuzhou-quality-2025-reprint",
+      "title": "福州2025年生产抽查表转载：茶花XL330保鲜袋及M60保鲜膜",
+      "publisher": "中国质量新闻网；新浪财经转载",
+      "type": "政府抽查表转载",
+      "url": "https://finance.sina.com.cn/jjxw/2025-11-10/doc-infwxaaz3075989.shtml",
+      "publishedAt": "2025-11-10",
+      "checkedAt": "2026-09-12",
+      "locator": "表头“企业名称、产品名称、商标、规格型号、生产日期/批号”；第156、157行",
+      "summary": "第156行一大卷保鲜袋XL330为30cm×40cm、330只/卷，样品日期2025-05-06；第157行优易撕保鲜膜M60为25cm×60m、2025-04-20。两行企业均为茶花家居塑料用品（连江）有限公司，商标为茶花。",
+      "limitation": "转载原始HTML已读取，与福州市政府生产领域通告对应；尚未取得原始XLSX。仅支持所列规格的历史生产关系，不证明全部现售批次、劳动合规或当前库存。"
+    },
+    {
+      "id": "chahua-xl330-official",
+      "title": "茶花官网：一大卷保鲜袋XL330（货号304012）",
+      "publisher": "茶花现代家居用品股份有限公司",
+      "type": "品牌商品资料",
+      "url": "https://www.chahuajj.com/ProductInfo.aspx?Id=10400",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "产品标题及货号、材质、尺寸字段",
+      "summary": "官网列XL330、货号304012、PE材质、40cm×30cm，数量说明为330加10的加量包装；展示新旧包装图片。",
+      "limitation": "原始HTML已读取。官网“数量20pcs”没有说明是单卷袋数，未作为零售数量使用；本项目选择零售标称330只单卷，赠量不作保证。页面未单列实际制造法人。"
+    },
+    {
+      "id": "chahua-m60-official",
+      "title": "茶花官网：优易撕保鲜膜M60（货号305009）",
+      "publisher": "茶花现代家居用品股份有限公司",
+      "type": "品牌商品资料",
+      "url": "https://www.chahuajj.com/ProductInfo.aspx?Id=10426",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "产品标题及货号305009、PE、25cm×60m；该型号主图",
+      "summary": "官网对应优易撕保鲜膜M60、货号305009、PE材质和25cm×60m尺寸，图片为该长度的单卷。",
+      "limitation": "原始HTML和型号主图均已读取并查看。官网“数量60pcs”未被解释为消费者购买60卷；实际零售选择单卷，制造主体另由生产抽查表对应。"
+    },
+    {
+      "id": "chahua-xl330-jd",
+      "title": "京东茶花超大号330只保鲜袋卡片（100221833807）",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/61964dde719d2f42b30f.html?brand=%E8%8C%B6%E8%8A%B1%EF%BC%88CHAHUA%EF%BC%89&electedExtAttrSet=&extAttrValue=expand_name%2C&sort_type=sort_redissale_desc",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始HTML中商品号100221833807的标题、链接和330只包装主图",
+      "summary": "当前公开卡片列茶花平口保鲜袋超大号330只并指向独立商品号；包装与官网XL330产品对应。",
+      "limitation": "商品详情直接请求仅取得通用网站框架，销售依据为查阅日目录卡片。图片含赠量宣传和重复摆放的卷装，不解释为固定赠10只或两卷装；价格、地区库存和配送另核。"
+    },
+    {
+      "id": "chahua-m60-suning",
+      "title": "苏宁茶花优易撕保鲜膜M60单包装商品资料",
+      "publisher": "苏宁易购",
+      "type": "零售商品资料",
+      "url": "https://m.suning.com/product/0071619031/12443118784.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品号12443118784；标题M60、60m×25cm及包装、材质字段",
+      "summary": "查阅日目录卡片和直接商品HTML均列茶花M60、60m×25cm；参数列国产、中国福建福州市、PE及单包装。",
+      "limitation": "参数模板同时出现“小号25×17CM”，与标题和品牌官网不一致，故规格采用两处一致的M60、25cm×60m，购买时仍需核对包装。页面没有制造企业全名，不单独用于制造关系或劳动判断；未确认地区库存及价格。"
+    },
+    {
+      "id": "chahua-lianjiang-hiring-2022",
+      "title": "施甸县政府公开的茶花连江公司2022年招聘简章",
+      "publisher": "施甸县甸阳镇／施甸县人民政府门户网站",
+      "type": "政府转发招聘",
+      "url": "https://www.shidian.gov.cn/info/27278/2596983.htm",
+      "publishedAt": "2022-03-12",
+      "checkedAt": "2026-09-12",
+      "locator": "索引号01525934-9-/2022-0312004；茶花家居塑料用品（连江）有限公司段第5项",
+      "summary": "该法人旧招聘信息列两班轮换、12小时班次和每月两天休息，是需要继续核对适用工时制度、休息及报酬的具体线索。",
+      "limitation": "原始政府网页已读取，发布日期为2022-03-12，并非搜索摘要推测的年份。政府转发招聘不等于劳动检查结果；未说明班次中的休息、工时审批或当前是否仍执行，不能将旧安排视为2026年的违法或合规结论。"
+    },
+    {
+      "id": "suncha-jinan-kitchen-sampling",
+      "title": "济南监督抽查表：浙江双枪砧板与200mm一次性竹筷",
+      "publisher": "济南市市场监督管理局",
+      "type": "政府产品质量抽查",
+      "url": "https://amr.jinan.gov.cn/cms_files/complat3/48725/attach/20261/055119e40113452c9f4f01ed422575d8.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "PDF第1页表头；第49页第391行和第230页第1878行，原页已目视核对",
+      "summary": "第1878行砧板尺寸280×210×10mm、生产日期2025-07-21；第391行一次性竹木筷长200mm、50双/袋、日期2024-12-10。两行标称生产单位均为浙江双枪竹木有限公司。",
+      "limitation": "原PDF已取得，受检零售商、信用代码与标称生产单位分列。仅支持这些样品和规格；200mm旧款不能移用于目前销售的“加长加粗50双”款，也不作为劳动合规证明。"
+    },
+    {
+      "id": "suncha-guizhou-bamboo-sampling",
+      "title": "贵州2025年竹木餐饮具抽查表：280×210×10mm竹水果砧板",
+      "publisher": "贵州省市场监督管理局",
+      "type": "政府产品质量抽查",
+      "url": "https://amr.guizhou.gov.cn/zwgk/xxgkml/zdlyxx/zljd/202601/P020260127543447174188.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "合并PDF第49页，竹木餐饮具分表第3页第15行，原页已目视核对",
+      "summary": "第15行竹水果砧板尺寸280×210×10mm，样品日期2024-11-11；具名浙江双枪竹木有限公司，地址为浙江丽水庆元县松源街道会溪工业园路57号。",
+      "limitation": "该表企业栏同时包含“标称生产企业/上级供货商”，因此与济南独立列出的标称生产单位交叉核对后使用，未仅凭此栏推断制造角色；不支持劳动合规或现时库存。"
+    },
+    {
+      "id": "suncha-official-board-index",
+      "title": "双枪官网砧板目录的ZB2807型号线索",
+      "publisher": "双枪科技股份有限公司",
+      "type": "品牌商品资料",
+      "url": "https://www.sqzm.com/index.php/product/productlist/30.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公开搜索索引的砧板“拼接竹”目录，ZB2807条目",
+      "summary": "官网公开索引在拼接竹砧板部分列ZB2807；用于识别品牌商品类型及型号线索。",
+      "limitation": "直接请求返回403，未取得原始页面或图片。本次只读取公开索引；目录条目不证明当前大陆零售、具体尺寸或制造法人。"
+    },
+    {
+      "id": "suncha-profile-labor-lead",
+      "title": "双枪科技招聘页的无年份劳动诚信标签",
+      "publisher": "智联招聘／双枪科技股份有限公司招聘资料",
+      "type": "企业招聘资料",
+      "url": "https://www.zhaopin.com/companydetail/CZ582911130.htm",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "公司介绍及智联、芝麻企业信用联合展示的“劳动保障诚信A级”标签",
+      "summary": "招聘资料介绍企业创建于1995年、总部位于杭州余杭百丈；页面展示劳动保障诚信A级标签，可作为继续检索原始政府名单的线索。",
+      "limitation": "本次读取公开索引。标签未给出评价年度和原始政府文件，且页面主体为双枪科技股份有限公司，不能套用至浙江双枪竹木有限公司或全部制造工厂，不记录为已取得政府评价。"
+    },
+    {
+      "id": "suncha-chopsticks50-jd",
+      "title": "京东双枪加长加粗一次性竹筷50双卡片（100344662982）",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/6196cfc7a4f4667b46b4.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始HTML中商品号100344662982及“加长加粗-50双”变体、主图",
+      "summary": "当前公开目录列双枪一次性碳化竹筷50双，选中加长加粗变体；对应主图显示50双盒装。",
+      "limitation": "原始HTML与220×220图片已取得并查看；促销字样不作为现价、优惠或性能承诺。未取得具体长度与制造标签，因此不套用200mm、50双历史抽查的生产企业。地区库存和配送另核。"
+    },
+    {
+      "id": "suncha-board-jd-index",
+      "title": "京东竹面砧板目录中的28×21×1cm索引线索",
+      "publisher": "京东",
+      "type": "零售索引线索",
+      "url": "https://www.jd.com/xinghao/61964773524b128d5554.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "搜索索引列“28*21*1 zb2807”变体；与查阅日原始HTML对比",
+      "summary": "公开搜索摘要出现双枪竹砧板28×21×1cm、ZB2807的变体线索，尺寸与生产抽查中的280×210×10mm一致。",
+      "limitation": "查阅日原始HTML及打开后的目录均未找到该变体，不能从旧索引确认当前独立商品号、个人零售或在售状态；该条目的大陆销售检查保持待核查。"
     }
   ],
   "companies": [
@@ -12638,6 +12794,125 @@
           "reviewDueAt": "2026-11-03"
         }
       ]
+    },
+    {
+      "id": "chahua-lianjiang",
+      "name": "茶花 · 连江制造企业",
+      "legalName": "茶花家居塑料用品（连江）有限公司",
+      "location": "福建省福州市连江县",
+      "origin": "china",
+      "originNote": "茶花品牌官网由福建企业运营，福州市生产领域记录对应具名连江制造法人；原料产地另核。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "2022招聘有长班线索；当前制度待核",
+      "restLabel": "2022招聘列月休2天；当前待核",
+      "cardNote": "两款生产规格已对应 · 劳动依据待核",
+      "scope": "限XL330保鲜袋30cm×40cm、330只/卷及M60保鲜膜25cm×60m的连江制造记录。招聘资料为2022年公开信息。",
+      "finding": "2025年福州生产抽查表转载对应该法人制造两款膜袋，官网与大陆零售规格已核。尚未取得可适用的劳动守法评级、综合劳动评价或独立劳动审核；旧招聘中的长班、少休安排需要结合当前制度继续核对。",
+      "caveats": [
+        "2022年招聘不能说明2026年的实际安排；没有取得相应工时审批、休息和报酬资料，不直接作当前违法判断。",
+        "产品质量合格不是劳动合规；其他茶花生产或销售法人不借用本企业资料。",
+        "福州通告已读取，但原始XLSX未成功下载，具体产品行采用明确署名转载。"
+      ],
+      "sourceIds": [
+        "fuzhou-kitchen-quality-2025-notice",
+        "chahua-fuzhou-quality-2025-reprint",
+        "chahua-xl330-official",
+        "chahua-m60-official",
+        "chahua-lianjiang-hiring-2022"
+      ],
+      "supply": [
+        {
+          "stage": "连江膜袋生产",
+          "status": "unknown",
+          "detail": "两款规格的生产记录已对应；具名劳动守法评级、综合评价或独立审核及当前工时休息等依据仍待补。",
+          "sourceIds": [
+            "chahua-fuzhou-quality-2025-reprint",
+            "chahua-lianjiang-hiring-2022"
+          ]
+        },
+        {
+          "stage": "PE原料及包装",
+          "status": "unknown",
+          "detail": "官网列PE材质，未取得所选规格原料供应商与包材劳动资料，作为补充调查。",
+          "sourceIds": [
+            "chahua-xl330-official",
+            "chahua-m60-official"
+          ]
+        },
+        {
+          "stage": "零售及配送",
+          "status": "unknown",
+          "detail": "两款分别有京东与苏宁大陆商品入口；零售、仓配经营者的劳动资料另核。",
+          "sourceIds": [
+            "chahua-xl330-jd",
+            "chahua-m60-suning"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "查连江制造法人可适用的劳动守法评级、综合劳动评价或独立劳动审核，并核对旧招聘安排是否改变、当前适用工时及休息报酬依据。"
+    },
+    {
+      "id": "suncha",
+      "name": "双枪",
+      "legalName": "双枪科技股份有限公司",
+      "location": "浙江杭州品牌主体；砧板制造记录对应浙江丽水庆元的浙江双枪竹木有限公司",
+      "origin": "china",
+      "originNote": "企业招聘资料记载1995年创建及杭州总部；具体商品的制造法人和生产地分别核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "实际生产企业工时制度待核",
+      "restLabel": "实际生产企业休息安排待核",
+      "cardNote": "有制造及招聘线索 · 劳动评价待核",
+      "scope": "品牌资料与具体制造企业分开；280×210×10mm砧板有浙江双枪具名制造记录，现售加长加粗50双筷子的制造商尚未确认。",
+      "finding": "济南、贵州原始抽查表可交叉对应砧板规格和浙江制造企业。母公司招聘页的劳动诚信标签没有年份及原始文件，不能升级为生产企业的政府评价。",
+      "caveats": [
+        "双枪科技与浙江双枪竹木是不同法人，劳动资料不能直接通用。",
+        "50双加长加粗款缺少长度及制造标签，不能套用200mm旧款抽查。",
+        "砧板同尺寸出现在零售搜索索引，但查阅日原始目录没有对应变体，现时购买仍待补。"
+      ],
+      "sourceIds": [
+        "suncha-jinan-kitchen-sampling",
+        "suncha-guizhou-bamboo-sampling",
+        "suncha-official-board-index",
+        "suncha-profile-labor-lead",
+        "suncha-chopsticks50-jd",
+        "suncha-board-jd-index"
+      ],
+      "supply": [
+        {
+          "stage": "具体商品制造",
+          "status": "unknown",
+          "detail": "砧板对应浙江双枪；新50双筷子的制造企业仍待核。未取得这些生产主体可适用的劳动守法评级、综合劳动评价或独立劳动审核。",
+          "sourceIds": [
+            "suncha-jinan-kitchen-sampling",
+            "suncha-guizhou-bamboo-sampling",
+            "suncha-chopsticks50-jd"
+          ]
+        },
+        {
+          "stage": "竹材及加工辅料",
+          "status": "unknown",
+          "detail": "公开资料尚未对应所选规格的竹材供应商与辅料来源，作为后续补充研究。",
+          "sourceIds": []
+        },
+        {
+          "stage": "品牌经营与销售配送",
+          "status": "unknown",
+          "detail": "母公司招聘标签不代表制造子公司；大陆零售与配送岗位劳动资料另核。",
+          "sourceIds": [
+            "suncha-profile-labor-lead",
+            "suncha-chopsticks50-jd"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补具名制造法人可适用的劳动守法评级、综合劳动评价或独立劳动审核；同时找砧板当前个人零售入口，并补加长加粗50双款的实际制造标签。"
     }
   ],
   "products": [
@@ -21558,6 +21833,224 @@
           ]
         }
       }
+    },
+    {
+      "id": "chahua-xl330-storage-bags-330",
+      "name": "一大卷保鲜袋XL330 · 30×40cm、330只单卷",
+      "brand": "茶花",
+      "companyId": "chahua-lianjiang",
+      "category": "kitchen",
+      "description": "XL330超大号平口PE保鲜袋，单袋30×40cm，按零售标称330只单卷整理，用于食物分装收纳。",
+      "tags": [
+        "保鲜袋",
+        "XL330",
+        "304012",
+        "330只"
+      ],
+      "needs": [
+        "保鲜袋"
+      ],
+      "image": "images/chahua-xl330-storage-bags-330.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/378644/3/1538/128474/693a1c11F3065ee16/c9d42337f2cefddf.jpg",
+      "imageRights": "茶花／京东商品图片权利人",
+      "url": "https://item.jd.com/100221833807.html",
+      "market": "京东商品100221833807，选择超大号330只。官网与图片有加量宣传，赠量以实物为准；图片多卷摆放不代表两卷装。地区库存与配送另核。",
+      "relationship": "官网XL330、货号304012与福州2025年生产抽查转载的名称、尺寸及袋数对应，具名生产企业为茶花家居塑料用品（连江）有限公司。",
+      "relationshipSourceIds": [
+        "chahua-xl330-official",
+        "fuzhou-kitchen-quality-2025-notice",
+        "chahua-fuzhou-quality-2025-reprint"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日京东原始目录存在准确330只超大号卡片及独立商品号；官网补充尺寸。",
+          "sourceIds": [
+            "chahua-xl330-jd",
+            "chahua-xl330-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "茶花家居塑料用品（连江）有限公司",
+          "detail": "福州生产领域2025年结果转载第156行对应XL330、30×40cm、330只及该制造企业，样品日期2025-05-06。",
+          "sourceIds": [
+            "fuzhou-kitchen-quality-2025-notice",
+            "chahua-fuzhou-quality-2025-reprint",
+            "chahua-xl330-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得连江制造法人可适用的劳动守法评级、综合劳动评价或独立劳动审核；2022年招聘有长班、少休线索，需要核对当前适用制度及劳动依据。",
+          "sourceIds": [
+            "chahua-lianjiang-hiring-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "chahua-m60-cling-film-25cm-60m",
+      "name": "优易撕保鲜膜M60 · 25cm×60m单卷",
+      "brand": "茶花",
+      "companyId": "chahua-lianjiang",
+      "category": "kitchen",
+      "description": "M60款PE保鲜膜，货号305009，宽25cm、长60m，单卷装。",
+      "tags": [
+        "保鲜膜",
+        "M60",
+        "305009",
+        "60m"
+      ],
+      "needs": [
+        "保鲜膜"
+      ],
+      "image": "images/chahua-m60-cling-film-25cm-60m.webp",
+      "imageMode": "contain",
+      "imageSource": "https://www.chahuajj.com/UserFiles/upload/image/20210817/305009(1).jpg",
+      "imageRights": "茶花商品图片权利人",
+      "url": "https://m.suning.com/product/0071619031/12443118784.html",
+      "market": "苏宁商品12443118784，标题为M60、60m×25cm。参数模板另有25×17cm字段，与标题、官网不一致，购买时核对M60包装；地区库存另核。",
+      "relationship": "茶花官网305009的型号与尺寸、福州2025年生产抽查转载第157行及苏宁标题相互对应；具名制造商为连江茶花法人。",
+      "relationshipSourceIds": [
+        "chahua-m60-official",
+        "fuzhou-kitchen-quality-2025-notice",
+        "chahua-fuzhou-quality-2025-reprint",
+        "chahua-m60-suning"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日苏宁直接商品页与品牌官网均对应M60、25cm×60m；单包装字段已读取，模板尺寸冲突已保留。",
+          "sourceIds": [
+            "chahua-m60-suning",
+            "chahua-m60-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "茶花家居塑料用品（连江）有限公司",
+          "detail": "福州生产领域2025年结果转载第157行明确M60、25cm×60m及连江制造企业，样品日期2025-04-20。",
+          "sourceIds": [
+            "fuzhou-kitchen-quality-2025-notice",
+            "chahua-fuzhou-quality-2025-reprint",
+            "chahua-m60-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得连江制造法人可适用的劳动守法评级、综合劳动评价或独立劳动审核；2022年招聘有长班、少休线索，需要核对当前适用制度及劳动依据。",
+          "sourceIds": [
+            "chahua-lianjiang-hiring-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "suncha-bamboo-board-280x210x10",
+      "name": "竹水果砧板 · 280×210×10mm单块",
+      "brand": "双枪",
+      "companyId": "suncha",
+      "category": "kitchen",
+      "description": "28×21×1cm的小尺寸竹制水果砧板；保留具名制造和尺寸资料，当前同规格个人零售入口仍待补。",
+      "tags": [
+        "砧板",
+        "竹砧板",
+        "水果砧板",
+        "28×21cm"
+      ],
+      "needs": [
+        "砧板"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "未采用图片",
+      "url": "https://www.jd.com/xinghao/61964773524b128d5554.html",
+      "market": "京东公开索引出现28×21×1cm、ZB2807线索，但查阅日原始目录未找到该变体。当前独立商品号、个人零售与库存待核，入口仅供继续查找。",
+      "relationship": "济南原始PDF第1878行独立列浙江双枪竹木有限公司为280×210×10mm砧板的标称生产单位；贵州原始表补充竹制用途及庆元厂址。",
+      "relationshipSourceIds": [
+        "suncha-jinan-kitchen-sampling",
+        "suncha-guizhou-bamboo-sampling"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "同尺寸零售索引存在，但查阅日目录未找到对应在售变体；需要当前个人购买渠道。",
+          "sourceIds": [
+            "suncha-board-jd-index"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "浙江双枪竹木有限公司",
+          "detail": "两份原始政府抽查表交叉对应280×210×10mm竹砧板及浙江制造企业，济南样品日期为2025-07-21。",
+          "sourceIds": [
+            "suncha-jinan-kitchen-sampling",
+            "suncha-guizhou-bamboo-sampling"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得浙江双枪竹木有限公司可适用的劳动守法评级、综合劳动评价或独立劳动审核；母公司招聘页无年份标签不能移用。",
+          "sourceIds": [
+            "suncha-profile-labor-lead"
+          ]
+        }
+      }
+    },
+    {
+      "id": "suncha-carbonized-chopsticks-long-50pairs",
+      "name": "一次性碳化竹筷 · 加长加粗50双装",
+      "brand": "双枪",
+      "companyId": "suncha",
+      "category": "kitchen",
+      "description": "京东加长加粗50双变体，主图为盒装碳化竹筷；准确长度及该款制造企业仍待核对。",
+      "tags": [
+        "筷子",
+        "一次性竹筷",
+        "50双",
+        "碳化竹筷"
+      ],
+      "needs": [
+        "筷子"
+      ],
+      "image": "images/suncha-carbonized-chopsticks-long-50pairs.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/513807/21/11124/157446/6aa220dfFfb38e500/0083320320b87d90.jpg",
+      "imageRights": "双枪／京东商品图片权利人",
+      "url": "https://item.jd.com/100344662982.html",
+      "market": "京东商品100344662982，选择加长加粗50双。主图促销不作为当前价格与性能承诺，具体包装、地区库存和配送以零售页为准。",
+      "relationship": "京东当前卡片与图片对应双枪品牌和50双加长加粗变体；已有200mm、50双旧抽查未给出本款对应关系，不能据此指定制造商。",
+      "relationshipSourceIds": [
+        "suncha-chopsticks50-jd",
+        "suncha-jinan-kitchen-sampling"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日京东原始HTML存在准确50双变体、独立商品号及对应图片。",
+          "sourceIds": [
+            "suncha-chopsticks50-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "本款没有具名制造标签及明确长度；不能用200mm旧款的浙江生产记录代替。",
+          "sourceIds": [
+            "suncha-chopsticks50-jd",
+            "suncha-jinan-kitchen-sampling"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "实际制造商待确定，也未取得本款可适用的劳动守法评级、综合劳动评价或独立劳动审核；母公司招聘标签没有评价年份。",
+          "sourceIds": [
+            "suncha-profile-labor-lead"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -22170,14 +22663,21 @@
           "query": "保鲜膜"
         }
       ],
-      "note": "已补琦轩源梅子青龙把办公杯及苏泊尔炒锅、奶锅、蒸锅4款具体资料。琦轩企业有2025年度最终劳动A级评价，但杯款制造关系待补；锅具的具名生产与劳动证据待补。饭碗、餐盘、筷子、菜刀、砧板、饭盒、保鲜盒、保鲜袋和保鲜膜仍有资料缺口。待核查不表示企业违法或市场上没有合规商品。",
+      "note": "已有水杯、炒锅、奶锅、蒸锅、砧板、筷子、保鲜袋和保鲜膜8款具体资料。茶花XL330、M60与连江制造企业已对应，但劳动依据待补；双枪砧板有具名制造记录、现售待补，50双加长加粗竹筷仍缺制造标签。饭碗、餐盘、菜刀、饭盒和保鲜盒5项尚缺具体资料。待核查不表示企业违法或市场上没有合规商品。",
       "sourceIds": [
         "dehua-labor-2025",
         "qixuanyuan-dragon-mug-jd",
         "qixuan-design-workshop-2025",
         "supor-ec32jgc03-suning",
         "supor-st16h3-suning",
-        "supor-vz26bs01-cqxs"
+        "supor-vz26bs01-cqxs",
+        "chahua-xl330-official",
+        "chahua-m60-official",
+        "chahua-fuzhou-quality-2025-reprint",
+        "chahua-lianjiang-hiring-2022",
+        "suncha-jinan-kitchen-sampling",
+        "suncha-chopsticks50-jd",
+        "suncha-board-jd-index"
       ]
     },
     {
