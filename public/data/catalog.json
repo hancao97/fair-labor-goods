@@ -7283,6 +7283,78 @@
       "locator": "正文“以全维防护”部分：新车产自吉利长兴基地",
       "summary": "车型上市报道将第5代帝豪对应吉利长兴基地，为后续核对制造法人提供方向。",
       "limitation": "报道未列所选配置的制造法人及劳动评价；本轮未取得足以对应该基地的近期综合劳动结果，不使用控股集团或宝鸡工厂荣誉代替。"
+    },
+    {
+      "id": "shaanxi-harmony-final-2025",
+      "title": "2025年陕西省劳动关系和谐企业最终命名通知",
+      "publisher": "陕西省人社厅等五部门；铜川市人社局公开",
+      "type": "政府评价",
+      "url": "https://rs.tongchuan.gov.cn/129/17455.jhtml",
+      "publishedAt": "2026-01-06",
+      "checkedAt": "2026-09-13",
+      "locator": "陕人社函〔2025〕566号，2025-12-29成文；附件1第3家：中国铁路西安局集团有限公司",
+      "summary": "已读取政府页面公开检索提供的完整通知正文及47家企业名单，中国铁路西安局集团有限公司具名列入最终命名结果。与已取得的同批原始评价标准共同判断。",
+      "limitation": "本轮读取的是政府网页的公开索引全文，直接链接此前返回403，未声称下载到原始HTML，也未重试受限路径。名单未公开逐项得分或完整审查起止日；结果不自动覆盖其他铁路局、子公司及外包单位。"
+    },
+    {
+      "id": "xiyan-commutation-official-2026",
+      "title": "西延高铁计次票、定期票产品及购买说明",
+      "publisher": "中国铁路；西安局集团公司融媒体中心供稿",
+      "type": "运营商服务资料",
+      "url": "https://finance.sina.com.cn/wm/2026-04-18/doc-inhuxche2447693.shtml",
+      "publishedAt": "2026-04-18",
+      "checkedAt": "2026-09-13",
+      "locator": "产品简介、覆盖车站、适用列车和席别、产品购买方式",
+      "summary": "中国铁路官方账号说明西安局集团有限公司推出西延高铁票制：计次票有10次/90日和20次/90日，覆盖11站、G/C字头列车、一等及二等座，可通过12306的计次·定期票模块购买。",
+      "limitation": "新闻中的产品说明用于确认票种、服务主体及购买渠道；不构成某次列车的余票或实时价格证明，也不把车站、车辆制造或其他经营单位的劳动状况合并保证。"
+    },
+    {
+      "id": "rail12306-commutation-entry",
+      "title": "铁路12306计次·定期票购买入口和使用说明",
+      "publisher": "中国铁路12306",
+      "type": "官方销售渠道",
+      "url": "https://kyfw.12306.cn/otn/view/commutation_index.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "通勤产品查询及使用说明第01—02项",
+      "summary": "官方页提供发到站查询，说明选择产品类型、指定发到站及席别、绑定乘车人；可提前预约，或在有对应剩余席位时直接刷证获取席位乘车。",
+      "limitation": "仅查阅公开页面和使用说明，未登录、购票或确认具体车次余票。静态页面的默认零条不是实际查询结果；具体可购买产品和价格以12306查询为准。"
+    },
+    {
+      "id": "dangshan-wanda-operator-register-2024",
+      "title": "砀山县卫健委监管对象库：砀山万达影院经营单位和地址",
+      "publisher": "砀山县卫生健康委员会",
+      "type": "政府经营主体资料",
+      "url": "https://www.dangshan.gov.cn/public/6622316/160997431.html",
+      "publishedAt": "2024-05-14",
+      "checkedAt": "2026-09-13",
+      "locator": "监管对象表中合肥万达国际电影城有限公司宿州砀山万达广场店一行",
+      "summary": "政府表格将该分店对应安徽省宿州市砀山县砀城镇人民中路与芒砀中路交汇处万达广场娱乐楼4楼，与票务页面的店名及地址一致。",
+      "limitation": "用于对应本分店及国内服务地点；监管对象库本身不是劳动评价，也不能证明当日场次、价格或实时营业状态。"
+    },
+    {
+      "id": "dangshan-wanda-ticket-entry",
+      "title": "宿州砀山万达广场店影院介绍及选座购票入口",
+      "publisher": "东方福利网",
+      "type": "零售服务资料",
+      "url": "https://m.dongfangfuli.com/cinema/detail/13452?city=92",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "影院13452：店名、人民中路与芒砀中路交汇处4楼地址、成人和儿童观影说明",
+      "summary": "当前页面保留具体影院地址及选座购票入口，成人与儿童观影规则可读；地址可与政府具名经营单位对应。",
+      "limitation": "查阅时未显示可售电影或场次，公开当日影片查询返回空内容，未确认当前可下单、票价或票种库存。仅保留单场观影研究记录，销售检查待核；空结果不证明影院停业。"
+    },
+    {
+      "id": "dangshan-wanda-hours-2024",
+      "title": "砀山万达影院综合计算工时批复（历史）",
+      "publisher": "砀山县人力资源和社会保障局",
+      "type": "政府工时审批",
+      "url": "https://www.dangshan.gov.cn/public/6622310/162132651.html",
+      "publishedAt": "2024-12-02",
+      "checkedAt": "2026-09-13",
+      "locator": "批复第一项的6名相关岗位员工；第五项有效期限",
+      "summary": "具名分店曾获6人综合计算工时审批，批复期为2024-12-02至2025-06-01，并列休息、加班报酬及岗位范围要求。",
+      "limitation": "这是已届期的特定工时批复，不表示2026年仍有同一许可，也不单独证明全面劳动合规。未取得续批或当前排班，不由此推定违法；本分店的劳动依据另取完整年度A级结果。"
     }
   ],
   "companies": [
@@ -16300,6 +16372,163 @@
           "period": "2022年度",
           "sourceId": "dachangjiang-labor-2022-index",
           "limitation": "仅为历史结果线索，不代表2026年结论；不用于正式收录或当前违法判断。"
+        }
+      ]
+    },
+    {
+      "id": "china-railway-xian",
+      "name": "中国铁路 · 西安局",
+      "legalName": "中国铁路西安局集团有限公司",
+      "location": "陕西省；本款服务为西延高铁沿线",
+      "origin": "china",
+      "originNote": "境内铁路运营单位，所选票制用于陕西境内铁路服务；不以服务地址推断每名员工国籍。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "综合评价覆盖工时制度",
+      "restLabel": "综合评价覆盖休息休假",
+      "cardNote": "2025年政府综合劳动评价",
+      "scope": "中国铁路西安局集团有限公司；本款为该公司推出的西延高铁计次票服务。",
+      "finding": "政府最终命名通知具名列本公司；同批原始评价标准覆盖合同、工资及加班报酬、社保、工时、休息和劳动保护。中国铁路运营说明将所选票制直接对应本公司。",
+      "caveats": [
+        "完整审查起止日及逐项得分未公开，记录2025年度评价和2026-01-06公开结果，不推定各项满分。",
+        "具名结果从政府网页的公开索引全文核对；原网页直接访问受限的情况已在来源说明中保留。",
+        "本档案覆盖所列境内客运服务；其他铁路局、独立子公司、外包单位及列车制造商分别判断。"
+      ],
+      "sourceIds": [
+        "shaanxi-harmony-final-2025",
+        "shaanxi-harmony-criteria-2025",
+        "xiyan-commutation-official-2026",
+        "rail12306-commutation-entry"
+      ],
+      "supply": [
+        {
+          "stage": "境内客运服务",
+          "status": "verified",
+          "detail": "中国铁路说明明确西安局推出西延高铁计次票，所选产品、沿线站点与运营主体已对应。",
+          "sourceIds": [
+            "xiyan-commutation-official-2026"
+          ]
+        },
+        {
+          "stage": "运营单位劳动评价",
+          "status": "verified",
+          "detail": "2025年度最终综合劳动结果及同批完整评价标准支持具名用人单位的劳动判断。",
+          "sourceIds": [
+            "shaanxi-harmony-final-2025",
+            "shaanxi-harmony-criteria-2025"
+          ]
+        },
+        {
+          "stage": "设备、独立服务商和外包",
+          "status": "unknown",
+          "detail": "未把运营单位评价扩展到车辆制造或其他独立用人单位，作为补充信息继续研究。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-13前核对劳动结果是否更新或撤销，并检查所选票制的服务范围及购买条件变化。",
+      "assessments": [
+        {
+          "subject": "中国铁路西安局集团有限公司",
+          "result": "2025年陕西省劳动关系和谐企业",
+          "period": "2025年度评价；2026-01-06公开结果；完整审查起止日未公开",
+          "sourceId": "shaanxi-harmony-final-2025",
+          "limitation": "最终通知具名企业第3家；按同批标准评审，未公开逐项分数，不表示所有条目满分或未来所有活动均合规。原网页索引全文已读，直接HTML未取得。",
+          "kind": "government-labor-review",
+          "resultPublishedAt": "2026-01-06",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "陕西省人力资源和社会保障厅、总工会、企业家协会、企业联合会、工商业联合会",
+          "scopeType": "employer",
+          "scope": "中国铁路西安局集团有限公司的2025年度综合劳动评价，按陕人社函〔2025〕235号附件5评审。",
+          "verificationSourceId": "shaanxi-harmony-final-2025",
+          "basisSourceIds": [
+            "shaanxi-harmony-criteria-2025"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wanda-dangshan-cinema",
+      "name": "万达影城 · 宿州砀山万达广场店",
+      "legalName": "合肥万达国际电影城有限公司宿州砀山万达广场店",
+      "location": "安徽省宿州市砀山县砀城镇人民中路与芒砀中路交汇处万达广场娱乐楼4楼",
+      "origin": "china",
+      "originNote": "砀山县境内具名影院分店；研究的是本地放映和观影服务，不以地址推断每名员工国籍或影片制作地。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时制度纳入年度评价",
+      "restLabel": "休息休假纳入年度评价",
+      "cardNote": "审查2024年劳动A级 · 当前场次待核",
+      "scope": "本分店的国内观影服务及2024年度劳动评价；不扩展到其他万达影院或电影制作公司。",
+      "finding": "宿州最终A级附件第446行具名列本分店，政府经营地址与票务页面一致。当前票务页未取得可售场次，故商品销售状态仍待核。",
+      "caveats": [
+        "劳动评价审查2024年度，2025-12-15公布；本站复核日期不冒充政府有效期限。",
+        "2024年特殊工时批复已于2025-06-01届期；没有将旧批复当成当前许可，也未将没有续批资料推定为违法。",
+        "影院为空的当日影片查询不等于停业，但不能用于确认现在可下单；需取得实际排片或营业购票说明。"
+      ],
+      "sourceIds": [
+        "suzhou-labor-2024",
+        "law-labor-rating",
+        "dangshan-wanda-operator-register-2024",
+        "dangshan-wanda-ticket-entry",
+        "dangshan-wanda-hours-2024"
+      ],
+      "supply": [
+        {
+          "stage": "影院经营单位",
+          "status": "verified",
+          "detail": "政府名录、影院名称和地址对应砀山万达广场4楼的具名分店。",
+          "sourceIds": [
+            "dangshan-wanda-operator-register-2024",
+            "dangshan-wanda-ticket-entry"
+          ]
+        },
+        {
+          "stage": "分店用工",
+          "status": "verified",
+          "detail": "本分店列最终劳动A级附件第446行；审查2024年度，其他万达分店不能直接借用。",
+          "sourceIds": [
+            "suzhou-labor-2024"
+          ]
+        },
+        {
+          "stage": "影片制作及外部供应",
+          "status": "unknown",
+          "detail": "影院放映服务与影片摄制属于不同用人单位，未将本分店劳动评价用于影片制作人员。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得当前实际排片、售票或营业说明后补销售结论；在2026-12-15前核对更新劳动结果及经营主体变化。",
+      "assessments": [
+        {
+          "subject": "合肥万达国际电影城有限公司宿州砀山万达广场店",
+          "result": "劳动保障守法诚信A级",
+          "period": "2025年评价（审查2024年）",
+          "sourceId": "suzhou-labor-2024",
+          "limitation": "最终公告A级原始DOC附件第446行列本分店；仅用于本用人单位及适用时期，本站复核日期不是政府评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-12-15"
         }
       ]
     }
@@ -27831,6 +28060,123 @@
           ]
         }
       }
+    },
+    {
+      "id": "xiyan-rail-second-class-10-in-90",
+      "name": "西延高铁 · 二等座90日10次计次票",
+      "brand": "中国铁路",
+      "companyId": "china-railway-xian",
+      "category": "transport",
+      "needs": [
+        "铁路"
+      ],
+      "description": "在西延高铁沿线11座车站中指定发到站及二等座，90日内可使用10次，适用本线路G字头、C字头列车。适合固定区间多次出行。",
+      "tags": [
+        "铁路",
+        "高铁",
+        "西延高铁",
+        "计次票",
+        "二等座",
+        "10次",
+        "90日",
+        "陕西"
+      ],
+      "url": "https://kyfw.12306.cn/otn/view/commutation_index.html",
+      "market": "铁路12306网站或App → 计次·定期票，查询西延高铁区间，选择90日10次及二等座并指定发到站、乘车人。沿线含西安北、铜川、黄陵、延安等11站；票价和可购买区间以12306查询为准。购买后30天内启用；指定座位可提前预约，直接刷证乘车须有对应剩余席位。",
+      "relationship": "中国铁路官方账号的西安局供稿明确：本公司推出西延高铁10次/90日计次票，一等座、二等座可选；12306公开产品使用说明与之对应。",
+      "relationshipSourceIds": [
+        "xiyan-commutation-official-2026",
+        "rail12306-commutation-entry"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "2026年运营方公开说明列具体票种及12306购买方式，当前官方计次票入口可访问并提供发到站查询；未承诺某次列车余票或固定报价。",
+          "sourceIds": [
+            "xiyan-commutation-official-2026",
+            "rail12306-commutation-entry"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "本款为陕西境内铁路客运服务；运营方供稿将票制直接对应中国铁路西安局集团有限公司及西延高铁11座车站。",
+          "sourceIds": [
+            "xiyan-commutation-official-2026"
+          ],
+          "subject": "中国铁路西安局集团有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "具名运营单位在2025年陕西省最终综合劳动评价名单中；同批原始标准覆盖六项主要劳动权益，采用正式综合结果支持收录。",
+          "sourceIds": [
+            "shaanxi-harmony-final-2025",
+            "shaanxi-harmony-criteria-2025"
+          ],
+          "assessmentSourceId": "shaanxi-harmony-final-2025"
+        }
+      }
+    },
+    {
+      "id": "wanda-dangshan-single-movie-ticket",
+      "name": "砀山万达广场店 · 成人单场选座观影",
+      "brand": "万达影城",
+      "companyId": "wanda-dangshan-cinema",
+      "category": "culture",
+      "needs": [
+        "电影"
+      ],
+      "description": "宿州砀山万达广场4楼影院的普通成人单场观影服务。影片、放映格式与场次需在该店排片中选择；目前尚未确认可售场次。",
+      "tags": [
+        "电影",
+        "观影",
+        "电影票",
+        "单场",
+        "成人",
+        "砀山",
+        "万达影城"
+      ],
+      "url": "https://m.dongfangfuli.com/cinema/detail/13452?city=92",
+      "market": "已找到东方福利网的本店选座购票入口，但查阅时没有显示可售场次。购买前须取得影城当前排片和售票说明；票价、格式、场次及渠道要求尚待核实。",
+      "relationship": "票务页的宿州砀山万达广场店与政府监管对象库的具名分店同址，精确到人民中路、芒砀中路交汇处万达广场4楼。",
+      "relationshipSourceIds": [
+        "dangshan-wanda-ticket-entry",
+        "dangshan-wanda-operator-register-2024"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "店名、地址和购票入口已对应，当前没有取得可售影片、场次或价格，销售待核；不将空查询等同影院停业。",
+          "sourceIds": [
+            "dangshan-wanda-ticket-entry"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "观影与放映服务发生在安徽砀山，政府名录将同一地址对应到本分店；本项不评价电影内容的制作地点。",
+          "sourceIds": [
+            "dangshan-wanda-operator-register-2024",
+            "dangshan-wanda-ticket-entry"
+          ],
+          "subject": "合肥万达国际电影城有限公司宿州砀山万达广场店"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "本分店自身在宿州最终劳动A级附件第446行，审查2024年度；历史工时批复作为补充，未代替全面劳动结果。",
+          "sourceIds": [
+            "suzhou-labor-2024",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "suzhou-labor-2024"
+        }
+      }
     }
   ],
   "coverage": [
@@ -28879,7 +29225,7 @@
           "query": "雨伞"
         }
       ],
-      "note": "出行住宿8项需求中7项已有具体研究资料。新增豪爵UHR150 26升级款HJ150T-28G气囊减振/尾箱版，国内购买及江门制造主体已核，近期劳动依据待补。公交及口子酒店房型保留正式收录；雨伞、行李箱等继续补证，铁路仍缺具体记录。",
+      "note": "出行住宿8项需求均有具体研究资料。西延高铁二等座90日10次计次票依据西安局2025年综合劳动评价正式收录；公交及口子酒店房型保留。豪爵UHR150的国内销售与制造主体已核，近期劳动依据待补；雨伞、行李箱等继续补证。",
       "sourceIds": [
         "sofitel-haikou-campus",
         "huaibei-labor-2025",
@@ -28898,7 +29244,11 @@
         "haojue-uhr150-2026-price",
         "haojue-hj150t28g-environment-2026",
         "pengjiang-labor-2025-access",
-        "dachangjiang-labor-2022-index"
+        "dachangjiang-labor-2022-index",
+        "shaanxi-harmony-final-2025",
+        "shaanxi-harmony-criteria-2025",
+        "xiyan-commutation-official-2026",
+        "rail12306-commutation-entry"
       ]
     },
     {
@@ -29126,14 +29476,18 @@
           "query": "演出"
         }
       ],
-      "note": "石牛山景区成人首道门票（含岱仙瀑布）已对应境内经营主体、零售渠道与2025年度劳动A级评价。清明上河园门票和大宋东京梦华演出继续待核查；图书、电影、视频和音乐等仍缺具体商品资料。",
+      "note": "石牛山景区成人门票已正式收录。新增砀山万达广场店成人单场观影资料：具名境内分店和2024年度劳动A级结果已对应，当前可售场次待核。清明上河园门票与演出继续补证；图书、视频和音乐仍缺具体商品记录。",
       "sourceIds": [
         "national-harmony-2022",
         "vista-hiring",
         "qingming-official",
         "dehua-labor-2025",
         "shiniushan-operator-2025",
-        "shiniushan-adult-ticket-juyou"
+        "shiniushan-adult-ticket-juyou",
+        "suzhou-labor-2024",
+        "dangshan-wanda-operator-register-2024",
+        "dangshan-wanda-ticket-entry",
+        "dangshan-wanda-hours-2024"
       ]
     },
     {
