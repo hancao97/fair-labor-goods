@@ -7208,6 +7208,110 @@
       },
       "filename": "images/suncha-carbonized-chopsticks-long-50pairs.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "shunxiang-white-round-plate-8in-2pack",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/463473/18/18179/353175/6a44b9beF94ed17e7/008332032062cf98.png",
+      "source_url": "https://www.jd.com/brand/61966614dc47c0354f04.html",
+      "product_url": "https://item.jd.com/10101113096140.html",
+      "title": "纯白圆盘 · 8英寸两只装",
+      "width": 220,
+      "height": 220,
+      "bytes": 9390,
+      "sha256": "dacd3530b1977e320c2aede2457a927d8f9c404e1954623eb9714bb77a0d9dbe",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已查看准确8英寸圆盘两只装卡片引用的220×220原图，为多种纯白碗盘的系列陈列。商品说明明确只购买两只圆盘，不包含图中碗具或整套餐具；图中荣誉为营销文字。",
+      "reuse_info": {
+        "rights_holder": "顺祥／京东商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目MIT许可。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 70943,
+        "sha256": "566f46e0984313c5e7347203a418dc17f8fca6f8bc2c58f12719179e579f4812"
+      },
+      "filename": "images/shunxiang-white-round-plate-8in-2pack.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "shibazi-s2504a-kitchen-knife",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/497742/32/11363/114510/6a83c088F3d2fea25/0083320320cc4fce.jpg",
+      "source_url": "https://www.jd.com/jiage/6196e8e73b10637385e8.html",
+      "product_url": "https://item.jd.com/1154418.html",
+      "title": "银盈斩切刀 S2504-A · 单把",
+      "width": 220,
+      "height": 220,
+      "bytes": 12556,
+      "sha256": "0c0aa7692f637c696a5145790e3d58af200fdf19eb9f471f069dba70a8e8acff",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已查看商品1154418引用的220×220宣传图，展示银盈斩切刀，型号由同卡片标题对应S2504-A。图中销量、用户及性能宣传未作为独立结论；未见具名制造背标。",
+      "reuse_info": {
+        "rights_holder": "十八子作／京东商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目MIT许可。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 22093,
+        "sha256": "5ec408e99ee4f833a9cbff0f0d9e5c13061abb3a2219adfc9dcbdc4ac9ce4697"
+      },
+      "filename": "images/shibazi-s2504a-kitchen-knife.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "zenxin-fh0103-lunchbox-950ml",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/233589/16/37634/70203/681c14a5F383da8fb/5e216d5ef9d52e39.jpg",
+      "source_url": "https://www.jd.com/jiage/619610f3b85a89ac2e39.html",
+      "product_url": "https://item.jd.com/10154096048896.html",
+      "title": "双格饭盒 FH0103 · 950mL单个随机色",
+      "width": 220,
+      "height": 220,
+      "bytes": 7898,
+      "sha256": "d4064056a6f5653a9773107261dc1c14a94c9fbe8453fa57d6c6bacb552be691",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已查看准确FH0103小号950mL卡片引用的220×220原图，展示多种颜色饭盒；消费者所选为随机颜色单个，不是三件套。未从小标签猜制造企业。",
+      "reuse_info": {
+        "rights_holder": "振兴／京东商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目MIT许可。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 16418,
+        "sha256": "661d5afec2e50de84f8e3882140caabfbdc0f70c30c1d9666438b0d02734c0d0"
+      },
+      "filename": "images/zenxin-fh0103-lunchbox-950ml.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "longstar-lk2017-food-container-2500ml",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/276187/12/14030/53665/67eb7f1fFbc24a9ec/7d2cd843e42c97cd.jpg",
+      "source_url": "https://www.jd.com/hprm/6196a5aa1b3bccead93e.html",
+      "product_url": "https://item.jd.com/1093993.html",
+      "title": "塑料保鲜盒 LK-2017 · 2.5L单个",
+      "width": 220,
+      "height": 220,
+      "bytes": 5230,
+      "sha256": "dcb3bad0c476b855681cf53e2402a82813dd57ec53b7f8d0547cd1ae4fe36bf5",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "已查看商品1093993引用的220×220原图，可读LK-2017、2.5L及22×15.5×11.5cm。水果为陈列示意，不是附赠；未见具名制造标签。",
+      "reuse_info": {
+        "rights_holder": "龙士达／京东商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目MIT许可。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 12041,
+        "sha256": "5181cf21385bddece17991711bae73727292ead909aa23be0da9a690a8d9567c"
+      },
+      "filename": "images/longstar-lk2017-food-container-2500ml.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

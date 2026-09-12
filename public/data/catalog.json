@@ -5951,6 +5951,150 @@
       "locator": "搜索索引列“28*21*1 zb2807”变体；与查阅日原始HTML对比",
       "summary": "公开搜索摘要出现双枪竹砧板28×21×1cm、ZB2807的变体线索，尺寸与生产抽查中的280×210×10mm一致。",
       "limitation": "查阅日原始HTML及打开后的目录均未找到该变体，不能从旧索引确认当前独立商品号、个人零售或在售状态；该条目的大陆销售检查保持待核查。"
+    },
+    {
+      "id": "shunxiang-corporate-profile",
+      "title": "顺祥官网企业资料与潮州地址",
+      "publisher": "广东顺祥陶瓷有限公司",
+      "type": "企业介绍",
+      "url": "https://www.shunxiang.com/qiyerongyu27d4a1900173c3df93d23eca/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "企业介绍、陶瓷产品分类和页脚广东潮州地址",
+      "summary": "官网记载品牌1984年起步、公司1992年成立，介绍餐具等陶瓷业务，页脚具名广东顺祥陶瓷有限公司及潮州枫溪地址。",
+      "limitation": "原始HTML已读取。页面混有旧年份荣誉及早期规模介绍，未把网站2026版权年份作为各项资料更新日期；品牌经营资料不单独确认每款零售商品的制造厂或劳动合规。"
+    },
+    {
+      "id": "shunxiang-food-contact-declaration",
+      "title": "顺祥官网盖章食品接触材料符合性声明",
+      "publisher": "广东顺祥陶瓷有限公司",
+      "type": "企业产品声明",
+      "url": "https://www.shunxiang.com/faq/fuhexingshengmingxiangxiruxia.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "当前附图第1页的生产商、声明方、使用条件及印章；第2、3、6页已查看",
+      "summary": "当前盖章附图具名生产商和声明方均为广东顺祥陶瓷有限公司，产品为日用陶瓷，并列不同配件的食品接触要求；洗碗机、微波炉等适用性以产品条码标签为准。",
+      "limitation": "这是企业食品接触材料声明，不是劳动审核或逐款制造标签。页面标2024-09-15，当前附图却引用2025版标准且未见签发日，因此不把页面日期或图片文件名当作当前声明签发日期。六张附图已取得，本次目视第1、2、3、6页。"
+    },
+    {
+      "id": "shunxiang-tailer-bowl-jd",
+      "title": "京东纯白泰勒4.5英寸饭碗两只装（10182312794302）",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://item.jd.com/product/6GVsZdXLo5pqzLelUSrD_A.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始HTML标题、canonical和mobile-agent商品号10182312794302",
+      "summary": "直接商品页标题列顺祥纯白泰勒、4.5英寸、2个；canonical和移动商品链接均指向同一独立货号。",
+      "limitation": "原始HTML已读取。没有取得该货号具名制造标签；页面同时含其他碗盘的推荐链接，未把推荐货号10101113096136当成当前商品。价格、地区库存另核；仅114px缩略图未采用。"
+    },
+    {
+      "id": "shunxiang-white-plate-jd",
+      "title": "京东顺祥纯白8英寸圆盘两只装（10101113096140）",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/61966614dc47c0354f04.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始HTML商品号10101113096140标题和变体“8英寸圆盘(2只装)”",
+      "summary": "当前目录卡片列顺祥纯白色陶瓷圆盘，8英寸、2只装，并给出独立商品入口及对应系列图。",
+      "limitation": "直接数字货号页仅返回通用框架，销售依据为查阅日原始目录卡片。该卡片图片展示多个碗盘，未解释为整套出售；8英寸平盘是另一货号，未混用。制造标签、地区库存和配送仍另核。"
+    },
+    {
+      "id": "shunxiang-jinan-118mm-sample",
+      "title": "济南抽查表中的顺祥118mm日用陶瓷样品",
+      "publisher": "济南市市场监督管理局",
+      "type": "政府产品质量抽查",
+      "url": "https://amr.jinan.gov.cn/cms_files/complat3/48725/attach/20261/055119e40113452c9f4f01ed422575d8.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始PDF第127页第1050行；表头与原页已查看",
+      "summary": "第1050行列118mm日用陶瓷，标称生产单位为广东顺祥陶瓷有限公司；受检零售商另列济南华联药山超市有限责任公司泺口店。",
+      "limitation": "样品名称仅为日用陶瓷，日期为未提供；没有具体花色、款号，不能对应本次4.5英寸纯白泰勒饭碗或8英寸圆盘。受检零售商的信用代码不是制造企业信用代码，质量合格也不属于劳动评价。"
+    },
+    {
+      "id": "shibazi-s2504a-jd",
+      "title": "京东十八子作银盈斩切刀S2504-A（1154418）",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/6196e8e73b10637385e8.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始HTML商品号1154418及型号S2504-A标题、主图",
+      "summary": "当前目录有银盈斩切刀S2504-A单刀的独立货号和对应原图；未选择同页S2504-B切片刀或S2504七件套。",
+      "limitation": "直接数字货号页仅返回通用框架，销售依据为目录卡片。宣传图中的排名、销量与材质性能宣传未作独立结论；图片不提供当前具名制造标签、地区库存或报价。"
+    },
+    {
+      "id": "shibazi-shanghai-sampling-2017",
+      "title": "上海2017年不锈钢厨具抽查中的S2504-A",
+      "publisher": "上海市人民政府／市质量技术监督部门",
+      "type": "政府抽查公开索引",
+      "url": "https://www.shanghai.gov.cn/nw12344/20200813/0001-12344_54797.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "2017年不锈钢厨具结果公开索引表第40行",
+      "summary": "第40行列十八子作银盈快刃斩切刀S2504-A及阳江十八子集团有限公司；相邻R102条目的制造商则是阳江十八子厨业有限公司。",
+      "limitation": "直接请求返回403，本次仅核对公开索引。记录是2017年历史样品，未证明现售批次未换厂；同品牌不同法人不可归并，质量抽查不作为劳动合规依据。"
+    },
+    {
+      "id": "shibazi-democratic-management-2024",
+      "title": "广东省总工会报道十八子集团民主管理",
+      "publisher": "广东省总工会／南方工报",
+      "type": "工会工作报道",
+      "url": "https://www.gdftu.org.cn/ghyw/mzgl/content/post_1265335.html",
+      "publishedAt": "2024-10-15",
+      "checkedAt": "2026-09-12",
+      "locator": "标题、日期及阳江十八子集团有限公司工会段",
+      "summary": "报道具名十八子集团工会的职工建议渠道，并介绍江城区厂务公开、集体协商等工作，提供劳动关系调查线索。",
+      "limitation": "原始HTML已读取。具体企业、区内总体工作和其他企业事例分开记录；这篇报道没有对所选刀具制造厂的合同、工资社保、工时休息和劳动保护作全面审核结论。"
+    },
+    {
+      "id": "zenxin-fh0103-jd",
+      "title": "京东振兴FH0103双格饭盒950mL随机色单个",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/619610f3b85a89ac2e39.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始HTML商品10154096048896，小号950ML颜色随机1个FH0103",
+      "summary": "当前独立商品卡片把FH0103、950mL、颜色随机、单个明确对应；同卡大号1400mL款为FH1245。",
+      "limitation": "原始HTML和商品图已取得，图中展示三种颜色不代表三件装。未取得本款完整制造背标，不把FH0097、1.1L等旧抽查移用于本款；地区库存和使用条件以实物及销售页为准。"
+    },
+    {
+      "id": "zenxin-nansha-fh0097-history",
+      "title": "广州2016年抽样中的振兴FH0097饭盒报道",
+      "publisher": "中国质量新闻网",
+      "type": "政府抽查报道公开索引",
+      "url": "https://m.cqn.com.cn/ms/content/2017-04/26/content_4226233.htm",
+      "publishedAt": "2017-04-26",
+      "checkedAt": "2026-09-12",
+      "locator": "公开索引表第63项：FH0097时尚双格饭盒（小号）",
+      "summary": "报道转述广州抽查，列振兴FH0097时尚双格饭盒、样品日期2016-09-12及广州市南沙区振兴塑料有限公司。",
+      "limitation": "本次使用公开索引，未取得这篇报道原始HTML。仅提供品牌和历史制造商线索；FH0097与本次FH0103不同，不确认现售款制造商或任何劳动结论。"
+    },
+    {
+      "id": "longstar-lk2017-jd",
+      "title": "京东龙士达2.5L塑料保鲜盒（1093993）",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/hprm/6196a5aa1b3bccead93e.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "查阅日原始HTML商品1093993及该卡片原始220×220图片",
+      "summary": "当前目录卡片为龙士达2.5L透明塑料保鲜盒，独立商品1093993；直接引用的原图可读LK-2017、2.5L和22×15.5×11.5cm。",
+      "limitation": "原始HTML与图片均已取得并查看。当前原页内容不同于搜索缓存中的LK2000等变体，记录采用当前卡片；图片正面没有具名生产者，材质使用温度及地区库存另核。"
+    },
+    {
+      "id": "longstar-lk2015-zhejiang-history",
+      "title": "浙江2018年保鲜盒抽查中的龙士达LK-2015",
+      "publisher": "中国质量新闻网",
+      "type": "政府抽查报道公开索引",
+      "url": "https://m.cqn.com.cn/ms/content/2018-09/21/content_6281608.htm",
+      "publishedAt": "2018-09-21",
+      "checkedAt": "2026-09-12",
+      "locator": "公开索引表第2行：1000ml小长方保鲜盒LK-2015",
+      "summary": "报道转述浙江2018年第二季度检查，第2行列龙士达LK-2015、1000mL、2017-10-26样品及浙江龙士达家居用品有限公司。",
+      "limitation": "直接请求返回405，使用公开索引。不是本次LK-2017、2.5L款，不能跨型号套用制造商；也不构成当前供货、劳动合规或品牌全部商品的证明。"
     }
   ],
   "companies": [
@@ -12913,6 +13057,227 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "补具名制造法人可适用的劳动守法评级、综合劳动评价或独立劳动审核；同时找砧板当前个人零售入口，并补加长加粗50双款的实际制造标签。"
+    },
+    {
+      "id": "shunxiang-ceramics",
+      "name": "顺祥陶瓷",
+      "legalName": "广东顺祥陶瓷有限公司",
+      "location": "广东省潮州市枫溪",
+      "origin": "china",
+      "originNote": "品牌官网、盖章声明和政府抽查具名广东陶瓷企业，具体所选碗盘制造关系仍待补。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用生产企业工时资料待核",
+      "restLabel": "适用生产企业休息资料待核",
+      "cardNote": "碗盘零售规格已核 · 制造与劳动待补",
+      "scope": "纯白泰勒4.5英寸饭碗两只装及纯白8英寸圆盘两只装；官网声明为日用陶瓷大类，没有列这两个零售货号。",
+      "finding": "当前官网盖章声明具名日用陶瓷生产商，济南原表另有118mm样品。两款零售规格已核，但还缺具体型号制造标签和可适用的综合劳动依据。",
+      "caveats": [
+        "官网食品接触声明不是独立劳动审核，也没有列所选碗盘货号。",
+        "118mm抽查没有花色、款号，不能替代4.5英寸饭碗或8英寸圆盘的制造对应。",
+        "声明网页旧日期与当前附图引用标准不一致，未推定当前声明签发日；旧荣誉不作现行劳动结论。"
+      ],
+      "sourceIds": [
+        "shunxiang-corporate-profile",
+        "shunxiang-food-contact-declaration",
+        "shunxiang-jinan-118mm-sample",
+        "shunxiang-tailer-bowl-jd",
+        "shunxiang-white-plate-jd"
+      ],
+      "supply": [
+        {
+          "stage": "具体商品制造",
+          "status": "unknown",
+          "detail": "当前有具名陶瓷生产声明和历史抽查，所选两款的制造标签仍待核；原料和配件不从品牌总部推断。",
+          "sourceIds": [
+            "shunxiang-corporate-profile",
+            "shunxiang-food-contact-declaration",
+            "shunxiang-jinan-118mm-sample",
+            "shunxiang-tailer-bowl-jd",
+            "shunxiang-white-plate-jd"
+          ]
+        },
+        {
+          "stage": "原料及配件",
+          "status": "unknown",
+          "detail": "原料和配件供应商作为补充调查，未取得本款对应关系；不把上游逐人考勤作为统一收录条件。",
+          "sourceIds": []
+        },
+        {
+          "stage": "零售及配送",
+          "status": "unknown",
+          "detail": "已取得具体大陆零售资料，销售与配送经营者的劳动资料仍另核。",
+          "sourceIds": [
+            "shunxiang-tailer-bowl-jd",
+            "shunxiang-white-plate-jd"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "优先对应两款的商品条码与制造标签，再查该生产法人或具体工厂可适用的劳动守法评级、综合劳动评价或独立劳动审核。"
+    },
+    {
+      "id": "shibazi-yangjiang",
+      "name": "十八子作",
+      "legalName": "阳江十八子集团有限公司",
+      "location": "广东省阳江市",
+      "origin": "china",
+      "originNote": "上海历史抽查把该中国品牌的S2504-A对应阳江集团法人；2024年省总工会有具名报道，现售生产标签仍待核。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用生产企业工时资料待核",
+      "restLabel": "适用生产企业休息资料待核",
+      "cardNote": "S2504-A在售资料已核 · 劳动依据待补",
+      "scope": "银盈斩切刀S2504-A；2017年制造线索与2024年工会报道分别记录，不覆盖其他集团法人和刀具。",
+      "finding": "当前京东卡片有S2504-A，2017年公开抽查索引具名阳江十八子集团。省总工会2024年报道职工建议及民主管理，尚不足以形成该生产主体的综合劳动合规结论。",
+      "caveats": [
+        "S2504-A、S2504-B及S2504套刀不是同一商品。",
+        "集团、厨业公司及刀剪制品公司不是同一法人，不把不同企业的材料互相套用。",
+        "2017年抽查仅取得公开索引，不能确认现售型号所有批次未换厂；工会报道不是全面劳动审核。"
+      ],
+      "sourceIds": [
+        "shibazi-s2504a-jd",
+        "shibazi-shanghai-sampling-2017",
+        "shibazi-democratic-management-2024"
+      ],
+      "supply": [
+        {
+          "stage": "具体商品制造",
+          "status": "unknown",
+          "detail": "已有S2504-A历史具名生产线索，现售制造标签及其劳动守法评级、综合评价或独立审核仍待核。",
+          "sourceIds": [
+            "shibazi-s2504a-jd",
+            "shibazi-shanghai-sampling-2017",
+            "shibazi-democratic-management-2024"
+          ]
+        },
+        {
+          "stage": "原料及配件",
+          "status": "unknown",
+          "detail": "原料和配件供应商作为补充调查，未取得本款对应关系；不把上游逐人考勤作为统一收录条件。",
+          "sourceIds": []
+        },
+        {
+          "stage": "零售及配送",
+          "status": "unknown",
+          "detail": "已取得具体大陆零售资料，销售与配送经营者的劳动资料仍另核。",
+          "sourceIds": [
+            "shibazi-s2504a-jd"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "补1154418对应制造标签，按确认后的法人或工厂查可适用的综合劳动依据；有明确新文件再重查，避免重复旧行业报道。"
+    },
+    {
+      "id": "zenxin-nansha",
+      "name": "振兴 · 南沙制造线索",
+      "legalName": "广州市南沙区振兴塑料有限公司",
+      "location": "广东省广州市南沙区",
+      "origin": "china",
+      "originNote": "广州历史抽查具名振兴品牌的南沙制造企业；本次FH0103尚未与其对应，不由中国品牌直接判定本款产地。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用生产企业工时资料待核",
+      "restLabel": "适用生产企业休息资料待核",
+      "cardNote": "FH0103零售已核 · 实际制造商待补",
+      "scope": "以FH0103小号950mL单个随机色饭盒为调查对象，FH0097历史制造资料仅作品牌生产线索。",
+      "finding": "当前京东FH0103规格明确；2016年样品、2017年公开报道具名该企业生产另一型号FH0097，不能直接套用到本款。具名生产主体和适用劳动依据都仍待核。",
+      "caveats": [
+        "FH0097、FH0103与FH1245分别记录，不因同品牌双格外观近似便视为同款。",
+        "原图三个颜色是展示，零售选择为随机颜色单个。",
+        "历史质量抽查不是劳动证明；广州市振兴实业等其他法人资料不能未经对应直接归入本制造候选。"
+      ],
+      "sourceIds": [
+        "zenxin-fh0103-jd",
+        "zenxin-nansha-fh0097-history"
+      ],
+      "supply": [
+        {
+          "stage": "具体商品制造",
+          "status": "unknown",
+          "detail": "旧抽查对应FH0097，FH0103需当前具名制造标签后才能确认生产企业。",
+          "sourceIds": [
+            "zenxin-fh0103-jd",
+            "zenxin-nansha-fh0097-history"
+          ]
+        },
+        {
+          "stage": "原料及配件",
+          "status": "unknown",
+          "detail": "原料和配件供应商作为补充调查，未取得本款对应关系；不把上游逐人考勤作为统一收录条件。",
+          "sourceIds": []
+        },
+        {
+          "stage": "零售及配送",
+          "status": "unknown",
+          "detail": "已取得具体大陆零售资料，销售与配送经营者的劳动资料仍另核。",
+          "sourceIds": [
+            "zenxin-fh0103-jd"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得FH0103小号950mL的制造标签并核对实际法人；再查可适用的政府劳动结果或独立劳动审核，旧规格抽查不重复当作新依据。"
+    },
+    {
+      "id": "longstar-housewares",
+      "name": "龙士达",
+      "legalName": "浙江龙士达家居用品有限公司",
+      "location": "浙江省台州市",
+      "origin": "china",
+      "originNote": "浙江历史抽查具名该品牌的境内制造企业；所选LK-2017的当前制造关系仍待核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "适用生产企业工时资料待核",
+      "restLabel": "适用生产企业休息资料待核",
+      "cardNote": "LK-2017容量货号已核 · 制造与劳动待补",
+      "scope": "京东1093993对应LK-2017、2.5L单个保鲜盒；2018年LK-2015检查只作历史企业线索。",
+      "finding": "当前京东目录与原图已对应LK-2017、2.5L和独立商品号。旧检查中的制造商对应的是LK-2015，当前所选款缺具名制造标签和可适用劳动依据。",
+      "caveats": [
+        "LK-2015的1000mL历史记录不能移用于LK-2017的2.5L。",
+        "当前目录不同于旧搜索缓存，以直接取得的1093993卡片为准。",
+        "品质、标准参与及旧工会个人事迹不能替代所选工厂综合劳动结果；不同龙士达法人不自动合并。"
+      ],
+      "sourceIds": [
+        "longstar-lk2017-jd",
+        "longstar-lk2015-zhejiang-history"
+      ],
+      "supply": [
+        {
+          "stage": "具体商品制造",
+          "status": "unknown",
+          "detail": "保鲜盒正面图可对应型号容量，但未见制造背标；境内实际生产者仍待核。",
+          "sourceIds": [
+            "longstar-lk2017-jd",
+            "longstar-lk2015-zhejiang-history"
+          ]
+        },
+        {
+          "stage": "原料及配件",
+          "status": "unknown",
+          "detail": "原料和配件供应商作为补充调查，未取得本款对应关系；不把上游逐人考勤作为统一收录条件。",
+          "sourceIds": []
+        },
+        {
+          "stage": "零售及配送",
+          "status": "unknown",
+          "detail": "已取得具体大陆零售资料，销售与配送经营者的劳动资料仍另核。",
+          "sourceIds": [
+            "longstar-lk2017-jd"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "优先补1093993的制造背标，按确切工厂查劳动守法评级、综合劳动评价或独立审核；不重复用LK-2015旧抽查填补本款。"
     }
   ],
   "products": [
@@ -22051,6 +22416,264 @@
           ]
         }
       }
+    },
+    {
+      "id": "shunxiang-tailer-bowl-45in-2pack",
+      "name": "纯白泰勒饭碗 · 4.5英寸两只装",
+      "brand": "顺祥",
+      "companyId": "shunxiang-ceramics",
+      "category": "kitchen",
+      "description": "纯白泰勒款陶瓷饭碗，4.5英寸，两只装，按京东商品10182312794302整理。",
+      "tags": [
+        "饭碗",
+        "纯白泰勒",
+        "4.5英寸",
+        "两只装"
+      ],
+      "needs": [
+        "饭碗"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "未采用图片",
+      "url": "https://item.jd.com/10182312794302.html",
+      "market": "京东商品10182312794302，选择纯白泰勒4.5英寸碗2个。推荐区其他碗盘不属于本规格；地区库存、微波炉及洗碗机适用性以销售页和实物标签为准。",
+      "relationship": "品牌官网具名广东顺祥陶瓷，并发布日用陶瓷生产声明；当前该货号没有具体制造标签，济南118mm样品也未标明泰勒款。",
+      "relationshipSourceIds": [
+        "shunxiang-tailer-bowl-jd",
+        "shunxiang-food-contact-declaration",
+        "shunxiang-jinan-118mm-sample"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日直接零售HTML明确款式、4.5英寸、2个及canonical商品10182312794302。",
+          "sourceIds": [
+            "shunxiang-tailer-bowl-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "企业日用陶瓷声明及118mm抽查尚未对应本款条码、款式和制造标签。",
+          "sourceIds": [
+            "shunxiang-food-contact-declaration",
+            "shunxiang-jinan-118mm-sample"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得可对应该碗实际生产法人或工厂的劳动守法评级、综合劳动评价或独立劳动审核；材料声明不能替代。",
+          "sourceIds": [
+            "shunxiang-food-contact-declaration"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shunxiang-white-round-plate-8in-2pack",
+      "name": "纯白圆盘 · 8英寸两只装",
+      "brand": "顺祥",
+      "companyId": "shunxiang-ceramics",
+      "category": "kitchen",
+      "description": "纯白陶瓷圆盘，8英寸，两只装；图片为同卡片的碗盘系列展示，按所选圆盘规格购买。",
+      "tags": [
+        "餐盘",
+        "圆盘",
+        "8英寸",
+        "两只装"
+      ],
+      "needs": [
+        "餐盘"
+      ],
+      "image": "images/shunxiang-white-round-plate-8in-2pack.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/463473/18/18179/353175/6a44b9beF94ed17e7/008332032062cf98.png",
+      "imageRights": "顺祥／京东商品图片权利人",
+      "url": "https://item.jd.com/10101113096140.html",
+      "market": "京东商品10101113096140，选择8英寸圆盘2只装。系列图中的碗和其他盘不包含在此选项；地区库存和配送另核。",
+      "relationship": "当前卡片明确顺祥品牌和8英寸圆盘两只装，官网日用陶瓷声明未细分该商品号的制造标签。",
+      "relationshipSourceIds": [
+        "shunxiang-white-plate-jd",
+        "shunxiang-corporate-profile",
+        "shunxiang-food-contact-declaration"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日原始目录存在独立货号10101113096140及准确两只装圆盘变体。",
+          "sourceIds": [
+            "shunxiang-white-plate-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚未取得本款圆盘具名制造标签；泛类陶瓷声明与118mm样品不能单独对应8英寸圆盘。",
+          "sourceIds": [
+            "shunxiang-food-contact-declaration",
+            "shunxiang-jinan-118mm-sample"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "实际制造关系及可适用的政府综合劳动结果或独立劳动审核仍待补；未把产品材料符合性当成劳动合规。",
+          "sourceIds": [
+            "shunxiang-food-contact-declaration"
+          ]
+        }
+      }
+    },
+    {
+      "id": "shibazi-s2504a-kitchen-knife",
+      "name": "银盈斩切刀 S2504-A · 单把",
+      "brand": "十八子作",
+      "companyId": "shibazi-yangjiang",
+      "category": "kitchen",
+      "description": "银盈系列不锈钢斩切刀S2504-A，单把，用于日常厨房切配。",
+      "tags": [
+        "菜刀",
+        "斩切刀",
+        "S2504-A",
+        "银盈"
+      ],
+      "needs": [
+        "菜刀"
+      ],
+      "image": "images/shibazi-s2504a-kitchen-knife.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/497742/32/11363/114510/6a83c088F3d2fea25/0083320320cc4fce.jpg",
+      "imageRights": "十八子作／京东商品图片权利人",
+      "url": "https://item.jd.com/1154418.html",
+      "market": "京东商品1154418，选择S2504-A单把斩切刀。当前价格、地区库存与具体使用条件以销售页和实物说明为准。",
+      "relationship": "当前零售明确S2504-A；上海2017年同型号抽查公开索引列阳江十八子集团有限公司，现售制造标签还需核对。",
+      "relationshipSourceIds": [
+        "shibazi-s2504a-jd",
+        "shibazi-shanghai-sampling-2017"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日原始目录存在S2504-A及独立商品1154418，未与S2504-B或七件套混用。",
+          "sourceIds": [
+            "shibazi-s2504a-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已有2017年同型号具名阳江制造线索，尚未确认现售批次制造标签及是否变更生产法人。",
+          "sourceIds": [
+            "shibazi-shanghai-sampling-2017",
+            "shibazi-s2504a-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2024年工会报道提供职工参与线索，尚缺实际制造厂可适用的劳动守法评级、综合劳动评价或独立劳动审核。",
+          "sourceIds": [
+            "shibazi-democratic-management-2024"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zenxin-fh0103-lunchbox-950ml",
+      "name": "双格饭盒 FH0103 · 950mL单个随机色",
+      "brand": "振兴",
+      "companyId": "zenxin-nansha",
+      "category": "kitchen",
+      "description": "FH0103小号双格塑料饭盒，950mL，单个，颜色随机，用于日常带饭。",
+      "tags": [
+        "饭盒",
+        "双格饭盒",
+        "FH0103",
+        "950mL"
+      ],
+      "needs": [
+        "饭盒"
+      ],
+      "image": "images/zenxin-fh0103-lunchbox-950ml.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/233589/16/37634/70203/681c14a5F383da8fb/5e216d5ef9d52e39.jpg",
+      "imageRights": "振兴／京东商品图片权利人",
+      "url": "https://item.jd.com/10154096048896.html",
+      "market": "京东商品10154096048896，选择小号950ML颜色随机1个。主图展示多种颜色，实际为单个；大号1400mL为FH1245，使用条件及地区库存另核。",
+      "relationship": "京东当前卡片把FH0103与950mL单个对应；旧FH0097抽查中的南沙制造企业仅是后续核对线索。",
+      "relationshipSourceIds": [
+        "zenxin-fh0103-jd",
+        "zenxin-nansha-fh0097-history"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日原始HTML有FH0103、950mL、随机色单个及独立货号。",
+          "sourceIds": [
+            "zenxin-fh0103-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "本款缺完整制造标签；不能把2016年FH0097样品的南沙生产企业直接填入FH0103。",
+          "sourceIds": [
+            "zenxin-fh0103-jd",
+            "zenxin-nansha-fh0097-history"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "实际制造商仍待确认，也未取得本款可适用的劳动守法评级、综合评价或独立审核。",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "longstar-lk2017-food-container-2500ml",
+      "name": "塑料保鲜盒 LK-2017 · 2.5L单个",
+      "brand": "龙士达",
+      "companyId": "longstar-housewares",
+      "category": "kitchen",
+      "description": "LK-2017透明塑料保鲜盒，2.5L，单个；原图标示22×15.5×11.5cm，用于食品收纳。",
+      "tags": [
+        "保鲜盒",
+        "LK-2017",
+        "2.5L",
+        "食品收纳"
+      ],
+      "needs": [
+        "保鲜盒"
+      ],
+      "image": "images/longstar-lk2017-food-container-2500ml.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/276187/12/14030/53665/67eb7f1fFbc24a9ec/7d2cd843e42c97cd.jpg",
+      "imageRights": "龙士达／京东商品图片权利人",
+      "url": "https://item.jd.com/1093993.html",
+      "market": "京东商品1093993，对应2.5L单个。原图内水果为陈列示意；具体使用温度、加热条件和地区库存以实物标签及销售页为准。",
+      "relationship": "当前京东卡片容量与原图LK-2017型号对应；已知浙江龙士达的旧抽查针对LK-2015，尚未对应本款制造标签。",
+      "relationshipSourceIds": [
+        "longstar-lk2017-jd",
+        "longstar-lk2015-zhejiang-history"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "查阅日原始目录有商品1093993及2.5L标题，对应原图可读LK-2017、2.5L。",
+          "sourceIds": [
+            "longstar-lk2017-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "正面图没有具名生产者，LK-2015旧记录不能代替LK-2017当前制造背标。",
+          "sourceIds": [
+            "longstar-lk2017-jd",
+            "longstar-lk2015-zhejiang-history"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "尚未取得可对应该款实际生产法人或工厂的劳动守法评级、综合劳动评价或独立劳动审核。",
+          "sourceIds": []
+        }
+      }
     }
   ],
   "coverage": [
@@ -22663,7 +23286,7 @@
           "query": "保鲜膜"
         }
       ],
-      "note": "已有水杯、炒锅、奶锅、蒸锅、砧板、筷子、保鲜袋和保鲜膜8款具体资料。茶花XL330、M60与连江制造企业已对应，但劳动依据待补；双枪砧板有具名制造记录、现售待补，50双加长加粗竹筷仍缺制造标签。饭碗、餐盘、菜刀、饭盒和保鲜盒5项尚缺具体资料。待核查不表示企业违法或市场上没有合规商品。",
+      "note": "厨房13项细分需求均已有具体资料：本次补纯白泰勒4.5英寸两只装饭碗、8英寸两只装圆盘、S2504-A菜刀、FH0103饭盒和LK-2017保鲜盒。五款大陆零售规格已核，实际制造标签及适用劳动依据仍待补。茶花膜袋、双枪砧板等既有记录保留原缺口；13项研究覆盖不等于已找到13项合规商品。",
       "sourceIds": [
         "dehua-labor-2025",
         "qixuanyuan-dragon-mug-jd",
@@ -22677,7 +23300,14 @@
         "chahua-lianjiang-hiring-2022",
         "suncha-jinan-kitchen-sampling",
         "suncha-chopsticks50-jd",
-        "suncha-board-jd-index"
+        "suncha-board-jd-index",
+        "shunxiang-tailer-bowl-jd",
+        "shunxiang-white-plate-jd",
+        "shunxiang-food-contact-declaration",
+        "shibazi-s2504a-jd",
+        "shibazi-democratic-management-2024",
+        "zenxin-fh0103-jd",
+        "longstar-lk2017-jd"
       ]
     },
     {
