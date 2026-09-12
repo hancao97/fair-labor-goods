@@ -7078,6 +7078,32 @@
       },
       "filename": "images/gaopinle-classic-a4-70g-5pack.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "baofeng-bf888s-classic-single",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/379621/24/13041/78398/694f5242F8870302f/75a65a2f972e1364.jpg",
+      "source_url": "https://www.jd.com/hprm/99874585f31074e1c8ef.html",
+      "product_url": "https://item.jd.com/3931742.html",
+      "title": "宝锋（BAOFENG）BF-888S 对讲机 商用民用大功率远距离商业宝峰手持电台对讲器 经典爆款【单只装】",
+      "width": 220,
+      "height": 220,
+      "bytes": 14098,
+      "sha256": "fc0d83fd60717fc0f281ca030e55bac45b157101db6d30dff1def6b6ace71c3b",
+      "checkedAt": "2026-09-12",
+      "visually_verified": true,
+      "visual_check": "原始零售卡片商品号3931742；主图可读BF-888S与宝锋标识，为一台经典款对讲机。保留原图全部营销文字，不从图片推断劳动条件或实时性能。",
+      "reuse_info": {
+        "rights_holder": "宝锋／京东商品图片权利人",
+        "license": "未发现开放授权；作为署名、可追溯的商品资料插图使用，不纳入项目 MIT 许可。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 28022,
+        "sha256": "10fa554aed6f1f6e314ec1c1b450905c4c8a1d6a45734b9be242a587b85e06bf"
+      },
+      "filename": "images/baofeng-bf888s-classic-single.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

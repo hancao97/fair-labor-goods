@@ -4350,9 +4350,9 @@
       "publisher": "南安市人力资源和社会保障局",
       "type": "政府评价",
       "url": "https://www.nanan.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/rlzyhshbzj/zfxxgkml/202605/t20260522_3293766.htm",
-      "summary": "南人社〔2026〕24 号公布最终评价结果。名单第 1 行为九牧厨卫股份有限公司，统一社会信用代码 913505005673244367，2025 年度劳动保障守法诚信 A 级；注册地址/实际经营地列福建省南安经济开发区九牧工业园。",
+      "summary": "南人社〔2026〕24 号公布最终评价结果。名单第 1 行九牧厨卫股份有限公司（913505005673244367）、第 2 行福建宝锋电子有限公司（91350583741686521M）均为 2025 年度劳动保障守法诚信 A 级；注册地址/实际经营地分别为南安经济开发区九牧工业园及南安市霞美镇长福村大厅 888 号。",
       "limitation": "评价仅覆盖具名法人和 2025 年度，不扩大到同品牌其他制造商、经销商或未来所有用工行为；名单也有 C 级企业，不能把整张名单视为 A 级。",
-      "locator": "正文、附件表第 1 行；2026-05-21 成文，2026-05-22 发布",
+      "locator": "政府原始网页正文、附件表第 1、2 行；2026-05-21 成文，2026-05-22 发布",
       "publishedAt": "2026-05-22",
       "checkedAt": "2026-09-12"
     },
@@ -5699,6 +5699,42 @@
       "locator": "正文评价期间与附件1、附件2；企业名单尚未成功读取",
       "summary": "公告明确评价2025-01-01至2025-12-31的劳动守法情况，公布5589家A级及B、C级附件，提供了核对新会制造企业的最新名单入口。",
       "limitation": "已读公告公开索引及附件链接，但两个原始XLSX直接请求均返回403，未取得企业条目。不能据此认定亚太森博或任何未核对企业已列入A级；没有以全区数量推断某家企业评级。"
+    },
+    {
+      "id": "zalantun-bf888s-manufacturer-2024",
+      "title": "扎兰屯电视频道高清化改造项目成交明细：宝锋 BF-888S 制造商与产地",
+      "publisher": "内蒙古自治区政府采购网／呼伦贝尔市鸿德工程项目管理有限公司",
+      "type": "政府采购记录",
+      "url": "https://www.ccgp-neimenggu.gov.cn/gpx-bid-file/ZF_JGBM_000001/150783/2024/9/26/402881e190866c0d01922820e43c21ff/gpx-bidconfirm/402881ef9271b9a901927515b17677a0.pdf?accessCode=38cc29cf6de90f6dc1be4598096d4910",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始 PDF 第 4 页，品目号 1-54；项目 HZCZLTS-X-H-240080，文件落款 2024-10-10",
+      "summary": "成交明细明确列对讲机、宝锋 BF-888S、制造商福建宝锋电子有限公司、产地中国；采购单位为“对”。原始 PDF 已读取并目视表头与该行。",
+      "limitation": "这是具名型号的历史制造对应记录，不是劳动评价、当前零售报价或型号核准证明。文件落款不等同于网页发布日期；采购单位“对”也不决定当前零售包装。未从该表扩展到 BF-888S Plus 或其他升级版。"
+    },
+    {
+      "id": "baofeng-bf888s-classic-jd",
+      "title": "京东宝锋 BF-888S 经典款单只装零售卡片（3931742）",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/hprm/99874585f31074e1c8ef.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "原始 HTML 中商品号 3931742 的标题、单只装规格、商品链接与对应主图",
+      "summary": "查阅日京东公开列表包含宝锋 BF-888S 经典爆款单只装，链接指向 item.jd.com/3931742.html；原始卡片与 BF-888S 主图已逐一对应。",
+      "limitation": "商品详情直接请求仅返回站点框架，销售依据为京东公开列表。未进入下单流程核实各地库存、实时价格、配件或配送；页面中 Plus、旗舰版、双台装等分别对应其他商品，不能混用。营销中的距离、功率、民用表述不作独立验证或免执照依据。"
+    },
+    {
+      "id": "miit-interphone-rules-2025",
+      "title": "150MHz 和 400MHz 频段对讲机频率使用管理和设备技术要求（国无办〔2025〕1号）",
+      "publisher": "国家无线电办公室／工业和信息化部",
+      "type": "法规与管理规定",
+      "url": "https://www.miit.gov.cn/jgsj/wgj/wjfb/art/2025/art_31a0765b521e4dc493262188aea65618.html",
+      "publishedAt": "2025-02-17",
+      "checkedAt": "2026-09-12",
+      "locator": "公开索引正文第十、十一、十七、十九、二十二条；2025-03-01 施行",
+      "summary": "通知区分专用、共用和公众对讲机的用频与设台要求。共用对讲机需办理电台执照；符合规定的公众对讲机免于用频许可及设台执照。2026-03-01 起不再受理和审批与通知不符的相关新许可及型号核准申请。",
+      "limitation": "工信部原页面直接 HTTP 请求返回 403，正文由公开搜索索引读取并标明取得方式。规定不证明某一 BF-888S 零售版本的核准状态，亦不是劳动评价；使用资格应按设备核准范围及适用手续确认。"
     }
   ],
   "companies": [
@@ -12393,6 +12429,79 @@
       "actualRestVerified": false,
       "nextCheck": "取得新会2025年度劳动评价的可核实企业条目，核对广东法人的具体等级；同时关注现售包装或生产主体变化。",
       "assessments": []
+    },
+    {
+      "id": "baofeng",
+      "name": "宝锋",
+      "legalName": "福建宝锋电子有限公司",
+      "location": "福建泉州南安",
+      "origin": "china",
+      "originNote": "政府采购记录将宝锋 BF-888S 品牌与福建宝锋电子有限公司、中国制造产地对应；劳动评价名单交叉列出南安境内地址。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年劳动守法 A 级",
+      "scope": "福建宝锋电子有限公司，统一社会信用代码 91350583741686521M；南安名单列霞美镇长福村大厅 888 号，评价覆盖 2025 年度。",
+      "finding": "南安市最终名单第 2 行将该法人评为 2025 年度劳动守法 A 级。BF-888S 有同名制造企业及中国产地的政府采购记录，经典款单只装已有国内零售入口。",
+      "caveats": [
+        "政府评价对应具名法人及 2025 年度，不是未来所有用工行为的保证。",
+        "只收录已对应制造商的 BF-888S 经典款，不扩展至所有宝锋、宝峰近名商品、Plus 版本、配件、其他制造商或经销商。",
+        "劳动评价不替代无线电设备核准与使用许可；店铺“民用”字样不代表免执照。"
+      ],
+      "sourceIds": [
+        "nanan-labor-2025",
+        "law-labor-rating",
+        "zalantun-bf888s-manufacturer-2024",
+        "baofeng-bf888s-classic-jd",
+        "miit-interphone-rules-2025"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "宝锋品牌、BF-888S 型号及福建制造法人由政府采购明细对应；当前经典款单只装对应京东独立商品号。",
+          "sourceIds": [
+            "zalantun-bf888s-manufacturer-2024",
+            "baofeng-bf888s-classic-jd"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "policy",
+          "detail": "BF-888S 的具名制造企业与南安劳动守法 A 级评价主体一致；历史制造记录与年度劳动评价分别保留适用范围。",
+          "sourceIds": [
+            "zalantun-bf888s-manufacturer-2024",
+            "nanan-labor-2025"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "电子元件、电池、包装和运输的具体雇佣主体未逐一核对，作为补充资料继续调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "关注该制造企业新的劳动评价及相反证据；复核零售版本、制造商和设备核准资料变化。",
+      "assessments": [
+        {
+          "subject": "福建宝锋电子有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "nanan-labor-2025",
+          "limitation": "评价限具名法人和 2025 年度；本站复核期限不是政府规定的评级有效期，不替代产品核准或使用许可。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2027-05-22"
+        }
+      ]
     }
   ],
   "products": [
@@ -21198,6 +21307,62 @@
           ]
         }
       }
+    },
+    {
+      "id": "baofeng-bf888s-classic-single",
+      "name": "BF-888S 手持对讲机 · 经典款单只装",
+      "brand": "宝锋",
+      "companyId": "baofeng",
+      "category": "electronics",
+      "description": "BF-888S 经典款手持对讲机，单只装，用于语音通信。购买前需核对设备型号核准信息与用频、设台要求。",
+      "tags": [
+        "对讲机",
+        "手持通信",
+        "BF-888S",
+        "单只装",
+        "南安制造"
+      ],
+      "needs": [
+        "对讲机"
+      ],
+      "image": "images/baofeng-bf888s-classic-single.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/379621/24/13041/78398/694f5242F8870302f/75a65a2f972e1364.jpg",
+      "imageRights": "宝锋／京东商品图片权利人",
+      "url": "https://item.jd.com/3931742.html",
+      "market": "大陆京东零售入口，商品号 3931742、单只装；库存、配件及配送以下单页为准。应按设备核准范围办理适用的用频、设台手续，不能把店铺“民用”字样理解为免执照。",
+      "relationship": "政府采购原始明细品目 1-54 将宝锋 BF-888S 的制造商列为福建宝锋电子有限公司、产地列为中国；国内京东同型号经典款单只装另行对应。",
+      "relationshipSourceIds": [
+        "zalantun-bf888s-manufacturer-2024",
+        "baofeng-bf888s-classic-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东公开列表的准确商品号 3931742、BF-888S 经典款单只装标题及主图已对应；没有用 Plus 或双台装代替。详情直接请求仅返回站点框架，未核实实时库存。",
+          "sourceIds": [
+            "baofeng-bf888s-classic-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "福建宝锋电子有限公司",
+          "detail": "内蒙古政府采购网原始成交明细第 4 页、品目 1-54 明确 BF-888S、福建宝锋电子有限公司及中国产地；南安政府记录交叉对应境内法人地址。记录落款 2024-10-10，未核验当前每一零售批次的生产线。",
+          "sourceIds": [
+            "zalantun-bf888s-manufacturer-2024",
+            "nanan-labor-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "nanan-labor-2025",
+          "detail": "南安市 2025 年度最终劳动守法评价第 2 行列福建宝锋电子有限公司为 A 级，与该型号具名制造主体一致；限定评价年度及法人，不要求固定双休或全部上游记录。",
+          "sourceIds": [
+            "nanan-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -21953,9 +22118,13 @@
         {
           "label": "固态硬盘",
           "query": "固态硬盘"
+        },
+        {
+          "label": "对讲机",
+          "query": "对讲机"
         }
       ],
-      "note": "12项数码细分需求均已有具体型号资料。新增天逸510S货号90XS0075CD、安克A1383 20000mAh移动电源、小米BE3600 2.5G版路由器。A1383已对应国内零售和东莞制造商；路由器已对应中国官方购买入口。制造企业的劳动依据继续核查，资料覆盖不代表正式收录。",
+      "note": "13项数码细分需求均已有具体型号资料。BF-888S经典款单只装已对应国内零售、中国产地及同一制造法人的2025年度劳动A级，成为数码类首项正式收录。手机、电脑等其余需求仍需继续核查；对讲机不替代这些需求。A1383已对应国内零售和东莞制造商，劳动依据仍待补。",
       "sourceIds": [
         "apple-rcc-job",
         "anker-2024",
@@ -21971,7 +22140,11 @@
         "anker-a1383-youzan-retail",
         "anker-a1383-msds-2026",
         "xiaomi-be3600-25g-official",
-        "xiaomi-be3600-25g-china-buy"
+        "xiaomi-be3600-25g-china-buy",
+        "nanan-labor-2025",
+        "zalantun-bf888s-manufacturer-2024",
+        "baofeng-bf888s-classic-jd",
+        "miit-interphone-rules-2025"
       ]
     },
     {
