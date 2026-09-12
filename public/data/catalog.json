@@ -7847,6 +7847,114 @@
       "locator": "店名、地址和营业时间区；餐厅编号16226489",
       "summary": "直接读取公开HTML，列必胜客（雨润店）、长江中路917号铜陵雨润中央购物广场一层二层，常规营业时间10:00—22:00。与携程餐品页店址及门店名称对应。",
       "limitation": "平台营业时间不是当天营业或可点菜品的保证；查阅时为营业时段外的“目前休息中”，不等同于永久停业。两平台属同一集团，不冒充两个独立核验机构；经营与劳动结论另据具名政府记录。"
+    },
+    {
+      "id": "thermos-jiangsu-harmony-award2024",
+      "title": "膳魔师江苏获省级优秀劳动关系和谐企业的官方颁牌记录",
+      "publisher": "淮安市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://rsj.huaian.gov.cn/col/3932_871247/art/17119008/1713436014312OatFyqzx.html",
+      "publishedAt": "2024-04-16",
+      "checkedAt": "2026-09-13",
+      "locator": "《市人社局举办“和谐满淮 益企同行”首场企业HR沙龙活动》经验交流段",
+      "summary": "市人社局具名报道，4月12日向膳魔师（江苏）家庭制品有限公司等四家企业颁发省级优秀劳动关系和谐企业奖牌。记录确认的是该江苏法人，不能扩展为同品牌全部工厂的评价。",
+      "limitation": "采用已读取的政府原页公开索引全文；原页直接HTTP返回403后停止请求。2024-04-16是官方颁牌报道日期，不是实际审查区间；未取得该企业的逐项评分或更新的具名综合结果。"
+    },
+    {
+      "id": "huaian-harmony-review-process2024",
+      "title": "淮安劳动关系和谐企业评价程序说明",
+      "publisher": "淮安市人力资源和社会保障局",
+      "type": "政府评价制度",
+      "url": "https://rsj.huaian.gov.cn/col/3932_871247/art/o/17067168/1707298860843htazvfON.html",
+      "publishedAt": "2024-02-07",
+      "checkedAt": "2026-09-13",
+      "locator": "《我市奏响劳动关系“和谐同行”进行曲》严格考核验收段",
+      "summary": "人社局说明和谐企业评价依照《劳动关系和谐企业评价规范》，包含企业自评、职工满意度测评与三方共评，并禁止规范外或不经程序评定。",
+      "limitation": "读取政府原页公开索引。这是当地评价程序说明，不能替代膳魔师具名结果，也不提供该企业实际检查日期、考勤或评分表。"
+    },
+    {
+      "id": "jiangsu-harmony-standard2019",
+      "title": "DB32/T 2019—2019劳动关系和谐企业评价规范全文",
+      "publisher": "江苏省市场监督管理局；全国标准信息公共服务平台",
+      "type": "政府评价制度",
+      "url": "https://dbba.sacinfo.org.cn/portal/download/90ea2df6290c4ef108d61d6ebb6de7398ed778b8e684918f4602fbca7d832925",
+      "publishedAt": "2019-02-28",
+      "checkedAt": "2026-09-13",
+      "locator": "PDF第3—6页：4.1、4.3—4.6、5.1、7.2及8.2；附录A",
+      "summary": "沿国家标准平台该标准页面的公开全文、下载链接取得11页原始PDF，并核对正文和页面。评价包含合同、工资及加班报酬、工时休假、社保与劳动保护；另列否决事项、三方专项评价和职工测评程序。",
+      "limitation": "使用2019版，不以已替代的2011版或其他省份标准代替。标准规定评价内容与评分，不表示任一企业全部项目满分，也不能单独证明某企业通过评价。"
+    },
+    {
+      "id": "jiangsu-harmony-final-list-copy2023",
+      "title": "江苏省优秀劳动关系和谐企业名单附件副本",
+      "publisher": "江苏省有关评价部门；人社通文件副本",
+      "type": "政府名单副本",
+      "url": "https://file.m12333.cn/upfile/download/ec66c49c-7378-3144-584e-1aa7fb5cc97a.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "11页PDF第7页，淮安名单首行及同行其他获评企业",
+      "summary": "附件标题为江苏省优秀劳动关系和谐企业名单，第7页明确列膳魔师（江苏）家庭制品有限公司，及官方颁牌报道中的丰瑞、美多美、淮安公交等企业。已直接读取PDF并目视核对第7页。",
+      "limitation": "第三方托管副本，没有可据此确定的正式发布日期；不能冒充政府原站文件，也不是拟认定名单。膳魔师结果以淮安市人社局具名颁牌报道为独立核验依据。"
+    },
+    {
+      "id": "thermos-tclf720s-official",
+      "title": "TCLF-720S魔法焖烧罐官网型号资料",
+      "publisher": "膳魔师中国官网",
+      "type": "品牌商品资料",
+      "url": "https://www.thermos.com.cn/?product-product-detail-363.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "产品型号、容量、颜色及说明书下载链接",
+      "summary": "直接读取官网公开HTML，型号为TCLF-720S，容量720mL，颜色列亚光黑和岩灰绿；同页提供高真空保温系列说明书下载。",
+      "limitation": "官网建议零售价不是当前成交价；本页本身未指定单一制造企业。需要结合其链接的说明书识别TCC与TJC，不能因品牌在江苏设厂而认定所有批次均由该厂生产。"
+    },
+    {
+      "id": "thermos-tclf720s-manual",
+      "title": "TCLF-720S官网所附生产商代码说明",
+      "publisher": "膳魔师中国官网",
+      "type": "官方产品说明书",
+      "url": "https://www.thermos.com.cn/data/product/37101-5325%20%20%E6%96%B0%E8%AF%B4%E6%98%8E%E4%B9%A6_20201027144702.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "两页PDF第1页中栏“销售处以及制造商”，印刷第6页",
+      "summary": "由具体型号官网链接取得原始PDF并目视读取。说明书同时列膳魔师（中国）家庭制品有限公司TCC、昆山金阳路55号，以及膳魔师（江苏）家庭制品有限公司TJC、淮安安澜南路7号，并要求参照底部贴纸第二行辨认实际生产商和日期。",
+      "limitation": "这是多产品通用说明书，存在两家境内生产商。TCC示例代码不是本款实物标签，亦未显示零售货号对应哪家；不能把两家名称同时出现解释为本款必由TJC生产。文件名时间只用于识别版本，不补造发布日期。"
+    },
+    {
+      "id": "thermos-tclf720-mbk-jd",
+      "title": "TCLF焖烧罐720mL黑色MBK国内零售选项",
+      "publisher": "京东",
+      "type": "大陆零售资料",
+      "url": "https://www.jd.com/hprm/61962609a6379e5c13f1.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "TCLF-520/720商品卡片的黑色MBK 720ml选项，货号10037246934031",
+      "summary": "直接读取京东公开列表HTML，所选黑色MBK 720mL选项有明确标题，并链接具体商品10037246934031。规格与官网TCLF-720S黑色720mL对应，可作为国内购买入口资料。",
+      "limitation": "系列标题同时包含520与720，采用的具体选项为720mL，不混用520mL货号。商品详情直接响应仅提供通用页面，未取得杯底生产商代码；未验证结算、库存或配送，列表不证明实际制造企业。"
+    },
+    {
+      "id": "thermos-tjc-manufacturer-manual2016",
+      "title": "膳魔师TJC版本通用说明书的委托方与制造商",
+      "publisher": "膳魔师中国官网",
+      "type": "官方产品说明书",
+      "url": "https://www.thermos.com.cn/data/product/%E8%86%B3%E9%AD%94%E5%B8%88%E8%AF%B4%E6%98%8E%E4%B9%A6%20TJC_20161207111136.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "两页PDF第1页中栏，印刷第6页",
+      "summary": "直接读取官方PDF并目视核对：委托方为膳魔师（中国）家庭制品有限公司，制造商为膳魔师（江苏）家庭制品有限公司，产地江苏淮安，厂址安澜南路7号。",
+      "limitation": "该较早TJC版通用说明书没有本次零售型号的直接关联。它支持识别公司制造角色，不能替换TCLF-720S页面实际所附、同时列两家生产商的说明书。"
+    },
+    {
+      "id": "thermos-jiangsu-arbitration-schedule",
+      "title": "淮安劳动争议开庭日程中的膳魔师江苏记录",
+      "publisher": "淮安市人力资源和社会保障局",
+      "type": "劳动争议开庭日程",
+      "url": "https://rsj.huaian.gov.cn/col/3937_835478/art/17197632/17210366933526okWBvKV.html",
+      "publishedAt": "2024-07-15",
+      "checkedAt": "2026-09-13",
+      "locator": "标题为2021年经济技术开发区劳动人事争议仲裁院开庭日程，第580项",
+      "summary": "读取官方公开索引，该项以膳魔师江苏为被申请人，案由劳动报酬；页面没有列该案裁决结论。仅保存用人单位及事项，不转载劳动者个人信息。",
+      "limitation": "页面发布日期为2024年，标题为2021年日程，不能据此改写为2024年欠薪认定。开庭信息既不等于企业违法成立，也不能证明企业在争议中胜诉；未取得该案裁决。"
     }
   ],
   "companies": [
@@ -17891,6 +17999,102 @@
           "limitation": "最终名单直接具名本餐厅，实际审查起止日未公开；未取得更新的具名综合结果。仅覆盖该分店，不扩大到总部、其他餐厅或配送人员，本站复查安排不是官方有效期。"
         }
       ]
+    },
+    {
+      "id": "thermos-jiangsu",
+      "name": "膳魔师·江苏生产企业",
+      "legalName": "膳魔师（江苏）家庭制品有限公司",
+      "location": "江苏淮安经济技术开发区安澜南路7号",
+      "origin": "international",
+      "originNote": "膳魔师为国际品牌，本档案按其中国境内江苏制造企业研究，不以品牌起源判断生产地。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "综合评价包含工时",
+      "restLabel": "综合评价包含休息休假",
+      "cardNote": "省优秀劳动关系和谐企业·2024颁牌记录",
+      "scope": "政府评价仅对应膳魔师江苏法人；TCLF-720S当前销售选项尚未区分TCC或TJC生产商。",
+      "finding": "官方具名颁牌结果与2019版评价标准、当地三方评价程序已核对，构成政府综合劳动评价支持。具体焖烧罐的通用说明书列两家生产企业，未取得当前零售选项的实际生产商代码，因此尚未正式收录该商品。",
+      "caveats": [
+        "2024-04-16是官方颁牌报道日期，不是2024全年检查或2026年新评价；未取得实际审查区间或单项评分。",
+        "膳魔师江苏TJC与膳魔师中国TCC是不同法人；当前型号所附说明书同时列两家，不能互借劳动评价。",
+        "官方劳动争议开庭日程含该企业的劳动报酬事项，但没有裁决结果；保留其年份差异，不将开庭记录当作欠薪认定。",
+        "较早的TJC版说明书明确江苏公司的制造角色，但未对应当前销售型号，不据此直接升级商品。"
+      ],
+      "sourceIds": [
+        "thermos-jiangsu-harmony-award2024",
+        "huaian-harmony-review-process2024",
+        "jiangsu-harmony-standard2019",
+        "jiangsu-harmony-final-list-copy2023",
+        "thermos-tjc-manufacturer-manual2016",
+        "thermos-tclf720s-official",
+        "thermos-tclf720s-manual",
+        "thermos-tclf720-mbk-jd",
+        "thermos-jiangsu-arbitration-schedule"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与销售",
+          "status": "policy",
+          "detail": "官网型号与京东黑色720mL具体选项对应；当前批次的生产商代码未显示。",
+          "sourceIds": [
+            "thermos-tclf720s-official",
+            "thermos-tclf720-mbk-jd"
+          ]
+        },
+        {
+          "stage": "江苏制造企业",
+          "status": "verified",
+          "detail": "官方TJC说明书确认江苏公司制造角色，官方颁牌记录确认该法人获综合劳动评价。范围限此企业，尚未完成具体零售商品的制造对应。",
+          "sourceIds": [
+            "thermos-tjc-manufacturer-manual2016",
+            "thermos-jiangsu-harmony-award2024",
+            "jiangsu-harmony-standard2019"
+          ]
+        },
+        {
+          "stage": "具体商品与其他生产环节",
+          "status": "unknown",
+          "detail": "本款通用说明书列TCC、TJC两家，零售选项尚缺区分依据；原材料、配送等环节未据此整体认证。",
+          "sourceIds": [
+            "thermos-tclf720s-manual"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "assessments": [
+        {
+          "kind": "government-labor-review",
+          "conclusion": "supported",
+          "subject": "膳魔师（江苏）家庭制品有限公司",
+          "result": "省级优秀劳动关系和谐企业（官方具名颁牌记录）",
+          "period": "2024-04-16官方颁牌报道；实际审查起止日未公开",
+          "sourceId": "thermos-jiangsu-harmony-award2024",
+          "resultPublishedAt": "2024-04-16",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "issuer": "淮安市人力资源和社会保障局（省级评价具名颁牌记录发布机关）",
+          "scopeType": "employer",
+          "scope": "膳魔师（江苏）家庭制品有限公司的劳动关系综合评价；不扩展到膳魔师中国公司或其他同品牌企业。",
+          "verificationSourceId": "thermos-jiangsu-harmony-award2024",
+          "basisSourceIds": [
+            "huaian-harmony-review-process2024",
+            "jiangsu-harmony-standard2019"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ],
+          "limitation": "按真实官方颁牌报道日期记录较早评价，不编造审查区间或单项得分。尚未取得更新的具名综合结果；本站复查日期不是官方有效期，也不保证此后全部用工行为。"
+        }
+      ],
+      "nextCheck": "2026-10-13前复查具名劳动结果。出现本款杯底TJC/TCC代码、明确制造商的零售标签或新抽检行时再补型号对应；暂停同款无新线索的重复检索。"
     }
   ],
   "products": [
@@ -30140,6 +30344,63 @@
           "assessmentSourceId": "tongling-labor2024-final"
         }
       }
+    },
+    {
+      "id": "thermos-tclf720s-mbk",
+      "name": "TCLF-720S魔法焖烧罐 · 亚光黑 · 720mL",
+      "brand": "膳魔师",
+      "companyId": "thermos-jiangsu",
+      "category": "kitchen",
+      "description": "720mL亚光黑焖烧罐，按TCLF系列保温饭盒用途整理；制造商代码待核。",
+      "tags": [
+        "饭盒",
+        "焖烧罐",
+        "720mL",
+        "TCLF-720S",
+        "亚光黑"
+      ],
+      "needs": [
+        "饭盒"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "暂无已核对的商品图片",
+      "url": "https://item.jd.com/10037246934031.html",
+      "market": "京东货号10037246934031，具体选项“黑色MBK 720ml”。商品系列标题同时列520和720，按720mL选项整理；价格、库存与配送以实际销售页面为准。",
+      "relationship": "官网TCLF-720S亚光黑720mL与国内零售选项对应；所附说明书同时列TCC、TJC。江苏公司为可能的制造企业，当前销售款尚缺具体代码，不能认定已由该公司制造。",
+      "relationshipSourceIds": [
+        "thermos-tclf720s-official",
+        "thermos-tclf720s-manual",
+        "thermos-tclf720-mbk-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "直接读取国内零售列表，黑色MBK 720mL选项链接具体商品号10037246934031；不额外要求实时库存证明。",
+          "sourceIds": [
+            "thermos-tclf720-mbk-jd",
+            "thermos-tclf720s-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "说明书所列两家厂址均在江苏，但实际生产商须由杯底代码区分。当前零售选项未显示代码，尚不能将制造主体确定为获评的膳魔师江苏TJC。",
+          "sourceIds": [
+            "thermos-tclf720s-manual",
+            "thermos-tclf720-mbk-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "膳魔师江苏已有政府综合劳动评价支持；待该销售款制造主体对应后再适用。并非要求额外福利，也没有把证据不足判为企业违法。",
+          "sourceIds": [
+            "thermos-jiangsu-harmony-award2024",
+            "jiangsu-harmony-standard2019",
+            "thermos-tclf720s-manual"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -30794,7 +31055,7 @@
           "query": "保鲜膜"
         }
       ],
-      "note": "厨房13项细分需求均已有具体资料：本次补纯白泰勒4.5英寸两只装饭碗、8英寸两只装圆盘、S2504-A菜刀、FH0103饭盒和LK-2017保鲜盒。五款大陆零售规格已核，实际制造标签及适用劳动依据仍待补。茶花膜袋、双枪砧板等既有记录保留原缺口；13项研究覆盖不等于已找到13项合规商品。",
+      "note": "厨房13项需求已有具体研究资料，仍无正式收录。新增TCLF-720S亚光黑720mL焖烧罐：国内零售选项已核，膳魔师江苏法人有政府综合劳动评价，但说明书列TCC、TJC两家，尚缺本款制造代码。既有碗盘、筷子、锅具、刀具、饭盒及保鲜用品保留各自缺口；研究资料数量不代表合规商品覆盖。",
       "sourceIds": [
         "dehua-labor-2025",
         "qixuanyuan-dragon-mug-jd",
@@ -30815,7 +31076,11 @@
         "shibazi-s2504a-jd",
         "shibazi-democratic-management-2024",
         "zenxin-fh0103-jd",
-        "longstar-lk2017-jd"
+        "longstar-lk2017-jd",
+        "thermos-jiangsu-harmony-award2024",
+        "jiangsu-harmony-standard2019",
+        "thermos-tclf720s-manual",
+        "thermos-tclf720-mbk-jd"
       ]
     },
     {
