@@ -5075,6 +5075,90 @@
       "locator": "2024年第009期；福建省T恤衫产品质量省级监督抽查结果（合格）表第2项",
       "summary": "生产企业抽查表将爱登堡牌T恤衫、175/92A、2023-03/D232081747对应爱登堡（中国）有限公司，样品抽查结果合格。用于确认此款号的制造主体；劳动依据另见石狮最终评价。",
       "limitation": "这是2023年样品的生产记录，不是现时销售或劳动证明。公开索引可读转载全文，直接读取返回405；尚未取得此款号的当前国内在售渠道，也未把其他爱登堡款号替代本条。"
+    },
+    {
+      "id": "yueshifu-white-vinegar620-jd",
+      "title": "京东粤师傅9度糯米白醋620mL单瓶商品卡",
+      "publisher": "京东零售平台",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/1320d554867f9c8b7fa8.html?extAttrValue=expand_name,&electedExtAttrSet=&sort_type=sort_default&catID=36235",
+      "locator": "商品号10149907625718：9度糯米白醋620毫升×1瓶；同卡片主图",
+      "summary": "直接读取的公开分类页列同款单瓶商品号10149907625718及图片；与两瓶、三瓶、整箱及500mL条目区分。",
+      "limitation": "入口支持国内零售渠道存在，不承诺各地区即时库存、价格和配送。页面商品资料由零售方提供。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "yueshifu-white-vinegar620-maker-image",
+      "title": "9度糯米白醋620mL主图所列制造企业",
+      "publisher": "京东该商品零售方",
+      "type": "商品生产信息",
+      "url": "https://img30.360buyimg.com/n0/jfs/t1/100414/32/49170/72376/66fd200fF25ff63a5/d4ff3baa9a621518.jpg",
+      "locator": "10149907625718所引主图顶部“产地”“厂家”，瓶身620毫升及底部单瓶规格",
+      "summary": "同一张商品图明确列产地广东省江门市、厂家广东粤师傅调味食品有限公司，并显示粤师傅9度糯米白醋620mL单瓶。已查看800×800原图。",
+      "limitation": "这是零售方发布的具名生产信息，结合政府境内工厂介绍使用；未声称现场验厂、核验每个当前批次或从图片确认劳动条件。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "yueshifu-red-vinegar620-jd",
+      "title": "京东粤师傅大红浙醋620mL单瓶商品卡",
+      "publisher": "京东零售平台",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/1320d554867f9c8b7fa8.html?extAttrValue=expand_name,&electedExtAttrSet=&sort_type=sort_default&catID=36235",
+      "locator": "商品号10155299426025：大红浙醋620ml×1瓶；原图标示620mL",
+      "summary": "直接读取的公开分类页列大红浙醋620mL单瓶、准确商品号及对应图片，另有两瓶和三瓶选项。",
+      "limitation": "本条只对应单瓶；价格、配送和实时库存以商家为准。购买入口与生产、劳动依据分别记录。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "jiangmen-sampling-2023-28-notice",
+      "title": "江门市2023年第28号食品安全监督抽检通告",
+      "publisher": "江门市市场监督管理局",
+      "type": "政府抽检",
+      "url": "https://www.jiangmen.gov.cn/bmpd/jmsscjdglj/zwgk/zdlyxxgk/spypaqxxgk/aqjggzxx/content/post_2998418.html",
+      "locator": "2023-12-18发布、2023-12-15成文；附件2“食品监督抽检合格产品信息”",
+      "summary": "通告公布生产环节451批次抽检，其中439批次合格，并提供合格产品原始XLSX附件。",
+      "limitation": "已读取政府页面公开索引。页面及附件直连返回403，未下载或逐行核验XLSX；大红浙醋具体记录另列公开转载来源。",
+      "publishedAt": "2023-12-18",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "yueshifu-red-vinegar620-sampling-2023",
+      "title": "江门2023年第28号抽检转载：大红浙醋620mL",
+      "publisher": "今日头条公开转载江门市市场监督管理局通告",
+      "type": "媒体转载",
+      "url": "https://www.toutiao.com/article/7313887455713690112/",
+      "locator": "公开搜索索引合格表序号37，抽样编号DJC23440700596272040",
+      "summary": "索引该行列大红浙醋620毫升/瓶、2023-09-28生产，标称生产企业为广东粤师傅调味食品有限公司，厂址开平苍城南郊路91号。",
+      "limitation": "本次能读取搜索索引的具名原行，正文提取为空；政府原附件受限，未声称核验完整表格。仅对应已披露历史批次的制造主体，不是当前批次或劳动合规保证。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "yueshifu-sesame750-jd",
+      "title": "京东粤师傅芝麻调味油750mL商品卡",
+      "publisher": "京东零售平台",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/hprm/13204c147be269c412be.html?catID=36120&electedExtAttrSet=&extAttrValue=expand_name%2C&sort_type=sort_default",
+      "locator": "商品号10101955846521，芝麻调味油750ml卡片及其主图",
+      "summary": "公开卡片直接列商品号10101955846521和750mL规格，图片瓶身写“芝麻调味油”。",
+      "limitation": "商家标题同时使用“纯芝麻油”等措辞，本站不据此宣称纯度或配料；生产法人未辨识，因此保持待核查。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "yueshifu-sesame750-package",
+      "title": "芝麻调味油750mL商品包装图",
+      "publisher": "京东该商品零售方",
+      "type": "商品包装资料",
+      "url": "https://img30.360buyimg.com/n0/jfs/t1/182167/26/33827/176641/64253fc5F5e83d208/814b7f1715719f4b.jpg",
+      "locator": "同商品卡片的800×800原图：粤师傅品牌、芝麻调味油、净含量750毫升",
+      "summary": "已查看原图，能确认品牌、产品名称和净含量；包装细小生产商文字未能可靠辨识。",
+      "limitation": "不把150mL香麻油的招商资料套用于750mL款，也不根据同品牌或开平工厂介绍推断本壶制造商。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
     }
   ],
   "companies": [
@@ -10028,7 +10112,7 @@
       "restLabel": "具体排班未单独披露",
       "cardNote": "2025 年劳动守法 A 级",
       "scope": "广东粤师傅调味食品有限公司，开平苍城南郊路 91 号厂址；评价覆盖 2025 年。",
-      "finding": "该生产法人获 2025 年劳动守法 A 级评价；一品鲜酱油 500mL 已有同品名、规格的公开生产记录及大陆零售入口。",
+      "finding": "该生产法人获2025年劳动守法A级评价；一品鲜酱油500mL、9度糯米白醋620mL和大红浙醋620mL已对应国内零售与制造资料，750mL芝麻调味油制造主体仍待核。",
       "caveats": [
         "行政评价对应 2025 年度，不是未来持续合规保证。",
         "收录限于已对应制造主体的具体商品；生产商变更时需重新核对。",
@@ -10038,7 +10122,14 @@
         "kaiping-labor-2025",
         "law-labor-rating",
         "yueshifu-producer-profile",
-        "yueshifu-soy500-kaiping-2026"
+        "yueshifu-soy500-kaiping-2026",
+        "yueshifu-white-vinegar620-jd",
+        "yueshifu-white-vinegar620-maker-image",
+        "yueshifu-red-vinegar620-jd",
+        "jiangmen-sampling-2023-28-notice",
+        "yueshifu-red-vinegar620-sampling-2023",
+        "yueshifu-sesame750-jd",
+        "yueshifu-sesame750-package"
       ],
       "supply": [
         {
@@ -10052,10 +10143,12 @@
         {
           "stage": "生产或门店服务",
           "status": "policy",
-          "detail": "一品鲜酱油 500mL 公开制造记录对应该法人；同一法人获 2025 年劳动守法 A 级。",
+          "detail": "已收录的酱油及两款醋分别对应同一法人制造资料和2025年度劳动守法A级；芝麻调味油未完成制造主体核对。",
           "sourceIds": [
             "yueshifu-soy500-kaiping-2026",
-            "kaiping-labor-2025"
+            "kaiping-labor-2025",
+            "yueshifu-white-vinegar620-maker-image",
+            "yueshifu-red-vinegar620-sampling-2023"
           ]
         },
         {
@@ -19117,6 +19210,175 @@
           "assessmentSourceId": "shishi-labor-2024"
         }
       }
+    },
+    {
+      "id": "yueshifu-glutinous-white-vinegar-620ml",
+      "name": "9度糯米白醋620mL（单瓶）",
+      "brand": "粤师傅",
+      "companyId": "yueshifu",
+      "category": "food",
+      "needs": [
+        "醋"
+      ],
+      "description": "厨房烹调、凉拌和蘸食用的9度糯米白醋，单瓶620mL。",
+      "tags": [
+        "醋",
+        "白醋",
+        "糯米白醋",
+        "9度",
+        "调味",
+        "620mL"
+      ],
+      "url": "https://item.jd.com/10149907625718.html",
+      "market": "京东公开商品卡列620mL单瓶及准确购买入口；配送地区、成交价和实时库存以商家为准。",
+      "relationship": "同款零售主图明确列广东粤师傅调味食品有限公司及广东江门产地，政府工厂介绍与2025年度劳动A级评价交叉对应同一法人。",
+      "relationshipSourceIds": [
+        "yueshifu-white-vinegar620-jd",
+        "yueshifu-white-vinegar620-maker-image",
+        "yueshifu-producer-profile"
+      ],
+      "image": "images/yueshifu-glutinous-white-vinegar-620ml.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/100414/32/49170/72376/66fd200fF25ff63a5/d4ff3baa9a621518.jpg",
+      "imageRights": "粤师傅品牌及相关商品图片、京东零售方权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东当前公开分类页列商品号10149907625718，准确规格为9度糯米白醋620mL单瓶；不是仅招商或历史抽检链接。",
+          "sourceIds": [
+            "yueshifu-white-vinegar620-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "同款主图的厂家栏具名广东粤师傅调味食品有限公司、产地广东江门；与开平政府工厂介绍对应。制造信息来自零售方，后续实际包装如变更厂名需重新核对。",
+          "sourceIds": [
+            "yueshifu-white-vinegar620-maker-image",
+            "yueshifu-producer-profile"
+          ],
+          "subject": "广东粤师傅调味食品有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "已对应制造法人获开平市2025年度劳动保障守法诚信A级评价，覆盖2025-01-01至2025-12-31。以具名法人和评价年度为收录依据，后续变化需重新复核。",
+          "sourceIds": [
+            "kaiping-labor-2025",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "kaiping-labor-2025"
+        }
+      }
+    },
+    {
+      "id": "yueshifu-red-vinegar-620ml",
+      "name": "大红浙醋620mL（单瓶）",
+      "brand": "粤师傅",
+      "companyId": "yueshifu",
+      "category": "food",
+      "needs": [
+        "醋"
+      ],
+      "description": "烹调、凉拌及海鲜蘸食用的大红浙醋，单瓶620mL。",
+      "tags": [
+        "醋",
+        "红醋",
+        "大红浙醋",
+        "调味",
+        "620mL"
+      ],
+      "url": "https://item.jd.com/10155299426025.html",
+      "market": "京东公开商品卡列620mL单瓶及准确购买入口；不混入同页两瓶或三瓶包装，库存和配送以商家为准。",
+      "relationship": "江门2023年第28号抽检转载的具名行将大红浙醋620mL对应广东粤师傅调味食品有限公司及开平厂址；当前同款单瓶另有国内零售入口。",
+      "relationshipSourceIds": [
+        "yueshifu-red-vinegar620-sampling-2023",
+        "jiangmen-sampling-2023-28-notice",
+        "yueshifu-producer-profile"
+      ],
+      "image": "images/yueshifu-red-vinegar-620ml.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/519773/25/6442/107404/6aa24eadF5cd7b537/0083320320a3e9bc.jpg",
+      "imageRights": "粤师傅品牌及相关商品图片、京东零售方权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东当前公开分类页列商品号10155299426025、620mL单瓶及对应图片；价格、地区库存和配送需以实际商家页面为准。",
+          "sourceIds": [
+            "yueshifu-red-vinegar620-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "同品名、620mL规格的2023-09-28制造记录在公开转载索引中具名广东粤师傅调味食品有限公司和开平厂址。政府原表直连受限；该对应不扩大到变更制造商的后续批次。",
+          "sourceIds": [
+            "yueshifu-red-vinegar620-sampling-2023",
+            "jiangmen-sampling-2023-28-notice",
+            "yueshifu-producer-profile"
+          ],
+          "subject": "广东粤师傅调味食品有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "已对应制造法人获开平市2025年度劳动保障守法诚信A级评价，覆盖2025-01-01至2025-12-31。以具名法人和评价年度为收录依据，后续变化需重新复核。",
+          "sourceIds": [
+            "kaiping-labor-2025",
+            "law-labor-rating"
+          ],
+          "assessmentSourceId": "kaiping-labor-2025"
+        }
+      }
+    },
+    {
+      "id": "yueshifu-sesame-seasoning-oil-750ml",
+      "name": "芝麻调味油750mL",
+      "brand": "粤师傅",
+      "companyId": "yueshifu",
+      "category": "food",
+      "needs": [
+        "调味油"
+      ],
+      "description": "凉拌、佐餐用的芝麻调味油，单壶750mL；具体配料及生产商仍待核对。",
+      "tags": [
+        "调味油",
+        "芝麻调味油",
+        "凉拌",
+        "750mL"
+      ],
+      "url": "https://item.jd.com/10101955846521.html",
+      "market": "京东公开页面列750mL规格与商品号10101955846521；商品制造和劳动依据未完成对应，保持待核查。",
+      "relationship": "商品卡和包装可确认粤师傅品牌、芝麻调味油及750mL，但原图细小厂名未能可靠辨识；尚不把品牌企业的劳动评价用于本款。",
+      "relationshipSourceIds": [
+        "yueshifu-sesame750-jd",
+        "yueshifu-sesame750-package",
+        "yueshifu-producer-profile"
+      ],
+      "image": "images/yueshifu-sesame-seasoning-oil-750ml.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n0/jfs/t1/182167/26/33827/176641/64253fc5F5e83d208/814b7f1715719f4b.jpg",
+      "imageRights": "粤师傅品牌及相关商品图片、京东零售方权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东公开卡片有750mL准确规格、商品号及购买入口；地区配送和库存以商家为准。",
+          "sourceIds": [
+            "yueshifu-sesame750-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已读取750mL商品原图，厂名细字未能可靠辨识；150mL香麻油与泛品牌生产资料不足以确认本款制造法人。",
+          "sourceIds": [
+            "yueshifu-sesame750-package",
+            "yueshifu-producer-profile"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "广东粤师傅调味食品有限公司有2025年度劳动A级，但需先将本款750mL调味油对应到同一制造法人。",
+          "sourceIds": [
+            "kaiping-labor-2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -19180,6 +19442,10 @@
           "query": "玉米油"
         },
         {
+          "label": "调味油",
+          "query": "调味油"
+        },
+        {
           "label": "酱油",
           "query": "酱油"
         },
@@ -19240,7 +19506,7 @@
           "query": "熟食"
         }
       ],
-      "note": "29 项粮油食品需求均有具体研究资料，其中面粉、意面、酱油、腐乳、饼干、即食蛋和即食熟肉已有正式收录。其余商品继续核对制造、劳动及购买依据；展示页与停运商城不计为可购买。包装熟食和再制蛋不计为生鲜鸡肉或鸡蛋，25kg 面粉地区配送范围单独列明。",
+      "note": "30项粮油食品需求均有具体研究资料，其中面粉、意面、酱油、醋、腐乳、饼干、即食蛋和即食熟肉已有正式收录。新增两款620mL单瓶醋；750mL芝麻调味油有国内入口，制造主体仍待核。其余商品继续补制造、劳动及购买依据；包装熟食不计为生鲜肉类，25kg面粉地区配送范围单独列明。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -19317,7 +19583,14 @@
         "yimeide-flour25-icbc-archive",
         "icbc-mall-closure2022",
         "jinluo-official-products",
-        "jinluo-rice5-showroom"
+        "jinluo-rice5-showroom",
+        "yueshifu-white-vinegar620-jd",
+        "yueshifu-white-vinegar620-maker-image",
+        "yueshifu-red-vinegar620-jd",
+        "jiangmen-sampling-2023-28-notice",
+        "yueshifu-red-vinegar620-sampling-2023",
+        "yueshifu-sesame750-jd",
+        "yueshifu-sesame750-package"
       ]
     },
     {

@@ -6958,6 +6958,81 @@
       },
       "filename": "images/benz-v300-pilot-44881313-cnb.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "yueshifu-glutinous-white-vinegar-620ml",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/100414/32/49170/72376/66fd200fF25ff63a5/d4ff3baa9a621518.jpg",
+      "source_page": "https://www.jd.com/jiage/1320d554867f9c8b7fa8.html?extAttrValue=expand_name,&electedExtAttrSet=&sort_type=sort_default&catID=36235",
+      "product_url": "https://item.jd.com/10149907625718.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 46790,
+      "sha256": "27da19ccb4f92c5cf9f8e70e6a919e7b0a4e0690f65956dd8828814ee62ed238",
+      "visually_verified": true,
+      "visual_notes": "已查看800×800同款原图，9度糯米白醋620mL单瓶，厂家栏具名广东粤师傅调味食品有限公司；完整保留图片及水印。",
+      "reuse_info": {
+        "rights_holder": "粤师傅品牌及相关商品图片、京东零售方权利人",
+        "license": "No open license declared; attributed product reference image, excluded from the code MIT license.",
+        "attribution": "京东准确商品卡引用图片，查阅于2026-09-12。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 108504,
+        "sha256": "60b83614f6f5ea94e9e0b9af1b43dadc856ba7d8f3012e6ab8b694140693ff7f"
+      },
+      "filename": "images/yueshifu-glutinous-white-vinegar-620ml.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "yueshifu-red-vinegar-620ml",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/519773/25/6442/107404/6aa24eadF5cd7b537/0083320320a3e9bc.jpg",
+      "source_page": "https://www.jd.com/jiage/1320d554867f9c8b7fa8.html?extAttrValue=expand_name,&electedExtAttrSet=&sort_type=sort_default&catID=36235",
+      "product_url": "https://item.jd.com/10155299426025.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 70132,
+      "sha256": "c234005be6edd44de99a5f12a26e9018b3d0b1872a2510c516c4d2a6e0dfc4cc",
+      "visually_verified": true,
+      "visual_notes": "已查看同商品卡所引原图，粤师傅大红浙醋620mL单瓶，未裁切或移除水印；图中食物仅为商品场景示意。",
+      "reuse_info": {
+        "rights_holder": "粤师傅品牌及相关商品图片、京东零售方权利人",
+        "license": "No open license declared; attributed product reference image, excluded from the code MIT license.",
+        "attribution": "京东准确商品卡引用图片，查阅于2026-09-12。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 181392,
+        "sha256": "e5e8e5700f65a206b5df238908c963219671288bd963b674640e80a616fb5340"
+      },
+      "filename": "images/yueshifu-red-vinegar-620ml.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "yueshifu-sesame-seasoning-oil-750ml",
+      "image_url": "https://img30.360buyimg.com/n0/jfs/t1/182167/26/33827/176641/64253fc5F5e83d208/814b7f1715719f4b.jpg",
+      "source_page": "https://www.jd.com/hprm/13204c147be269c412be.html?catID=36120&electedExtAttrSet=&extAttrValue=expand_name%2C&sort_type=sort_default",
+      "product_url": "https://item.jd.com/10101955846521.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 116958,
+      "sha256": "cff697b5d95d23462e07f98997cf68c73caa3878f374ad1e4351b92f3ec7d840",
+      "visually_verified": true,
+      "visual_notes": "已查看800×800原图，品牌、芝麻调味油和750毫升均可辨；未将商家标题的纯芝麻油说法写为事实，细小厂名未可靠辨识。",
+      "reuse_info": {
+        "rights_holder": "粤师傅品牌及相关商品图片、京东零售方权利人",
+        "license": "No open license declared; attributed product reference image, excluded from the code MIT license.",
+        "attribution": "京东准确商品卡引用图片，查阅于2026-09-12。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 247044,
+        "sha256": "d85e620b15a6fa728277c49c80186cd6a2fc55f4a49630f98fd085bf1d621a7c"
+      },
+      "filename": "images/yueshifu-sesame-seasoning-oil-750ml.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
