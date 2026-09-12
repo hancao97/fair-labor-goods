@@ -4955,6 +4955,66 @@
       "locator": "2025-09-30 18:20:19报道；转载企业致歉声明及记者核实部分",
       "summary": "报道转载得力集团致歉声明：公司确认当事人反映的招聘入职情况基本属实，承认内部管理不足，并提出问责、复盘招聘流程与反歧视培训。记者亦向公司客服核实相关回应。",
       "limitation": "企业声明经媒体转述，未取得原始完整声明文件、行政处理决定或生效裁判。本资料只记录已公开的争议与回应，不将整改承诺写成整改完成或法律定论。"
+    },
+    {
+      "id": "lenovo-tianyi510s-90xs0075cd-product",
+      "title": "联想中国商城：天逸510S尊享版 i5-14400 / 16GB / 512GB 台式主机",
+      "publisher": "联想中国商城",
+      "type": "官方商品资料",
+      "url": "https://item.lenovo.com.cn/product/1052505.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "商品号1052505；货号90XS0075CD；主标题、配置表及橱窗原图",
+      "summary": "页面对应天逸510S-08IRR I51440016G512W-11Q2，列第14代酷睿i5-14400、16GB内存、512GB固态硬盘、集成显卡与Windows 11家庭中文版。包装含有线键盘和鼠标，本条为主机，不含显示器。",
+      "limitation": "可读页面的实时价格留空，并含多种通用购买状态模板，未据此判断当前库存或下架。商城主体不能替代制造企业，本次未取得此货号对应的境内制造法人及劳动合规资料。"
+    },
+    {
+      "id": "anker-a1383-youzan-retail",
+      "title": "有赞店铺“Anker安克官方商城”：A1383 20000mAh 自带C线移动电源",
+      "publisher": "有赞店铺“Anker安克官方商城”（页面自称）",
+      "type": "国内零售商品资料",
+      "url": "https://detail.youzan.com/show/goods?alias=3evjd9xnrpefpvg&from_source=gbox_seo",
+      "publishedAt": "2024-05-29",
+      "checkedAt": "2026-09-12",
+      "locator": "A1383商品主标题、价格与库存区、支付方式；结构化资料pubDate与upDate",
+      "summary": "店铺页面列A1383、20000mAh、自带USB-C线及65W快充；查阅时显示239元、库存9件、免运费和微信、银行卡、支付宝支付入口。结构化资料记载2024-05-29发布、2026-09-10更新。",
+      "limitation": "价格和库存只是查阅时的页面记录，不保证每个地址均可配送；未登录或下单。未仅凭店铺名称和微信认证认定品牌授权或经营法人。商品图展示同一电源的不同视角，不代表两件装；颜色选择以订单为准。"
+    },
+    {
+      "id": "anker-a1383-msds-2026",
+      "title": "A1383材料安全数据表：具名制造商及东莞地址",
+      "publisher": "众检检验认证（深圳）有限公司；文件由Target商品资料库公开托管",
+      "type": "第三方产品文件",
+      "url": "https://digitalcontent.target.com/vault/1775174400/CLOUD_cdd44b29-3290-4bd5-ad75-984d2b6d1adf.pdf",
+      "publishedAt": "2026-01-01",
+      "checkedAt": "2026-09-12",
+      "locator": "报告CMC251011106M01；PDF第1页签发日期、第2页型号及Manufacturer表格",
+      "summary": "2026-01-01签发的文件对应Anker Power Bank (20K, 87W, Built-In USB-C Cable)、型号A1383。第2页列制造商东莞泰克威科技有限公司，地址为广东省东莞市桥头镇石水口村滨江大街28号。第1页安克创新有限公司为委托单位，页脚众检地址为检测机构，均不与制造商混同。",
+      "limitation": "材料安全数据表用于对应同型号制造主体，不是劳动审核或对所有销售批次的保证；文件由境外零售商资料库托管。当前国内店铺未展示逐批次铭牌，未据此推断其他安克型号的制造商、原料产地或每位工人的国籍。"
+    },
+    {
+      "id": "xiaomi-be3600-25g-official",
+      "title": "小米中国官网：Xiaomi路由器BE3600 2.5G版概述与参数",
+      "publisher": "小米中国官网",
+      "type": "官方商品资料",
+      "url": "https://www.mi.com/xiaomi-routers/be-3600/specs",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "参数页及其公开产品脚本文本；产品名、接口、处理器与附件表",
+      "summary": "中国官网参数列BE3600 2.5G版、高通四核1.1GHz处理器、256MB内存、4根天线、1个2.5G自适应WAN/LAN口及3个千兆自适应WAN/LAN口。附件包括说明书、网线和电源适配器。",
+      "limitation": "2.5G版与其他同名BE3600版本分别判断；参数、商标与图片不能证明中国制造主体或劳动合规。"
+    },
+    {
+      "id": "xiaomi-be3600-25g-china-buy",
+      "title": "小米中国商城：BE3600 2.5G版购买入口，商品号19647",
+      "publisher": "小米中国商城",
+      "type": "官方零售入口",
+      "url": "https://www.mi.com/shop/buy/detail?product_id=19647",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12",
+      "locator": "同型号购买页及公开product_info：product_id、name、price、is_enable",
+      "summary": "官方参数页的商品资料与购买入口均对应商品号19647、名称Xiaomi路由器BE3600 2.5G版，公开页面配置标价199元且入口启用。购买页可正常读取，支持同型号大陆零售入口的对应。",
+      "limitation": "未核最终订单、地区库存或成交价格；页面启用状态不是实时库存。该页面不能证明制造企业或劳动条件。"
     }
   ],
   "companies": [
@@ -4973,13 +5033,16 @@
       "caveats": [
         "四十小时数值来自 2024 年报告，2025 年报告未再次明确披露。",
         "没有包含加班的实际总工时记录。",
-        "各型号制造商及派遣、供应商人员未逐一核验。"
+        "各型号制造商及派遣、供应商人员未逐一核验。",
+        "A1383已找到同型号东莞泰克威制造文件，但该工厂的劳动合规依据仍待补；不将品牌总部安排套用到制造商。"
       ],
       "sourceIds": [
         "anker-2024",
         "anker-2027-campus",
         "anker-2025",
-        "anker-brands"
+        "anker-brands",
+        "anker-a1383-youzan-retail",
+        "anker-a1383-msds-2026"
       ],
       "supply": [
         {
@@ -4994,9 +5057,10 @@
         {
           "stage": "制造与外包",
           "status": "policy",
-          "detail": "2025 年报告披露对 51 家供应商开展社会影响评估，未对应到具体 SKU 与工时。",
+          "detail": "2025年集团报告披露供应商社会影响评估，未逐一对应SKU。另有A1383材料安全数据表具名东莞泰克威为制造商；该厂劳动依据仍待补。",
           "sourceIds": [
-            "anker-2025"
+            "anker-2025",
+            "anker-a1383-msds-2026"
           ]
         },
         {
@@ -6649,7 +6713,10 @@
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
         "本档案尚未取得实际考勤、加班和每周休息记录。"
       ],
-      "sourceIds": [],
+      "sourceIds": [
+        "xiaomi-be3600-25g-official",
+        "xiaomi-be3600-25g-china-buy"
+      ],
       "supply": [
         {
           "stage": "品牌与运营",
@@ -7548,7 +7615,8 @@
         "本档案尚未取得实际考勤、加班和每周休息记录。"
       ],
       "sourceIds": [
-        "lenovo-xiaoxin-product"
+        "lenovo-xiaoxin-product",
+        "lenovo-tianyi510s-90xs0075cd-product"
       ],
       "supply": [
         {
@@ -18574,6 +18642,162 @@
           ]
         }
       }
+    },
+    {
+      "id": "lenovo-tianyi510s-90xs0075cd",
+      "name": "天逸510S尊享版台式主机（i5-14400 / 16GB / 512GB）",
+      "brand": "联想",
+      "companyId": "lenovo",
+      "category": "electronics",
+      "description": "货号90XS0075CD，具体型号天逸510S-08IRR I51440016G512W-11Q2；8.2L主机、集成显卡，随附有线键盘和鼠标，不含显示器。",
+      "tags": [
+        "台式电脑",
+        "主机",
+        "90XS0075CD",
+        "i5-14400"
+      ],
+      "needs": [
+        "台式电脑"
+      ],
+      "url": "https://item.lenovo.com.cn/product/1052505.html",
+      "relationshipSourceIds": [
+        "lenovo-tianyi510s-90xs0075cd-product"
+      ],
+      "market": "中国官网已有对应货号的配置页；实时价格与库存待核，不将页面通用模板当作在售或停售结论。",
+      "relationship": "联想中国商城商品1052505明确对应货号90XS0075CD；同系列的显示器套装和其他CPU配置不并入本条。",
+      "image": "images/lenovo-tianyi510s-90xs0075cd.webp",
+      "imageMode": "contain",
+      "imageSource": "https://p4.lefile.cn/product/adminweb/2026/02/11/NMNiiXUm1LeCORebQpnfPeuWG-7709.jpg",
+      "imageRights": "联想及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已核中国官网货号与配置，实时价格、当前零售状态仍待补充。",
+          "sourceIds": [
+            "lenovo-tianyi510s-90xs0075cd-product"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "尚缺此货号的制造商资料或铭牌；联想（北京）商城主体不能直接当作生产企业，也不按品牌推断由联宝制造。",
+          "sourceIds": [
+            "lenovo-tianyi510s-90xs0075cd-product"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "先对应具体制造企业，再核对该企业的劳动合规依据；不能将品牌或其他工厂的评价套用于本机型。",
+          "sourceIds": []
+        }
+      }
+    },
+    {
+      "id": "anker-a1383-20000mah",
+      "name": "A1383 自带USB-C线移动电源 20000mAh（单个）",
+      "brand": "Anker 安克",
+      "companyId": "anker",
+      "category": "electronics",
+      "description": "20000mAh自带线充电宝，国内商品页标65W快充；同型号材料安全数据表列20K、87W多口产品及东莞制造商。单个电源，颜色以购买选项为准。",
+      "tags": [
+        "充电宝",
+        "移动电源",
+        "20000mAh",
+        "A1383",
+        "自带线"
+      ],
+      "needs": [
+        "移动电源"
+      ],
+      "url": "https://detail.youzan.com/show/goods?alias=3evjd9xnrpefpvg&from_source=gbox_seo",
+      "relationshipSourceIds": [
+        "anker-a1383-youzan-retail",
+        "anker-a1383-msds-2026",
+        "anker-brands"
+      ],
+      "market": "国内有赞商品页显示人民币价格和个人购买入口；查阅时239元、库存9件，配送与最终价格以订单为准。",
+      "relationship": "国内店铺商品标题与材料安全数据表均为A1383、20000mAh自带USB-C线移动电源；MSDS具名制造商为东莞泰克威，安克为品牌及委托方。",
+      "image": "images/anker-a1383-20000mah.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img01.yzcdn.cn/upload_files/2026/08/17/FmmScW5_FSzVFBs1wi_e_OfyHQ53.jpg!middle.jpg",
+      "imageRights": "安克品牌及原店铺图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "国内同型号商品页提供个人购买及支付入口，查阅时列239元、库存9件；未验证品牌授权，亦不保证所有地址均有货。",
+          "sourceIds": [
+            "anker-a1383-youzan-retail"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "2026年材料安全数据表第2页对应A1383，列东莞泰克威科技有限公司及东莞桥头厂址；依据限于同型号文件，不延伸至所有安克产品。国内实收批次仍应核对铭牌。",
+          "sourceIds": [
+            "anker-a1383-msds-2026",
+            "anker-a1383-youzan-retail"
+          ],
+          "subject": "东莞泰克威科技有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "已对应东莞泰克威制造主体，仍未取得该企业可复核的劳动合规依据；安克集团工时制度、校招双休及供应商评估汇总不能替代该工厂的记录。",
+          "sourceIds": [
+            "anker-a1383-msds-2026",
+            "anker-2024",
+            "anker-2025",
+            "anker-2027-campus"
+          ]
+        }
+      }
+    },
+    {
+      "id": "xiaomi-be3600-25g-router",
+      "name": "BE3600 2.5G版无线路由器（单台）",
+      "brand": "Xiaomi 小米",
+      "companyId": "xiaomi",
+      "category": "electronics",
+      "description": "中国官网商品号19647：高通四核1.1GHz、256MB内存，1个2.5G口与3个千兆口，4根天线；附网线与电源适配器。",
+      "tags": [
+        "路由器",
+        "Wi-Fi",
+        "2.5G",
+        "BE3600"
+      ],
+      "needs": [
+        "路由器"
+      ],
+      "url": "https://www.mi.com/shop/buy/detail?product_id=19647",
+      "relationshipSourceIds": [
+        "xiaomi-be3600-25g-official",
+        "xiaomi-be3600-25g-china-buy"
+      ],
+      "market": "小米中国商城同型号购买入口可读，页面标价199元；最终成交价、地区库存与配送以购买页为准。",
+      "relationship": "中国官网产品名、参数及商品号19647相互对应；仅收集BE3600 2.5G版，不与其他品牌或同系列版本混用。",
+      "image": "images/xiaomi-be3600-25g-router.webp",
+      "imageMode": "contain",
+      "imageSource": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomi-routers/be-3600d613e7/section-01.jpg",
+      "imageRights": "小米及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已对应小米中国官网参数和同型号购买入口19647，页面配置显示入口启用；未把199元标价作为固定成交价，也未保证实时库存。",
+          "sourceIds": [
+            "xiaomi-be3600-25g-official",
+            "xiaomi-be3600-25g-china-buy"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官网参数未列具名制造企业；尚缺对应大陆销售版本的制造商、厂址或铭牌依据。",
+          "sourceIds": [
+            "xiaomi-be3600-25g-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "需将具名制造企业与劳动合规资料对应；小米品牌关系或其他ODM工厂的认证不能替代本型号的生产证据。",
+          "sourceIds": []
+        }
+      }
     }
   ],
   "coverage": [
@@ -19272,7 +19496,7 @@
           "query": "固态硬盘"
         }
       ],
-      "note": "新增雷柏 E9350G 键盘、MT760 鼠标、惠科 G27H2Max 显示器和致态 TiPlus7100 普通版 2TB；补固态硬盘需求。品牌福利、外协生产和具体工厂分开核查，四款当前供货、制造批次及实际劳动证据均待补。台式电脑、移动电源、路由器继续查。",
+      "note": "12项数码细分需求均已有具体型号资料。新增天逸510S货号90XS0075CD、安克A1383 20000mAh移动电源、小米BE3600 2.5G版路由器。A1383已对应国内零售和东莞制造商；路由器已对应中国官方购买入口。制造企业的劳动依据继续核查，资料覆盖不代表正式收录。",
       "sourceIds": [
         "apple-rcc-job",
         "anker-2024",
@@ -19283,7 +19507,12 @@
         "zhitai-tiplus7100-2tb-suning",
         "hkc-chuzhou-hiring-2025",
         "hkc-g27h2max-manual",
-        "hkc-g27h2max-jd"
+        "hkc-g27h2max-jd",
+        "lenovo-tianyi510s-90xs0075cd-product",
+        "anker-a1383-youzan-retail",
+        "anker-a1383-msds-2026",
+        "xiaomi-be3600-25g-official",
+        "xiaomi-be3600-25g-china-buy"
       ]
     },
     {

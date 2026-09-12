@@ -6858,6 +6858,81 @@
       },
       "filename": "images/supor-vz26bs01-steamer-26cm.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "lenovo-tianyi510s-90xs0075cd",
+      "image_url": "https://p4.lefile.cn/product/adminweb/2026/02/11/NMNiiXUm1LeCORebQpnfPeuWG-7709.jpg",
+      "source_page": "https://item.lenovo.com.cn/product/1052505.html",
+      "product_url": "https://item.lenovo.com.cn/product/1052505.html",
+      "width": 800,
+      "height": 800,
+      "bytes": 6100,
+      "sha256": "49d2b01a920fcf02ec879981ae8dde87829934446b7b4a63a0a004bb8221146a",
+      "visually_verified": true,
+      "visual_notes": "已查看中国官网货号90XS0075CD橱窗原图：银色竖纹台式主机、Lenovo标识、i5贴标与前面板接口。图片仅展示主机。",
+      "reuse_info": {
+        "rights_holder": "联想及相关图片权利人",
+        "license": "原图未声明开放许可；用于有出处的商品资料插图，不属于项目代码MIT授权。",
+        "attribution": "图片及商标版权归原权利人；保留标识，不表示品牌背书。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 70975,
+        "sha256": "fbc76f985f786a8bd10301fdb01899fc075a625b45cba9a7db20fdb8f25a1bc9"
+      },
+      "filename": "images/lenovo-tianyi510s-90xs0075cd.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "anker-a1383-20000mah",
+      "image_url": "https://img01.yzcdn.cn/upload_files/2026/08/17/FmmScW5_FSzVFBs1wi_e_OfyHQ53.jpg!middle.jpg",
+      "source_page": "https://detail.youzan.com/show/goods?alias=3evjd9xnrpefpvg&from_source=gbox_seo",
+      "product_url": "https://detail.youzan.com/show/goods?alias=3evjd9xnrpefpvg&from_source=gbox_seo",
+      "width": 520,
+      "height": 520,
+      "bytes": 9400,
+      "sha256": "045a5ba37b8dea68ef35a62ae546543b6dd7019ee5a8156dc032dbd1293ca610",
+      "visually_verified": true,
+      "visual_notes": "已查看A1383店铺首图：黑色Anker电源数显、侧面87W标记及线缆收纳位置。两种产品视角，不代表两件装，实购颜色以订单选项为准。",
+      "reuse_info": {
+        "rights_holder": "安克品牌及原店铺图片权利人",
+        "license": "原图未声明开放许可；用于有出处的商品资料插图，不属于项目代码MIT授权。",
+        "attribution": "图片及商标版权归原权利人；保留标识，不表示品牌背书。"
+      },
+      "source_image_metadata": {
+        "width": 520,
+        "height": 520,
+        "bytes": 12960,
+        "sha256": "c3640d8318902670926bd97082635528a0ae026e1e06cf44e1d4584744a7f095"
+      },
+      "filename": "images/anker-a1383-20000mah.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "xiaomi-be3600-25g-router",
+      "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomi-routers/be-3600d613e7/section-01.jpg",
+      "source_page": "https://www.mi.com/xiaomi-routers/be-3600",
+      "product_url": "https://www.mi.com/shop/buy/detail?product_id=19647",
+      "width": 900,
+      "height": 473,
+      "bytes": 10818,
+      "sha256": "41c9b21187f721f9e7c99a1de1a26e2f521d8e78ffcc854d451ec95d4693a261",
+      "visually_verified": true,
+      "visual_notes": "已查看BE3600 2.5G版中国官网首屏原图：白色小米路由器、四根天线及状态灯，保留完整构图与品牌标识。",
+      "reuse_info": {
+        "rights_holder": "小米及相关图片权利人",
+        "license": "原图未声明开放许可；用于有出处的商品资料插图，不属于项目代码MIT授权。",
+        "attribution": "图片及商标版权归原权利人；保留标识，不表示品牌背书。"
+      },
+      "source_image_metadata": {
+        "width": 2560,
+        "height": 1345,
+        "bytes": 366678,
+        "sha256": "2159833d23ed0862ecf531f492a01e59d11d9dbcf1f79e5441b610d4d03f92f8"
+      },
+      "filename": "images/xiaomi-be3600-25g-router.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
