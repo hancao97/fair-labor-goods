@@ -10,6 +10,7 @@ export interface LaborAssessment {
   grade?: "A" | "B" | "C";
   periodStart?: string;
   periodEnd?: string;
+  resultPublishedAt?: string;
   reviewedAt?: string;
   reviewDueAt?: string;
   status?: "current" | "withdrawn";

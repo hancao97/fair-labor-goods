@@ -65,6 +65,49 @@ test("scoped government reviews and independent audits can admit goods without a
     assert(!laborEvidenceLabel(assessment).includes("A"));
   }
 });
+test("a dated comprehensive result can admit goods without inventing an inspection interval", () => {
+  for (const kind of ["government-labor-review", "independent-labor-audit"]) {
+    const { product, company, assessment } = reviewedProduct(kind);
+    delete assessment.periodStart;
+    delete assessment.periodEnd;
+    assessment.resultPublishedAt = "2026-01-15";
+    assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+    for (const change of [
+      { resultPublishedAt: undefined }, { resultPublishedAt: "2026-02-30" },
+      { resultPublishedAt: "2026-10-01" }, { periodStart: "2025-01-01" },
+      { reviewDueAt: REVIEW_DATE },
+    ]) {
+      const changed = { ...company, assessments: [{ ...assessment, ...change }] };
+      assert.equal(isAdmitted(product, changed, REVIEW_DATE), false, JSON.stringify(change));
+    }
+  }
+});
+test("a result publication cannot replace a rating period or contradict a known review interval", () => {
+  const { product, company } = assessedProduct();
+  Object.assign(company.assessments[0], {
+    periodStart: undefined, periodEnd: undefined, resultPublishedAt: "2026-01-15",
+  });
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  const reviewed = reviewedProduct("government-labor-review");
+  reviewed.assessment.resultPublishedAt = "2025-01-01";
+  assert.equal(isAdmitted(reviewed.product, reviewed.company, REVIEW_DATE), false);
+});
+test("dated outcomes still expire and are superseded by newer applicable adverse results", () => {
+  const { product, company, assessment } = reviewedProduct("government-labor-review");
+  delete assessment.periodStart;
+  delete assessment.periodEnd;
+  assessment.resultPublishedAt = "2026-01-15";
+  assessment.validUntil = "2026-09-30";
+  assert.equal(isAdmitted(product, company, "2026-10-01"), false);
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+  const newer = { ...assessment, sourceId: "newer-review", resultPublishedAt: "2026-08-31", conclusion: "adverse" };
+  company.assessments.push({ ...newer, facility: "二号厂区" });
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+  company.assessments.push(newer);
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  company.assessments = [assessment, { ...newer, resultPublishedAt: undefined, periodStart: "2026-01-01", periodEnd: "2026-08-31" }];
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+});
 test("a recruiting promise, partial wage check or unresolved audit cannot establish overall labor support", () => {
   for (const change of [
     { kind: "company-disclosure" }, { coverage: ["pay"] },

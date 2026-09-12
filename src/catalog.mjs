@@ -47,6 +47,26 @@ export function laborEvidenceLabel(assessment) {
   return "劳动资料";
 }
 
+const assessmentReferenceDate = (assessment) => assessment.periodEnd ?? assessment.resultPublishedAt;
+
+// A published comprehensive review can identify a dated outcome without disclosing
+// its full inspection interval. Keep that publication date distinct from coverage.
+export function hasValidLaborAssessmentDates(assessment) {
+  const hasPeriod = assessment.periodStart !== undefined || assessment.periodEnd !== undefined;
+  if (hasPeriod) {
+    if (![assessment.periodStart, assessment.periodEnd].every(dated) ||
+        assessment.periodStart > assessment.periodEnd) return false;
+  } else if (!["government-labor-review", "independent-labor-audit"].includes(assessment.kind) ||
+      !dated(assessment.resultPublishedAt)) return false;
+  if (assessment.resultPublishedAt !== undefined &&
+      (!dated(assessment.resultPublishedAt) ||
+       (hasPeriod && assessment.resultPublishedAt < assessment.periodEnd) ||
+       assessment.resultPublishedAt > assessment.reviewedAt)) return false;
+  return [assessment.reviewedAt, assessment.reviewDueAt].every(dated) &&
+    assessmentReferenceDate(assessment) <= assessment.reviewedAt &&
+    assessment.reviewedAt < assessment.reviewDueAt;
+}
+
 // Each assessment applies to its named employer, facility scope and review period.
 // A brand's policies, unknown upstream stages or a weekly schedule alone are not a legal verdict.
 export function getLaborAssessment(product, company, onDate = today()) {
@@ -61,16 +81,16 @@ export function getLaborAssessment(product, company, onDate = today()) {
   );
   return assessments.find((a) =>
     a.sourceId === labor.assessmentSourceId && hasSupportingLaborEvidence(a) && a.status === "current" &&
-    [a.periodStart, a.periodEnd, a.reviewedAt, a.reviewDueAt, onDate].every(dated) &&
-    a.periodStart <= a.periodEnd && a.periodEnd <= a.reviewedAt &&
+    hasValidLaborAssessmentDates(a) && dated(onDate) &&
     a.reviewedAt <= onDate && onDate < a.reviewDueAt &&
     (a.validUntil === undefined || (dated(a.validUntil) && onDate <= a.validUntil)) &&
     !assessments.some((newer) =>
-      dated(newer.periodEnd) && dated(newer.reviewedAt) && newer.reviewedAt <= onDate &&
+      dated(assessmentReferenceDate(newer)) && dated(newer.reviewedAt) && newer.reviewedAt <= onDate &&
       (newer.kind === "government-labor-rating" || newer.conclusion === "adverse" ||
         Object.keys(laborTopics).every((topic) => newer.coverage?.includes(topic))) &&
-      newer.periodEnd <= newer.reviewedAt && (newer.periodEnd > a.periodEnd ||
-      (newer.periodEnd === a.periodEnd && newer.sourceId !== a.sourceId && newer.reviewedAt >= a.reviewedAt))),
+      assessmentReferenceDate(newer) <= newer.reviewedAt &&
+      (assessmentReferenceDate(newer) > assessmentReferenceDate(a) ||
+      (assessmentReferenceDate(newer) === assessmentReferenceDate(a) && newer.sourceId !== a.sourceId && newer.reviewedAt >= a.reviewedAt))),
   );
 }
 export function isAdmitted(product, company, onDate = today()) {

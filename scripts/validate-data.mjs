@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { readFile, access } from "node:fs/promises";
-import { getLaborAssessment, hasSupportingLaborEvidence, laborTopics, selectAdmittedProducts } from "../src/catalog.mjs";
+import { getLaborAssessment, hasSupportingLaborEvidence, hasValidLaborAssessmentDates, laborTopics, selectAdmittedProducts } from "../src/catalog.mjs";
 import { validateLaborEvidenceSources } from "./labor-evidence-sources.mjs";
 
 const data = JSON.parse(
@@ -93,14 +93,12 @@ for (const c of data.companies) {
         if (assessment.conclusion === "supported") assert(hasSupportingLaborEvidence(assessment), `${c.id}: incomplete labor review`);
       }
       assert(["current", "withdrawn"].includes(assessment.status));
-      for (const key of ["periodStart", "periodEnd", "reviewedAt", "reviewDueAt"]) date(assessment[key]);
-      assert(assessment.periodStart <= assessment.periodEnd);
-      assert(assessment.periodEnd <= assessment.reviewedAt);
+      assert(hasValidLaborAssessmentDates(assessment), `${c.id}: invalid labor assessment dates`);
       assert(assessment.reviewedAt <= data.updatedAt);
       assert(assessment.reviewDueAt > assessment.reviewedAt);
       if (assessment.validUntil !== undefined) {
         date(assessment.validUntil);
-        assert(assessment.validUntil >= assessment.periodEnd);
+        assert(assessment.validUntil >= (assessment.periodEnd ?? assessment.resultPublishedAt));
       }
       validateLaborEvidenceSources(assessment, data.sources);
     }

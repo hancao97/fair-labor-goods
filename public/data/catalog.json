@@ -7091,6 +7091,198 @@
       "locator": "名单标题及第42、81、159、162项；原始HTML正文",
       "summary": "拟评名单列张掖市多成农业、亚盛临泽分公司、山丹县芋兴粉业及甘肃天润薯业等主体，可用于继续寻找生产企业。",
       "limitation": "该页面明确写拟评定，并非最终结果。本次没有将其写成已生效A级，也未把种薯、马铃薯粉或集团业务当成已找到的鲜食土豆商品。"
+    },
+    {
+      "id": "shaanxi-harmony-criteria-2025",
+      "title": "陕西省2025年和谐劳动关系创建示范活动通知及企业评价标准",
+      "publisher": "陕西省人社厅等五部门；咸阳市人社局公开附件",
+      "type": "政府文件",
+      "url": "https://xyrs.xianyang.gov.cn/zwgk/fdzdgknr/zcwj/ldgx/202507/P020250716615502755758.docx",
+      "publishedAt": "2025-06-30",
+      "checkedAt": "2026-09-13",
+      "locator": "陕人社函〔2025〕235号：第四部分组织实施；附件5第2—4项及第12项",
+      "summary": "原始DOCX明确人社考核组按项目评分并核查原始资料、台账；标准覆盖合同、工资及加班报酬、社保、工时、休假和劳动保护。第12项规定近三年的否决情形。",
+      "limitation": "综合评分评价，不表示所有分项满分。评选日程、近三年否决项回溯与企业完整实际审查区间不同，后者未公开，不补造起止日。"
+    },
+    {
+      "id": "baoji-geely-harmony-2025",
+      "title": "2025年陕西省劳动关系和谐企业名单：宝鸡吉利汽车部件有限公司",
+      "publisher": "宝鸡市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://rsj.baoji.gov.cn/col1240/col1241/202601/t20260115_1240528.html",
+      "publishedAt": "2026-01-15",
+      "checkedAt": "2026-09-13",
+      "locator": "正文“我市5企业1园区入选”：被命名企业名单中的宝鸡吉利汽车部件有限公司",
+      "summary": "人社局公开最终命名结果，具名列出宝鸡吉利汽车部件有限公司。与同批评价标准及市级审核公示交叉核对，作为该用人单位的政府综合劳动评价。",
+      "limitation": "只覆盖具名用人单位和2025年度评价；未公开逐项得分及完整审查起止日，不表示所有条目满分、全部供应商或未来所有生产活动均合规。"
+    },
+    {
+      "id": "baoji-harmony-nomination-2025",
+      "title": "宝鸡市2025年省级和谐劳动关系示范企业拟推荐公示",
+      "publisher": "宝鸡市人力资源和社会保障局",
+      "type": "政府文件",
+      "url": "https://rsj.baoji.gov.cn/col9976/col1294/202510/t20251014_1218406.html",
+      "publishedAt": "2025-10-14",
+      "checkedAt": "2026-09-13",
+      "locator": "正文审核程序、依据文号及企业名单",
+      "summary": "公示明确依据陕人社函〔2025〕235号，经企业申报、县区推荐和人社、工会、工商联等联合审核，列出宝鸡吉利汽车部件有限公司。",
+      "limitation": "该页本身是拟推荐公示，不单独作为最终通过结果；最终结果另见2026-01-15人社局报道。"
+    },
+    {
+      "id": "geely-boyue-l4-official",
+      "title": "第四代博越L官方车型与具体配置",
+      "publisher": "吉利汽车",
+      "type": "品牌商品资料",
+      "url": "https://boyue.geely.com/disidaiboyuel",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "参数配置：1.5TD+7DCT山河；市场指导价及预约试驾、经销商入口",
+      "summary": "当前官网列1.5TD+7DCT山河配置，指导价116900元，列出15.4英寸中控屏、L2辅助驾驶等配置，并提供国内预约及经销商查询入口。",
+      "limitation": "指导价、选装与交付以销售方确认结果为准；车系图片不证明特定颜色或全部展示配置均为所选款标配，也不证明劳动条件。"
+    },
+    {
+      "id": "baoji-boyue-l4-production-2026",
+      "title": "宝鸡吉利汽车部件有限公司：第四代博越L持续热销",
+      "publisher": "宝鸡市人民政府；来源宝鸡日报",
+      "type": "政府制造资料",
+      "url": "https://www.baoji.gov.cn/bmpd/bjgxq/ztzl/mqfc/202603/t20260316_1253361.html",
+      "publishedAt": "2026-03-16",
+      "checkedAt": "2026-09-13",
+      "locator": "正文第1—2段：公司名称、第四代博越L与宝鸡制造基地",
+      "summary": "政府刊载的现场采访将第四代博越L对应到宝鸡吉利汽车部件有限公司及其宝鸡制造基地，并介绍冲压、焊装、涂装和总装设施。",
+      "limitation": "用于第四代博越L制造主体对应，不扩展到银河E5、帝豪或所有吉利车型；交付车辆生产主体变化时需重新核对。"
+    },
+    {
+      "id": "geely-china-dealer-2026",
+      "title": "吉利汽车国内经销商查询",
+      "publisher": "吉利汽车",
+      "type": "品牌销售渠道",
+      "url": "https://www.geely.com/dealer",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "官网经销商查询页及省市选择",
+      "summary": "品牌提供国内经销商查询入口，具体车型页面可进入预约和经销商查询。",
+      "limitation": "渠道入口不保证任一门店的实时库存、价格或交期。"
+    },
+    {
+      "id": "haojue-uhr150-2026-parameters",
+      "title": "豪爵UHR150 26升级款技术参数",
+      "publisher": "江门市大长江集团有限公司／豪爵",
+      "type": "品牌商品资料",
+      "url": "https://www.haojue.com/2026UHR150/canshu.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "技术参数表：HJ150T-28F扶手版、HJ150T-28G气囊减振/尾箱版",
+      "summary": "本款选HJ150T-28G，排量149mL，整备质量144kg；官网将它与HJ150T-28F扶手版分列。",
+      "limitation": "不混用旧款HJ150T-28、28A或新款28D的参数；标称参数不作为劳动证明。"
+    },
+    {
+      "id": "haojue-uhr150-2026-price",
+      "title": "豪爵UHR150 26升级款配置与价格",
+      "publisher": "江门市大长江集团有限公司／豪爵",
+      "type": "品牌销售渠道",
+      "url": "https://www.haojue.com/2026UHR150/jiage.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "气囊减振/尾箱版：官方建议零售价14680元",
+      "summary": "当前官网列气囊减振/尾箱版、原厂尾箱、TCS及双通道ABS等配置和国内建议零售价，并提供营销服务网络。",
+      "limitation": "实际成交价格、实车配置和地区供货以经销商确认为准；品牌承诺不代替劳动评价。"
+    },
+    {
+      "id": "haojue-hj150t28g-environment-2026",
+      "title": "HJ150T-28G摩托车环保信息公开原件",
+      "publisher": "江门市大长江集团有限公司",
+      "type": "制造商产品文件",
+      "url": "https://cdn.haojue.com/upload/2026/05/22/17794196629062tf5vl.pdf",
+      "publishedAt": "2026-05-22",
+      "checkedAt": "2026-09-13",
+      "locator": "PDF第1页车辆信息01、05、06项；第2页信息公开时间",
+      "summary": "公开编号CN MT G4 Z2 0845000137 000001。原件将HJ150T-28G对应江门市大长江集团有限公司，生产厂地址为江门市建达北路5号／棠下镇富棠二路16号。",
+      "limitation": "环保与噪声合格用于识别车型、制造商及厂址，不是劳动合规评价；不能移用另一豪爵或铃木制造法人的劳动资料。"
+    },
+    {
+      "id": "haojue-dealer-network-2026",
+      "title": "豪爵营销服务网络",
+      "publisher": "江门市大长江集团有限公司／豪爵",
+      "type": "品牌销售渠道",
+      "url": "https://www.haojue.com/services/network.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "营销服务网络：国内省市查询",
+      "summary": "豪爵提供国内营销服务网络查询，与具体车型配置与价格页面共同支持中国购买渠道。",
+      "limitation": "未逐店确认库存、牌照政策、实际报价或交付日期。"
+    },
+    {
+      "id": "pengjiang-labor-2025-access",
+      "title": "蓬江区2025年度劳动保障守法诚信评价公告（访问记录）",
+      "publisher": "江门市蓬江区人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.pjq.gov.cn/jmpjqrsj/gkmlpt/content/3/3497/post_3497588.html?jump=true",
+      "publishedAt": "2026-05-28",
+      "checkedAt": "2026-09-13",
+      "locator": "公开检索索引中的公告；原页面直接访问返回403",
+      "summary": "找到覆盖2025年度的最新公告及分级附件线索，尚未取得能够核对大长江具体行的原始附件。",
+      "limitation": "不能从公告存在、A级企业总数或搜索无结果推断大长江获评A级或当前违法；本次不重试受限路径。"
+    },
+    {
+      "id": "dachangjiang-labor-2022-index",
+      "title": "蓬江区2022年度B级结果中的大长江（历史索引）",
+      "publisher": "江门市蓬江区人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.pjq.gov.cn/attachment/0/268/268892/2871465.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公开PDF索引第175行：江门市大长江集团有限公司、环市街道、B级；原链接返回403 HTML",
+      "summary": "公开索引显示2022年度历史B级记录；保留其年份和访问边界，未将403内容当成已读PDF。",
+      "limitation": "历史B级不证明2026年仍有违法，也不是永久排除理由；待取得更新的适用劳动评价或独立审核后重新判断。"
+    },
+    {
+      "id": "geely-galaxy-m7-voyager-official",
+      "title": "吉利银河M7远航家官方车型与225km配置",
+      "publisher": "吉利银河",
+      "type": "品牌销售渠道",
+      "url": "https://www.galaxy-geely.com/M7",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "配置区225km远航版；国内预约试驾与定购入口",
+      "summary": "官网列银河M7远航家225km远航版，上市限时指导价109800元，提供国内定购、预约及车型配置资料。",
+      "limitation": "续航数字用于标识官网配置名称，不保证实际行驶里程；官网品牌归属不直接识别交付车辆的制造法人。"
+    },
+    {
+      "id": "qinchuan-baoji-m7-production-lead",
+      "title": "秦川机床转载宝鸡工业报道中的银河M7产地线索",
+      "publisher": "秦川机床工具集团；标注转载中国经济网",
+      "type": "媒体转载",
+      "url": "https://www.qinchuan.com/show-29-1841-1.html",
+      "publishedAt": "2026-09-02",
+      "checkedAt": "2026-09-13",
+      "locator": "“汽车名城”段落：宝鸡吉利与博越L、银河M7共线的描述",
+      "summary": "转载将银河M7生产线索指向宝鸡吉利汽车部件有限公司，已保留作为进一步对应具体车型的线索。",
+      "limitation": "本轮未取得原报道正文或型号级生产文件，不仅凭转载就确认本配置制造主体，也不自动借用宝鸡公司的劳动评价。"
+    },
+    {
+      "id": "geely-emgrand5-official",
+      "title": "第5代帝豪官方车型与1.5L+8CVT豪华型",
+      "publisher": "吉利汽车",
+      "type": "品牌销售渠道",
+      "url": "https://dh.geely.com/SS21",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "配置区1.5L+8CVT豪华型；上市指导价与预约入口",
+      "summary": "当前官网列1.5L+8CVT豪华型及指导价74900元，提供10.1英寸中控屏、倒车影像等配置和国内预约、经销商入口。",
+      "limitation": "不混用同页1.5TD+7DCT或i-HEV混动版；价格与交付配置以订单确认为准，官网页不构成劳动合规证明。"
+    },
+    {
+      "id": "emgrand5-changxing-production-lead",
+      "title": "第5代帝豪上市报道中的长兴制造基地线索",
+      "publisher": "杭州网",
+      "type": "媒体商品资料",
+      "url": "https://auto.hangzhou.com.cn/news/content/2025-11/19/content_9126861_2.html",
+      "publishedAt": "2025-11-19",
+      "checkedAt": "2026-09-13",
+      "locator": "正文“以全维防护”部分：新车产自吉利长兴基地",
+      "summary": "车型上市报道将第5代帝豪对应吉利长兴基地，为后续核对制造法人提供方向。",
+      "limitation": "报道未列所选配置的制造法人及劳动评价；本轮未取得足以对应该基地的近期综合劳动结果，不使用控股集团或宝鸡工厂荣誉代替。"
     }
   ],
   "companies": [
@@ -9341,22 +9533,26 @@
       "restDays": null,
       "hoursLabel": "具体工时制度待补",
       "restLabel": "具体休息安排待补",
-      "cardNote": "有政府记录 · 当前产线待核",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已找到对应法人的政府劳动关系记录；尚不足以保证当前所有生产岗位和商品达标。",
+      "cardNote": "集团有历史记录 · 各车型制造主体另核",
+      "scope": "吉利品牌与控股集团历史资料；所选车型需对应其实际制造法人。",
+      "finding": "2022年集团示范称号不能自动覆盖下属整车制造企业。宝鸡吉利的2025年综合劳动评价已建独立档案，仅用于能够对应到该制造主体的商品。",
       "caveats": [
-        "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "本档案尚未取得实际考勤、加班和每周休息记录。"
+        "品牌介绍、整车质量与节能宣传不证明劳动条件。",
+        "银河E5、银河M7、帝豪和博越L的制造对应分别判断，不将集团或兄弟工厂评价直接通用。",
+        "未公开个人考勤不是统一排除条件；当前缺口是具体制造主体与适用劳动依据的对应。"
       ],
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "geely-galaxy-m7-voyager-official",
+        "qinchuan-baoji-m7-production-lead",
+        "geely-emgrand5-official",
+        "emgrand5-changxing-production-lead"
       ],
       "supply": [
         {
           "stage": "品牌与运营",
           "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
+          "detail": "品牌车型与国内销售入口已有资料；这些信息不单独证明劳动合规。",
           "sourceIds": []
         },
         {
@@ -9381,7 +9577,7 @@
           "result": "全国和谐劳动关系创建示范企业",
           "period": "2022 年命名",
           "sourceId": "national-harmony-2022",
-          "limitation": "仅为所列法人、所述时期的行政评价或示范记录；当前生产实际工时、全部产品与外包人员仍须核验。"
+          "limitation": "仅为2022年具名控股集团的示范记录，不能自动用于下属整车制造法人；具体商品依实际制造主体及可适用的劳动依据判断，不额外要求公开逐人考勤。"
         }
       ]
     },
@@ -15946,6 +16142,164 @@
           "period": "2025-03-20名单更新；具体审核期间未列",
           "sourceId": "agricert-operators-grasp-2025",
           "limitation": "这是历史名单线索，尚无当前GRASP详细结论与期限，未作为可支持正式收录的独立劳动审核。"
+        }
+      ]
+    },
+    {
+      "id": "baoji-geely",
+      "name": "吉利 · 宝鸡制造基地",
+      "legalName": "宝鸡吉利汽车部件有限公司",
+      "location": "陕西省宝鸡市高新区",
+      "origin": "china",
+      "originNote": "中国品牌在宝鸡的整车制造企业；劳动评价对应具名境内用人单位，厂址不用于推断每名工人的国籍。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "评价覆盖工时及加班制度",
+      "restLabel": "评价覆盖休息休假",
+      "cardNote": "2025年政府综合劳动评价",
+      "scope": "宝鸡吉利汽车部件有限公司；2025年度陕西省劳动关系和谐企业评价。",
+      "finding": "已核对具名最终结果、同批评价标准和地方审核程序；标准覆盖六项主要劳动权益，采用政府综合劳动评价作为公开劳动依据。",
+      "caveats": [
+        "完整审查起止日及企业逐项得分未公开；记录2025年度评价和2026-01-15结果公布日，不推定各项满分。",
+        "评价用于这一制造法人，不能扩展到控股集团、其他整车工厂或全部供应商。",
+        "正式收录是依据已公开资料作出的判断，不保证未来全部生产活动；出现更新的不利结果或制造主体变化时重新判断。"
+      ],
+      "sourceIds": [
+        "baoji-geely-harmony-2025",
+        "shaanxi-harmony-criteria-2025",
+        "baoji-harmony-nomination-2025",
+        "baoji-boyue-l4-production-2026",
+        "geely-boyue-l4-official"
+      ],
+      "supply": [
+        {
+          "stage": "整车制造",
+          "status": "verified",
+          "detail": "第四代博越L的宝鸡制造主体已对应，具名用人单位有2025年度政府综合劳动评价。",
+          "sourceIds": [
+            "baoji-boyue-l4-production-2026",
+            "baoji-geely-harmony-2025",
+            "shaanxi-harmony-criteria-2025"
+          ]
+        },
+        {
+          "stage": "零部件与原材料",
+          "status": "unknown",
+          "detail": "供应商劳动资料未完整调查；作为补充信息，不另设全链准入门槛。",
+          "sourceIds": []
+        },
+        {
+          "stage": "零售、物流及外包",
+          "status": "unknown",
+          "detail": "独立经销商、物流和外包用人单位不在本项制造企业评价的自动适用范围。",
+          "sourceIds": [
+            "geely-china-dealer-2026"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-13前检查是否有更新、撤销或相反劳动结论；新增车型先对应实际制造主体。",
+      "assessments": [
+        {
+          "subject": "宝鸡吉利汽车部件有限公司",
+          "result": "2025年陕西省劳动关系和谐企业",
+          "period": "2025年度评价；2026-01-15公布结果；完整审查起止日未公开",
+          "sourceId": "baoji-geely-harmony-2025",
+          "limitation": "综合评分结果，未公开逐项得分；不表示所有条目满分，不扩大至其他法人、全部供应商或未来全部生产活动。",
+          "kind": "government-labor-review",
+          "resultPublishedAt": "2026-01-15",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "陕西省人力资源和社会保障厅等五部门；结果由宝鸡市人社局公布",
+          "scopeType": "employer",
+          "scope": "宝鸡吉利汽车部件有限公司的2025年度综合劳动评价，按陕人社函〔2025〕235号及附件5核查。",
+          "verificationSourceId": "baoji-geely-harmony-2025",
+          "basisSourceIds": [
+            "shaanxi-harmony-criteria-2025",
+            "baoji-harmony-nomination-2025"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dachangjiang-haojue",
+      "name": "豪爵 · 大长江",
+      "legalName": "江门市大长江集团有限公司",
+      "location": "广东江门：建达北路5号／棠下镇富棠二路16号",
+      "origin": "china",
+      "originNote": "豪爵中国品牌及其具名江门制造企业；不据国内厂址推断每名工人的国籍。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "近期劳动评价待核",
+      "restLabel": "近期劳动评价待核",
+      "cardNote": "国内制造已对应 · 劳动依据待补",
+      "scope": "HJ150T-28G摩托车的具名制造企业及其江门生产地址。",
+      "finding": "环保公开原件已将所选型号对应江门市大长江集团有限公司。找到2025年度地方劳动评价公告，但本次附件访问受限，尚不能确认该企业最新结果。",
+      "caveats": [
+        "环保信息和车辆质量结论用于识别制造主体，不作为劳动评价。",
+        "2022年度B级仅有历史公开索引，不能直接推断当前违法或永久排除。",
+        "没有因未查到新评级而认定违法；可用更新的政府综合评价或独立劳动审核补充判断。"
+      ],
+      "sourceIds": [
+        "haojue-uhr150-2026-parameters",
+        "haojue-uhr150-2026-price",
+        "haojue-hj150t28g-environment-2026",
+        "haojue-dealer-network-2026",
+        "pengjiang-labor-2025-access",
+        "dachangjiang-labor-2022-index"
+      ],
+      "supply": [
+        {
+          "stage": "车辆制造",
+          "status": "unknown",
+          "detail": "制造法人和江门厂址已确认；适用的近期劳动依据尚待补充。",
+          "sourceIds": [
+            "haojue-hj150t28g-environment-2026",
+            "pengjiang-labor-2025-access",
+            "dachangjiang-labor-2022-index"
+          ]
+        },
+        {
+          "stage": "零部件",
+          "status": "unknown",
+          "detail": "环保原件列部分零件生产商，仅用于产品对应，未独立核查其劳动情况。",
+          "sourceIds": [
+            "haojue-hj150t28g-environment-2026"
+          ]
+        },
+        {
+          "stage": "销售与服务",
+          "status": "unknown",
+          "detail": "官方销售网络支持国内购买入口；经销商劳动情况另属各经营单位。",
+          "sourceIds": [
+            "haojue-uhr150-2026-price",
+            "haojue-dealer-network-2026"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得可公开核对的大长江近期劳动结果后复核；不重试已受限链接，不将历史B级当成当前定性。",
+      "assessments": [
+        {
+          "subject": "江门市大长江集团有限公司",
+          "result": "历史B级（公开索引，原PDF本次访问受限）",
+          "period": "2022年度",
+          "sourceId": "dachangjiang-labor-2022-index",
+          "limitation": "仅为历史结果线索，不代表2026年结论；不用于正式收录或当前违法判断。"
         }
       ]
     }
@@ -27244,6 +27598,239 @@
           ]
         }
       }
+    },
+    {
+      "id": "geely-boyue-l4-15td-shanhe",
+      "name": "第四代博越L · 1.5TD+7DCT山河",
+      "brand": "吉利汽车",
+      "companyId": "baoji-geely",
+      "category": "cars",
+      "needs": [
+        "SUV"
+      ],
+      "description": "燃油SUV，具体到第四代1.5TD发动机、7速双离合山河配置；官网列15.4英寸中控屏、L2辅助驾驶和前排座椅加热。图片如有展示，仅为同车系外观示意。",
+      "tags": [
+        "SUV",
+        "汽车",
+        "燃油汽车",
+        "博越L",
+        "第四代",
+        "山河",
+        "1.5TD",
+        "7DCT"
+      ],
+      "url": "https://boyue.geely.com/disidaiboyuel",
+      "market": "国内官方车型页与经销商入口；查阅时山河配置市场指导价116900元。实际配置、成交价和交期由经销商确认。",
+      "relationship": "官方具体配置属于第四代博越L；2026年政府制造报道将这一代车型对应宝鸡吉利汽车部件有限公司及宝鸡制造基地。",
+      "relationshipSourceIds": [
+        "geely-boyue-l4-official",
+        "baoji-boyue-l4-production-2026"
+      ],
+      "image": "images/geely-boyue-l4-15td-shanhe.webp",
+      "imageMode": "contain",
+      "imageSource": "https://dm30webimages.geely.com/GeelyPromotion/ANEW2/boyueL4/2025/0401/45du.png",
+      "imageRights": "吉利汽车及图片相关权利人；官网车系示意图，颜色与配置以具体订单为准。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "官网列所选配置、人民币指导价、预约试驾及国内经销商查询，支持中国购买渠道。",
+          "sourceIds": [
+            "geely-boyue-l4-official",
+            "geely-china-dealer-2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "宝鸡市政府2026-03-16报道具名制造企业和第四代博越L，交叉对应官方山河配置；限宝鸡吉利这一制造主体，交付主体变化时重新判断。",
+          "sourceIds": [
+            "geely-boyue-l4-official",
+            "baoji-boyue-l4-production-2026"
+          ],
+          "subject": "宝鸡吉利汽车部件有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "制造法人获评2025年陕西省劳动关系和谐企业；已核对最终结果和包含合同、工资社保、工时休假及劳动保护的同批评价标准。",
+          "sourceIds": [
+            "baoji-geely-harmony-2025",
+            "shaanxi-harmony-criteria-2025",
+            "baoji-harmony-nomination-2025"
+          ],
+          "assessmentSourceId": "baoji-geely-harmony-2025"
+        }
+      }
+    },
+    {
+      "id": "geely-galaxy-m7-voyager225",
+      "name": "银河M7远航家 · 225km远航版",
+      "brand": "吉利银河",
+      "companyId": "geely",
+      "category": "cars",
+      "needs": [
+        "插混汽车",
+        "SUV"
+      ],
+      "description": "插电混合动力SUV，具体到官网225km远航版。225km为配置名称中的标称续航信息；配置、选装与实际续航以官方参数和实际使用条件为准。",
+      "tags": [
+        "插混汽车",
+        "SUV",
+        "汽车",
+        "银河M7",
+        "远航家",
+        "225km远航版"
+      ],
+      "url": "https://www.galaxy-geely.com/M7",
+      "market": "中国官网提供所选配置、预约与定购入口；查阅时上市限时指导价109800元，活动、交期和现车以销售方确认为准。",
+      "relationship": "吉利银河官方车型资料；有转载报道指向宝鸡制造线索，但尚未取得足以确认该配置生产法人的原始资料。",
+      "relationshipSourceIds": [
+        "geely-galaxy-m7-voyager-official",
+        "qinchuan-baoji-m7-production-lead"
+      ],
+      "image": "images/geely-galaxy-m7-voyager225.webp",
+      "imageMode": "contain",
+      "imageSource": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/M7/2026/0205/car1.png",
+      "imageRights": "吉利汽车及图片相关权利人；官网车系示意图，颜色与配置以具体订单为准。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "官网列225km远航版的配置、人民币指导价及国内定购入口。",
+          "sourceIds": [
+            "geely-galaxy-m7-voyager-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "转载报道提供宝鸡共线生产线索，尚未核得原报道或型号级制造文件，暂未确认该配置实际制造法人。",
+          "sourceIds": [
+            "geely-galaxy-m7-voyager-official",
+            "qinchuan-baoji-m7-production-lead"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "先完成该配置的制造主体对应；不自动将宝鸡或控股集团的劳动评价套用于银河M7。",
+          "sourceIds": [
+            "qinchuan-baoji-m7-production-lead",
+            "baoji-geely-harmony-2025",
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "geely-emgrand5-15l-cvt-luxury",
+      "name": "第5代帝豪 · 1.5L+8CVT豪华型",
+      "brand": "吉利汽车",
+      "companyId": "geely",
+      "category": "cars",
+      "needs": [
+        "轿车"
+      ],
+      "description": "紧凑型燃油轿车，选1.5L+8CVT豪华型，官网列10.1英寸中控屏和倒车影像；与同页1.5TD及i-HEV混动车型分别记录。",
+      "tags": [
+        "轿车",
+        "汽车",
+        "帝豪",
+        "第5代",
+        "1.5L",
+        "8CVT",
+        "豪华型"
+      ],
+      "url": "https://dh.geely.com/SS21",
+      "market": "中国官网提供所选配置和预约、经销商入口；查阅时上市指导价74900元。现车、成交价和具体交付配置由经销商确认。",
+      "relationship": "吉利官网明确所选配置；上市报道将这一代车型指向长兴基地，制造法人及其劳动结果仍待对应。",
+      "relationshipSourceIds": [
+        "geely-emgrand5-official",
+        "emgrand5-changxing-production-lead"
+      ],
+      "image": "images/geely-emgrand5-15l-cvt-luxury.webp",
+      "imageMode": "contain",
+      "imageSource": "https://dm30webimages.geely.com/GeelyPromotion/ANEW2/dh5/2025/0926/30du.png",
+      "imageRights": "吉利汽车及图片相关权利人；官网车系示意图，颜色与配置以具体订单为准。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "官网列1.5L+8CVT豪华型与人民币指导价，并提供国内预约和经销商入口。",
+          "sourceIds": [
+            "geely-emgrand5-official",
+            "geely-china-dealer-2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "已找到长兴基地的车型报道，尚缺所选配置的具名制造法人原件。",
+          "sourceIds": [
+            "emgrand5-changxing-production-lead",
+            "geely-emgrand5-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "长兴整车制造用人单位的适用劳动依据尚未取得；2022年控股集团荣誉和宝鸡2025年结果不直接覆盖本车型。",
+          "sourceIds": [
+            "emgrand5-changxing-production-lead",
+            "national-harmony-2022"
+          ]
+        }
+      }
+    },
+    {
+      "id": "haojue-uhr150-2026-hj150t28g",
+      "name": "UHR150 26升级款 · 气囊减振/尾箱版（HJ150T-28G）",
+      "brand": "豪爵",
+      "companyId": "dachangjiang-haojue",
+      "category": "transport",
+      "needs": [
+        "摩托车"
+      ],
+      "description": "149mL踏板摩托车，型号HJ150T-28G，整备质量144kg，配置气囊减振、原厂快拆尾箱、TCS和双通道ABS；与扶手版28F区分。",
+      "tags": [
+        "摩托车",
+        "踏板车",
+        "UHR150",
+        "149mL",
+        "HJ150T-28G",
+        "尾箱版"
+      ],
+      "url": "https://www.haojue.com/2026UHR150/jiage.html",
+      "market": "豪爵国内官方配置页与营销服务网络；查阅时本配置建议零售价14680元。实际报价和供货由经销商确认。",
+      "relationship": "官方参数将气囊减振/尾箱版对应HJ150T-28G；该型号环保公开原件直接列江门市大长江集团有限公司和两个江门生产地址。",
+      "relationshipSourceIds": [
+        "haojue-uhr150-2026-parameters",
+        "haojue-uhr150-2026-price",
+        "haojue-hj150t28g-environment-2026"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "尚未附可核对的本款图片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "当前官网列具体版本、国内建议零售价和营销服务网络。",
+          "sourceIds": [
+            "haojue-uhr150-2026-price",
+            "haojue-dealer-network-2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "HJ150T-28G环保公开原件第1页05—06项明确江门市大长江集团有限公司及江门生产厂地址。",
+          "sourceIds": [
+            "haojue-hj150t28g-environment-2026",
+            "haojue-uhr150-2026-parameters"
+          ],
+          "subject": "江门市大长江集团有限公司"
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "2025年度地方评价附件本次访问受限，无法确认该企业最新结果；2022年度B级历史索引不代替当前结论。",
+          "sourceIds": [
+            "pengjiang-labor-2025-access",
+            "dachangjiang-labor-2022-index"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -28292,7 +28879,7 @@
           "query": "雨伞"
         }
       ],
-      "note": "出行住宿8项需求中6项已有具体研究资料。新增天堂伞33188E藏青十骨和爱华仕OCX6708-20星空蓝行李箱，两款已有准确国内入口，制造及劳动依据待补。灵璧城区1路单次乘车与淮北口子酒店具体房型保留正式收录；摩托车、铁路仍缺具体商品或服务。",
+      "note": "出行住宿8项需求中7项已有具体研究资料。新增豪爵UHR150 26升级款HJ150T-28G气囊减振/尾箱版，国内购买及江门制造主体已核，近期劳动依据待补。公交及口子酒店房型保留正式收录；雨伞、行李箱等继续补证，铁路仍缺具体记录。",
       "sourceIds": [
         "sofitel-haikou-campus",
         "huaibei-labor-2025",
@@ -28306,7 +28893,12 @@
         "tiantang-33188e-navy-jd",
         "tiantang-33188e-dianli",
         "oiwas-ocx6708-20-jd",
-        "oiwas-about2026"
+        "oiwas-about2026",
+        "haojue-uhr150-2026-parameters",
+        "haojue-uhr150-2026-price",
+        "haojue-hj150t28g-environment-2026",
+        "pengjiang-labor-2025-access",
+        "dachangjiang-labor-2022-index"
       ]
     },
     {
@@ -28337,7 +28929,7 @@
           "query": "MPV"
         }
       ],
-      "note": "汽车6项需求中4项已有具体研究资料。2024款奔驰V 300领航版（44881313-CNB）保留正式收录；新增赛轮E01+ 205/55R16 94V轮胎准确国内条目，制造工厂和SA8000独立发证记录仍待对应。吉利银河E5继续补制造与劳动依据，轿车和插混汽车仍缺具体记录。",
+      "note": "汽车6项需求均已有具体研究资料。新增第5代帝豪1.5L+8CVT豪华型和银河M7远航家225km远航版，制造主体与劳动对应待核；第四代博越L 1.5TD+7DCT山河使用宝鸡具名政府综合劳动评价正式收录，奔驰V 300领航版保留。银河E5和轮胎继续补证。",
       "sourceIds": [
         "national-harmony-2022",
         "fuzhou-labor-2024",
@@ -28346,7 +28938,15 @@
         "benz-fuzhou-production-2024",
         "sailun-e01-205-55r16-jd",
         "sailun-csr2025-sa8000",
-        "sai-sa8000-sailun-access"
+        "sai-sa8000-sailun-access",
+        "geely-boyue-l4-official",
+        "baoji-boyue-l4-production-2026",
+        "baoji-geely-harmony-2025",
+        "shaanxi-harmony-criteria-2025",
+        "geely-galaxy-m7-voyager-official",
+        "qinchuan-baoji-m7-production-lead",
+        "geely-emgrand5-official",
+        "emgrand5-changxing-production-lead"
       ]
     },
     {

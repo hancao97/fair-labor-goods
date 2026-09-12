@@ -8125,6 +8125,87 @@
       },
       "filename": "images/xiaotangshan-cucumbers350.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "geely-boyue-l4-15td-shanhe",
+      "product_name": "第四代博越L · 1.5TD+7DCT山河",
+      "official_source_page_url": "https://boyue.geely.com/disidaiboyuel",
+      "product_page_url": "https://boyue.geely.com/disidaiboyuel",
+      "image_url": "https://dm30webimages.geely.com/GeelyPromotion/ANEW2/boyueL4/2025/0401/45du.png",
+      "content_type": "image/png",
+      "width": 720,
+      "height": 342,
+      "bytes": 29404,
+      "sha256": "95ff924e9bf8282973cab949b911e35541ce60c7fe5746102f24a68e990a3f39",
+      "checkedAt": "2026-09-13",
+      "visually_verified": true,
+      "notes": "已核对原始车型页面中的配图归属及原图。属于同车系外观示意，颜色、轮毂和选装可能与所选配置不同，具体配置依据正文；不据图片判断产地或劳动合规。",
+      "reuse_info": {
+        "rights_holder": "吉利汽车及图片相关权利人；官网车系示意图，颜色与配置以具体订单为准。",
+        "license": "No open reuse license identified. Public brand product imagery; rights retained by its owners."
+      },
+      "source_image_metadata": {
+        "width": 720,
+        "height": 342,
+        "bytes": 202713,
+        "sha256": "28a6360c8273f4253ebe58ce500446b3cfc6c2cb1f7cfaa180681511b9cf9577"
+      },
+      "filename": "images/geely-boyue-l4-15td-shanhe.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "geely-galaxy-m7-voyager225",
+      "product_name": "银河M7远航家 · 225km远航版",
+      "official_source_page_url": "https://www.galaxy-geely.com/M7",
+      "product_page_url": "https://www.galaxy-geely.com/M7",
+      "image_url": "https://dm30webimages.geely.com/GeelyPromotion/AYINHE/M7/2026/0205/car1.png",
+      "content_type": "image/png",
+      "width": 720,
+      "height": 320,
+      "bytes": 33702,
+      "sha256": "afda173f5f23d6662d5055eab9ede6a623a9842421a3900053dbebdfb1c23430",
+      "checkedAt": "2026-09-13",
+      "visually_verified": true,
+      "notes": "已核对原始车型页面中的配图归属及原图。属于同车系外观示意，颜色、轮毂和选装可能与所选配置不同，具体配置依据正文；不据图片判断产地或劳动合规。",
+      "reuse_info": {
+        "rights_holder": "吉利汽车及图片相关权利人；官网车系示意图，颜色与配置以具体订单为准。",
+        "license": "No open reuse license identified. Public brand product imagery; rights retained by its owners."
+      },
+      "source_image_metadata": {
+        "width": 720,
+        "height": 320,
+        "bytes": 250280,
+        "sha256": "0c01dcd2df9f2455dd69993fa10d9660bfee0bfe6cb01c41d20211af4df5fc54"
+      },
+      "filename": "images/geely-galaxy-m7-voyager225.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "geely-emgrand5-15l-cvt-luxury",
+      "product_name": "第5代帝豪 · 1.5L+8CVT豪华型",
+      "official_source_page_url": "https://dh.geely.com/SS21",
+      "product_page_url": "https://dh.geely.com/SS21",
+      "image_url": "https://dm30webimages.geely.com/GeelyPromotion/ANEW2/dh5/2025/0926/30du.png",
+      "content_type": "image/png",
+      "width": 720,
+      "height": 342,
+      "bytes": 40190,
+      "sha256": "deeb9b8ecf49db6b31eb4e2b5e273a6f6ba79a7846b58e3f9ae532c5de149d79",
+      "checkedAt": "2026-09-13",
+      "visually_verified": true,
+      "notes": "已核对原始车型页面中的配图归属及原图。属于同车系外观示意，颜色、轮毂和选装可能与所选配置不同，具体配置依据正文；不据图片判断产地或劳动合规。",
+      "reuse_info": {
+        "rights_holder": "吉利汽车及图片相关权利人；官网车系示意图，颜色与配置以具体订单为准。",
+        "license": "No open reuse license identified. Public brand product imagery; rights retained by its owners."
+      },
+      "source_image_metadata": {
+        "width": 720,
+        "height": 342,
+        "bytes": 279842,
+        "sha256": "7e0eb6b583a9163cc46dcdbf786bc5c485dd06364ac338f125d4d223d310e36f"
+      },
+      "filename": "images/geely-emgrand5-15l-cvt-luxury.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }

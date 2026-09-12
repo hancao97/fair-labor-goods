@@ -10,6 +10,10 @@ export function validateLaborEvidenceSources(assessment, sources) {
     return source;
   };
   const source = find(assessment.sourceId);
+  if (assessment.resultPublishedAt !== undefined) {
+    assert.equal(assessment.resultPublishedAt, source.publishedAt,
+      "The dated labor result must match its original source's publication date");
+  }
   if (assessment.kind === "government-labor-rating") {
     assert.equal(source.type, "政府评价");
     assert(source.publishedAt, "Government ratings need a publication date");

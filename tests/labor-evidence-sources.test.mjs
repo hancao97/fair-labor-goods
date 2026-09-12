@@ -20,6 +20,15 @@ test("government reviews and independently verifiable audit records pass provena
     assert.doesNotThrow(() => validateLaborEvidenceSources(assessment, sources));
   }
 });
+test("a dated outcome must use the verified result's actual publication date", () => {
+  const { assessment, sources } = fixture("government-labor-review");
+  assessment.resultPublishedAt = "2026-06-01";
+  assert.doesNotThrow(() => validateLaborEvidenceSources(assessment, sources));
+  assessment.resultPublishedAt = "2026-06-02";
+  assert.throws(() => validateLaborEvidenceSources(assessment, sources));
+  sources[0].publishedAt = null;
+  assert.throws(() => validateLaborEvidenceSources(assessment, sources));
+});
 test("an audit claim cannot use corporate disclosure or a missing issuer record as verification", () => {
   const { assessment, sources } = fixture();
   sources[1].type = "企业自述";
