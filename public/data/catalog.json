@@ -1073,10 +1073,10 @@
       "title": "2022 年全国和谐劳动关系创建示范企业正式名单",
       "publisher": "人力资源和社会保障部等四部门",
       "url": "https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/gggs/tg/202209/W020220919516320167307.docx",
-      "summary": "正式命名名单列有红豆集团、安踏（中国）、雅戈尔等具体主体，可作为企业调查起点。",
-      "limitation": "历史示范称号不是商品认证，也不能代替当前工厂排班或跨法人推断。",
+      "summary": "正式命名附件列有红豆集团、安踏（中国）、雅戈尔、清明上河园等具名主体；现已另补同批综合劳动标准及最终决定正文。",
+      "limitation": "具名2022年结果可结合该批完整劳动标准评估，不因未获A级或未公开逐人考勤而排除；它不是商品认证，不能跨法人套用，也不能覆盖后续已披露的劳动问题。",
       "publishedAt": "2022-09-16",
-      "checkedAt": "2026-09-11",
+      "checkedAt": "2026-09-13",
       "locator": "正式决定附件 1",
       "type": "政府评价"
     },
@@ -7703,6 +7703,42 @@
       "locator": "商品102754260，标题FYPD016-1／TSF TITANIUM POWER100Ti BL(U)及参数区",
       "summary": "本次原始HTML可以读取球拍题名和凯胜品牌；页面显示暂无报价，未给出可对应李宁福建法人的制造商字段。",
       "limitation": "尚不能支持该具体款的当前个人购买或制造对应，不新增正式商品。出现具名制造资料或新的可售选项时再查，不把参数页品牌字段当成厂家字段。"
+    },
+    {
+      "id": "national-harmony-2022-criteria",
+      "title": "2022年全国和谐劳动关系创建示范活动的同批标准",
+      "publisher": "中华全国工商业联合会（发布国家协调劳动关系三方通知）",
+      "type": "政府综合劳动评价标准",
+      "url": "https://www.acfic.org.cn/ztzlhz/xsdhxldgx/xsdhxldgx_5/202205/t20220531_312647.html",
+      "publishedAt": "2022-05-31",
+      "checkedAt": "2026-09-13",
+      "locator": "正文第四部分第（一）项第2至7、10条；第五部分评审程序",
+      "summary": "同批标准明确劳动合同与劳务派遣、依法支付工资、工时休假、社保缴费、劳动保护、集体协商和职工满意度；采用三方审核和公示程序。它是具名2022年结果的综合劳动依据，不能因没有A级便忽略。",
+      "limitation": "本次已直接读取原始HTML。标准不是获奖名单，也不是2026年复核结果；2019年以来的创建要求未披露各企业完整现场审查起止日。是否适用具体制造或服务法人、以及后续相反事实，另行核对。"
+    },
+    {
+      "id": "national-harmony-2022-final-notice",
+      "title": "2022年全国和谐劳动关系示范企业正式命名决定正文",
+      "publisher": "中国就业网（人力资源社会保障部等四部门决定）",
+      "type": "政府评价",
+      "url": "https://chinajob.mohrss.gov.cn/h5/c/2022-09-23/361035.shtml",
+      "publishedAt": "2022-09-23",
+      "checkedAt": "2026-09-13",
+      "locator": "决定正文及附件1链接；文件落款2022-09-16",
+      "summary": "决定明确经过创建、评估验收及全国公示，正式命名350家企业和50个工业园区；用于确认已有正式名单的性质。",
+      "limitation": "页面发布日期为2022-09-23，文件落款为2022-09-16，两者不混用；本次直接读取正文，具名企业沿用此前已读取的正式附件。没有将2026年查阅日期写成新一轮政府评价。"
+    },
+    {
+      "id": "qingming-hkex2026-labor-shortfall",
+      "title": "清明上河园2026年上市申请：社保与公积金缴费不足披露",
+      "publisher": "开封清明上河园股份有限公司（香港交易所披露易）",
+      "type": "企业法定披露",
+      "url": "https://www1.hkexnews.hk/app/sehk/2026/108641/documents/sehk26061500393.pdf",
+      "publishedAt": "2026-06-15",
+      "checkedAt": "2026-09-13",
+      "locator": "PDF第43—44页，印刷第33—34页：风险因素；第170—171页：人员安排",
+      "summary": "申请版本披露，截至2025年底，未为部分员工缴纳社保和公积金，也未按实际薪金足额缴纳；2023、2024、2025年两项缴费缺口合计分别约80万、180万、370万元。文件另披露当时未因相关事项受到行政处罚或强制执行。",
+      "limitation": "已取得港交所原始PDF并目视核对第43—44页。数字为报告集团口径、社保与公积金合计，未逐一分配到法人或员工；630万元不能写成纯社保金额。申请版本可修改，未把潜在处罚测算当成已发生罚款，也未取得后续全部补缴完成的资料。这是企业自报的具体问题，不是独立审计认证或行政违法裁定。"
     }
   ],
   "companies": [
@@ -8837,7 +8873,9 @@
         "national-harmony-2022",
         "hodo-annual-2025-online",
         "hodo-esg-2025-labor",
-        "changning-hosiery-2025-sampling"
+        "changning-hosiery-2025-sampling",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -9674,7 +9712,9 @@
       ],
       "sourceIds": [
         "national-harmony-2022",
-        "anta-esg-2025-labor"
+        "anta-esg-2025-labor",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -9709,7 +9749,7 @@
           "result": "全国和谐劳动关系创建示范企业",
           "period": "2022 年命名",
           "sourceId": "national-harmony-2022",
-          "limitation": "保留具名法人和2022年命名范围；该批评选依据、后续评价及对所选制造或服务主体的适用性仍需核对，不要求额外公开逐人考勤。"
+          "limitation": "保留具名法人和2022年命名范围；同批综合劳动标准已补齐，所选制造或服务主体的对应及后续记录仍分别核对，不额外要求公开逐人考勤。"
         }
       ]
     },
@@ -9735,7 +9775,9 @@
       ],
       "sourceIds": [
         "national-harmony-2022",
-        "youngor-esg-2025-labor"
+        "youngor-esg-2025-labor",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -9768,7 +9810,7 @@
           "result": "全国和谐劳动关系创建示范企业",
           "period": "2022 年命名",
           "sourceId": "national-harmony-2022",
-          "limitation": "保留具名法人和2022年命名范围；该批评选依据、后续评价及对所选制造或服务主体的适用性仍需核对，不要求额外公开逐人考勤。"
+          "limitation": "保留具名法人和2022年命名范围；同批综合劳动标准已补齐，所选制造或服务主体的对应及后续记录仍分别核对，不额外要求公开逐人考勤。"
         }
       ]
     },
@@ -9786,14 +9828,16 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "有政府记录 · 当前产线待核",
       "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已找到具名法人的2022年劳动关系示范记录；仍需核对该批评选依据、后续评价及所选商品的实际制造或服务主体。",
+      "finding": "已找到具名法人的2022年劳动关系示范记录；同批综合劳动标准已补齐；仍需核对后续记录及所选商品的实际制造或服务主体。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
         "具体缺口按商品的销售、制造或服务主体、劳动依据分别列明；资料不足不表示企业违法。"
       ],
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -9824,7 +9868,7 @@
           "result": "全国和谐劳动关系创建示范企业",
           "period": "2022 年命名",
           "sourceId": "national-harmony-2022",
-          "limitation": "保留具名法人和2022年命名范围；该批评选依据、后续评价及对所选制造或服务主体的适用性仍需核对，不要求额外公开逐人考勤。"
+          "limitation": "保留具名法人和2022年命名范围；同批综合劳动标准已补齐，所选制造或服务主体的对应及后续记录仍分别核对，不额外要求公开逐人考勤。"
         }
       ]
     },
@@ -9850,7 +9894,9 @@
       ],
       "sourceIds": [
         "national-harmony-2022",
-        "weigang-yogurt1500"
+        "weigang-yogurt1500",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -9881,7 +9927,7 @@
           "result": "全国和谐劳动关系创建示范企业",
           "period": "2022 年命名",
           "sourceId": "national-harmony-2022",
-          "limitation": "保留具名法人和2022年命名范围；该批评选依据、后续评价及对所选制造或服务主体的适用性仍需核对，不要求额外公开逐人考勤。"
+          "limitation": "保留具名法人和2022年命名范围；同批综合劳动标准已补齐，所选制造或服务主体的对应及后续记录仍分别核对，不额外要求公开逐人考勤。"
         }
       ]
     },
@@ -9899,14 +9945,16 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "有政府记录 · 当前产线待核",
       "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已找到具名法人的2022年劳动关系示范记录；仍需核对该批评选依据、后续评价及所选商品的实际制造或服务主体。",
+      "finding": "已找到具名法人的2022年劳动关系示范记录；同批综合劳动标准已补齐；仍需核对后续记录及所选商品的实际制造或服务主体。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
         "具体缺口按商品的销售、制造或服务主体、劳动依据分别列明；资料不足不表示企业违法。"
       ],
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -9937,7 +9985,7 @@
           "result": "全国和谐劳动关系创建示范企业",
           "period": "2022 年命名",
           "sourceId": "national-harmony-2022",
-          "limitation": "保留具名法人和2022年命名范围；该批评选依据、后续评价及对所选制造或服务主体的适用性仍需核对，不要求额外公开逐人考勤。"
+          "limitation": "保留具名法人和2022年命名范围；同批综合劳动标准已补齐，所选制造或服务主体的对应及后续记录仍分别核对，不额外要求公开逐人考勤。"
         }
       ]
     },
@@ -9966,7 +10014,9 @@
         "geely-galaxy-m7-voyager-official",
         "qinchuan-baoji-m7-production-lead",
         "geely-emgrand5-official",
-        "emgrand5-changxing-production-lead"
+        "emgrand5-changxing-production-lead",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -10008,52 +10058,87 @@
       "location": "河南开封",
       "origin": "china",
       "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
-      "level": "research",
+      "level": "disclosure",
       "hours": null,
       "restDays": null,
       "hoursLabel": "具体工时制度待补",
       "restLabel": "具体休息安排待补",
-      "cardNote": "有政府记录 · 当前产线待核",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已找到具名法人的2022年劳动关系示范记录；仍需核对该批评选依据、后续评价及所选商品的实际制造或服务主体。",
+      "cardNote": "披露2023—2025年社保等缴费缺口",
+      "scope": "开封清明上河园股份有限公司及其招股书报告集团的2023—2025年人员缴费披露；原2022年示范记录另保留。",
+      "finding": "2026年申请版本披露社保与公积金未缴、未足额缴纳问题，三年合计缺口约630万元；尚未取得后续补缴完成依据。不能以2022年示范称号或当时未受行政处罚消除该问题。",
       "caveats": [
-        "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "具体缺口按商品的销售、制造或服务主体、劳动依据分别列明；资料不足不表示企业违法。"
+        "80万、180万、370万元分别为2023、2024、2025年社保与公积金合计缺口，属于集团披露口径，不是单独社保金额或每位员工的情况。",
+        "原文同时说明当时未受相关行政处罚或强制执行；潜在最高处罚测算不表示已经被罚，亦未据此推断处罚会发生。",
+        "申请版本可修改；该披露截至2025年底，不冒称已调查当前每名员工。后续补缴完成、适用新评价及演出外包人员的雇主关系仍需分别核对。"
       ],
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice",
+        "qingming-hkex2026-labor-shortfall"
       ],
       "supply": [
         {
-          "stage": "品牌与运营",
-          "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "stage": "景区运营",
+          "status": "policy",
+          "detail": "上市申请说明园区运营、门票和旗舰演出业务；所选服务在河南开封提供。",
+          "sourceIds": [
+            "qingming-hkex2026-labor-shortfall",
+            "qingming-official"
+          ]
         },
         {
-          "stage": "生产或门店服务",
-          "status": "unknown",
-          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
-          "sourceIds": []
+          "stage": "员工劳动问题",
+          "status": "policy",
+          "detail": "原文明确部分员工社保及公积金缴费不足；尚未取得后续补缴完成的对应资料，旧示范称号不能覆盖该问题。",
+          "sourceIds": [
+            "qingming-hkex2026-labor-shortfall"
+          ]
         },
         {
-          "stage": "原料、外包与物流",
+          "stage": "演出外包与派遣",
           "status": "unknown",
-          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
-          "sourceIds": []
+          "detail": "申请文件另说明第三方演艺、保安外包和派遣安排；不把集团缴费合计套用于未具名外包企业或全部工作人员。",
+          "sourceIds": [
+            "qingming-hkex2026-labor-shortfall"
+          ]
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
+      "nextCheck": "跟进具名补缴完成资料、更新申请文件或适用的新劳动评价；没有新资料时不重复旧示范称号和未受处罚表述。演出人员外包范围另核。",
       "assessments": [
         {
           "subject": "开封清明上河园股份有限公司",
           "result": "全国和谐劳动关系创建示范企业",
           "period": "2022 年命名",
           "sourceId": "national-harmony-2022",
-          "limitation": "保留具名法人和2022年命名范围；该批评选依据、后续评价及对所选制造或服务主体的适用性仍需核对，不要求额外公开逐人考勤。"
+          "limitation": "2022年正式命名及同批标准保留为历史综合依据；2026年申请文件披露后续社保与公积金缴费不足，未以旧称号支持当前收录，未声称政府已撤销称号。"
+        },
+        {
+          "kind": "employer-labor-disclosure",
+          "subject": "开封清明上河园股份有限公司",
+          "result": "企业披露部分员工社保及住房公积金未缴或未足额缴纳",
+          "period": "2023—2025年度披露；未取得后续补缴完成资料",
+          "sourceId": "qingming-hkex2026-labor-shortfall",
+          "limitation": "报告集团口径，未将合计金额分配到单个法人、员工或票种；不冒充独立认证、行政裁定或2026年全员调查。",
+          "periodStart": "2023-01-01",
+          "periodEnd": "2025-12-31",
+          "resultPublishedAt": "2026-06-15",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "adverse",
+          "issuer": "开封清明上河园股份有限公司",
+          "scopeType": "employer",
+          "scope": "上市申请披露的本公司及中国主要附属公司人员社保、公积金缴费问题；报告合计未分配到各法人。",
+          "verificationSourceId": "qingming-hkex2026-labor-shortfall",
+          "basisSourceIds": [
+            "qingming-hkex2026-labor-shortfall"
+          ],
+          "coverage": [
+            "insurance"
+          ]
         }
       ]
     },
@@ -10071,14 +10156,16 @@
       "restLabel": "具体休息安排待补",
       "cardNote": "有政府记录 · 当前产线待核",
       "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已找到具名法人的2022年劳动关系示范记录；仍需核对该批评选依据、后续评价及所选商品的实际制造或服务主体。",
+      "finding": "已找到具名法人的2022年劳动关系示范记录；同批综合劳动标准已补齐；仍需核对后续记录及所选商品的实际制造或服务主体。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
         "具体缺口按商品的销售、制造或服务主体、劳动依据分别列明；资料不足不表示企业违法。"
       ],
       "sourceIds": [
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -10109,7 +10196,7 @@
           "result": "全国和谐劳动关系创建示范企业",
           "period": "2022 年命名",
           "sourceId": "national-harmony-2022",
-          "limitation": "保留具名法人和2022年命名范围；该批评选依据、后续评价及对所选制造或服务主体的适用性仍需核对，不要求额外公开逐人考勤。"
+          "limitation": "保留具名法人和2022年命名范围；同批综合劳动标准已补齐，所选制造或服务主体的对应及后续记录仍分别核对，不额外要求公开逐人考勤。"
         }
       ]
     },
@@ -10135,7 +10222,9 @@
       ],
       "sourceIds": [
         "national-harmony-2022",
-        "jingmen-mingting-project"
+        "jingmen-mingting-project",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -10166,7 +10255,7 @@
           "result": "全国和谐劳动关系创建示范企业",
           "period": "2022 年命名",
           "sourceId": "national-harmony-2022",
-          "limitation": "保留具名法人和2022年命名范围；该批评选依据、后续评价及对所选制造或服务主体的适用性仍需核对，不要求额外公开逐人考勤。"
+          "limitation": "保留具名法人和2022年命名范围；同批综合劳动标准已补齐，所选制造或服务主体的对应及后续记录仍分别核对，不额外要求公开逐人考勤。"
         }
       ]
     },
@@ -10496,7 +10585,9 @@
         "purcotton-brand",
         "winner-tianmen-hiring-2024",
         "national-harmony-2022",
-        "hangzhou-hygiene-sampling-2025"
+        "hangzhou-hygiene-sampling-2025",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -10557,7 +10648,9 @@
       "sourceIds": [
         "national-harmony-2022",
         "nxnk-lianhu-production-2026",
-        "nxnk-lianhu-market"
+        "nxnk-lianhu-market",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -10614,7 +10707,9 @@
       ],
       "sourceIds": [
         "national-harmony-2022",
-        "shanghao-company"
+        "shanghao-company",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -10722,7 +10817,9 @@
       "sourceIds": [
         "suntissue-company",
         "sunpaper-esg-2025",
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -10780,7 +10877,9 @@
       "sourceIds": [
         "national-harmony-2022",
         "yanjing-xiandu-sampling2026",
-        "yanjing-xiaopao-sampling2026"
+        "yanjing-xiaopao-sampling2026",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -12050,7 +12149,9 @@
         "arrow-lehua-hiring-2022",
         "national-harmony-2022",
         "building-green-directory-2024nov",
-        "arrow-ae3498cp-water-label"
+        "arrow-ae3498cp-water-label",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -12121,7 +12222,9 @@
       "sourceIds": [
         "marcopolo-annual-2025",
         "marcopolo-walun-official",
-        "national-harmony-2022"
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ],
       "supply": [
         {
@@ -20814,9 +20917,11 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；历史称号及集团资料不能自动适用于未确认的生产企业。",
+          "detail": "运营企业2026年上市申请披露截至2025年底部分员工社保、公积金未缴或未足额缴纳；未取得补缴完成资料，暂不作合规推荐。金额为报告集团合计，不分配到本票种。",
           "sourceIds": [
-            "national-harmony-2022"
+            "qingming-hkex2026-labor-shortfall",
+            "national-harmony-2022",
+            "national-harmony-2022-criteria"
           ]
         }
       }
@@ -20862,9 +20967,11 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；历史称号及集团资料不能自动适用于未确认的生产企业。",
+          "detail": "运营企业2026年上市申请披露截至2025年底部分员工社保、公积金未缴或未足额缴纳；未取得补缴完成资料，暂不作合规推荐。金额为报告集团合计，不分配到本票种。",
           "sourceIds": [
-            "national-harmony-2022"
+            "qingming-hkex2026-labor-shortfall",
+            "national-harmony-2022",
+            "national-harmony-2022-criteria"
           ]
         }
       }

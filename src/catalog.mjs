@@ -44,6 +44,7 @@ export function laborEvidenceLabel(assessment) {
   if (assessment.kind === "government-labor-rating") return `政府劳动守法 ${assessment.grade} 级`;
   if (assessment.kind === "government-labor-review") return "政府综合劳动评价";
   if (assessment.kind === "independent-labor-audit") return "独立劳动审核";
+  if (assessment.kind === "employer-labor-disclosure") return "企业披露的劳动问题";
   return "劳动资料";
 }
 
@@ -56,7 +57,7 @@ export function hasValidLaborAssessmentDates(assessment) {
   if (hasPeriod) {
     if (![assessment.periodStart, assessment.periodEnd].every(dated) ||
         assessment.periodStart > assessment.periodEnd) return false;
-  } else if (!["government-labor-review", "independent-labor-audit"].includes(assessment.kind) ||
+  } else if (!["government-labor-review", "independent-labor-audit", "employer-labor-disclosure"].includes(assessment.kind) ||
       !dated(assessment.resultPublishedAt)) return false;
   if (assessment.resultPublishedAt !== undefined &&
       (!dated(assessment.resultPublishedAt) ||
@@ -76,7 +77,9 @@ export function getLaborAssessment(product, company, onDate = today()) {
       production?.status !== "supported" || !production.subject?.trim() ||
       labor?.status !== "supported" || !labor.sourceIds?.includes(labor.assessmentSourceId)) return undefined;
   const assessments = (company.assessments || []).filter((a) =>
-    assessmentKinds.includes(a.kind) && a.subject === production.subject &&
+    (assessmentKinds.includes(a.kind) ||
+      (a.kind === "employer-labor-disclosure" && a.conclusion === "adverse")) &&
+    a.subject === production.subject &&
     (a.scopeType !== "facility" || (nonempty(a.facility) && a.facility === production.facility)),
   );
   return assessments.find((a) =>
@@ -90,7 +93,8 @@ export function getLaborAssessment(product, company, onDate = today()) {
         Object.keys(laborTopics).every((topic) => newer.coverage?.includes(topic))) &&
       assessmentReferenceDate(newer) <= newer.reviewedAt &&
       (assessmentReferenceDate(newer) > assessmentReferenceDate(a) ||
-      (assessmentReferenceDate(newer) === assessmentReferenceDate(a) && newer.sourceId !== a.sourceId && newer.reviewedAt >= a.reviewedAt))),
+      (assessmentReferenceDate(newer) === assessmentReferenceDate(a) && newer.sourceId !== a.sourceId &&
+        (newer.kind === "employer-labor-disclosure" || newer.reviewedAt >= a.reviewedAt)))),
   );
 }
 export function isAdmitted(product, company, onDate = today()) {

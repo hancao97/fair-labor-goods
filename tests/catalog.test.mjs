@@ -145,6 +145,35 @@ test("a newer adverse labor audit prevents reuse of an older government A rating
   company.assessments.push(assessment);
   assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
 });
+test("an employer's disclosed contribution shortfall blocks older favorable evidence for the same employer", () => {
+  const { product, company } = assessedProduct();
+  const issue = {
+    ...company.assessments[0], kind: "employer-labor-disclosure", grade: undefined,
+    sourceId: "prospectus", conclusion: "adverse", scopeType: "employer",
+    coverage: ["insurance"], resultPublishedAt: "2026-06-15",
+  };
+  for (const unrelated of [
+    { subject: "另一家企业有限公司" },
+    { scopeType: "facility", facility: "未对应的二号厂区" },
+    { reviewedAt: "2026-10-01" },
+  ]) {
+    company.assessments = [company.assessments[0], { ...issue, ...unrelated }];
+    assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+  }
+  company.assessments = [company.assessments[0], issue];
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  company.assessments[0].reviewedAt = "2026-09-13";
+  assert.equal(isAdmitted(product, company, "2026-09-13"), false, "Rereading the old favorable record does not resolve a disclosed shortfall");
+  assert.equal(laborEvidenceLabel(issue), "企业披露的劳动问题");
+});
+test("even a fully populated employer disclosure cannot establish compliance or replace independent evidence", () => {
+  const { product, company, assessment } = reviewedProduct();
+  assessment.kind = "employer-labor-disclosure";
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  const original = reviewedProduct();
+  original.company.assessments.push({ ...assessment, sourceId: "self-claim", periodEnd: "2026-08-31" });
+  assert.equal(isAdmitted(original.product, original.company, REVIEW_DATE), true);
+});
 test("a narrower check does not replace a comprehensive review unless it finds an adverse labor issue", () => {
   const { product, company } = assessedProduct();
   const { assessment } = reviewedProduct();

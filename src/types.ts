@@ -6,7 +6,7 @@ export interface LaborAssessment {
   period: string;
   sourceId: string;
   limitation: string;
-  kind?: "government-labor-rating" | "government-labor-review" | "independent-labor-audit";
+  kind?: "government-labor-rating" | "government-labor-review" | "independent-labor-audit" | "employer-labor-disclosure";
   grade?: "A" | "B" | "C";
   periodStart?: string;
   periodEnd?: string;

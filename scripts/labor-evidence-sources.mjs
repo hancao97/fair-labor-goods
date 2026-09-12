@@ -20,6 +20,14 @@ export function validateLaborEvidenceSources(assessment, sources) {
     assert(new URL(source.url).hostname.endsWith(".gov.cn"));
     return;
   }
+  if (assessment.kind === "employer-labor-disclosure") {
+    assert.equal(assessment.conclusion, "adverse", "Employer disclosures cannot certify labor compliance");
+    assert.equal(source.type, "企业法定披露");
+    assert(source.publishedAt, "An employer's reported issue needs a dated original disclosure");
+    assert.equal(assessment.verificationSourceId, assessment.sourceId, "Use the employer's original disclosure, not an audit label");
+    assessment.basisSourceIds.forEach(find);
+    return;
+  }
   const government = assessment.kind === "government-labor-review";
   const types = government ? ["政府评价", "政府劳动检查"] : ["独立劳动审计", "社会责任认证记录"];
   const verification = find(assessment.verificationSourceId);

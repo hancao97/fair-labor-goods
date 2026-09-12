@@ -39,6 +39,22 @@ test("an audit claim cannot use corporate disclosure or a missing issuer record 
   sources[0].type = "独立劳动审计";
   assert.throws(() => validateLaborEvidenceSources(assessment, sources.filter(s => s.id !== "issuer-record")));
 });
+test("a disclosed adverse issue uses the dated original employer filing without masquerading as an audit", () => {
+  const { assessment, sources } = fixture();
+  Object.assign(assessment, {
+    kind: "employer-labor-disclosure", conclusion: "adverse", verificationSourceId: "report",
+  });
+  sources[0].type = "企业法定披露";
+  assert.doesNotThrow(() => validateLaborEvidenceSources(assessment, sources));
+  for (const change of [
+    { conclusion: "supported" }, { conclusion: "unresolved" }, { verificationSourceId: "issuer-record" },
+  ]) assert.throws(() => validateLaborEvidenceSources({ ...assessment, ...change }, sources));
+  sources[0].type = "新闻报道";
+  assert.throws(() => validateLaborEvidenceSources(assessment, sources));
+  sources[0].type = "企业法定披露";
+  sources[0].publishedAt = null;
+  assert.throws(() => validateLaborEvidenceSources(assessment, sources));
+});
 test("government provenance and the recorded review date are checked for alternative reviews", () => {
   const { assessment, sources } = fixture("government-labor-review");
   sources[1].url = "https://example.gov.cn.unrelated.example/result";

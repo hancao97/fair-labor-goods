@@ -76,11 +76,12 @@ for (const c of data.companies) {
     ["subject", "result", "period", "limitation"].forEach((key) => text(assessment[key], `${c.id}.assessment.${key}`));
     refs([assessment.sourceId]);
     if (assessment.kind) {
-      assert(["government-labor-rating", "government-labor-review", "independent-labor-audit"].includes(assessment.kind));
+      assert(["government-labor-rating", "government-labor-review", "independent-labor-audit", "employer-labor-disclosure"].includes(assessment.kind));
       if (assessment.kind === "government-labor-rating") {
         assert(["A", "B", "C"].includes(assessment.grade));
       } else {
         assert(["supported", "unresolved", "adverse"].includes(assessment.conclusion));
+        if (assessment.kind === "employer-labor-disclosure") assert.equal(assessment.conclusion, "adverse");
         for (const key of ["issuer", "scope", "verificationSourceId"]) text(assessment[key], `${c.id}.assessment.${key}`);
         assert(["employer", "facility"].includes(assessment.scopeType));
         if (assessment.scopeType === "facility") text(assessment.facility, `${c.id}.assessment.facility`);
