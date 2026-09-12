@@ -4338,6 +4338,66 @@
       "locator": "商品号 10229060348546 的品牌、海盐风味和 55g20枚选项",
       "publishedAt": null,
       "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "nanan-labor-2025",
+      "title": "南安市 2025 年度企业劳动保障守法诚信等级评价结果",
+      "publisher": "南安市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.nanan.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/rlzyhshbzj/zfxxgkml/202605/t20260522_3293766.htm",
+      "summary": "南人社〔2026〕24 号公布最终评价结果。名单第 1 行为九牧厨卫股份有限公司，统一社会信用代码 913505005673244367，2025 年度劳动保障守法诚信 A 级；注册地址/实际经营地列福建省南安经济开发区九牧工业园。",
+      "limitation": "评价仅覆盖具名法人和 2025 年度，不扩大到同品牌其他制造商、经销商或未来所有用工行为；名单也有 C 级企业，不能把整张名单视为 A 级。",
+      "locator": "正文、附件表第 1 行；2026-05-21 成文，2026-05-22 发布",
+      "publishedAt": "2026-05-22",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "tianjin-water-label-2025-media",
+      "title": "天津 2025 年水效标识检查表转载：九牧 S260033-2B01-1",
+      "publisher": "中国质量新闻网／天津市市场监督管理委员会",
+      "type": "公开转载",
+      "url": "https://www.cqn.com.cn/ms/content/2025-11/26/content_9133169.htm",
+      "summary": "表第 2 行将 JOMOO 三功能手提花洒 S260033-2B01-1 对应标称生产企业九牧厨卫股份有限公司（福建省），被抽样单位为天津红星美凯龙世贸家居有限公司。",
+      "limitation": "已读取中国质量新闻网公开正文及表行；直接 HTTP 请求受限，未取得天津政府原表。水效检查只用于对应产品和生产商，不是劳动评价；保留 2025 年样品范围。",
+      "locator": "2025 年水效标识计量专项监督检查情况表第 2 行",
+      "publishedAt": "2025-11-26",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "jomoo-p33146-cqc-2025",
+      "title": "CQC 获证产品目录：九牧 P33146-105/1C-Z 单把厨房龙头",
+      "publisher": "中国质量认证中心",
+      "type": "产品认证目录",
+      "url": "https://www.cqc.com.cn/www/upload/files/upload/resources/file/2025/04/01/62805.pdf",
+      "summary": "PDF 第 119 页首项明确品牌 JOMOO、制造商九牧厨卫股份有限公司、规格 P33146-105/1C-Z（单把厨房龙头）及证书 CQC25704465079；证书所列生效日 2025-03-27，有效期至 2028-03-26。",
+      "limitation": "已取得 123 页原 PDF 并目视第 119 页；该目录用于对应制造商和完整型号，不作为劳动认证或当前证书状态查询。目录未逐项列工厂地址；境内主体地址由南安政府名单交叉对应，未把证书日期当成网页发布日期。",
+      "locator": "PDF 第 119 页首项，证书 CQC25704465079",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "jomoo-s260033-2b01-1-jd",
+      "title": "京东九牧 S260033-2B01-1 三功能手持花洒准确商品卡",
+      "publisher": "京东零售平台",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/brand/9855cbe9e95d8927f49c.html",
+      "summary": "商品号 100110590874 的标题明确九牧三功能手持花洒 S260033-2B01-1，链接指向该商品；卡片原图为银色手持花洒。",
+      "limitation": "只采用完整型号 2B01-1，不混用枪灰 7V01-1、二手选项或仅写 S260033 的其他变体。实际库存、配件和配送范围以所选商品页面为准；图片增压等宣传未作独立性能结论。",
+      "locator": "商品号 100110590874 的标题、链接及原始图片",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "jomoo-p33146-ehsy",
+      "title": "西域商城九牧 P33146-105/1C-Z 单把厨房龙头，一件起购",
+      "publisher": "西域智慧供应链（上海）股份公司",
+      "type": "零售商品资料",
+      "url": "https://www.ehsy.com/product-VWT566",
+      "summary": "订货号 VWT566 对应九牧 P33146-105/1C-Z、售卖规格 1 个、最小订货量 1 个，公开页有价格、加入购物车和立即购买入口；默认北京地区显示预计 30 个工作日出货。",
+      "limitation": "这是面向采购的国内商城渠道。页面注明不支持 7 天无理由退货、库存和实际发货时间可能变化；不承诺现货或全国时效。商品图片为选型参考，不作为产地或劳动证明，亦未独立核验商家所称授权关系。",
+      "locator": "商品标题、订货号、品牌型号、最小订货量、购买入口和出货说明",
+      "publishedAt": null,
+      "checkedAt": "2026-09-12"
     }
   ],
   "companies": [
@@ -9399,6 +9459,79 @@
           "periodEnd": "2025-12-31",
           "reviewedAt": "2026-09-12",
           "reviewDueAt": "2027-06-03"
+        }
+      ]
+    },
+    {
+      "id": "jomoo",
+      "name": "九牧",
+      "legalName": "九牧厨卫股份有限公司",
+      "location": "福建泉州南安",
+      "origin": "china",
+      "originNote": "JOMOO 九牧品牌与福建南安制造法人由具名产品目录及政府记录对应；品牌来源与具体商品生产地分别核对。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
+      "cardNote": "2025 年劳动守法 A 级",
+      "scope": "九牧厨卫股份有限公司；南安名单列九牧工业园，评价覆盖 2025 年度。",
+      "finding": "该法人获南安市 2025 年劳动守法 A 级评价；S260033-2B01-1 花洒和 P33146-105/1C-Z 厨房龙头分别有具名生产或制造记录及国内准确型号销售入口。",
+      "caveats": [
+        "政府评价对应 2025 年度及同一法人，不是未来持续合规保证。",
+        "收录限于已对应制造商的具体型号，不扩展到九牧集团所有品牌、工厂、经销商或安装人员。",
+        "制造商变更时需重新对应劳动依据；原料、包装与运输信息作为补充继续调查。"
+      ],
+      "sourceIds": [
+        "nanan-labor-2025",
+        "law-labor-rating",
+        "tianjin-water-label-2025-media",
+        "jomoo-p33146-cqc-2025"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与运营",
+          "status": "policy",
+          "detail": "JOMOO 品牌、完整产品型号和九牧厨卫股份有限公司由产品目录对应。",
+          "sourceIds": [
+            "jomoo-p33146-cqc-2025",
+            "tianjin-water-label-2025-media"
+          ]
+        },
+        {
+          "stage": "生产或门店服务",
+          "status": "policy",
+          "detail": "两款产品的制造法人对应同一南安劳动守法 A 级评价主体，保留评价年度和产品记录范围。",
+          "sourceIds": [
+            "nanan-labor-2025",
+            "jomoo-p33146-cqc-2025",
+            "tianjin-water-label-2025-media"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "原材料、配件、运输及安装服务的实际雇佣主体未逐一核对。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "关注新的劳动评价、相反证据及型号制造商变化；在本站复核期限前更新资料。",
+      "assessments": [
+        {
+          "subject": "九牧厨卫股份有限公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025 年度",
+          "sourceId": "nanan-labor-2025",
+          "limitation": "评价覆盖具名法人及 2025 年度，商品须对应同一制造主体。本站复核期限不是政府规定的评级有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2025-01-01",
+          "periodEnd": "2025-12-31",
+          "reviewedAt": "2026-09-12",
+          "reviewDueAt": "2027-05-22"
         }
       ]
     }
@@ -16145,6 +16278,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "jomoo-s260033-2b01-1-hand-shower",
+      "name": "三功能手持花洒 S260033-2B01-1",
+      "brand": "九牧（JOMOO）",
+      "companyId": "jomoo",
+      "category": "housing",
+      "description": "用于淋浴的三功能手持喷头；所选为 2B01-1 型号，配件以商品页面说明为准。",
+      "tags": [
+        "手持花洒",
+        "淋浴",
+        "三功能",
+        "S260033-2B01-1"
+      ],
+      "needs": [
+        "花洒"
+      ],
+      "url": "https://item.jd.com/100110590874.html",
+      "market": "京东准确商品卡对应 S260033-2B01-1，商品号 100110590874；库存、配件和配送范围以所选商品页面为准。",
+      "relationship": "天津 2025 年水效标识检查表转载第 2 行将同一完整型号对应九牧厨卫股份有限公司（福建省）；京东准确商品卡提供该型号的国内购买入口。",
+      "relationshipSourceIds": [
+        "tianjin-water-label-2025-media"
+      ],
+      "image": "images/jomoo-s260033-2b01-1-hand-shower.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/337878/10/16031/82949/68db8bccF82023e89/b70ef8a819a546e7.jpg",
+      "imageRights": "九牧品牌及京东相关零售图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东准确商品卡对应 S260033-2B01-1，商品号 100110590874；库存、配件和配送范围以所选商品页面为准。",
+          "sourceIds": [
+            "jomoo-s260033-2b01-1-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "九牧厨卫股份有限公司",
+          "detail": "2025 年公开生产记录将 S260033-2B01-1 对应九牧厨卫股份有限公司（福建省），南安政府名单提供该法人的境内地址。保留记录年度；当前商品如更换制造商需重新核对。",
+          "sourceIds": [
+            "tianjin-water-label-2025-media",
+            "nanan-labor-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "nanan-labor-2025",
+          "detail": "对应制造法人九牧厨卫股份有限公司获南安市 2025 年度劳动保障守法诚信 A 级评价（2026-05-22 公布），作为本款收录依据；仅覆盖该法人及评价年度。",
+          "sourceIds": [
+            "nanan-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "jomoo-p33146-105-1c-z-kitchen-faucet",
+      "name": "单把厨房龙头 P33146-105/1C-Z",
+      "brand": "九牧（JOMOO）",
+      "companyId": "jomoo",
+      "category": "housing",
+      "description": "厨房水槽使用的单把龙头；国内采购商城一件起订，交货期较长。",
+      "tags": [
+        "厨房龙头",
+        "水槽",
+        "单把",
+        "P33146-105/1C-Z"
+      ],
+      "needs": [
+        "水龙头"
+      ],
+      "url": "https://www.ehsy.com/product-VWT566",
+      "market": "西域商城订货号 VWT566，完整型号 P33146-105/1C-Z，一件起购；查阅时默认北京地区预计 30 个工作日出货，页面注明不支持 7 天无理由退货。实际发货和地区条件以商家为准。",
+      "relationship": "中国质量认证中心原目录第 119 页将完整型号对应制造商九牧厨卫股份有限公司；西域商品页明确同型号、订货号 VWT566 和一件起购。",
+      "relationshipSourceIds": [
+        "jomoo-p33146-cqc-2025"
+      ],
+      "image": "images/jomoo-p33146-105-1c-z-kitchen-faucet.webp",
+      "imageMode": "contain",
+      "imageSource": "https://image-c.ehsy.com/uploadfile/opc/img/2025/08/14/20250814143931746_M.jpg",
+      "imageRights": "九牧品牌、西域智慧供应链（上海）股份公司及相关图片权利人",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "西域商城订货号 VWT566，完整型号 P33146-105/1C-Z，一件起购；查阅时默认北京地区预计 30 个工作日出货，页面注明不支持 7 天无理由退货。实际发货和地区条件以商家为准。",
+          "sourceIds": [
+            "jomoo-p33146-ehsy"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "九牧厨卫股份有限公司",
+          "detail": "CQC 目录明确本款制造商为九牧厨卫股份有限公司，南安政府名单将该法人对应福建省南安经济开发区九牧工业园。目录未单列工厂地址，不把注册地址进一步写成已核实的具体生产线。",
+          "sourceIds": [
+            "jomoo-p33146-cqc-2025",
+            "nanan-labor-2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "nanan-labor-2025",
+          "detail": "对应制造法人九牧厨卫股份有限公司获南安市 2025 年度劳动保障守法诚信 A 级评价（2026-05-22 公布），作为本款收录依据；仅覆盖该法人及评价年度。",
+          "sourceIds": [
+            "nanan-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -17010,7 +17251,7 @@
           "query": "水龙头"
         }
       ],
-      "note": "新增 CZ8742AS 瓷砖、GT0217 地板、G101 20kg 内墙漆、AB1116-1 坐便器、AE3498CP 花洒和 AE4141M 龙头；卫浴拆成三项。历史制造记录与劳动评价分别保留，当前批次、供货和实际生产劳动仍待核。瓷砖预约定金不算实物可售，地板相近货号未合并。长租、保障性住房、装修服务和门窗继续调查。",
+      "note": "花洒 S260033-2B01-1 和厨房龙头 P33146-105/1C-Z 已对应国内销售、境内制造法人及其 2025 年劳动守法 A 级评价，进入正式目录；龙头为一件起订的长交期渠道。既有瓷砖、地板、涂料、坐便器和其他卫浴资料继续核查。长租、保障性住房、装修服务和门窗仍是研究缺口。",
       "sourceIds": [
         "national-harmony-2022",
         "jingmen-mingting-project",
@@ -17035,7 +17276,12 @@
         "arrow-ae3498cp-configuration",
         "arrow-ae3498cp-water-label",
         "arrow-ae4141m-silver-parameters",
-        "arrow-ae4131ma-black-exclusion"
+        "arrow-ae4131ma-black-exclusion",
+        "nanan-labor-2025",
+        "tianjin-water-label-2025-media",
+        "jomoo-p33146-cqc-2025",
+        "jomoo-s260033-2b01-1-jd",
+        "jomoo-p33146-ehsy"
       ]
     },
     {

@@ -6556,6 +6556,56 @@
       },
       "filename": "images/miyoko-soft-boiled-eggs-seasalt-55gx20.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "jomoo-s260033-2b01-1-hand-shower",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/337878/10/16031/82949/68db8bccF82023e89/b70ef8a819a546e7.jpg",
+      "source_page": "https://www.jd.com/brand/9855cbe9e95d8927f49c.html",
+      "product_url": "https://item.jd.com/100110590874.html",
+      "bytes": 6822,
+      "sha256": "c24f88b1138009683c024cba9b3992f21e155a2da15b163c2417ac50ad34d3d4",
+      "reuse_info": {
+        "rights_holder": "九牧品牌及京东相关零售图片权利人",
+        "license": "未获得开放许可；按来源署名用于商品识别，权利归原权利人。"
+      },
+      "checked_at": "2026-09-12",
+      "visually_verified": true,
+      "width": 220,
+      "height": 220,
+      "visual_notes": "准确型号卡片所用银色三档手持花洒宣传图，保留原图文字，不以宣传语证明性能。",
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 14521,
+        "sha256": "5045f17299d77c0f17cc3a5cf2fdc65299a2a4478032cc0c253fcdef750d211d"
+      },
+      "filename": "images/jomoo-s260033-2b01-1-hand-shower.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "jomoo-p33146-105-1c-z-kitchen-faucet",
+      "image_url": "https://image-c.ehsy.com/uploadfile/opc/img/2025/08/14/20250814143931746_M.jpg",
+      "source_page": "https://www.ehsy.com/product-VWT566",
+      "product_url": "https://www.ehsy.com/product-VWT566",
+      "bytes": 2834,
+      "sha256": "b94291cf31905dc2fcfc4530cdfebf02ef00143f8bbe2dec75b03c7f98b7f6c0",
+      "reuse_info": {
+        "rights_holder": "九牧品牌、西域智慧供应链（上海）股份公司及相关图片权利人",
+        "license": "未获得开放许可；按来源署名用于商品识别，权利归原权利人。"
+      },
+      "checked_at": "2026-09-12",
+      "visually_verified": true,
+      "width": 360,
+      "height": 360,
+      "visual_notes": "准确型号商品页主图为弯管单把厨房龙头；保留完整 360px 原图，不以图片证明制造厂。",
+      "source_image_metadata": {
+        "width": 360,
+        "height": 360,
+        "bytes": 5575,
+        "sha256": "d004c424b6e8a79e675ce8c63e07ba8653761da991f00de1b00c33e8ecb18a2b"
+      },
+      "filename": "images/jomoo-p33146-105-1c-z-kitchen-faucet.webp",
+      "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
     }
   ]
 }
