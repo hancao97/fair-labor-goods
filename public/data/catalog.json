@@ -11115,6 +11115,90 @@
       "limitation": "准确商品卡支持购买入口，不独立确定每批制造企业；价格、配送及包装以商家为准。",
       "publishedAt": null,
       "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "jinji-smallpuff-official",
+      "title": "金记官网小油豆腐产品",
+      "publisher": "苏州金记食品有限公司",
+      "url": "https://www.jjfood.com.cn/pd.jsp?recommendFromPid=0&id=35&fromMid=517",
+      "type": "企业产品披露",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "locator": "产品中心第35号产品：小油豆腐；已读取普通HTTP正文",
+      "summary": "金记官网当前产品中心具名小油豆腐，列示产品特点、用途及企业联系信息。",
+      "limitation": "网页没有公开单袋重量或独立制造认证；100g四袋规格由对应零售条目确定，生产判断结合其他企业资料。"
+    },
+    {
+      "id": "jinji-smallpuff-process2019",
+      "title": "金记官网小油豆腐制作介绍",
+      "publisher": "苏州金记食品有限公司",
+      "url": "https://www.jjfood.com.cn/nd.jsp?id=268",
+      "type": "企业产品披露",
+      "publishedAt": "2019-09-30",
+      "checkedAt": "2026-09-14",
+      "locator": "2019-09-30 14:29文章；两处小油豆腐品名及工序说明",
+      "summary": "企业文章明确介绍老相食小油豆腐及磨浆、压坯、油炸等制作环节，辅助对应官网产品与生产业务。",
+      "limitation": "这是2019年的企业介绍，不能证明2026年的单次发货或劳动条件；未采用其中未经核实的营养和健康宣传。"
+    },
+    {
+      "id": "jinji-smallpuff100-supplier2022",
+      "title": "金记发布的小油豆腐100g规格资料",
+      "publisher": "苏州金记食品有限公司在食品招商网发布",
+      "url": "https://www.spzs.com/chanpin/7019737.html",
+      "type": "企业产品披露",
+      "publishedAt": "2022-01-15",
+      "checkedAt": "2026-09-14",
+      "locator": "标题、产品规格及具名发布企业；更新时间2022-01-15 17:03:38",
+      "summary": "页面标题为老相食小油豆腐，规格栏100g，发布企业为苏州金记；与官网同名产品和当前零售规格作综合对应。",
+      "limitation": "正文产品说明首句写大油豆腐，与标题存在差异；未沿用其中的保质期和储存参数，也不把招商留言入口当作个人购买渠道。"
+    },
+    {
+      "id": "jinji-smallpuff100x4-jd2026",
+      "title": "京东老相食小油豆腐100g四袋条目",
+      "publisher": "京东",
+      "url": "https://www.jd.com/hotitem/122181e813826d890ce0e.html",
+      "type": "零售商商品页",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "locator": "实际HTTP商品卡：100g*4袋小油豆腐；商品号10219140952840",
+      "summary": "公开零售列表同时显示老相食小油豆腐100g×4袋及准确商品链接，支持大陆购买入口。",
+      "limitation": "按实际取得的商品卡核对，不把标题中的旗舰店字样当作已经独立核实店铺授权；地区配送、价格与实际包装以商家为准。"
+    },
+    {
+      "id": "jinji-largegluten-official",
+      "title": "金记官网大油面筋产品",
+      "publisher": "苏州金记食品有限公司",
+      "url": "https://www.jjfood.com.cn/pd.jsp?recommendFromPid=0&id=108&fromMid=517",
+      "type": "企业产品披露",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "locator": "产品中心第108号产品：大油面筋；已读取普通HTTP正文",
+      "summary": "金记官网列示大油面筋及其烹饪用途，和清水油面筋另设产品条目；本次选用大油面筋。",
+      "limitation": "网页没有公开100g包装重量，具体单袋规格取自京东；页面共用的豆类原料宣传未作为面筋原料或独立制造认证。"
+    },
+    {
+      "id": "jinji-production2015",
+      "title": "金记生产业务及油面筋产品报道",
+      "publisher": "苏州金记食品有限公司官网转载《城市早8点》",
+      "url": "https://www.jjfood.com.cn/nd.jsp?id=46",
+      "type": "媒体报道转载",
+      "publishedAt": "2015-10-19",
+      "checkedAt": "2026-09-14",
+      "locator": "2015-10-19 09:31文章；品牌、生产主体及末段产品范围",
+      "summary": "转载报道将老相食品牌对应苏州金记，介绍其生产企业身份及油面筋等产品业务；结合当前官网大油面筋和苏州主体信息判断制造关系。",
+      "limitation": "原报道较早，且此次读取的是企业转载；未独立核实当年的产线数量，也未用旧产能、当前官网产品或食品资质单独证明劳动合规。"
+    },
+    {
+      "id": "jinji-largegluten100-jd2026",
+      "title": "京东老相食大油面筋100g单袋条目",
+      "publisher": "京东",
+      "url": "https://www.jd.com/xinghao/132031b88844b00e1686.html",
+      "type": "零售商商品页",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "locator": "实际HTTP商品卡：100g*1袋大油面筋，约16个；商品号10217722298241",
+      "summary": "列表同时给出大油面筋100g单袋的名称和直接商品链接；同页小油面筋及两袋、三袋选项各有独立货号。",
+      "limitation": "本次只选择大油面筋单袋，约16个是商家估计数量而非逐件保证；价格和配送以商家为准。"
     }
   ],
   "companies": [
@@ -23821,13 +23905,13 @@
       "restLabel": "具体休息安排未公开",
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "cardNote": "2021—2022年度4A级 · 豆干与豆奶",
-      "scope": "苏州金记制造的老相食五香豆干145g和五谷豆奶250mL；只对应本法人，不自动覆盖经销商及其他子公司。",
-      "finding": "先检索脉脉等员工和岗位资料，未取得适用的一手经历；随后核到2021—2022年度最终4A级及较近的企业披露，以同一制造主体对应两款国内零售商品。",
+      "cardNote": "2021—2022年度4A级 · 豆制品、面筋与豆奶",
+      "scope": "苏州金记制造版本的老相食五香豆干145g、五谷豆奶250mL、小油豆腐100g及大油面筋100g；只对应本法人，不自动覆盖经销商及其他子公司。",
+      "finding": "先从员工和岗位资料寻找线索，再核对本法人2021—2022年度最终4A级及企业生产资料；现共对应四款国内零售商品。同一法人劳动依据共用，制造对应方式逐款说明。",
       "caveats": [
         "劳动依据为2023-12-27公布的2021—2022年度正式4A级，2026年查阅不改变评价年份。2025-12-15的2023—2024年度4A级仅记录为拟评定。",
         "2024年度劳动制度为企业自述；2022年保供报道存在加班，未披露时长和费用，不宣传零加班，也不直接据此认定违法。",
-        "豆干依据同名同规格食品原表与厂家资料；豆奶依据官网准确包装与企业生产报告综合对应，证据形式不同，均保留其范围。",
+        "豆干使用同名同规格食品原表；豆奶、小油豆腐及大油面筋结合企业产品与生产披露、当前零售作综合对应。保留历史年份、规格来源及小油豆腐招商正文的名称差异。",
         "商品限本法人制造版本；劳动评价不自动借给金记供应链、豆腐文化公司、加盟门店及其他品牌产品。"
       ],
       "sourceIds": [
@@ -23840,18 +23924,29 @@
         "jinji-production-overtime2022",
         "jinji-five145-brand",
         "jinji-five145-wuxi2024",
-        "jinji-fivegrain250-official"
+        "jinji-fivegrain250-official",
+        "jinji-smallpuff-official",
+        "jinji-smallpuff-process2019",
+        "jinji-smallpuff100-supplier2022",
+        "jinji-smallpuff100x4-jd2026",
+        "jinji-largegluten-official",
+        "jinji-production2015",
+        "jinji-largegluten100-jd2026"
       ],
       "supply": [
         {
-          "stage": "豆制品与植物蛋白饮料制造",
+          "stage": "豆制品、面筋与植物蛋白饮料制造",
           "status": "verified",
-          "detail": "具名苏州金记劳动结果与两款产品制造资料对应；豆奶的制造判断含企业自行披露，详见商品说明。",
+          "detail": "本法人最终劳动结果对应四款具体产品；豆奶、油豆腐和面筋的制造判断包含企业自行披露及历史资料，范围与局限见各商品。",
           "sourceIds": [
             "suzhou-labor2021-2022-final",
             "jinji-five145-wuxi2024",
             "jinji-fivegrain250-official",
-            "jinji-csr2024"
+            "jinji-csr2024",
+            "jinji-smallpuff-official",
+            "jinji-smallpuff-process2019",
+            "jinji-largegluten-official",
+            "jinji-production2015"
           ]
         },
         {
@@ -39761,6 +39856,124 @@
           ]
         }
       }
+    },
+    {
+      "id": "laoxiangshi-small-oil-tofu100x4",
+      "name": "小油豆腐100g×4袋",
+      "brand": "老相食",
+      "companyId": "jinji-suzhou",
+      "category": "food",
+      "description": "可用于火锅、烧汤和炒菜的油豆腐泡。",
+      "tags": [
+        "油豆腐",
+        "豆制品",
+        "火锅食材"
+      ],
+      "needs": [
+        "油豆腐"
+      ],
+      "url": "https://item.jd.com/10219140952840.html",
+      "relationshipSourceIds": [
+        "jinji-smallpuff-official",
+        "jinji-smallpuff-process2019",
+        "jinji-smallpuff100-supplier2022",
+        "jinji-csr2024",
+        "jinji-smallpuff100x4-jd2026"
+      ],
+      "market": "京东商品10219140952840对应小油豆腐100g×4袋，国内零售入口已核对；配送和包装以商家为准。",
+      "relationship": "金记官网同名产品及制作介绍、企业发布的100g规格、苏州生产报告与当前零售综合对应，收录范围限苏州金记制造版本。招商正文另有大油豆腐字样，未据此采用储存参数；这是具名资料的综合判断，未逐包装查验。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "以商品名称展示，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东商品10219140952840对应小油豆腐100g×4袋，国内零售入口已核对；配送和包装以商家为准。",
+          "sourceIds": [
+            "jinji-smallpuff100x4-jd2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "苏州金记食品有限公司",
+          "detail": "金记官网同名产品及制作介绍、企业发布的100g规格、苏州生产报告与当前零售综合对应，收录范围限苏州金记制造版本。招商正文另有大油豆腐字样，未据此采用储存参数；这是具名资料的综合判断，未逐包装查验。",
+          "sourceIds": [
+            "jinji-smallpuff-official",
+            "jinji-smallpuff-process2019",
+            "jinji-smallpuff100-supplier2022",
+            "jinji-csr2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "suzhou-labor2021-2022-final",
+          "detail": "苏州金记2021—2022年度4A级最终结果，2023-12-27公布；结合劳动保障信用体系的六类权益标准支持收录。较新的4A级公示未当作最终结果，本站2026-10-13前复核。",
+          "sourceIds": [
+            "suzhou-labor2021-2022-final",
+            "suzhou-labor-review2022-form",
+            "suzhou-labor2023-2024-publicity"
+          ]
+        }
+      }
+    },
+    {
+      "id": "laoxiangshi-large-oil-gluten100",
+      "name": "大油面筋100g单袋",
+      "brand": "老相食",
+      "companyId": "jinji-suzhou",
+      "category": "food",
+      "description": "可用于面筋塞肉、烧菜和火锅的油面筋，选择大面筋单袋。",
+      "tags": [
+        "油面筋",
+        "面筋",
+        "火锅食材"
+      ],
+      "needs": [
+        "油面筋"
+      ],
+      "url": "https://item.jd.com/10217722298241.html",
+      "relationshipSourceIds": [
+        "jinji-largegluten-official",
+        "jinji-production2015",
+        "jinji-csr2024",
+        "jinji-largegluten100-jd2026"
+      ],
+      "market": "京东商品10217722298241对应100g单袋大油面筋；同页小面筋、多袋装未混用，配送和包装以商家为准。",
+      "relationship": "金记当前官网的大油面筋产品、既往具名生产业务报道及苏州主体报告，与京东100g单袋作综合制造对应，限定苏州金记制造版本。官网未标该单袋重量，旧报道也不是当前逐款制造认证。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "以商品名称展示，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东商品10217722298241对应100g单袋大油面筋；同页小面筋、多袋装未混用，配送和包装以商家为准。",
+          "sourceIds": [
+            "jinji-largegluten100-jd2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "苏州金记食品有限公司",
+          "detail": "金记当前官网的大油面筋产品、既往具名生产业务报道及苏州主体报告，与京东100g单袋作综合制造对应，限定苏州金记制造版本。官网未标该单袋重量，旧报道也不是当前逐款制造认证。",
+          "sourceIds": [
+            "jinji-largegluten-official",
+            "jinji-production2015",
+            "jinji-csr2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "suzhou-labor2021-2022-final",
+          "detail": "苏州金记2021—2022年度4A级最终结果，2023-12-27公布；结合劳动保障信用体系的六类权益标准支持收录。较新的4A级公示未当作最终结果，本站2026-10-13前复核。",
+          "sourceIds": [
+            "suzhou-labor2021-2022-final",
+            "suzhou-labor-review2022-form",
+            "suzhou-labor2023-2024-publicity"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -39914,9 +40127,17 @@
         {
           "label": "豆干",
           "query": "豆干"
+        },
+        {
+          "label": "油豆腐",
+          "query": "油豆腐"
+        },
+        {
+          "label": "油面筋",
+          "query": "油面筋"
         }
       ],
-      "note": "粮油食品37项需求均有研究记录，其中17项已有正式商品。本轮补入此前遗漏的豆干需求，收录苏州金记制造的老相食五香豆干145g×2袋；原有大豆油、玉米油等范围及评价年份保留。",
+      "note": "粮油食品39项需求均有研究记录，其中19项已有正式商品。新增老相食小油豆腐100g×4袋和大油面筋100g单袋，补入此前遗漏的油豆腐、油面筋需求；两款共用苏州金记2021—2022年度最终劳动评价，制造对应含企业披露及历史资料，范围逐款保留。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -40059,7 +40280,14 @@
         "fulinmen-corn5l-jd-retail",
         "jinji-five145-brand",
         "jinji-five145-wuxi2024",
-        "jinji-five145x2-jd"
+        "jinji-five145x2-jd",
+        "jinji-smallpuff-official",
+        "jinji-smallpuff-process2019",
+        "jinji-smallpuff100-supplier2022",
+        "jinji-smallpuff100x4-jd2026",
+        "jinji-largegluten-official",
+        "jinji-production2015",
+        "jinji-largegluten100-jd2026"
       ]
     },
     {
