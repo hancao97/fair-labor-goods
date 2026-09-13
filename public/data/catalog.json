@@ -151,9 +151,9 @@
       "type": "企业年报",
       "url": "https://img.xdcdn.net/xdwp/2026/04/20260429130340311.pdf",
       "publishedAt": "2026-04-29",
-      "checkedAt": "2026-09-11",
-      "locator": "印刷页 60（PDF 第 61 页）；供应商管理在印刷页 53",
-      "summary": "集团披露每周五天、每天八小时的标准工作安排，并列有特殊工时岗位和休息日加班审批；供应商包括美术与行政服务。",
+      "checkedAt": "2026-09-13",
+      "locator": "印刷页58—60（PDF第59—61页）人才与雇佣管理；供应商管理在印刷页53",
+      "summary": "集团披露依法签约、标准每周五天每日八小时，另有特殊工时岗位和休息日加班审批，并表示不鼓励996；用于补充2025年制度信息。",
       "limitation": "集团制度自述；部分岗位实行综合或不定时工时。未披露具体游戏外包人员的实际周工时。"
     },
     {
@@ -4963,7 +4963,7 @@
       "type": "官方商品资料",
       "url": "https://item.lenovo.com.cn/product/1052505.html",
       "publishedAt": null,
-      "checkedAt": "2026-09-12",
+      "checkedAt": "2026-09-13",
       "locator": "商品号1052505；货号90XS0075CD；主标题、配置表及橱窗原图",
       "summary": "页面对应天逸510S-08IRR I51440016G512W-11Q2，列第14代酷睿i5-14400、16GB内存、512GB固态硬盘、集成显卡与Windows 11家庭中文版。包装含有线键盘和鼠标，本条为主机，不含显示器。",
       "limitation": "可读页面的实时价格留空，并含多种通用购买状态模板，未据此判断当前库存或下架。商城主体不能替代制造企业，本次未取得此货号对应的境内制造法人及劳动合规资料。"
@@ -5695,10 +5695,10 @@
       "type": "政府评价公告",
       "url": "https://www.xinhui.gov.cn/gzjg/qzfgzbm/jmsxhqrlzyhshbzj/xzzfgszl/xzzfshgk/content/post_3498062.html",
       "publishedAt": "2026-05-28",
-      "checkedAt": "2026-09-12",
+      "checkedAt": "2026-09-13",
       "locator": "正文评价期间与附件1、附件2；企业名单尚未成功读取",
       "summary": "公告明确评价2025-01-01至2025-12-31的劳动守法情况，公布5589家A级及B、C级附件，提供了核对新会制造企业的最新名单入口。",
-      "limitation": "已读公告公开索引及附件链接，但两个原始XLSX直接请求均返回403，未取得企业条目。不能据此认定亚太森博或任何未核对企业已列入A级；没有以全区数量推断某家企业评级。"
+      "limitation": "已读公告公开索引及附件链接，但两个原始XLSX直接请求均返回403，未取得企业条目。不能据此认定亚太森博、李锦记（新会）食品或任何未核对企业已列入A级；没有以全区数量推断某家企业评级。"
     },
     {
       "id": "zalantun-bf888s-manufacturer-2024",
@@ -8426,7 +8426,7 @@
       "checkedAt": "2026-09-13",
       "locator": "喜报！静安这91家企业上榜！；名单中心动网络股份有限公司条目",
       "summary": "依据沪人社关〔2023〕264号公布2022年度达标结果，具名心动网络股份有限公司。",
-      "limitation": "是2022年度的正式结果，未公开完整审查起止日与该公司的分项得分；本次未完成该批完整评分标准核对，不据此宣称当前全面合规。"
+      "limitation": "这是2022年度的正式结果。已另核同批完整指标表；企业分项得分、完整审查起止日和逐年复审结果未公开取得，不表示已核实2026年所有岗位待遇。"
     },
     {
       "id": "shanghai-harmony-notice-2022",
@@ -8438,7 +8438,7 @@
       "checkedAt": "2026-09-13",
       "locator": "沪人社关〔2022〕107号；三、创建标准；四、流程；五、激励措施",
       "summary": "采用六类指标与分值评价，结合资料、现场及职工调查；达标后每年复审。社保和工时相关激励还要求对应指标满分。",
-      "limitation": "正文通过官方公开索引读取，直接访问和指标附件返回403。达标不能被改写为所有指标满分；尚未核对完整附件。网页转载路径年份不替代文件日期。"
+      "limitation": "正文通过官方公开索引读取，原站及原指标附件返回403。已由长宁区同批官方PDF补核完整指标表；达标不改写为每项满分。网页转载路径年份不替代文件日期。"
     },
     {
       "id": "heartopia-taptap-cn-2026",
@@ -8669,16 +8669,28 @@
       "limitation": "本次只取得公开索引，原页直接请求返回403。属于2019年学生实习初期经历，没有常规工时、加班费或社保结论，未作为正式员工当前待遇的证明。"
     },
     {
-      "id": "xinhui-labor-2025-notice-unread-list",
-      "title": "关于公布新会区2025年度企业劳动保障守法诚信等级评价结果的公告",
-      "publisher": "江门市新会区人力资源和社会保障局",
-      "type": "政府评价公告",
-      "url": "https://www.xinhui.gov.cn/gzjg/qzfgzbm/jmsxhqrlzyhshbzj/xzzfgszl/xzzfshgk/content/post_3498062.html",
-      "publishedAt": "2026-05-28",
+      "id": "shanghai-harmony-criteria-2022-changning",
+      "title": "长宁区2022年和谐劳动关系创建通知及完整指标表",
+      "publisher": "上海市长宁区人力资源和社会保障局等四部门",
+      "type": "政府规则",
+      "url": "https://zwgk.shcn.gov.cn/xxgk/xzqr-rsjzhzw/2022/267/33012/a65e4ad2727a481c85e3528f16c42226.pdf",
+      "publishedAt": "2022-07-15",
       "checkedAt": "2026-09-13",
-      "locator": "公告正文的评价覆盖期及两个名单附件链接",
-      "summary": "公告确认评价覆盖2025-01-01至2025-12-31，具名企业结果另见A级及B、C级两份Excel附件。",
-      "limitation": "正文可读，但名单附件直接请求返回403，未读取李锦记或其他企业的具名结果；不得由公告存在或招聘平台徽章推定其获A级。"
+      "locator": "长人社〔2022〕22号；PDF第1—5页及第10—14页指标表",
+      "summary": "明确依据沪人社关〔2022〕107号开展同年度上海市创建。完整表覆盖劳动合同、工资、社保、工时、休假和劳动保护，并设劳动处罚等否决项；市级终审后公布结果。",
+      "limitation": "这是长宁区公开的同批市级创建标准，企业获评事实另引静安区名单。综合达标不等于每项满分；年度复审要求不能替代某家企业实际复审结果。"
+    },
+    {
+      "id": "lenovo-office-nowcoder-2024",
+      "title": "牛客：我的联想工作体验（2024年办公室岗位自述）",
+      "publisher": "牛客社区用户",
+      "type": "员工个人陈述",
+      "url": "https://www.nowcoder.com/discuss/688704298062024704",
+      "publishedAt": "2024-11-20",
+      "checkedAt": "2026-09-13",
+      "locator": "正文第1—3点；账号岗位标签为硬件产品经理",
+      "summary": "作者描述弹性上下班、办公室约18:30已较少有人、双休及带薪休假等体验，作为继续调查联想用工的线索。",
+      "limitation": "正文由公开索引读取，普通HTTP只取得页面框架。作者身份未独立核实，未具名劳动合同法人、地点或生产工厂；不代表联宝等工厂待遇，也不据上下班时刻推算实际周工时。"
     }
   ],
   "companies": [
@@ -8746,33 +8758,35 @@
       "name": "心动",
       "legalName": "心动网络股份有限公司",
       "location": "上海；本档案对应国服运营法人",
-      "level": "disclosure",
+      "level": "assessment",
       "hours": 40,
       "restDays": 2,
       "hoursLabel": "标准每周 40 小时",
       "restLabel": "标准每周工作 5 天",
-      "scope": "2022年度具名达标结果、2021年员工采访及集团2025年劳动制度披露",
-      "finding": "员工采访提供不强制无必要加班的经历，也提到项目冲刺期加班；已对应三款游戏的国服运营主体及2022年度达标结果，综合劳动依据继续核对。",
+      "scope": "心动网络股份有限公司国服运营服务；2022年度政府综合评价、2021年员工采访及2025年集团制度",
+      "finding": "先由员工采访发现工作安排线索，现已核对同一法人2022年度正式达标结果与同批完整标准，供三款具名国服服务共用。2025年集团披露补充制度，实际项目期加班及范围限制保留。",
       "caveats": [
         "2021年采访只代表当时受访者及其团队，未对应今天三款游戏的全体员工。",
         "集团2025年报有特殊工时岗位与加班审批安排，不能等同于实际零加班。",
-        "2022达标结果未公开分项得分，该批完整评分标准尚未核对；保留正面线索，不自动改写为当前全面合规。",
+        "政府结果对应2022年度，分项得分及后续逐年复审结果未公开取得；综合达标不表示所有项目满分，本站2026年查阅不冒充新的政府评价。",
         "本档案对应国服运营公司，集团关联公司、代理作品及外部美术等合作方分别记录。"
       ],
       "sourceIds": [
         "xd-2025",
         "xd-employee-interviews-2021",
         "xd-jingan-harmony-2022",
-        "shanghai-harmony-notice-2022"
+        "shanghai-harmony-notice-2022",
+        "shanghai-harmony-criteria-2022-changning"
       ],
       "supply": [
         {
           "stage": "开发与运营",
-          "status": "policy",
-          "detail": "三款国服游戏的运营法人已由产品页面和各自政策对应；集团自研、劳动制度与员工采访分别注明范围。",
+          "status": "verified",
+          "detail": "本条核对心动网络股份有限公司国服运营服务及2022年度综合劳动评价；2021年采访和2025年制度另标时期，外部开发与服务合作方不套用。",
           "sourceIds": [
-            "xd-2025",
-            "xd-employee-interviews-2021"
+            "xd-jingan-harmony-2022",
+            "shanghai-harmony-criteria-2022-changning",
+            "xd-2025"
           ]
         },
         {
@@ -8792,8 +8806,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "优先寻找具名游戏团队近期工作体验，以及能够补足工资、社保和工时判断的公开资料；2022评分附件访问受限，没有新的原始资料不重复请求。",
-      "cardNote": "有员工采访 · 项目期存在加班",
+      "nextCheck": "2026-10-13前复核。新年度具名复审结果、近期游戏团队员工经历或适用相反资料出现时更新；不重复请求已受限的旧附件。",
+      "cardNote": "2022综合评价 · 有员工采访",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。",
       "employeeFeedback": [
@@ -8811,25 +8825,30 @@
           "kind": "government-labor-review",
           "subject": "心动网络股份有限公司",
           "sourceId": "xd-jingan-harmony-2022",
-          "result": "2022年度上海市和谐劳动关系达标企业（评价标准待补核）",
+          "result": "2022年度上海市和谐劳动关系达标企业",
           "period": "2022年度；2023-08-25由静安区公开，完整审查起止日未公开",
           "resultPublishedAt": "2023-08-25",
           "reviewedAt": "2026-09-13",
-          "reviewDueAt": "2026-12-13",
+          "reviewDueAt": "2026-10-13",
           "status": "current",
-          "conclusion": "unresolved",
+          "conclusion": "supported",
           "issuer": "上海市人力资源和社会保障局、上海市总工会、上海市企业联合会/企业家协会、上海市工商业联合会",
           "scopeType": "employer",
-          "scope": "具名国服运营法人；已确认正式达标结果，完整评分标准及分项结论尚未补齐",
+          "scope": "具名用人单位的国服运营服务；按2022同批综合指标表核对，覆盖合同、工资、社保、工时、休假和劳动保护",
           "verificationSourceId": "xd-jingan-harmony-2022",
           "basisSourceIds": [
-            "shanghai-harmony-notice-2022"
+            "shanghai-harmony-notice-2022",
+            "shanghai-harmony-criteria-2022-changning"
           ],
           "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
             "hours",
-            "insurance"
+            "rest",
+            "protection"
           ],
-          "limitation": "2022通知对工时、社保满分激励另有条件；仅凭达标称号不推定所有权益指标满分。未核完整标准前保留为待复核结果。"
+          "limitation": "依据2022年度正式结果及同批完整标准作综合判断，未取得企业分项得分与后续逐年复审结果。工资项为按时足额支付，并非公开了逐人加班工资账单。不得扩大到其他法人、外部合作方或保证2026年所有岗位待遇；本站复核日不是政府证书有效期。"
         }
       ]
     },
@@ -11421,9 +11440,9 @@
       "restDays": null,
       "hoursLabel": "具体工时制度待补",
       "restLabel": "具体休息安排待补",
-      "cardNote": "工时与休息资料待补",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "已核对官方商品与品牌关系；仍需对应具体生产或服务企业的劳动合规依据。",
+      "cardNote": "有办公室体验 · 工厂待遇待核",
+      "scope": "品牌商品及2024年办公室个人经历；尚未对应具体制造工厂劳动条件。",
+      "finding": "2024年牛客个人经历提供弹性工作及休假线索；所列电脑还需制造法人依据，不能把办公室或商城主体套到生产工厂。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
@@ -11431,7 +11450,8 @@
       ],
       "sourceIds": [
         "lenovo-xiaoxin-product",
-        "lenovo-tianyi510s-90xs0075cd-product"
+        "lenovo-tianyi510s-90xs0075cd-product",
+        "lenovo-office-nowcoder-2024"
       ],
       "supply": [
         {
@@ -11455,7 +11475,17 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。"
+      "nextCheck": "优先核对具名生产工厂的近期员工经历、机型制造标签或适用劳动结果；联宝招聘页A级徽标缺原始年份和名单，本轮没有新原件，不重复搜索同一路径。",
+      "employeeFeedback": [
+        {
+          "sourceId": "lenovo-office-nowcoder-2024",
+          "kind": "firsthand",
+          "period": "2024-11-20发帖时描述的工作体验；入职及经历起止日未公开",
+          "roleScope": "办公室工作；账号标签为硬件产品经理，具体城市、劳动合同法人及工厂未公开",
+          "summary": "自述弹性工作、约10点上班、18:30办公室已较少有人，有双休和带薪假期。",
+          "limitation": "身份未经独立核实，正文来自公开索引。这是办公室经历，不能推定联宝等制造工厂相同；午休和实际出勤未知，不据时刻计算周工时。"
+        }
+      ]
     },
     {
       "id": "cofco-fulinmen",
@@ -11561,7 +11591,7 @@
       "sourceIds": [
         "lkk-xinhui-hiring",
         "lkk-xinhui-cau-internship-2019",
-        "xinhui-labor-2025-notice-unread-list",
+        "xinhui-labor2025-notice",
         "lkk-fortune-oyster907-jd-retail"
       ],
       "supply": [
@@ -19697,14 +19727,16 @@
           ]
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "已记录2021年员工采访、集团2025年制度及同一法人2022年度达标结果；该批完整评分标准尚未核对，不能仅凭称号或个人体验补成当前综合合规结论。",
+          "status": "supported",
+          "detail": "国服运营法人心动网络股份有限公司获2022年度政府综合劳动评价，已核同批完整标准。本条采用该具名结果，另展示员工采访及集团2025年制度；评价年份保留为2022，后续逐年复审结果未取得。",
           "sourceIds": [
-            "xd-employee-interviews-2021",
-            "xd-2025",
             "xd-jingan-harmony-2022",
-            "shanghai-harmony-notice-2022"
-          ]
+            "shanghai-harmony-criteria-2022-changning",
+            "shanghai-harmony-notice-2022",
+            "xd-employee-interviews-2021",
+            "xd-2025"
+          ],
+          "assessmentSourceId": "xd-jingan-harmony-2022"
         }
       },
       "needs": [
@@ -20905,14 +20937,16 @@
           ]
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "已记录2021年员工采访、集团2025年制度及同一法人2022年度达标结果；该批完整评分标准尚未核对，不能仅凭称号或个人体验补成当前综合合规结论。",
+          "status": "supported",
+          "detail": "国服运营法人心动网络股份有限公司获2022年度政府综合劳动评价，已核同批完整标准。本条采用该具名结果，另展示员工采访及集团2025年制度；评价年份保留为2022，后续逐年复审结果未取得。",
           "sourceIds": [
-            "xd-employee-interviews-2021",
-            "xd-2025",
             "xd-jingan-harmony-2022",
-            "shanghai-harmony-notice-2022"
-          ]
+            "shanghai-harmony-criteria-2022-changning",
+            "shanghai-harmony-notice-2022",
+            "xd-employee-interviews-2021",
+            "xd-2025"
+          ],
+          "assessmentSourceId": "xd-jingan-harmony-2022"
         }
       },
       "needs": [
@@ -20968,14 +21002,16 @@
           ]
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "已记录2021年员工采访、集团2025年制度及同一法人2022年度达标结果；该批完整评分标准尚未核对，不能仅凭称号或个人体验补成当前综合合规结论。",
+          "status": "supported",
+          "detail": "国服运营法人心动网络股份有限公司获2022年度政府综合劳动评价，已核同批完整标准。本条采用该具名结果，另展示员工采访及集团2025年制度；评价年份保留为2022，后续逐年复审结果未取得。",
           "sourceIds": [
-            "xd-employee-interviews-2021",
-            "xd-2025",
             "xd-jingan-harmony-2022",
-            "shanghai-harmony-notice-2022"
-          ]
+            "shanghai-harmony-criteria-2022-changning",
+            "shanghai-harmony-notice-2022",
+            "xd-employee-interviews-2021",
+            "xd-2025"
+          ],
+          "assessmentSourceId": "xd-jingan-harmony-2022"
         }
       },
       "needs": [
@@ -22892,7 +22928,7 @@
           "sourceIds": [
             "lkk-xinhui-hiring",
             "lkk-xinhui-cau-internship-2019",
-            "xinhui-labor-2025-notice-unread-list"
+            "xinhui-labor2025-notice"
           ],
           "detail": "新会工厂招聘与2019年实习属于研究线索。已找到2025年政府评价公告，但名单附件未能读取，不能确认本公司的结果；适用劳动依据继续待核。"
         }
@@ -27372,7 +27408,7 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "已核中国官网货号与配置，实时价格、当前零售状态仍待补充。",
+          "detail": "中国官网已核货号与配置，当前购买入口是否可用尚未确认。",
           "sourceIds": [
             "lenovo-tianyi510s-90xs0075cd-product"
           ]
@@ -32794,7 +32830,7 @@
         "pdl-kitchen-project-2022",
         "xuchang-labor-2025-pdl",
         "lkk-fortune-oyster907-jd-retail",
-        "xinhui-labor-2025-notice-unread-list"
+        "xinhui-labor2025-notice"
       ]
     },
     {
@@ -33408,7 +33444,7 @@
           "query": "对讲机"
         }
       ],
-      "note": "13项数码细分需求均已有具体型号资料。BF-888S经典款单只装已对应国内零售、中国产地及同一制造法人的2025年度劳动A级，成为数码类首项正式收录。手机、电脑等其余需求仍需继续核查；对讲机不替代这些需求。A1383已对应国内零售和东莞制造商，劳动依据仍待补。",
+      "note": "13项数码细分需求均已有具体型号资料。BF-888S经典款单只装已对应国内零售、中国产地及同一制造法人的2025年度劳动A级，成为数码类首项正式收录。手机、电脑等其余需求仍需继续核查；对讲机不替代这些需求。A1383已对应国内零售和东莞制造商，劳动依据仍待补。 本轮新增联想办公室个人经历，未套用于电脑制造工厂。",
       "sourceIds": [
         "apple-rcc-job",
         "anker-2024",
@@ -33428,7 +33464,8 @@
         "nanan-labor-2025",
         "zalantun-bf888s-manufacturer-2024",
         "baofeng-bf888s-classic-jd",
-        "miit-interphone-rules-2025"
+        "miit-interphone-rules-2025",
+        "lenovo-office-nowcoder-2024"
       ]
     },
     {
@@ -33965,8 +34002,11 @@
           "query": "策略"
         }
       ],
-      "note": "具体游戏与开发主体已核对；集团制度中的特殊工时、加班和美术外包仍不能略过。",
+      "note": "三款心动国服游戏服务已共用具名运营法人的2022年度政府综合劳动评价，手机游戏、电脑游戏、角色扮演及策略4项需求首次正式覆盖。2021年采访和2025年制度另标时期，项目加班及外包范围不省略。",
       "sourceIds": [
+        "xd-jingan-harmony-2022",
+        "shanghai-harmony-criteria-2022-changning",
+        "xd-employee-interviews-2021",
         "xd-2025"
       ]
     }

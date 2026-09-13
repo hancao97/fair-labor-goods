@@ -2,7 +2,7 @@
 
 查阅日期：2026-09-13。
 
-后续批次见[胖东来员工反馈与食品研究](pangdonglai-employee-research.md)，最新数量见[工厂体验与零售对应](factory-experience-and-retail.md)。下文保留首批发布时的记录。
+后续批次见[胖东来员工反馈与食品研究](pangdonglai-employee-research.md)、[工厂体验与零售对应](factory-experience-and-retail.md)。心动同批标准现已补齐，三款国服服务正式收录，最新结果见[员工线索与游戏收录](employee-leads-and-game-admission.md)。下文保留首批发布时的记录。
 
 按用户建议，调查顺序调整为：先看员工怎么说，筛出值得继续研究的公司，再核对该公司的劳动资料、自产商品或自营服务及大陆购买渠道。同一主体已有适用依据时可以对应多款商品，不重复调查公司。不要求每家公司先有政府A级，也不把零加班、固定双休加成法律门槛。
 
