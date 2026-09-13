@@ -11,6 +11,9 @@ import {
   selectAdmittedProducts,
   getCatalogAvailability,
   laborEvidenceLabel,
+  getLaborAssessment,
+  getLaborAssessments,
+  getProductCompanies,
 } from "../src/catalog.mjs";
 const data = JSON.parse(
   await readFile(new URL("../public/data/catalog.json", import.meta.url)),
@@ -56,6 +59,72 @@ function reviewedProduct(kind = "independent-labor-audit") {
   product.admission.productionLabor.assessmentSourceId = assessment.sourceId;
   return { product, company, assessment };
 }
+function multipleManufacturers() {
+  const { product, company } = reviewedProduct("government-labor-review");
+  const second = structuredClone(company);
+  second.id = "second-manufacturer";
+  second.name = "另一制造企业";
+  second.legalName = "另一境内制造厂有限公司";
+  second.assessments[0].subject = second.legalName;
+  second.assessments[0].sourceId = "second-labor-review";
+  second.assessments[0].facility = "另一制造厂厂区";
+  product.manufacturerOptions = [company, second].map(c => ({
+    companyId: c.id, subject: c.assessments[0].subject, facility: c.assessments[0].facility,
+    sourceIds: ["manufacturer-record"], assessmentSourceId: c.assessments[0].sourceId,
+  }));
+  delete product.admission.chinaProduction.subject;
+  delete product.admission.chinaProduction.facility;
+  delete product.admission.productionLabor.assessmentSourceId;
+  product.admission.productionLabor.sourceIds.push(second.assessments[0].sourceId);
+  return { product, companies: [company, second] };
+}
+test("a known set of possible manufacturers is admitted only when every employer has applicable evidence", () => {
+  const { product, companies } = multipleManufacturers();
+  const catalog = { ...data, products: [product], companies };
+  assert.equal(isAdmitted(product, companies, REVIEW_DATE), true);
+  assert.equal(getLaborAssessments(product, companies, REVIEW_DATE).length, 2);
+  assert.equal(getLaborAssessment(product, companies[0], REVIEW_DATE), undefined);
+  assert.equal(isAdmitted(product, companies[0], REVIEW_DATE), false);
+  assert.deepEqual(selectAdmittedProducts(catalog, REVIEW_DATE).map(p => p.id), [product.id]);
+  companies[1].assessments = [];
+  assert.equal(isAdmitted(product, companies, REVIEW_DATE), false);
+  assert.deepEqual(getLaborAssessments(product, companies, REVIEW_DATE), []);
+  assert.equal(getCatalogAvailability(catalog, defaults, REVIEW_DATE).gaps.productionLabor, 1);
+});
+test("each possible manufacturer retains its own employer, facility, sources and date boundaries", () => {
+  for (const mutate of [
+    ({ companies }) => { companies.pop(); },
+    ({ companies }) => { companies[1].assessments[0].subject = "不相关企业"; },
+    ({ companies }) => { companies[1].assessments[0].facility = "未覆盖厂区"; },
+    ({ companies }) => { companies[1].assessments[0].status = "withdrawn"; },
+    ({ companies }) => { companies[1].assessments[0].reviewDueAt = REVIEW_DATE; },
+    ({ product }) => { product.manufacturerOptions[1].sourceIds = []; },
+    ({ product }) => { product.manufacturerOptions[1].sourceIds = ["unlinked-record"]; },
+    ({ product }) => { product.admission.productionLabor.sourceIds.pop(); },
+    ({ product }) => { product.manufacturerOptions[1].assessmentSourceId = product.manufacturerOptions[0].assessmentSourceId; },
+    ({ product }) => { product.manufacturerOptions.push(structuredClone(product.manufacturerOptions[1])); },
+    ({ product }) => { product.manufacturerOptions = []; },
+    ({ product }) => { product.admission.chinaProduction.subject = "误写为单一制造商"; },
+  ]) {
+    const fixture = multipleManufacturers();
+    mutate(fixture);
+    assert.equal(isAdmitted(fixture.product, fixture.companies, REVIEW_DATE), false, mutate.toString());
+  }
+  const { product, companies } = multipleManufacturers();
+  companies[1].assessments.push({ ...companies[1].assessments[0], sourceId: "new-adverse",
+    kind: "employer-labor-disclosure", conclusion: "adverse", periodEnd: "2026-01-01" });
+  assert.equal(isAdmitted(product, companies, REVIEW_DATE), false);
+});
+test("all named manufacturers remain discoverable and extra chain filtering checks each one", () => {
+  const { product, companies } = multipleManufacturers();
+  const catalog = { ...data, products: [product], companies };
+  assert.deepEqual(getProductCompanies(product, companies).map(c => c.id), companies.map(c => c.id));
+  assert.equal(selectProducts(catalog, { ...defaults, query: companies[1].legalName }).length, 1);
+  companies[0].supply.forEach(stage => { stage.status = "verified"; stage.sourceIds = ["chain-record"]; });
+  companies[1].supply[0].status = "unknown";
+  assert.equal(selectProducts(catalog, { ...defaults, supply: true }).length, 0);
+  assert.equal(isAdmitted(product, companies, REVIEW_DATE), true);
+});
 test("positive employee feedback remains a research lead when applicable labor evidence is missing", () => {
   const { product, company } = assessedProduct();
   company.assessments = [];

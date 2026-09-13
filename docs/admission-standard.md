@@ -47,7 +47,7 @@
 
 ## 数据与复核
 
-数据版本为 4。`chinaProduction.subject` 记录制造法人；`productionLabor.assessmentSourceId` 指向适用的劳动评价或审核。企业 `assessments` 中保留类型、主体、覆盖期和复核日期；政府A级示例使用`grade`，其他政府综合评价及独立审核使用结论、出具机构、范围和核验来源等字段，详见[当前数据方法](evidence-review-policy.md)。
+当前数据版本为5，新增明确列出的多家可能制造企业逐家核对，详见[厨房商品与多家制造企业](thermos-employee-products.md)。下述单一制造主体字段保持兼容：`chinaProduction.subject` 记录制造法人；`productionLabor.assessmentSourceId` 指向适用的劳动评价或审核。企业 `assessments` 中保留类型、主体、覆盖期和复核日期；政府A级示例使用`grade`，其他政府综合评价及独立审核使用结论、出具机构、范围和核验来源等字段，详见[当前数据方法](evidence-review-policy.md)。
 
 本次开平评价覆盖 2025 年，2026-06-03 公布，2026-09-12 查阅；本站计划在下一年度发布周期结束前复核，`reviewDueAt` 设为 2027-06-03。这是本站复核期限，不是政府赋予的评级有效期。到期、撤回或出现更新评价时，旧依据不能继续支持正式收录；浏览器统一按北京时间的当前日期判断，数据校验按记录的查阅日期判断。
 

@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-09-13",
   "categories": [
     {
@@ -9039,6 +9039,90 @@
       "locator": "主帖正文及2024-09-04 18:20发布时间；不计评论和推荐内容",
       "summary": "作者自述销售管培工作需早会后走访大量门店，提到单休、自称不定时工作制及夏季繁忙，同时肯定同事关系。正文说明销售岗位体验与总部不同。",
       "limitation": "已取得原始HTML全文，身份、具体雇主、工作地点和实际任职起止日期未核实；没有不定时工时审批或工资凭证，不能据帖子认定该安排合规或违法，也不代表工厂岗位。"
+    },
+    {
+      "id": "thermos-china-suzhou-harmony2020",
+      "title": "苏州2020年度劳动关系和谐企业复核确认：膳魔师中国",
+      "publisher": "苏州市协调劳动关系三方委员会；苏州市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/bmwj/202112/f4f2010b7c5e4cef9f398e3680c95e3d.shtml",
+      "publishedAt": "2021-12-06",
+      "locator": "苏调劳〔2021〕1号；附件2往年度复核确认名单，昆山市部分，膳魔师（中国）家庭制品有限公司",
+      "summary": "正式通知列明逐级推荐、评估、公示与审核，以及往年度企业的复审；附件2具名确认膳魔师中国法人。发文日为2021-12-03，网页公开日为12-06，对应2020年度工作。",
+      "limitation": "采用政府原页公开解析正文和目标名单行；原站普通HTTP返回403，未取得原始HTML。属于较早复核结果，未取得此企业更新的综合结果或逐项评分，不当作2026年新认证。",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "id": "suzhou-harmony-policy2016",
+      "title": "苏州构建和谐劳动关系实施意见：采用江苏省评价规范",
+      "publisher": "中共苏州市委、苏州市人民政府；苏州市人力资源和社会保障局发布",
+      "type": "政府评价制度",
+      "url": "https://hrss.suzhou.gov.cn/jsszhrss/zxfgk/201602/e3c0f742780841508b4628207ebdd61f.shtml",
+      "publishedAt": "2016-02-03",
+      "locator": "第（二十四）项：深入开展和谐劳动关系创建活动",
+      "summary": "实施意见要求苏州和谐劳动关系创建采用江苏省《劳动关系和谐企业评价规范》，并重视职工意见和综合评价。",
+      "limitation": "读取政府原页公开解析正文。该制度说明评价依据，不是任何企业的具名结果；本次结合2019年替代版本及2021年政策说明判断适用范围，不沿用已替代的2011版条文。",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "id": "suzhou-harmony-policy2021",
+      "title": "苏州2021年和谐企业政策解读：省标与三方评估认定",
+      "publisher": "苏州市人力资源和社会保障局",
+      "type": "政府评价制度",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/bmwjjd/202112/d056579000e944db906cd01a73af8f62.shtml",
+      "publishedAt": "2021-12-30",
+      "locator": "《关于对劳动关系和谐企业给予正向激励的意见》政策解读，第二部分",
+      "summary": "同年政策说明将适用对象界定为符合江苏省评价规范、经市级以上协调劳动关系三方评估认定的和谐企业。与既有实施意见、已生效2019版省标及具名复核通知交叉对应。",
+      "limitation": "读取政府原页公开解析正文。关于2020年度复核评价范围的判断来自几份官方文件的对应，未取得该批单独的申报附件或企业评分表；激励政策本身不是新增企业劳动认证。",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "id": "thermos-kunshan-employees2023",
+      "title": "昆山膳魔师制造部员工谈妈妈岗工作经历（2023）",
+      "publisher": "苏州日报；中国江苏网刊载",
+      "type": "员工采访",
+      "url": "https://jsnews.jschina.com.cn/zt2023/ztgk_2023/202311/t20231124_3323302.shtml",
+      "publishedAt": "2023-11-24",
+      "locator": "《江苏昆山“妈妈岗”加速推广 既能带娃还能上班赚钱》制造部组立班采访及岗位安排段",
+      "summary": "记者在膳魔师（中国）家庭制品有限公司制造部采访生产员工：有人从原岗位转入计件工作以照顾孩子，也有人谈重返工作的体验。报道列出6小时、8小时岗位及五险一金安排。",
+      "limitation": "取得公开解析正文，普通HTTP返回403后停止请求。经历适用于受访产线与当时岗位，不代表全厂都不加班；企业管理者的制度介绍与员工本人体验分别理解，同篇两名受访者不计为两份独立报道。",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "id": "thermos-kunshan-employees2026",
+      "title": "昆山宝妈产线员工谈下午五点下班（2026）",
+      "publisher": "昆山市妇女联合会；新华日报报道",
+      "type": "员工采访",
+      "url": "https://www.ks.gov.cn/kss/funv/202604/adc752b01f2d483882365dbeb7b3cdc8.shtml",
+      "publishedAt": "2026-04-29",
+      "locator": "《一条产线，一笔基金 | 新华日报头版报道》线下宝妈产线部分",
+      "summary": "政府页面刊载的报道介绍膳魔师陆家镇宝妈产线，一名从一线成长的员工谈到下午五点下班接孩子；文中另述6小时、8小时岗位和五险一金。",
+      "limitation": "读取政府原页公开解析正文，直接请求出现重定向循环后停止。报道使用品牌简称，依据同一陆家镇产线与2023年具名采访对应昆山企业；是特定岗位的较新经历，不是全厂新综合审核。两篇对项目启动年份的表述有差异，未据此确定启动日。",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "id": "thermos-fei501wh-suzhou2022",
+      "title": "苏州保温杯制造抽查：FEI-501WH 500mL",
+      "publisher": "苏州市市场监督管理局",
+      "type": "政府产品资料",
+      "url": "https://scjgj.suzhou.gov.cn/szqts/zlcc/202212/88e9de5e60c0484cbcf8fad42fd3c0ee.shtml",
+      "publishedAt": "2022-12-15",
+      "locator": "2022年保温杯产品质量市级监督抽查情况公告（第49期），结果表首行",
+      "summary": "生产企业抽样记录同时列FEI-501WH、500mL、膳魔师（中国）家庭制品有限公司，样品日期2021-06-22，批号062221 TCC G；据此对应白色款的境内制造企业。",
+      "limitation": "读取政府原页公开索引完整目标行；这是较早样品的制造记录，不能改写成2026年批次检查。质量合格结论不用于证明劳动合规，也不扩展到其他容量、颜色或套装。",
+      "checkedAt": "2026-09-13"
+    },
+    {
+      "id": "thermos-fei501wh-jd",
+      "title": "京东FEI-501白色500mL具体零售入口",
+      "publisher": "京东商品列表",
+      "type": "国内销售资料",
+      "url": "https://www.jd.com/jiage/6196df5459dae7f3ed88.html",
+      "publishedAt": null,
+      "locator": "FEI-501白色500ml单杯卡片，直接链接10234247560886；同页白色WH选项10090044503556的配图",
+      "summary": "直接取得列表HTML，单杯标题、容量和白色选项一致，实际链接商品号10234247560886。同页另一500mL白色WH选项图片明确标出FEI-501 WH，用作本款资料插图。",
+      "limitation": "页面发布日期未公开；没有把礼盒、刻字定制、其他杯子或配件当成本款。使用具体卡片与货号核对购买入口，不表示京东自营、品牌官方授权或所有地区实时有库存。",
+      "checkedAt": "2026-09-13"
     }
   ],
   "companies": [
@@ -19227,13 +19311,13 @@
       "hoursLabel": "综合评价包含工时",
       "restLabel": "综合评价包含休息休假",
       "cardNote": "省优秀劳动关系和谐企业·2024颁牌记录",
-      "scope": "政府评价仅对应膳魔师江苏法人；TCLF-720S当前销售选项尚未区分TCC或TJC生产商。",
-      "finding": "官方具名颁牌结果与2019版评价标准、当地三方评价程序已核对，构成政府综合劳动评价支持。具体焖烧罐的通用说明书列两家生产企业，未取得当前零售选项的实际生产商代码，因此尚未正式收录该商品。",
+      "scope": "劳动评价限膳魔师江苏法人；TCLF-720S另列昆山制造企业，在独立档案中分别核对。",
+      "finding": "淮安官方颁牌结果与2019版评价标准、三方程序已对应本法人。TCLF-720S说明书列昆山、淮安两家制造企业，分别使用各自劳动依据；此档案对应淮安TJC。",
       "caveats": [
         "2024-04-16是官方颁牌报道日期，不是2024全年检查或2026年新评价；未取得实际审查区间或单项评分。",
-        "膳魔师江苏TJC与膳魔师中国TCC是不同法人；当前型号所附说明书同时列两家，不能互借劳动评价。",
+        "膳魔师江苏TJC与膳魔师中国TCC是不同法人；所列制造企业分别使用各自结果，昆山员工采访不作为淮安员工经历。",
         "官方劳动争议开庭日程含该企业的劳动报酬事项，但没有裁决结果；保留其年份差异，不将开庭记录当作欠薪认定。",
-        "较早的TJC版说明书明确江苏公司的制造角色，但未对应当前销售型号，不据此直接升级商品。"
+        "实际批次生产商仍以杯底代码为准；目前仅覆盖本款说明书明确列出的两家，出现其他制造企业时重新核对。"
       ],
       "sourceIds": [
         "thermos-jiangsu-harmony-award2024",
@@ -19250,7 +19334,7 @@
         {
           "stage": "品牌与销售",
           "status": "policy",
-          "detail": "官网型号与京东黑色720mL具体选项对应；当前批次的生产商代码未显示。",
+          "detail": "官网型号与京东亚光黑720mL具体选项对应；商品可能制造企业依该型号所附说明书分别登记。",
           "sourceIds": [
             "thermos-tclf720s-official",
             "thermos-tclf720-mbk-jd"
@@ -19259,7 +19343,7 @@
         {
           "stage": "江苏制造企业",
           "status": "verified",
-          "detail": "官方TJC说明书确认江苏公司制造角色，官方颁牌记录确认该法人获综合劳动评价。范围限此企业，尚未完成具体零售商品的制造对应。",
+          "detail": "官方说明书确认江苏公司制造角色，具名颁牌记录确认该法人综合劳动评价；该结果仅用于淮安TJC。",
           "sourceIds": [
             "thermos-tjc-manufacturer-manual2016",
             "thermos-jiangsu-harmony-award2024",
@@ -19269,7 +19353,7 @@
         {
           "stage": "具体商品与其他生产环节",
           "status": "unknown",
-          "detail": "本款通用说明书列TCC、TJC两家，零售选项尚缺区分依据；原材料、配送等环节未据此整体认证。",
+          "detail": "本款说明书所列昆山TCC另有独立档案与劳动判断；原材料、配送等环节继续补充调查。",
           "sourceIds": [
             "thermos-tclf720s-manual"
           ]
@@ -19308,7 +19392,7 @@
           "limitation": "按真实官方颁牌报道日期记录较早评价，不编造审查区间或单项得分。尚未取得更新的具名综合结果；本站复查日期不是官方有效期，也不保证此后全部用工行为。"
         }
       ],
-      "nextCheck": "2026-10-13前复查具名劳动结果。出现本款杯底TJC/TCC代码、明确制造商的零售标签或新抽检行时再补型号对应；暂停同款无新线索的重复检索。"
+      "nextCheck": "2026-10-13前复查本法人具名劳动结果和本款零售入口；若说明书新增制造企业、任何所列企业的依据到期或出现相反劳动事实，重新判断本款。"
     },
     {
       "id": "joyland-xixizu",
@@ -20300,6 +20384,122 @@
           "limitation": "身份未独立核实，未取得工时制度审批或工资凭证；无法据此计算实际工时或作劳动法律结论，也不能代表化验室和生产线。"
         }
       ]
+    },
+    {
+      "id": "thermos-china",
+      "name": "膳魔师·昆山生产企业",
+      "legalName": "膳魔师（中国）家庭制品有限公司",
+      "location": "江苏昆山陆家镇合丰开发区金阳路55号",
+      "origin": "international",
+      "originNote": "膳魔师为国际品牌；此档案对应昆山境内制造企业，品牌背景与生产地分别核对。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "采访涉及6小时、8小时岗位",
+      "restLabel": "特定员工谈按时下班",
+      "cardNote": "2020年度复核，2021年公布（较早资料）",
+      "scope": "膳魔师中国昆山法人；员工采访限制造部宝妈产线，综合评价与生产对应另行核对。",
+      "finding": "昆山宝妈产线有2023、2026年生产员工采访；该法人另有2020年度劳动关系复核结果，2021年公布。白色500mL保温杯的制造抽查明确对应TCC；焖烧罐按说明书所列两家分别核对。",
+      "caveats": [
+        "劳动结果为2020年度复核、2021年公开，未取得更新的具名综合结果；2026年采访不能当作全厂重新认证。",
+        "员工经历适用于宝妈产线和受访者当时岗位，未据此推算全厂周工时、休息天数或实际加班报酬履行。",
+        "评价范围由苏州制度说明、2019版省标及具名结果交叉判断；未取得该企业逐项得分，不表示每项满分。",
+        "膳魔师中国TCC与膳魔师江苏TJC分别核对；昆山员工经历不移用于淮安员工。具体商品的制造年份、可能工厂与购买范围另标。"
+      ],
+      "sourceIds": [
+        "thermos-china-suzhou-harmony2020",
+        "suzhou-harmony-policy2016",
+        "suzhou-harmony-policy2021",
+        "thermos-kunshan-employees2023",
+        "thermos-kunshan-employees2026",
+        "thermos-fei501wh-suzhou2022",
+        "thermos-fei501wh-jd",
+        "jiangsu-harmony-standard2019",
+        "thermos-tclf720s-manual"
+      ],
+      "supply": [
+        {
+          "stage": "生产员工经历",
+          "status": "policy",
+          "detail": "两期报道保留生产员工的岗位经历与报道中的用工安排，仅适用于所述范围；不作全员零加班保证。",
+          "sourceIds": [
+            "thermos-kunshan-employees2023",
+            "thermos-kunshan-employees2026"
+          ]
+        },
+        {
+          "stage": "昆山制造与劳动评价",
+          "status": "verified",
+          "detail": "监管抽查与说明书对应昆山制造法人；采用其2020年度复核结果及适用省标，保留2021年公开日期。",
+          "sourceIds": [
+            "thermos-fei501wh-suzhou2022",
+            "thermos-tclf720s-manual",
+            "thermos-china-suzhou-harmony2020",
+            "suzhou-harmony-policy2016",
+            "suzhou-harmony-policy2021",
+            "jiangsu-harmony-standard2019"
+          ]
+        },
+        {
+          "stage": "原料、配件及独立物流",
+          "status": "unknown",
+          "detail": "原料和独立承运企业另作补充调查；本企业的评价不覆盖全部供应商。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "employeeFeedback": [
+        {
+          "sourceId": "thermos-kunshan-employees2023",
+          "kind": "interview",
+          "period": "2023-11报道时；部分受访者回顾转岗后的经历",
+          "roleScope": "江苏昆山，膳魔师中国制造部组立班宝妈产线",
+          "summary": "一名生产老员工谈到为照顾孩子转入灵活计件岗位；另一名员工谈到重返工作后的收入与生活体验。报道另说明6小时、8小时岗位及五险一金安排。",
+          "limitation": "媒体采访而非企业全员调查，未独立核实每名受访者的工资记录；采访和管理者制度介绍不能等同。两人在同一报道内，合并为一条来源记录。"
+        },
+        {
+          "sourceId": "thermos-kunshan-employees2026",
+          "kind": "interview",
+          "period": "2026-04报道时",
+          "roleScope": "江苏昆山陆家镇宝妈产线；从一线操作岗位成长的受访员工",
+          "summary": "受访员工谈到下午五点下班后能接孩子；报道继续介绍6小时、8小时岗位和五险一金。",
+          "limitation": "政府页面刊载媒体采访，使用企业简称，依同镇同名产线与2023具名报道对应。经历仅适用于所述岗位，未将其当作全厂所有员工的安排或新的综合劳动结果。"
+        }
+      ],
+      "assessments": [
+        {
+          "kind": "government-labor-review",
+          "conclusion": "supported",
+          "subject": "膳魔师（中国）家庭制品有限公司",
+          "result": "苏州市劳动关系和谐企业往年度复核确认",
+          "period": "2020年度复核，2021年公布（较早资料）；完整审查起止日未公开",
+          "sourceId": "thermos-china-suzhou-harmony2020",
+          "resultPublishedAt": "2021-12-06",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "issuer": "苏州市协调劳动关系三方委员会",
+          "scopeType": "employer",
+          "scope": "具名膳魔师（中国）家庭制品有限公司的综合劳动关系复核；不扩展为膳魔师其他法人评价",
+          "verificationSourceId": "thermos-china-suzhou-harmony2020",
+          "basisSourceIds": [
+            "suzhou-harmony-policy2016",
+            "suzhou-harmony-policy2021",
+            "jiangsu-harmony-standard2019"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ],
+          "limitation": "采用较早的官方复核结果；评价范围结合苏州制度说明与当时已生效的2019版省标判断，未取得企业逐项评分。较新员工采访仅作岗位补充；本站复查安排不是官方有效期。"
+        }
+      ],
+      "nextCheck": "2026-10-13前复查具名劳动结果、近期生产员工经历和零售入口；出现新的制造企业、适用范围变化或相反劳动事实时重新判断。"
     }
   ],
   "products": [
@@ -32630,7 +32830,7 @@
       "brand": "膳魔师",
       "companyId": "thermos-jiangsu",
       "category": "kitchen",
-      "description": "720mL亚光黑焖烧罐，按TCLF系列保温饭盒用途整理；制造商代码待核。",
+      "description": "720mL亚光黑焖烧罐，按保温饭盒用途整理；说明书所列两家境内制造企业分别核对。",
       "tags": [
         "饭盒",
         "焖烧罐",
@@ -32647,7 +32847,7 @@
       "imageRights": "暂无已核对的商品图片",
       "url": "https://item.jd.com/10037246934031.html",
       "market": "京东货号10037246934031，具体选项“黑色MBK 720ml”。商品系列标题同时列520和720，按720mL选项整理；价格、库存与配送以实际销售页面为准。",
-      "relationship": "官网TCLF-720S亚光黑720mL与国内零售选项对应；所附说明书同时列TCC、TJC。江苏公司为可能的制造企业，当前销售款尚缺具体代码，不能认定已由该公司制造。",
+      "relationship": "官网TCLF-720S亚光黑720mL与国内零售选项对应；该型号所附说明书列昆山TCC、淮安TJC两家生产企业。未确定当前售出批次是哪一家，所列两家分别具有适用劳动依据。",
       "relationshipSourceIds": [
         "thermos-tclf720s-official",
         "thermos-tclf720s-manual",
@@ -32663,23 +32863,44 @@
           ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "说明书所列两家厂址均在江苏，但实际生产商须由杯底代码区分。当前零售选项未显示代码，尚不能将制造主体确定为获评的膳魔师江苏TJC。",
+          "status": "supported",
+          "detail": "型号所附说明书明确两家生产商及江苏厂址；当前批次的TCC/TJC代码未知，但所列可能制造企业均在境内，逐家登记而不猜测单一工厂。",
           "sourceIds": [
-            "thermos-tclf720s-manual",
-            "thermos-tclf720-mbk-jd"
+            "thermos-tclf720s-official",
+            "thermos-tclf720s-manual"
           ]
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "膳魔师江苏已有政府综合劳动评价支持；待该销售款制造主体对应后再适用。并非要求额外福利，也没有把证据不足判为企业违法。",
+          "status": "supported",
+          "detail": "淮安TJC采用2024年官方颁牌结果，昆山TCC采用2020年度复核（2021年公布）；两家分别对应劳动依据，任何一家失去支持时本款返回待核查。昆山员工采访只用于昆山岗位。",
           "sourceIds": [
             "thermos-jiangsu-harmony-award2024",
-            "jiangsu-harmony-standard2019",
-            "thermos-tclf720s-manual"
+            "huaian-harmony-review-process2024",
+            "thermos-china-suzhou-harmony2020",
+            "suzhou-harmony-policy2016",
+            "suzhou-harmony-policy2021",
+            "jiangsu-harmony-standard2019"
           ]
         }
-      }
+      },
+      "manufacturerOptions": [
+        {
+          "companyId": "thermos-jiangsu",
+          "subject": "膳魔师（江苏）家庭制品有限公司",
+          "sourceIds": [
+            "thermos-tclf720s-manual"
+          ],
+          "assessmentSourceId": "thermos-jiangsu-harmony-award2024"
+        },
+        {
+          "companyId": "thermos-china",
+          "subject": "膳魔师（中国）家庭制品有限公司",
+          "sourceIds": [
+            "thermos-tclf720s-manual"
+          ],
+          "assessmentSourceId": "thermos-china-suzhou-harmony2020"
+        }
+      ]
     },
     {
       "id": "joyland-adult-standard-ticket",
@@ -33495,6 +33716,66 @@
       "imageMode": "contain",
       "imageSource": "https://static.foodtalks.cn/cms/entry/form/e56b29210ad86850434271fa4cfd8be77623.jpg",
       "imageRights": "南京卫岗乳业有限公司／FBIF及原图权利人。仅作商品资料插图；图片为同款包装的多个角度，不代表六盒装；FBIF标识属于食品创新奖展示，不是劳动认证。"
+    },
+    {
+      "id": "thermos-fei501wh",
+      "name": "FEI-501WH保温杯 · 白色 · 500mL",
+      "brand": "膳魔师",
+      "companyId": "thermos-china",
+      "category": "kitchen",
+      "description": "白色500mL不锈钢保温杯；按明确型号与昆山制造记录整理。",
+      "tags": [
+        "水杯",
+        "保温杯",
+        "白色",
+        "500mL",
+        "FEI-501WH"
+      ],
+      "needs": [
+        "水杯"
+      ],
+      "image": "images/thermos-fei501wh.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/99800/13/42649/27190/65436b02F3994215d/f4cf92c4e8cfd503.jpg",
+      "imageRights": "京东同规格商品图片，原权利人保留版权；用于注明来源的资料插图，未取得开放再授权。",
+      "url": "https://item.jd.com/10234247560886.html",
+      "market": "京东具体卡片对应FEI-501白色500mL单杯，商品号10234247560886；价格与配送以渠道实际页面为准。",
+      "relationship": "苏州2022年公布的生产企业抽查行把FEI-501WH 500mL对应到膳魔师中国TCC，样品生产于2021-06-22；本次国内零售卡片及配图型号、颜色、容量一致。",
+      "relationshipSourceIds": [
+        "thermos-fei501wh-suzhou2022",
+        "thermos-fei501wh-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "直接读取京东白色500mL单杯卡片及具体购买链接；不以礼盒、配件或未知地区库存代替本款判断。",
+          "sourceIds": [
+            "thermos-fei501wh-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "膳魔师（中国）家庭制品有限公司",
+          "detail": "生产企业抽查明确FEI-501WH 500mL及TCC制造法人；厂址位于昆山。样品是2021年制造，未声称核对当前每批实物。",
+          "sourceIds": [
+            "thermos-fei501wh-suzhou2022",
+            "thermos-tclf720s-manual"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "thermos-china-suzhou-harmony2020",
+          "detail": "同一昆山法人列入2020年度劳动关系复核确认结果（2021年公开）。结合苏州制度与适用省标判断综合范围；2023、2026年员工采访另保留其岗位局限。",
+          "sourceIds": [
+            "thermos-china-suzhou-harmony2020",
+            "suzhou-harmony-policy2016",
+            "suzhou-harmony-policy2021",
+            "jiangsu-harmony-standard2019",
+            "thermos-kunshan-employees2023",
+            "thermos-kunshan-employees2026"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -34189,7 +34470,7 @@
           "query": "保鲜膜"
         }
       ],
-      "note": "厨房13项需求已有具体研究资料，仍无正式收录。新增TCLF-720S亚光黑720mL焖烧罐：国内零售选项已核，膳魔师江苏法人有政府综合劳动评价，但说明书列TCC、TJC两家，尚缺本款制造代码。既有碗盘、筷子、锅具、刀具、饭盒及保鲜用品保留各自缺口；研究资料数量不代表合规商品覆盖。",
+      "note": "厨房首次正式收录白色FEI-501WH 500mL保温杯、亚光黑TCLF-720S 720mL焖烧罐，覆盖水杯与饭盒2项需求。昆山、淮安制造企业分别使用各自劳动依据；其余11项需求继续核对具体商品，研究资料不等于正式覆盖。",
       "sourceIds": [
         "dehua-labor-2025",
         "qixuanyuan-dragon-mug-jd",
@@ -34214,7 +34495,12 @@
         "thermos-jiangsu-harmony-award2024",
         "jiangsu-harmony-standard2019",
         "thermos-tclf720s-manual",
-        "thermos-tclf720-mbk-jd"
+        "thermos-tclf720-mbk-jd",
+        "thermos-china-suzhou-harmony2020",
+        "thermos-fei501wh-suzhou2022",
+        "thermos-fei501wh-jd",
+        "thermos-kunshan-employees2023",
+        "thermos-kunshan-employees2026"
       ]
     },
     {

@@ -32,7 +32,8 @@ import {
   hasVerifiedChain,
   isAdmitted,
   selectAdmittedProducts,
-  getLaborAssessment,
+  getLaborAssessments,
+  getProductCompanies,
   getCatalogAvailability,
   getBrandOrigin,
   laborEvidenceLabel,
@@ -71,7 +72,14 @@ const categoryMap = new Map(data.categories.map((c) => [c.id, c]));
 const external = { target: "_blank", rel: "noopener noreferrer" } as const;
 const categoryIds = data.categories.map((c) => c.id);
 const admittedProducts = selectAdmittedProducts(data);
-const researchProducts = data.products.filter((p) => !isAdmitted(p, companyMap.get(p.companyId)!));
+const researchProducts = data.products.filter((p) => !isAdmitted(p, data.companies));
+function laborSummary(product: Product) {
+  const entries = getLaborAssessments(product, data.companies);
+  if (!entries.length) return "待核查 · 不作合规推荐";
+  if (entries.length === 1) return `${laborEvidenceLabel(entries[0].assessment)} · ${entries[0].assessment.period}`;
+  const years = [...new Set(entries.map(({ assessment }) => (assessment.resultPublishedAt ?? assessment.periodEnd)!.slice(0, 4)))].sort();
+  return `${new Set(entries.map(e => e.companyId)).size}家制造企业分别核对 · ${years.join("、")}年资料`;
+}
 const admissionLabels = { chinaSale: "大陆购买 / 使用", chinaProduction: "境内生产 / 服务", productionLabor: "生产岗位劳动证据" } as const;
 const quickSearches = [
   { label: "大米", category: "food", query: "大米", featured: true },
@@ -225,7 +233,8 @@ function ProductDetail({
   onSave: () => void;
 }) {
   const c = companyMap.get(product.companyId)!;
-  const laborAssessment = getLaborAssessment(product, c);
+  const productCompanies = getProductCompanies(product, data.companies);
+  const laborAssessments = getLaborAssessments(product, data.companies);
   const dialog = useRef<HTMLDialogElement>(null);
   const [tab, setTab] = useState("evidence");
   const [copied, setCopied] = useState(false);
@@ -244,7 +253,7 @@ function ProductDetail({
   const copy = async () => {
     try {
       await navigator.clipboard.writeText(
-        `${location.origin}${location.pathname}?product=${encodeURIComponent(product.id)}#/${isAdmitted(product, c) ? "catalog" : "research"}`,
+        `${location.origin}${location.pathname}?product=${encodeURIComponent(product.id)}#/${isAdmitted(product, data.companies) ? "catalog" : "research"}`,
       );
       setCopied(true);
     } catch {
@@ -253,9 +262,11 @@ function ProductDetail({
   };
   const sources = [
     ...new Set([
-      ...c.sourceIds,
-      ...(c.employeeFeedback || []).map((feedback) => feedback.sourceId),
-      ...(c.assessments || []).flatMap((a) => [a.sourceId, ...(a.basisSourceIds || []), ...(a.verificationSourceId ? [a.verificationSourceId] : [])]),
+      ...productCompanies.flatMap((company) => [
+        ...company.sourceIds,
+        ...(company.employeeFeedback || []).map((feedback) => feedback.sourceId),
+        ...(company.assessments || []).flatMap((a) => [a.sourceId, ...(a.basisSourceIds || []), ...(a.verificationSourceId ? [a.verificationSourceId] : [])]),
+      ]),
       ...product.relationshipSourceIds,
       ...(product.brandOrigin?.sourceIds || []),
       ...Object.values(product.admission).flatMap((check) => check.sourceIds),
@@ -278,7 +289,7 @@ function ProductDetail({
     >
       <div className="dialog-inner">
         <div className="dialog-top">
-          <span>{isAdmitted(product, c) ? "商品与劳动档案" : "待核查资料 · 尚未正式收录"}</span>
+          <span>{isAdmitted(product, data.companies) ? "商品与劳动档案" : "待核查资料 · 尚未正式收录"}</span>
           <button
             autoFocus
             className="icon-button"
@@ -309,7 +320,7 @@ function ProductDetail({
             </div>
             <div className="detail-actions">
               <a className="button primary" href={product.url} {...external}>
-                {isAdmitted(product, c) ? "查看渠道详情" : "查看商品资料"}
+                {isAdmitted(product, data.companies) ? "查看渠道详情" : "查看商品资料"}
                 <ArrowUpRight size={16} />
               </a>
               <button
@@ -346,8 +357,8 @@ function ProductDetail({
           <section className="admission-checks" aria-label="商品收录条件检查">
             {Object.entries(admissionLabels).map(([key, label]) => {
               const check = product.admission[key as keyof typeof product.admission];
-              return <div key={key} className={key === "productionLabor" && !laborAssessment ? "pending" : check.status}>
-                <strong>{label}<small>{key === "productionLabor" ? (laborAssessment ? laborEvidenceLabel(laborAssessment) : "待补充或复核") : check.status === "supported" ? "有对应来源" : "待补充依据"}</small></strong>
+              return <div key={key} className={key === "productionLabor" && !laborAssessments.length ? "pending" : check.status}>
+                <strong>{label}<small>{key === "productionLabor" ? (laborAssessments.length ? laborSummary(product) : "待补充或复核") : check.status === "supported" ? "有对应来源" : "待补充依据"}</small></strong>
                 <p>{check.detail}</p>
                 {check.sourceIds.map((id) => <a key={id} href={sourceMap.get(id)!.url} {...external}>{sourceMap.get(id)!.title}<ArrowUpRight size={12} /></a>)}
               </div>;
@@ -355,44 +366,49 @@ function ProductDetail({
           </section>
           {tab === "evidence" && (
             <>
-              <div className="evidence-summary">
-                <span className="eyebrow">目前能确认的资料</span>
-                <h3>{c.finding}</h3>
-                <p>{levels[c.level].detail}</p>
-              </div>
-              <dl className="evidence-dl">
-                <div>
-                  <dt>资料主体</dt>
-                  <dd>{c.legalName}</dd>
+              {productCompanies.map((company) => {
+                const entries = laborAssessments.filter(entry => entry.companyId === company.id);
+                return <section className="manufacturer-evidence" key={company.id}>
+                <div className="evidence-summary">
+                  <span className="eyebrow">{productCompanies.length > 1 ? company.name : "目前能确认的资料"}</span>
+                  <h3>{company.finding}</h3>
+                  <p>{levels[company.level].detail}</p>
                 </div>
-                <div>
-                  <dt>适用范围</dt>
-                  <dd>{c.scope}</dd>
-                </div>
-                <div>
-                  <dt>商品关联</dt>
-                  <dd>{product.relationship}</dd>
-                </div>
-                <div>
-                  <dt>劳动判断依据</dt>
-                  <dd>{laborAssessment ? `${laborAssessment.subject}：${laborAssessment.result}（${laborAssessment.period}）。本站于 ${laborAssessment.reviewedAt} 查阅，计划在 ${laborAssessment.reviewDueAt} 前复核。${laborAssessment.validUntil ? `所引用证书有效截止日：${laborAssessment.validUntil}。` : ""}` : "尚缺可支持本商品收录的劳动依据；政府评级、综合劳动评价及独立审核均可接受核对，详见上方检查与原始来源。"}</dd>
-                </div>
-                {laborAssessment && <div>
-                  <dt>证据范围与局限</dt>
-                  <dd>{laborAssessment.issuer && `核验机构：${laborAssessment.issuer}。`}{laborAssessment.scope && `${laborAssessment.scope}。`}{laborAssessment.facility && `适用工厂：${laborAssessment.facility}。`}{laborAssessment.limitation} 该依据不保证未来所有用工情况。</dd>
-                </div>}
-                {laborAssessment?.coverage && <div>
-                  <dt>劳动权益核对范围</dt>
-                  <dd>{laborAssessment.coverage.map(topic => laborTopics[topic]).join("、")}</dd>
-                </div>}
-              </dl>
-              <EmployeeExperiences feedback={c.employeeFeedback} />
-              <h3 className="minor-title">仍然需要看清的部分</h3>
-              <ul className="caveats">
-                {c.caveats.map((t) => (
-                  <li key={t}>{t}</li>
-                ))}
-              </ul>
+                <dl className="evidence-dl">
+                  <div>
+                    <dt>资料主体</dt>
+                    <dd>{company.legalName}</dd>
+                  </div>
+                  <div>
+                    <dt>适用范围</dt>
+                    <dd>{company.scope}</dd>
+                  </div>
+                  <div>
+                    <dt>商品关联</dt>
+                    <dd>{product.relationship}</dd>
+                  </div>
+                  <div>
+                    <dt>劳动判断依据</dt>
+                    <dd>{entries.length ? entries.map(({ assessment: a }) => <p key={a.sourceId}>{a.subject}：{a.result}（{a.period}）。本站于 {a.reviewedAt} 查阅，计划在 {a.reviewDueAt} 前复核。{a.validUntil && `所引用证书有效截止日：${a.validUntil}。`}</p>) : product.manufacturerOptions ? "尚缺可支持本商品收录的完整劳动依据；可能制造企业中任何一家仍待复核时，本款继续待核查。详见上方检查与原始来源。" : "尚缺可支持本商品收录的劳动依据；政府评级、综合劳动评价及独立审核均可接受核对，详见上方检查与原始来源。"}</dd>
+                  </div>
+                  {entries.length > 0 && <div>
+                    <dt>证据范围与局限</dt>
+                    <dd>{entries.map(({ assessment: a }) => <p key={a.sourceId}>{a.issuer && `核验机构：${a.issuer}。`}{a.scope && `${a.scope.replace(/[。；]$/, "")}。`}{a.facility && `适用工厂：${a.facility}。`}{a.limitation} 该依据不保证未来所有用工情况。</p>)}</dd>
+                  </div>}
+                  {entries.some(({ assessment }) => assessment.coverage) && <div>
+                    <dt>劳动权益核对范围</dt>
+                    <dd>{entries.map(({ assessment: a }) => a.coverage && <p key={a.sourceId}>{a.facility && `${a.facility}：`}{a.coverage.map(topic => laborTopics[topic]).join("、")}</p>)}</dd>
+                  </div>}
+                </dl>
+                <EmployeeExperiences feedback={company.employeeFeedback} />
+                <h3 className="minor-title">仍然需要看清的部分</h3>
+                <ul className="caveats">
+                  {company.caveats.map((t) => (
+                    <li key={t}>{t}</li>
+                  ))}
+                </ul>
+                </section>;
+              })}
               <button className="text-button" onClick={() => setTab("sources")}>
                 逐条查看资料原文
                 <ArrowRight size={15} />
@@ -404,7 +420,7 @@ function ProductDetail({
               <div className="section-heading">
                 <h3>从品牌，到更远的上游</h3>
                 <span className="subtle-tag">
-                  {hasVerifiedChain(c)
+                  {productCompanies.every(hasVerifiedChain)
                     ? "全链证据齐备"
                     : "全链实际履约尚未验证"}
                 </span>
@@ -413,12 +429,12 @@ function ProductDetail({
                 这里继续记录原料、外包与物流等环节。生产企业的适用劳动证据用于商品收录判断，全供应链追踪作为补充信息。
               </p>
               <div className="supply-timeline">
-                {c.supply.map((s, i) => (
-                  <article key={s.stage}>
+                {productCompanies.flatMap(company => company.supply.map((s, i) => (
+                  <article key={`${company.id}-${s.stage}`}>
                     <div className={`stage-dot ${s.status}`}>{i + 1}</div>
                     <div>
                       <div className="stage-title">
-                        <h4>{s.stage}</h4>
+                        <h4>{productCompanies.length > 1 && `${company.name} · `}{s.stage}</h4>
                         <span>
                           {s.status === "policy"
                             ? "有公开制度 / 管理资料"
@@ -436,13 +452,13 @@ function ProductDetail({
                       ))}
                     </div>
                   </article>
-                ))}
+                )))}
               </div>
               <div className="next-evidence">
                 <GitBranch size={19} />
                 <div>
                   <strong>下一步要补什么</strong>
-                  <p>{c.nextCheck}</p>
+                  {productCompanies.map(company => <p key={company.id}>{productCompanies.length > 1 && `${company.name}：`}{company.nextCheck}</p>)}
                 </div>
               </div>
             </>
@@ -530,7 +546,7 @@ function ProductCard({
           {product.name}
         </button>
         <p className="product-desc">{product.description}</p>
-        <p className="admission-card-note">{isAdmitted(product, c) ? `${laborEvidenceLabel(getLaborAssessment(product, c)!)} · ${getLaborAssessment(product, c)!.period}` : "待核查 · 不作合规推荐"}</p>
+        <p className="admission-card-note">{isAdmitted(product, data.companies) ? laborSummary(product) : "待核查 · 不作合规推荐"}</p>
         <div className="card-evidence">
           <Badge level={c.level} />
           <span>
@@ -1083,7 +1099,7 @@ export default function App() {
                     <span>
                       仅看全供应链实际履约已核实
                       <small>
-                        当前 {data.products.filter((p) => hasVerifiedChain(companyMap.get(p.companyId)!)).length} 件；这是额外筛选，商品收录不强制要求。
+                        当前 {data.products.filter((p) => getProductCompanies(p, data.companies).every(hasVerifiedChain)).length} 件；这是额外筛选，商品收录不强制要求。
                       </small>
                     </span>
                   </label>
@@ -1245,7 +1261,7 @@ export default function App() {
               <h2>{categoryMap.get(group.category)?.name}</h2>
               <div className="coverage-needs">{group.needs.map((need) => {
                 const found = selectProducts(data, { ...defaults, category: group.category, need: need.label });
-                const admitted = found.filter((p) => isAdmitted(p, companyMap.get(p.companyId)!)).length;
+                const admitted = found.filter((p) => isAdmitted(p, data.companies)).length;
                 return <button key={need.label} onClick={() => navigateWithFilters(admitted ? "catalog" : "research", {...defaults, category:group.category, need:need.label})}><span>{need.label}</span><small>{found.length ? `${found.length} 份资料 · ${admitted} 件收录` : "尚无具体商品"}</small></button>;
               })}</div>
               <p>{group.note}</p>
@@ -1343,11 +1359,11 @@ export default function App() {
                   </dl>
                   <div className="company-products">
                     {data.products
-                      .filter((p) => p.companyId === c.id)
+                      .filter((p) => getProductCompanies(p, data.companies).some(company => company.id === c.id))
                       .map((p) => (
                         <button key={p.id} onClick={() => setSelected(p.id)}>
                           {p.name}
-                          <span className="company-product-status">{isAdmitted(p, c) ? "已收录" : "待核查"}</span>
+                          <span className="company-product-status">{isAdmitted(p, data.companies) ? "已收录" : "待核查"}</span>
                           <ArrowUpRight size={14} />
                         </button>
                       ))}

@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { readFile, access } from "node:fs/promises";
-import { getLaborAssessment, hasSupportingLaborEvidence, hasValidLaborAssessmentDates, laborTopics, selectAdmittedProducts } from "../src/catalog.mjs";
+import { getLaborAssessments, hasSupportingLaborEvidence, hasValidLaborAssessmentDates, laborTopics, selectAdmittedProducts } from "../src/catalog.mjs";
 import { validateGovernmentPublicationSource, validateLaborEvidenceSources } from "./labor-evidence-sources.mjs";
 
 const data = JSON.parse(
@@ -156,6 +156,23 @@ for (const p of data.products) {
   url(p.url);
   refs(p.relationshipSourceIds);
   assert(p.relationshipSourceIds.length > 0);
+  if (p.manufacturerOptions !== undefined) {
+    assert(Array.isArray(p.manufacturerOptions) && p.manufacturerOptions.length >= 2);
+    assert.equal(new Set(p.manufacturerOptions.map(m => `${m.companyId}\n${m.subject}\n${m.facility || ""}`)).size, p.manufacturerOptions.length);
+    assert(p.manufacturerOptions.some(m => m.companyId === p.companyId));
+    assert.equal(p.admission.chinaProduction.subject, undefined, "Do not mix a single producer with manufacturer options");
+    assert.equal(p.admission.productionLabor.assessmentSourceId, undefined, "Use each manufacturer's assessment");
+    for (const maker of p.manufacturerOptions) {
+      assert(companyIds.has(maker.companyId));
+      text(maker.subject, `${p.id}.manufacturer.subject`);
+      if (maker.facility !== undefined) text(maker.facility, `${p.id}.manufacturer.facility`);
+      refs(maker.sourceIds);
+      assert(maker.sourceIds.length > 0);
+      assert(maker.sourceIds.every(id => p.admission.chinaProduction.sourceIds.includes(id)));
+      refs([maker.assessmentSourceId]);
+      assert(p.admission.productionLabor.sourceIds.includes(maker.assessmentSourceId));
+    }
+  }
   if (p.brandOrigin !== undefined) {
     assert(["china", "international", "unconfirmed"].includes(p.brandOrigin?.value), `${p.id}: invalid brand origin`);
     text(p.brandOrigin.note, `${p.id}.brandOrigin.note`);
@@ -171,7 +188,7 @@ for (const p of data.products) {
     if (check.status === "supported") assert(check.sourceIds.length > 0, `${p.id}: unsupported admission claim`);
   }
   if (p.admission.productionLabor.status === "supported") {
-    assert(getLaborAssessment(p, data.companies.find((c) => c.id === p.companyId), data.updatedAt),
+    assert(getLaborAssessments(p, data.companies, data.updatedAt).length > 0,
       `${p.id}: labor evidence must match the producer, facility scope and a current, supported labor review`);
   }
   if (p.image) {

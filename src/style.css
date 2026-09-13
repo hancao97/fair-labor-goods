@@ -1537,6 +1537,17 @@ footer p {
   padding: 27px 28px 29px;
   min-height: 280px;
 }
+.manufacturer-evidence + .manufacturer-evidence {
+  margin-top: 32px;
+  padding-top: 28px;
+  border-top: 1px solid #e3e7dd;
+}
+.evidence-dl dd p {
+  margin: 0;
+}
+.evidence-dl dd p + p {
+  margin-top: 12px;
+}
 .evidence-summary {
   padding: 21px;
   background: #f0f4e9;

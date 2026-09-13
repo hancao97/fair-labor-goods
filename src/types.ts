@@ -83,6 +83,13 @@ export interface Product {
   brand: string;
   brandOrigin?: { value: BrandOrigin; note: string; sourceIds: string[] };
   companyId: string;
+  manufacturerOptions?: {
+    companyId: string;
+    subject: string;
+    facility?: string;
+    sourceIds: string[];
+    assessmentSourceId: string;
+  }[];
   category: string;
   description: string;
   tags: string[];

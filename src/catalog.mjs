@@ -73,7 +73,7 @@ export function hasValidLaborAssessmentDates(assessment) {
 export function getLaborAssessment(product, company, onDate = today()) {
   const labor = product.admission?.productionLabor;
   const production = product.admission?.chinaProduction;
-  if (!company || product.companyId !== company.id ||
+  if (product.manufacturerOptions !== undefined || !company || product.companyId !== company.id ||
       production?.status !== "supported" || !production.subject?.trim() ||
       labor?.status !== "supported" || !labor.sourceIds?.includes(labor.assessmentSourceId)) return undefined;
   const assessments = (company.assessments || []).filter((a) =>
@@ -97,30 +97,68 @@ export function getLaborAssessment(product, company, onDate = today()) {
         (newer.kind === "employer-labor-disclosure" || newer.reviewedAt >= a.reviewedAt)))),
   );
 }
-export function isAdmitted(product, company, onDate = today()) {
+
+export function getProductCompanies(product, companies) {
+  const ids = new Set([product.companyId, ...(product.manufacturerOptions || []).map((m) => m.companyId)]);
+  return companies.filter((company) => ids.has(company.id));
+}
+
+// An identified set of possible manufacturers can be assessed without guessing
+// which one made a retail batch. Every listed option must have its own evidence.
+export function getLaborAssessments(product, companyOrCompanies, onDate = today()) {
+  const companies = Array.isArray(companyOrCompanies) ? companyOrCompanies : [companyOrCompanies];
+  const primary = companies.find((c) => c?.id === product.companyId);
+  if (!primary) return [];
+  if (product.manufacturerOptions === undefined) {
+    const assessment = getLaborAssessment(product, primary, onDate);
+    return assessment ? [{ companyId: primary.id, assessment }] : [];
+  }
+  const options = product.manufacturerOptions;
+  if (!Array.isArray(options) || options.length < 2 ||
+      new Set(options.map((m) => `${m.companyId}\n${m.subject}\n${m.facility || ""}`)).size !== options.length ||
+      !options.some((m) => m.companyId === primary.id) ||
+      product.admission?.chinaProduction?.subject !== undefined ||
+      product.admission?.productionLabor?.assessmentSourceId !== undefined) return [];
+  const results = options.map((maker) => {
+    const company = companies.find((c) => c?.id === maker.companyId);
+    if (!company || !nonempty(maker.subject) || !nonempty(maker.assessmentSourceId) ||
+        !Array.isArray(maker.sourceIds) || maker.sourceIds.length === 0 ||
+        !maker.sourceIds.every((id) => product.admission?.chinaProduction?.sourceIds?.includes(id))) return undefined;
+    const assessment = getLaborAssessment({
+      ...product, companyId: maker.companyId, manufacturerOptions: undefined,
+      admission: {
+        ...product.admission,
+        chinaProduction: { ...product.admission.chinaProduction, subject: maker.subject, facility: maker.facility },
+        productionLabor: { ...product.admission.productionLabor, assessmentSourceId: maker.assessmentSourceId },
+      },
+    }, company, onDate);
+    return assessment ? { companyId: company.id, assessment } : undefined;
+  });
+  return results.every(Boolean) ? results : [];
+}
+
+export function isAdmitted(product, companyOrCompanies, onDate = today()) {
   const checks = product.admission;
-  return Boolean(checks && company &&
+  return Boolean(checks &&
     [checks.chinaSale, checks.chinaProduction, checks.productionLabor].every(
       (check) => check?.status === "supported" && check.sourceIds?.length > 0,
-    ) && getLaborAssessment(product, company, onDate)
+    ) && getLaborAssessments(product, companyOrCompanies, onDate).length > 0
   );
 }
 export function selectAdmittedProducts(data, onDate = today()) {
-  const companies = new Map(data.companies.map((c) => [c.id, c]));
-  return data.products.filter((p) => isAdmitted(p, companies.get(p.companyId), onDate));
+  return data.products.filter((p) => isAdmitted(p, data.companies, onDate));
 }
 export function getCatalogAvailability(data, filters, onDate = today()) {
   // Keep the consumer's category, need, brand origin and search when explaining an empty result.
   const scopeFilters = { ...filters, evidence: "all", supply: false, saved: false };
-  const companies = new Map(data.companies.map((c) => [c.id, c]));
   const matching = selectProducts(data, scopeFilters);
-  const pending = matching.filter((p) => !isAdmitted(p, companies.get(p.companyId), onDate));
+  const pending = matching.filter((p) => !isAdmitted(p, data.companies, onDate));
   const gaps = { chinaSale: 0, chinaProduction: 0, productionLabor: 0 };
   for (const product of pending) {
     for (const key of Object.keys(gaps)) {
       const check = product.admission?.[key];
       if (check?.status !== "supported" || !check.sourceIds?.length ||
-          (key === "productionLabor" && !getLaborAssessment(product, companies.get(product.companyId), onDate))) {
+          (key === "productionLabor" && getLaborAssessments(product, data.companies, onDate).length === 0)) {
         gaps[key]++;
       }
     }
@@ -144,13 +182,13 @@ export function selectProducts(data, filters, savedIds = []) {
   const companies = new Map(data.companies.map((c) => [c.id, c]));
   const selected = data.products.filter((p) => {
     const c = companies.get(p.companyId);
+    const productCompanies = getProductCompanies(p, data.companies);
     const haystack = [
       p.name,
       p.brand,
       p.description,
       ...p.tags,
-      c.name,
-      c.legalName,
+      ...productCompanies.flatMap((company) => [company.name, company.legalName]),
     ]
       .join(" ")
       .normalize("NFKC")
@@ -161,7 +199,7 @@ export function selectProducts(data, filters, savedIds = []) {
       (filters.origin !== "china" || getBrandOrigin(p, c) === "china") &&
       words.every((w) => haystack.includes(w)) &&
       (filters.evidence === "all" || c.level === filters.evidence) &&
-      (!filters.supply || hasVerifiedChain(c)) &&
+      (!filters.supply || productCompanies.every(hasVerifiedChain)) &&
       (!filters.saved || savedIds.includes(p.id))
     );
   });

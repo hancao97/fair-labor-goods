@@ -8335,6 +8335,33 @@
       },
       "filename": "images/weigang-nanjing-milk950.webp",
       "usage": "Attributed product illustration. Package imagery is not an independent labor-compliance assessment."
+    },
+    {
+      "id": "thermos-fei501wh",
+      "product_name": "FEI-501WH保温杯 · 白色 · 500mL",
+      "official_source_page_url": "https://www.jd.com/jiage/6196df5459dae7f3ed88.html",
+      "product_page_url": "https://item.jd.com/10234247560886.html",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/99800/13/42649/27190/65436b02F3994215d/f4cf92c4e8cfd503.jpg",
+      "content_type": "image/webp",
+      "width": 220,
+      "height": 220,
+      "bytes": 22570,
+      "sha256": "071a0691aebaf11a15080d0f2f5c5a90fb6448f05bfb59dc70674866be79668a",
+      "checkedAt": "2026-09-13",
+      "visually_verified": true,
+      "notes": "同页白色WH 500mL选项配图，图中文字明确FEI-501 WH；已目视核对并完整转存WebP。无裁切、重绘或放大。",
+      "reuse_info": {
+        "rights_holder": "膳魔师及京东商品图片相关权利人",
+        "license": "未发现开放再授权；图片不包含在项目MIT代码授权中，仅用于注明来源的商品资料展示。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 9358,
+        "sha256": "a93d82858a03351479b100431504891c540b792351b9a46f6c3f083b6c1e4bd9"
+      },
+      "filename": "images/thermos-fei501wh.webp",
+      "usage": "Attributed product illustration; product imagery is not a labor-compliance assessment."
     }
   ]
 }
