@@ -1,5 +1,26 @@
 import assert from "node:assert/strict";
 
+const governmentHost = (url) => new URL(url).hostname.endsWith(".gov.cn");
+
+// Public institutions also publish on other domains. Keep a checked government
+// reference to the publisher and exact hosts instead of trusting a site label.
+export function validateGovernmentPublicationSource(source, sources, reviewedAt = source.checkedAt) {
+  if (governmentHost(source.url) && !source.publisherVerificationSourceId) return;
+  const id = source.publisherVerificationSourceId;
+  assert(typeof id === "string" && id.trim() && id !== source.id,
+    "An external government publication needs a separate publisher verification source");
+  const verification = sources.find((record) => record.id === id);
+  assert(verification, `Missing publisher verification source ${id}`);
+  assert.equal(verification.type, "发布机构核验");
+  assert(governmentHost(verification.url), "Publisher verification needs an official government reference");
+  assert(Array.isArray(verification.verifiedPublicationHosts) &&
+    verification.verifiedPublicationHosts.includes(new URL(source.url).hostname),
+  "The government reference must identify this publication host");
+  assert(verification.checkedAt && verification.checkedAt <= reviewedAt &&
+    (!verification.publishedAt || verification.publishedAt <= reviewedAt),
+  "Publisher verification cannot postdate the recorded review");
+}
+
 // Validate the provenance of a recorded conclusion, in addition to the coverage
 // and factory checks used by the catalog. A self-report is not an audit record.
 export function validateLaborEvidenceSources(assessment, sources) {
@@ -17,7 +38,7 @@ export function validateLaborEvidenceSources(assessment, sources) {
   if (assessment.kind === "government-labor-rating") {
     assert.equal(source.type, "政府评价");
     assert(source.publishedAt, "Government ratings need a publication date");
-    assert(new URL(source.url).hostname.endsWith(".gov.cn"));
+    validateGovernmentPublicationSource(source, sources, assessment.reviewedAt);
     return;
   }
   if (assessment.kind === "employer-labor-disclosure") {
@@ -33,7 +54,7 @@ export function validateLaborEvidenceSources(assessment, sources) {
   const verification = find(assessment.verificationSourceId);
   for (const record of [source, verification]) {
     assert(types.includes(record.type), "A policy, logo or recruiting claim is not a verified labor result");
-    if (government) assert(new URL(record.url).hostname.endsWith(".gov.cn"));
+    if (government) validateGovernmentPublicationSource(record, sources, assessment.reviewedAt);
   }
   assessment.basisSourceIds.forEach(find);
 }

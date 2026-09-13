@@ -35,6 +35,8 @@ export interface Source {
   locator: string;
   summary: string;
   limitation: string;
+  publisherVerificationSourceId?: string;
+  verifiedPublicationHosts?: string[];
 }
 export interface SupplyStage {
   stage: string;

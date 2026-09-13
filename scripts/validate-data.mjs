@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { readFile, access } from "node:fs/promises";
 import { getLaborAssessment, hasSupportingLaborEvidence, hasValidLaborAssessmentDates, laborTopics, selectAdmittedProducts } from "../src/catalog.mjs";
-import { validateLaborEvidenceSources } from "./labor-evidence-sources.mjs";
+import { validateGovernmentPublicationSource, validateLaborEvidenceSources } from "./labor-evidence-sources.mjs";
 
 const data = JSON.parse(
   await readFile(new URL("../public/data/catalog.json", import.meta.url)),
@@ -55,6 +55,21 @@ for (const s of data.sources) {
     assert(s.publishedAt <= s.checkedAt, "Publication cannot be in the future");
   }
   assert(s.checkedAt <= data.updatedAt);
+  if (s.verifiedPublicationHosts !== undefined) {
+    assert.equal(s.type, "发布机构核验");
+    assert(new URL(s.url).hostname.endsWith(".gov.cn"));
+    assert(Array.isArray(s.verifiedPublicationHosts) && s.verifiedPublicationHosts.length > 0);
+    assert.equal(new Set(s.verifiedPublicationHosts).size, s.verifiedPublicationHosts.length);
+    for (const host of s.verifiedPublicationHosts) {
+      text(host, `${s.id}.verifiedPublicationHosts`);
+      assert.equal(new URL(`https://${host}`).host, host, "Use an exact publication host without wildcards or paths");
+      assert(!host.includes("*") && !host.includes(":"));
+    }
+  }
+  if (s.publisherVerificationSourceId !== undefined) {
+    refs([s.publisherVerificationSourceId]);
+    validateGovernmentPublicationSource(s, data.sources);
+  }
 }
 for (const c of data.companies) {
   assert(["china", "international", "unconfirmed"].includes(c.origin));

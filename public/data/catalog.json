@@ -8075,6 +8075,130 @@
       "locator": "《关于2024年7-9月作出的建设项目环境影响评价文件审批决定的公告》第8项，江开环审〔2024〕74号",
       "summary": "2024-07-12审批记录列开平威镫电器有限公司年产30万个铝管蒸发器改建项目，建设地点为江门市开平市水口镇金山东大道52号2座。用于补充同一制造企业的境内地点。",
       "limitation": "已读取政府原页公开索引的表头及完整第8项。审批日与公告日分别保留；该项目是蒸发器改建，不用它单独证明整机型号、实际产量、劳动排班或工人国籍。"
+    },
+    {
+      "id": "jiangsu-public-platform-government-directory2026",
+      "title": "第一批国家中小企业公共服务示范平台创建对象名单：江苏平台与运营主体",
+      "publisher": "湖南省人民政府网站公开的工信部名单附件",
+      "type": "发布机构核验",
+      "url": "https://www.hunan.gov.cn/zqt/zcsd/202604/33966527/files/7b6359cd3d05403a95464c665780688b.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "PDF第1页第8行：江苏省中小企业公共服务平台、江苏省中小企业发展中心、https://www.smejs.cn/",
+      "summary": "政府公开附件把江苏平台、运营主体和www.smejs.cn网址对应。已读公开索引全文及表头，作为该网址发布机构身份的核验依据。",
+      "limitation": "平台身份核验不等于其每一份转载都已核对，也不是任何商品的劳动结果。该行只直接列www.smejs.cn，不自动放行其他子域、商业转载或相似域名；准确发布日期未取得。",
+      "verifiedPublicationHosts": [
+        "www.smejs.cn"
+      ]
+    },
+    {
+      "id": "jiangsu-public-platform-operator2024",
+      "title": "全国中小企业服务一张网地方行首站：江苏平台建设运营情况",
+      "publisher": "江苏省工业和信息化厅",
+      "type": "发布平台背景",
+      "url": "https://gxt.jiangsu.gov.cn/art/2024/12/24/art_6301_11454743.html",
+      "publishedAt": "2024-12-24",
+      "checkedAt": "2026-09-13",
+      "locator": "正文关于省工信厅指导、省中小企业发展中心建设平台的两段",
+      "summary": "省工信厅原页明确其指导江苏省中小企业发展中心建设中小企业公共服务平台，包含政策服务模块；与网址名录交叉核对运营身份。",
+      "limitation": "这份平台工作报道没有评价华绿或其他生产企业的劳动情况。"
+    },
+    {
+      "id": "jiangsu-public-platform-about",
+      "title": "江苏省中小企业公共服务平台主管与运营信息",
+      "publisher": "江苏省中小企业发展中心／江苏省新技术发展中心",
+      "type": "发布平台信息",
+      "url": "https://www.smejs.cn/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "官网页尾主管单位、版权单位；与政府网址名录第8行交叉核对",
+      "summary": "首页列主管单位江苏省工业和信息化厅，版权单位为江苏省中小企业发展中心／江苏省新技术发展中心。政府名录已对应此首页的准确域名。",
+      "limitation": "首页身份说明不能替代某一劳动结果的原文、具名企业和适用范围；未因官方平台身份将所有转载自动升级为合规结论。",
+      "publisherVerificationSourceId": "jiangsu-public-platform-government-directory2026"
+    },
+    {
+      "id": "jiangsu-harmony2021-list-copy",
+      "title": "2021年江苏省优秀劳动关系和谐企业名单附件：华绿生物",
+      "publisher": "江苏省中小企业公共服务平台保存的省级名单附件",
+      "type": "劳动评价名单附件",
+      "url": "https://file.smejs.cn/group1/M00/01/6E/rBIAAWG7AbaAQa5IAAPeiV6LCVM871.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "10页PDF第9页宿迁部分：江苏华绿生物科技股份有限公司",
+      "summary": "已下载原始PDF、提取全文并查看目标页，2021年名单明确列江苏华绿生物科技股份有限公司。平台运营身份另有政府资料对应。",
+      "limitation": "该文件是名单附件，尚未取得准确对应的发布正文、发文日期及该批次通知。保留2021年份，不把下载日或其他企业的评价当成华绿的新结果；名单内关联企业分别核对。"
+    },
+    {
+      "id": "hualv-rename-completed2024",
+      "title": "华绿生物关于完成公司名称变更并换发营业执照的公告",
+      "publisher": "江苏华绿生物科技集团股份有限公司",
+      "type": "企业法定披露",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202408081639198105_1.pdf",
+      "publishedAt": "2024-08-08",
+      "checkedAt": "2026-09-13",
+      "locator": "公告2024-040，第1页基本情况及换发营业执照信息",
+      "summary": "公告明确原江苏华绿生物科技股份有限公司已完成更名为江苏华绿生物科技集团股份有限公司，统一社会信用代码91321300557081397F，住所泗阳县绿都大道88号。",
+      "limitation": "依据已完成登记公告，区别于2024-07-18董事会的拟更名议案。仅说明同一法人名称延续，不把江苏评价借给河南、重庆等其他法人。"
+    },
+    {
+      "id": "hualv-golden-mushroom2kg-yantai2025",
+      "title": "2025年烟台食品安全监督抽检产品信息表11：华绿金针菇2kg/袋",
+      "publisher": "烟台市人民政府网站公开的食品抽检附件",
+      "type": "监管抽检",
+      "url": "https://www.yantai.gov.cn/module/download/downfile.jsp?classid=0&filename=2ace3b8860a546e69997dc70d7207b28.pdf&showname=2025%E5%B9%B4%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E6%8A%BD%E6%A3%80%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E8%A1%A8-11.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "政府公开索引第293项：金针菇2kg/袋，生产日期2025-08-07",
+      "summary": "目标行将2kg袋装金针菇与江苏华绿生物科技集团股份有限公司、宿迁市泗阳县绿都大道88号对应。更名公告可把当前生产者和2021名单中的历史名称连接。",
+      "limitation": "直接PDF请求403后停止，依据公开索引的完整目标行，未称下载或目视查看此表。抽检不是劳动评价，也不证明当前个人购买入口；不把河南250g或重庆菌菇替换为江苏产品。"
+    },
+    {
+      "id": "hualv-official-products",
+      "title": "华绿生物主营产品",
+      "publisher": "江苏华绿生物科技集团股份有限公司",
+      "type": "企业产品介绍",
+      "url": "https://m.hualvbio.com/col.jsp?id=127",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "主营产品文字、产品名称与页尾公司全名",
+      "summary": "官网介绍金针菇、舞茸、鹿茸菇、白玉菇和蟹味菇等业务，可用于继续查找该企业的生鲜商品。",
+      "limitation": "本页未给出所选2kg江苏商品的个人零售入口和包装制造标签；集团多地生产，不能把所有菌菇默认归给江苏法人。"
+    },
+    {
+      "id": "asiasymbol-guangdong-customs-credit2023",
+      "title": "新会信用红榜：亚太森博广东的海关高级认证",
+      "publisher": "江门市新会区人民政府／信用江门",
+      "type": "海关信用记录",
+      "url": "https://www.xinhui.gov.cn/zwgk/ztzl/xyw/hb8/content/post_2851770.html",
+      "publishedAt": "2023-05-05",
+      "checkedAt": "2026-09-13",
+      "locator": "正文海关注册编码、信用等级和数据更新日期表",
+      "summary": "信用红榜原页具名亚太森博（广东）纸业有限公司，表格列海关注册编码及高级认证。已核清它不是劳动保障守法评级。",
+      "limitation": "海关信用不替代生产企业劳动合规依据；不因网页处于政府信用红榜便将高品乐升级收录。"
+    },
+    {
+      "id": "asiasymbol-guangdong-hiring-credit-label",
+      "title": "亚太森博广东招聘页的劳动保障诚信标签",
+      "publisher": "智联招聘",
+      "type": "招聘平台信用标签",
+      "url": "https://www.zhaopin.com/companydetail/CZ132180450.htm?refcode=4020",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "具名公司页的智联与芝麻企业信用标签区",
+      "summary": "页面出现劳动保障诚信A级标签，为查询政府具名原始结果提供线索；同页也列海关、纳税及其他不同信用标签。",
+      "limitation": "标签没有给出劳动评价年度、认定决定或可核对原件，不能将平台综合信用标签当作完整劳动评级原件。"
+    },
+    {
+      "id": "tianbao5l-yuegou-contract-copy2026",
+      "title": "天宝一级葵花籽油5L近期采购记录转载",
+      "publisher": "乙方宝转载的网上超市合同公告",
+      "type": "采购记录转载",
+      "url": "https://www.yfbzb.com/winbid/detail/20260910_630018405.html",
+      "publishedAt": "2026-09-10",
+      "checkedAt": "2026-09-13",
+      "locator": "公开可读供应商名称与第31项商品行；其余部分内容被平台隐藏",
+      "summary": "公开部分列供应商沙湾市悦购百货超市，天宝一级葵花籽油5L、4桶、单价60元，提供了具体规格近期流通的新线索。",
+      "limitation": "只读取公开内容，未登录或绕过隐藏字段；尚未取得采购方原始公告、合同及该店个人购买入口。采购报价不是当前个人零售价，未据此升级销售检查。"
     }
   ],
   "companies": [
@@ -14735,7 +14859,8 @@
         "shawan-labor-2024",
         "tianbao-sunflower5-xinjiang2021",
         "tianbao-sunflower5-guangzhou2025-index",
-        "law-labor-rating"
+        "law-labor-rating",
+        "tianbao5l-yuegou-contract-copy2026"
       ],
       "supply": [
         {
@@ -14766,7 +14891,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "补充同规格个人购买入口、当前包装制造主体和更新劳动评价；保留受评主体及年度，关注相反证据。",
+      "nextCheck": "优先核对2026-09-10沙湾市悦购百货超市5L天宝葵花籽油采购记录的原始公告与个人购买方式；不重复仅含天宝字样的无关油品搜索。保留本油脂分公司2024年度劳动结果并关注更新。",
       "assessments": [
         {
           "subject": "新疆瑞隆农业发展有限公司油脂分公司",
@@ -14877,14 +15002,17 @@
       "caveats": [
         "企业产品说明和质量抽检均不证明劳动合规。",
         "未读取新会2025年度名单条目，不因当地A级企业总数或招聘平台标签推定该厂A级。",
-        "集团存在不同生产基地；本档案只记录已对应的广东制造法人。"
+        "集团存在不同生产基地；本档案只记录已对应的广东制造法人。",
+        "招聘平台虽有劳动诚信A级标签，但未列年度和原始决定；2023年政府信用红榜实际是海关高级认证，未误作劳动评价。"
       ],
       "sourceIds": [
         "asiasymbol-guangdong-company",
         "gaopinle-classic-product-sheet",
         "gaopinle70g-suzhou2024",
         "gaopinle70g5-jd",
-        "xinhui-labor2025-notice"
+        "xinhui-labor2025-notice",
+        "asiasymbol-guangdong-customs-credit2023",
+        "asiasymbol-guangdong-hiring-credit-label"
       ],
       "supply": [
         {
@@ -14915,7 +15043,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "取得新会2025年度劳动评价的可核实企业条目，核对广东法人的具体等级；同时关注现售包装或生产主体变化。",
+      "nextCheck": "取得劳动诚信标签对应的具名政府结果或新的适用独立审核后继续。2025年新会名单附件访问受限，暂停重复同一路径；海关、纳税、统计信用不替代劳动依据。",
       "assessments": []
     },
     {
@@ -18381,6 +18509,68 @@
         }
       ],
       "nextCheck": "2026-10-13前复查该法人更新的劳动结果及适用的相反事实；出现制造商、型号或销售渠道变更时按新资料核对。"
+    },
+    {
+      "id": "hualv-jiangsu",
+      "name": "华绿生物·江苏生产企业",
+      "legalName": "江苏华绿生物科技集团股份有限公司",
+      "location": "江苏宿迁泗阳县绿都大道88号",
+      "origin": "china",
+      "originNote": "江苏境内成立的食用菌企业，2024年完成同一法人更名；不把境内生产等同每位工人的国籍证明。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "有2021省级名单线索",
+      "restLabel": "该批评价原文继续核对",
+      "cardNote": "2021名单具名 · 菌菇购买入口待补",
+      "scope": "限江苏法人及政府抽检列明的2kg袋装金针菇，不扩展到华绿河南或重庆生产企业。",
+      "finding": "2021年省级劳动关系名单附件具名原公司，更名完成公告与2025年2kg金针菇制造记录已连接。尚缺名单对应发布正文及该规格个人购买入口，本档案暂不产生正式商品。",
+      "caveats": [
+        "名单附件准确发布日期未取得，不把2026年查阅日写成新的劳动结果。",
+        "江苏2kg袋装制造记录不对应河南250g袋装或零售缓存中的200g盒装。",
+        "此前京东索引有200g×4盒条目，本次原始列表已未出现华绿；未找到可继续对应的准确商品号，暂停重复同款检索。",
+        "资料缺口不表示企业违法；集团介绍与江苏主体的劳动评价不得覆盖其他法人。"
+      ],
+      "sourceIds": [
+        "jiangsu-harmony2021-list-copy",
+        "jiangsu-public-platform-government-directory2026",
+        "jiangsu-public-platform-operator2024",
+        "jiangsu-public-platform-about",
+        "hualv-rename-completed2024",
+        "hualv-golden-mushroom2kg-yantai2025",
+        "hualv-official-products",
+        "jiangsu-harmony-standard2019"
+      ],
+      "supply": [
+        {
+          "stage": "主体与更名",
+          "status": "policy",
+          "detail": "2024-040公告明确同一法人已完成更名，住所及统一社会信用代码可对应。",
+          "sourceIds": [
+            "hualv-rename-completed2024"
+          ]
+        },
+        {
+          "stage": "具体江苏制造",
+          "status": "policy",
+          "detail": "2025年政府抽检公开索引列同法人2kg袋装金针菇及江苏厂址。",
+          "sourceIds": [
+            "hualv-golden-mushroom2kg-yantai2025"
+          ]
+        },
+        {
+          "stage": "劳动结果与零售对应",
+          "status": "unknown",
+          "detail": "2021名单附件有具名结果；发布正文和该规格个人购买入口尚待补。",
+          "sourceIds": [
+            "jiangsu-harmony2021-list-copy",
+            "hualv-official-products"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得2021名单的正式发布正文，或江苏2kg袋装商品的准确零售链接与标签时继续；暂停重复200g盒装、河南或重庆产品的无新线索检索。"
     }
   ],
   "products": [
@@ -27061,9 +27251,10 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "已有历史零售抽样记录，同规格5L商品当前可供个人购买的渠道仍待补；不将未列容量的机构采购记录直接当作现售商品。",
+          "detail": "新增2026-09-10同规格采购转载，具名沙湾悦购百货超市；尚未取得原始合同和该店个人购买入口，销售仍待核。采购单价不作为当前个人报价。",
           "sourceIds": [
-            "tianbao-sunflower5-guangzhou2025-index"
+            "tianbao-sunflower5-guangzhou2025-index",
+            "tianbao5l-yuegou-contract-copy2026"
           ]
         },
         "chinaProduction": {

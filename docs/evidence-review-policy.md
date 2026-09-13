@@ -21,6 +21,8 @@
 
 ## 数据怎样记录
 
+政府发布机构可能使用非`.gov.cn`域名。来源可通过`publisherVerificationSourceId`引用单独的政府发布机构核验记录，核验记录的`verifiedPublicationHosts`列出已由官方资料对应的准确主机名。网址归属核验不代替劳动结果，未核对子域、相似域名和企业自证不能通过。实际例子与本次边界见[发布机构核验复核](official-publications-and-candidate-review.md)。
+
 沿用企业的`assessments`和商品的`productionLabor.assessmentSourceId`，保留原有政府A级资料。
 
 - `government-labor-rating`：政府劳动守法评级，保留`grade`。
