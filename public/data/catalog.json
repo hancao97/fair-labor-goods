@@ -7892,9 +7892,9 @@
       "url": "https://file.m12333.cn/upfile/download/ec66c49c-7378-3144-584e-1aa7fb5cc97a.pdf",
       "publishedAt": null,
       "checkedAt": "2026-09-13",
-      "locator": "11页PDF第7页，淮安名单首行及同行其他获评企业",
-      "summary": "附件标题为江苏省优秀劳动关系和谐企业名单，第7页明确列膳魔师（江苏）家庭制品有限公司，及官方颁牌报道中的丰瑞、美多美、淮安公交等企业。已直接读取PDF并目视核对第7页。",
-      "limitation": "第三方托管副本，没有可据此确定的正式发布日期；不能冒充政府原站文件，也不是拟认定名单。膳魔师结果以淮安市人社局具名颁牌报道为独立核验依据。"
+      "locator": "11页PDF第7页淮安名单、第8页扬州名单；两页均已目视核对",
+      "summary": "附件标题为江苏省优秀劳动关系和谐企业名单。第7页列膳魔师江苏及官方颁牌报道中的丰瑞、美多美、淮安公交等企业；本次复用已保存PDF，核对第8页另列高露洁三笑有限公司及扬州三和四美酱菜有限公司。",
+      "limitation": "第三方托管副本，文件没有可直接确定的正式发布日期；不能冒充政府原站文件，也不是拟认定名单。膳魔师结果另有淮安市人社局具名颁牌报道核验，高露洁三笑的最终发布原件尚未取得，不能互借其他企业的核验结果。"
     },
     {
       "id": "thermos-tclf720s-official",
@@ -8691,6 +8691,30 @@
       "locator": "正文第1—3点；账号岗位标签为硬件产品经理",
       "summary": "作者描述弹性上下班、办公室约18:30已较少有人、双休及带薪休假等体验，作为继续调查联想用工的线索。",
       "limitation": "正文由公开索引读取，普通HTTP只取得页面框架。作者身份未独立核实，未具名劳动合同法人、地点或生产工厂；不代表联宝等工厂待遇，也不据上下班时刻推算实际周工时。"
+    },
+    {
+      "id": "colgate-sanxiao-supplychain-feedback2022",
+      "title": "高露洁三笑供应链管培生的2022年工作体验",
+      "publisher": "职朋职业圈匿名投稿者",
+      "type": "员工自述",
+      "url": "https://www.job592.com/pay/comxc287174.html",
+      "publishedAt": "2022-11-02",
+      "checkedAt": "2026-09-13",
+      "locator": "公司工资待遇页中“供应链管培生工资待遇（扬州，2022年）”条目；该条标注2022-11-02",
+      "summary": "投稿者介绍扬州供应链管培岗位，称通常按时下班、周末偶有加班，并列有五项社会保险和住房公积金。",
+      "limitation": "本次读取公开索引中的具名公司、岗位、经历年份及投稿日，直接连接超时。身份未经独立核实，未披露具体车间、合同及加班报酬；不代表全厂。页面2025年更新时间、招聘报价与跨年份统计均不用于更新这条2022年经历。"
+    },
+    {
+      "id": "colgate-asia-pacific-china-factory",
+      "title": "高露洁官方亚太招聘介绍中的中国三笑牙刷厂",
+      "publisher": "高露洁棕榄",
+      "type": "企业招聘与工厂介绍",
+      "url": "https://jobs.colgate.com/content/Location---Asia-Pacific/?locale=zh_CN",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "“亚太地区”“您知道吗”中的中国三笑牙刷生产基地；“地区快讯”另列黄埔与天河",
+      "summary": "官方招聘网站介绍中国三笑牙刷生产基地，可用于确认中国境内牙刷制造方向。",
+      "limitation": "未标明正文发布日期或具体零售型号、生产批次。页面羽毛球活动和家庭日涉及黄埔工厂及天河办公室，不能移给扬州工厂；企业介绍不是独立劳动评价。"
     }
   ],
   "companies": [
@@ -19635,6 +19659,71 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "收到中央厨房近期一线员工经历、具名制造者劳动资料或现售包装和渠道时继续核对；本次无法访问的飞书资料不重复请求。"
+    },
+    {
+      "id": "colgate-sanxiao",
+      "name": "高露洁三笑·扬州牙刷工厂",
+      "legalName": "高露洁三笑有限公司",
+      "location": "江苏扬州；员工自述地点为扬州",
+      "origin": "international",
+      "originNote": "按高露洁国际品牌背景归类；本档案研究中国境内的扬州制造企业，品牌起源不代表商品产地。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "管培生自述通常准时下班",
+      "restLabel": "管培生自述周末偶有加班",
+      "cardNote": "2022员工经历 · 牙刷工厂候选",
+      "scope": "高露洁三笑有限公司的扬州供应链管培生经历及牙刷制造方向；尚未对应具体零售商品。",
+      "finding": "员工自述提供工作安排和五险一金线索；官方介绍确认中国三笑牙刷厂，省级最终名单副本也列同名企业。现已建立工厂候选档案，劳动结果的最终发布出处和具体商品制造对应仍待补齐。",
+      "caveats": [
+        "员工经历发生于2022年，岗位为供应链管培生；不等于2026年全体生产操作工的待遇，也未说明具体加班报酬。",
+        "江苏省最终名单副本列有该企业，拟认定附件亦有同名记录；尚未取得可核对的最终发布原件，不把拟认定当作已完成评价。",
+        "高露洁三笑、江苏三笑集团与高露洁棕榄（中国）是不同主体；不能把名称相近或同品牌商品全部归入本工厂。",
+        "现有国内牙刷零售线索尚未对应本厂具体型号；本档案没有新增正式商品。"
+      ],
+      "sourceIds": [
+        "colgate-sanxiao-supplychain-feedback2022",
+        "colgate-asia-pacific-china-factory",
+        "jiangsu-harmony-final-list-copy2023"
+      ],
+      "employeeFeedback": [
+        {
+          "sourceId": "colgate-sanxiao-supplychain-feedback2022",
+          "kind": "firsthand",
+          "period": "2022年工作体验；2022-11-02发布，完整任职起止日未公开",
+          "roleScope": "高露洁三笑有限公司，扬州供应链管培生；具体车间未公开",
+          "summary": "自述通常按时下班、周末偶有加班，并有五项社会保险和住房公积金。",
+          "limitation": "匿名投稿，身份未经独立核实；本次读取公开索引。未披露合同、加班报酬和车间安排，不能扩展到全部生产工人或2026年用工。"
+        }
+      ],
+      "supply": [
+        {
+          "stage": "中国牙刷生产基地",
+          "status": "policy",
+          "detail": "官方亚太招聘网站介绍中国三笑牙刷工厂；具体国内零售型号仍需制造资料对应。",
+          "sourceIds": [
+            "colgate-asia-pacific-china-factory"
+          ]
+        },
+        {
+          "stage": "扬州岗位劳动",
+          "status": "unknown",
+          "detail": "2022年供应链管培生提供个人经历；省级最终名单副本列同名企业，最终发布出处尚待核对。",
+          "sourceIds": [
+            "colgate-sanxiao-supplychain-feedback2022",
+            "jiangsu-harmony-final-list-copy2023"
+          ]
+        },
+        {
+          "stage": "商品销售与其他生产环节",
+          "status": "unknown",
+          "detail": "尚未将具体零售牙刷对应至该制造法人；同品牌其他工厂分别核对。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "优先补该企业的最终劳动结果原件、近期具名生产岗位经历及牙刷制造标签。取得明确的新资料后继续；不重复已超时或受限的旧页面，也不要求零加班或固定双休。"
     }
   ],
   "products": [
