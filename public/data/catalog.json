@@ -9615,6 +9615,138 @@
       "locator": "成交供应商表及标的表第12行；本次读取公开正文",
       "summary": "成交供应商为新疆晟丰商贸有限公司；第12行列天宝一级葵花籽油1件、成交单价68元，但没有列容量。与政府门店资料对应到靖盛生活超市，形成新的零售核对方向。",
       "limitation": "部分合同信息被转载平台遮蔽，未访问会员内容。没有5L容量，不能借用其他供应商的5L记录补全；68元为该次采购单价，不是当前个人报价。"
+    },
+    {
+      "id": "panasonic-papcn-official",
+      "title": "松下家电中国：杭州厨卫制造企业",
+      "publisher": "松下中国",
+      "type": "制造商资料",
+      "url": "https://panasonic.cn/about/panasonic-china/papcn/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "基本状况、联络方式及公司情况介绍；读取公开正文",
+      "summary": "官网明确松下家电（中国）有限公司位于杭州钱塘区松乔街2号，原名松下电化住宅设备机器（杭州）有限公司，2017年更名；制造电子坐便盖、吸尘器和洗碗机等，并在大陆销售。",
+      "limitation": "企业介绍用于主体、业务和厂址对应；质量、环境及职业健康安全体系认证不等同于工资、工时、社保等综合劳动审核。"
+    },
+    {
+      "id": "panasonic-papwmhz-official",
+      "title": "杭州松下家用电器：洗衣机制造企业",
+      "publisher": "松下中国",
+      "type": "制造商资料",
+      "url": "https://panasonic.cn/about/panasonic-china/papwmhz/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "基本状况、联络方式及主营业务；公开网页",
+      "summary": "具名杭州松下家用电器有限公司，地址钱塘区白杨街道松乔街6号，制造和销售洗衣机、干衣机、洗碗机及部件。",
+      "limitation": "与松乔街2号的松下家电（中国）有限公司属于不同法人；业务介绍和管理体系认证不替代劳动履行依据。"
+    },
+    {
+      "id": "panasonic-papcn-worker-interview2022",
+      "title": "钱塘工资集体协商：松下生产线员工采访",
+      "publisher": "杭州日报（杭州网刊载）",
+      "type": "媒体员工采访",
+      "url": "https://hznews.hangzhou.com.cn/chengshi/content/2022-11/22/content_8405754.htm",
+      "publishedAt": "2022-11-22",
+      "checkedAt": "2026-09-13",
+      "locator": "“大家的工资，大家商量着来”段；本次通过普通HTTP读取正文",
+      "summary": "松下家电中国电子坐便盖生产线系长黄宏强谈到职工选代表、提出意见和参与集体协商；兼任工会主席与总务负责人的余国强介绍2022年平均调薪增资率5.1%及体检项目调整。",
+      "limitation": "同一报道同时包含生产线员工和管理者陈述，不计作两份独立员工资料；采访发生于2022年，未披露完整加班时数、加班工资计算和社保缴纳情况。"
+    },
+    {
+      "id": "panasonic-papwmhz-worker-job592",
+      "title": "杭州松下采购与现场品质岗位的加班经历",
+      "publisher": "职朋",
+      "type": "员工本人陈述",
+      "url": "https://www.job592.com/pay/wd/bu8ucz31sz.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "工作节奏问答中“杭州松下家用电器”两则记录；读取平台公开索引正文",
+      "summary": "2024-07-15发布的2024年业务助理/采购员经历称较少周末加班、有加班工资；2022-04-07发布的2020年现场品质管理经历提到晚间值班、周六出勤和加班费。",
+      "limitation": "平台身份未经独立核实，企业名为简称，签约主体和班组未公开；两条记录归于同一来源。北京企划、广州空调等相邻回答不计入此杭州企业。直接HTTP请求超时。"
+    },
+    {
+      "id": "panasonic-group-employee-policy",
+      "title": "中国松下员工权益与安全管理政策",
+      "publisher": "松下中国",
+      "type": "企业制度自述",
+      "url": "https://panasonic.cn/about/csr/employee/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "保障员工权益、成就事业梦想、守护员工健康栏目",
+      "summary": "集团公开说明平等雇佣、禁止童工和强制劳动、员工沟通及在华企业安全卫生管理安排。",
+      "limitation": "这是集团层面的企业自述，发布日期未公开，不能单独证明任一杭州制造企业当前工资、工时、休假及社保的实际履行。"
+    },
+    {
+      "id": "panasonic-dl5225-official",
+      "title": "松下DL-5225CWS电子坐便盖",
+      "publisher": "松下建筑电气",
+      "type": "官方商品资料",
+      "url": "https://pro.panasonic.cn/panasonicLight/hproduct/templeType/1294",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "型号与功能说明",
+      "summary": "官方页面列出DL-5225CWS电子坐便盖，具备快速加热、脉冲水流、暖风吹拂和便圈加温功能。",
+      "limitation": "型号资料不等于当前库存；本款为坐便盖，不包含陶瓷坐便器，需核对自家坐便器的安装适配。"
+    },
+    {
+      "id": "panasonic-dl5225-manual",
+      "title": "DL-5225CWS安装说明书与杭州原产地",
+      "publisher": "松下家电（中国）有限公司",
+      "type": "官方产品说明书",
+      "url": "https://home.panasonic.cn/support/attachments/auld/manual/DL-5225CWS.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "2020年7月发行，DL949A-FTCP3；PDF第1页型号、第12页封底；下载原PDF并逐页查看这两页",
+      "summary": "封面确认DL-5225CWS；封底列松下家电（中国）有限公司、杭州松乔街2号及原产地中国杭州。",
+      "limitation": "说明书是2020年版本，没有编造具体发行日；与2025年具名抽查和当前官网交叉对应制造企业，不作劳动合规或全部安装条件的证明。"
+    },
+    {
+      "id": "panasonic-dl5225-sqi2025",
+      "title": "上海2025年智能坐便器抽查：DL-5225CWS生产者",
+      "publisher": "上海市质量监督检验技术研究院",
+      "type": "产品抽查资料",
+      "url": "https://www.sqi.com.cn/SQI_Web_new/SQI_Introduction_Details.aspx?ColumnGuid=sqiweb_QualityDynamics&NGUID=2ec42b011f61430b8560e1a11f7a8306",
+      "publishedAt": "2025-08-08",
+      "checkedAt": "2026-09-13",
+      "locator": "抽查结果表第5条，电子坐便盖DL-5225CWS；读取公开网页",
+      "summary": "记录标称生产者为松下家电（中国）有限公司、被抽样销售者为上海曲悦家居建材有限公司，样品生产日期未标注。",
+      "limitation": "抽查用于型号与生产者对应；产品质量结论不能作为劳动证据，销售者也不是制造工人的雇主。"
+    },
+    {
+      "id": "panasonic-dl5225-jd",
+      "title": "京东DL-5225CWS具名商品入口",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/9855e0961443987c8d66.html?electedExtAttrSet=3237%2C&extAttrValue=expand_name%2C%40103750%3A%3A3237&sort_type=sort_default",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "本次读取京东目录原HTML，完整型号条目的链接指向商品10109793830846",
+      "summary": "列出DL-5225CWS即热、暖风款，并提供该选项独立商品链接，可与品牌同型号页面对应。",
+      "limitation": "购买渠道依据为京东具名目录及链接；商品详情直接读取受限，价格、配送与供货以实际页面为准，不将EH25、PQTK25等相邻规格混入。"
+    },
+    {
+      "id": "panasonic-e176-shandong2024-copy",
+      "title": "山东2024年洗衣机抽查：XQG100-E176生产者",
+      "publisher": "中国质量新闻网（新浪财经转载）",
+      "type": "产品抽查转载",
+      "url": "https://finance.sina.com.cn/jjxw/2025-02-06/doc-ineiptny1547114.shtml",
+      "publishedAt": "2025-02-06",
+      "checkedAt": "2026-09-13",
+      "locator": "2024年第4批抽查表第26行；公开网页正文",
+      "summary": "XQG100-E176全自动滚筒洗衣机标称生产企业为杭州松下家用电器有限公司，抽样销售企业为烟台三联家电有限公司。",
+      "limitation": "本次取得具名转载，未找到监管机关原始页面；样品生产日期未列。结合厂家业务与厂址资料作制造对应，产品抽查不属于劳动评价。"
+    },
+    {
+      "id": "panasonic-e176-jd",
+      "title": "京东XQG100-E176 10公斤洗衣机入口",
+      "publisher": "京东",
+      "type": "零售商品资料",
+      "url": "https://www.jd.com/jiage/73733e7716157cd197e.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "本次读取目录原HTML；完整型号条目链接至商品10102415803945",
+      "summary": "列出松下XQG100-E176 10公斤全自动滚筒洗衣机，与E17F、EG176及烘干机套装分别展示。",
+      "limitation": "依据独立具名条目对应国内购买渠道，未核实即时价格和各地配送；不把同页E17F或洗烘套装当作本款。"
     }
   ],
   "companies": [
@@ -21479,6 +21611,136 @@
           "limitation": "保留山东法人的具名正式记录；未用其支持未对应制造厂的复印纸，也不转授广西或生活用纸子公司。"
         }
       ]
+    },
+    {
+      "id": "panasonic-papcn-hangzhou",
+      "name": "松下·杭州厨卫制造",
+      "legalName": "松下家电（中国）有限公司",
+      "location": "浙江省杭州市钱塘区白杨街道松乔街2号",
+      "origin": "international",
+      "originNote": "松下为日本起源品牌，本档案关注具名杭州境内制造企业；品牌背景与生产地分别核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "员工经历按岗位记录",
+      "restLabel": "具体工时休假待核",
+      "cardNote": "杭州制造企业·已有员工资料",
+      "scope": "限本法人及具名岗位线索，不扩展到同品牌其他企业。",
+      "finding": "从生产线员工采访出发，已将DL-5225CWS对应杭州制造和国内购买渠道。工资协商提供正面线索，尚不能单凭这一篇采访确定当前综合劳动合规。",
+      "caveats": [
+        "松乔街2号厨卫企业与6号洗衣机企业是不同法人，员工经历和劳动依据不能相互借用。",
+        "采访距今较早，未给完整工时与加班工资计算；集团制度自述没有替代本厂实际履行。",
+        "2017年曾用名关系由官网确认；此次没有找到可核对的具名综合劳动结果，未据此判断企业违法。"
+      ],
+      "sourceIds": [
+        "panasonic-papcn-official",
+        "panasonic-papcn-worker-interview2022",
+        "panasonic-group-employee-policy"
+      ],
+      "supply": [
+        {
+          "stage": "员工工作体验",
+          "status": "unknown",
+          "detail": "生产线系长描述员工选举代表、委托协商的过程；工会兼管理负责人介绍工资集体协商及体检改进。",
+          "sourceIds": [
+            "panasonic-papcn-worker-interview2022"
+          ]
+        },
+        {
+          "stage": "中国境内制造",
+          "status": "policy",
+          "detail": "官网对应本法人及杭州厂址，具体产品按型号资料另核。",
+          "sourceIds": [
+            "panasonic-papcn-official"
+          ]
+        },
+        {
+          "stage": "适用劳动依据",
+          "status": "unknown",
+          "detail": "集团政策作为补充；本企业综合劳动履行依据仍待核对。",
+          "sourceIds": [
+            "panasonic-group-employee-policy"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "employeeFeedback": [
+        {
+          "sourceId": "panasonic-papcn-worker-interview2022",
+          "kind": "interview",
+          "period": "2022-11-22采访；黄宏强自述2010年入职",
+          "roleScope": "电子坐便盖4条生产线系长黄宏强；同篇兼有工会主席兼总务负责人余国强的介绍",
+          "summary": "生产线系长描述员工选举代表、委托协商的过程；工会兼管理负责人介绍工资集体协商及体检改进。",
+          "limitation": "2022年同一篇采访，员工与管理者陈述分别标明，不据此推定零加班；完整工时、加班报酬和社保履行尚未公开。"
+        }
+      ],
+      "nextCheck": "优先补近期具名生产岗位的工时、报酬和社保等可核实资料或适用综合劳动结果；有新来源再继续，不重复无结果的泛称评级搜索。已对应同一法人的型号可复用企业调查。"
+    },
+    {
+      "id": "panasonic-papwmhz-hangzhou",
+      "name": "松下·杭州洗衣机制造",
+      "legalName": "杭州松下家用电器有限公司",
+      "location": "浙江省杭州市钱塘区白杨街道松乔街6号",
+      "origin": "international",
+      "originNote": "松下为日本起源品牌，本档案关注具名杭州境内制造企业；品牌背景与生产地分别核对。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "员工经历按岗位记录",
+      "restLabel": "具体工时休假待核",
+      "cardNote": "杭州制造企业·已有员工资料",
+      "scope": "限本法人及具名岗位线索，不扩展到同品牌其他企业。",
+      "finding": "从采购及现场品质岗位经历对应到杭州洗衣机制造企业，并保存XQG100-E176具体型号。劳动判断还需可适用的履行依据，不以单一岗位的较少加班代表所有生产岗位。",
+      "caveats": [
+        "员工使用企业简称，官网法人对应属于结合名称和地点的判断，签约主体未独立核实。",
+        "岗位反馈发生于2020年和2024年，不能把本次查阅日期写成2026年新经历。",
+        "没有核实全部加班时长、报酬计算和社保；未取得综合劳动结果不表示企业违法。"
+      ],
+      "sourceIds": [
+        "panasonic-papwmhz-official",
+        "panasonic-papwmhz-worker-job592",
+        "panasonic-group-employee-policy"
+      ],
+      "supply": [
+        {
+          "stage": "员工工作体验",
+          "status": "unknown",
+          "detail": "采购岗位称较少周末加班并有加班工资；品质岗位提到晚间值班、周六出勤及加班费，保留岗位与年份差异。",
+          "sourceIds": [
+            "panasonic-papwmhz-worker-job592"
+          ]
+        },
+        {
+          "stage": "中国境内制造",
+          "status": "policy",
+          "detail": "官网对应本法人及杭州厂址，具体产品按型号资料另核。",
+          "sourceIds": [
+            "panasonic-papwmhz-official"
+          ]
+        },
+        {
+          "stage": "适用劳动依据",
+          "status": "unknown",
+          "detail": "集团政策作为补充；本企业综合劳动履行依据仍待核对。",
+          "sourceIds": [
+            "panasonic-group-employee-policy"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "employeeFeedback": [
+        {
+          "sourceId": "panasonic-papwmhz-worker-job592",
+          "kind": "firsthand",
+          "period": "2024年采购经历于2024-07-15发布；2020年品质经历于2022-04-07发布",
+          "roleScope": "平台自述杭州松下家用电器的业务助理/采购员、现场品质管理岗位；实际签约主体和班组未核",
+          "summary": "采购岗位称较少周末加班并有加班工资；品质岗位提到晚间值班、周六出勤及加班费，保留岗位与年份差异。",
+          "limitation": "两则本人陈述合并为一个平台来源，身份未独立核实；不能拼成全厂统一安排，也不能仅凭“有加班费”确认法定标准全部落实。"
+        }
+      ],
+      "nextCheck": "优先补近期具名生产岗位的工时、报酬和社保等可核实资料或适用综合劳动结果；有新来源再继续，不重复无结果的泛称评级搜索。已对应同一法人的型号可复用企业调查。"
     }
   ],
   "products": [
@@ -34997,6 +35259,120 @@
           ]
         }
       }
+    },
+    {
+      "id": "panasonic-dl5225cws-seat",
+      "name": "DL-5225CWS电子坐便盖",
+      "brand": "松下 Panasonic",
+      "companyId": "panasonic-papcn-hangzhou",
+      "category": "housing",
+      "description": "家用即热电子坐便盖，具备暖风和便圈加温。仅坐便盖，不含陶瓷坐便器；已对应杭州制造，劳动资料待补。",
+      "tags": [
+        "电子坐便盖",
+        "智能马桶盖",
+        "杭州制造",
+        "即热",
+        "暖风"
+      ],
+      "needs": [
+        "坐便器"
+      ],
+      "url": "https://item.jd.com/10109793830846.html",
+      "market": "京东具名目录对应商品10109793830846、DL-5225CWS款；价格和供货以购买页面为准，安装前按官方说明书核对坐便器适配。",
+      "relationship": "具名型号资料与企业厂址相互对应制造企业松下家电（中国）有限公司；员工线索另按岗位与年份保留。",
+      "relationshipSourceIds": [
+        "panasonic-dl5225-manual",
+        "panasonic-dl5225-sqi2025",
+        "panasonic-papcn-official",
+        "panasonic-dl5225-official"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东具名目录对应商品10109793830846、DL-5225CWS款；价格和供货以购买页面为准，安装前按官方说明书核对坐便器适配。",
+          "sourceIds": [
+            "panasonic-dl5225-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "松下家电（中国）有限公司",
+          "detail": "具名型号制造资料与官网杭州制造业务、厂址交叉对应松下家电（中国）有限公司，不以日本品牌起源推断为进口产品。",
+          "sourceIds": [
+            "panasonic-dl5225-manual",
+            "panasonic-dl5225-sqi2025",
+            "panasonic-papcn-official",
+            "panasonic-dl5225-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "已有员工工作体验线索；该制造企业可适用的综合劳动履行依据仍待核对，暂未列入正式目录。",
+          "sourceIds": [
+            "panasonic-papcn-worker-interview2022",
+            "panasonic-group-employee-policy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "panasonic-xqg100-e176-10kg",
+      "name": "XQG100-E176滚筒洗衣机10kg",
+      "brand": "松下 Panasonic",
+      "companyId": "panasonic-papwmhz-hangzhou",
+      "category": "appliances",
+      "description": "10公斤全自动滚筒洗衣机单机。制造企业与国内购买入口已对应，保留采购和现场品质岗位经历，劳动资料仍待补。",
+      "tags": [
+        "洗衣机",
+        "滚筒",
+        "10kg",
+        "杭州制造",
+        "单机"
+      ],
+      "needs": [
+        "洗衣机"
+      ],
+      "url": "https://item.jd.com/10102415803945.html",
+      "market": "京东目录中的XQG100-E176 10公斤单机对应商品10102415803945；价格、配送和供货以实际页面为准。",
+      "relationship": "具名型号资料与企业厂址相互对应制造企业杭州松下家用电器有限公司；员工线索另按岗位与年份保留。",
+      "relationshipSourceIds": [
+        "panasonic-e176-shandong2024-copy",
+        "panasonic-papwmhz-official"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东目录中的XQG100-E176 10公斤单机对应商品10102415803945；价格、配送和供货以实际页面为准。",
+          "sourceIds": [
+            "panasonic-e176-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "杭州松下家用电器有限公司",
+          "detail": "具名型号制造资料与官网杭州制造业务、厂址交叉对应杭州松下家用电器有限公司，不以日本品牌起源推断为进口产品。",
+          "sourceIds": [
+            "panasonic-e176-shandong2024-copy",
+            "panasonic-papwmhz-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "已有员工工作体验线索；该制造企业可适用的综合劳动履行依据仍待核对，暂未列入正式目录。",
+          "sourceIds": [
+            "panasonic-papwmhz-worker-job592",
+            "panasonic-group-employee-policy"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -35997,7 +36373,7 @@
           "query": "除湿机"
         }
       ],
-      "note": "14项家电需求均有研究资料，除湿机首次有正式商品：NWT威镫WDH312ENW1、12L/天已对应国内销售、开平威镫制造和该法人2022年度劳动A级结果。其余13项需求仍待正式覆盖；DD40P属于不同制造法人，原有销售缺口保留。",
+      "note": "14项家电需求均有研究资料，除湿机首次有正式商品：NWT威镫WDH312ENW1、12L/天已对应国内销售、开平威镫制造和该法人2022年度劳动A级结果。其余13项需求仍待正式覆盖；DD40P属于不同制造法人，原有销售缺口保留。 新增松下XQG100-E176 10kg洗衣机及杭州制造企业员工线索，销售和制造已对应，劳动依据待补。",
       "sourceIds": [
         "bsh-code",
         "anker-2025",
@@ -36029,7 +36405,11 @@
         "weideng-wdh312enw1-sampling2024",
         "weideng-wdh312enw1-jd",
         "weideng-domestic-brand2025",
-        "weideng-kaiping-factory2024"
+        "weideng-kaiping-factory2024",
+        "panasonic-papwmhz-worker-job592",
+        "panasonic-papwmhz-official",
+        "panasonic-e176-shandong2024-copy",
+        "panasonic-e176-jd"
       ]
     },
     {
@@ -36266,7 +36646,7 @@
           "query": "水龙头"
         }
       ],
-      "note": "住房11项需求均有具体研究资料，正式收录仍为已对应劳动依据的九牧花洒和厨房龙头。新增承寓天玺50.94㎡一居室保租房、上海百姓厨房局部翻新和盼盼贝里2050×960外开机械锁门，分别保留劳动或制造缺口；另有众合森工、开平艺和两家具名劳动评价档案，待对应准确零售门款。",
+      "note": "住房11项需求均有具体研究资料，正式收录仍为已对应劳动依据的九牧花洒和厨房龙头。新增承寓天玺50.94㎡一居室保租房、上海百姓厨房局部翻新和盼盼贝里2050×960外开机械锁门，分别保留劳动或制造缺口；另有众合森工、开平艺和两家具名劳动评价档案，待对应准确零售门款。 松下DL-5225CWS坐便盖新增为待核查产品，已对应杭州制造、国内购买及生产线员工采访；仅盖板，不能替代整套陶瓷坐便器。",
       "sourceIds": [
         "national-harmony-2022",
         "jingmen-mingting-project",
@@ -36311,7 +36691,11 @@
         "zhonghe-wood-company-profile",
         "kaiping-labor-2025",
         "shaanxi-harmony-final-2025",
-        "shaanxi-harmony-criteria-2025"
+        "shaanxi-harmony-criteria-2025",
+        "panasonic-papcn-worker-interview2022",
+        "panasonic-dl5225-manual",
+        "panasonic-dl5225-sqi2025",
+        "panasonic-dl5225-jd"
       ]
     },
     {
