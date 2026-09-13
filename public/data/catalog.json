@@ -4675,10 +4675,10 @@
       "type": "政府抽检转载",
       "url": "https://finance.sina.cn/2024-08-29/detail-incmiaam9628680.d.html",
       "publishedAt": "2024-08-29",
-      "checkedAt": "2026-09-12",
+      "checkedAt": "2026-09-14",
       "locator": "2024 年第 17 期；食品抽检合格-20240828-饮料表第 1 行",
       "summary": "完整转载行列桃混合果汁（果蔬饮料）2L/瓶，2024-02-27 生产，制造及受检单位均为砀山汇源食品饮料有限公司，地址为砀山经开区梨都东路北 50 米。",
-      "limitation": "只证明历史样品的生产企业。尚未读到所选在售商品完整制造标签，不能单凭品牌、品名及容量就保证当前供货来自该厂；质量抽检不作为劳动依据。"
+      "limitation": "原记录只直接证明2024-02-27样品；与品牌自营同品名容量在售条目作综合对应，限定砀山汇源制造版本，不能保证所有批次与其他工厂。食品抽检不是劳动依据。"
     },
     {
       "id": "huiyuan-peach2l-jd",
@@ -4687,7 +4687,7 @@
       "type": "国内零售",
       "url": "https://mall.jd.com/view_search-511357-21174959-99-1-24-1.html",
       "publishedAt": null,
-      "checkedAt": "2026-09-12",
+      "checkedAt": "2026-09-14",
       "locator": "销售排行中 100% 桃混合果汁 2000ml×1 瓶；准确商品号 100059650798",
       "summary": "已读店铺公开 HTML，商品标题和链接列汇源 100% 桃混合果汁 2000mL 单瓶，图片也显示桃混合果汁 2L×1 瓶。购买链接移除了与商品身份无关的追踪参数。",
       "limitation": "包装上制造企业小字无法可靠辨认，保留为国内销售证据；不据正面品牌或模糊字样认定砀山工厂供货。库存及配送范围以订单为准。"
@@ -6734,15 +6734,15 @@
     },
     {
       "id": "sai-sa8000-sailun-access",
-      "title": "SAI官方SA8000企业目录与本次赛轮查询限制",
+      "title": "SAI官方SA8000目录与赛轮查询进展",
       "publisher": "Social Accountability International",
       "type": "认证机构公开查询入口",
       "url": "https://sa-intl.org/sa8000-search/",
       "publishedAt": null,
-      "checkedAt": "2026-09-12",
+      "checkedAt": "2026-09-14",
       "locator": "官方目录说明及中国、Sailun条件的正常公开查询",
-      "summary": "官方页面说明提供现有和历史SA8000获证组织查询；本次读取页面及公开表单逻辑后，按中国和Sailun条件进行一次查询。",
-      "limitation": "页面可读，但公开查询请求返回403，未取得企业结果。没有结果不能解释为赛轮未获证、失效或被撤回；未绕过访问限制、执行远程脚本或尝试受条件限制的导出。"
+      "summary": "2026-09-12查询曾返回403；2026-09-14通过正常公开目录成功读取青岛、东营、沈阳三项具名有效记录，分别保存证书号、日期、地址与制造范围。",
+      "limitation": "历史403不再作为当前查验缺口。三项工厂记录仍未确定所选E01+ 94V的实际制造地点；未使用受限导出或绕过登录验证。"
     },
     {
       "id": "oiwas-ocx6708-20-jd",
@@ -10881,6 +10881,118 @@
       "limitation": "本次使用官方检索收录内容，全文打开超时；用于名称和地址对应，不称其已经获准注册，也不是劳动认证或具体商品制造凭证。",
       "publishedAt": null,
       "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "greatwall-hunan-sa8000-2025",
+      "title": "湖南长城株洲制造场所SA8000当前认证记录",
+      "publisher": "Social Accountability International",
+      "url": "https://sa-intl.org/sa8000-search/",
+      "type": "社会责任认证记录",
+      "locator": "公开目录记录8935；Hunan Great Wall Computer Systems Co. Ltd；CTI CSA25N005",
+      "summary": "具名株洲Hunan GreatWall Industrial Park记录状态Certified，首次及最新认证日期2025-09-09，截止2028-09-08。范围包括平板、台式电脑、笔记本、服务器、显示终端一体机的开发生产服务和PCBA装配。",
+      "limitation": "完整审核起止日和逐日班次未公开。英文名称及株洲工业园与中文CQC原件、具名企业招聘资料综合对应；不扩张到其他长城法人或厂址。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "issuedAt": "2025-09-09"
+    },
+    {
+      "id": "sai-cti-accreditation2025",
+      "title": "CTI的SA8000认可机构资格及中国地域范围",
+      "publisher": "Social Accountability International / SAAS",
+      "url": "https://sa-intl.org/es/resources/centre-testing-international-group-co-ltd-cti/",
+      "type": "认证机构认可记录",
+      "locator": "Accreditation Details；网页Updated September 26, 2025",
+      "summary": "CTI的地域范围包括中国，按Procedure 200及ISO/IEC 17021-1提供SA8000:2014认证；当前认可周期2024-12-01至2029-11-30。",
+      "limitation": "这是认证机构资格资料，不独立证明任一商品或工厂获证；与具名有效记录共同使用。",
+      "publishedAt": "2025-09-26",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "greatwall-hunan-cqc21701302433",
+      "title": "长城凌云系列的实际生产企业与型号原始证书",
+      "publisher": "中国质量认证中心；内蒙古政府采购网公开原件",
+      "url": "https://www.ccgp-neimenggu.gov.cn/uploader-gpmall/upload/commoninfo/2023/9/14/69e5b047-7d47-4a57-bab3-3fe97d927512.pdf",
+      "type": "产品制造对应资料",
+      "locator": "PDF物理第1页证书主表、第2页型号附件；CQC21701302433，含凌云DHC37",
+      "summary": "原件将委托人、制造商、生产企业均列为湖南长城计算机系统有限公司，地址均为株洲市天元区湘芸中路天易科技城湖南长城工业园。型号附件列凌云DHC37。证书签发2021-07-01、截止2026-07-01。",
+      "limitation": "该节能证书已过所列截止日，只用于历史型号与生产企业对应，不宣称当前节能认证有效，也不是劳动依据。附件不区分当前零售的CPU、内存和硬盘配置；本款制造对应属于多份资料综合判断。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "greatwall-dhc37-i5-512-jd",
+      "title": "长城凌云DHC37 i5 16GB 512GB单主机的京东准确条目",
+      "publisher": "京东",
+      "url": "https://yp.jd.com/670e500a51a2a5ea5de.html",
+      "type": "国内零售",
+      "locator": "本次直接读取公开HTML的topGoods条目；商品号100098793246",
+      "summary": "同一条目同时列长城凌云DHC37、i5 12450H、WiFi6、16G+512G及https://item.jd.com/100098793246.html，支持具体配置的境内购买入口。",
+      "limitation": "栏目内容会变化，直接商品页本次未返回可读参数。未取得即时价格、地区库存或当前批次标签；零售卡不独立证明生产工厂。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "greatwall-hunan-hiring2025",
+      "title": "湖南长城2025年SQE工程师招聘与福利披露",
+      "publisher": "商丘学院计算机工程学院",
+      "url": "https://www.sqxy.edu.cn/squ_jsj/contents/1501/6773.html",
+      "type": "高校招聘",
+      "locator": "2025-11-25正文公司简介、招聘岗位、工作地址",
+      "summary": "具名湖南长城，介绍株洲天易科技城整机和SMT生产线，披露五天工作制、五险二金和法定带薪假；本次岗位为SQE工程师，工作地址天易科技城B1栋。",
+      "limitation": "属于招聘中的企业制度陈述，不是员工本人经历或产线考勤；不能将工程师岗位条件写成所有生产员工固定双休。",
+      "publishedAt": "2025-11-25",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "greatwall-hunan-shifts2020",
+      "title": "湖南长城2020年复工两班生产的企业报道",
+      "publisher": "中国长城科技集团股份有限公司",
+      "url": "https://www.greatwall.com.cn/2478.html",
+      "type": "企业生产与排班披露",
+      "locator": "2020-03-26《央企智造，民族品牌，长城电脑热销市场》湖南长城负责人引述",
+      "summary": "报道湖南长城计算机系统有限公司复工后实行两班生产并扩招员工，承担台式机、笔记本、服务器、一体机等生产。",
+      "limitation": "历史企业报道，不是员工独立采访；未列净工时和月加班总数。两班生产不能解释为零加班，也不能单独判定违法，不能代替当前SAI记录。",
+      "publishedAt": "2020-03-26",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "sailun-qingdao-sa8000-2024",
+      "title": "赛轮青岛制造场所SA8000当前记录",
+      "publisher": "Social Accountability International",
+      "url": "https://sa-intl.org/sa8000-search/",
+      "type": "社会责任认证记录",
+      "locator": "公开目录记录8159；SaiLun Group CO.,Ltd.；SGS CN24/00005476",
+      "summary": "SAI记录状态Certified，最新认证2024-08-28，截止2027-08-27；地址山东省青岛市黄岛区茂山路588号，业务为子午线轮胎制造。",
+      "limitation": "具名制造场所有有效记录，但尚未把E01+ 205/55R16 94V实际制造厂对应到本场所；不能合并为所有赛轮工厂或所选商品的结论。完整审核期间未公开。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "issuedAt": "2024-08-28"
+    },
+    {
+      "id": "sailun-dongying-sa8000-2024",
+      "title": "赛轮东营制造场所SA8000当前记录",
+      "publisher": "Social Accountability International",
+      "url": "https://sa-intl.org/sa8000-search/",
+      "type": "社会责任认证记录",
+      "locator": "公开目录记录8166；Sailun (Dongying) Tire Co LTD；SGS CN24/00004514",
+      "summary": "SAI记录状态Certified，最新认证2024-07-21，截止2027-07-20；地址山东省东营市广饶经济开发区广兴路9号，业务为子午线轮胎制造。",
+      "limitation": "具名制造场所有有效记录，但尚未把E01+ 205/55R16 94V实际制造厂对应到本场所；不能合并为所有赛轮工厂或所选商品的结论。完整审核期间未公开。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "issuedAt": "2024-07-21"
+    },
+    {
+      "id": "sailun-shenyang-sa8000-2024",
+      "title": "赛轮沈阳制造场所SA8000当前记录",
+      "publisher": "Social Accountability International",
+      "url": "https://sa-intl.org/sa8000-search/",
+      "type": "社会责任认证记录",
+      "locator": "公开目录记录7889；Sailun (Shenyang) Tire Co Ltd；SGS CN24/00005305",
+      "summary": "SAI记录状态Certified，最新认证2024-08-21，截止2027-08-20；地址沈阳化学工业园沈西三东路2号，业务为子午线轮胎制造。",
+      "limitation": "具名制造场所有有效记录，但尚未把E01+ 205/55R16 94V实际制造厂对应到本场所；不能合并为所有赛轮工厂或所选商品的结论。完整审核期间未公开。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "issuedAt": "2024-08-21"
     }
   ],
   "companies": [
@@ -16746,11 +16858,11 @@
       "hoursLabel": "工时休息纳入政府评价",
       "restLabel": "具体排班未单独披露",
       "cardNote": "2025 年获评劳动 A 级 · 审查 2024 年",
-      "scope": "砀山汇源食品饮料有限公司的 2024 年劳动守法评价；正在对应国内在售果汁的制造标签。",
-      "finding": "砀山企业自身列劳动 A 级名单，历史抽检表有其 2L 桃混合果汁；所选当前零售卡尚未完整对应制造厂，商品继续待核查。",
+      "scope": "砀山汇源食品饮料有限公司的2024年劳动守法评价；产品对应限定该企业制造的2L桃混合果汁。",
+      "finding": "最终劳动A级名单列砀山汇源；工厂抽检记录和当前自营零售条目综合支持2L桃混合果汁的制造对应，按具名制造版本正式收录。",
       "caveats": [
         "A 级评价审查 2024 年，本站在 2026-12-15 前复核，不保证未来持续合规。",
-        "历史样品与在售卡品名、规格相符，当前批次制造企业仍需清晰标签或供应资料确认。",
+        "制造对应是工厂历史抽样与当前同品名容量零售的综合判断，未逐批查看标签；出现不同制造企业时需另行核对，不借用砀山工厂评价。",
         "不将本公司的劳动评价扩张到汇源其他生产、销售或关联企业。"
       ],
       "sourceIds": [
@@ -16770,8 +16882,8 @@
         },
         {
           "stage": "产品制造对应",
-          "status": "policy",
-          "detail": "2024 年历史样品列砀山汇源制造 2L 桃混合果汁，当前零售批次尚需进一步对应。",
+          "status": "verified",
+          "detail": "2024年抽检在砀山汇源工厂取样，制造与受检单位均为砀山汇源，品名桃混合果汁、2L/瓶；与当前品牌自营店同品名容量条目综合对应。不是逐批制造保证，其他汇源厂版本不沿用本评价。",
           "sourceIds": [
             "huiyuan-peach2l-suzhou2024",
             "huiyuan-peach2l-jd"
@@ -19436,18 +19548,21 @@
       "legalName": "赛轮集团股份有限公司",
       "location": "山东省青岛市市北区郑州路43号（集团地址，所选轮胎工厂待核）",
       "originNote": "赛轮为中国企业，但2025年报告包括境内和海外工厂；不能由集团总部确认所选E01+ 94V的国内制造地点。",
-      "cardNote": "SA8000有企业披露 · 发证记录待核",
-      "scope": "赛轮集团2025年全球工厂披露与E01+ 205/55R16 94V国内零售记录，所选实际制造工厂尚待对应。",
-      "finding": "准确型号和国内入口已找到。报告披露七家持续运营工厂通过SA8000及集体协议，SAI查询本次受限，未独立确认具名工厂和证书期限；SGS附件为报告信息鉴证。",
+      "cardNote": "三处工厂认证已核 · 本款厂址待对应",
+      "scope": "集团披露、三处境内具名制造场所的SA8000记录与E01+ 205/55R16 94V零售资料；认证不自动覆盖其他法人或厂址。",
+      "finding": "已独立读取青岛、东营、沈阳三处制造场所的当前SA8000记录。E01+ 205/55R16 94V国内型号与货号明确，实际制造厂址仍未对应，商品保持待核查。",
       "caveats": [
         "七家工厂的全球汇总不能对应为所选94V轮胎的中国制造厂。",
-        "SGS报告鉴证与工厂SA8000审核分别记录，未推断同一签发机构。",
-        "查询受限不等于没有认证、认证撤回或企业违法。"
+        "三处具名记录的签发机构均为SGS；SGS对集团报告的信息鉴证与这些工厂认证是不同证据。",
+        "历史查询受限已经解决；仍不能仅凭集团、品牌或其他载重速度等级型号确定所选轮胎的实际产地。"
       ],
       "sourceIds": [
         "sailun-e01-205-55r16-jd",
         "sailun-csr2025-sa8000",
-        "sai-sa8000-sailun-access"
+        "sai-sa8000-sailun-access",
+        "sailun-qingdao-sa8000-2024",
+        "sailun-dongying-sa8000-2024",
+        "sailun-shenyang-sa8000-2024"
       ],
       "supply": [
         {
@@ -19459,12 +19574,13 @@
           ]
         },
         {
-          "stage": "SA8000与集体协议披露",
-          "status": "policy",
-          "detail": "2025年报告披露七家持续运营工厂认证及工资、工时休息等集体协议内容，尚缺独立发证记录。",
+          "stage": "具名制造场所认证",
+          "status": "verified",
+          "detail": "SAI当前目录分别列青岛、东营、沈阳三处有效制造认证，证书号和截止日分别保存。",
           "sourceIds": [
-            "sailun-csr2025-sa8000",
-            "sai-sa8000-sailun-access"
+            "sailun-qingdao-sa8000-2024",
+            "sailun-dongying-sa8000-2024",
+            "sailun-shenyang-sa8000-2024"
           ]
         },
         {
@@ -19477,7 +19593,7 @@
           ]
         }
       ],
-      "nextCheck": "有E01+ 205/55R16 94V明确制造侧壁、具名证书号或可公开查验的发证记录时继续；没有新线索不重试受限查询或验证码目录。"
+      "nextCheck": "获得E01+ 205/55R16 94V实际制造标记或同型号生产文件时，对应已核到的具体工厂记录；停止重复查询已成功取得的相同资料。"
     },
     {
       "origin": "china",
@@ -24325,6 +24441,99 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "取得CN19/31290完整业务范围或另一项适用综合劳动依据，并补同货号购买入口；停止重复访问受限目录。"
+    },
+    {
+      "id": "greatwall-hunan",
+      "name": "长城电脑 · 湖南制造",
+      "legalName": "湖南长城计算机系统有限公司",
+      "location": "湖南省株洲市天元区湘芸中路天易科技城湖南长城工业园",
+      "origin": "china",
+      "originNote": "中国境内计算机整机制造企业，聚焦株洲生产岗位，不推断每位工人的国籍。",
+      "level": "audit",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "实际产线工时未公开",
+      "restLabel": "招聘制度与产线排班分开记录",
+      "cardNote": "株洲制造场所SA8000记录已核",
+      "scope": "株洲湖南长城工业园内平板、台式电脑、笔记本、服务器、显示终端一体机的开发、生产与服务，以及PCBA装配。",
+      "finding": "株洲制造场所当前SA8000记录与CTI认可资格均已独立查验；凌云DHC37单主机按型号制造原件与国内具体零售配置综合对应。",
+      "caveats": [
+        "SA8000最新认证2025-09-09、截止2028-09-08；完整审核期间未公开。",
+        "2025年工程师招聘披露五天工作制，2020年企业报道两班生产；均不冒充生产员工本人经历，不据此写成零加班或固定双休。",
+        "用于型号对应的CQC节能原件已过2026-07-01截止日，不将其作为当前有效质量认证。",
+        "当前配置与历史同型号的制造关系属于综合判断；若出现不同实际制造企业或厂址，重新核对适用范围。"
+      ],
+      "sourceIds": [
+        "greatwall-hunan-sa8000-2025",
+        "sai-cti-accreditation2025",
+        "greatwall-hunan-cqc21701302433",
+        "greatwall-dhc37-i5-512-jd",
+        "greatwall-hunan-hiring2025",
+        "greatwall-hunan-shifts2020"
+      ],
+      "supply": [
+        {
+          "stage": "境内整机制造",
+          "status": "verified",
+          "detail": "CQC原件将凌云DHC37对应到湖南长城及株洲工业园，当前京东准确条目区分i5-12450H、16GB、512GB单主机配置。制造厂按同型号原件与当前零售综合判断，未逐台查验；只收录湖南长城制造版本。",
+          "sourceIds": [
+            "greatwall-hunan-cqc21701302433",
+            "greatwall-dhc37-i5-512-jd"
+          ]
+        },
+        {
+          "stage": "具名制造场所劳动依据",
+          "status": "verified",
+          "detail": "CTI CSA25N005在SAI目录列Certified，制造业务与株洲地址明确。",
+          "sourceIds": [
+            "greatwall-hunan-sa8000-2025",
+            "sai-cti-accreditation2025"
+          ]
+        },
+        {
+          "stage": "零部件和外包物流",
+          "status": "unknown",
+          "detail": "尚未逐家调查上游及物流企业，不设置全供应链核实的额外收录门槛。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-14前复核认证状态及相反证据；有本厂生产人员实际经历或不同制造厂资料时继续核对。",
+      "assessments": [
+        {
+          "kind": "independent-labor-audit",
+          "conclusion": "supported",
+          "subject": "湖南长城计算机系统有限公司",
+          "sourceId": "greatwall-hunan-sa8000-2025",
+          "result": "SA8000认证记录状态Certified",
+          "period": "2025-09-09认证结果；完整审核起止日未公开",
+          "resultIssuedAt": "2025-09-09",
+          "reviewedAt": "2026-09-14",
+          "reviewDueAt": "2026-10-14",
+          "validUntil": "2028-09-08",
+          "status": "current",
+          "issuer": "CTI",
+          "scopeType": "facility",
+          "facility": "湖南省株洲市天元区湘芸中路天易科技城湖南长城工业园",
+          "verificationSourceId": "greatwall-hunan-sa8000-2025",
+          "basisSourceIds": [
+            "sai-standard2014-original",
+            "sai-transition2026-timeline",
+            "sai-cti-accreditation2025"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ],
+          "scope": "株洲湖南长城工业园内平板、台式电脑、笔记本、服务器、显示终端一体机的开发、生产与服务，以及PCBA装配。",
+          "limitation": "具名有效制造场所认证支持范围内劳动权益判断；按SA8000当地法律优先要求使用，不作为逐人考勤或未来所有劳动行为的保证。"
+        }
+      ]
     }
   ],
   "products": [
@@ -31594,11 +31803,11 @@
     },
     {
       "id": "huiyuan-peach-juice-2l-single",
-      "name": "100% 桃混合果汁 2L 单瓶",
+      "name": "100% 桃混合果汁 2L 单瓶（砀山汇源）",
       "brand": "汇源",
       "companyId": "huiyuan-dangshan",
       "category": "drinks",
-      "description": "汇源桃混合果汁，净含量 2 升，单瓶；国内零售规格已对应，当前制造企业继续核查。",
+      "description": "汇源桃混合果汁2升单瓶，收录范围为砀山汇源制造版本。",
       "tags": [
         "果汁",
         "桃混合果汁",
@@ -31610,8 +31819,8 @@
         "果汁"
       ],
       "url": "https://item.jd.com/100059650798.html",
-      "market": "汇源京东自营旗舰店商品号 100059650798，2L 单瓶；库存、配送及价格按订单确认。待补可读制造标签以确认当前供货工厂。",
-      "relationship": "在售卡对应本款品名及容量；2024 年同名同规格样品出自砀山汇源。零售图制造小字不可可靠辨认，暂不认定当前商品必然由该获评工厂生产。",
+      "market": "汇源京东自营旗舰店商品号100059650798，2L单瓶；价格、库存与配送按订单确认。制造对应范围为砀山汇源版本。",
+      "relationship": "2024年抽检在砀山汇源工厂取样，制造与受检单位均为砀山汇源，品名桃混合果汁、2L/瓶；与当前品牌自营店同品名容量条目综合对应。不是逐批制造保证，其他汇源厂版本不沿用本评价。",
       "relationshipSourceIds": [
         "huiyuan-peach2l-suzhou2024",
         "huiyuan-peach2l-jd"
@@ -31629,16 +31838,18 @@
           ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "有砀山工厂同名同容量历史生产记录，当前在售批次的制造标签尚不可读；需进一步确认其实际生产企业。",
+          "status": "supported",
+          "subject": "砀山汇源食品饮料有限公司",
+          "detail": "2024年抽检在砀山汇源工厂取样，制造与受检单位均为砀山汇源，品名桃混合果汁、2L/瓶；与当前品牌自营店同品名容量条目综合对应。不是逐批制造保证，其他汇源厂版本不沿用本评价。",
           "sourceIds": [
             "huiyuan-peach2l-suzhou2024",
             "huiyuan-peach2l-jd"
           ]
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "砀山汇源有政府劳动 A 级评价，所选零售商品尚未明确对应本工厂，因此暂不把企业评价升级为该商品的劳动结论。",
+          "status": "supported",
+          "assessmentSourceId": "suzhou-labor-2024",
+          "detail": "收录范围限定砀山汇源制造版本，适用宿州2025年最终公布、审查2024年的同一法人劳动A级结果。",
           "sourceIds": [
             "suzhou-labor-2024"
           ]
@@ -35054,10 +35265,12 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "SA8000有集团2025年披露，官方查询本次受限，尚未独立对应具体工厂、证书状态与期限；SGS报告鉴证没有替代该项核验。",
+          "detail": "青岛、东营、沈阳三处制造场所的SA8000已独立核到有效记录；本款94V的实际制造厂尚未对应，因此仍待核查。",
           "sourceIds": [
-            "sailun-csr2025-sa8000",
-            "sai-sa8000-sailun-access"
+            "sailun-qingdao-sa8000-2024",
+            "sailun-dongying-sa8000-2024",
+            "sailun-shenyang-sa8000-2024",
+            "sailun-csr2025-sa8000"
           ]
         }
       }
@@ -39173,6 +39386,66 @@
           ]
         }
       }
+    },
+    {
+      "id": "greatwall-dhc37-i5-16g-512g",
+      "name": "凌云DHC37迷你主机 · i5 / 16GB / 512GB",
+      "brand": "长城",
+      "companyId": "greatwall-hunan",
+      "category": "electronics",
+      "description": "i5-12450H、16GB内存、512GB固态硬盘、WiFi6的单主机配置；收录湖南长城株洲制造版本。",
+      "tags": [
+        "台式电脑",
+        "迷你主机",
+        "DHC37",
+        "i5-12450H",
+        "16GB",
+        "512GB"
+      ],
+      "needs": [
+        "台式电脑"
+      ],
+      "url": "https://item.jd.com/100098793246.html",
+      "market": "京东商品号100098793246提供对应单主机购买入口，价格和配送以下单页面为准。",
+      "relationship": "CQC原件将凌云DHC37对应到湖南长城及株洲工业园，当前京东准确条目区分i5-12450H、16GB、512GB单主机配置。制造厂按同型号原件与当前零售综合判断，未逐台查验；只收录湖南长城制造版本。",
+      "relationshipSourceIds": [
+        "greatwall-hunan-cqc21701302433",
+        "greatwall-dhc37-i5-512-jd"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已读取京东公开HTML，准确型号、内存、存储、CPU与独立商品号在同一条目。",
+          "sourceIds": [
+            "greatwall-dhc37-i5-512-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "湖南长城计算机系统有限公司",
+          "facility": "湖南省株洲市天元区湘芸中路天易科技城湖南长城工业园",
+          "detail": "CQC原件将凌云DHC37对应到湖南长城及株洲工业园，当前京东准确条目区分i5-12450H、16GB、512GB单主机配置。制造厂按同型号原件与当前零售综合判断，未逐台查验；只收录湖南长城制造版本。",
+          "sourceIds": [
+            "greatwall-hunan-cqc21701302433",
+            "greatwall-dhc37-i5-512-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "greatwall-hunan-sa8000-2025",
+          "detail": "株洲制造场所SA8000状态Certified，2025-09-09认证、2028-09-08截止；按具名生产场所和当地劳动法律要求支持收录。实际班次未公开。",
+          "sourceIds": [
+            "greatwall-hunan-sa8000-2025",
+            "sai-standard2014-original",
+            "sai-transition2026-timeline",
+            "sai-cti-accreditation2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -39653,7 +39926,7 @@
           "query": "汽水"
         }
       ],
-      "note": "饮料酒水12项需求均有研究资料，8项已有正式商品。新收录老相食五谷豆奶250mL×30袋，首次补上豆奶；制造对应使用官网准确包装与苏州金记生产披露，劳动依据为2021—2022年度最终4A级。",
+      "note": "饮料酒水12项需求均有研究资料，9项已有正式商品。新收录老相食五谷豆奶250mL×30袋，首次补上豆奶；制造对应使用官网准确包装与苏州金记生产披露，劳动依据为2021—2022年度最终4A级。 本轮将砀山汇源制造的100%桃混合果汁2L单瓶按工厂抽样与当前自营条目综合对应正式收录；清除必须取得当前批次标签的额外门槛，保留评价年份及制造版本范围。",
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
@@ -40145,7 +40418,7 @@
           "query": "对讲机"
         }
       ],
-      "note": "13项数码细分需求均已有具体型号资料。BF-888S经典款单只装已对应国内零售、中国产地及同一制造法人的2025年度劳动A级，成为数码类首项正式收录。手机、电脑等其余需求仍需继续核查；对讲机不替代这些需求。A1383已对应国内零售和东莞制造商，劳动依据仍待补。 本轮新增联想办公室个人经历，未套用于电脑制造工厂。 罗技苏州已建立2025年RBA银级审核线索档案，独立查验、具体劳动结果与零售型号待对应，未新增正式数码商品。 补入联想武汉2021年操作工经历；荣耀600、联想天逸510S及HKC显示器已有具体国内零售资料，制造和劳动项仍各自待核。 新核南昌华勤2025年SA8000续证并加入Note11E、RedmiBook Pro15具体型号资料；工时争议、零售及电脑具体厂址仍待核，尚未新增正式手机或笔记本。 冠捷福建与武汉两个制造场所的当前SA8000记录已核，新增U27P2C、E2270SWN；保留制造商与具体工厂、现售版本的差异，显示器尚未正式收录。",
+      "note": "13项数码需求均有具体研究记录；正式商品已覆盖对讲机和台式电脑。新收录长城凌云DHC37 i5-12450H/16GB/512GB单主机，按CQC历史型号制造原件、当前零售条目及株洲有效SA8000综合对应。手机、笔记本及显示器等继续核查，员工经历和已有工时争议均保留。",
       "sourceIds": [
         "apple-rcc-job",
         "anker-2024",
@@ -40183,7 +40456,10 @@
         "tpv-wuhan-sa8000-2026",
         "aoc-u27p2c-cqc2025",
         "aoc-e2270swn-suning-maker",
-        "tpv-employee-fuqing-wuhan"
+        "tpv-employee-fuqing-wuhan",
+        "greatwall-hunan-sa8000-2025",
+        "greatwall-hunan-cqc21701302433",
+        "greatwall-dhc37-i5-512-jd"
       ]
     },
     {
@@ -40474,7 +40750,7 @@
           "query": "MPV"
         }
       ],
-      "note": "汽车6项需求均已有具体研究资料。新增第5代帝豪1.5L+8CVT豪华型和银河M7远航家225km远航版，制造主体与劳动对应待核；第四代博越L 1.5TD+7DCT山河使用宝鸡具名政府综合劳动评价正式收录，奔驰V 300领航版保留。银河E5和轮胎继续补证。",
+      "note": "汽车6项需求均已有具体研究资料。新增第5代帝豪1.5L+8CVT豪华型和银河M7远航家225km远航版，制造主体与劳动对应待核；第四代博越L 1.5TD+7DCT山河使用宝鸡具名政府综合劳动评价正式收录，奔驰V 300领航版保留。银河E5和轮胎继续补证。 赛轮青岛、东营、沈阳三处当前SA8000已独立核到，E01+ 94V具体制造厂仍待对应，轮胎未新增正式收录。",
       "sourceIds": [
         "national-harmony-2022",
         "fuzhou-labor-2024",
@@ -40491,7 +40767,10 @@
         "geely-galaxy-m7-voyager-official",
         "qinchuan-baoji-m7-production-lead",
         "geely-emgrand5-official",
-        "emgrand5-changxing-production-lead"
+        "emgrand5-changxing-production-lead",
+        "sailun-qingdao-sa8000-2024",
+        "sailun-dongying-sa8000-2024",
+        "sailun-shenyang-sa8000-2024"
       ]
     },
     {
