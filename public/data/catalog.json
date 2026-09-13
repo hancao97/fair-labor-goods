@@ -11404,6 +11404,114 @@
       "limitation": "没有具名实际制造商字段，未用官网不含B的02-VP10资料代替；实际生产企业和厂区继续核对，价格配送以下单页为准。",
       "publishedAt": null,
       "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "anfu-cheerwin-rename2025",
+      "title": "朝云2024年报：安福超威法人更名",
+      "publisher": "朝云集团有限公司（香港交易所披露）",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042900774_c.pdf",
+      "type": "企业年度报告",
+      "locator": "印刷页95，综合财务报表附注10",
+      "summary": "年报明确安福超威日化有限公司于2025年3月7日更名为安福超威生物科技有限公司，可对应旧劳动名单中的名称。",
+      "limitation": "已下载原始PDF并逐页定位、目视读取第95页。更名资料只用于法人名称对应，不是新的劳动评价。",
+      "publishedAt": "2025-04-29",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "anfu-cheerwin-labor-practices2023",
+      "title": "安福超威围绕产业工人改革的报道",
+      "publisher": "大江网·江西工人报",
+      "url": "https://tt.jxnews.com.cn/news/2018262",
+      "type": "媒体报道",
+      "locator": "2023-02-14报道：2022年技能与薪酬制度、工会活动及示范企业授牌",
+      "summary": "报道记载技能晋级与工资挂钩、职工体检、互助保障等做法，并报道此前全国和谐劳动关系示范企业授牌。",
+      "limitation": "直接读取原始HTML。没有可辨认的一线员工本人采访，不计为员工反馈记录；2023年报道不等于新的2023年综合劳动评价，也未给出实际工时。",
+      "publishedAt": "2023-02-14",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "chaowei145-procurement2025",
+      "title": "2025年采购投标清单：超威蚊香145g标称厂家",
+      "publisher": "郑州臻埠商贸有限公司（河南政府采购网公开附件）",
+      "url": "https://xinzheng.zfcg.henan.gov.cn/cmsweb81e27e/nas/webfile2024/henan/rootfiles/2025/03/12/3488127b1b7d48c688865f9effd366e8.pdf",
+      "type": "供应商公开投标文件",
+      "locator": "PDF第3页、印刷页4；超威蚊香145g/盒；文件落款2025-03-11",
+      "summary": "供应商货物清单将超威蚊香145g/盒的生产厂家填写为安福超威日化有限公司。",
+      "limitation": "已读取网页工具的PDF文字，直接下载和截图未成功。属于投标供应商填报，不是政府抽检；未列香型、条码或登记号，不能独自锁定目前艾草145g所选包装的实际厂家。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "chaowei145-yiwugo",
+      "title": "超威艾草蚊香145g十圈国内销售条目",
+      "publisher": "义乌购·义乌莞盈电子商务商行",
+      "url": "https://www.yiwugo.com/product/detail/985453270.html",
+      "type": "零售商品资料",
+      "locator": "商品985453270；选项超威蚊香【艾草】-10盘（145g）；货号6920174751000",
+      "summary": "国内商品页提供145g十圈艾草款，参数列中国大陆产地及登记号WP20110183；页面标示三盒起购。",
+      "limitation": "本次直接读取商品页HTML内的公开商品资料，并与公开索引核对。批发平台的三盒起购需注意；销售规格不能单独证明具体制造法人，库存、价格及配送另以交易页为准。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "chaowei-wp20110183-label",
+      "title": "WP20110183蚊香登记标签：持有人为广州法人",
+      "publisher": "农药登记快捷查（登记资料转载平台）",
+      "url": "https://agri-vast.com/index/index/label.html?cert=WP20110183",
+      "type": "产品登记资料转载",
+      "locator": "标签开头的登记号及持有人；重新核准日期2023-11-06",
+      "summary": "所选145g零售参数使用WP20110183；该号的标签资料列持有人广州超威日用化学用品有限公司，未列安福受托制造关系。",
+      "limitation": "直接读取公开标签HTML。非主管机关原始登记系统；持有人不必然等于实际制造商，因此既不据此确认安福制造，也不直接判定投标文件错误。其他登记号不能混用于本款。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "linkfair-worker-interview2020",
+      "title": "凌丰生产工人谈自动化后的工作强度与收入",
+      "publisher": "南方日报·南方网",
+      "url": "https://news.southcn.com/node_54a44f01a2/fb752934fa.shtml",
+      "type": "员工媒体采访",
+      "locator": "2020-12-31报道，智能转型段落，苏文华受访内容",
+      "summary": "受访工人回忆手工生产时期旺季加班较长，改用自动化后工作强度减轻、收入增加。",
+      "limitation": "历史单人采访，合同法人与车间未独立核实，不能代表全部工厂或当前排班。24小时运转指生产线，不是个人连续工作24小时；原文县名与官网不一致，不用该地名确定厂址。",
+      "publishedAt": "2020-12-31",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "linkfair-def32-official",
+      "title": "凌丰德福32cm炒锅官方型号目录",
+      "publisher": "LINKFAIR凌丰",
+      "url": "https://www.linkfair.cn/cooking_list/11010/page_2.html",
+      "type": "品牌官方产品资料",
+      "locator": "炒锅目录第2页：LFCG-DF32DC",
+      "summary": "官方目录列德福系列32cm单柄炒锅，型号LFCG-DF32DC。",
+      "limitation": "本次读取公开索引条目，网页工具直接打开超时。品牌目录用于型号对应，未标明该款实际制造法人。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "linkfair-def-series-youzan",
+      "title": "凌丰有赞店德福32cm炒锅实际销售选项",
+      "publisher": "LINKFAIR凌丰有赞店",
+      "url": "https://shop96028046.m.youzan.com/wscgoods/detail/2ot4dethzxeeemp",
+      "type": "零售商品资料",
+      "locator": "德福系列锅具：32cm炒锅（6.2L），skuId37733774；属性产地广东云浮",
+      "summary": "直接读取公开商品页：实际可选32cm炒锅6.2L，标示广东云浮产地。店铺介绍为凌丰家居业务，店铺主体资料列广东凌丰家品销售有限公司。",
+      "limitation": "官网18cm奶锅的购买按钮也指向本系列页，但本次读取的四个选项没有奶锅，不能据该按钮认定奶锅在售。32cm款按品牌、系列和尺寸与官方型号目录对应；商家身份及产地仍不能替代具名制造企业。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "megasoft-china-employee-repost",
+      "title": "美佳爽中国：匿名劳动体验转载线索",
+      "publisher": "找工作防踩雷社区·泉州公司避雷",
+      "url": "https://bileigongsi.github.io/quanzhou-bilei/blacklist/blacklist4",
+      "type": "员工反馈转载",
+      "locator": "第841—906行汇编中，美佳爽（中国）有限公司、石狮这一行",
+      "summary": "该行匿名内容对年末裁员和节日福利物品提出负面反馈。",
+      "limitation": "直接读取公开页面。原作者、岗位、发生年份及事实未核实，原始投诉材料未取得；只记为一条转载。相邻企业的加班、欠薪等指控不属于该公司，不转移引用，也不据未详述的裁员直接认定违法。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
     }
   ],
   "companies": [
@@ -16908,14 +17016,16 @@
       "caveats": [
         "政府结果对应 2024 年度及具名法人，不是未来持续合规保证；本站将在 2026-10-24 前复核。",
         "美佳爽（中国）与美佳爽（福建）卫生用品等关联法人分开核对，不能互借评价。",
-        "仅收录已对应的中国市场规格，不推广到海外系列、全部尺码或其他品牌。"
+        "仅收录已对应的中国市场规格，不推广到海外系列、全部尺码或其他品牌。",
+        "新增匿名转载中的裁员及福利负面线索，发生年份和事实尚未核实；与2024年政府评价分别展示，暂不据此改变既有商品状态。"
       ],
       "sourceIds": [
         "shishi-labor-2024",
         "shishi-labor-2024-followup",
         "law-labor-rating",
         "chikool-brand-products",
-        "chikool-m24-sampling-2025-media"
+        "chikool-m24-sampling-2025-media",
+        "megasoft-china-employee-repost"
       ],
       "supply": [
         {
@@ -16944,7 +17054,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "在本站复核期限前查询更新评价和相反证据；当前包装变更制造商或规格时重新对应。",
+      "nextCheck": "在本站复核期限前查询更新评价；针对匿名裁员与福利线索寻找具名原始事实。当前包装变更制造商或规格时重新对应。",
       "assessments": [
         {
           "subject": "美佳爽（中国）有限公司",
@@ -16959,6 +17069,16 @@
           "periodEnd": "2024-12-31",
           "reviewedAt": "2026-09-12",
           "reviewDueAt": "2026-10-24"
+        }
+      ],
+      "employeeFeedback": [
+        {
+          "sourceId": "megasoft-china-employee-repost",
+          "kind": "repost",
+          "period": "发生及发表日期未公开",
+          "roleScope": "匿名汇编中的美佳爽（中国）有限公司石狮条目；岗位未详",
+          "summary": "转载提出年末裁员、节日福利物品方面的负面反馈，尚未独立核实。",
+          "limitation": "原作者、事件年份及事实不明；只记录一条转载。未把其他公司相邻内容或未经详述的裁员当作该公司已认定违法。"
         }
       ]
     },
@@ -25274,6 +25394,202 @@
         }
       ],
       "nextCheck": "仅在取得认证分场所附表、原始厂址对应或新的具体制造资料后继续该路径；2026-10-14前复查认证状态，期间转向其他未覆盖需求。"
+    },
+    {
+      "id": "anfu-cheerwin",
+      "name": "超威 · 安福制造企业",
+      "legalName": "安福超威生物科技有限公司",
+      "location": "江西省吉安市安福县",
+      "origin": "china",
+      "originNote": "中国境内企业及消费品牌；调查实际境内制造岗位，不从厂址推断每位工人的国籍。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "2022年综合标准涵盖工时",
+      "restLabel": "当前具体排班未公开",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "cardNote": "2022年劳动评价 · 商品厂家待对应",
+      "scope": "安福超威日化有限公司；2022年评价，未扩展至其他关联法人。",
+      "finding": "2022年正式劳动名单列旧名安福超威日化有限公司，2025年更名由年报原页确认。145g蚊香的供应商制造记录与当前零售规格尚未准确对应，保留待核查。",
+      "caveats": [
+        "2022年劳动评价是较早资料，2023年授牌报道不是新评价。",
+        "安福法人更名已核实；广州超威是另一法人，不能互借劳动结果。",
+        "当前零售登记号的持有人为广州超威，尚未取得本款受托安福制造的准确对应。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice",
+        "anfu-cheerwin-rename2025",
+        "anfu-cheerwin-labor-practices2023",
+        "chaowei145-procurement2025",
+        "chaowei145-yiwugo",
+        "chaowei-wp20110183-label"
+      ],
+      "assessments": [
+        {
+          "kind": "government-labor-review",
+          "subject": "安福超威日化有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022年综合评价（较早资料）；完整审查起止日未公开",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅适用于名单中具名法人和2022年评价；未取得新的综合复核。本站复查期限不是政府公布的有效期，也不延伸到关联法人或全部品牌商品。",
+          "resultPublishedAt": "2022-09-16",
+          "reviewedAt": "2026-09-14",
+          "reviewDueAt": "2026-10-14",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "人力资源社会保障部、全国总工会、中国企联、全国工商联",
+          "scopeType": "employer",
+          "scope": "安福超威日化有限公司的具名综合劳动评价；所选商品实际制造法人仍待对应。",
+          "verificationSourceId": "national-harmony-2022",
+          "basisSourceIds": [
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ]
+        }
+      ],
+      "supply": [
+        {
+          "stage": "品牌与具体商品",
+          "status": "policy",
+          "detail": "已保存具体国内销售资料，实际制造法人另行对应。",
+          "sourceIds": [
+            "anfu-cheerwin-rename2025",
+            "anfu-cheerwin-labor-practices2023",
+            "chaowei145-procurement2025",
+            "chaowei145-yiwugo",
+            "chaowei-wp20110183-label"
+          ]
+        },
+        {
+          "stage": "制造主体劳动依据",
+          "status": "unknown",
+          "detail": "具名2022年评价已核，但所选商品与该制造法人的对应尚未确定。",
+          "sourceIds": [
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "保留为补充调查信息，不额外要求全供应链或逐人资料齐备。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "取得所选商品标签、制造声明或其他准确厂家资料后继续对应；2026-10-14前复查劳动依据及相反证据。相同资料不重复搜索。"
+    },
+    {
+      "id": "linkfair-group",
+      "name": "凌丰 · 餐厨具制造",
+      "legalName": "广东凌丰集团股份有限公司",
+      "location": "广东省云浮市新兴县",
+      "origin": "china",
+      "originNote": "中国境内企业及消费品牌；调查实际境内制造岗位，不从厂址推断每位工人的国籍。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "2022年综合标准涵盖工时",
+      "restLabel": "当前具体排班未公开",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "cardNote": "2022年劳动评价 · 商品厂家待对应",
+      "scope": "广东凌丰集团股份有限公司；2022年评价，未扩展至其他关联法人。",
+      "finding": "从2020年一线工人采访继续调查，核对到2022年全国综合劳动评价及德福32cm炒锅国内销售。店铺、家居业务与集团制造法人分别记录，当前具体厂家的对应仍待补。",
+      "caveats": [
+        "员工反馈反映历史岗位的改善，也保留此前赶单长时间加班的经历；未核实当前实际工时。",
+        "2022年评价只对应广东凌丰集团股份有限公司；家居用品、销售及其他制造子公司不能自动沿用。",
+        "所选为德福32cm炒锅，未把官网奶锅购买按钮误当作奶锅现售选项。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice",
+        "linkfair-worker-interview2020",
+        "linkfair-def32-official",
+        "linkfair-def-series-youzan"
+      ],
+      "assessments": [
+        {
+          "kind": "government-labor-review",
+          "subject": "广东凌丰集团股份有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022年综合评价（较早资料）；完整审查起止日未公开",
+          "sourceId": "national-harmony-2022",
+          "limitation": "仅适用于名单中具名法人和2022年评价；未取得新的综合复核。本站复查期限不是政府公布的有效期，也不延伸到关联法人或全部品牌商品。",
+          "resultPublishedAt": "2022-09-16",
+          "reviewedAt": "2026-09-14",
+          "reviewDueAt": "2026-10-14",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "人力资源社会保障部、全国总工会、中国企联、全国工商联",
+          "scopeType": "employer",
+          "scope": "广东凌丰集团股份有限公司的具名综合劳动评价；所选商品实际制造法人仍待对应。",
+          "verificationSourceId": "national-harmony-2022",
+          "basisSourceIds": [
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ]
+        }
+      ],
+      "supply": [
+        {
+          "stage": "品牌与具体商品",
+          "status": "policy",
+          "detail": "已保存具体国内销售资料，实际制造法人另行对应。",
+          "sourceIds": [
+            "linkfair-worker-interview2020",
+            "linkfair-def32-official",
+            "linkfair-def-series-youzan"
+          ]
+        },
+        {
+          "stage": "制造主体劳动依据",
+          "status": "unknown",
+          "detail": "具名2022年评价已核，但所选商品与该制造法人的对应尚未确定。",
+          "sourceIds": [
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "保留为补充调查信息，不额外要求全供应链或逐人资料齐备。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "取得所选商品标签、制造声明或其他准确厂家资料后继续对应；2026-10-14前复查劳动依据及相反证据。相同资料不重复搜索。",
+      "employeeFeedback": [
+        {
+          "sourceId": "linkfair-worker-interview2020",
+          "kind": "interview",
+          "period": "2020-12-31采访，回顾自动化改造前后",
+          "roleScope": "凌丰生产工人；合同雇主及车间未独立核实",
+          "summary": "受访者表示自动化后工作强度减轻、工资提高，同时回忆过去旺季长时间加班。",
+          "limitation": "历史单人采访，不代表当前全部员工；产线24小时运转不等于个人工时。"
+        }
+      ]
     }
   ],
   "products": [
@@ -40537,6 +40853,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "chaowei-ai-coils145g",
+      "name": "艾草清香蚊香145g · 十圈盒装",
+      "brand": "超威",
+      "companyId": "anfu-cheerwin",
+      "category": "daily",
+      "description": "145g十圈艾草款，货号6920174751000，零售参数登记号WP20110183。",
+      "tags": [
+        "驱蚊用品",
+        "超威"
+      ],
+      "needs": [
+        "驱蚊用品"
+      ],
+      "url": "https://www.yiwugo.com/product/detail/985453270.html",
+      "market": "义乌购对应艾草十圈145g选项，页面标示三盒起购；价格、库存和配送以下单页为准。",
+      "relationship": "2025年投标供应商列安福超威制造145g蚊香，但没有香型、条码和登记号；当前所选包装是否由该法人制造仍待确认。",
+      "relationshipSourceIds": [
+        "chaowei145-yiwugo",
+        "chaowei145-procurement2025",
+        "chaowei-wp20110183-label",
+        "anfu-cheerwin-rename2025"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "以文字展示准确品名和规格。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "义乌购对应艾草十圈145g选项，页面标示三盒起购；价格、库存和配送以下单页为准。",
+          "sourceIds": [
+            "chaowei145-yiwugo"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售标示中国大陆产地；145g投标记录提供安福制造线索，但登记标签的持有人为广州法人，所选包装实际制造企业未准确对应。",
+          "sourceIds": [
+            "chaowei145-yiwugo",
+            "chaowei145-procurement2025",
+            "chaowei-wp20110183-label",
+            "anfu-cheerwin-rename2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "安福旧名已取得2022年综合劳动评价并核对更名；未将该评价直接用于尚未确认由安福制造的具体包装。",
+          "sourceIds": [
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ]
+        }
+      }
+    },
+    {
+      "id": "linkfair-def32-wok",
+      "name": "德福32cm单柄炒锅 · 6.2L",
+      "brand": "凌丰（LINKFAIR）",
+      "companyId": "linkfair-group",
+      "category": "kitchen",
+      "description": "有赞德福系列中选择32cm炒锅6.2L；官方型号目录对应LFCG-DF32DC。",
+      "tags": [
+        "炒锅",
+        "凌丰（LINKFAIR）"
+      ],
+      "needs": [
+        "炒锅"
+      ],
+      "url": "https://shop96028046.m.youzan.com/wscgoods/detail/2ot4dethzxeeemp",
+      "market": "品牌官网指向的有赞店内选择32cm炒锅（6.2L），商品选项编号37733774；价格和配送以下单页为准。",
+      "relationship": "官方德福32cm型号目录与有赞同品牌、系列和尺寸选项综合对应。店铺资料标示广东云浮产地，但销售主体与集团制造法人不同，尚缺具名制造资料。",
+      "relationshipSourceIds": [
+        "linkfair-def-series-youzan",
+        "linkfair-def32-official"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "以文字展示准确品名和规格。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "品牌官网指向的有赞店内选择32cm炒锅（6.2L），商品选项编号37733774；价格和配送以下单页为准。",
+          "sourceIds": [
+            "linkfair-def-series-youzan"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "有赞属性列广东云浮产地；所选商品实际制造法人未列明，不能用销售公司的身份代替制造商。",
+          "sourceIds": [
+            "linkfair-def-series-youzan",
+            "linkfair-def32-official"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "广东凌丰集团股份有限公司的2022年综合劳动评价已核实；所选锅具实际厂家仍待对应，尚不适用于该商品。",
+          "sourceIds": [
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -41317,7 +41741,7 @@
           "query": "保鲜膜"
         }
       ],
-      "note": "厨房首次正式收录白色FEI-501WH 500mL保温杯、亚光黑TCLF-720S 720mL焖烧罐，覆盖水杯与饭盒2项需求。昆山、淮安制造企业分别使用各自劳动依据；其余11项需求继续核对具体商品，研究资料不等于正式覆盖。",
+      "note": "厨房首次正式收录白色FEI-501WH 500mL保温杯、亚光黑TCLF-720S 720mL焖烧罐，覆盖水杯与饭盒2项需求。昆山、淮安制造企业分别使用各自劳动依据；其余11项需求继续核对具体商品，研究资料不等于正式覆盖。 新增凌丰德福32cm炒锅6.2L国内销售候选及生产工人历史采访；集团2022年劳动评价已核，所选锅具制造法人仍待对应。",
       "sourceIds": [
         "dehua-labor-2025",
         "qixuanyuan-dragon-mug-jd",
@@ -41347,7 +41771,13 @@
         "thermos-fei501wh-suzhou2022",
         "thermos-fei501wh-jd",
         "thermos-kunshan-employees2023",
-        "thermos-kunshan-employees2026"
+        "thermos-kunshan-employees2026",
+        "linkfair-worker-interview2020",
+        "linkfair-def32-official",
+        "linkfair-def-series-youzan",
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ]
     },
     {
@@ -41416,9 +41846,13 @@
         {
           "label": "灭蝇用品",
           "query": "灭蝇用品"
+        },
+        {
+          "label": "驱蚊用品",
+          "query": "驱蚊用品"
         }
       ],
-      "note": "16项日用洗护需求均有研究资料，目前湿巾、纸尿裤、灭蝇用品已有正式商品。新增品萱韧之语90抽四层24包抽纸、180g四层27卷卷纸及景兴三篇员工访谈；两款国内购买入口已对应，年报披露委外加工，具体厂家待核，未增加正式覆盖。其他牙膏牙刷、洗护清洁、卫生巾及清扫工具继续按具体制造主体补证。 青柠洗洁精1kg已补京东单瓶入口并对应新乡制造版本；自由点FLC8704-EC的制造主体已按完整抽查货号对应。两款劳动依据仍待补，卫生巾另缺当前同款入口。",
+      "note": "17项日用洗护需求均有研究资料，目前湿巾、纸尿裤、灭蝇用品已有正式商品。新增品萱韧之语90抽四层24包抽纸、180g四层27卷卷纸及景兴三篇员工访谈；两款国内购买入口已对应，年报披露委外加工，具体厂家待核，未增加正式覆盖。其他牙膏牙刷、洗护清洁、卫生巾及清扫工具继续按具体制造主体补证。 青柠洗洁精1kg已补京东单瓶入口并对应新乡制造版本；自由点FLC8704-EC的制造主体已按完整抽查货号对应。两款劳动依据仍待补，卫生巾另缺当前同款入口。 新补驱蚊用品需求及超威艾草145g十圈候选：安福企业劳动评价与更名已核，所选包装厂家待对应，未增加正式覆盖。",
       "sourceIds": [
         "jahwa-2025",
         "darlie-hours",
@@ -41466,7 +41900,13 @@
         "national-harmony-2022",
         "national-harmony-2022-criteria",
         "national-harmony-2022-final-notice",
-        "liby-qingning1kg-jd2026"
+        "liby-qingning1kg-jd2026",
+        "anfu-cheerwin-rename2025",
+        "anfu-cheerwin-labor-practices2023",
+        "chaowei145-procurement2025",
+        "chaowei145-yiwugo",
+        "chaowei-wp20110183-label",
+        "megasoft-china-employee-repost"
       ]
     },
     {
