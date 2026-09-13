@@ -8281,6 +8281,60 @@
       },
       "filename": "images/bingfeng-orange-glass-200x24.webp",
       "usage": "Attributed product illustration from the identified manufacturer or retailer. No labor-compliance or origin conclusion from the image alone."
+    },
+    {
+      "id": "weigang-yogurt1500",
+      "product_name": "原味风味酸牛奶1.5kg×2桶",
+      "official_source_page_url": "https://product.suning.com/0000000000/12384671877.html",
+      "product_page_url": "https://product.suning.com/0000000000/12384671877.html",
+      "image_url": "https://imgservice.suning.cn/uimg1/b2c/image/7H6BiKhiJqqKlXp7PNrnSw.jpg_800w_800h_4e",
+      "content_type": "image/webp",
+      "width": 800,
+      "height": 800,
+      "bytes": 118726,
+      "sha256": "6bfb69fe8cf330e40a63f788063fa95bd91f3c5803e0bb475176193ca6f8e337",
+      "checkedAt": "2026-09-13",
+      "visually_verified": true,
+      "notes": "图片展示单桶，零售组合为1.5kg×2桶；劳动依据另见企业档案。已目视核对原图，仅转存WebP，保留完整画面和尺寸。",
+      "reuse_info": {
+        "rights_holder": "苏宁商品图片相关权利人／卫岗",
+        "license": "未发现开放再授权；图片不包含在项目MIT代码授权中，仅用于注明来源的商品资料展示。"
+      },
+      "source_image_metadata": {
+        "width": 800,
+        "height": 800,
+        "bytes": 122842,
+        "sha256": "493c57abda8089161fe54106cfaf911e325123c6e76228aaa7768e88b465bbf3"
+      },
+      "filename": "images/weigang-yogurt1500.webp",
+      "usage": "Attributed product illustration. Package imagery is not an independent labor-compliance assessment."
+    },
+    {
+      "id": "weigang-nanjing-milk950",
+      "product_name": "1928南京牛奶厂鲜牛奶950mL",
+      "official_source_page_url": "https://www.foodtalks.cn/fbifwowfoodawards/gallery/wowfood/detail/6480",
+      "product_page_url": "https://item.jd.com/100184982164.html",
+      "image_url": "https://static.foodtalks.cn/cms/entry/form/e56b29210ad86850434271fa4cfd8be77623.jpg",
+      "content_type": "image/webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 2584310,
+      "sha256": "786517ab73ab5d2897fc87df14aaa1c74f50d2ecc0e627e8d54fbb795b943c07",
+      "checkedAt": "2026-09-13",
+      "visually_verified": true,
+      "notes": "图片为同款包装的多个角度，不代表六盒装；FBIF标识属于食品创新奖展示，不是劳动认证。已目视核对原图，仅转存WebP，保留完整画面和尺寸。",
+      "reuse_info": {
+        "rights_holder": "南京卫岗乳业有限公司／FBIF及原图权利人",
+        "license": "未发现开放再授权；图片不包含在项目MIT代码授权中，仅用于注明来源的商品资料展示。"
+      },
+      "source_image_metadata": {
+        "width": 3840,
+        "height": 2160,
+        "bytes": 1680027,
+        "sha256": "3a15078953068b42134ce98ea991107bb396f71fb1840e6d28416d428d4dda12"
+      },
+      "filename": "images/weigang-nanjing-milk950.webp",
+      "usage": "Attributed product illustration. Package imagery is not an independent labor-compliance assessment."
     }
   ]
 }

@@ -8931,6 +8931,114 @@
       "locator": "好奇品牌介绍与页脚商标归属",
       "summary": "金佰利中国官网列好奇HUGGIES为旗下品牌，页脚明确商标归属Kimberly-Clark Worldwide及美国金佰利公司。",
       "limitation": "用于品牌背景分类，不作为具体湿巾制造地点、型号或劳动合规证明；品牌背景与国内制造分别核对。"
+    },
+    {
+      "id": "weigang-yogurt1500x2-suning",
+      "title": "卫岗原味风味酸牛奶1.5kg×2桶苏宁商品页",
+      "publisher": "苏宁易购及页面商家",
+      "type": "零售商品页",
+      "url": "https://product.suning.com/0000000000/12384671877.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "商品12384671877标题、包装清单、参数及五张商品图库",
+      "summary": "原始HTML列卫岗原味风味酸牛奶1.5kg两桶装，包装清单为1.5kg桶装原味酸牛奶×2；商品图库提供同款正面和生产标签。",
+      "limitation": "已取得原始HTML及五张原图。品牌参数写苏宁宜品，与标题和卫岗包装不一致，按标题、装箱清单及包装交叉对应。未知地区库存和冷链配送；隐藏的下架提示模板不作为实际停售结论，未声称完成结账。"
+    },
+    {
+      "id": "weigang-yogurt1500-label",
+      "title": "卫岗原味酸牛奶1.5kg商品背标",
+      "publisher": "苏宁商品12384671877图库／卫岗包装",
+      "type": "商品包装标签",
+      "url": "https://imgservice.suning.cn/uimg1/b2c/image/pc8yewxKHGRgoFBBtiu2ig.jpg_800w_800h_4e",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "商品图库第五张，标签右下角生产企业、厂址与许可证",
+      "summary": "已下载并目视核对背标：生产企业为南京卫岗乳业有限公司，地址江苏南京将军大道139号，食品生产许可证SC10532011500380。与同组1.5kg原味正面图及两桶零售组合对应。",
+      "limitation": "图片未公开拍摄日期或当前零售批次，不能当成2026年逐批实物检查。标签用于制造主体对应，不证明劳动条件；仅限本条包装版本。"
+    },
+    {
+      "id": "weigang-milk1928-950-jd",
+      "title": "卫岗1928南京牛奶厂鲜牛奶950mL京东零售卡片",
+      "publisher": "京东及页面商家",
+      "type": "零售商品页",
+      "url": "https://www.jd.com/jiage/122180b288c5a9e3de7f0.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "卫岗1928南京牛奶鲜牛奶牛乳屋顶950mL卡片，链接100184982164",
+      "summary": "直接取得零售列表原始HTML，目标卡片明确1928南京牛奶厂鲜牛奶、屋顶950mL及巴氏低温奶，实际链接为100184982164。",
+      "limitation": "该条为950mL规格的鲜奶购买入口，不是相邻的4期或8期奶卡。详情直连仅返回通用脚本；没有把缩略图促销价、展示盒数或空白库存当成当前报价、固定组合数量或现货保证。"
+    },
+    {
+      "id": "weigang-milk1928-950-fbif",
+      "title": "卫岗提交的950mL南京牛奶厂鲜牛奶产品资料",
+      "publisher": "南京卫岗乳业有限公司提交／FBIF Wow Food Awards展示",
+      "type": "企业提交商品资料",
+      "url": "https://www.foodtalks.cn/fbifwowfoodawards/gallery/wowfood/detail/6480",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "商品名称、提交企业、950ml规格、2024-5上市时间及配料表图片链接",
+      "summary": "产品资料具名南京卫岗乳业有限公司，列950mL屋顶装南京牛奶厂鲜牛奶，2024年5月上市，销售区域为华东，渠道包括电商和商超；附清晰包装资料。",
+      "limitation": "已读取公开解析正文并取得实际原图，普通HTTP正文访问受限。这是企业提交的商品材料；上市日期不作为网页发布日期，食品创新奖或产品宣传不作为劳动合规依据。"
+    },
+    {
+      "id": "weigang-milk1928-950-label",
+      "title": "南京牛奶厂鲜牛奶950mL屋顶盒生产标签",
+      "publisher": "卫岗提交商品包装／FBIF展示",
+      "type": "商品包装标签",
+      "url": "https://static.foodtalks.cn/cms/entry/form/091112cebc52e2a327b0231e79b67c807770.jpg",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "产品资料的配料表图片，企业名称、地址、许可证及950mL标记",
+      "summary": "已下载并目视核对：产品为南京牛奶厂鲜牛奶950mL巴氏杀菌乳，具名南京卫岗乳业有限公司，南京市江宁区禄口街道蓝天路366号，许可证SC10532011500380。",
+      "limitation": "属于企业提交的包装资料图，未公开当前生产批次；结合2025年政府制造记录核对，不混用另一个列南京、泰州和徐州多个生产商的淳高品质950mL系列。标签不证明劳动合规。"
+    },
+    {
+      "id": "weigang-milk1928-950-nanjing2025",
+      "title": "南京2025年食品抽检中的南京牛奶厂鲜牛奶950mL制造记录",
+      "publisher": "南京市市场监督管理局",
+      "type": "政府制造记录",
+      "url": "https://amr.nanjing.gov.cn/ztzl/spaqjg/spcj/202502/P020250303646018444621.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "抽检表第512行；南京牛奶厂鲜牛奶950mL/盒，样品日期2025-01-01",
+      "summary": "公开索引中的完整目标行列南京卫岗乳业有限公司、南京市江宁区禄口街道蓝天路366号，产品南京牛奶厂鲜牛奶950mL/盒，2025-01-01样品；被抽样单位为南京客都商业管理有限公司。与企业包装资料一致。",
+      "limitation": "本轮核对公开索引完整目标行；原PDF直接下载受限，未完成原件页面图像核对。样品日期不是公布日，未由URL补造发布日期。抽检仅用于制造对应，不作为劳动评价。"
+    },
+    {
+      "id": "weigang-production-hiring-rest",
+      "title": "南京卫岗生产岗位招聘中的休息安排线索",
+      "publisher": "智联招聘／南京卫岗乳业有限公司招聘页",
+      "type": "招聘页",
+      "url": "https://www.zhaopin.com/companydetail/jobs-CZ131944550/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "普工／操作工职位及做六休一、社会保险、厂内食堂标签",
+      "summary": "公开招聘索引的南京卫岗普工／操作工职位列做六休一、社会保险和厂内食堂，作为生产岗位排班的补充线索。",
+      "limitation": "仅核到公开招聘索引，原页当前访问超时，职位发布日期未明；招聘承诺不是员工实际经历，也未公开实际每日工时与加班报酬履行情况。单休本身不用于认定违法或合规。"
+    },
+    {
+      "id": "danone-lab-intern-2024",
+      "title": "牛客：达能实习生入职第一周体验",
+      "publisher": "牛客用户自述",
+      "type": "员工本人陈述",
+      "url": "https://www.nowcoder.com/discuss/658234776427548672?sourceSSR=enterprise",
+      "publishedAt": "2024-08-28",
+      "checkedAt": "2026-09-13",
+      "locator": "主帖正文及2024-08-28 09:10发布时间；不计评论和推荐内容",
+      "summary": "作者自述化验室实习首周主要接受培训和阅读方法文件，作息为9:00—17:30，当时没有加班，并提到餐食、住宿和团队沟通体验。",
+      "limitation": "已取得原始HTML全文，但身份未独立核实；正文称化验室实习，账号职业标签却为销售专员。首周负责人未返回，不代表正常生产周期；具体工厂、用人法人和完整实习日期未公开。"
+    },
+    {
+      "id": "danone-sales-trainee-2024",
+      "title": "牛客：达能销售管培经历（已离职）",
+      "publisher": "牛客用户自述",
+      "type": "员工本人陈述",
+      "url": "https://www.nowcoder.com/discuss/660909903694876672?sourceSSR=users",
+      "publishedAt": "2024-09-04",
+      "checkedAt": "2026-09-13",
+      "locator": "主帖正文及2024-09-04 18:20发布时间；不计评论和推荐内容",
+      "summary": "作者自述销售管培工作需早会后走访大量门店，提到单休、自称不定时工作制及夏季繁忙，同时肯定同事关系。正文说明销售岗位体验与总部不同。",
+      "limitation": "已取得原始HTML全文，身份、具体雇主、工作地点和实际任职起止日期未核实；没有不定时工时审批或工资凭证，不能据帖子认定该安排合规或违法，也不代表工厂岗位。"
     }
   ],
   "companies": [
@@ -11160,58 +11268,99 @@
       "id": "weigang",
       "name": "卫岗乳业",
       "legalName": "南京卫岗乳业有限公司",
-      "location": "江苏南京等",
+      "location": "江苏南京；本档案按具名制造法人对应",
       "origin": "china",
       "originNote": "中国创立的品牌或品牌所属企业；具体商品的产地、原料与生产法人另行核对。",
-      "level": "research",
+      "level": "assessment",
       "hours": null,
       "restDays": null,
-      "hoursLabel": "具体工时制度待补",
-      "restLabel": "具体休息安排待补",
-      "cardNote": "有政府记录 · 当前产线待核",
-      "scope": "品牌及在华业务；尚未将工作安排对应到具体工厂、门店或岗位。",
-      "finding": "2022年全国示范名单可对应南京卫岗乳业有限公司，官网可核1500g风味酸牛奶。仍需核对所选商品制造主体与该批评价标准、后续劳动依据的适用关系。",
+      "hoursLabel": "2022年综合标准涵盖工时",
+      "restLabel": "招聘另有做六休一线索",
+      "cardNote": "2022年综合评价（较早资料）",
+      "scope": "南京卫岗乳业有限公司；本次对应原味酸牛奶1.5kg×2桶、1928南京牛奶厂鲜牛奶950mL。",
+      "finding": "两款包装均具名南京卫岗，鲜奶另有2025年监管制造记录；共用该法人2022年全国综合劳动评价及同批完整标准。生产招聘有做六休一线索，未把评价写成零加班承诺。",
       "caveats": [
-        "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
-        "具体缺口按商品的销售、制造或服务主体、劳动依据分别列明；资料不足不表示企业违法。"
+        "劳动依据为2022年综合评价，未取得2023—2026年新的具名综合复核；2026年仅为本站查阅日期，不保证之后每项用工行为。",
+        "生产招聘有做六休一标签，属于招聘线索；实际每日工时与加班报酬履行未独立核实，不把单休本身作为违法结论。",
+        "酸奶包装图日期未公开；鲜奶制造记录为2025年样品。两款分别保留标签地址，未声称核对了2026年每批实物。",
+        "本次限包装或监管资料对应的南京法人；其他卫岗工厂、其他系列及独立配送企业不套用。奶源和物流另作补充调查。"
       ],
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
         "national-harmony-2022-criteria",
-        "national-harmony-2022-final-notice"
+        "national-harmony-2022-final-notice",
+        "weigang-yogurt1500x2-suning",
+        "weigang-yogurt1500-label",
+        "weigang-milk1928-950-jd",
+        "weigang-milk1928-950-fbif",
+        "weigang-milk1928-950-label",
+        "weigang-milk1928-950-nanjing2025",
+        "weigang-production-hiring-rest"
       ],
       "supply": [
         {
           "stage": "品牌与运营",
-          "status": "unknown",
-          "detail": "品牌商品资料已找到；工时与休息制度尚待补充。",
-          "sourceIds": []
+          "status": "policy",
+          "detail": "官网和企业提交资料对应两款乳制品；招聘排班承诺另标为岗位线索，未作为员工实际体验。",
+          "sourceIds": [
+            "weigang-yogurt1500",
+            "weigang-milk1928-950-fbif",
+            "weigang-production-hiring-rest"
+          ]
         },
         {
           "stage": "生产或门店服务",
-          "status": "unknown",
-          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
-          "sourceIds": []
+          "status": "verified",
+          "detail": "两款包装具名南京卫岗；鲜奶另有2025年抽检记录。共同采用该法人2022年综合劳动评价，各自制造年份和地址保留。",
+          "sourceIds": [
+            "weigang-yogurt1500-label",
+            "weigang-milk1928-950-label",
+            "weigang-milk1928-950-nanjing2025",
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ]
         },
         {
           "stage": "原料、外包与物流",
           "status": "unknown",
-          "detail": "原料、外包与物流用工尚未完成补充调查，不另设全供应链准入门槛。",
+          "detail": "奶源、原料和独立冷链配送用工另作补充调查，不以品牌或南京法人评价覆盖其他雇主。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先对应具体商品的制造企业或服务经营主体，再补充该主体可复核的劳动合规资料；供应商追踪作为补充调查。",
+      "nextCheck": "2026-10-13前复查具名劳动结果、生产员工经历和两条零售入口；出现更新劳动事实或制造法人变化时重审。淳高品质950mL另列多个制造商，需取得对应批次工厂代码后再评估。",
       "assessments": [
         {
           "subject": "南京卫岗乳业有限公司",
           "result": "全国和谐劳动关系创建示范企业",
-          "period": "2022 年命名",
+          "period": "2022年综合评价（较早资料）；完整审查起止日未公开",
           "sourceId": "national-harmony-2022",
-          "limitation": "保留具名法人和2022年命名范围；同批综合劳动标准已补齐，所选制造或服务主体的对应及后续记录仍分别核对，不额外要求公开逐人考勤。"
+          "limitation": "评价年份为2022年，未取得2023—2026年新的具名综合复核。招聘做六休一仅为补充线索，不证明实际加班安排；本站复查安排不是官方延长有效期。",
+          "kind": "government-labor-review",
+          "resultPublishedAt": "2022-09-16",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "人力资源社会保障部、全国总工会、中国企联、全国工商联",
+          "scopeType": "employer",
+          "scope": "南京卫岗乳业有限公司2022年具名综合劳动评价；本次按实际包装和制造记录对应两款乳制品，不扩展至其他制造法人。",
+          "verificationSourceId": "national-harmony-2022",
+          "basisSourceIds": [
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ]
         }
       ]
     },
@@ -20080,6 +20229,77 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "取得工厂ID或可独立核对的审核记录、劳动发现及整改资料、具体商品制造标签后再推进；不要求必须取得白金等级。"
+    },
+    {
+      "id": "danone-china-employee-lead",
+      "name": "达能（员工线索）",
+      "legalName": "达能在华业务；具体用人法人待对应",
+      "location": "中国境内业务线索；帖子未公开具体工厂和工作地点",
+      "origin": "international",
+      "originNote": "按达能国际集团在华业务记录背景；具体中国制造企业与品牌商品仍需分别对应。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "实习与销售岗位体验不同",
+      "restLabel": "销售自述单休；范围待核",
+      "cardNote": "2条本人自述 · 具体雇主待核",
+      "scope": "2024年化验室实习首周和已离职销售管培生的两条牛客自述；身份与具体法人未独立核实。",
+      "finding": "由员工自述发现值得核对的公司线索：实习生提到按时下班，销售管培生同时提到单休和旺季忙碌。按岗位分别保留，尚不据此认定达能所有岗位或商品符合收录标准。",
+      "caveats": [
+        "两条均取得主帖原始HTML，但身份、任职地点及具体用人单位尚未独立核实；发帖日期不等于完整任职起止日。",
+        "实习正文称化验室，账号职业标签却为销售专员；且仅为负责人未返回的首周体验，不能代表正式生产排班。",
+        "销售帖提到单休、不定时工作制及夏季忙碌，未提供工时审批或工资凭证。单休或加班本身不用于认定违法。",
+        "具体中国制造法人及适用劳动依据待对应；不将两条帖子推广到全部脉动或其他达能产品。"
+      ],
+      "sourceIds": [
+        "danone-lab-intern-2024",
+        "danone-sales-trainee-2024"
+      ],
+      "supply": [
+        {
+          "stage": "品牌与销售",
+          "status": "unknown",
+          "detail": "销售管培生自述提供实际工作的初步线索，具体用人法人、地点及任职时期待对应。",
+          "sourceIds": [
+            "danone-sales-trainee-2024"
+          ]
+        },
+        {
+          "stage": "生产与质量岗位",
+          "status": "unknown",
+          "detail": "化验室实习首周自述提到培训和作息；尚不能对应具名工厂的正常生产周期与综合劳动情况。",
+          "sourceIds": [
+            "danone-lab-intern-2024"
+          ]
+        },
+        {
+          "stage": "原料、外包与物流",
+          "status": "unknown",
+          "detail": "现有两条经历不覆盖原料、外包和独立物流雇主；取得具体商品后另作补充调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "优先找能公开对应地点、实际雇主和任职时期的生产或化验室员工经历，再核对该雇主综合劳动资料及脉动具体规格。已有搜索未取得适用具名结果，有新原始资料再继续，不反复只搜A级。",
+      "employeeFeedback": [
+        {
+          "sourceId": "danone-lab-intern-2024",
+          "kind": "firsthand",
+          "period": "2024-08-28发帖，自述入职首周；完整实习日期未公开",
+          "roleScope": "正文自述化验室实习；账号职业标签不同，具体工厂和雇主未公开",
+          "summary": "自述首周以质量、安全培训和学习文件为主，9:00—17:30上下班，当时没有加班，并有餐食和住宿。",
+          "limitation": "身份未独立核实，账号职业标签与正文岗位不同；负责人当周未返回，不能代表后续正常生产周期。未核工资、社保或加班费实际履行。"
+        },
+        {
+          "sourceId": "danone-sales-trainee-2024",
+          "kind": "firsthand",
+          "period": "2024-09-04发帖时已离职；任职起止日期未公开",
+          "roleScope": "自述脉动销售管培生；具体地区和劳动合同雇主未公开",
+          "summary": "自述需早会后跑大量门店，单休，夏季较忙，并称采用不定时工作制；同时肯定同事关系。",
+          "limitation": "身份未独立核实，未取得工时制度审批或工资凭证；无法据此计算实际工时或作劳动法律结论，也不能代表化验室和生产线。"
+        }
+      ]
     }
   ],
   "products": [
@@ -24228,48 +24448,61 @@
     },
     {
       "id": "weigang-yogurt1500",
-      "name": "风味酸牛奶 1500g",
+      "name": "原味风味酸牛奶1.5kg×2桶",
       "brand": "卫岗",
       "companyId": "weigang",
       "category": "drinks",
-      "description": "官网产品列表明确净含量 1500g 的风味酸牛奶。",
+      "description": "原味低温风味酸牛奶，两桶各1.5kg。商品包装具名南京卫岗，劳动资料与适用年份在档案中列明。",
       "tags": [
-        "酸奶"
+        "酸奶",
+        "原味",
+        "1.5kg×2桶",
+        "低温乳品",
+        "南京制造"
       ],
       "needs": [
         "酸奶"
       ],
-      "url": "https://www.weigangdairy.com/ppcp",
+      "url": "https://product.suning.com/0000000000/12384671877.html",
       "relationshipSourceIds": [
-        "weigang-yogurt1500"
+        "weigang-yogurt1500",
+        "weigang-yogurt1500x2-suning",
+        "weigang-yogurt1500-label"
       ],
-      "market": "已核官方产品规格；现售状态、低温配送范围和商品背标待补。",
-      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
-      "image": null,
-      "imageMode": "typography",
-      "imageSource": null,
-      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "market": "苏宁商品12384671877，包装清单为1.5kg原味酸牛奶×2桶；配图展示单桶。价格、冷链配送范围和库存以商家当前选项为准。",
+      "relationship": "同一零售页的正反面包装对应卫岗原味酸牛奶1.5kg，生产企业为南京卫岗乳业有限公司，标签地址为将军大道139号；图片日期未公开。",
+      "image": "images/weigang-yogurt1500.webp",
+      "imageMode": "contain",
+      "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/7H6BiKhiJqqKlXp7PNrnSw.jpg_800w_800h_4e",
+      "imageRights": "苏宁商品图片相关权利人／卫岗。仅作商品资料插图；图片展示单桶，零售组合为1.5kg×2桶；劳动依据另见企业档案。",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已通过官方检索缓存确认 1500g 商品；官网直连受限，当前可下单渠道需补核。",
+          "status": "supported",
+          "detail": "苏宁具体商品标题、包装清单及图库对应1.5kg原味酸牛奶两桶组合，已取得购买入口；地区实时库存未知不另设为否决条件。",
           "sourceIds": [
-            "weigang-yogurt1500"
+            "weigang-yogurt1500x2-suning"
           ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "品牌归属南京公司，未取得该桶背标对应的生产法人、厂址及奶源。",
+          "status": "supported",
+          "subject": "南京卫岗乳业有限公司",
+          "detail": "同款商品背标明确南京卫岗乳业有限公司、江苏南京将军大道139号及食品生产许可证。包装拍摄日期与当前批次未公开，仅按本条包装版本对应境内制造。",
           "sourceIds": [
-            "weigang-yogurt1500"
+            "weigang-yogurt1500-label",
+            "weigang-yogurt1500x2-suning"
           ]
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "南京卫岗乳业有限公司有2022年具名综合评价及完整标准；本款1500g酸奶的实际生产法人尚未核清，不能仅凭品牌套用。奶源和独立配送另作补充调查。",
+          "status": "supported",
+          "subject": "南京卫岗乳业有限公司",
+          "detail": "共用南京卫岗乳业有限公司2022年全国综合劳动评价及同批合同、工资、社保、工时休假和劳动保护标准；保留较早年份及做六休一招聘线索，不承诺零加班或2026年重新认证。",
           "sourceIds": [
-            "national-harmony-2022"
-          ]
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice",
+            "weigang-production-hiring-rest"
+          ],
+          "assessmentSourceId": "national-harmony-2022"
         }
       }
     },
@@ -33199,6 +33432,69 @@
           "huggies-brand-kimberly-official"
         ]
       }
+    },
+    {
+      "id": "weigang-nanjing-milk950",
+      "name": "1928南京牛奶厂鲜牛奶950mL",
+      "brand": "卫岗",
+      "companyId": "weigang",
+      "category": "drinks",
+      "description": "950mL屋顶盒巴氏鲜牛奶，需冷藏保存。包装及2025年制造记录对应南京卫岗，可共用同一企业的劳动依据。",
+      "tags": [
+        "牛奶",
+        "鲜牛奶",
+        "巴氏奶",
+        "950mL",
+        "屋顶盒",
+        "南京制造"
+      ],
+      "needs": [
+        "牛奶"
+      ],
+      "url": "https://item.jd.com/100184982164.html",
+      "market": "京东商品100184982164对应1928南京牛奶厂鲜牛奶950mL；购买数量和配送以商家当前选项为准。包装图为不同角度示意，不代表六盒装；本条不是相邻奶卡或礼卡。",
+      "relationship": "企业提交的包装标签与南京2025年抽检目标行均具名南京卫岗乳业有限公司、江宁区禄口街道蓝天路366号；按950mL南京牛奶厂鲜牛奶对应当前零售卡片。",
+      "relationshipSourceIds": [
+        "weigang-milk1928-950-fbif",
+        "weigang-milk1928-950-label",
+        "weigang-milk1928-950-nanjing2025",
+        "weigang-milk1928-950-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东公开零售卡片列1928南京牛奶厂鲜牛奶950mL，并直接链接商品100184982164；数量、价格与地区库存按商家当前选项核对。",
+          "sourceIds": [
+            "weigang-milk1928-950-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "南京卫岗乳业有限公司",
+          "detail": "实际发布的包装标签及2025-01-01样品制造记录均对应南京卫岗、南京江宁蓝天路366号与950mL规格。政府记录采用公开索引完整目标行；保留2025年样品及包装图日期未明的限制。",
+          "sourceIds": [
+            "weigang-milk1928-950-label",
+            "weigang-milk1928-950-nanjing2025",
+            "weigang-milk1928-950-fbif"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "subject": "南京卫岗乳业有限公司",
+          "detail": "共用南京卫岗乳业有限公司2022年全国综合劳动评价及同批合同、工资、社保、工时休假和劳动保护标准；保留较早年份及做六休一招聘线索，不承诺零加班或2026年重新认证。",
+          "sourceIds": [
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice",
+            "weigang-production-hiring-rest"
+          ],
+          "assessmentSourceId": "national-harmony-2022"
+        }
+      },
+      "image": "images/weigang-nanjing-milk950.webp",
+      "imageMode": "contain",
+      "imageSource": "https://static.foodtalks.cn/cms/entry/form/e56b29210ad86850434271fa4cfd8be77623.jpg",
+      "imageRights": "南京卫岗乳业有限公司／FBIF及原图权利人。仅作商品资料插图；图片为同款包装的多个角度，不代表六盒装；FBIF标识属于食品创新奖展示，不是劳动认证。"
     }
   ],
   "coverage": [
@@ -33635,7 +33931,7 @@
           "query": "汽水"
         }
       ],
-      "note": "饮料酒水补入独立的汽水需求，共12项，均有具体研究资料。冰峰200mL×24瓶橙味玻璃瓶依据具名自产资料和2025年政府综合劳动评价正式收录，原始制造说明年份与范围保留；不扩展到委外罐装。口子窖、金惟他冲饮和迎驾山泉继续保留收录，其余产品按各自缺口复核。",
+      "note": "饮料酒水12项需求均有研究资料，7项已有正式商品：牛奶、酸奶、饮用水、啤酒、白酒、冲调饮品、汽水。新收录卫岗1928鲜牛奶950mL和原味酸牛奶1.5kg×2桶，共用南京法人2022年综合劳动评价，保留较早年份及各款制造范围；其他5项仍待补齐。",
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
@@ -33679,7 +33975,16 @@
         "bingfeng-current-brand-products",
         "bingfeng-orange-glass-200x24-jd",
         "shaanxi-harmony-final-2025",
-        "shaanxi-harmony-criteria-2025"
+        "shaanxi-harmony-criteria-2025",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice",
+        "weigang-yogurt1500x2-suning",
+        "weigang-yogurt1500-label",
+        "weigang-milk1928-950-jd",
+        "weigang-milk1928-950-fbif",
+        "weigang-milk1928-950-label",
+        "weigang-milk1928-950-nanjing2025",
+        "weigang-production-hiring-rest"
       ]
     },
     {
