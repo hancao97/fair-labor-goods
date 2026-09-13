@@ -2885,11 +2885,11 @@
       "title": "圣迪乐 OMEGA-3 儿童鸡蛋 20 枚：京东零售资料",
       "publisher": "京东公开商品页（标题标示京东自营源头直发）",
       "url": "https://item.jd.com/product/dGcaNsa4eFPXbndrEQAk3A.html",
-      "summary": "页面题名为圣迪乐村 OMEGA-3 儿童鲜鸡蛋，20 枚、净重 2 斤，公开显示价格与购买入口。",
-      "limitation": "不能仅凭标题中的自营字样确认具体销售法人；当前地区库存未取得。零售包装与官网儿童版本、实际养殖及分装基地需进一步对应，不从评论推断营养、安全或劳动条件。",
+      "summary": "已直接读取京东儿童OMEGA-3鲜鸡蛋20枚、净重2斤商品页，明确显示报价和购买入口；用于本款国内销售对应。",
+      "limitation": "页面标题包含自营字样，但未据此认定具体销售法人。价格、地区库存及配送以商家为准；页面没有明确生产企业，不能用销售对应证明广东制造或劳动合规。",
       "publishedAt": null,
-      "checkedAt": "2026-09-12",
-      "locator": "商品题名、规格与报价区域；不采用推荐商品和买家评论",
+      "checkedAt": "2026-09-13",
+      "locator": "本款标题、20枚净重2斤、报价及购买按钮；排除推荐商品和用户评论",
       "type": "零售商商品页"
     },
     {
@@ -9387,6 +9387,78 @@
       "locator": "补充法律意见书（二）“劳动和社会保障”，截至2022-06-30合并员工情况",
       "summary": "文件列母子公司474名员工，其中379人已缴两项；95人未缴中88人为退休返聘，5人说明次月已缴，另2人因参加农村保障而自愿放弃。律师说明历史缴纳不规范及相关承诺，并认为不构成发行上市实质障碍。",
       "limitation": "已读公告转载正文的完整相关段落。人数是发行人及子公司合计，未具名2人的签约法人；不能把95人全部称为违法漏缴，也不能直接归给母公司生产工人。未受处罚和不影响上市不等于全项劳动合规；后续整改与当前情况仍需核对。"
+    },
+    {
+      "id": "bluemoon-employee-experiences-job592",
+      "title": "蓝月亮职朋个人陈述：质量、设计及媒介岗位的不同体验",
+      "publisher": "职朋职业圈用户；平台待遇专题汇编",
+      "type": "员工本人陈述",
+      "url": "https://www.job592.com/pay/daiyu/10031.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "福利补贴、工作时间大家说、工作压力栏目；QE质量工程师、设计师及媒介专员回答",
+      "summary": "设计人员谈到准时下班和双休；QE人员提到五险一金，但在不同回答中分别说有加班费及已改调休；媒介人员反映频繁加班和单休。",
+      "limitation": "已读原平台公开汇编正文，个人身份、帖文日期和经历起止日未独立核实。页面更新时间不当作经历日期；同一QE账号的不同回答合并记录，保留加班补偿差异。各岗位不能互相代表，也不采用跨年份、跨岗位投票百分比推断全公司。"
+    },
+    {
+      "id": "bluemoon-esg2025",
+      "title": "蓝月亮2025年环境、社会及管治报告：用工与工厂对应",
+      "publisher": "蓝月亮集团控股有限公司／香港交易所披露易",
+      "type": "企业法定披露",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0424/2026042402247_c.pdf",
+      "publishedAt": "2026-04-24",
+      "checkedAt": "2026-09-13",
+      "locator": "印刷页1、40—42、52—53（PDF第3、42—44、54—55页）；官网公告目录列2026-04-24发布",
+      "summary": "报告对应广州、天津、重庆、永和、昆山五家工厂法人，披露劳动合同、社保及部分法人集体合同安排；员工统计为全职直接雇员。",
+      "limitation": "已下载64页原报告并检查相关完整页面与附注。2025年集团披露不等于独立劳动审核；员工章节未解决具体加班补偿与排班问题。国内雇员数不证明个人国籍，也不自动覆盖派遣或外包人员；ISO45001仅为职业健康安全体系线索。"
+    },
+    {
+      "id": "bluemoon-report-index2026",
+      "title": "蓝月亮官方公告目录：2025年ESG报告发布日期",
+      "publisher": "蓝月亮官方网站",
+      "type": "企业公告目录",
+      "url": "https://www.bluemoon.com.cn/investorRelations/info",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "2026-04-24的2025年环境、社会及管治报告条目",
+      "summary": "官网公告目录明确将2025年ESG报告列在2026-04-24，用于核对报告发布日期。",
+      "limitation": "本次读取官方公开索引；目录只核对文件及日期，不独立证明用工合规。"
+    },
+    {
+      "id": "sundaily-grain750-guangdong-inspection2022",
+      "title": "东莞食品抽检：广东圣迪乐750g谷物鲜蛋历史制造记录",
+      "publisher": "东莞市市场监督管理局",
+      "type": "政府食品抽检",
+      "url": "https://dgamr.dg.gov.cn/attachment/0/120/120841/3866085.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "附件2合格产品信息，印刷页193、第1288行；表列日期2022-05-10",
+      "summary": "第1288行将鸡蛋（圣迪乐谷物鲜蛋）750g（15枚）/盒对应广东圣迪乐村生态食品有限公司及开平金鸡山厂址；被抽样单位为沃尔玛东莞黄江环城路分店。",
+      "limitation": "本次只取得政府附件公开索引中的完整相关行，直接附件返回404；公告发布日期未核。历史制造记录不是劳动评价，也不能证明其他地区当前零售均来自广东。"
+    },
+    {
+      "id": "sundaily-grain750-shijiazhuang-inspection2025",
+      "title": "北京食品抽检：石家庄圣迪乐750g谷物鸡蛋制造记录",
+      "publisher": "北京市市场监督管理局",
+      "type": "政府食品抽检",
+      "url": "https://scjgj.beijing.gov.cn/zwxx/gs/spzlgs/202504/P020250409638325654632.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "第214行；圣迪乐谷物鸡蛋750克（15枚）/盒，表列日期2024/12/5",
+      "summary": "该行标称制造商为石家庄圣迪乐村生态食品有限公司，地址位于河北平山县；被抽样单位为北京永辉大兴区枣园路分公司。",
+      "limitation": "本次读取政府附件公开索引相关行；全文工具因文件大小未展开，本地请求403。精确公告发布日期未核。它证明同品牌同枚数重量存在另一制造来源，不能借用广东法人的劳动评价。"
+    },
+    {
+      "id": "sundaily-grain750-xnbl-retail",
+      "title": "圣迪乐谷物鲜鸡蛋15枚750g：个人零售入口",
+      "publisher": "新农伯乐网商品页",
+      "type": "零售商商品页",
+      "url": "https://www.xnbl.net/mall/show-5535.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "商品标题、750g15枚选项、起订量和自提配送说明",
+      "summary": "页面提供圣迪乐谷物鲜鸡蛋15枚750g/盒，起订1盒，列全国配送及北京昌平奇点中心自提地点。",
+      "limitation": "所读正文未列制造法人，不能因存在广东同规格抽检记录就推定本店货源。其他675g及30枚选项分别判断；价格、库存与配送以下单页面为准。"
     }
   ],
   "companies": [
@@ -12077,18 +12149,21 @@
       "hoursLabel": "工时休息纳入政府评价",
       "restLabel": "具体排班未单独披露",
       "cardNote": "2025 年劳动守法 A 级",
-      "scope": "品牌及境内基地资料、广东制造法人2025年度劳动评价，以及750克鲜鸡蛋的具名生产记录；不同规格和基地分别判断。",
-      "finding": "广东圣迪乐村生态食品有限公司获2025年度劳动守法A级；2026年通告转载另将750克可生食鸡蛋对应该厂。原20枚1000g OMEGA-3款仍未对应同一养殖、分装主体。",
+      "scope": "品牌及境内基地资料、广东法人2025年劳动评价、不同系列鸡蛋的历史制造记录；按实际商品与制造企业判断。",
+      "finding": "广东制造法人有2025年劳动守法A级。20枚1kg OMEGA-3款已确认国内购买入口，但制造企业待对应；另查15枚750g谷物蛋存在广东和石家庄不同制造记录，零售页未指定厂家。",
       "caveats": [
         "商品介绍不证明劳动条件。",
-        "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
+        "同品牌、同枚数重量的谷物蛋已有广东及石家庄制造记录，不能将广东劳动评价扩展到未指定厂家的全国零售。",
         "具体缺口按商品的销售、制造或服务主体、劳动依据分别列明；资料不足不表示企业违法。"
       ],
       "sourceIds": [
         "sundaily-company",
         "kaiping-labor-2025",
         "sundaily-omega-product",
-        "sundaily-guangdong-eggs750-inspection2026"
+        "sundaily-guangdong-eggs750-inspection2026",
+        "sundaily-grain750-guangdong-inspection2022",
+        "sundaily-grain750-shijiazhuang-inspection2025",
+        "sundaily-grain750-xnbl-retail"
       ],
       "supply": [
         {
@@ -12107,6 +12182,16 @@
           ]
         },
         {
+          "stage": "谷物蛋15枚750g的厂家差异",
+          "status": "unknown",
+          "detail": "广东2022年样品与石家庄2024年样品均为谷物蛋15枚750g；已找到个人零售入口，但未指定其中哪一家供货。它们不是20枚OMEGA-3或750g可生食系列的替代证明。",
+          "sourceIds": [
+            "sundaily-grain750-guangdong-inspection2022",
+            "sundaily-grain750-shijiazhuang-inspection2025",
+            "sundaily-grain750-xnbl-retail"
+          ]
+        },
+        {
           "stage": "原料、外包与物流",
           "status": "unknown",
           "detail": "OMEGA-3 系列官网明确使用进口亚麻籽；饲料具体供应商及相关劳动记录仍未知，不能按境内养殖基地推断全部原料来自国内。",
@@ -12117,7 +12202,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "优先寻找明确标注广东圣迪乐村生态食品有限公司的750克可生食鸡蛋零售选项；20枚OMEGA-3款需独立的生产标签或具名供货资料，不能按品牌或近似包装借用广东评价。",
+      "nextCheck": "20枚OMEGA-3已有零售入口，继续找对应养殖或分装企业。15枚750g谷物蛋优先核对具体零售供货厂家，或取得资料明确列出的各制造商适用劳动依据；仅重量枚数一致不能证明广东生产。不重复已经404、403或超时的旧附件。",
       "assessments": [
         {
           "subject": "广东圣迪乐村生态食品有限公司",
@@ -21072,6 +21157,71 @@
         }
       ],
       "nextCheck": "优先查近期制被、缝纫员工经历，并跟进具名劳动结果及历史缴纳问题的后续说明；取得0202040550准确零售入口或其他具体国产规格后再建商品。旧平台汇总、泛称A级的年报与同一附件失败路径不重复。"
+    },
+    {
+      "id": "bluemoon-china-employee-lead",
+      "name": "蓝月亮（员工线索）",
+      "legalName": "蓝月亮在华企业；部分个人记录具名广州蓝月亮实业有限公司",
+      "location": "广州岗位线索；具体签约法人及厂区待对应",
+      "origin": "china",
+      "originNote": "2025年报告介绍中国创立的蓝月亮品牌，并对应境内五家工厂；各商品实际制造企业另核。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "岗位反馈有差异",
+      "restLabel": "双休与单休经历并存",
+      "cardNote": "员工反馈与2025年报告对照",
+      "scope": "原平台汇编中的质量、设计及媒介岗位自述，以及2025年集团用工披露；不把不同岗位拼成全厂结论。",
+      "finding": "员工反馈提供休息、社保与加班补偿线索，也存在岗位差异及同一回答者的补偿描述变化。报告补充合同、社保和集体合同信息，具体生产企业的加班与休息履行仍待核对。",
+      "caveats": [
+        "原平台可读个人陈述的经历时期和身份尚未独立核实；专题更新时间不等于新发生的员工经历。",
+        "QE记录一处说有加班费，另一处说已改调休并称生产、供应链部门有加班费；缺少适用日期与加班类型，不据此直接作法律定性。",
+        "集团报告列出的国内雇员是全职直接雇员统计，不能用作个人国籍证明或涵盖所有派遣、外包人员。"
+      ],
+      "sourceIds": [
+        "bluemoon-employee-experiences-job592",
+        "bluemoon-esg2025",
+        "bluemoon-report-index2026"
+      ],
+      "supply": [
+        {
+          "stage": "员工工作体验",
+          "status": "unknown",
+          "detail": "同一平台保留正面体验及加班补偿问题；尚未对应具体生产班组及经历日期。",
+          "sourceIds": [
+            "bluemoon-employee-experiences-job592"
+          ]
+        },
+        {
+          "stage": "企业用工披露",
+          "status": "policy",
+          "detail": "2025年报告披露合同、社保、集体协商和职业健康安全安排，作为继续核查具体雇主的依据。",
+          "sourceIds": [
+            "bluemoon-esg2025"
+          ]
+        },
+        {
+          "stage": "具体制造与国内销售",
+          "status": "unknown",
+          "detail": "报告已对应五家境内工厂法人；下一步按实际制造企业对应洗衣、洗手和家居清洁用品的具体规格。",
+          "sourceIds": [
+            "bluemoon-esg2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "优先核对广州生产、质量岗位近期员工经历和加班补偿变化，明确签约法人；查该雇主适用劳动依据后，可供已对应的多款国产清洁用品共用。不重复无结果的泛称A级检索。",
+      "employeeFeedback": [
+        {
+          "sourceId": "bluemoon-employee-experiences-job592",
+          "kind": "firsthand",
+          "period": "具体发帖日、任职起止日未公开；2026-09读取原平台汇编",
+          "roleScope": "自述广州蓝月亮QE质量、设计和媒介岗位；设计记录具名广州蓝月亮实业有限公司，其余实际雇主待核",
+          "summary": "设计人员谈到准时下班与双休；QE人员提到五险一金，但有加班费和已改调休的回答并存；媒介人员反映频繁加班与单休。",
+          "limitation": "身份及经历日期未核。同一QE账号不同回答合并保留，不能当成多名独立员工，也不能用办公室或质量岗位推定全部生产工人的安排。"
+        }
+      ]
     }
   ],
   "products": [
@@ -23926,35 +24076,34 @@
     },
     {
       "id": "sundaily-omega3-eggs20",
-      "name": "儿童超级营养蛋（OMEGA-3系列）20枚 / 1000g",
+      "name": "OMEGA-3儿童鲜鸡蛋20枚 / 1000g",
       "brand": "圣迪乐",
       "companyId": "sundaily",
       "category": "fresh",
-      "description": "官网儿童包装版本鲜鸡蛋，20 枚 / 1000g。官网明确使用进口亚麻籽喂养；鸡蛋的具体养殖、分装基地另核。",
+      "description": "按京东20枚、净重2斤（1000g）的儿童OMEGA-3系列记录；主图为官网包装示例，新老包装可能交替，具体养殖及分装企业待核。",
       "tags": [
         "鸡蛋"
       ],
       "needs": [
         "鸡蛋"
       ],
-      "url": "https://www.sundaily.cn/product.aspx?t=2&type=4",
+      "url": "https://item.jd.com/product/dGcaNsa4eFPXbndrEQAk3A.html",
       "relationshipSourceIds": [
         "sundaily-omega-product",
         "sundaily-omega-jd-retail",
         "sundaily-omega-retail-packaging"
       ],
-      "market": "已找到京东儿童 OMEGA-3 20 枚 / 2 斤零售资料，页面提示新老包装交替；与官网示例的完整版本对应、当前库存及地区配送仍待核。",
-      "relationship": "官网儿童超级营养蛋示例与零售儿童 OMEGA-3 系列的名称、包装有差异；页面同时提示包装更替。没有完整条码或生产标签，不能确认完全相同版本或指定养殖、分装法人。",
+      "market": "已读京东本款20枚、净重2斤的直接商品页及购买入口；价格、库存和配送以商家所选地区结果为准。",
+      "relationship": "官网与零售同属儿童OMEGA-3系列20枚1kg规格，商家提示包装更替；本条按零售选项记录，不保证外盒与官网示例完全相同。制造企业仍需对应。",
       "image": "images/sundaily-omega3-eggs20.webp",
       "imageMode": "contain",
       "imageSource": "https://www.sundaily.cn/Uploadfiles/Picture/2025-7-5/2025751337486329.png",
       "imageRights": "圣迪乐及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已找到京东儿童 OMEGA-3 20 枚 / 2 斤零售资料，页面提示新老包装交替；与官网示例的完整版本对应、当前库存及地区配送仍待核。",
+          "status": "supported",
+          "detail": "京东直接商品页明确儿童OMEGA-3系列20枚、净重2斤，并提供购买入口；按此零售规格记录。包装更替不单独否定销售，实际到货包装及地区配送以商家为准。",
           "sourceIds": [
-            "sundaily-omega-product",
             "sundaily-omega-jd-retail",
             "sundaily-omega-retail-packaging"
           ]
