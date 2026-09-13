@@ -10638,6 +10638,249 @@
       "locator": "搜索索引中的Note11E神秘黑镜4GB+128GB条目；当前页面内容已经变化",
       "summary": "已读取的历史检索条目列出Redmi Note11E神秘黑镜4GB+128GB，用于辨认候选规格。",
       "limitation": "直接读取当前页面已没有对应型号；索引可能过时，不作为当前在售、库存、制造企业或劳动条件的证明。"
+    },
+    {
+      "id": "tpv-manufacturing-profile-cn",
+      "title": "冠捷集团中国制造企业介绍（中文）",
+      "publisher": "冠捷科技集团",
+      "url": "https://www.tpv-tech.com/profile.html",
+      "type": "企业主体与生产基地披露",
+      "locator": "冠捷电子科技（福建）和冠捷显示科技（武汉）两个独立章节",
+      "summary": "中文页列福建企业成立于2002年5月、融侨研发生产基地；武汉企业成立于2004-06-11，厂址为武汉经济技术开发区沌口小区11号地。",
+      "limitation": "相邻的嘉捷科技（福清）章节是另一法人；不把章节相邻地址或集团其他工厂自动合并。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "tpv-manufacturing-profile-en",
+      "title": "冠捷集团中国制造企业介绍（英文）",
+      "publisher": "TPV Technology",
+      "url": "https://www.tpv-tech.com/en/profile.html",
+      "type": "企业主体中英文对应",
+      "locator": "TPV Electronics (Fujian)与TPV Display Technology (Wuhan)章节",
+      "summary": "英文名称、成立时间、业务和武汉地址与中文独立章节对应，可用于识别SAI记录中的福建、武汉两个法人。",
+      "limitation": "通过中英文对应章节综合识别名称；不是所有TPV关联企业或所有AOC商品共用的认证。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "tpv-fujian-name2022",
+      "title": "福建捷联更名为冠捷电子科技（福建）的公开记录",
+      "publisher": "福建省工信厅网站（来源东南网）",
+      "url": "https://gxt.fujian.gov.cn/zwgk/xw/jxyw/202212/t20221221_6082579.htm",
+      "type": "政府网站企业更名资料",
+      "locator": "附件3第7行",
+      "summary": "名单列福建捷联电子有限公司更名为冠捷电子科技（福建）有限公司。",
+      "limitation": "用于核对名称；工业龙头称号不是劳动合规评价。本文是政府网站刊载的新闻资料，不冒充已读取的工商变更原件。",
+      "publishedAt": "2022-12-21",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "tpv-lenovo-manufacturing2026",
+      "title": "联想制造场所及供应商清单中的福建冠捷",
+      "publisher": "Lenovo",
+      "url": "https://www.lenovo.com/content/dam/lenovo/site-design/esg-document-library/global/corp-policies/gsc/List_of_Lenovo_Mfg_Sites_and_Suppliers.pdf",
+      "type": "客户公布的制造场所清单",
+      "locator": "2026年3月版本，PDF第44页",
+      "summary": "表中TPV ELECTRONICS (FUJIAN) CO., LTD.对应福清融侨经济技术开发区，产品类别Display。",
+      "limitation": "本版该行只有英文名称；不是中英文对照原表，也不是某款AOC显示器的生产证书或劳动审核结果。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "sai-ests-accreditation2025",
+      "title": "SAAS对ESTS的认可及中国地域范围",
+      "publisher": "Social Accountability International / SAAS",
+      "url": "https://sa-intl.org/resources/ests-extensive-standard-technical-services-co-ltd/",
+      "type": "认证机构认可记录",
+      "locator": "Accreditation Details；Updated October 1, 2025",
+      "summary": "认可范围包括在中国进行SA8000:2014审核，当前认可周期为2025-05-01至2030-04-30。",
+      "limitation": "机构认可与具体企业获证分别核对，不能单独证明商品生产企业合规。",
+      "publishedAt": "2025-10-01",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "tpv-fujian-sa8000-2025",
+      "title": "冠捷福建融侨场所SA8000：CN-SA-190038",
+      "publisher": "SAI数据库；发证机构ESTS",
+      "url": "https://sa-intl.org/sa8000-search/",
+      "type": "社会责任认证记录",
+      "locator": "搜索TPV Electronics (Fujian)，More Info记录1118",
+      "summary": "状态Certified；最新认证2025-09-25，截止2028-09-24。范围为融侨场所的显示器、电视、视频会议终端、一体电脑和液晶模组设计、制造及售后，含SMT、插件、组装、包装。",
+      "limitation": "完整审核期间与逐项发现未公开；适用范围限列明场所及业务，不自动覆盖同法人其他厂址。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "issuedAt": "2025-09-25"
+    },
+    {
+      "id": "tpv-wuhan-sa8000-2026",
+      "title": "冠捷武汉制造场所SA8000：BM-CN-20260610",
+      "publisher": "SAI数据库；发证机构Benchmarks Co., Ltd.",
+      "url": "https://sa-intl.org/sa8000-search/",
+      "type": "社会责任认证记录",
+      "locator": "搜索TPV Display Technology (Wuhan)，More Info记录805",
+      "summary": "状态Certified；最新认证2026-06-10，截止2029-06-09。地址沌口小区11号地；范围含显示器、模组及部件制造，过程含组装、SMT、焊接、测试、老化、检验、包装。",
+      "limitation": "完整现场审核期间及具体班次未公开；认证不是对所有冠捷集团工厂及品牌商品的统一结论。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "issuedAt": "2026-06-10"
+    },
+    {
+      "id": "aoc-u27p2c-cqc2025",
+      "title": "AOC U27P2C的CQC制造商记录",
+      "publisher": "中国质量认证中心",
+      "url": "https://www.cqc.com.cn/www/upload/files/upload/resources/file/2025/05/26/63026.pdf",
+      "type": "产品认证目录",
+      "locator": "PDF第25页，CQC20701251443",
+      "summary": "U27P2、U27P2C等27英寸型号列制造商冠捷电子科技（福建）有限公司；证书生效2025-05-21，有效期至2030-05-20。",
+      "limitation": "已目视原表；此页列制造商，没有列出本款实际生产工厂。节能认证不作为劳动证据，证书生效日不冒充网页发布日期。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "aoc-u27p2c-jd",
+      "title": "AOC U27P2C 27英寸显示器国内零售资料",
+      "publisher": "京东",
+      "url": "https://item.jd.com/product/1rN_YTR4n2hAL7Juc-dL6Q.html",
+      "type": "国内具体商品零售页面",
+      "locator": "U27P2C商品标题与27英寸4K、USB-C规格",
+      "summary": "页面列U27P2C黑色27英寸4K办公显示器和购买入口，能够识别具体国内销售型号。",
+      "limitation": "价格、地区库存及卖家服务以实际下单页为准；零售品牌信息不证明该台商品的制造厂址。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "aoc-e2270sw-model-report2015",
+      "title": "AOC E2270SW系列与215LM00041型号对应报告",
+      "publisher": "AOC公布；Audix Technology (Shenzhen)",
+      "url": "https://www.aoc.com/api/asset/pi13253?ext=PDF&name=Models_E1_E2270SWHN_CE+cert+and+Report+E2270SW_VGA+HDMI",
+      "type": "制造商公布的产品测试报告",
+      "locator": "ACS-E15423，PDF第1、2、8页",
+      "summary": "2015-09-21报告将AOC E2270SW后接两位可变字符与215LM00041并列；送测企业为TPV Display Technology (Wuhan)，地址为沌口小区11号地。",
+      "limitation": "已下载84页全文并目视第1、8页。送测对象为原型机，Applicant为申请人；生产企业关系另结合国内抽检，不把此报告当作当前全部批次工厂或劳动合规证明。",
+      "publishedAt": "2015-09-21",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "aoc-215lm00041-suzhou2023",
+      "title": "215LM00041显示器的国内抽检生产单位",
+      "publisher": "苏州市市场监督管理局",
+      "url": "https://scjgj.suzhou.gov.cn/szqts/zlcc/202301/19004eda988948d899c1f2ccb57c9c54.shtml",
+      "type": "政府产品抽检原表",
+      "locator": "结果汇总表第1项；生产日期2021-08-10",
+      "summary": "215LM00041的标称生产单位为冠捷显示科技（武汉）有限公司，抽样销售单位为苏州互惠达信息科技有限公司，抽查合格。",
+      "limitation": "公告2023-01-09发布，标题称2022年、正文称2021年四季度，原样保留这一日期差异。产品质量合格不等于劳动合规，也不指定现在任一零售链接的生产厂。",
+      "publishedAt": "2023-01-09",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "aoc-e2270swn-suning-maker",
+      "title": "E2270SWN苏宁页面的另一制造商资料",
+      "publisher": "苏宁易购",
+      "url": "https://product.suning.com/0000000000/105980894.html",
+      "type": "国内具体商品与制造商参数",
+      "locator": "E2270SWN黑色21.5英寸；其他参数及CCC编号2012010903526873",
+      "summary": "当前保留具体商品页，参数列生产者捷星显示科技（福建）有限公司，与武汉抽检企业不同。",
+      "limitation": "页面另列产地江苏盐城，地址与制造商名称需进一步核对；不可用它证明武汉生产。页面含隐藏销售状态模板，未把模板文字直接认定为已下架或有货。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "aoc-e2270swn-jd-directory",
+      "title": "E2270SWN的京东型号零售线索",
+      "publisher": "京东",
+      "url": "https://www.jd.com/jiage/670740cffc157de3e39.html",
+      "type": "国内零售型号目录",
+      "locator": "E2270SWN 21.5英寸条目；本次原页面链接10214557225040",
+      "summary": "京东目录仍有E2270SWN相关具体条目，同时混有E2270SWN5、二手及配件。",
+      "limitation": "目录本次与搜索缓存条目不同，准确商品详情请求返回通用页面。没有把目录所有型号、二手条目或配件都当作所选普通整机的当前销售证明。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "tpv-employee-fuqing-wuhan",
+      "title": "冠捷福清及武汉岗位的历史员工投稿",
+      "publisher": "职朋职业圈（用户自述）",
+      "url": "https://www.job592.com/pay/comxc26082988.html",
+      "type": "员工个人经历汇编",
+      "locator": "福清电气工程师2022年经历（2024-11-28发帖）；武汉3g工程师2020年经历（2021-09-22发帖）",
+      "summary": "福清投稿报告五险和公积金；武汉投稿报告只有商业保险、没有公积金、偶尔晚下班且周日经常加班。分别保留地点、岗位和发生年份。",
+      "limitation": "读取公开检索收录的页面内容，原页面本次超时。没有取得合同雇主及工厂证明，也没有将全站跨城市统计或厦门岗位借给这两家工厂；不是已核实的当前违法结论。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "tpv-fuqing-operator-recruit2024",
+      "title": "福清冠捷产线操作员招聘中的班次",
+      "publisher": "黔南民族职业技术学院就业网",
+      "url": "https://www.qnzy.net/jyw/2024_05/03_18/content-32129.html",
+      "type": "高校发布的企业招聘资料",
+      "locator": "产线操作员、工作时间和工作地点",
+      "summary": "2024-05-03招聘列两班倒，白班8:00—17:00、夜班21:00—次日6:30，产量高时配合加班；工作地点清宏路石竹北前亭村1号。",
+      "limitation": "招聘标题简称企业，未独立核到劳动合同法人；未列净工时、月加班总数或每周休息，不据时段直接判定合法或违法，也不当作员工本人经历。",
+      "publishedAt": "2024-05-03",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "twingo-sa8000-2024",
+      "title": "YIYANG TWINGO的SA8000记录与范围缺口",
+      "publisher": "SAI数据库；发证机构SGS",
+      "url": "https://sa-intl.org/sa8000-search/",
+      "type": "社会责任认证记录",
+      "locator": "搜索YIYANG TWINGO，More Info记录1423；CN19/31290",
+      "summary": "状态Certified，最新认证2024-01-20、截止2027-01-19；地址为泉州洛江万安工业区三号路。",
+      "limitation": "返回记录没有Description of Operations，行业标签E-Commerce不能代替业务范围，也不能据此断言只有销售。SGS目录本次未取得具体证书范围，暂不认定覆盖修正带制造。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "issuedAt": "2024-01-20"
+    },
+    {
+      "id": "twingo-company-profile",
+      "title": "Yiyang Twingo企业修正带制造介绍",
+      "publisher": "Yiyang Twingo Stationery",
+      "url": "https://www.stationerychina.com/intro/1.html",
+      "type": "企业制造与产品披露",
+      "locator": "Company Profile",
+      "summary": "企业介绍其修正带、胶带研发与制造业务，品牌网站使用Tiangao和Twingo，并说明境内外销售。",
+      "limitation": "页面自述有SA8000，不能代替独立查到的具体认证范围；资质页旧版标题不用于判定当前认证失效。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "twingo-luojiang-wage2021",
+      "title": "泉州一扬2021年度工资支付守信拟评价",
+      "publisher": "泉州市洛江区人力资源和社会保障局",
+      "url": "https://www.qzlj.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/rlzyhshbzj/zfxxgkml/202205/t20220505_2723449.htm",
+      "type": "政府工资支付评价公示",
+      "locator": "附件第6行，泉州市一扬文化用品有限公司",
+      "summary": "2022-05-05公示中该企业拟评价为工资支付守信；地址洛江万安科技园三号路高新街20号。",
+      "limitation": "这是工资支付维度的拟评价，没有劳动保障A级字样，也不是完整劳动合规结果。公示与最终决定分别对待。",
+      "publishedAt": "2022-05-05",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "twingo-correction-shanghai2024",
+      "title": "天高两款修正带的上海生产者抽检记录",
+      "publisher": "上海市市场监督管理局",
+      "url": "https://scjgj.sh.gov.cn/923/20240909/2c984a7291c206270191d5c05f552a30.html",
+      "type": "政府产品抽检原表",
+      "locator": "胖哒TG-B2335与按动TG-B5342两行",
+      "summary": "TG-B2335和TG-B5342均为天高5mm×6m修正带，标称生产者泉州市一扬文化用品有限公司；样品分别生产于2023-12-15、2023-07-01，2024年在拼多多商家抽检。",
+      "limitation": "制造对应有原表依据；历史抽样渠道不是当前准确商品入口，产品安全抽检不能替代生产劳动证据。",
+      "publishedAt": "2024-09-09",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "twingo-cipo-identity",
+      "title": "TWINGO商标申请中的企业名称及泉州地址",
+      "publisher": "加拿大知识产权局CIPO",
+      "url": "https://ised-isde.canada.ca/cipo/trademark-search/2436847",
+      "type": "公开商标申请主体记录",
+      "locator": "申请号2436847，Applicant及Address",
+      "summary": "申请人为Yiyang Twingo Stationery Co., Ltd.，地址为泉州洛江万安科技园三号路高新街20号；与中文政府资料的泉州一扬地址相互对应。",
+      "limitation": "本次使用官方检索收录内容，全文打开超时；用于名称和地址对应，不称其已经获准注册，也不是劳动认证或具体商品制造凭证。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
     }
   ],
   "companies": [
@@ -23817,6 +24060,271 @@
           "limitation": "具名续证及状态已核实；公开加班投诉和中介长班次资料仍需对应、解释，项目暂不据此作商品劳动合规推荐。"
         }
       ]
+    },
+    {
+      "id": "tpv-fujian",
+      "name": "冠捷福建制造",
+      "legalName": "冠捷电子科技（福建）有限公司",
+      "location": "福建福清",
+      "origin": "china",
+      "originNote": "中国境内制造企业；具体商品产地另外核对，不推断每位工人的国籍。",
+      "level": "audit",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "实际周工时未公开",
+      "restLabel": "具体班次休息未公开",
+      "cardNote": "制造场所认证已核 · 商品待对应",
+      "scope": "融侨场所的显示器、电视、视频会议终端、一体电脑及液晶模组设计、制造与售后；SMT、插件、组装、包装。",
+      "finding": "中英文企业身份、融侨制造业务和独立认证已对应。U27P2C产品记录只列制造商，实际工厂尚未确定，暂留待核查。",
+      "caveats": [
+        "CQC制造商名称不等同于具体生产工厂，不将一个厂址的认证自动扩展。",
+        "2024年招聘有两班倒和加班安排；缺少净工时、月总时数及准确合同法人。",
+        "福清2022年工程师自述有五险一金，没有完整工时资料；不代替当前产线员工体验。"
+      ],
+      "sourceIds": [
+        "tpv-fujian-sa8000-2025",
+        "sai-ests-accreditation2025",
+        "sai-standard2014-original",
+        "sai-transition2026-timeline",
+        "tpv-manufacturing-profile-cn",
+        "tpv-manufacturing-profile-en",
+        "tpv-fujian-name2022",
+        "tpv-lenovo-manufacturing2026",
+        "aoc-u27p2c-cqc2025",
+        "tpv-employee-fuqing-wuhan",
+        "tpv-fuqing-operator-recruit2024"
+      ],
+      "supply": [
+        {
+          "stage": "境内制造",
+          "status": "verified",
+          "detail": "SAI已核到具名制造场所的当前认证，具体零售商品是否适用另行对应。",
+          "sourceIds": [
+            "tpv-fujian-sa8000-2025"
+          ]
+        },
+        {
+          "stage": "品牌及集团其他主体",
+          "status": "unknown",
+          "detail": "其他厂址和代工企业分别核对，不共用本场所结论。",
+          "sourceIds": []
+        },
+        {
+          "stage": "零部件与外包服务",
+          "status": "unknown",
+          "detail": "尚未逐家调查，不设置全供应链必须全部核实的额外条件。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "只在取得U27P2C或其他具体在售型号的生产厂资料时继续对应；优先补具名工厂的近期员工经历。",
+      "employeeFeedback": [
+        {
+          "sourceId": "tpv-employee-fuqing-wuhan",
+          "kind": "firsthand",
+          "period": "2022年经历，2024-11-28发帖",
+          "roleScope": "自述福州福清电气工程师；合同法人和具体工厂未公开核实",
+          "summary": "投稿报告有五险和住房公积金；所读条目没有完整工作时间。",
+          "limitation": "历史个人投稿，读取检索收录内容；不能代表当前融侨产线全体员工，也不借用同页厦门岗位的双休反馈。"
+        }
+      ],
+      "assessments": [
+        {
+          "kind": "independent-labor-audit",
+          "conclusion": "supported",
+          "subject": "冠捷电子科技（福建）有限公司",
+          "sourceId": "tpv-fujian-sa8000-2025",
+          "result": "SA8000认证记录状态Certified",
+          "period": "2025-09-25认证结果；完整审核起止日未公开",
+          "resultIssuedAt": "2025-09-25",
+          "reviewedAt": "2026-09-14",
+          "reviewDueAt": "2026-10-14",
+          "validUntil": "2028-09-24",
+          "status": "current",
+          "issuer": "ESTS",
+          "scopeType": "facility",
+          "facility": "福建省福清市融侨经济技术开发区",
+          "verificationSourceId": "tpv-fujian-sa8000-2025",
+          "basisSourceIds": [
+            "sai-standard2014-original",
+            "sai-transition2026-timeline",
+            "sai-ests-accreditation2025",
+            "tpv-manufacturing-profile-cn",
+            "tpv-manufacturing-profile-en"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ],
+          "scope": "融侨场所的显示器、电视、视频会议终端、一体电脑及液晶模组设计、制造与售后；SMT、插件、组装、包装。",
+          "limitation": "支持列明场所及业务范围的劳动权益判断；不保证零加班、逐名工人状态或未来全部用工行为。历史投稿的岗位、雇主与当前场所仍分别核对。"
+        }
+      ]
+    },
+    {
+      "id": "tpv-wuhan",
+      "name": "冠捷武汉制造",
+      "legalName": "冠捷显示科技（武汉）有限公司",
+      "location": "湖北武汉",
+      "origin": "china",
+      "originNote": "中国境内制造企业；具体商品产地另外核对，不推断每位工人的国籍。",
+      "level": "audit",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "实际周工时未公开",
+      "restLabel": "具体班次休息未公开",
+      "cardNote": "制造场所认证已核 · 商品待对应",
+      "scope": "沌口小区11号地；显示器、液晶模组和部件制造，含SMT、焊接、组装、测试、老化、检验、包装。",
+      "finding": "当前武汉场所认证及215LM00041历史生产关系已核；同型号零售页出现捷星制造商，未把该页面套用武汉认证。",
+      "caveats": [
+        "2015年原型机测试及2021年抽样只证明相应时期的型号关系，不能覆盖其他制造企业的版本。",
+        "2020年武汉3g工程师投稿称仅有商业保险、无公积金及周日经常加班，需继续核对合同法人及工厂。",
+        "上述历史投稿没有定位到本厂，也未取得公开裁决；保留问题线索，不直接判定本厂当前违法或问题已解决。"
+      ],
+      "sourceIds": [
+        "tpv-wuhan-sa8000-2026",
+        "sai-benchmarks-accreditation2025",
+        "sai-standard2014-original",
+        "sai-transition2026-timeline",
+        "tpv-manufacturing-profile-cn",
+        "tpv-manufacturing-profile-en",
+        "aoc-e2270sw-model-report2015",
+        "aoc-215lm00041-suzhou2023",
+        "aoc-e2270swn-suning-maker",
+        "tpv-employee-fuqing-wuhan"
+      ],
+      "supply": [
+        {
+          "stage": "境内制造",
+          "status": "verified",
+          "detail": "SAI已核到具名制造场所的当前认证，具体零售商品是否适用另行对应。",
+          "sourceIds": [
+            "tpv-wuhan-sa8000-2026"
+          ]
+        },
+        {
+          "stage": "品牌及集团其他主体",
+          "status": "unknown",
+          "detail": "其他厂址和代工企业分别核对，不共用本场所结论。",
+          "sourceIds": []
+        },
+        {
+          "stage": "零部件与外包服务",
+          "status": "unknown",
+          "detail": "尚未逐家调查，不设置全供应链必须全部核实的额外条件。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得具名武汉厂的具体零售型号或解释同型号厂家差异后再判断商品；不重复用旧报告替代新生产关系。",
+      "employeeFeedback": [
+        {
+          "sourceId": "tpv-employee-fuqing-wuhan",
+          "kind": "firsthand",
+          "period": "2020年经历，2021-09-22发帖",
+          "roleScope": "自述武汉3g工程师；合同法人、具体工厂未公开核实",
+          "summary": "投稿报告只有商业保险、无公积金，偶尔晚下班、周日经常加班。",
+          "limitation": "历史个人陈述，读取检索收录内容；身份与工厂尚未独立核实。保留反向线索，不写成当前本厂违法认定或已整改结论。"
+        }
+      ],
+      "assessments": [
+        {
+          "kind": "independent-labor-audit",
+          "conclusion": "supported",
+          "subject": "冠捷显示科技（武汉）有限公司",
+          "sourceId": "tpv-wuhan-sa8000-2026",
+          "result": "SA8000认证记录状态Certified",
+          "period": "2026-06-10认证结果；完整审核起止日未公开",
+          "resultIssuedAt": "2026-06-10",
+          "reviewedAt": "2026-09-14",
+          "reviewDueAt": "2026-10-14",
+          "validUntil": "2029-06-09",
+          "status": "current",
+          "issuer": "Benchmarks Co., Ltd.",
+          "scopeType": "facility",
+          "facility": "湖北省武汉经济技术开发区沌口小区11号地",
+          "verificationSourceId": "tpv-wuhan-sa8000-2026",
+          "basisSourceIds": [
+            "sai-standard2014-original",
+            "sai-transition2026-timeline",
+            "sai-benchmarks-accreditation2025",
+            "tpv-manufacturing-profile-cn",
+            "tpv-manufacturing-profile-en"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ],
+          "scope": "沌口小区11号地；显示器、液晶模组和部件制造，含SMT、焊接、组装、测试、老化、检验、包装。",
+          "limitation": "支持列明场所及业务范围的劳动权益判断；不保证零加班、逐名工人状态或未来全部用工行为。历史投稿的岗位、雇主与当前场所仍分别核对。"
+        }
+      ]
+    },
+    {
+      "id": "twingo-quanzhou",
+      "name": "天高文具泉州一扬",
+      "legalName": "泉州市一扬文化用品有限公司",
+      "location": "福建泉州洛江",
+      "origin": "china",
+      "originNote": "中国境内文具制造企业；不以国内生产推断每名工人的国籍。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "实际周工时待核",
+      "restLabel": "具体休息安排待核",
+      "cardNote": "认证状态已核 · 制造范围待补",
+      "scope": "泉州洛江万安科技园三号路高新街20号；天高修正带制造资料。",
+      "finding": "Yiyang Twingo的英文名与泉州一扬中文资料通过同一地址对应。SAI记录有效，但未返回认证业务范围；工资支付守信公示不足以单独支持综合劳动结论。",
+      "caveats": [
+        "不是益阳、天卓或另一家泉州天高文化用品公司；名称与地址分别核对。",
+        "SAI行业标签E-Commerce不能代替审核业务范围，既不据此认定制造已覆盖，也不认定仅限销售。",
+        "2021年度资料是工资支付守信拟评价，不能写成劳动A级最终结果。",
+        "两款准确修正带有2024年境内抽检记录，当前同货号购买入口尚未取得。"
+      ],
+      "sourceIds": [
+        "twingo-sa8000-2024",
+        "twingo-company-profile",
+        "twingo-luojiang-wage2021",
+        "twingo-correction-shanghai2024",
+        "twingo-cipo-identity"
+      ],
+      "supply": [
+        {
+          "stage": "境内修正带制造",
+          "status": "verified",
+          "detail": "上海原表列TG-B2335、TG-B5342的标称生产者泉州市一扬；劳动认证的制造范围另待核。",
+          "sourceIds": [
+            "twingo-correction-shanghai2024"
+          ]
+        },
+        {
+          "stage": "销售与品牌",
+          "status": "policy",
+          "detail": "企业自述生产天高修正带并开展境内外销售；具体在售货号另核。",
+          "sourceIds": [
+            "twingo-company-profile"
+          ]
+        },
+        {
+          "stage": "原材料及外包",
+          "status": "unknown",
+          "detail": "未逐家调查，不作为额外的全供应链准入要求。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得CN19/31290完整业务范围或另一项适用综合劳动依据，并补同货号购买入口；停止重复访问受限目录。"
     }
   ],
   "products": [
@@ -38458,6 +38966,213 @@
           ]
         }
       }
+    },
+    {
+      "id": "aoc-u27p2c-black",
+      "name": "U27P2C 27英寸4K USB-C显示器（黑色）",
+      "brand": "AOC",
+      "companyId": "tpv-fujian",
+      "category": "electronics",
+      "description": "27英寸4K办公显示器，零售页列USB-C连接。",
+      "tags": [
+        "显示器"
+      ],
+      "needs": [
+        "显示器"
+      ],
+      "url": "https://item.jd.com/product/1rN_YTR4n2hAL7Juc-dL6Q.html",
+      "relationshipSourceIds": [
+        "aoc-u27p2c-jd",
+        "aoc-u27p2c-cqc2025",
+        "tpv-lenovo-manufacturing2026"
+      ],
+      "market": "京东有准确型号零售页面，价格、配送及地区库存以下单页为准。",
+      "relationship": "CQC明确制造商冠捷电子科技（福建），但未列本款实际生产厂，尚未对应融侨认证场所。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示准确商品名称，不使用替代照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东页面列出U27P2C黑色27英寸4K具体型号及购买入口。",
+          "sourceIds": [
+            "aoc-u27p2c-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "subject": "冠捷电子科技（福建）有限公司",
+          "detail": "制造商已对应福建冠捷；此页未公开实际生产工厂，不能直接指定融侨场所。",
+          "sourceIds": [
+            "aoc-u27p2c-cqc2025",
+            "tpv-lenovo-manufacturing2026"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "融侨场所的独立劳动认证已核，适用到本款的具体生产场所仍待对应。",
+          "sourceIds": [
+            "tpv-fujian-sa8000-2025",
+            "sai-ests-accreditation2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "aoc-e2270swn-215",
+      "name": "E2270SWN 21.5英寸显示器（黑色）",
+      "brand": "AOC",
+      "companyId": "tpv-wuhan",
+      "category": "electronics",
+      "description": "21.5英寸TN显示器，1920×1080、60Hz及VGA接口；普通E2270SWN与N5、N6变体分别识别。",
+      "tags": [
+        "显示器"
+      ],
+      "needs": [
+        "显示器"
+      ],
+      "url": "https://product.suning.com/0000000000/105980894.html",
+      "relationshipSourceIds": [
+        "aoc-e2270sw-model-report2015",
+        "aoc-215lm00041-suzhou2023",
+        "aoc-e2270swn-suning-maker",
+        "aoc-e2270swn-jd-directory"
+      ],
+      "market": "苏宁保留准确型号的国内商品入口；价格、配送及库存以实际下单页为准，京东目录中的变体与二手不混用。",
+      "relationship": "武汉历史抽检215LM00041与品牌测试报告相互对应；苏宁同款却列捷星制造商，尚未确定当前所售版本。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示准确商品名称，不使用替代照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "苏宁保留E2270SWN黑色21.5英寸的准确国内零售页面；未承诺实时库存，不将京东其他变体、二手或配件混入。",
+          "sourceIds": [
+            "aoc-e2270swn-suning-maker"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "历史武汉生产关系有依据，当前同款零售参数出现捷星制造商，现售版本的生产企业尚待对应。",
+          "sourceIds": [
+            "aoc-e2270sw-model-report2015",
+            "aoc-215lm00041-suzhou2023",
+            "aoc-e2270swn-suning-maker"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "武汉沌口小区11号地当前认证有效；厂家差异未解决前，不能用于本款当前零售版本。",
+          "sourceIds": [
+            "tpv-wuhan-sa8000-2026",
+            "sai-benchmarks-accreditation2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "twingo-tg-b2335",
+      "name": "TG-B2335 胖哒修正带 5mm×6m",
+      "brand": "天高 TWINGO",
+      "companyId": "twingo-quanzhou",
+      "category": "stationery",
+      "description": "天高胖哒修正带，按上海原表保留5mm×6m单体规格，未指定未知包装数量。",
+      "tags": [
+        "修正带"
+      ],
+      "needs": [
+        "修正带"
+      ],
+      "url": "https://www.stationerychina.com/intro/1.html",
+      "relationshipSourceIds": [
+        "twingo-correction-shanghai2024",
+        "twingo-company-profile"
+      ],
+      "market": "2024年上海原表有拼多多抽样商家记录；当前同货号零售入口待补，所链接企业介绍不是购买页。",
+      "relationship": "上海市监原表明确泉州市一扬为本货号标称生产者。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示准确商品名称，不使用替代照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已有境内历史抽样商家，当前准确货号购买入口仍待核查。",
+          "sourceIds": [
+            "twingo-correction-shanghai2024"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "泉州市一扬文化用品有限公司",
+          "detail": "上海市监抽检原表将本货号明确对应泉州市一扬文化用品有限公司；地址可与洛江政府资料交叉核对。",
+          "sourceIds": [
+            "twingo-correction-shanghai2024",
+            "twingo-luojiang-wage2021"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "SAI认证有效状态已核，但没有公开业务范围；旧工资支付守信拟评价不足以代替完整制造劳动依据。",
+          "sourceIds": [
+            "twingo-sa8000-2024",
+            "twingo-luojiang-wage2021"
+          ]
+        }
+      }
+    },
+    {
+      "id": "twingo-tg-b5342",
+      "name": "TG-B5342 按动修正带 5mm×6m",
+      "brand": "天高 TWINGO",
+      "companyId": "twingo-quanzhou",
+      "category": "stationery",
+      "description": "天高按动修正带，按上海原表保留5mm×6m单体规格，未指定未知包装数量。",
+      "tags": [
+        "修正带"
+      ],
+      "needs": [
+        "修正带"
+      ],
+      "url": "https://www.stationerychina.com/intro/1.html",
+      "relationshipSourceIds": [
+        "twingo-correction-shanghai2024",
+        "twingo-company-profile"
+      ],
+      "market": "2024年上海原表有拼多多抽样商家记录；当前同货号零售入口待补，所链接企业介绍不是购买页。",
+      "relationship": "上海市监原表明确泉州市一扬为本货号标称生产者。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示准确商品名称，不使用替代照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已有境内历史抽样商家，当前准确货号购买入口仍待核查。",
+          "sourceIds": [
+            "twingo-correction-shanghai2024"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "泉州市一扬文化用品有限公司",
+          "detail": "上海市监抽检原表将本货号明确对应泉州市一扬文化用品有限公司；地址可与洛江政府资料交叉核对。",
+          "sourceIds": [
+            "twingo-correction-shanghai2024",
+            "twingo-luojiang-wage2021"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "SAI认证有效状态已核，但没有公开业务范围；旧工资支付守信拟评价不足以代替完整制造劳动依据。",
+          "sourceIds": [
+            "twingo-sa8000-2024",
+            "twingo-luojiang-wage2021"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -39430,7 +40145,7 @@
           "query": "对讲机"
         }
       ],
-      "note": "13项数码细分需求均已有具体型号资料。BF-888S经典款单只装已对应国内零售、中国产地及同一制造法人的2025年度劳动A级，成为数码类首项正式收录。手机、电脑等其余需求仍需继续核查；对讲机不替代这些需求。A1383已对应国内零售和东莞制造商，劳动依据仍待补。 本轮新增联想办公室个人经历，未套用于电脑制造工厂。 罗技苏州已建立2025年RBA银级审核线索档案，独立查验、具体劳动结果与零售型号待对应，未新增正式数码商品。 补入联想武汉2021年操作工经历；荣耀600、联想天逸510S及HKC显示器已有具体国内零售资料，制造和劳动项仍各自待核。 新核南昌华勤2025年SA8000续证并加入Note11E、RedmiBook Pro15具体型号资料；工时争议、零售及电脑具体厂址仍待核，尚未新增正式手机或笔记本。",
+      "note": "13项数码细分需求均已有具体型号资料。BF-888S经典款单只装已对应国内零售、中国产地及同一制造法人的2025年度劳动A级，成为数码类首项正式收录。手机、电脑等其余需求仍需继续核查；对讲机不替代这些需求。A1383已对应国内零售和东莞制造商，劳动依据仍待补。 本轮新增联想办公室个人经历，未套用于电脑制造工厂。 罗技苏州已建立2025年RBA银级审核线索档案，独立查验、具体劳动结果与零售型号待对应，未新增正式数码商品。 补入联想武汉2021年操作工经历；荣耀600、联想天逸510S及HKC显示器已有具体国内零售资料，制造和劳动项仍各自待核。 新核南昌华勤2025年SA8000续证并加入Note11E、RedmiBook Pro15具体型号资料；工时争议、零售及电脑具体厂址仍待核，尚未新增正式手机或笔记本。 冠捷福建与武汉两个制造场所的当前SA8000记录已核，新增U27P2C、E2270SWN；保留制造商与具体工厂、现售版本的差异，显示器尚未正式收录。",
       "sourceIds": [
         "apple-rcc-job",
         "anker-2024",
@@ -39463,7 +40178,12 @@
         "huaqin-agency-shifts",
         "redmibook-pro15-i5-suning",
         "note11e-taf-manufacture2022",
-        "note11e-china-official"
+        "note11e-china-official",
+        "tpv-fujian-sa8000-2025",
+        "tpv-wuhan-sa8000-2026",
+        "aoc-u27p2c-cqc2025",
+        "aoc-e2270swn-suning-maker",
+        "tpv-employee-fuqing-wuhan"
       ]
     },
     {
@@ -39618,9 +40338,13 @@
         {
           "label": "打印机",
           "query": "打印机"
+        },
+        {
+          "label": "修正带",
+          "query": "修正带"
         }
       ],
-      "note": "11项办公学习需求均有研究资料；复印纸与打印机已有正式商品。M6202NW家用版已对应当前京东准确规格、珠海制造场所及2025年SA8000认证。得力新认证仅覆盖销售，未用于文具制造准入；中性笔、铅笔等仍待核查。",
+      "note": "12项办公学习需求均有研究资料，复印纸与打印机已有正式商品。新增此前遗漏的修正带需求及天高TG-B2335、TG-B5342：生产者已有政府原表，当前零售及制造劳动认证范围仍待核。得力认证仅限销售；笔类继续待补。",
       "sourceIds": [
         "deli-campus-2025",
         "simao-production-hiring-2025",
@@ -39654,7 +40378,10 @@
         "pantum-zhuhai-sa8000-2025",
         "pantum-m6202nw-declaration",
         "pantum-m6202nw-home-jd2026",
-        "deli-sales-sa8000-2025"
+        "deli-sales-sa8000-2025",
+        "twingo-correction-shanghai2024",
+        "twingo-sa8000-2024",
+        "twingo-luojiang-wage2021"
       ]
     },
     {
