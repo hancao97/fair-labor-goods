@@ -1362,7 +1362,7 @@
       "publisher": "中粮集团",
       "url": "https://productandservice.cofco.com/upload/1/zl/platform/2008608579132067840.pdf",
       "summary": "官方产品表列福临门压榨一级花生油、黄金产地玉米油、家香味老家土榨菜籽油等 5L 规格，供应中国大陆、B2C 全渠道。",
-      "limitation": "本次通过原 PDF 的检索索引读取，直连超时；表内“自产”和营销主体不能替代具体生产厂与当前批次证明。",
+      "limitation": "通过原PDF检索索引读取，直连超时；表内自产和营销主体不能单独代替实际制造企业。具体产品另结合零售与制造资料核对。",
       "publishedAt": null,
       "checkedAt": "2026-09-12",
       "locator": "小包装食用油第 5、16、27 行等",
@@ -3690,11 +3690,11 @@
       "publisher": "苏州市人力资源和社会保障局 / 苏州市人民政府",
       "url": "https://www.suzhou.gov.cn/szsrmzf/bmwj/202301/24f849186ea84cb2b65eacfc4d89de99.shtml",
       "summary": "苏人保监〔2022〕24 号于 2022-12-30 成文、2023-01-16 发布，附件 1 的劳动保障 2A 级信誉单位复查确认名单明确列中粮东海粮油工业（张家港）有限公司。",
-      "limitation": "核到政府页面公开正文及附件1名单，直接连接受限。此项是2A级复查确认，不是附件2的2021年度A级新授予；后续评价与对所选制造法人的适用性仍待核，不额外要求全部岗位或上游考勤。",
+      "limitation": "本轮直接取得政府正文及附件1具名名单。此项为2022年2A级复查确认；2023年正式3A级结果另列。评价按具名法人和公开年份使用，不等同2026年新评价。",
       "publishedAt": "2023-01-16",
-      "checkedAt": "2026-09-12",
+      "checkedAt": "2026-09-13",
       "locator": "苏人保监〔2022〕24 号成文日期、发布时间及附件 1 中粮东海条目",
-      "type": "政府劳动保障信誉评价公开文本"
+      "type": "政府评价"
     },
     {
       "id": "cofco-eastsea-instrument-job",
@@ -3714,9 +3714,9 @@
       "publisher": "苏宁易购 / 中粮福临门苏宁自营旗舰店",
       "url": "https://product.suning.com/0030000682/139176760.html",
       "summary": "准确商品标题和包装清单对应非转基因一级大豆油 5L×1；同页黄色提手单桶原图可读品名、一级及净含量 5 升。",
-      "limitation": "制造厂址栏写见包装，尚无可读制造背标和瓶肩批号。店名、出品方和中国品牌不确定制造法人；当前库存、销售法人、配送地区及包装版本仍待核，未合并其他油种或多桶套装。",
+      "limitation": "商品页对应非转基因一级大豆油5L×1，厂址栏写见包装；制造关系结合政府同品牌同规格记录判断。尚未验证地区库存及成交价，不把实时库存作为存在零售渠道的必要条件。",
       "publishedAt": null,
-      "checkedAt": "2026-09-12",
+      "checkedAt": "2026-09-13",
       "locator": "货号 139176760：标题、5L×1 清单与准确单桶原图",
       "type": "零售商商品页"
     },
@@ -3738,9 +3738,9 @@
       "publisher": "南通市崇川区市场监督管理局",
       "url": "https://www.chongchuan.gov.cn/ntsccqscjgj/upload/c7975fb6-d05a-4998-9082-845a7a7607a9.pdf",
       "summary": "原表第 477 项为一级大豆油（非转基因）、福临门、5 升/瓶，生产日期及批号栏为 2024-06-24；标称生产企业是中粮东海粮油工业（张家港）有限公司，地址为张家港市金港镇。",
-      "limitation": "已目视原 PDF 表头与所在页。记录仅对应历史抽检样品，未锁定当前零售包装、瓶肩日期和原豆来源；食品抽检合格不等于劳动条件合规，也不适用于其他福临门油种、规格或工厂。",
+      "limitation": "既有研究已目视原PDF表头与第34页，本轮再次核到相符索引，直接下载超时。该条用于同名同规格产品与中粮东海的制造对应；食品抽检不作为劳动评价，不覆盖其他厂家或油种。",
       "publishedAt": null,
-      "checkedAt": "2026-09-12",
+      "checkedAt": "2026-09-13",
       "locator": "PDF 第 1 页表头、第 34 页第 477 项；已核原页",
       "type": "政府食品监督抽检原表"
     },
@@ -10143,6 +10143,102 @@
       "locator": "33页固废专项验收报告，第3页列2020-03-30至31日现场监测，第8页（印刷第6页）2.6节列定员与班制。",
       "summary": "项目位于常熟广园路18号，披露定员60人、年运行300天、二班制、每班8小时及年运行4800小时。",
       "limitation": "已读取文件并目视核对班制页。这是旧项目运行口径，4800小时不能算成员工个人年工时；没有员工考勤、加班费核算或综合劳动审核，文件公布日未知。"
+    },
+    {
+      "id": "suzhou-labor-review2022-notice",
+      "title": "苏州2022劳动保障信誉复查：标准与评审程序",
+      "publisher": "苏州市人力资源和社会保障局、苏州市社会信用体系建设领导小组办公室",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/bmwj/202205/0fe327e037424f1ba8b2e3d77638abff.shtml",
+      "type": "政府评价标准",
+      "publishedAt": "2022-05-19",
+      "checkedAt": "2026-09-13",
+      "locator": "苏人保监〔2022〕11号，第一部分复查对象、标准、第三方评估及最终公布程序",
+      "summary": "该轮复查覆盖2019—2020年度取得2A级的单位，按苏人保监〔2011〕5号基本标准审查；由监察支队组织第三方评估，市人社及信用部门审核、公示后确认。",
+      "limitation": "2022年5—10月是工作安排，不作为中粮东海实际审查起止日；本通知与空白表解释评价范围，具名结果另核。"
+    },
+    {
+      "id": "suzhou-labor-review2022-form",
+      "title": "苏州劳动保障复查原表：24项劳动权益与用工要求",
+      "publisher": "苏州市人力资源和社会保障局",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/bmwj/202205/0fe327e037424f1ba8b2e3d77638abff/files/f063d6e71bd74dd2bd1728cd881c8c95.xls",
+      "type": "政府评价标准",
+      "publishedAt": "2022-05-19",
+      "checkedAt": "2026-09-13",
+      "locator": "附件1工作表“正表”，具体情况第6、7、10—15项（行13、14、17—22）及行33复查评估意见",
+      "summary": "原始复查表明确要求劳动合同、足额社保、工资及加班工资、合法工时和休息休假、女职工及未成年工保护、劳动安全卫生，另列派遣、实习、集体协商等事项。",
+      "limitation": "已读取原始XLS；这是评审使用的空白表，不是企业填写后的逐项结果。表中工资增长、工会活动等额外评优要求不成为本站对所有企业的统一门槛。"
+    },
+    {
+      "id": "suzhou-labor2021-2022-final",
+      "title": "中粮东海2021—2022年度劳动保障3A级正式结果",
+      "publisher": "苏州市人力资源和社会保障局、苏州市社会信用体系建设领导小组办公室",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/bmwj/202312/fb542a977d564a3b83c9fa56fa2fba69.shtml",
+      "type": "政府评价",
+      "publishedAt": "2023-12-27",
+      "checkedAt": "2026-09-13",
+      "locator": "苏人保监〔2023〕14号，2023-12-22成文；原始DOCX附件3A级部分“张家港市（26家）”中粮东海条目",
+      "summary": "最终决定及原始附件将中粮东海粮油工业（张家港）有限公司列入2021—2022年度苏州市劳动保障3A级信誉单位。",
+      "limitation": "已读政府正文与DOCX具名条目；完整审查起止日、企业分项评审表未公开取得。不是2026年新评价；较新的2023—2024年度4A级目前取得公示，未冒充最终授予。"
+    },
+    {
+      "id": "suzhou-labor-review2024-notice",
+      "title": "苏州2024复查安排：2021—2022年度各级单位的复查规则",
+      "publisher": "苏州市人力资源和社会保障局、苏州市社会信用体系建设领导小组办公室",
+      "url": "https://www.suzhou.gov.cn/szsrmzf/bmwj/202404/8c5c94ed44df4624a9933f580f5e5c8d.shtml",
+      "type": "政府评价标准",
+      "publishedAt": "2024-04-16",
+      "checkedAt": "2026-09-13",
+      "locator": "苏人保监〔2024〕8号，第一部分复查对象、基本标准与审查程序",
+      "summary": "通知继续引用苏人保监〔2011〕5号基本标准，明确2024年复查2021—2022年度2A级，3A级以上复查安排于次年开展。",
+      "limitation": "用于理解同一劳动保障信用体系的延续及复查安排，本通知不单独证明某企业已通过新一轮复查。"
+    },
+    {
+      "id": "suzhou-labor2023-2024-publicity",
+      "title": "中粮东海2023—2024年度4A级拟评定公示",
+      "publisher": "苏州市人力资源和社会保障局",
+      "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202512/a0b593234ebe47dca84ad412f356ccab.shtml",
+      "type": "政府拟评价公示",
+      "publishedAt": "2025-12-15",
+      "checkedAt": "2026-09-13",
+      "locator": "原始DOC附件4A级部分“张家港市（6家）”，第5个中粮东海；公示期2025-12-16至12-22",
+      "summary": "该次991家拟评定单位的附件同时列5A、4A、3A和2A；中粮东海位于4A级部分。",
+      "limitation": "已读取原始DOC及完整等级标题；正文明确为拟评定，尚未取得这轮最终授予文件，因此不把4A作为正式收录的劳动结果。"
+    },
+    {
+      "id": "fulinmen-corn5l-beijing2024",
+      "title": "北京食品抽检原表：中粮东海5升压榨玉米油",
+      "publisher": "北京市市场监督管理局",
+      "url": "https://scjgj.beijing.gov.cn/zwxx/gs/spzlgs/202403/P020240315615677289364.pdf",
+      "type": "政府食品监督抽检原表",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "附件2食品抽检合格产品信息，第1页表头与第18页第322项，已目视原页",
+      "summary": "第322项为福临门非转基因压榨玉米油、5升/瓶，日期栏2023/8/14，标称中粮东海生产，厂址张家港市金港镇，被抽样单位为旭日华泰（北京）贸易有限公司。",
+      "limitation": "日期栏合并生产、加工、购进及检疫日期；不补造抽样日期。表中未写“黄金产地”，需结合明确的系列制造资料；食品合格与劳动合规分别判断。"
+    },
+    {
+      "id": "fulinmen-golden-corn2023-maker",
+      "title": "江苏好粮油公告转载：黄金产地玉米油制造企业",
+      "publisher": "导油网转载江苏省粮食行业协会公告",
+      "url": "https://www.oilcn.com/article/2023/09/09_89662.html",
+      "type": "行业转载产品名单",
+      "publishedAt": "2023-09-26",
+      "checkedAt": "2026-09-13",
+      "locator": "2023年度江苏好粮油公告的食用油名单，中粮东海／福临门／福临门黄金产地玉米油",
+      "summary": "公告转载明确对应中粮东海、福临门品牌和黄金产地玉米油，用于区分普通压榨玉米油与目录所选系列。",
+      "limitation": "为行业网站转载，未取得协会原站文本；转载所列好粮油荣誉有效期截至2026年8月，已届满，仅作历史制造关系依据。未单列5L容量，也不是劳动评价。"
+    },
+    {
+      "id": "fulinmen-corn5l-jd-retail",
+      "title": "京东黄金产地玉米油5L单桶零售条目",
+      "publisher": "京东",
+      "url": "https://www.jd.com/jiage/132000378ea66cfb5b03.html",
+      "type": "零售商商品页",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公开列表“福临门非转基因黄金产地玉米油 植物油 5L”及“黄金产地压榨玉米油…5L*1桶”具体条目",
+      "summary": "可读取黄金产地玉米油5L单桶条目及对应商品链接，支持大陆个人零售渠道。",
+      "limitation": "同页还有5.43L、5.68L、多桶及粮油组合，未混为本款；地区库存及成交价未验证，不将页面评论数作为质量或劳动证据，销售页没有独立披露实际发货厂。"
     }
   ],
   "companies": [
@@ -13054,14 +13150,14 @@
       "restDays": null,
       "hoursLabel": "具体工时制度待补",
       "restLabel": "具体休息安排待补",
-      "cardNote": "油厂有历史评价 · 现供批次与工时待核",
-      "scope": "福临门营销主体与中粮集团权益披露；张家港大豆油历史样品及工厂历史劳动评价、菏泽和张家港岗位分别核查。",
-      "finding": "5 升非转基因大豆油历史样品对应中粮东海，该法人有 2022 年 2A 级复查确认记录。集团网页与招聘未证明本目录各款当前生产厂、实际周工时、逐周休息和供应链履行。",
+      "cardNote": "品牌营销档案 · 制造企业分别核对",
+      "scope": "福临门品牌营销主体与中粮集团披露；已有制造对应的两款5L油另归入中粮东海企业档案。",
+      "finding": "非转基因一级大豆油5L与黄金产地玉米油5L已对应中粮东海，采用该厂2021—2022年度正式3A级综合劳动结果。花生油、家香味菜籽油仍需各自制造关系，不能借用集团或其他厂家的评价。",
       "caveats": [
-        "中粮福临门食品营销有限公司是营销主体；出品方、制造者、原豆供应者和承包商分别核查。",
-        "张家港 2A 级是 2022 年复查确认的历史记录，不是 2026 年全体岗位和供应链的合规保证。",
-        "菏泽安全管理校招与张家港仪表岗位不代表榨油、精炼或灌装班组；年假、社保或补贴承诺不能推算为每周双休。",
-        "2024 年 5 升大豆油样品不确定当前发货厂，也不覆盖花生油、玉米油、菜籽油或其他容量；非转基因不代表原豆一定来自中国。"
+        "中粮福临门食品营销有限公司为营销主体，本档案不将制造企业的劳动结果记为营销公司的评级。",
+        "同品牌不同油种及制造法人分别对应；具名中粮东海结果已整理到其独立企业档案。",
+        "招聘和集团权益披露用于补充制度，不能从年假、社保或补贴承诺推算全部生产岗位的实际工时。",
+        "国内制成品与原料种植地分别记录，非转基因字样不证明原豆一定来自中国。"
       ],
       "sourceIds": [
         "cofco-oils-products",
@@ -13069,7 +13165,10 @@
         "cofco-heze-safety-hiring-2024",
         "cofco-eastsea-labor-credit-2022",
         "cofco-eastsea-instrument-job",
-        "fulinmen-soybean5l-chongchuan-2024"
+        "fulinmen-soybean5l-chongchuan-2024",
+        "suzhou-labor2021-2022-final",
+        "fulinmen-corn5l-beijing2024",
+        "fulinmen-golden-corn2023-maker"
       ],
       "supply": [
         {
@@ -13084,10 +13183,13 @@
         {
           "stage": "榨油、精炼和灌装",
           "status": "unknown",
-          "detail": "5 升非转基因大豆油历史样品标称中粮东海；同法人有 2022 年劳动保障复查记录，现供批次及产线实际履行仍缺。",
+          "detail": "两款5L大豆油和黄金产地玉米油的中粮东海制造关系已另立档案；本营销档案下其余油种的制造企业待对应。",
           "sourceIds": [
             "fulinmen-soybean5l-chongchuan-2024",
-            "cofco-eastsea-labor-credit-2022"
+            "cofco-eastsea-labor-credit-2022",
+            "suzhou-labor2021-2022-final",
+            "fulinmen-golden-corn2023-maker",
+            "fulinmen-corn5l-beijing2024"
           ]
         },
         {
@@ -13102,7 +13204,7 @@
         {
           "stage": "原豆、包材及运输",
           "status": "unknown",
-          "detail": "国内成品资料不证明原豆来自中国；具体供应方、加工及运输人员的实际工时和休息均待核。",
+          "detail": "原料、包材及运输的供应方资料尚不完整，作为补充信息保存，不作为所有商品统一的额外准入条件。",
           "sourceIds": [
             "fulinmen-soybean5l-retail-information"
           ]
@@ -13110,16 +13212,8 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "逐款核对现供包装、生产批次及制造法人，更新同一厂家的劳动守法依据；原料、外委维修和运输信息另作补充。",
-      "assessments": [
-        {
-          "subject": "中粮东海粮油工业（张家港）有限公司",
-          "result": "列入苏州市劳动保障 2A 级信誉单位复查确认名单",
-          "period": "2022-12-30 成文；2023-01-16 发布",
-          "sourceId": "cofco-eastsea-labor-credit-2022",
-          "limitation": "历史政府评价；不确定当前零售批次制造厂，也不能替代 2026 年实际周工时、逐周休息或上游劳动记录。"
-        }
-      ]
+      "nextCheck": "优先对应现有花生油和家香味菜籽油的制造企业与劳动依据；同厂家已有适用资料时共用，不重复要求逐周考勤或当前批次证明。",
+      "assessments": []
     },
     {
       "id": "lkk-xinhui",
@@ -22700,6 +22794,137 @@
           "limitation": "最终原始DOCX的支塘镇（40家）组具名该法人。本站复查日期不是评级有效期，评价不保证未来全部用工。"
         }
       ]
+    },
+    {
+      "id": "cofco-eastsea",
+      "name": "福临门（中粮东海）",
+      "legalName": "中粮东海粮油工业（张家港）有限公司",
+      "location": "江苏省苏州市张家港市金港镇",
+      "origin": "china",
+      "originNote": "福临门为中粮旗下中国品牌；本档案对应张家港制造企业，境内生产依据按具体商品记录。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "具体工时未公开",
+      "restLabel": "具体休息安排未公开",
+      "cardNote": "2021—2022年度3A级 · 两款5L食用油",
+      "scope": "中粮东海制造的福临门非转基因一级大豆油5L、黄金产地玉米油5L；适用劳动结果为2023年公布的2021—2022年度3A级。",
+      "finding": "复核旧资料后，以同一厂家的正式劳动结果对应两款油。大豆油有同名同规格政府记录，玉米油结合黄金产地系列名单与同厂5L压榨玉米油原表判断。员工经历检索未取得可用的该厂一手资料，未把集团招聘文案记为员工证言。",
+      "caveats": [
+        "采用具名制造法人2021—2022年度3A级最终结果，2023-12-27公布；2026年查阅不等于2026年新认证。",
+        "2023—2024年度名单将本厂拟评为4A级，本次仅取得2025-12-15公示及DOC附件，没有冒充最终授予。",
+        "零售页面与政府制造记录组合用于对应商品，未验证单次发货厂家；本条收录范围限定中粮东海制造的产品，购买时可核对包装制造企业。",
+        "黄金产地系列的具名关系取自行业网站转载公告，5L容量结合政府同厂压榨玉米油记录与零售规格综合判断。已届满的好粮油荣誉只作历史制造线索。",
+        "实际岗位班制、原料供应方与外部运输人员资料不完整，未声称全部工人零加班或全供应链已审核。"
+      ],
+      "sourceIds": [
+        "cofco-oils-products",
+        "cofco-fulinmen-brand",
+        "cofco-eastsea-labor-credit-2022",
+        "suzhou-labor-review2022-notice",
+        "suzhou-labor-review2022-form",
+        "suzhou-labor2021-2022-final",
+        "suzhou-labor-review2024-notice",
+        "suzhou-labor2023-2024-publicity",
+        "fulinmen-soybean5l-chongchuan-2024",
+        "fulinmen-corn5l-beijing2024",
+        "fulinmen-golden-corn2023-maker",
+        "cofco-eastsea-instrument-job"
+      ],
+      "supply": [
+        {
+          "stage": "境内制油与包装",
+          "status": "verified",
+          "detail": "同名制造企业的3A级正式劳动结果，与两款油的制造资料组合核对；系列对应及历史日期在商品中标明。",
+          "sourceIds": [
+            "suzhou-labor2021-2022-final",
+            "fulinmen-soybean5l-chongchuan-2024",
+            "fulinmen-corn5l-beijing2024",
+            "fulinmen-golden-corn2023-maker"
+          ]
+        },
+        {
+          "stage": "大豆、玉米及包材",
+          "status": "unknown",
+          "detail": "尚未取得具体原料和包材供应商劳动资料；境内成品制造不推定全部原料种植于中国。",
+          "sourceIds": [
+            "fulinmen-soybean5l-retail-information"
+          ]
+        },
+        {
+          "stage": "维修外包与运输",
+          "status": "unknown",
+          "detail": "仪表招聘职责涉及承包商管理，未形成承包商和运输企业的劳动结论。",
+          "sourceIds": [
+            "cofco-eastsea-instrument-job"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-13前复核。优先寻找2023—2024年度最终4A级文件、近期本厂员工经历和新油种制造资料；同一厂劳动资料供已对应产品共用。",
+      "assessments": [
+        {
+          "kind": "government-labor-review",
+          "subject": "中粮东海粮油工业（张家港）有限公司",
+          "sourceId": "cofco-eastsea-labor-credit-2022",
+          "result": "2022年苏州市劳动保障2A级信誉单位复查确认",
+          "period": "2022年复查；2023-01-16公布，完整审查起止日未公开",
+          "resultPublishedAt": "2023-01-16",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "苏州市人力资源和社会保障局、苏州市社会信用体系建设领导小组办公室",
+          "scopeType": "employer",
+          "scope": "中粮东海粮油工业（张家港）有限公司的劳动保障综合评价；同一信用体系覆盖劳动合同、工资和加班费、社保、工时、休息及劳动保护。",
+          "verificationSourceId": "cofco-eastsea-labor-credit-2022",
+          "basisSourceIds": [
+            "suzhou-labor-review2022-notice",
+            "suzhou-labor-review2022-form",
+            "suzhou-labor-review2024-notice"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ],
+          "limitation": "最终政府结果结合该信用体系的复查标准作综合判断；2022原始复查表明确六类权益，后续通知沿用基本标准。未公开完整审查起止日及企业分项结果，不补造个人工时。本站复核日期不是政府证书期限；2025年4A级拟评定另记，未作最终结果。"
+        },
+        {
+          "kind": "government-labor-review",
+          "subject": "中粮东海粮油工业（张家港）有限公司",
+          "sourceId": "suzhou-labor2021-2022-final",
+          "result": "2021—2022年度苏州市劳动保障3A级信誉单位",
+          "period": "2021—2022年度；2023-12-27公布，完整审查起止日未公开",
+          "resultPublishedAt": "2023-12-27",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "苏州市人力资源和社会保障局、苏州市社会信用体系建设领导小组办公室",
+          "scopeType": "employer",
+          "scope": "中粮东海粮油工业（张家港）有限公司的劳动保障综合评价；同一信用体系覆盖劳动合同、工资和加班费、社保、工时、休息及劳动保护。",
+          "verificationSourceId": "suzhou-labor2021-2022-final",
+          "basisSourceIds": [
+            "suzhou-labor-review2022-notice",
+            "suzhou-labor-review2022-form",
+            "suzhou-labor-review2024-notice"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ],
+          "limitation": "最终政府结果结合该信用体系的复查标准作综合判断；2022原始复查表明确六类权益，后续通知沿用基本标准。未公开完整审查起止日及企业分项结果，不补造个人工时。本站复核日期不是政府证书期限；2025年4A级拟评定另记，未作最终结果。"
+        }
+      ]
     }
   ],
   "products": [
@@ -25850,9 +26075,9 @@
     },
     {
       "id": "fulinmen-corn-oil-5l",
-      "name": "黄金产地玉米油 5L",
+      "name": "黄金产地玉米油5L（中粮东海）",
       "brand": "福临门",
-      "companyId": "cofco-fulinmen",
+      "companyId": "cofco-eastsea",
       "category": "food",
       "description": "家庭烹调用的桶装玉米油。",
       "tags": [
@@ -25862,38 +26087,45 @@
       "needs": [
         "玉米油"
       ],
-      "url": "https://productandservice.cofco.com/upload/1/zl/platform/2008608579132067840.pdf",
+      "url": "https://www.jd.com/jiage/132000378ea66cfb5b03.html",
       "relationshipSourceIds": [
-        "cofco-oils-products",
+        "fulinmen-corn5l-jd-retail",
+        "fulinmen-golden-corn2023-maker",
+        "fulinmen-corn5l-beijing2024",
         "cofco-fulinmen-brand"
       ],
-      "market": "中粮产品目录提供 5L 玉米油及全渠道线索，尚未对应当前同规格直接零售订单；目录不等于库存。",
-      "relationship": "官网将此商品或系列列于该品牌；具体批次的制造、授权或服务法人仍需核对。",
+      "market": "大陆京东黄金产地玉米油5L单桶条目；同页5.43L、5.68L及组合装不属于本条。",
+      "relationship": "系列名单明确中粮东海制造黄金产地玉米油，政府抽检另列同厂5升压榨玉米油，结合准确5L零售条目作综合对应；不是单份文件直接列全，范围限定该厂制造版本。",
       "image": null,
       "imageMode": "typography",
       "imageSource": null,
       "imageRights": "仅展示商品名称，不使用替代性商品照片。",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "中粮产品目录提供 5L 玉米油及全渠道线索，尚未对应当前同规格直接零售订单；目录不等于库存。",
+          "status": "supported",
+          "detail": "京东公开列表有黄金产地5L及5L×1桶准确条目和商品链接；地区库存和成交价按零售页，未混其他容量或套装。",
           "sourceIds": [
-            "cofco-oils-products",
-            "cofco-fulinmen-brand"
+            "fulinmen-corn5l-jd-retail"
           ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "中粮官方表标为自产、中国大陆供应，所列主体是食品营销公司；具体灌装厂和原料加工地点仍未锁定。",
+          "status": "supported",
+          "subject": "中粮东海粮油工业（张家港）有限公司",
+          "detail": "行业转载名单具名中粮东海的黄金产地系列；北京原PDF第322项另核到该厂5升压榨玉米油及张家港厂址。两项制造资料与零售规格综合判断，保留原表未写黄金产地、名单未写容量的差异，仅对应该厂制造版本。",
           "sourceIds": [
-            "cofco-oils-products"
+            "fulinmen-golden-corn2023-maker",
+            "fulinmen-corn5l-beijing2024",
+            "fulinmen-corn5l-jd-retail"
           ]
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "本款实际制造厂尚未锁定；张家港大豆油样品和该厂历史评价不能用于其他油种。需先对应制造法人，再核该主体的劳动依据。",
+          "status": "supported",
+          "assessmentSourceId": "suzhou-labor2021-2022-final",
+          "detail": "中粮东海2021—2022年度正式3A级结果，2023-12-27公布，结合劳动保障复查表覆盖的六类权益支持收录；2025年4A级仅为拟评定。本站2026-10-13前复核。",
           "sourceIds": [
-            "cofco-employees-2025-web"
+            "suzhou-labor2021-2022-final",
+            "suzhou-labor-review2022-form",
+            "suzhou-labor2023-2024-publicity"
           ]
         }
       }
@@ -28898,9 +29130,9 @@
     },
     {
       "id": "fulinmen-soybean-oil-5l",
-      "name": "非转基因一级大豆油 5L",
+      "name": "非转基因一级大豆油5L（中粮东海）",
       "brand": "福临门",
-      "companyId": "cofco-fulinmen",
+      "companyId": "cofco-eastsea",
       "category": "food",
       "description": "家庭烹调用一级大豆油，记录 5L 单桶；具体食用方法以实物标签为准。",
       "tags": [
@@ -28916,36 +29148,38 @@
         "fulinmen-soybean5l-retail-information",
         "fulinmen-soybean5l-chongchuan-2024"
       ],
-      "market": "大陆准确 5L 单桶资料可核，当前地区可售、包装与批次待核。",
-      "relationship": "零售资料明确福临门品牌；2024 年同名同规格历史样品标称中粮东海生产，当前发货厂仍需瓶身背标和日期核对。",
+      "market": "大陆苏宁5L单桶商品入口；地区库存和成交价以零售页为准。",
+      "relationship": "政府同品牌、同品名、同5升规格记录对应中粮东海制造，结合准确零售页判断；本条限定该厂制造版本，未保证单次发货厂。",
       "image": "images/fulinmen-soybean-oil-5l.webp",
       "imageMode": "contain",
       "imageSource": "https://imgservice.suning.cn/uimg1/b2c/image/-HrRKWN3tsrl1x_YPvbfIQ.jpg_800w_800h_4e",
       "imageRights": "福临门及商品图片相关权利人；零售平台公开展示，具体图片著作权法人未单独确认",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "大陆直接商品页和原图对应非转基因一级大豆油 5L×1；现时可售、销售法人及地区配送待核。",
+          "status": "supported",
+          "detail": "苏宁直接商品页及5L×1包装清单支持大陆个人零售渠道；未验证实时库存。",
           "sourceIds": [
             "fulinmen-soybean5l-suning"
           ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "2024-06-24 历史样品标称张家港中粮东海；零售图列产品原产国中国。当前批次、制造背标和原豆来源未核，非转基因不证明原豆国产。",
+          "status": "supported",
+          "subject": "中粮东海粮油工业（张家港）有限公司",
+          "detail": "崇川原表第477项为福临门非转基因一级大豆油5升/瓶、张家港中粮东海，日期栏2024-06-24；与苏宁同名同规格对应。只涵盖该厂制造版本，原豆产地不由此推定。",
           "sourceIds": [
             "fulinmen-soybean5l-chongchuan-2024",
+            "fulinmen-soybean5l-suning",
             "fulinmen-soybean5l-retail-information"
           ]
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "制造企业有 2022 年 2A 级复查线索，尚需核对评价范围和更新结果；集团网页与其他岗位招聘不单独替代对应劳动依据。",
+          "status": "supported",
+          "assessmentSourceId": "suzhou-labor2021-2022-final",
+          "detail": "中粮东海2021—2022年度正式3A级结果，2023-12-27公布，结合劳动保障复查表覆盖的六类权益支持收录；2025年4A级仅为拟评定。本站2026-10-13前复核。",
           "sourceIds": [
-            "cofco-eastsea-labor-credit-2022",
-            "cofco-employees-2025-web",
-            "cofco-eastsea-instrument-job",
-            "cofco-heze-safety-hiring-2024"
+            "suzhou-labor2021-2022-final",
+            "suzhou-labor-review2022-form",
+            "suzhou-labor2023-2024-publicity"
           ]
         }
       }
@@ -37147,7 +37381,7 @@
           "query": "包子"
         }
       ],
-      "note": "粮油食品清单补入原先遗漏的馒头、包子，共36项需求均有具体研究记录，其中14项已有正式商品。新增牛小白300g六只单袋馒头的京东渠道、盒马420g六只青菜包的六安实体门店渠道，分别对应同一常熟制造企业的劳动结果。食用油、挂面、米粉、豆类等缺口继续保留；现有名味、开平大米、胖东来与天津雀巢资料仍按各自具体口味、厂家及渠道范围记录。本批将学子膳黑椒柳条1kg对应到江苏虞恒及同法人的劳动结果，准确消费者零售入口尚未找到；速冻调理肉仍未正式覆盖。",
+      "note": "粮油食品36项需求均有具体研究记录，其中16项已有正式商品。新收录中粮东海制造的福临门非转基因一级大豆油5L和黄金产地玉米油5L，补上大豆油、玉米油；保留制造对应的综合判断及2021—2022年度劳动评价年份。学子膳黑椒柳条1kg已有制造及劳动资料，个人零售入口仍待补。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -37279,7 +37513,15 @@
         "hema-luan-store-address202604",
         "hema-luan-wanda-map",
         "yuheng-blackpepper-by2024",
-        "yuheng-project-hours2020"
+        "yuheng-project-hours2020",
+        "suzhou-labor-review2022-notice",
+        "suzhou-labor-review2022-form",
+        "suzhou-labor2021-2022-final",
+        "suzhou-labor-review2024-notice",
+        "suzhou-labor2023-2024-publicity",
+        "fulinmen-corn5l-beijing2024",
+        "fulinmen-golden-corn2023-maker",
+        "fulinmen-corn5l-jd-retail"
       ]
     },
     {
