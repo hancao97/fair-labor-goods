@@ -9759,6 +9759,66 @@
       "locator": "原报第12版、PDF第1页右下表；2026-02-09至02-15全国影院人次排名第77行，统计日期02-24",
       "summary": "表内宿州市砀山万达影城在7天内有281场、3535人次及146482.30元票房，证明该具体影院在所列2026年期间实际提供有偿观影服务；与具名门店和购票入口交叉对应。",
       "limitation": "已下载并逐页查看原PDF。数据仅覆盖2026-02-09至02-15，不是旁边文章所述完整春节档，也不证明查阅当天有可售场次、特定票价或库存；票房资料不是劳动评价。"
+    },
+    {
+      "id": "changshu-labor2024-final",
+      "title": "2024年度常熟市劳动保障A级诚信单位最终名单",
+      "publisher": "常熟市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.changshu.gov.cn/zgcs/gongshi/202510/17290b6933bc422c99a1a7381bb3dbcd.shtml",
+      "publishedAt": "2025-10-27",
+      "checkedAt": "2026-09-13",
+      "locator": "正式公布正文及所附DOCX“经开区（89家）”组，芬欧汇川(中国)有限公司，位于贝特利与瑞升利之间。",
+      "summary": "经申报、属地初审推荐、人社局会同相关部门复审及公示，624家用人单位被授予2024年度劳动保障A级诚信单位；最终附件具名芬欧汇川(中国)有限公司。",
+      "limitation": "已直接下载政府原页及原始DOCX并读取目标段落。采用页面可见时间和落款2025-10-27；页面另有2026年更新元数据，不据此改变评价年度或公布日。完整审查起止日未公开，结果仅适用于具名法人及所列年度。"
+    },
+    {
+      "id": "upm-changshu-report2024",
+      "title": "芬欧汇川常熟纸厂2024年度环境绩效与社会责任报告",
+      "publisher": "UPM芬欧汇川",
+      "type": "企业工厂报告",
+      "url": "https://www.upm.com/siteassets/reporting-hub/emas-reports/emas-report-2024---upm-changshu-paper-mill-chinese.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "PDF第2页：制造法人、江苏常熟工厂及经典佳印、欣乐等产品系列；第11页：职业健康与安全指标。",
+      "summary": "报告将芬欧汇川（中国）有限公司对应到常熟纸厂，产品表列经典佳印与欣乐复印纸系列。2024年披露6起可记录伤害事件，未达到不超过4起的自定目标。",
+      "limitation": "已下载PDF、提取文字并查看有关原页。报告年度为2024，正式出版日未明确；2025-05-14是环境审核确认日。EMAS、FSC和环境标志不作为综合劳动结论。报告明确不含芬欧蓝泰标签（中国）有限公司；系列资料未逐项列零售包装。"
+    },
+    {
+      "id": "upm-paper-shanghai-response",
+      "title": "上海采购响应表中的经典佳印与欣乐A4 70g制造商",
+      "publisher": "上海市政府采购云平台；供应商填报",
+      "type": "政府采购响应资料",
+      "url": "https://jpg.zfcg.sh.gov.cn/sh-gov-open-doc/1071PO/0/202512/e99a4879-2640-440c-b34c-f1998f3ace05.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "28页PDF第16页欣乐/UPM Copykid A4(70G)，第22页经典佳印A4(70G)；各行生产厂家栏。",
+      "summary": "上海藏谷纸业填报的欣乐A4 70g、上海溢孚实业填报的经典佳印A4 70g，生产厂家均列芬欧汇川（中国）有限公司，与工厂产品系列表互相对应。",
+      "limitation": "已下载原始PDF、读取并查看两页。制造商栏属于供应商响应，不能称为政府制造认证。未取得正式公布日期，不从文件路径推断。表中未列京东SKU、欣乐包装颜色及每箱包数；依据同系列、同纸张规格和工厂报告作制造对应，零售包装另据商品条目。环境认证及纸张质量等级不作劳动结论。"
+    },
+    {
+      "id": "upm-classic-jiayin70g5-jd",
+      "title": "京东经典佳印A4 70g五包装具体商品",
+      "publisher": "京东",
+      "type": "大陆零售资料",
+      "url": "https://www.jd.com/jiage/67080b6a48bd408dc3f.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "经典佳印70g A4、500张/包、5包/箱条目；原始链接商品7595420。",
+      "summary": "直接读取京东公开HTML，具体条目及链接对应经典佳印A4 70g复印纸，500张每包、5包共2500张。",
+      "limitation": "条目支持具体国内销售渠道，不证明实时库存、价格或付款完成。包装数量取自此条目，没有从采购表推定；未把同页其他佳印系列视为本款。"
+    },
+    {
+      "id": "upm-tao-xinle70g-single-jd",
+      "title": "京东桃欣乐A4 70g单包500张具体商品",
+      "publisher": "京东",
+      "type": "大陆零售资料",
+      "url": "https://www.jd.com/jiage/670d8b040d5098bfa99.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "桃欣乐70g、单包500张条目；原始链接商品100002399415。",
+      "summary": "直接读取京东公开HTML，具体条目及链接对应UPM桃欣乐A4 70g、单包500张，提供少量家庭打印的包装选项。",
+      "limitation": "没有把相邻黄欣乐五包装、蓝欣乐或80g条目套用到本款；具体价格、配送及供货条件以渠道实际信息为准。条目不是制造或劳动审核。"
     }
   ],
   "companies": [
@@ -21754,6 +21814,84 @@
         }
       ],
       "nextCheck": "优先补近期具名生产岗位的工时、报酬和社保等可核实资料或适用综合劳动结果；有新来源再继续，不重复无结果的泛称评级搜索。已对应同一法人的型号可复用企业调查。"
+    },
+    {
+      "id": "upm-changshu",
+      "name": "UPM芬欧汇川 · 常熟纸厂",
+      "legalName": "芬欧汇川（中国）有限公司",
+      "location": "江苏省常熟经济技术开发区",
+      "origin": "international",
+      "originNote": "芬欧汇川集团在华全资子公司；国际品牌背景与江苏常熟实际制造分别核对。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时制度纳入年度劳动评价",
+      "restLabel": "休息休假纳入年度劳动评价",
+      "cardNote": "2024年度劳动保障A级",
+      "scope": "芬欧汇川（中国）有限公司及所对应的常熟复印纸制造；本批经典佳印A4 70g五包装、桃欣乐A4 70g单包装。",
+      "finding": "最终政府名单具名制造法人；工厂产品系列、采购响应中的制造商与国内具体纸款相互对应，两种包装正式收录。",
+      "caveats": [
+        "采用2024年度劳动评价，2025-10-27正式公布；没有将查阅日期写成新的评价年份，也不保证此后全部用工。",
+        "2024年工厂报告披露6起可记录伤害事件，未完成不超过4起的目标。保留这项安全记录；事件数本身不直接等同劳动违法结论。",
+        "尚未取得可核对岗位及年份的员工本人工作体验；招聘福利和企业报告未计作员工独立反馈。实际工时和每周休息天数仍未知。",
+        "采购响应确认经典佳印与欣乐A4 70g的制造商，未列零售SKU及欣乐包装颜色。结合该厂明确生产整个系列作对应，包数与张数来自各自零售条目。",
+        "芬欧蓝泰标签（中国）有限公司是另一法人，工厂报告明确不包含它；原料和零售配送企业不借用本厂劳动结果。"
+      ],
+      "sourceIds": [
+        "changshu-labor2024-final",
+        "law-labor-rating",
+        "upm-changshu-report2024",
+        "upm-paper-shanghai-response",
+        "upm-classic-jiayin70g5-jd",
+        "upm-tao-xinle70g-single-jd"
+      ],
+      "supply": [
+        {
+          "stage": "系列与国内销售",
+          "status": "policy",
+          "detail": "工厂报告列经典佳印、欣乐系列，京东具体条目分别提供五包箱装和单包购买入口。",
+          "sourceIds": [
+            "upm-changshu-report2024",
+            "upm-classic-jiayin70g5-jd",
+            "upm-tao-xinle70g-single-jd"
+          ]
+        },
+        {
+          "stage": "常熟复印纸制造",
+          "status": "verified",
+          "detail": "两系列A4 70g采购响应具名制造法人，与常熟纸厂报告及2024年度劳动A级最终名单对应。",
+          "sourceIds": [
+            "upm-changshu-report2024",
+            "upm-paper-shanghai-response",
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        },
+        {
+          "stage": "原料与零售配送用工",
+          "status": "unknown",
+          "detail": "这些环节的其他用人单位另行记录，不从常熟制造评价推定。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-27前复查同一法人的更新劳动结果、安全事项及制造变化；员工线索有明确岗位、时间或厂区后再补充。",
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "芬欧汇川（中国）有限公司",
+          "result": "2024年度常熟市劳动保障A级诚信单位",
+          "period": "2024年度；完整审查起止日未公开",
+          "sourceId": "changshu-labor2024-final",
+          "resultPublishedAt": "2025-10-27",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-27",
+          "limitation": "采用政府正式公布的具名年度结果。本站复查期限不是政府认定的有效期；不外推到其他法人、未知实际排班或未来全部劳动条件。"
+        }
+      ]
     }
   ],
   "products": [
@@ -35389,6 +35527,120 @@
           ]
         }
       }
+    },
+    {
+      "id": "upm-classic-jiayin-a4-70g-5packs",
+      "name": "经典佳印A4复印纸 · 70g/m² · 500张×5包",
+      "brand": "UPM经典佳印",
+      "companyId": "upm-changshu",
+      "category": "stationery",
+      "description": "A4打印、复印用纸，定量70g/m²，每包500张，5包一箱，共2500张。",
+      "tags": [
+        "复印纸",
+        "打印纸",
+        "A4",
+        "70g",
+        "常熟制造"
+      ],
+      "needs": [
+        "复印纸"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "url": "https://item.jd.com/7595420.html",
+      "market": "京东商品7595420，每包500张，5包一箱，共2500张；价格、配送范围和供货条件以购买时渠道信息为准。",
+      "relationship": "工厂报告列本系列，上海采购响应表将该系列A4 70g纸对应到芬欧汇川（中国）有限公司；以同系列、同规格与具名常熟工厂相互核对，包装数量由具体零售条目确认。",
+      "relationshipSourceIds": [
+        "upm-changshu-report2024",
+        "upm-paper-shanghai-response",
+        "upm-classic-jiayin70g5-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已读取准确商品链接和包装条目：每包500张，5包一箱，共2500张，A4、70g/m²。",
+          "sourceIds": [
+            "upm-classic-jiayin70g5-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "芬欧汇川（中国）有限公司",
+          "detail": "采购响应的系列、规格及生产厂家与常熟工厂产品表相符。采购表未列京东SKU；本款制造对应是结合两份资料作出的判断。",
+          "sourceIds": [
+            "upm-changshu-report2024",
+            "upm-paper-shanghai-response"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "对应制造法人列入2024年度常熟市劳动保障A级诚信单位最终名单，2025-10-27公布。工厂安全事项和评价年份同时保留。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "upm-tao-xinle-a4-70g-500",
+      "name": "桃欣乐A4复印纸 · 70g/m² · 单包500张",
+      "brand": "UPM桃欣乐",
+      "companyId": "upm-changshu",
+      "category": "stationery",
+      "description": "A4打印、复印用纸，定量70g/m²，单包500张。",
+      "tags": [
+        "复印纸",
+        "打印纸",
+        "A4",
+        "70g",
+        "常熟制造"
+      ],
+      "needs": [
+        "复印纸"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "url": "https://item.jd.com/100002399415.html",
+      "market": "京东商品100002399415，单包500张；价格、配送范围和供货条件以购买时渠道信息为准。",
+      "relationship": "工厂报告列本系列，上海采购响应表将该系列A4 70g纸对应到芬欧汇川（中国）有限公司；以同系列、同规格与具名常熟工厂相互核对，包装数量由具体零售条目确认。",
+      "relationshipSourceIds": [
+        "upm-changshu-report2024",
+        "upm-paper-shanghai-response",
+        "upm-tao-xinle70g-single-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已读取准确商品链接和包装条目：单包500张，A4、70g/m²。",
+          "sourceIds": [
+            "upm-tao-xinle70g-single-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "芬欧汇川（中国）有限公司",
+          "detail": "采购响应的系列、规格及生产厂家与常熟工厂产品表相符。采购表未列京东SKU；本款制造对应是结合两份资料作出的判断。",
+          "sourceIds": [
+            "upm-changshu-report2024",
+            "upm-paper-shanghai-response"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "对应制造法人列入2024年度常熟市劳动保障A级诚信单位最终名单，2025-10-27公布。工厂安全事项和评价年份同时保留。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -36476,7 +36728,7 @@
           "query": "打印机"
         }
       ],
-      "note": "11项办公学习需求均有具体研究资料，尚无正式收录。新增卡拉羊CX5052、24L书包的零售入口，但官网两家生产企业尚未与本款对应。晨光K35与经典高品乐A4 70g五包箱装已有国内销售和具名制造依据，制造企业劳动评价仍待补；其余文具、打印机各自核对。 新增绿太阳A4 70g五包装及南通销售范围，制造认证尚未与具体包装对应；齐心B3252国内销售资料已补足，不再以未知实时库存阻止销售项通过。",
+      "note": "11项办公学习需求均有具体研究资料；复印纸首次正式覆盖，经典佳印A4 70g五包装及桃欣乐A4 70g单包装共用已对应的常熟制造法人和2024年度劳动A级结果。其余10项尚未正式覆盖。晨光K35、经典高品乐已有销售和具名制造依据，劳动资料待补；绿太阳的广西制造资料与具体包装仍待对应，其他文具及打印机按各自缺口继续。",
       "sourceIds": [
         "deli-campus-2025",
         "simao-production-hiring-2025",
@@ -36501,7 +36753,12 @@
         "sunpaper-employee-job592",
         "goldensun-green-a4-70g-jinhuan",
         "sunpaper-guangxi-cec2024-copy",
-        "sunpaper-guangxi-harmony2024-lead"
+        "sunpaper-guangxi-harmony2024-lead",
+        "changshu-labor2024-final",
+        "upm-changshu-report2024",
+        "upm-paper-shanghai-response",
+        "upm-classic-jiayin70g5-jd",
+        "upm-tao-xinle70g-single-jd"
       ]
     },
     {
