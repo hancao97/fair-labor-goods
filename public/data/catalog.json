@@ -4591,9 +4591,9 @@
       "type": "政府评价",
       "url": "https://rsj.ahsz.gov.cn/xwzx/tzgg/196173891.html",
       "publishedAt": "2025-12-15",
-      "checkedAt": "2026-09-13",
-      "locator": "最终公告及附件1 A级单位原始DOC；第104行宿州徽香源、第207行砀山汇源、第320行安徽侯王面业、第331行灵璧现代公交、第446行合肥万达国际电影城有限公司宿州砀山万达广场店；另有第46、48、50、101行门店线索",
-      "summary": "2025年开展、审查2024年的劳动守法诚信评价最终结果。已读取原A级附件，据具名食品企业、公交及影院分店对应具体商品与本地服务；2026-09-13重新下载附件1并确认第446行影院完整企业名称。",
+      "checkedAt": "2026-09-14",
+      "locator": "最终公告及附件1 A级单位原始DOC；第104行宿州徽香源、第207行砀山汇源、第320行安徽侯王面业、第331行灵璧现代公交、第440行简阳市海捞餐饮管理有限公司宿州市人民路分公司、第446行合肥万达国际电影城有限公司宿州砀山万达广场店；另有第46、48、50、101行门店线索",
+      "summary": "2025年开展、审查2024年的劳动守法诚信评价最终结果。已读取原A级附件，据具名食品企业、公交、影院和餐饮分店对应具体商品与本地服务；2026-09-14重新取得最终公告及附件，核对第440行海底捞人民路分公司。",
       "limitation": "评价适用于具名用人单位及 2024 年审查范围，不扩张为同品牌所有企业均获评，也不作未来持续合规保证。附件序号以原文件为准。"
     },
     {
@@ -6775,10 +6775,10 @@
       "type": "政府评价",
       "url": "https://rsj.ahsz.gov.cn/group1/M00/04/27/Cp8OO2k_0BiAcHj6AAZbevlR_FU985.doc",
       "publishedAt": "2025-12-15",
-      "checkedAt": "2026-09-13",
+      "checkedAt": "2026-09-14",
       "locator": "2025年（2024年度）A级单位表，第313、440行；对应2025-12-15最终公告",
       "summary": "原附件第313行列安徽联升餐厅食品有限公司宿州汴河路餐厅，第440行列简阳市海捞餐饮管理有限公司宿州市人民路分公司。",
-      "limitation": "原DOC已取得并转换读取。2025年是开展评价的年份，覆盖2024年；不扩大到同品牌所有门店。人民路分公司尚未与华夏世贸店完成主体对应；较早评价不能替代对更新线索的判断。"
+      "limitation": "原DOC已重新取得并转换读取。2025年是开展评价的年份，覆盖2024年；范围限具名用人单位。人民路分公司现通过政府食品许可对应华夏世贸5楼0500商铺，不能扩展到海底捞其他门店；其他分店的主体和更新线索仍须分别判断。"
     },
     {
       "id": "haidilao-huaxia-official-store",
@@ -6799,7 +6799,7 @@
       "type": "餐饮门店与菜品资料",
       "url": "https://you.ctrip.com/yougourmet/restdetail/suzhou672/78699825.html",
       "publishedAt": null,
-      "checkedAt": "2026-09-13",
+      "checkedAt": "2026-09-14",
       "locator": "当前餐厅资料poiId 78699825，foods中的海底捞6斤番茄锅及华夏世贸店地址",
       "summary": "同一门店条目列海底捞6斤番茄锅，地址为安徽省宿州市埇桥区西关街道人民路与汴河路交叉口华夏世贸广场5楼0500商铺。",
       "limitation": "已读取当前原始页面中的门店数据。6斤是所列菜品名称，不换算成已核净重或人数套餐；锅格、份量、现售价格及餐段以门店为准，未借用万达广场店的菜单或图片。"
@@ -11512,6 +11512,18 @@
       "limitation": "直接读取公开页面。原作者、岗位、发生年份及事实未核实，原始投诉材料未取得；只记为一条转载。相邻企业的加班、欠薪等指控不属于该公司，不转移引用，也不据未详述的裁员直接认定违法。",
       "publishedAt": null,
       "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "haidilao-huaxia-food-permit2024",
+      "title": "埇桥区市场监督管理局2024年食品经营许可公示6月份：海底捞人民路分公司",
+      "publisher": "宿州市埇桥区人民政府（三里湾街道办事处公开）",
+      "type": "政府食品经营许可",
+      "url": "https://www.szyq.gov.cn/grassroots/6623565/161269891.html",
+      "publishedAt": "2024-07-02",
+      "checkedAt": "2026-09-14",
+      "locator": "表内简阳市海捞餐饮管理有限公司宿州市人民路分公司两行：2024/06/04核发、2024/06/13变更；许可证JY23413021034460、信用代码91341302MA2TLMQ15Y",
+      "summary": "区政府公开的食品经营许可表将该分公司对应到人民路与汴河路交叉口华夏世贸5楼0500商铺。经营类型为大型餐饮（含网络经营），许可项目含热食、冷食、生食及自制饮品制售，店址与海底捞官网和所选餐品页面对应。",
+      "limitation": "已取得政府域名原始HTML并读取两条许可记录。记录形成于2024年，用于具名经营主体及制作地点对应；许可证所列2029-06-03届满日仅属于食品许可，不是劳动评价有效期，也不证明上游原料或配送企业的劳动情况。"
     }
   ],
   "companies": [
@@ -20180,58 +20192,80 @@
     },
     {
       "origin": "china",
-      "level": "research",
+      "level": "assessment",
       "hours": null,
       "restDays": null,
-      "hoursLabel": "适用劳动资料待补",
-      "restLabel": "休息依据待补",
+      "hoursLabel": "工时休息纳入政府评价",
+      "restLabel": "具体排班未单独披露",
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "id": "haidilao-huaxia-suzhou",
       "name": "海底捞 · 宿州华夏世贸店",
-      "legalName": "海底捞 · 宿州华夏世贸店（具体经营主体待核）",
+      "legalName": "简阳市海捞餐饮管理有限公司宿州市人民路分公司",
       "location": "安徽省宿州市埇桥区人民路与汴河路交叉口华夏世贸广场5楼0500商铺",
       "originNote": "资料对应中国境内的具体门店；店址不用于推断每名员工的国籍，品牌与实际经营企业分别记录。",
-      "cardNote": "具体门店餐品已对应 · 经营主体与劳动待核",
-      "scope": "海底捞 · 宿州华夏世贸店及所选餐品，不扩大到同品牌其他门店。",
-      "finding": "番茄锅已对应官网具名的华夏世贸门店。宿州劳动名单中的人民路分公司有2024年度A级结果，但尚未证实就是本店；集团2025年披露仅作补充。",
+      "cardNote": "具名门店劳动 A 级 · 审查 2024 年",
+      "scope": "简阳市海捞餐饮管理有限公司宿州市人民路分公司在宿州华夏世贸5楼0500商铺的餐品制作与门店服务；劳动评价审查2024年。",
+      "finding": "政府食品经营许可将人民路分公司对应到华夏世贸5楼0500商铺，与官网043001门店及番茄锅菜单地址一致；同一分公司列宿州2024年度劳动A级最终附件第440行。",
       "caveats": [
-        "菜单和地址提供具体消费线索，不能代替营业主体和劳动结果。",
-        "堂食或门店购买的份量、餐段及价格以现售菜单为准。",
-        "没有找到适用劳动资料不等于门店违法。"
+        "劳动结果于2025-12-15公布，审查2024年；本站安排在2026-12-15前复核，这不是政府规定的评级有效期，也不代表2026年重新检查。",
+        "劳动依据限该分公司的境内餐品制作与服务，不扩展到其他门店、原料加工企业或独立配送雇主；集团制度披露仅作补充。",
+        "公开门店资料支持到店消费，菜品份量、锅格、价格和当日供应以本店菜单为准；营业时长不是员工实际工时。"
       ],
       "sourceIds": [
         "haidilao-huaxia-official-store",
         "haidilao-huaxia-tomato-menu",
+        "haidilao-huaxia-food-permit2024",
         "suzhou-labor2024-dining-a",
+        "suzhou-labor-2024",
+        "law-labor-rating",
         "haidilao-esg2025-dining"
       ],
       "supply": [
         {
           "stage": "具体门店与菜品",
           "status": "verified",
-          "detail": "番茄锅已对应官网具名的华夏世贸门店。宿州劳动名单中的人民路分公司有2024年度A级结果，但尚未证实就是本店；集团2025年披露仅作补充。",
+          "detail": "携程本店菜单列海底捞6斤番茄锅；官网华夏世贸043001门店与5楼0500商铺地址一致。",
           "sourceIds": [
             "haidilao-huaxia-official-store",
-            "haidilao-huaxia-tomato-menu",
-            "suzhou-labor2024-dining-a",
-            "haidilao-esg2025-dining"
+            "haidilao-huaxia-tomato-menu"
           ]
         },
         {
-          "stage": "制作与实际雇主",
-          "status": "unknown",
-          "detail": "已定位境内门店，尚缺可对应所选餐品制作或门店服务的具名经营主体。",
-          "sourceIds": []
+          "stage": "门店制作与劳动依据",
+          "status": "verified",
+          "detail": "政府食品经营许可明确该铺位由人民路分公司经营并许可热食等制售；同一分公司列2024年度劳动A级最终名单。",
+          "sourceIds": [
+            "haidilao-huaxia-food-permit2024",
+            "suzhou-labor2024-dining-a",
+            "suzhou-labor-2024"
+          ]
         },
         {
-          "stage": "生产岗位劳动",
+          "stage": "原料加工、包材与配送",
           "status": "unknown",
-          "detail": "尚缺可对应实际制作或门店雇主的综合劳动守法依据，不额外要求全部上游逐人资料。",
+          "detail": "现有劳动评价不覆盖未具名上游企业及独立配送雇主，继续补充资料。",
           "sourceIds": []
         }
       ],
-      "nextCheck": "出现本门店营业执照、食品经营许可或具名经营企业后，再核对适用的政府劳动结果或独立劳动审核；没有新线索时不重复宽泛搜索。"
+      "nextCheck": "在本站2026-12-15复核期限前查看更新劳动结果和相反员工线索；门店停业、经营主体或地址变化时重新对应食品许可及餐品入口。没有新线索时不重复宽泛检索同一门店。",
+      "assessments": [
+        {
+          "subject": "简阳市海捞餐饮管理有限公司宿州市人民路分公司",
+          "result": "劳动保障守法诚信 A 级",
+          "period": "2025年评价（审查2024年）",
+          "sourceId": "suzhou-labor2024-dining-a",
+          "limitation": "宿州人社2025-12-15最终公告的A级附件第440行列该分公司；政府食品许可将其对应到所选华夏世贸门店。2024年审查结果不表示当前每班次零加班，本站复核日期不等于官方有效期。",
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "periodStart": "2024-01-01",
+          "periodEnd": "2024-12-31",
+          "resultPublishedAt": "2025-12-15",
+          "reviewedAt": "2026-09-14",
+          "reviewDueAt": "2026-12-15"
+        }
+      ]
     },
     {
       "origin": "china",
@@ -36407,10 +36441,11 @@
       ],
       "url": "https://you.ctrip.com/yougourmet/restdetail/suzhou672/78699825.html",
       "market": "当前门店条目列所选餐品及境内地址，可作为到店购买线索；当日供应、份量、价格和餐段以该门店现售菜单为准。",
-      "relationship": "携程所选番茄锅对应华夏世贸店，店名及5楼0500店址与海底捞官网043001一致；尚缺本店营业执照来对应具体经营企业。",
+      "relationship": "所选番茄锅、海底捞官网043001华夏世贸门店和政府食品许可均对应人民路与汴河路交叉口5楼0500商铺；许可具名经营者为简阳市海捞餐饮管理有限公司宿州市人民路分公司。",
       "relationshipSourceIds": [
         "haidilao-huaxia-tomato-menu",
-        "haidilao-huaxia-official-store"
+        "haidilao-huaxia-official-store",
+        "haidilao-huaxia-food-permit2024"
       ],
       "image": null,
       "imageMode": "typography",
@@ -36425,19 +36460,24 @@
           ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "境内门店地点已找到，仍缺本款制作或门店服务的具名经营主体，不能直接把品牌或总部当作实际雇主。",
+          "status": "supported",
+          "subject": "简阳市海捞餐饮管理有限公司宿州市人民路分公司",
+          "detail": "政府食品许可将具名分公司对应到宿州华夏世贸5楼0500商铺，并列热食等制售范围；与同店菜单、官网地址综合对应本款在境内门店的制作与服务。",
           "sourceIds": [
+            "haidilao-huaxia-food-permit2024",
             "haidilao-huaxia-tomato-menu",
             "haidilao-huaxia-official-store"
           ]
         },
         "productionLabor": {
-          "status": "pending",
-          "detail": "宿州人民路分公司有2024年度A级，但未确认就是所选华夏世贸店；集团2025年招聘和薪酬披露没有替代门店主体对应。",
+          "status": "supported",
+          "detail": "同一人民路分公司列宿州2024年度劳动A级最终名单第440行，结果于2025-12-15公布，适用本店制作与服务用人单位；不扩展到其他门店或上游企业。",
+          "assessmentSourceId": "suzhou-labor2024-dining-a",
           "sourceIds": [
             "suzhou-labor2024-dining-a",
-            "haidilao-esg2025-dining"
+            "suzhou-labor-2024",
+            "haidilao-huaxia-food-permit2024",
+            "law-labor-rating"
           ]
         }
       }
@@ -42472,7 +42512,7 @@
           "query": "自助餐"
         }
       ],
-      "note": "餐饮9项需求均有研究资料。铜陵雨润中央必胜客的经典意式肉酱面、超级至尊比萨芝心普通装新增正式收录，分别补入面食、正餐需求；劳动依据限具名分店的2024年评价工作A级结果。其他7项需求尚无正式餐品，不把同品牌其他门店或全供应链一并认定合规。",
+      "note": "餐饮9项需求均有研究资料，正餐、面食、火锅3项已有正式餐品。新增正式收录宿州华夏世贸店海底捞6斤番茄锅，政府食品许可将5楼0500商铺对应到已有2024年度劳动A级的人民路分公司。铜陵雨润中央必胜客两道餐品保留；其他6项需求继续补证，劳动结果分别限具名分店及实际评价年份。",
       "sourceIds": [
         "sofitel-haikou-campus",
         "suzhou-labor-2024",
@@ -42488,7 +42528,8 @@
         "anhui-minimum-wage2025-suzhou",
         "tongling-labor2024-final",
         "pizzahut-tongling-yurun-dishes",
-        "pizzahut-tongling-yurun-hours"
+        "pizzahut-tongling-yurun-hours",
+        "haidilao-huaxia-food-permit2024"
       ]
     },
     {
