@@ -554,7 +554,7 @@ function ProductCard({
 }
 function EmployeeExperiences({ feedback }: { feedback?: EmployeeFeedback[] }) {
   if (!feedback?.length) return null;
-  const labels = { firsthand: "本人陈述", interview: "媒体采访", repost: "转载经历", referral: "内推介绍" };
+  const labels = { firsthand: "本人陈述", interview: "媒体采访", "employer-interview": "企业访谈", repost: "转载经历", referral: "内推介绍" };
   return (
     <section className="employee-feedback" aria-label="员工工作体验线索">
       <h3>员工怎么说</h3>

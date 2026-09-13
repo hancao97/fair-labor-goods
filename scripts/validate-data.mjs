@@ -92,7 +92,7 @@ for (const c of data.companies) {
     refs([feedback.sourceId]);
     assert(!feedbackIds.has(feedback.sourceId), `${c.id}: repeated employee feedback source`);
     feedbackIds.add(feedback.sourceId);
-    assert(["firsthand", "interview", "repost", "referral"].includes(feedback.kind));
+    assert(["firsthand", "interview", "employer-interview", "repost", "referral"].includes(feedback.kind));
     for (const key of ["period", "roleScope", "summary", "limitation"]) text(feedback[key], `${c.id}.employeeFeedback.${key}`);
   }
   for (const assessment of c.assessments || []) {

@@ -46,7 +46,7 @@ export interface SupplyStage {
 }
 export interface EmployeeFeedback {
   sourceId: string;
-  kind: "firsthand" | "interview" | "repost" | "referral";
+  kind: "firsthand" | "interview" | "employer-interview" | "repost" | "referral";
   period: string;
   roleScope: string;
   summary: string;
