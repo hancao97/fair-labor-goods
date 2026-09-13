@@ -8362,6 +8362,60 @@
       },
       "filename": "images/thermos-fei501wh.webp",
       "usage": "Attributed product illustration; product imagery is not a labor-compliance assessment."
+    },
+    {
+      "id": "pinse-tissue90x24",
+      "product_name": "韧之语四层抽纸 · 90抽×24包",
+      "official_source_page_url": "https://www.jd.com/hprm/159011142e04173e71b5a.html",
+      "product_page_url": "https://item.jd.com/10224682944142.html",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/451886/27/2361/344600/6a2193efFa3467e15/00833203202dd435.jpg",
+      "content_type": "image/webp",
+      "width": 220,
+      "height": 220,
+      "bytes": 89480,
+      "sha256": "58ed03f0266f50cd11bfe167ee94fdf4170b2502f6d77b41c479a67d3e0fa59b",
+      "checkedAt": "2026-09-13",
+      "visually_verified": true,
+      "notes": "京东同一准确SKU原图，已目视核对品牌系列、尺寸、层数及整箱数量。完整转存WebP，无裁切、重绘或放大。促销文字保留为来源图像，本站不据此承诺库存、赠品或价格。",
+      "reuse_info": {
+        "rights_holder": "品萱及京东商品图片相关权利人",
+        "license": "未发现开放再授权；图片不包含在项目MIT代码授权中，仅用于注明来源的商品资料展示。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 39701,
+        "sha256": "481809ea0e0ecbc6cdb5ebb8cd196ab11aa30b673598417e0fa6b8c27e3c02d4"
+      },
+      "filename": "images/pinse-tissue90x24.webp",
+      "usage": "Attributed product illustration; product imagery is not a labor-compliance assessment."
+    },
+    {
+      "id": "pinse-roll180x27",
+      "product_name": "韧之语四层卷纸 · 180g×27卷",
+      "official_source_page_url": "https://www.jd.com/hprm/159011142e04173e71b5a.html",
+      "product_page_url": "https://item.jd.com/10218575923401.html",
+      "image_url": "https://img30.360buyimg.com/n7/jfs/t1/422598/33/10434/151269/69e7c370F7d7fee27/00832e42e4cbf854.jpg",
+      "content_type": "image/webp",
+      "width": 220,
+      "height": 220,
+      "bytes": 78270,
+      "sha256": "dc02a3cda49d2cc53f6a88ba16e1d5605a4ed0e0cebc14499acedcfaef9ef999",
+      "checkedAt": "2026-09-13",
+      "visually_verified": true,
+      "notes": "京东同一准确SKU原图，已目视核对品牌系列、尺寸、层数及整箱数量。完整转存WebP，无裁切、重绘或放大。促销文字保留为来源图像，本站不据此承诺库存、赠品或价格。",
+      "reuse_info": {
+        "rights_holder": "品萱及京东商品图片相关权利人",
+        "license": "未发现开放再授权；图片不包含在项目MIT代码授权中，仅用于注明来源的商品资料展示。"
+      },
+      "source_image_metadata": {
+        "width": 220,
+        "height": 220,
+        "bytes": 33881,
+        "sha256": "89270efd2bf424ea90d43c52c53b98f016dd49b034f64f9bfb718bbad4f58263"
+      },
+      "filename": "images/pinse-roll180x27.webp",
+      "usage": "Attributed product illustration; product imagery is not a labor-compliance assessment."
     }
   ]
 }

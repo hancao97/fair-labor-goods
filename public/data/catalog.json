@@ -9123,6 +9123,114 @@
       "summary": "直接取得列表HTML，单杯标题、容量和白色选项一致，实际链接商品号10234247560886。同页另一500mL白色WH选项图片明确标出FEI-501 WH，用作本款资料插图。",
       "limitation": "页面发布日期未公开；没有把礼盒、刻字定制、其他杯子或配件当成本款。使用具体卡片与货号核对购买入口，不表示京东自营、品牌官方授权或所有地区实时有库存。",
       "checkedAt": "2026-09-13"
+    },
+    {
+      "id": "jingxing-employee-it2023",
+      "title": "景兴信息岗位员工访谈：在实践中成长",
+      "publisher": "浙江景兴纸业股份有限公司",
+      "type": "企业发布的员工访谈",
+      "url": "https://www.zjjxjt.com/newspaper1/1998.html",
+      "publishedAt": "2023-11-06",
+      "checkedAt": "2026-09-13",
+      "locator": "《景兴报》面对面栏目，信息科员工回答工作经历及项目上线问题",
+      "summary": "受访者回顾信息系统实施、生活用纸数字平台与项目上线期间的加班沟通；属于企业刊载的本人岗位经历。",
+      "limitation": "信息岗位不代表纸品生产班组；没有给出每日工时、加班总量或报酬履行记录，不能据此称公司不加班。"
+    },
+    {
+      "id": "jingxing-employee-maintenance2023",
+      "title": "景兴电仪岗位员工访谈：在工作中提升自我",
+      "publisher": "浙江景兴纸业股份有限公司",
+      "type": "企业发布的员工访谈",
+      "url": "https://www.zjjxjt.com/cn/newspaper1/1747.html",
+      "publishedAt": "2023-04-08",
+      "checkedAt": "2026-09-13",
+      "locator": "《景兴报》面对面栏目，PM10电仪岗位工作经历与技术改造回答",
+      "summary": "受访者描述常日班、倒班仪表工到电仪管理岗位的变化，以及部分设备改造为赶节点加班完成调试。",
+      "limitation": "适用于所述设备维护岗位，未说明加班时长、支付与休息安排；不直接代表生活用纸成品线。"
+    },
+    {
+      "id": "jingxing-employee-shift2025",
+      "title": "景兴生产值长访谈：全员拧成一股绳",
+      "publisher": "浙江景兴纸业股份有限公司",
+      "type": "企业发布的员工访谈",
+      "url": "https://www.zjjxjt.com/newspaper1/2953.html",
+      "publishedAt": "2025-11-07",
+      "checkedAt": "2026-09-13",
+      "locator": "《景兴报》面对面栏目，PM16值长最后一段本人回答",
+      "summary": "受访者描述班组遇到纸病或复卷入库尚未完成时，会共同完成后再一起下班，保留这一实际工作安排线索。",
+      "limitation": "企业刊载的特定工业纸班组经历，没有具体时长、频率和补偿资料；不能单凭该表述认定违法，也不能改写成按时下班或零加班。"
+    },
+    {
+      "id": "jingxing-tissue-team2025",
+      "title": "景兴生活用纸成品部人物报道与旺季两班倒安排",
+      "publisher": "浙江景兴纸业股份有限公司",
+      "type": "企业生产报道",
+      "url": "https://www.zjjxjt.com/newspaper1/2837.html",
+      "publishedAt": "2025-08-11",
+      "checkedAt": "2026-09-13",
+      "locator": "2025年上半年度岗位标杆孙栋梁人物报道，第2—4段",
+      "summary": "报道成品部主管负责软抽1500线及擦手纸线，并在2025年4月OEM订单增加、人员紧张时实行两班倒。",
+      "limitation": "文章为企业第三人称人物报道，没有员工本人回答，不计作新增员工反馈；两班倒没有明确每班时长，不能自动换算成12小时或直接判违法。"
+    },
+    {
+      "id": "jingxing-paper-catalog",
+      "title": "景兴官网品萱生活用纸系列与规格目录",
+      "publisher": "浙江景兴纸业股份有限公司",
+      "type": "企业商品资料",
+      "url": "https://www.zjjxjt.com/product/living-paper",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "韧之语系列原图：PR022-06/10的90抽四层180×138mm；PJ008-01的180g四层138×104mm",
+      "summary": "官网目录列出韧之语抽纸和卷纸的单包、单卷参数及系列外观；已目视读取原图。零售24包、27卷的整箱数量另由京东资料确定。",
+      "limitation": "官网展示的提装数量与本次零售整箱不同，不将PR022-06/10或PJ008-01直接写成本次整箱货号。目录说明品牌和规格，不能单独排除年报披露的委外加工。页面发布日期未公开。"
+    },
+    {
+      "id": "pinse-paper-jd2026",
+      "title": "京东品萱90抽四层24包与180g四层27卷具体零售卡片",
+      "publisher": "京东",
+      "type": "国内零售资料",
+      "url": "https://www.jd.com/hprm/159011142e04173e71b5a.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始HTML商品10224682944142、10218575923401；对应图片分别标138×180mm与138×104mm",
+      "summary": "直接读取两条商品卡片及其具体链接，图片确认韧之语系列、抽数或克重、层数与整箱数量。",
+      "limitation": "零售列表支持国内购买入口，不是制造厂证明；具体详情页本次未取得生产者信息。未确认店铺授权，不宣称自营、全地区实时库存或固定价格。"
+    },
+    {
+      "id": "jingxing-annual2025",
+      "title": "景兴纸业2025年年报：生活用纸生产及委外加工",
+      "publisher": "浙江景兴纸业股份有限公司（巨潮资讯披露）",
+      "type": "上市公司业务披露",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225176232.PDF",
+      "publishedAt": "2026-04-25",
+      "checkedAt": "2026-09-13",
+      "locator": "原文第10—12页主要业务与生活用纸事业部；第47—48页员工情况",
+      "summary": "公司生产生活用纸并加工成终端纸品；第12页明确成品产量包含委外加工，第48页另列劳务外包。已读取原文件并目视核对第12页。",
+      "limitation": "年报未按这两款零售商品区分自产与委外厂家，不能把所有品萱商品直接对应母公司制造；劳务外包统计也不自动代表某一款的实际安排。"
+    },
+    {
+      "id": "jingxing-esg2025",
+      "title": "景兴纸业2025年ESG报告：加班报酬、休假与社保披露",
+      "publisher": "浙江景兴纸业股份有限公司（新浪财经公告原文件）",
+      "type": "企业劳动制度与绩效披露",
+      "url": "http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-4/2026-04-25/12180055.PDF",
+      "publishedAt": "2026-04-25",
+      "checkedAt": "2026-09-13",
+      "locator": "编制说明；印刷页51—54、65—66（PDF第29—30、36页）",
+      "summary": "报告范围为2025年及母公司、控股子公司，披露劳动合同和社保覆盖率、按规定支付加班工资以及法定休假安排；已下载原PDF并目视核对53—54页。",
+      "limitation": "属于企业自报，组织范围含境内外子公司；未取得独立核实全体生产员工实际工时、加班报酬的结论，不替代具名综合劳动评价。"
+    },
+    {
+      "id": "jingxing-labor-dispute2022",
+      "title": "景兴纸业2022年年报披露的劳动争议进展",
+      "publisher": "浙江景兴纸业股份有限公司（巨潮资讯披露）",
+      "type": "企业劳动争议披露",
+      "url": "https://static.cninfo.com.cn/finalpage/2023-04-29/1216685549.PDF",
+      "publishedAt": "2023-04-29",
+      "checkedAt": "2026-09-13",
+      "locator": "原文第70—71页：2022年1月仲裁、4月劳动争议及8月二审三行",
+      "summary": "同一劳动争议的仲裁和一审列为公司胜诉、执行完成，二审列为调解结案、调解结果已执行。",
+      "limitation": "这是公司年报中的诉讼摘要，未取得裁判书或调解条款；存在争议不等于已确认违法，调解也不等于所有诉求成立或被否定。未公开当事人联系方式。"
     }
   ],
   "companies": [
@@ -20500,6 +20608,138 @@
         }
       ],
       "nextCheck": "2026-10-13前复查具名劳动结果、近期生产员工经历和零售入口；出现新的制造企业、适用范围变化或相反劳动事实时重新判断。"
+    },
+    {
+      "id": "jingxing-paper",
+      "name": "景兴纸业·品萱",
+      "legalName": "浙江景兴纸业股份有限公司",
+      "location": "浙江省平湖市曹桥街道景兴一路1号",
+      "origin": "china",
+      "originNote": "品萱为景兴自有生活用纸品牌；具体商品的境内加工主体另核，不以中国品牌代替中国制造。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "员工访谈提及项目加班",
+      "restLabel": "部分班组有延后下班线索",
+      "cardNote": "2022年综合评价；具体纸品厂家待对应",
+      "scope": "母公司具名劳动评价与所述岗位经历；两款韧之语零售纸品尚未区分自产或委外加工。",
+      "finding": "先读取信息、电仪及生产值长三篇员工访谈，保留加班与集体完成任务后下班的描述；母公司已有2022年综合劳动评价。官网与零售规格已对应，但年报明确包含委外加工，两款不直接套用母公司劳动结论。",
+      "caveats": [
+        "员工访谈由企业自己刊载，属于所述岗位经历，不是独立员工调查；三篇分别保留2023、2025年的日期及岗位。",
+        "没有将加班、两班倒或特定班组延后下班本身认定为违法，也没有据此标成不加班公司。实际工时、频率和补偿仍未知。",
+        "2022年全国综合评价为较早资料，2025年ESG的制度和覆盖率由企业自报，不能说成2026年全厂重新认证。",
+        "2022年劳动争议在公司年报中记为二审调解且已执行；未取得裁判书或调解条款，不推断违法事实。",
+        "2025年年报明确成品包含委外加工；两款京东整箱商品尚缺制造对应。母公司的评价不能覆盖未知加工企业。"
+      ],
+      "sourceIds": [
+        "jingxing-employee-it2023",
+        "jingxing-employee-maintenance2023",
+        "jingxing-employee-shift2025",
+        "jingxing-tissue-team2025",
+        "jingxing-paper-catalog",
+        "pinse-paper-jd2026",
+        "jingxing-annual2025",
+        "jingxing-esg2025",
+        "jingxing-labor-dispute2022",
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
+      ],
+      "supply": [
+        {
+          "stage": "员工经历与制度",
+          "status": "policy",
+          "detail": "三篇企业刊载的本人访谈与2025年ESG分别展示；生活用纸人物报道中的两班倒安排另列为企业生产披露。",
+          "sourceIds": [
+            "jingxing-employee-it2023",
+            "jingxing-employee-maintenance2023",
+            "jingxing-employee-shift2025",
+            "jingxing-tissue-team2025",
+            "jingxing-esg2025",
+            "jingxing-labor-dispute2022"
+          ]
+        },
+        {
+          "stage": "制造与劳动评价",
+          "status": "policy",
+          "detail": "母公司有2022年综合评价，品萱的生产业务存在自产与委外；两款实际加工主体未对应，商品保持待核查。",
+          "sourceIds": [
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice",
+            "jingxing-annual2025",
+            "jingxing-paper-catalog"
+          ]
+        },
+        {
+          "stage": "纸浆、委外与独立物流",
+          "status": "unknown",
+          "detail": "年报公开原纸、委外加工及劳务外包业务；尚未取得两款商品对应的外部加工企业。原料与独立物流另作补充调查。",
+          "sourceIds": [
+            "jingxing-annual2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "employeeFeedback": [
+        {
+          "sourceId": "jingxing-employee-it2023",
+          "kind": "employer-interview",
+          "period": "2023-11访谈，回顾信息项目实施经历",
+          "roleScope": "浙江景兴信息中心、信息科岗位",
+          "summary": "受访者描述信息系统上线期间，为沟通和修改系统加班；也谈到生活用纸数字化平台的实施经历。",
+          "limitation": "企业刊载的本人回答，不是独立调查；信息岗位不能代表成品生产线，实际工时及补偿未公开。"
+        },
+        {
+          "sourceId": "jingxing-employee-maintenance2023",
+          "kind": "employer-interview",
+          "period": "2023-04访谈，回顾2013年入职后的岗位变化",
+          "roleScope": "PM10等机台电仪维护、调试及管理岗位",
+          "summary": "受访者描述常日班、倒班岗位转换，以及为在节点前完成部分设备改造而加班调试。",
+          "limitation": "企业访谈，设备维护经历不扩大为生活用纸全体员工情况；未说明加班总量及工资支付，不能单独下守法或违法结论。"
+        },
+        {
+          "sourceId": "jingxing-employee-shift2025",
+          "kind": "employer-interview",
+          "period": "2025-11访谈，受访者2022年起任值长",
+          "roleScope": "PM16工业用纸生产班组值长",
+          "summary": "受访者描述班组遇到纸病或复卷入库未完成时，需要共同做完再一起下班。",
+          "limitation": "企业刊载的班组管理者本人回答，仅适用于所述班组；没有频率、时长和补偿资料，不作全厂安排或违法推断。"
+        }
+      ],
+      "assessments": [
+        {
+          "subject": "浙江景兴纸业股份有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022年综合评价（较早资料）；完整审查起止日未公开",
+          "sourceId": "national-harmony-2022",
+          "limitation": "2022年较早结果，未取得更新的具名综合复核。2023、2025年岗位访谈存在加班和延后下班线索，保留其岗位范围；2022年劳动争议按公司披露记录调解，不作裁判推定。2025年ESG为企业自报，本站复查安排不是官方延长有效期。",
+          "kind": "government-labor-review",
+          "resultPublishedAt": "2022-09-16",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "人力资源社会保障部、全国总工会、中国企联、全国工商联",
+          "scopeType": "employer",
+          "scope": "浙江景兴纸业股份有限公司2022年具名综合劳动评价；不扩展至未具名的委外加工企业或其他法人。",
+          "verificationSourceId": "national-harmony-2022",
+          "basisSourceIds": [
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ]
+        }
+      ],
+      "nextCheck": "2026-10-13前优先核对新的独立生产员工经历与具名劳动结果。两款纸品仅在取得可对应规格的厂家标签、制造记录或明确的加工企业清单后重查；不重复抓取仅含商品外观的列表，也不硬等逐批工厂代码。"
     }
   ],
   "products": [
@@ -33776,6 +34016,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "pinse-tissue90x24",
+      "name": "韧之语四层抽纸 · 90抽×24包",
+      "brand": "品萱",
+      "companyId": "jingxing-paper",
+      "category": "daily",
+      "description": "四层面巾纸，每包90抽，24包/箱，纸张138×180mm。",
+      "tags": [
+        "韧之语",
+        "抽纸",
+        "90抽",
+        "四层",
+        "24包"
+      ],
+      "needs": [
+        "抽纸"
+      ],
+      "image": "images/pinse-tissue90x24.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/451886/27/2361/344600/6a2193efFa3467e15/00833203202dd435.jpg",
+      "imageRights": "京东商品图片及品萱相关权利人保留版权；仅用于注明来源的资料插图，未取得开放再授权。",
+      "url": "https://item.jd.com/10224682944142.html",
+      "market": "京东具体商品卡片10224682944142对应本款整箱规格；配送及价格以渠道实际页面为准。",
+      "relationship": "官网韧之语系列90抽四层的单包尺寸180×138mm与京东138×180mm一致，图片系列外观一致；本款零售总量为24包，不沿用官网6包或10包提装货号。 年报说明生活用纸成品包含委外加工，实际加工厂家尚未对应。",
+      "relationshipSourceIds": [
+        "jingxing-paper-catalog",
+        "pinse-paper-jd2026",
+        "jingxing-annual2025"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已读取本款京东原始商品卡片、准确购买链接和数量规格配图；不要求证明全部地区实时有库存。",
+          "sourceIds": [
+            "pinse-paper-jd2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官网与京东可对应系列及单包或单卷参数；2025年年报明确成品含委外加工，尚缺本款实际加工企业的对应资料。",
+          "sourceIds": [
+            "jingxing-paper-catalog",
+            "pinse-paper-jd2026",
+            "jingxing-annual2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "景兴母公司有2022年具名综合劳动评价，但本款加工企业尚未对应；员工访谈与2025年制度披露保留其范围，不替未知厂家作结论。",
+          "sourceIds": [
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice",
+            "jingxing-employee-it2023",
+            "jingxing-employee-maintenance2023",
+            "jingxing-employee-shift2025",
+            "jingxing-esg2025",
+            "jingxing-annual2025"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pinse-roll180x27",
+      "name": "韧之语四层卷纸 · 180g×27卷",
+      "brand": "品萱",
+      "companyId": "jingxing-paper",
+      "category": "daily",
+      "description": "四层有芯卷筒卫生纸，每卷180g，27卷/箱，纸张138×104mm。",
+      "tags": [
+        "韧之语",
+        "卷纸",
+        "有芯",
+        "180g",
+        "四层",
+        "27卷"
+      ],
+      "needs": [
+        "卷纸"
+      ],
+      "image": "images/pinse-roll180x27.webp",
+      "imageMode": "contain",
+      "imageSource": "https://img30.360buyimg.com/n7/jfs/t1/422598/33/10434/151269/69e7c370F7d7fee27/00832e42e4cbf854.jpg",
+      "imageRights": "京东商品图片及品萱相关权利人保留版权；仅用于注明来源的资料插图，未取得开放再授权。",
+      "url": "https://item.jd.com/10218575923401.html",
+      "market": "京东具体商品卡片10218575923401对应本款整箱规格；配送及价格以渠道实际页面为准。",
+      "relationship": "官网韧之语系列180g四层卷纸的单卷尺寸138×104mm与京东配图一致；本款零售总量为27卷，不将官网10卷提装货号PJ008-01套给整箱。 年报说明生活用纸成品包含委外加工，实际加工厂家尚未对应。",
+      "relationshipSourceIds": [
+        "jingxing-paper-catalog",
+        "pinse-paper-jd2026",
+        "jingxing-annual2025"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "已读取本款京东原始商品卡片、准确购买链接和数量规格配图；不要求证明全部地区实时有库存。",
+          "sourceIds": [
+            "pinse-paper-jd2026"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "官网与京东可对应系列及单包或单卷参数；2025年年报明确成品含委外加工，尚缺本款实际加工企业的对应资料。",
+          "sourceIds": [
+            "jingxing-paper-catalog",
+            "pinse-paper-jd2026",
+            "jingxing-annual2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "景兴母公司有2022年具名综合劳动评价，但本款加工企业尚未对应；员工访谈与2025年制度披露保留其范围，不替未知厂家作结论。",
+          "sourceIds": [
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice",
+            "jingxing-employee-it2023",
+            "jingxing-employee-maintenance2023",
+            "jingxing-employee-shift2025",
+            "jingxing-esg2025",
+            "jingxing-annual2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -34571,7 +34936,7 @@
           "query": "灭蝇用品"
         }
       ],
-      "note": "日用清洁16项需求均有具体研究资料。正式收录奇酷AIR薄M码24片纸尿裤和达豪中号加大粘蝇纸20片；新增蜂花红石榴洋甘菊洗发露500mL、茉莉香皂125g单块、宝家洁XP01拖把和Y46扫把套装，均有准确国内购买入口，制造与劳动依据待对应。清洁工具细分为拖把、扫帚，其余商品保留各自证据缺口。",
+      "note": "16项日用洗护需求均有研究资料，目前湿巾、纸尿裤、灭蝇用品已有正式商品。新增品萱韧之语90抽四层24包抽纸、180g四层27卷卷纸及景兴三篇员工访谈；两款国内购买入口已对应，年报披露委外加工，具体厂家待核，未增加正式覆盖。其他牙膏牙刷、洗护清洁、卫生巾及清扫工具继续按具体制造主体补证。",
       "sourceIds": [
         "jahwa-2025",
         "darlie-hours",
@@ -34606,7 +34971,19 @@
         "beeflower-jasmine125-jd",
         "boomjoy-brand-production-plan",
         "boomjoy-xp01-36cm-jd",
-        "boomjoy-y46-jd"
+        "boomjoy-y46-jd",
+        "jingxing-employee-it2023",
+        "jingxing-employee-maintenance2023",
+        "jingxing-employee-shift2025",
+        "jingxing-tissue-team2025",
+        "jingxing-paper-catalog",
+        "pinse-paper-jd2026",
+        "jingxing-annual2025",
+        "jingxing-esg2025",
+        "jingxing-labor-dispute2022",
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
       ]
     },
     {
