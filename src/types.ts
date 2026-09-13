@@ -1,4 +1,5 @@
 export type EvidenceLevel = "assessment" | "audit" | "disclosure" | "hiring" | "research";
+export type BrandOrigin = "china" | "international" | "unconfirmed";
 export type LaborTopic = "contracts" | "pay" | "insurance" | "hours" | "rest" | "protection";
 export interface LaborAssessment {
   subject: string;
@@ -54,7 +55,7 @@ export interface EmployeeFeedback {
 }
 export interface Company {
   id: string;
-  origin: "china" | "international" | "unconfirmed";
+  origin: BrandOrigin;
   originNote: string;
   assessments?: LaborAssessment[];
   employeeFeedback?: EmployeeFeedback[];
@@ -80,6 +81,7 @@ export interface Product {
   id: string;
   name: string;
   brand: string;
+  brandOrigin?: { value: BrandOrigin; note: string; sourceIds: string[] };
   companyId: string;
   category: string;
   description: string;

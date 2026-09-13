@@ -442,6 +442,25 @@ test("Chinese brand filter combines with other constraints and survives shared U
   assert.deepEqual(readFilters(writeFilters(filters), data.categories.map((c) => c.id)), filters);
   assert.equal(selectProducts(data, { ...filters, supply: true }).length, 0);
 });
+test("brands sharing one Chinese manufacturer retain their own origin without changing labor admission", () => {
+  const { product, company } = assessedProduct();
+  company.origin = "china";
+  const localBrand = { ...product, id: "local-brand" };
+  const internationalBrand = {
+    ...product, id: "international-brand",
+    brandOrigin: { value: "international", note: "International brand, domestic manufacturer", sourceIds: ["brand-owner"] },
+  };
+  const unknownBrand = {
+    ...product, id: "unknown-brand",
+    brandOrigin: { value: "unconfirmed", note: "Brand origin remains unknown", sourceIds: ["brand-owner"] },
+  };
+  const mixed = { ...data, companies: [company], products: [localBrand, internationalBrand, unknownBrand] };
+  assert.equal(selectProducts(mixed, defaults).length, 3);
+  const filters = { ...defaults, origin: "china" };
+  assert.deepEqual(selectProducts(mixed, filters).map((p) => p.id), ["local-brand"]);
+  assert.equal(getCatalogAvailability(mixed, filters, REVIEW_DATE).admittedCount, 1);
+  assert.equal(selectAdmittedProducts(mixed, REVIEW_DATE).length, 3);
+});
 test("known hiring caveats and supplier differences remain present", () => {
   const shokken = data.companies.find((c) => c.id === "shokken");
   assert(shokken.caveats.some((t) => t.includes("繁忙期")));

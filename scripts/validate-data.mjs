@@ -156,6 +156,12 @@ for (const p of data.products) {
   url(p.url);
   refs(p.relationshipSourceIds);
   assert(p.relationshipSourceIds.length > 0);
+  if (p.brandOrigin !== undefined) {
+    assert(["china", "international", "unconfirmed"].includes(p.brandOrigin?.value), `${p.id}: invalid brand origin`);
+    text(p.brandOrigin.note, `${p.id}.brandOrigin.note`);
+    refs(p.brandOrigin.sourceIds);
+    assert(p.brandOrigin.sourceIds.length > 0, `${p.id}: brand origin requires sources`);
+  }
   for (const key of ["chinaSale", "chinaProduction", "productionLabor"]) {
     const check = p.admission?.[key];
     assert(check, `${p.id}: missing admission check ${key}`);

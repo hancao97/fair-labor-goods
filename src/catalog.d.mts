@@ -1,4 +1,4 @@
-import type { Catalog, Company, Product, Filters, LaborAssessment, LaborTopic } from "./types";
+import type { Catalog, Company, Product, Filters, LaborAssessment, LaborTopic, BrandOrigin } from "./types";
 export const defaults: Filters;
 export const laborTopics: Record<LaborTopic, string>;
 export function hasSupportingLaborEvidence(assessment: LaborAssessment): boolean;
@@ -13,6 +13,7 @@ export function getCatalogAvailability(data: Catalog, filters: Filters, onDate?:
   gaps: Record<"chinaSale" | "chinaProduction" | "productionLabor", number>;
 };
 export function hasVerifiedChain(company: Company): boolean;
+export function getBrandOrigin(product: Product, company?: Company): BrandOrigin;
 export function selectProducts(
   data: Catalog,
   filters: Filters,

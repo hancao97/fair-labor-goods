@@ -34,6 +34,7 @@ import {
   selectAdmittedProducts,
   getLaborAssessment,
   getCatalogAvailability,
+  getBrandOrigin,
   laborEvidenceLabel,
   laborTopics,
 } from "./catalog.mjs";
@@ -256,6 +257,7 @@ function ProductDetail({
       ...(c.employeeFeedback || []).map((feedback) => feedback.sourceId),
       ...(c.assessments || []).flatMap((a) => [a.sourceId, ...(a.basisSourceIds || []), ...(a.verificationSourceId ? [a.verificationSourceId] : [])]),
       ...product.relationshipSourceIds,
+      ...(product.brandOrigin?.sourceIds || []),
       ...Object.values(product.admission).flatMap((check) => check.sourceIds),
     ]),
   ]
@@ -320,7 +322,7 @@ function ProductDetail({
               </button>
             </div>
             <small className="market-note">{product.market}</small>
-            <small className="market-note">{c.originNote}</small>
+            <small className="market-note">{product.brandOrigin?.note ?? c.originNote}</small>
           </div>
         </div>
         <div className="detail-tabs" aria-label="商品档案">
@@ -522,7 +524,7 @@ function ProductCard({
       <div className="card-body">
         <div className="card-brand-row">
           <span className="product-brand">{product.brand}</span>
-          {c.origin === "china" && <span className="origin-tag">中国品牌</span>}
+          {getBrandOrigin(product, c) === "china" && <span className="origin-tag">中国品牌</span>}
         </div>
         <button className="product-name" onClick={onOpen}>
           {product.name}
@@ -960,7 +962,7 @@ export default function App() {
                       {c.name}
                       <span>{routeProducts.filter((p) =>
                         (c.id === "all" || p.category === c.id) &&
-                        (filters.origin === "all" || companyMap.get(p.companyId)?.origin === "china")
+                        (filters.origin === "all" || getBrandOrigin(p, companyMap.get(p.companyId)) === "china")
                       ).length}</span>
                     </button>
                   ),

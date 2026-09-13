@@ -135,6 +135,9 @@ export function hasVerifiedChain(company) {
     )
   );
 }
+export function getBrandOrigin(product, company) {
+  return product.brandOrigin?.value ?? company?.origin ?? "unconfirmed";
+}
 export function selectProducts(data, filters, savedIds = []) {
   const query = filters.query.normalize("NFKC").trim().toLocaleLowerCase();
   const words = query.split(/\s+/).filter(Boolean);
@@ -155,7 +158,7 @@ export function selectProducts(data, filters, savedIds = []) {
     return (
       (filters.category === "all" || p.category === filters.category) &&
       (!filters.need || p.needs?.includes(filters.need)) &&
-      (filters.origin !== "china" || c.origin === "china") &&
+      (filters.origin !== "china" || getBrandOrigin(p, c) === "china") &&
       words.every((w) => haystack.includes(w)) &&
       (filters.evidence === "all" || c.level === filters.evidence) &&
       (!filters.supply || hasVerifiedChain(c)) &&

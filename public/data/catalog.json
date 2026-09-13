@@ -8859,6 +8859,78 @@
       "locator": "曹路宝走访调研外贸企业；罗技科技（苏州）有限公司段落",
       "summary": "具名介绍罗技科技（苏州）有限公司及鼠标、键盘、视频和游戏周边制造方向。",
       "limitation": "已读取网页正文，属于企业走访背景，不是劳动审查；没有具体零售型号或批次，不能单独认定某一商品由该厂制造。"
+    },
+    {
+      "id": "huggies-gold80x3-tianjin2022-reprint",
+      "title": "天津市市场监管委抽查20批次护理湿巾 未发现不合格产品",
+      "publisher": "中国质量新闻网／新浪财经转载",
+      "type": "监管资料转载",
+      "url": "https://finance.sina.cn/2022-10-18/detail-imqmmthc1259778.d.html",
+      "publishedAt": "2022-10-18",
+      "checkedAt": "2026-09-13",
+      "locator": "公开HTML表格第19行，生产批次20220410 JY",
+      "summary": "好奇金装婴儿湿巾180×140mm、80抽×3包的实际生产企业列为铜陵洁雅生物科技股份有限公司；委托方为金佰利（中国）有限公司。",
+      "limitation": "已读取并保存转载网页的完整表格，尚未取得天津原通告。本条是2022年样品的制造关系；表中上海市字段不能替代实际制造企业的铜陵厂址。不是劳动评价，也不是2026年逐批制造核验。"
+    },
+    {
+      "id": "huggies-gold-guizhou2023",
+      "title": "贵州省市场监管局2023年流通领域湿巾产品质量监督抽查产品及企业名单",
+      "publisher": "贵州省市场监督管理局",
+      "type": "监管抽检",
+      "url": "https://amr.guizhou.gov.cn/zfxxgk/fdzdgknr/tzgg_5626971/tzgg_5626972/202403/P020240314381927790641.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "合并PDF第103页，湿巾子表第6页、第50行",
+      "summary": "好奇金装婴儿湿巾180×140mm、2022-09-14/JY 14 A批次，标称生产企业为铜陵洁雅，地址为安徽铜陵地质大道528号。",
+      "limitation": "已核公开PDF解析全文；原链接和迁移后的另一地址直接请求均为404，截图失败，未声称完成原件图像核对。子表未列抽数，80抽×3包规格由天津另一批记录支持。未从附件路径猜测准确公布日；质量抽检不证明劳动合规。"
+    },
+    {
+      "id": "huggies-gold80x3-jd-list",
+      "title": "好奇金装婴儿湿巾80抽3包装：京东具体商品入口",
+      "publisher": "京东",
+      "type": "国内零售",
+      "url": "https://www.jd.com/jiage/131959401d13f2ce7e30.html?electedExtAttrSet=878%2C&extAttrValue=expand_name%2C%40264776%3A%3A878&sort_type=sort_default",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "金装婴儿湿巾80抽3包装卡片，链接商品号100216278606",
+      "summary": "当前公开页面列金装80抽3包装及自营标识，具体链接指向100216278606，与详情页的标准商品地址一致。",
+      "limitation": "已读取并保存当前HTML。只对应这一规格；其他纯水、小森林、铂金装或进口款不共用本条对应关系。零售入口不保证各地区实时库存。"
+    },
+    {
+      "id": "huggies-gold80x3-jd-detail",
+      "title": "好奇金装婴儿湿巾80抽3包装：京东商品详情",
+      "publisher": "京东",
+      "type": "国内零售",
+      "url": "https://item.jd.com/product/rWovVdGfn2p3F382TjAYdQ.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "标题、购买区及canonical地址100216278606",
+      "summary": "详情页标题和购买区明确金装婴儿湿巾80抽3包装，页面提供加入购物车和立即购买入口；标准地址对应100216278606。",
+      "limitation": "本次取得公开页面全文及原始HTML，直接数字商品地址内容较少；浏览器导航未完成，未声称验证结账。没有在详情文本中读到制造商或尺寸，制造关系另引监管资料；不固定价格。商品图片访问受限，本次未采用未经目视核对的图片。"
+    },
+    {
+      "id": "jieya-ipo2021-production-scheduling",
+      "title": "铜陵洁雅生物科技股份有限公司招股说明书：生产排班说明",
+      "publisher": "铜陵洁雅生物科技股份有限公司／东方财富公开文件",
+      "type": "企业披露",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202111281531666442_1.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "PDF第151页，页脚1-1-151，2018年至2021年上半年产能说明",
+      "summary": "报告期内公司以加班排产、增加员工和班次应对订单；所列设备产能的测算口径为每天8小时、每年300天。",
+      "limitation": "已下载文件并核对相关页面图像。这是较早的企业生产披露，不能把设备产能口径换算成每位员工工时，也不能据此称企业不加班或直接判断当前违法。它不是员工本人反馈，正式劳动支持仍来自后续具名政府评价。"
+    },
+    {
+      "id": "huggies-brand-kimberly-official",
+      "title": "金佰利中国：好奇HUGGIES品牌",
+      "publisher": "金佰利中国",
+      "type": "品牌官网",
+      "url": "https://www.kimberly-clark.com.cn/product/baby/huggies/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "好奇品牌介绍与页脚商标归属",
+      "summary": "金佰利中国官网列好奇HUGGIES为旗下品牌，页脚明确商标归属Kimberly-Clark Worldwide及美国金佰利公司。",
+      "limitation": "用于品牌背景分类，不作为具体湿巾制造地点、型号或劳动合规证明；品牌背景与国内制造分别核对。"
     }
   ],
   "companies": [
@@ -15652,40 +15724,48 @@
       "legalName": "铜陵洁雅生物科技股份有限公司",
       "location": "安徽铜陵",
       "origin": "china",
-      "originNote": "本档案对应铜陵成立的湿巾制造企业，所列Babycare为国内母婴品牌；品牌运营者与代工企业分别核对，不因品牌关系扩大劳动评价范围。",
+      "originNote": "本档案对应铜陵成立的湿巾制造企业；Babycare与好奇分别核对品牌和制造关系，品牌所属国家不代替具体生产地判断。",
       "level": "assessment",
       "hours": null,
       "restDays": null,
       "hoursLabel": "A级审查包含工时；期间未明示",
       "restLabel": "A级审查包含休息休假",
       "cardNote": "2024年评价工作A级（2025公布）",
-      "scope": "铜陵洁雅的最终A级结果与JY代码188×140mm湿巾制造记录已对应；本款完整零售包装尚待核对。",
-      "finding": "最终政府A级事实可按2025-03-03正式公布日记录，实际审查起止日未公开，不再要求编造区间。JY代码和制造主体已对应；商品仍因缺少完整零售包装与购买入口而待核查。",
+      "scope": "铜陵洁雅具名最终A级结果，可共用于已对应该制造法人的商品；好奇金装80抽×3包已对应零售与制造记录，Babycare的JY代码188×140mm包装仍待补。",
+      "finding": "好奇金装婴儿湿巾80抽×3包正式收录，沿用本企业2024年评价工作最终A级（2025-03-03公布）。制造依据为2022年样品及2023年抽检记录，明确保留年份；不把同品牌其他工厂或系列一起收录。",
       "caveats": [
         "2024年是评价工作标题，2025年是正式公布年份；实际审查起止日未公开，本站复查安排不延长官方结果的效力。",
         "同品牌另一尺寸有其他工厂记录；不把洁雅评价转给所有Babycare商品。",
-        "188mm×140mm原记录没有抽数，未套用市场上的20抽、80抽或100抽包装。"
+        "188mm×140mm原记录没有抽数，未套用市场上的20抽、80抽或100抽包装。",
+        "2021年招股说明书披露过加班排产和增加班次；不称该企业零加班，设备产能口径也不是个人工时记录。"
       ],
       "sourceIds": [
         "tongling-labor2024-final",
         "anhui-work2024-wuhu-scope",
         "jieya-annual2025-manufacturing",
         "babycare188x140-rudong2025",
-        "jieya-hygiene-tongling2025"
+        "jieya-hygiene-tongling2025",
+        "huggies-gold80x3-tianjin2022-reprint",
+        "huggies-gold-guizhou2023",
+        "huggies-gold80x3-jd-list",
+        "huggies-gold80x3-jd-detail",
+        "jieya-ipo2021-production-scheduling"
       ],
       "supply": [
         {
           "stage": "品牌与制造关系",
           "status": "policy",
-          "detail": "原始监管记录明确本款尺寸与JY制造代码，不仅依据代工客户名单。",
+          "detail": "Babycare的JY代码尺寸记录、好奇金装80抽×3包的具名制造记录分别核对；不只依据客户名单。",
           "sourceIds": [
-            "babycare188x140-rudong2025"
+            "babycare188x140-rudong2025",
+            "huggies-gold80x3-tianjin2022-reprint",
+            "huggies-gold-guizhou2023"
           ]
         },
         {
           "stage": "境内制造与劳动评价",
           "status": "verified",
-          "detail": "JY代码的境内制造主体与具名最终A级已对应；按2025-03-03公布日记录较早的评价结果，实际审查区间如实保留未知。",
+          "detail": "铜陵制造法人和具名最终A级已对应；好奇与Babycare共用这一法人依据。按2025-03-03公布日保留评价工作年份，不保证未来全部用工行为。",
           "sourceIds": [
             "tongling-labor2024-final",
             "jieya-annual2025-manufacturing",
@@ -15701,7 +15781,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "2026-10-13前复查更新的具名劳动结果；出现JY代码、188×140mm的完整零售包装或新抽检规格时再补销售，不重复无新线索的泛搜。",
+      "nextCheck": "2026-10-13前复查具名劳动结果；关注好奇金装80抽×3包生产主体或系列变化。Babycare待取得JY代码、188×140mm完整零售包装再补，不以同品牌其他工厂替代。",
       "assessments": [
         {
           "kind": "government-labor-rating",
@@ -33050,6 +33130,74 @@
             "nestle-tianjin-csv2014-award-lead"
           ]
         }
+      }
+    },
+    {
+      "id": "huggies-gold-wipes80x3-jieya",
+      "name": "金装婴儿湿巾80抽×3包",
+      "brand": "好奇（Huggies）",
+      "companyId": "jieya-tongling",
+      "category": "daily",
+      "description": "金装80抽×3包，供日常清洁使用。历史制造记录对应铜陵洁雅；采用该企业2024年评价工作最终A级，2025-03-03公布。",
+      "tags": [
+        "湿巾",
+        "婴儿湿巾",
+        "金装",
+        "80抽×3包",
+        "铜陵制造"
+      ],
+      "needs": [
+        "湿巾"
+      ],
+      "url": "https://item.jd.com/product/rWovVdGfn2p3F382TjAYdQ.html",
+      "market": "京东商品100216278606的金装80抽3包装，已核具体详情和购买入口。价格及配送以商家当前选项为准；纯水、小森林、铂金装和进口系列另行对应。",
+      "relationship": "天津2022年抽检转载第19行将金装180×140mm、80抽×3包明确对应铜陵洁雅；贵州2023年湿巾抽检第50行另有同系列、同尺寸的JY制造记录。当前零售页对应金装80抽3包装，未逐批检查零售实物。",
+      "relationshipSourceIds": [
+        "huggies-gold80x3-tianjin2022-reprint",
+        "huggies-gold-guizhou2023",
+        "huggies-gold80x3-jd-list",
+        "huggies-gold80x3-jd-detail"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "本次商品图片访问受限，仅展示准确商品名称。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东具体详情及零售卡片均列金装婴儿湿巾80抽3包装，标准商品号100216278606，并有购买入口；未知各地实时库存不作为额外否决条件。",
+          "sourceIds": [
+            "huggies-gold80x3-jd-list",
+            "huggies-gold80x3-jd-detail"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "铜陵洁雅生物科技股份有限公司",
+          "detail": "2022年完整规格制造记录和2023年同系列JY抽检记录交叉对应铜陵洁雅及安徽厂址。保留较早的制造年份，只适用于本条金装规格与具名企业，不扩展到品牌全部系列。",
+          "sourceIds": [
+            "huggies-gold80x3-tianjin2022-reprint",
+            "huggies-gold-guizhou2023",
+            "jieya-annual2025-manufacturing"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "共用铜陵洁雅2024年评价工作最终A级，正式公布日为2025-03-03，实际审查起止日未公开。保留较早的加班排产披露，不把按劳动依据收录写成零加班承诺。",
+          "sourceIds": [
+            "tongling-labor2024-final",
+            "anhui-work2024-wuhu-scope",
+            "jieya-ipo2021-production-scheduling"
+          ],
+          "assessmentSourceId": "tongling-labor2024-final"
+        }
+      },
+      "brandOrigin": {
+        "value": "international",
+        "note": "好奇是金佰利旗下的国际品牌；本条金装湿巾的中国生产依据对应铜陵洁雅。品牌背景和实际生产地分别核对。",
+        "sourceIds": [
+          "huggies-brand-kimberly-official"
+        ]
       }
     }
   ],
