@@ -8199,6 +8199,150 @@
       "locator": "公开可读供应商名称与第31项商品行；其余部分内容被平台隐藏",
       "summary": "公开部分列供应商沙湾市悦购百货超市，天宝一级葵花籽油5L、4桶、单价60元，提供了具体规格近期流通的新线索。",
       "limitation": "只读取公开内容，未登录或绕过隐藏字段；尚未取得采购方原始公告、合同及该店个人购买入口。采购报价不是当前个人零售价，未据此升级销售检查。"
+    },
+    {
+      "id": "luojiang-labor2025-result",
+      "title": "洛江区2025年度劳动保障守法诚信等级评价结果",
+      "publisher": "泉州市洛江区人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://www.qzlj.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/rlzyhshbzj/zfxxgkml/202605/t20260520_3293290.htm",
+      "publishedAt": "2026-05-18",
+      "checkedAt": "2026-09-13",
+      "locator": "正式通报正文及所附2025年度企业名单；A级表第9、12、18项。",
+      "summary": "2025年度最终结果包含福建和诚鞋业、福建永高人体育用品及福建泉州市仙公山风景名胜区有限公司。",
+      "limitation": "正文成文日期及网页PubDate均为2026-05-18；不从05-20的链接目录另造日期。结果只适用具名用人单位，完整审查起止日未公开。"
+    },
+    {
+      "id": "luojiang-labor2025-list",
+      "title": "洛江区2025年度企业劳动评价名单附件",
+      "publisher": "泉州市洛江区人力资源和社会保障局",
+      "type": "政府名单附件",
+      "url": "https://www.qzlj.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/rlzyhshbzj/zfxxgkml/202605/P020260520610153423586.xlsx",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "工作表A级（21家），Excel第12、15、21行分别为和诚、永高人、仙公山；另有B级6家、C级1家。",
+      "summary": "已读取原始工作簿全部三个工作表，核对用人单位全称、统一社会信用代码、评价结果及评价依据。",
+      "limitation": "附件未单列发布日期，正式结果日期见通报正文；企业评级不能代替具体商品的销售和制造对应。"
+    },
+    {
+      "id": "ygaor-shoes-shandong2025-copy",
+      "title": "永高人X33139-03及X25078-04童鞋抽查记录转载",
+      "publisher": "新浪财经转载中国质量新闻网",
+      "type": "监管结果转载",
+      "url": "https://finance.sina.cn/2025-12-15/detail-inhawpkf4080668.d.html",
+      "publishedAt": "2025-12-15",
+      "checkedAt": "2026-09-13",
+      "locator": "2025年山东童鞋合格表第39、40项，济宁市任城区一一童装店销售环节。",
+      "summary": "转载表列儿童篮球鞋X33139-03黑/兰220、245和儿童休闲鞋X25078-04米/大红250、260，并列现名福建永高人体育用品有限公司。",
+      "limitation": "本次取得转载表，尚未取得该表的监管原件及所选鞋款制造标签。抽查样品的历史销售不自动等于当前同货号有购买入口。"
+    },
+    {
+      "id": "ygaor-jd-range",
+      "title": "京东永高人童鞋品牌商品线索",
+      "publisher": "京东",
+      "type": "零售目录线索",
+      "url": "https://www.jd.com/chanpin/14470.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公开索引中的2308、1899、1179等童鞋条目。",
+      "summary": "国内平台存在永高人童鞋商品资料，但本次未找到X33139-03或X25078-04的具体条目。",
+      "limitation": "仅查阅公开索引；品牌目录和其他货号不能替代两个所选货号的销售证据，不据此推断销量或库存。"
+    },
+    {
+      "id": "ygaor-c03017w-recall2025",
+      "title": "永高人C03017W-01儿童休闲鞋召回通知",
+      "publisher": "福建省市场监督管理局",
+      "type": "产品召回",
+      "url": "https://scjgj.fj.gov.cn/zt/qxcpzhxx/202511/t20251114_7033952.htm",
+      "publishedAt": "2025-11-14",
+      "checkedAt": "2026-09-13",
+      "locator": "召回范围、生产日期、型号与原因。",
+      "summary": "召回2023-12-10生产的50双C03017W-01(1.5)儿童休闲鞋，原因为后衬里甲醛含量超标。",
+      "limitation": "这是具有限定型号和批次的产品安全通知，不是劳动违法结论，也不能推定本次两个其他货号存在同样问题。"
+    },
+    {
+      "id": "hecheng-satra-manufacturer",
+      "title": "SATRA关于钰齐集团及福建和诚鞋业的介绍",
+      "publisher": "SATRA",
+      "type": "行业机构资料",
+      "url": "https://www.satra.cn/stb/news.php?id=50",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "福建和诚鞋业会员及集团生产基地说明。",
+      "summary": "该机构介绍福建和诚鞋业及钰齐集团的鞋类生产业务，说明集团同时在中国及其他国家设有基地。",
+      "limitation": "未列出可对应福建和诚工厂的大陆零售货号，不能把集团合作品牌的全部鞋款视为该企业生产。"
+    },
+    {
+      "id": "hecheng-fire-inspection2026",
+      "title": "泉州市检查福建和诚等劳动密集型企业消防工作",
+      "publisher": "泉州市人民政府网站、泉州晚报",
+      "type": "政府检查信息",
+      "url": "https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/qzdt/qzyw/202608/t20260831_3323634.htm",
+      "publishedAt": "2026-08-30",
+      "checkedAt": "2026-09-13",
+      "locator": "8月29日现场调研检查及受检企业名单。",
+      "summary": "报道具名福建和诚鞋业，检查消防设施、培训与演练等事项。",
+      "limitation": "原文是消防检查报道，未作全项劳动合规结论，也未具名认定该企业劳动违法；不替代2025年度劳动评价。"
+    },
+    {
+      "id": "xiangongshan-company-brand2022",
+      "title": "仙公山字号与具名企业对应",
+      "publisher": "泉州市商务局",
+      "type": "政府主体资料",
+      "url": "https://qzbofcom.quanzhou.gov.cn/zwgk/tzgg/202205/t20220510_2725276.htm",
+      "publishedAt": "2022-05-10",
+      "checkedAt": "2026-09-13",
+      "locator": "第二批泉州老字号名单第8项。",
+      "summary": "名单将仙公山字号对应至福建泉州市仙公山风景名胜区有限公司，属地为洛江区。",
+      "limitation": "老字号认定用于核对主体关系，不作为劳动合规证据。"
+    },
+    {
+      "id": "xiangongshan-operation2023",
+      "title": "仙公山景区运营与登山售票处报道",
+      "publisher": "泉州市洛江区融媒体中心、东南网",
+      "type": "地方媒体报道",
+      "url": "https://qz.fjsen.com/2023-09/22/content_31397979.htm",
+      "publishedAt": "2023-09-22",
+      "checkedAt": "2026-09-13",
+      "locator": "仙公山景区段落：登山售票处、景区公司总经理及游客服务中心。",
+      "summary": "报道由仙公山风景名胜区公司负责人介绍景区服务与设施，提及登山售票处，可与政府具名企业和字号资料交叉对应。",
+      "limitation": "属于2023年运营资料，不表示此后每天均正常开放；境内景区运营不覆盖独立商户、寺庙或工程承包单位。"
+    },
+    {
+      "id": "xiangongshan-adult-admission2025",
+      "title": "仙公山登山门票及购票优惠信息",
+      "publisher": "洛江区人民政府网站",
+      "type": "政府旅游消费信息",
+      "url": "https://www.qzlj.gov.cn/zwgk/zdgkxx/ggwhty/jxpj/202504/t20250430_3165354.htm",
+      "publishedAt": "2025-04-30",
+      "checkedAt": "2026-09-13",
+      "locator": "仙公山风景区门票优惠部分，登山门票15元/人，活动地点为马甲镇仙公山。",
+      "summary": "官方2025年旅游消费资料列出单人登山门票及特定人群免票政策。",
+      "limitation": "15元是所引资料中的票价，不能作为2026年现价承诺；本次另查到2026-09-01临时闭园通知，购买状态仍待恢复公告核对。"
+    },
+    {
+      "id": "xiangongshan-closure20260901",
+      "title": "仙公山2026年9月1日临时闭园通知转载",
+      "publisher": "新浪财经转载大美洛江、泉州市仙公山风景名胜区管理处",
+      "type": "景区公告转载",
+      "url": "https://finance.sina.com.cn/wm/2026-09-01/doc-iniqiaua3687693.shtml",
+      "publishedAt": "2026-09-01",
+      "checkedAt": "2026-09-13",
+      "locator": "紧急通知正文及落款。",
+      "summary": "通知说明暴雨造成道路塌方，9月1日12时起暂停对外开放，恢复时间另行公告，已购票可按原渠道退票。",
+      "limitation": "本次未取得此后恢复开放的公告，因此保留销售待核；临时关闭不等于永久停业，更不表示企业劳动违法。"
+    },
+    {
+      "id": "xiangongshan-ctrip-guide",
+      "title": "携程仙公山游客信息页",
+      "publisher": "携程",
+      "type": "旅游渠道信息",
+      "url": "https://you.ctrip.com/sight/quanzhou243/8916.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "景区地址、开放说明与门票政策部分。",
+      "summary": "页面提供洛江区马甲镇仙公山的游客信息及票务咨询入口。",
+      "limitation": "页面通用全年开放说明与2026-09-01临时闭园通知不能混用；本次未以该页证明已恢复营业或存在当前可售票项。"
     }
   ],
   "companies": [
@@ -18571,6 +18715,235 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "取得2021名单的正式发布正文，或江苏2kg袋装商品的准确零售链接与标签时继续；暂停重复200g盒装、河南或重庆产品的无新线索检索。"
+    },
+    {
+      "id": "ygaor-fujian",
+      "name": "永高人·福建生产企业",
+      "legalName": "福建永高人体育用品有限公司",
+      "location": "福建省泉州市洛江区河市镇浮桥村",
+      "origin": "china",
+      "originNote": "本档案对应福建境内永高人企业；具体货号的制造对应单独核查。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时纳入2025年度劳动评价",
+      "restLabel": "休息休假纳入2025年度劳动评价",
+      "cardNote": "2025年度劳动守法A级",
+      "scope": "限福建永高人体育用品有限公司这一用人单位。",
+      "finding": "已取得2025年度劳动A级结果；两款童鞋有具名抽查转载线索，监管原件、制造标签与同货号购买入口仍待补。",
+      "caveats": [
+        "企业劳动评价已取得，两个商品待核的原因不是缺少A级。",
+        "不把品牌商品目录中的2308等货号替代X33139-03和X25078-04。",
+        "2025年召回涉及C03017W-01的2023-12-10批次，按具体范围保留，不泛化成其他型号或劳动结论。"
+      ],
+      "sourceIds": [
+        "luojiang-labor2025-result",
+        "luojiang-labor2025-list",
+        "law-labor-rating",
+        "ygaor-shoes-shandong2025-copy",
+        "ygaor-jd-range",
+        "ygaor-c03017w-recall2025"
+      ],
+      "supply": [
+        {
+          "stage": "企业劳动评价",
+          "status": "verified",
+          "detail": "正式A级表第12项对应同一法人。",
+          "sourceIds": [
+            "luojiang-labor2025-result",
+            "luojiang-labor2025-list",
+            "law-labor-rating"
+          ]
+        },
+        {
+          "stage": "童鞋制造与销售",
+          "status": "unknown",
+          "detail": "两款货号有转载抽查记录，制造原件和准确销售入口尚未对应。",
+          "sourceIds": [
+            "ygaor-shoes-shandong2025-copy",
+            "ygaor-jd-range"
+          ]
+        },
+        {
+          "stage": "其他型号与上游",
+          "status": "unknown",
+          "detail": "召回按型号批次保留；未将企业结果扩大到其他制造者。",
+          "sourceIds": [
+            "ygaor-c03017w-recall2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "福建永高人体育用品有限公司",
+          "result": "劳动保障守法诚信A级",
+          "period": "2025年度；完整审查起止日未公开",
+          "resultPublishedAt": "2026-05-18",
+          "sourceId": "luojiang-labor2025-result",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "limitation": "采用洛江区具名最终结果，核对至2026-09-13；本站复核安排不延长官方有效期，不保证未来全部用工或其他关联企业。"
+        }
+      ],
+      "nextCheck": "取得X33139-03黑/兰或X25078-04米/大红的监管原件、标签和零售入口时继续；无新线索不重复品牌目录检索，2026-10-13前复查劳动结果。"
+    },
+    {
+      "id": "hecheng-fujian",
+      "name": "福建和诚鞋业",
+      "legalName": "福建和诚鞋业有限公司",
+      "location": "福建省泉州市洛江区阳光南路50号",
+      "origin": "unconfirmed",
+      "originNote": "本档案按福建制造法人记录，属于跨境鞋业集团的生产企业；未指定任何合作品牌的起源或具体货号。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时纳入2025年度劳动评价",
+      "restLabel": "休息休假纳入2025年度劳动评价",
+      "cardNote": "2025年度劳动守法A级",
+      "scope": "限福建和诚鞋业有限公司这一用人单位。",
+      "finding": "2025年度劳动A级表第9项具名该公司；仍缺能对应其实际制造的大陆零售鞋款，不增加笼统的品牌商品。",
+      "caveats": [
+        "集团在多个国家设厂，合作品牌与福建工厂的具体鞋款要分别对应。",
+        "2026年消防检查属于特定事项，不能替代综合劳动结果。"
+      ],
+      "sourceIds": [
+        "luojiang-labor2025-result",
+        "luojiang-labor2025-list",
+        "law-labor-rating",
+        "hecheng-satra-manufacturer",
+        "hecheng-fire-inspection2026"
+      ],
+      "supply": [
+        {
+          "stage": "企业劳动评价",
+          "status": "verified",
+          "detail": "正式A级名单对应福建和诚鞋业有限公司。",
+          "sourceIds": [
+            "luojiang-labor2025-result",
+            "luojiang-labor2025-list",
+            "law-labor-rating"
+          ]
+        },
+        {
+          "stage": "鞋款与制造对应",
+          "status": "unknown",
+          "detail": "已确认鞋类制造业务，尚无具体大陆零售货号。",
+          "sourceIds": [
+            "hecheng-satra-manufacturer"
+          ]
+        },
+        {
+          "stage": "近期运营资料",
+          "status": "policy",
+          "detail": "2026年8月政府报道具名该公司，内容为消防检查。",
+          "sourceIds": [
+            "hecheng-fire-inspection2026"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "福建和诚鞋业有限公司",
+          "result": "劳动保障守法诚信A级",
+          "period": "2025年度；完整审查起止日未公开",
+          "resultPublishedAt": "2026-05-18",
+          "sourceId": "luojiang-labor2025-result",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "limitation": "采用洛江区具名最终结果，核对至2026-09-13；本站复核安排不延长官方有效期，不保证未来全部用工或其他关联企业。"
+        }
+      ],
+      "nextCheck": "取得明确列福建和诚为制造商的鞋盒标签、说明或产品原始资料及国内零售货号时继续；2026-10-13前复查劳动结果。"
+    },
+    {
+      "id": "xiangongshan-luojiang",
+      "name": "仙公山·景区运营企业",
+      "legalName": "福建泉州市仙公山风景名胜区有限公司",
+      "location": "福建省泉州市洛江区马甲镇仙公山",
+      "origin": "china",
+      "originNote": "福建境内景区及具名本地运营企业，关注其境内服务岗位。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时纳入2025年度劳动评价",
+      "restLabel": "休息休假纳入2025年度劳动评价",
+      "cardNote": "2025年度劳动守法A级",
+      "scope": "限福建泉州市仙公山风景名胜区有限公司这一用人单位。",
+      "finding": "2025年度劳动A级、境内景区与运营主体已有对应；9月1日临时闭园通知后的开放状态尚未确认，门票仅保留待核查。",
+      "caveats": [
+        "本次未查到2026-09-01道路塌方闭园通知之后的恢复公告，携程通用开放说明不覆盖此通知。",
+        "政府2025年资料中的15元票价不作为当前报价；本项只记录单人登山门票，不含缆车。",
+        "公司劳动评价不涵盖独立商户、寺庙及工程承包单位。"
+      ],
+      "sourceIds": [
+        "luojiang-labor2025-result",
+        "luojiang-labor2025-list",
+        "law-labor-rating",
+        "xiangongshan-company-brand2022",
+        "xiangongshan-operation2023",
+        "xiangongshan-adult-admission2025",
+        "xiangongshan-closure20260901",
+        "xiangongshan-ctrip-guide"
+      ],
+      "supply": [
+        {
+          "stage": "企业劳动评价",
+          "status": "verified",
+          "detail": "正式A级表第18项对应具名景区公司。",
+          "sourceIds": [
+            "luojiang-labor2025-result",
+            "luojiang-labor2025-list",
+            "law-labor-rating"
+          ]
+        },
+        {
+          "stage": "境内景区运营",
+          "status": "verified",
+          "detail": "政府字号名录及运营报道对应洛江区仙公山和该企业。",
+          "sourceIds": [
+            "xiangongshan-company-brand2022",
+            "xiangongshan-operation2023"
+          ]
+        },
+        {
+          "stage": "门票与开放状态",
+          "status": "unknown",
+          "detail": "具备历史门票资料，但较新的临时闭园通知之后尚缺恢复依据。",
+          "sourceIds": [
+            "xiangongshan-adult-admission2025",
+            "xiangongshan-closure20260901",
+            "xiangongshan-ctrip-guide"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "福建泉州市仙公山风景名胜区有限公司",
+          "result": "劳动保障守法诚信A级",
+          "period": "2025年度；完整审查起止日未公开",
+          "resultPublishedAt": "2026-05-18",
+          "sourceId": "luojiang-labor2025-result",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "limitation": "采用洛江区具名最终结果，核对至2026-09-13；本站复核安排不延长官方有效期，不保证未来全部用工或其他关联企业。"
+        }
+      ],
+      "nextCheck": "取得晚于2026-09-01的恢复开放公告及适用购票信息时复查销售；2026-10-13前复查劳动结果，不从通用全年开放介绍推定已经恢复。"
     }
   ],
   "products": [
@@ -30995,6 +31368,174 @@
           ]
         }
       }
+    },
+    {
+      "id": "ygaor-x33139-03-basketball",
+      "name": "永高人儿童篮球鞋 X33139-03 黑/兰",
+      "brand": "永高人",
+      "companyId": "ygaor-fujian",
+      "category": "clothing",
+      "description": "按2025年抽查转载表记录具体货号与配色，抽查尺码为220、245；企业有劳动依据，具体商品对应继续核查。",
+      "tags": [
+        "童鞋",
+        "儿童篮球鞋",
+        "X33139-03",
+        "黑/兰"
+      ],
+      "needs": [
+        "童鞋"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "url": "https://finance.sina.cn/2025-12-15/detail-inhawpkf4080668.d.html",
+      "market": "山东济宁销售环节历史抽查记录；尚未取得此货号的当前个人购买入口，所列链接为资料页。",
+      "relationship": "转载表将本货号标称生产企业列为福建永高人体育用品有限公司，并注明曾用名；原始监管表及制造标签仍需核对。",
+      "relationshipSourceIds": [
+        "ygaor-shoes-shandong2025-copy"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "有该货号的历史销售抽查记录，品牌零售目录未找到同款条目；不能用其他永高人货号替代。",
+          "sourceIds": [
+            "ygaor-shoes-shandong2025-copy",
+            "ygaor-jd-range"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "转载表具名福建制造企业，尚未取得监管原件及本货号标签；暂不将标称生产关系写成已完成实际制造对应。",
+          "sourceIds": [
+            "ygaor-shoes-shandong2025-copy"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "福建永高人2025年度劳动A级已经核对；本商品仍需完成实际制造对应后才能引用，不是因为未查到企业劳动评价。",
+          "sourceIds": [
+            "luojiang-labor2025-result",
+            "luojiang-labor2025-list",
+            "law-labor-rating",
+            "ygaor-shoes-shandong2025-copy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ygaor-x25078-04-casual",
+      "name": "永高人儿童休闲鞋 X25078-04 米/大红",
+      "brand": "永高人",
+      "companyId": "ygaor-fujian",
+      "category": "clothing",
+      "description": "按2025年抽查转载表记录具体货号与配色，抽查尺码为250、260；企业有劳动依据，具体商品对应继续核查。",
+      "tags": [
+        "童鞋",
+        "儿童休闲鞋",
+        "X25078-04",
+        "米/大红"
+      ],
+      "needs": [
+        "童鞋"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "url": "https://finance.sina.cn/2025-12-15/detail-inhawpkf4080668.d.html",
+      "market": "山东济宁销售环节历史抽查记录；尚未取得此货号的当前个人购买入口，所列链接为资料页。",
+      "relationship": "转载表将本货号标称生产企业列为福建永高人体育用品有限公司，并注明曾用名；原始监管表及制造标签仍需核对。",
+      "relationshipSourceIds": [
+        "ygaor-shoes-shandong2025-copy"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "有该货号的历史销售抽查记录，品牌零售目录未找到同款条目；不能用其他永高人货号替代。",
+          "sourceIds": [
+            "ygaor-shoes-shandong2025-copy",
+            "ygaor-jd-range"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "转载表具名福建制造企业，尚未取得监管原件及本货号标签；暂不将标称生产关系写成已完成实际制造对应。",
+          "sourceIds": [
+            "ygaor-shoes-shandong2025-copy"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "福建永高人2025年度劳动A级已经核对；本商品仍需完成实际制造对应后才能引用，不是因为未查到企业劳动评价。",
+          "sourceIds": [
+            "luojiang-labor2025-result",
+            "luojiang-labor2025-list",
+            "law-labor-rating",
+            "ygaor-shoes-shandong2025-copy"
+          ]
+        }
+      }
+    },
+    {
+      "id": "xiangongshan-adult-hiking-ticket",
+      "name": "仙公山成人登山门票（单人）",
+      "brand": "仙公山",
+      "companyId": "xiangongshan-luojiang",
+      "category": "culture",
+      "description": "泉州洛江仙公山的单人登山门票，不含缆车。已有劳动和运营主体依据，9月1日临时闭园后的购票状态待核。",
+      "tags": [
+        "景区",
+        "登山",
+        "泉州",
+        "成人门票"
+      ],
+      "needs": [
+        "景区"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "url": "https://finance.sina.com.cn/wm/2026-09-01/doc-iniqiaua3687693.shtml",
+      "market": "福建泉州本地服务；公开资料中有登山售票处及门票政策，暂未确认临时闭园后恢复，当前链接优先展示闭园通知。",
+      "relationship": "政府老字号名单对应具名仙公山企业，景区运营报道由公司负责人介绍本地游客服务；同一企业列入2025年度劳动A级。",
+      "relationshipSourceIds": [
+        "xiangongshan-company-brand2022",
+        "xiangongshan-operation2023",
+        "luojiang-labor2025-list"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "2025年官方资料列单人登山门票；2026-09-01公告临时关闭后未查到恢复通知，不能用携程通用全年开放介绍推定目前可购可用。",
+          "sourceIds": [
+            "xiangongshan-adult-admission2025",
+            "xiangongshan-closure20260901",
+            "xiangongshan-ctrip-guide"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "detail": "服务地点为福建泉州市洛江区马甲镇仙公山，政府字号名录与景区公司运营报道对应本地服务企业。",
+          "sourceIds": [
+            "xiangongshan-company-brand2022",
+            "xiangongshan-operation2023"
+          ],
+          "subject": "福建泉州市仙公山风景名胜区有限公司"
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "同一景区运营企业在洛江区2025年度最终劳动评价中列A级第18项；当前门票待核源于闭园后的销售状态。",
+          "sourceIds": [
+            "luojiang-labor2025-result",
+            "luojiang-labor2025-list",
+            "law-labor-rating"
+          ],
+          "subject": "福建泉州市仙公山风景名胜区有限公司",
+          "assessmentSourceId": "luojiang-labor2025-result"
+        }
+      }
     }
   ],
   "coverage": [
@@ -31499,9 +32040,13 @@
         {
           "label": "童装",
           "query": "童装"
+        },
+        {
+          "label": "童鞋",
+          "query": "童鞋"
         }
       ],
-      "note": "10项服装鞋履需求均有具体研究资料；本次文胸需求新增正式收录的安踏162457106-2仙贝紫M（女165），劳动依据为较早的2022年综合评价。T恤、衬衫、夹克、裤子、内衣、睡衣、袜子、跑鞋和童装尚无正式收录；童装抽查线索未冒充完成覆盖。",
+      "note": "11项服装鞋履需求均有具体研究资料；正式商品仍为安踏162457106-2仙贝紫M（女165）文胸。新增童鞋需求，永高人X33139-03及X25078-04已取得企业劳动A级，但具体制造原件与同货号购买入口待补；和诚作为具名劳动评价企业保留制造货号缺口。",
       "sourceIds": [
         "septwolves-hiring",
         "national-harmony-2022",
@@ -31527,7 +32072,13 @@
         "xtep-esg-2025-assurance",
         "anta-162457106-manufacture2025",
         "anta-162457106-purple-m-jd",
-        "anta-kids-jingan2025-producer-lead"
+        "anta-kids-jingan2025-producer-lead",
+        "luojiang-labor2025-result",
+        "luojiang-labor2025-list",
+        "ygaor-shoes-shandong2025-copy",
+        "ygaor-jd-range",
+        "ygaor-c03017w-recall2025",
+        "hecheng-satra-manufacturer"
       ]
     },
     {
@@ -32334,7 +32885,7 @@
           "query": "演出"
         }
       ],
-      "note": "文化娱乐9项需求均有具体研究资料。正式收录石牛山成人首道门票、常州环球动漫嬉戏谷成人标准门票，均属于景区需求；新增乐园不代表图书、影视、音乐、玩具或演出已正式覆盖。字典、会员及影院等既有资料继续保留各自制造、劳动或售票缺口。",
+      "note": "文化娱乐9项需求均有具体研究资料。正式收录石牛山成人首道门票、常州环球动漫嬉戏谷成人标准门票，均属于景区需求；新增乐园不代表图书、影视、音乐、玩具或演出已正式覆盖。字典、会员及影院等既有资料继续保留各自制造、劳动或售票缺口。 新增仙公山单人登山门票待核查资料，企业劳动和境内运营已有依据，9月1日临时闭园后的恢复与购票状态待核，未计为正式商品。",
       "sourceIds": [
         "national-harmony-2022",
         "vista-hiring",
@@ -32358,7 +32909,13 @@
         "joyland-harmony-result2023",
         "jiangsu-harmony-standard2019",
         "joyland-operator-tax2022",
-        "joyland-adult-qunar-current"
+        "joyland-adult-qunar-current",
+        "luojiang-labor2025-result",
+        "xiangongshan-company-brand2022",
+        "xiangongshan-operation2023",
+        "xiangongshan-adult-admission2025",
+        "xiangongshan-closure20260901",
+        "xiangongshan-ctrip-guide"
       ]
     },
     {
