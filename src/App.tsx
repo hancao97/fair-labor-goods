@@ -718,6 +718,7 @@ export default function App() {
   const [toast, setToast] = useState("");
   const [sourceQuery, setSourceQuery] = useState("");
   const [companyQuery, setCompanyQuery] = useState("");
+  const [employeeFeedbackOnly, setEmployeeFeedbackOnly] = useState(false);
   const [sourceType, setSourceType] = useState("all");
   const selectedProduct = data.products.find((p) => p.id === selected);
   const researching = route === "research";
@@ -810,9 +811,10 @@ export default function App() {
         .includes(sourceQuery.toLowerCase()),
   );
   const visibleCompanies = data.companies.filter((c) =>
-    `${c.name} ${c.legalName} ${c.location}`
+    (!employeeFeedbackOnly || Boolean(c.employeeFeedback?.length)) &&
+    `${c.name} ${c.legalName} ${c.location} ${(c.employeeFeedback || []).map((f) => `${f.roleScope} ${f.summary}`).join(" ")}`
       .toLowerCase()
-      .includes(companyQuery.toLowerCase()),
+      .includes(companyQuery.trim().toLowerCase()),
   );
   return (
     <>
@@ -1287,12 +1289,19 @@ export default function App() {
               <Search size={18} />
               <input
                 type="search"
-                placeholder="搜索企业、品牌或地区"
+                placeholder="搜索企业、地区或员工提到的岗位"
                 aria-label="搜索企业档案"
                 value={companyQuery}
                 onChange={(e) => setCompanyQuery(e.target.value)}
               />
             </label>
+            <div className="company-feedback-filter">
+              <label>
+                <input type="checkbox" checked={employeeFeedbackOnly} onChange={(e) => setEmployeeFeedbackOnly(e.target.checked)} />
+                有员工反馈（{data.companies.filter((c) => c.employeeFeedback?.length).length} 家）
+              </label>
+              <span role="status">显示 {visibleCompanies.length} 家企业</span>
+            </div>
             <div className="company-list">
               {visibleCompanies.map((c) => (
                 <article key={c.id} className="company-card">
@@ -1336,6 +1345,7 @@ export default function App() {
                       .map((p) => (
                         <button key={p.id} onClick={() => setSelected(p.id)}>
                           {p.name}
+                          <span className="company-product-status">{isAdmitted(p, c) ? "已收录" : "待核查"}</span>
                           <ArrowUpRight size={14} />
                         </button>
                       ))}
@@ -1346,12 +1356,12 @@ export default function App() {
             {!visibleCompanies.length && (
               <div className="empty-state">
                 <Building2 size={28} />
-                <h3>没有找到这家企业</h3>
+                <h3>没有符合当前筛选的企业</h3>
                 <button
                   className="text-button"
-                  onClick={() => setCompanyQuery("")}
+                  onClick={() => { setCompanyQuery(""); setEmployeeFeedbackOnly(false); }}
                 >
-                  清空搜索
+                  清空搜索和筛选
                 </button>
               </div>
             )}

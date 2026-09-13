@@ -8499,6 +8499,126 @@
       "locator": "开头更新、生效日期及运营者说明",
       "summary": "该版政策于2024-12-19生效，运营者为心动网络股份有限公司，注册地址位于上海闵行区东川路555号戊楼1166室。",
       "limitation": "政策用于核对具体国服运营主体；不能单独证明所有研发地点、员工国籍或劳动条件。"
+    },
+    {
+      "id": "pdl-worker-interview-2024",
+      "title": "月薪过万，我为何还从胖东来离职？",
+      "publisher": "封面新闻（新浪转载）",
+      "type": "员工采访",
+      "url": "https://finance.sina.cn/2024-11-26/detail-incxnmtq6881860.d.html?vt=4",
+      "publishedAt": "2024-11-26",
+      "checkedAt": "2026-09-13",
+      "locator": "梁梦（化名）的任职经历与公司回应段落",
+      "summary": "受访者认可薪资和年假，也谈及文化考核、家访及管理压力；报道说明记者核实过其身份。",
+      "limitation": "经历在2024年报道前，具体起止日及签约法人未公开。本站未独立核实身份；旧经历不代表目前全部岗位。"
+    },
+    {
+      "id": "pdl-worker-interview-2026",
+      "title": "胖东来回应供应商用工要求及员工工作体验",
+      "publisher": "蓝鲸新闻（中华网转述）",
+      "type": "员工采访",
+      "url": "https://news.china.com/socialgd/10000169/20260902/49716013.html",
+      "publishedAt": "2026-09-02",
+      "checkedAt": "2026-09-13",
+      "locator": "正文末段关于在职员工的采访",
+      "summary": "报道中的员工认可薪资、稳定性和福利，同时强调工作付出与收获相应；多名员工婉拒采访。",
+      "limitation": "未具名岗位、门店和制造法人。供应商要求部分来自咨询人士，客服未确认网传双休说法；不视为验厂通过名单。"
+    },
+    {
+      "id": "pdl-official-directory-2026",
+      "title": "胖东来官网及企业资料入口",
+      "publisher": "许昌市胖东来商贸集团有限公司",
+      "type": "企业官网",
+      "url": "https://www.azpdl.cn/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "首页企业简介、人员流动、人才通道及页脚",
+      "summary": "官网具名商贸集团，并链接企业介绍、公开制度及招聘入口。",
+      "limitation": "首页链接存在不表示其目标文件全文已读取；部分飞书资料本次未能访问。"
+    },
+    {
+      "id": "pdl-kitchen-official-2026",
+      "title": "许昌中央厨房介绍",
+      "publisher": "胖东来官网",
+      "type": "生产基地资料",
+      "url": "https://web.azpdl.cn/about?name=%E8%AE%B8%E6%98%8C%E4%B8%AD%E5%A4%AE%E5%8E%A8%E6%88%BF",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "门店信息及中央厨房介绍",
+      "summary": "官网列明许州路与许由路附近的自主加工中心，生产烘焙、熟食、豆制品、水生菜及中式面点。",
+      "limitation": "介绍未列每款商品规格、当前库存和签约用人单位；厂区营业面积与建筑面积不是同一指标。"
+    },
+    {
+      "id": "pdl-kitchen-report-2025",
+      "title": "胖东来的厨房",
+      "publisher": "河南日报",
+      "type": "实地采访",
+      "url": "https://dzb.henandaily.cn/html5/2025-02/07/content_15_1719904.htm",
+      "publishedAt": "2025-02-07",
+      "checkedAt": "2026-09-13",
+      "locator": "2025-02-02中央厨房探访；豆芽、烘焙与配送段落",
+      "summary": "记者实地观察中央厨房生产大月饼，并记录黄豆芽、绿豆芽等品类向门店供应。",
+      "limitation": "证明报道时的生产和配送，不是当前单品库存或劳动审核；未公开所列豆芽的零售包装重量。"
+    },
+    {
+      "id": "pdl-kitchen-project-2022",
+      "title": "胖东来综合流通加工产业园环评审查公示",
+      "publisher": "许昌市生态环境局",
+      "type": "政府生产项目公示",
+      "url": "https://sthjj.xuchang.gov.cn/yghb/001002/20220401/58c38685-efdf-4f70-864b-aed0a18392ea.html",
+      "publishedAt": "2022-03-31",
+      "checkedAt": "2026-09-13",
+      "locator": "表格第2项：建设单位、地址与产品类别",
+      "summary": "拟审查项目的建设单位为许昌市胖东来实业有限公司，地点为许由路与许州路交叉口西南角。",
+      "limitation": "为建设阶段环评审查公示，不能单独证明后来实际投产、现售商品或劳动合规。"
+    },
+    {
+      "id": "pdl-mooncake-maker-2026",
+      "title": "大月饼商标纠纷判决报道中的生产者说明",
+      "publisher": "界面新闻（东方财富转载）",
+      "type": "生产者报道",
+      "url": "https://finance.eastmoney.com/a/202602263655123443.html",
+      "publishedAt": "2026-02-26",
+      "checkedAt": "2026-09-13",
+      "locator": "报道所转述的判决书生产者与产品外观段落",
+      "summary": "报道将胖东来大月饼对应为胖东来实业自主生产、使用商贸公司DL商标的产品。",
+      "limitation": "本次读取媒体报道，未取得完整判决原件；商标案件不涉及劳动合规结论。"
+    },
+    {
+      "id": "pdl-mooncake-flavors-2024",
+      "title": "胖东来大月饼的两个口味及当时销售方式",
+      "publisher": "时代财经（凤凰网转载）",
+      "type": "商品采访",
+      "url": "https://finance.ifeng.com/c/8cognaWR83C",
+      "publishedAt": "2024-09-12",
+      "checkedAt": "2026-09-13",
+      "locator": "大月饼介绍与2024年线上同城销售调整段落",
+      "summary": "报道列明芋泥麻薯、红豆蛋黄两款酥饼，并介绍当时销售方式。",
+      "limitation": "旧渠道安排不能代替2026年库存和配送核验；未据此填写现价或永久限购规则。"
+    },
+    {
+      "id": "xuchang-labor-2025-pdl",
+      "title": "关于公布2025年度用人单位劳动保障诚信等级评价结果的通知",
+      "publisher": "许昌市人力资源和社会保障局",
+      "type": "政府评价",
+      "url": "https://rsj.xuchang.gov.cn/zxdt/002002/20260707/714dbbca-6881-4b42-8e85-67b19b271f24.html",
+      "publishedAt": "2026-07-07",
+      "checkedAt": "2026-09-13",
+      "locator": "A级145家名单第3项",
+      "summary": "2025年度最终A级名单具名许昌市胖东来商贸集团有限公司。",
+      "limitation": "名单未具名胖东来实业或单独说明对子公司的覆盖。2026-04-01至07-03为评价工作安排，不是实际用工审查区间。"
+    },
+    {
+      "id": "pg-manufacturing-experience-2022",
+      "title": "宝洁供应链管理部：生产智造部门日常",
+      "publisher": "牛客用户",
+      "type": "员工招聘分享",
+      "url": "https://www.nowcoder.com/discuss/410359413058416640",
+      "publishedAt": "2022-10-14",
+      "checkedAt": "2026-09-13",
+      "locator": "生产智造岗位、团队氛围、工厂班车与招聘邀请段落",
+      "summary": "发帖人自述在生产智造部门工作，介绍产线管理、安全反馈、工厂班车和食堂。",
+      "limitation": "带有招聘宣传性质，身份未独立核实，未给具体工厂、实际周工时或加班费；本次依据公开索引。"
     }
   ],
   "companies": [
@@ -19239,7 +19359,7 @@
       "id": "pg-china-employee-lead",
       "name": "宝洁（员工线索）",
       "legalName": "宝洁在华企业；具体生产用人单位待对应",
-      "location": "中国在华业务；两条反馈的具体工厂未公开",
+      "location": "中国在华业务；已收集反馈尚未具名具体工厂",
       "origin": "international",
       "originNote": "海外创立的品牌；本次仅研究在华工作体验，具体商品仍须核对中国生产。",
       "level": "research",
@@ -19248,15 +19368,16 @@
       "hoursLabel": "运营自述朝九晚五；未换算周工时",
       "restLabel": "财务转载提到较少周末加班",
       "cardNote": "有员工线索 · 生产工厂待对应",
-      "scope": "2025年运营自述与2020年转载的财务经历",
-      "finding": "两条公开经历提供了工作安排线索，可以先从公司继续调查其洗护用品；当前尚未对应具体生产工厂，不代表全部宝洁产品合规。",
+      "scope": "2025年运营自述、2020年转载财务经历与2022年生产智造招聘分享",
+      "finding": "已整理办公岗位及生产智造岗位的工作体验，可继续从公司对应洗护商品；工厂地点与适用劳动依据尚未补齐。",
       "caveats": [
         "2025年帖子身份未独立核实，未具名工厂；2020年内容为转载，原经历时期不详。",
         "办公岗位体验不能替代洗护用品实际工厂的劳动依据。"
       ],
       "sourceIds": [
         "pg-finance-employee-maimai-2020",
-        "pg-operations-employee-nowcoder-2025"
+        "pg-operations-employee-nowcoder-2025",
+        "pg-manufacturing-experience-2022"
       ],
       "employeeFeedback": [
         {
@@ -19274,6 +19395,14 @@
           "roleScope": "宝洁财务岗位，具体雇主未具名",
           "summary": "原作者谈及弹性工作、较少周末加班及年假，也提到工作日强度和跨时区安排。",
           "limitation": "不是转载账号本人的新经历，不能扩展到生产工厂或当前全公司情况。"
+        },
+        {
+          "sourceId": "pg-manufacturing-experience-2022",
+          "kind": "referral",
+          "period": "2022年入职大半年后的分享",
+          "roleScope": "生产智造部门，发帖人自述在工厂工作，未具名地点",
+          "summary": "介绍产线管理、安全反馈、班车和食堂，可作为寻找具体工厂的线索。",
+          "limitation": "帖子带有校招邀请；不能据此认定零加班、实际加班费或全部工厂待遇。"
         }
       ],
       "supply": [
@@ -19289,8 +19418,10 @@
         {
           "stage": "洗护用品生产",
           "status": "unknown",
-          "detail": "从员工工作地点和产品包装继续对应具体中国工厂。",
-          "sourceIds": []
+          "detail": "新增生产智造岗位分享，尚未确定其工厂地点；需继续对应实际生产商。",
+          "sourceIds": [
+            "pg-manufacturing-experience-2022"
+          ]
         },
         {
           "stage": "原料与配送",
@@ -19302,6 +19433,100 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "优先找国内洗护工厂一线员工的具名地点反馈，再核对对应包装生产商与国内零售商品；不重复搜同一篇财务转载。"
+    },
+    {
+      "id": "pangdonglai",
+      "name": "胖东来",
+      "legalName": "许昌市胖东来商贸集团有限公司",
+      "location": "河南许昌、新乡；食品加工线索位于许昌中央厨房",
+      "origin": "china",
+      "originNote": "中国创立的品牌；自有品牌商品仍须区分自产与其他厂商制造。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "有员工工作体验；实际工时未独立核验",
+      "restLabel": "员工采访提及带薪年假",
+      "cardNote": "商贸集团有A级 · 生产者需另核",
+      "scope": "商贸集团的2025年度评价、2024及2026年员工采访；中央厨房产品单列制造主体",
+      "finding": "员工采访提供薪资、休假及管理体验线索；已找到中央厨房四款食品的生产资料。商贸集团获评A级，实际制造者的适用劳动依据仍待核对。",
+      "caveats": [
+        "两篇员工采访的岗位、法人范围有限，旧经历与近期反馈分别展示。",
+        "商贸集团、实业公司和外部供应商不是同一评价对象；不能把商场出售的商品全部视为自产。",
+        "尚缺食品制造者适用的劳动依据及当前具体单品的可购买资料。"
+      ],
+      "sourceIds": [
+        "pdl-worker-interview-2024",
+        "pdl-worker-interview-2026",
+        "pdl-official-directory-2026",
+        "xuchang-labor-2025-pdl",
+        "pdl-kitchen-official-2026",
+        "pdl-kitchen-report-2025",
+        "pdl-kitchen-project-2022",
+        "pdl-mooncake-maker-2026",
+        "pdl-mooncake-flavors-2024"
+      ],
+      "employeeFeedback": [
+        {
+          "sourceId": "pdl-worker-interview-2026",
+          "kind": "interview",
+          "period": "2026-09报道中的在职员工反馈",
+          "roleScope": "具体岗位、门店与签约法人未具名",
+          "summary": "受访者认可薪资、稳定性和福利，也强调付出与收获相应，认为外界有过度美化。",
+          "limitation": "多名员工婉拒采访；单篇报道不代表所有员工或中央厨房工人。"
+        },
+        {
+          "sourceId": "pdl-worker-interview-2024",
+          "kind": "interview",
+          "period": "2024-11受访前的一年多任职经历；完整起止日未公开",
+          "roleScope": "离职员工，管理相关工作；受访者使用化名",
+          "summary": "认可较好的薪酬和年假，也批评文化考核、家访及管理压力，最终选择离职。",
+          "limitation": "报道称记者核实过身份；本站未独立核实。不能将旧经历当成2026年全体员工情况。"
+        }
+      ],
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "subject": "许昌市胖东来商贸集团有限公司",
+          "grade": "A",
+          "sourceId": "xuchang-labor-2025-pdl",
+          "result": "2025年度劳动保障诚信等级A级（商贸集团）",
+          "period": "2025年度；2026-07-07公布，完整审查起止日未公开",
+          "resultPublishedAt": "2026-07-07",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-12-13",
+          "status": "current",
+          "limitation": "仅按名单具名法人记录，尚未证明覆盖实业公司的食品生产岗位。"
+        }
+      ],
+      "supply": [
+        {
+          "stage": "食品制造",
+          "status": "policy",
+          "detail": "官网和项目资料对应许昌中央厨房；生产者的劳动依据待补。",
+          "sourceIds": [
+            "pdl-kitchen-official-2026",
+            "pdl-kitchen-project-2022"
+          ]
+        },
+        {
+          "stage": "原料与其他供应商",
+          "status": "unknown",
+          "detail": "自有品牌的外部供货工厂逐一核对，招聘或验厂要求不等于通过记录。",
+          "sourceIds": []
+        },
+        {
+          "stage": "销售与配送",
+          "status": "unknown",
+          "detail": "已找到历史门店供货和同城销售资料，当前单品渠道待核。",
+          "sourceIds": [
+            "pdl-kitchen-report-2025",
+            "pdl-mooncake-flavors-2024"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "收到中央厨房近期一线员工经历、具名制造者劳动资料或现售包装和渠道时继续核对；本次无法访问的飞书资料不重复请求。"
     }
   ],
   "products": [
@@ -31996,6 +32221,236 @@
           "assessmentSourceId": "national-harmony-2022"
         }
       }
+    },
+    {
+      "id": "pdl-taro-mochi-pastry",
+      "name": "芋泥麻薯酥饼（大月饼）",
+      "brand": "胖东来",
+      "companyId": "pangdonglai",
+      "category": "food",
+      "description": "按具体口味记录的中央厨房酥饼；净重和现售包装待核。",
+      "tags": [
+        "糕点",
+        "中央厨房",
+        "许昌"
+      ],
+      "needs": [
+        "糕点"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "暂无可核验授权商品图",
+      "url": "https://web.azpdl.cn/about?name=%E8%AE%B8%E6%98%8C%E4%B8%AD%E5%A4%AE%E5%8E%A8%E6%88%BF",
+      "market": "历史资料记载门店销售；本链接为中央厨房介绍，当前具体单品的购买入口与供应范围待核。",
+      "relationship": "由中央厨房生产资料对应；集团商标与实业制造者分别记录。",
+      "relationshipSourceIds": [
+        "pdl-kitchen-official-2026",
+        "pdl-kitchen-report-2025",
+        "pdl-kitchen-project-2022",
+        "pdl-mooncake-maker-2026",
+        "pdl-mooncake-flavors-2024"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "有境内门店供货记录，尚缺当前单品购买资料。",
+          "sourceIds": [
+            "pdl-kitchen-report-2025",
+            "pdl-mooncake-flavors-2024"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "许昌市胖东来实业有限公司",
+          "facility": "许昌中央厨房",
+          "detail": "项目单位、官网厂区及判决报道共同对应许昌实业生产者。",
+          "sourceIds": [
+            "pdl-kitchen-official-2026",
+            "pdl-kitchen-report-2025",
+            "pdl-kitchen-project-2022",
+            "pdl-mooncake-maker-2026",
+            "pdl-mooncake-flavors-2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "已找到的A级具名商贸集团，尚未取得适用于实业制造者的劳动依据。",
+          "sourceIds": [
+            "xuchang-labor-2025-pdl"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pdl-redbean-yolk-pastry",
+      "name": "红豆蛋黄酥饼（大月饼）",
+      "brand": "胖东来",
+      "companyId": "pangdonglai",
+      "category": "food",
+      "description": "按具体口味记录的中央厨房酥饼；净重和现售包装待核。",
+      "tags": [
+        "糕点",
+        "中央厨房",
+        "许昌"
+      ],
+      "needs": [
+        "糕点"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "暂无可核验授权商品图",
+      "url": "https://web.azpdl.cn/about?name=%E8%AE%B8%E6%98%8C%E4%B8%AD%E5%A4%AE%E5%8E%A8%E6%88%BF",
+      "market": "历史资料记载门店销售；本链接为中央厨房介绍，当前具体单品的购买入口与供应范围待核。",
+      "relationship": "由中央厨房生产资料对应；集团商标与实业制造者分别记录。",
+      "relationshipSourceIds": [
+        "pdl-kitchen-official-2026",
+        "pdl-kitchen-report-2025",
+        "pdl-kitchen-project-2022",
+        "pdl-mooncake-maker-2026",
+        "pdl-mooncake-flavors-2024"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "有境内门店供货记录，尚缺当前单品购买资料。",
+          "sourceIds": [
+            "pdl-kitchen-report-2025",
+            "pdl-mooncake-flavors-2024"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "许昌市胖东来实业有限公司",
+          "facility": "许昌中央厨房",
+          "detail": "项目单位、官网厂区及判决报道共同对应许昌实业生产者。",
+          "sourceIds": [
+            "pdl-kitchen-official-2026",
+            "pdl-kitchen-report-2025",
+            "pdl-kitchen-project-2022",
+            "pdl-mooncake-maker-2026",
+            "pdl-mooncake-flavors-2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "已找到的A级具名商贸集团，尚未取得适用于实业制造者的劳动依据。",
+          "sourceIds": [
+            "xuchang-labor-2025-pdl"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pdl-soybean-sprouts",
+      "name": "中央厨房黄豆芽",
+      "brand": "胖东来",
+      "companyId": "pangdonglai",
+      "category": "fresh",
+      "description": "按豆种区分的中央厨房生鲜蔬菜；零售重量、包装与现货待核。",
+      "tags": [
+        "蔬菜",
+        "中央厨房",
+        "许昌"
+      ],
+      "needs": [
+        "蔬菜"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "暂无可核验授权商品图",
+      "url": "https://web.azpdl.cn/about?name=%E8%AE%B8%E6%98%8C%E4%B8%AD%E5%A4%AE%E5%8E%A8%E6%88%BF",
+      "market": "历史资料记载门店销售；本链接为中央厨房介绍，当前具体单品的购买入口与供应范围待核。",
+      "relationship": "由中央厨房生产资料对应；集团商标与实业制造者分别记录。",
+      "relationshipSourceIds": [
+        "pdl-kitchen-official-2026",
+        "pdl-kitchen-report-2025",
+        "pdl-kitchen-project-2022"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "有境内门店供货记录，尚缺当前单品购买资料。",
+          "sourceIds": [
+            "pdl-kitchen-report-2025"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "许昌市胖东来实业有限公司",
+          "facility": "许昌中央厨房",
+          "detail": "项目单位及中央厨房实地采访共同对应境内加工生产。",
+          "sourceIds": [
+            "pdl-kitchen-official-2026",
+            "pdl-kitchen-report-2025",
+            "pdl-kitchen-project-2022"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "已找到的A级具名商贸集团，尚未取得适用于实业制造者的劳动依据。",
+          "sourceIds": [
+            "xuchang-labor-2025-pdl"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pdl-mungbean-sprouts",
+      "name": "中央厨房绿豆芽",
+      "brand": "胖东来",
+      "companyId": "pangdonglai",
+      "category": "fresh",
+      "description": "按豆种区分的中央厨房生鲜蔬菜；零售重量、包装与现货待核。",
+      "tags": [
+        "蔬菜",
+        "中央厨房",
+        "许昌"
+      ],
+      "needs": [
+        "蔬菜"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "暂无可核验授权商品图",
+      "url": "https://web.azpdl.cn/about?name=%E8%AE%B8%E6%98%8C%E4%B8%AD%E5%A4%AE%E5%8E%A8%E6%88%BF",
+      "market": "历史资料记载门店销售；本链接为中央厨房介绍，当前具体单品的购买入口与供应范围待核。",
+      "relationship": "由中央厨房生产资料对应；集团商标与实业制造者分别记录。",
+      "relationshipSourceIds": [
+        "pdl-kitchen-official-2026",
+        "pdl-kitchen-report-2025",
+        "pdl-kitchen-project-2022"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "有境内门店供货记录，尚缺当前单品购买资料。",
+          "sourceIds": [
+            "pdl-kitchen-report-2025"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "许昌市胖东来实业有限公司",
+          "facility": "许昌中央厨房",
+          "detail": "项目单位及中央厨房实地采访共同对应境内加工生产。",
+          "sourceIds": [
+            "pdl-kitchen-official-2026",
+            "pdl-kitchen-report-2025",
+            "pdl-kitchen-project-2022"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "已找到的A级具名商贸集团，尚未取得适用于实业制造者的劳动依据。",
+          "sourceIds": [
+            "xuchang-labor-2025-pdl"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -32133,9 +32588,13 @@
         {
           "label": "速冻春卷",
           "query": "速冻春卷"
+        },
+        {
+          "label": "糕点",
+          "query": "酥饼 糕点"
         }
       ],
-      "note": "33项粮油食品需求均有具体研究资料；面粉、意面、燕麦、酱油、醋、腐乳、饼干、即食蛋、即食熟肉、咖喱角及速冻春卷已有正式收录。名味按具体口味及零售数量收录，蔬菜春卷现核实的渠道仅售18袋整箱，虾肉春卷的图片冲突仍待查。大米、食用油等继续补购买与制造依据。 新增新疆特精面粉5kg、禾稻夫长粒香米5kg及天宝葵花籽油5L研究资料；面粉与油已有具名劳动A级，缺现售渠道；大米另需核实评级公示生效情况。",
+      "note": "34项粮油食品需求均有具体研究资料；面粉、意面、燕麦、酱油、醋、腐乳、饼干、即食蛋、即食熟肉、咖喱角及速冻春卷已有正式收录。名味按具体口味及零售数量收录，蔬菜春卷现核实的渠道仅售18袋整箱，虾肉春卷的图片冲突仍待查。大米、食用油等继续补购买与制造依据。 新增新疆特精面粉5kg、禾稻夫长粒香米5kg及天宝葵花籽油5L研究资料；面粉与油已有具名劳动A级，缺现售渠道；大米另需核实评级公示生效情况。 员工反馈研究新增芋泥麻薯、红豆蛋黄酥饼两条候选，制造者劳动依据与当前渠道待补。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -32240,7 +32699,11 @@
         "jidong-labor-2024-publicity",
         "hedaofu-longgrain5-sjz2023",
         "tianbao-sunflower5-xinjiang2021",
-        "tianbao-sunflower5-guangzhou2025-index"
+        "tianbao-sunflower5-guangzhou2025-index",
+        "pdl-kitchen-official-2026",
+        "pdl-kitchen-report-2025",
+        "pdl-kitchen-project-2022",
+        "xuchang-labor-2025-pdl"
       ]
     },
     {
@@ -32299,7 +32762,7 @@
           "query": "虾"
         }
       ],
-      "note": "生鲜13项需求现均有具体研究记录。本批增加湖北蜜桔、云南香蕉、四川葡萄、定西土豆，以及小白菜、胡萝卜、黄瓜共7款准确规格与零售入口；具体供货主体及适用劳动依据仍待核。已核独立认证机构具名GRASP历史标记，未用GLOBALG.A.P.期限续接劳动审核；张掖2025年拟评名单尚不作为最终评级。",
+      "note": "生鲜13项需求现均有具体研究记录。本批增加湖北蜜桔、云南香蕉、四川葡萄、定西土豆，以及小白菜、胡萝卜、黄瓜共7款准确规格与零售入口；具体供货主体及适用劳动依据仍待核。已核独立认证机构具名GRASP历史标记，未用GLOBALG.A.P.期限续接劳动审核；张掖2025年拟评名单尚不作为最终评级。 新增胖东来中央厨房黄豆芽、绿豆芽研究资料，生产者劳动依据与当前单品渠道待核。",
       "sourceIds": [
         "national-harmony-2022",
         "nxnk-lianhu-production-2026",
@@ -32356,7 +32819,11 @@
         "agricert-operators-globalgap-2026",
         "agricert-globalgap-current-directory",
         "yantai-yitian-lei-name",
-        "zhangye-labor-2025-proposed"
+        "zhangye-labor-2025-proposed",
+        "pdl-kitchen-official-2026",
+        "pdl-kitchen-report-2025",
+        "pdl-kitchen-project-2022",
+        "xuchang-labor-2025-pdl"
       ]
     },
     {
