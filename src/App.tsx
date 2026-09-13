@@ -71,7 +71,7 @@ const external = { target: "_blank", rel: "noopener noreferrer" } as const;
 const categoryIds = data.categories.map((c) => c.id);
 const admittedProducts = selectAdmittedProducts(data);
 const researchProducts = data.products.filter((p) => !isAdmitted(p, companyMap.get(p.companyId)!));
-const admissionLabels = { chinaSale: "大陆销售", chinaProduction: "境内生产 / 服务", productionLabor: "生产岗位劳动证据" } as const;
+const admissionLabels = { chinaSale: "大陆购买 / 使用", chinaProduction: "境内生产 / 服务", productionLabor: "生产岗位劳动证据" } as const;
 const quickSearches = [
   { label: "大米", category: "food", query: "大米", featured: true },
   { label: "面粉", category: "food", query: "面粉", featured: true },
@@ -306,7 +306,7 @@ function ProductDetail({
             </div>
             <div className="detail-actions">
               <a className="button primary" href={product.url} {...external}>
-                {isAdmitted(product, c) ? "查看购买渠道" : "查看商品资料"}
+                {isAdmitted(product, c) ? "查看渠道详情" : "查看商品资料"}
                 <ArrowUpRight size={16} />
               </a>
               <button
@@ -561,14 +561,14 @@ function Method() {
           从尊重劳动开始。
         </h1>
         <p>
-          正式目录只接受大陆可购买、境内生产或服务、生产岗位劳动条件有证据支持的商品。
+          正式目录收录大陆可购买或使用、境内生产或提供、生产岗位劳动条件有证据支持的商品与服务。
           <br className="desktop" />
           任何一项缺失，都留在独立的待核查区。
         </p>
       </div>
       <section className="method-principles">
         {[
-          ["大陆可以买到", "需要可核验的中国大陆销售渠道与对应型号；海外网页、中文介绍或品牌在华经营不能单独证明商品可购买。"],
+          ["大陆可以买到或使用", "商品需要可核验的中国大陆销售渠道与对应型号；免费公开服务需要明确的境内开放及使用方式。海外网页、中文介绍或品牌在华经营不能单独证明可购买或使用。"],
           ["中国境内生产或服务", "实体商品需有对应型号或规格的境内制造商依据。餐饮、住宿对应境内具体门店；数字商品对应境内开发及服务团队。批次差异注明适用范围。"],
           ["依据劳动法判断", "关注合同、工资、社保、工时休息与劳动保护。可核对政府守法评级、综合劳动评价和独立劳动审核；企业制度与招聘承诺单独不足以判断实际合规。"],
           [

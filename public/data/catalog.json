@@ -8343,6 +8343,42 @@
       "locator": "景区地址、开放说明与门票政策部分。",
       "summary": "页面提供洛江区马甲镇仙公山的游客信息及票务咨询入口。",
       "limitation": "页面通用全年开放说明与2026-09-01临时闭园通知不能混用；本次未以该页证明已恢复营业或存在当前可售票项。"
+    },
+    {
+      "id": "jingfa-exhibition70-beijing2026",
+      "title": "北京市珐琅厂70周年展览：2026年展期与免费票价",
+      "publisher": "首都之窗（信息来源：北京市文物局）",
+      "type": "政府展览信息",
+      "url": "https://www.beijing.gov.cn/fwcj/calendar/bwgzl/6a1d4b2fdaec8455186ed69c.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "展览名称、地点、起止时间及票价",
+      "summary": "精彩万象 七秩芳华——北京市珐琅厂建厂70周年辉煌成就展在景泰蓝艺术博物馆举办，展期2026-05-18至2026-12-15，票价免费。",
+      "limitation": "本次读取了官方网页完整公开索引；普通下载返回403后停止。页面未标注发布日期，展期与本站查阅日期不冒充发布日期；临时安排以官方公告为准。此来源证明展览可参观，不是劳动评价。"
+    },
+    {
+      "id": "jingfa-visitbeijing-appointment",
+      "title": "北京旅游网：珐琅厂具名主体、免费开放与预约说明",
+      "publisher": "北京市文化和旅游局宣传中心（北京市旅游运行监测中心）",
+      "type": "文旅服务资料",
+      "url": "https://s.visitbeijing.com.cn/appointment/97",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "珐琅厂（北京市珐琅厂有限责任公司）：景区介绍、参观须知及页脚机构",
+      "summary": "具名北京市珐琅厂有限责任公司自建景泰蓝艺术博物馆，常年免费开放9:00—16:00；团体需提前5个工作日预约，个人随时接待。",
+      "limitation": "已直接读取原始HTML。页面无发布日期，用于主体与常规接待方式对应；本次展览期限另按2026年官方展览信息，不把旧交通路线作为当前出行建议，也不据此认定劳动合规。"
+    },
+    {
+      "id": "jingfa-visitbeijing-experience-manual",
+      "title": "北京文化旅游体验基地手册：珐琅厂博物馆与服务地址",
+      "publisher": "北京旅游网",
+      "type": "文旅服务资料",
+      "url": "https://r1.visitbeijing.com.cn/vbj-s/pdf/BaseManual/BaseManual_40.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始PDF第1页公司与体验流程；第2页开放时间及地址",
+      "summary": "手册将北京市珐琅厂有限责任公司、厂区景泰蓝艺术博物馆与园区讲解对应，地址为北京市东城区永外安乐林路10号；另列需付费的技师交流和工艺体验。",
+      "limitation": "本次读取原始两页PDF的公开解析文本，文件未给出发布日期。免费展览不包含另行收费的交流、工艺体验或商店商品；手册不能证明任何具体零售制品的实际制造者。"
     }
   ],
   "companies": [
@@ -18944,6 +18980,99 @@
         }
       ],
       "nextCheck": "取得晚于2026-09-01的恢复开放公告及适用购票信息时复查销售；2026-10-13前复查劳动结果，不从通用全年开放介绍推定已经恢复。"
+    },
+    {
+      "id": "jingfa-beijing-enamel",
+      "name": "北京市珐琅厂 · 景泰蓝艺术博物馆",
+      "legalName": "北京市珐琅厂有限责任公司",
+      "location": "北京市东城区永外安乐林路10号",
+      "origin": "china",
+      "originNote": "北京创立的珐琅制造企业，本次对应其境内自建博物馆服务。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "2022年综合标准涵盖工时",
+      "restLabel": "2022年综合标准涵盖休假",
+      "cardNote": "2022年综合评价（较早资料）",
+      "scope": "北京市珐琅厂有限责任公司的2022年具名综合劳动评价；本次仅对应其景泰蓝艺术博物馆70周年免费展览。",
+      "finding": "2022年全国正式名单列该公司。文旅资料将公司与厂内博物馆对应，北京市2026年展览信息明确当前70周年展期及免费票价，可按现有规则收录这一具体服务。",
+      "caveats": [
+        "劳动依据来自2022年综合评价，2026-09-13是本站查阅日期；未取得更新的具名综合评价，不保证此后全部用工行为。",
+        "9:00—16:00是对外接待时间，不是员工实际工时或每周休息记录。",
+        "本条免费展览截至2026-12-15；团体按官方常规说明预约，临时开放安排以官方公告为准。",
+        "展览不包含另行收费的工艺体验、工厂店商品或其他商户服务；京珐品牌下的零售制品需各自对应实际制造者。"
+      ],
+      "sourceIds": [
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice",
+        "jingfa-exhibition70-beijing2026",
+        "jingfa-visitbeijing-appointment",
+        "jingfa-visitbeijing-experience-manual"
+      ],
+      "supply": [
+        {
+          "stage": "企业与场馆运营",
+          "status": "verified",
+          "detail": "官方文旅资料将博物馆建设及园区参观服务对应到北京市珐琅厂有限责任公司。",
+          "sourceIds": [
+            "jingfa-visitbeijing-appointment",
+            "jingfa-visitbeijing-experience-manual"
+          ]
+        },
+        {
+          "stage": "境内展览服务",
+          "status": "verified",
+          "detail": "70周年展览在北京厂区博物馆提供；同一运营法人的2022年综合劳动评价支持本项服务的收录，保留较早年份。",
+          "sourceIds": [
+            "jingfa-exhibition70-beijing2026",
+            "jingfa-visitbeijing-experience-manual",
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ]
+        },
+        {
+          "stage": "材料、外包与商户",
+          "status": "unknown",
+          "detail": "没有将企业评价扩展到其他商户、外包雇主或尚未对应制造者的工艺商品。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-13前核对具名劳动结果及展览安排；本次展览于2026-12-15结束，不将历史展览自动改作下一期服务。京珐F151笔筒需取得同款制造标签后再研究。",
+      "assessments": [
+        {
+          "subject": "北京市珐琅厂有限责任公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022年综合评价（较早资料）；完整审查起止日未公开",
+          "sourceId": "national-harmony-2022",
+          "limitation": "2022年正式结果适用具名用人单位；本次未取得2023—2026年更新的综合结果，不将企业员工个人表彰、文旅荣誉或本站复查日期视作新的劳动评价。",
+          "kind": "government-labor-review",
+          "resultPublishedAt": "2022-09-16",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "人力资源社会保障部、全国总工会、中国企联、全国工商联",
+          "scopeType": "employer",
+          "scope": "北京市珐琅厂有限责任公司2022年全国综合劳动评价；本次对应公司在北京厂区运营的景泰蓝艺术博物馆，不扩展至其他法人或商户。",
+          "verificationSourceId": "national-harmony-2022",
+          "basisSourceIds": [
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ]
+        }
+      ]
     }
   ],
   "products": [
@@ -31536,6 +31665,65 @@
           "assessmentSourceId": "luojiang-labor2025-result"
         }
       }
+    },
+    {
+      "id": "jingfa-70th-exhibition-free-2026",
+      "name": "珐琅厂70周年展览 · 免费参观（截至2026-12-15）",
+      "brand": "景泰蓝艺术博物馆",
+      "companyId": "jingfa-beijing-enamel",
+      "category": "culture",
+      "description": "北京景泰蓝艺术博物馆的建厂70周年展览，展示不同阶段的景泰蓝作品；2026年5月18日至12月15日免费参观。",
+      "tags": [
+        "展览",
+        "博物馆",
+        "景泰蓝",
+        "北京",
+        "免费"
+      ],
+      "needs": [
+        "展览"
+      ],
+      "url": "https://www.beijing.gov.cn/fwcj/calendar/bwgzl/6a1d4b2fdaec8455186ed69c.html",
+      "relationshipSourceIds": [
+        "jingfa-exhibition70-beijing2026",
+        "jingfa-visitbeijing-appointment",
+        "jingfa-visitbeijing-experience-manual"
+      ],
+      "market": "北京市官方展览日历确认本展免费。地点为东城区永外安乐林路10号景泰蓝艺术博物馆；文旅平台常规接待时间为9:00—16:00，个人随时接待，团体需提前5个工作日预约。出行时核对官方最新安排；收费工艺体验、技师交流及购物不包含在本项免费参观内。",
+      "relationship": "北京旅游网具名公司建设景泰蓝艺术博物馆，基地手册对应厂区讲解、博物馆与地址；北京市2026年展览日历在该馆列出公司70周年展览，作为同一境内运营服务的交叉依据。",
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "中国境内可获得的免费公开参观服务。官方资料确认具体展览、2026-05-18至2026-12-15展期和免费票价，文旅平台提供个人接待与团体预约方式。",
+          "sourceIds": [
+            "jingfa-exhibition70-beijing2026",
+            "jingfa-visitbeijing-appointment"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "北京市珐琅厂有限责任公司",
+          "detail": "服务在北京市珐琅厂位于东城区的博物馆提供；具名文旅资料将公司、场馆及园区服务对应，不以品牌名称推断其他商品的制造者。",
+          "sourceIds": [
+            "jingfa-visitbeijing-appointment",
+            "jingfa-visitbeijing-experience-manual"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "detail": "同一公司列2022年全国综合劳动评价正式名单，北京市第5项；同批标准覆盖合同、工资、社保、工时休假和劳动保护。采用已核实的历史综合结果，未写作2026年新认证。",
+          "sourceIds": [
+            "national-harmony-2022",
+            "national-harmony-2022-criteria",
+            "national-harmony-2022-final-notice"
+          ],
+          "assessmentSourceId": "national-harmony-2022"
+        }
+      }
     }
   ],
   "coverage": [
@@ -32883,9 +33071,13 @@
         {
           "label": "演出",
           "query": "演出"
+        },
+        {
+          "label": "展览",
+          "query": "展览"
         }
       ],
-      "note": "文化娱乐9项需求均有具体研究资料。正式收录石牛山成人首道门票、常州环球动漫嬉戏谷成人标准门票，均属于景区需求；新增乐园不代表图书、影视、音乐、玩具或演出已正式覆盖。字典、会员及影院等既有资料继续保留各自制造、劳动或售票缺口。 新增仙公山单人登山门票待核查资料，企业劳动和境内运营已有依据，9月1日临时闭园后的恢复与购票状态待核，未计为正式商品。",
+      "note": "文化娱乐10项需求均有具体研究资料，正式覆盖景区和展览两项。正式收录石牛山、常州环球动漫嬉戏谷成人门票，以及北京市珐琅厂70周年免费展览（截至2026-12-15）。图书、影视、音乐、玩具与演出等仍保留各自缺口；仙公山门票还缺9月1日临时闭园后的恢复与购票依据。",
       "sourceIds": [
         "national-harmony-2022",
         "vista-hiring",
@@ -32915,7 +33107,10 @@
         "xiangongshan-operation2023",
         "xiangongshan-adult-admission2025",
         "xiangongshan-closure20260901",
-        "xiangongshan-ctrip-guide"
+        "xiangongshan-ctrip-guide",
+        "jingfa-exhibition70-beijing2026",
+        "jingfa-visitbeijing-appointment",
+        "jingfa-visitbeijing-experience-manual"
       ]
     },
     {
