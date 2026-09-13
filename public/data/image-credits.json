@@ -8416,6 +8416,25 @@
       },
       "filename": "images/pinse-roll180x27.webp",
       "usage": "Attributed product illustration; product imagery is not a labor-compliance assessment."
+    },
+    {
+      "id": "goldensun-green-a4-70g-5",
+      "product_name": "绿太阳A4 70g复印纸（500张×5包）",
+      "official_source_page_url": "http://jinhuan.mqyun.com.cn/products/1316",
+      "image_url": "http://oss.mqyun.com.cn/images/0ca7ff9530f4e158a821907b04d90ddc.jpg",
+      "filename": "images/goldensun-green-a4-70g-5.webp",
+      "content_type": "image/jpeg",
+      "width": 600,
+      "height": 600,
+      "visually_verified": true,
+      "notes": "零售商展示的绿太阳A4 70g包装，图中文字确认500张/包、5包/箱。仅转换WebP格式，未修改商品外观。",
+      "reuse_info": {
+        "rights_holder": "金太阳品牌、零售图片提供者及原图相关权利人",
+        "license": "未发现开放转载许可；保留原权利人权利。",
+        "local_use": "用于注明出处的商品研究展示，不主张品牌授权或开放再许可。"
+      },
+      "sha256": "a196fb2faaa97b1bcba5d8e24cfab0b2e1213dfd6bc2d94ae6cc4841dd5d75ee",
+      "usage": "商品研究配图；不表示品牌背书或开放许可。"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 查阅日期：2026-09-13。
 
-最新批次见[蓝月亮员工反馈与鸡蛋销售对应](employee-led-cleaning-and-eggs.md)，全部批次及当前数量见[研究记录](research.md)。
+最新批次见[办公用纸与电脑岗位核对](employee-led-paper-and-electronics.md)，全部批次及当前数量见[研究记录](research.md)。
 
 后续批次见[胖东来员工反馈与食品研究](pangdonglai-employee-research.md)、[工厂体验与零售对应](factory-experience-and-retail.md)。心动同批标准现已补齐，三款国服服务正式收录，最新结果见[员工线索与游戏收录](employee-leads-and-game-admission.md)。下文保留首批发布时的记录。
 

@@ -2501,10 +2501,10 @@
       "title": "齐心 B3252 40cm 直尺直接商品资料",
       "publisher": "中盛云商（零售平台商品页）",
       "url": "https://zsemall.com/zsemall_frontend/todetail?productid=B611A4B8AFD5",
-      "summary": "直接商品页对应齐心 B3252 40cm 直尺，商品编号 B611A4B8AFD5，平台产地字段填中国。",
-      "limitation": "属于第三方销售资料，不暗示品牌授权。页面上架时间为 2021 年，现时库存和发货范围未核；平台也说明资料及实际包装可能不同，产地字段不替代当前制造背标。",
+      "summary": "直接零售页对应齐心B3252 40cm直尺，商品编号B611A4B8AFD5，列人民币售价、购买数量及支付配送说明；平台产地字段填中国。",
+      "limitation": "本次取得原页，2021年为平台上架时间；没有实测下单或实时库存。零售页面用于销售对应，平台产地字段及资料不替代实际制造企业依据。",
       "publishedAt": null,
-      "checkedAt": "2026-09-12",
+      "checkedAt": "2026-09-13",
       "locator": "商品名称、商品编号、上架时间及商品产地参数",
       "type": "大陆零售商商品资料"
     },
@@ -2538,9 +2538,9 @@
       "publisher": "荣耀中国官方商城",
       "url": "https://www.honor.com/cn/shop/product/10086616452914.html",
       "summary": "官方直接商品页列荣耀600 超级版、12GB/512GB、幸运星、双卡全网通及商品编码 10001030032906。",
-      "limitation": "本次读取的价格与库存为动态区域，未取得可售结果；不能用页面共存的购物车、到货通知或弹窗模板推断有货或下架。没有对应制造厂或设备批次信息。",
+      "limitation": "取得官方商城原页及准确配置、商品编码；价格和库存为动态信息，没有据隐藏购物车、到货通知或弹窗模板判断有货或下架。具体零售入口可支持国内销售，仍未对应制造厂。",
       "publishedAt": null,
-      "checkedAt": "2026-09-12",
+      "checkedAt": "2026-09-13",
       "locator": "商品主标题、主要参数及商品编码",
       "type": "官方商城商品资料"
     },
@@ -9459,6 +9459,102 @@
       "locator": "商品标题、750g15枚选项、起订量和自提配送说明",
       "summary": "页面提供圣迪乐谷物鲜鸡蛋15枚750g/盒，起订1盒，列全国配送及北京昌平奇点中心自提地点。",
       "limitation": "所读正文未列制造法人，不能因存在广东同规格抽检记录就推定本店货源。其他675g及30枚选项分别判断；价格、库存与配送以下单页面为准。"
+    },
+    {
+      "id": "lenovo-wuhan-operator-job592-2021",
+      "title": "联想武汉一线操作工：2021年工时与休假自述",
+      "publisher": "职朋职业圈用户",
+      "type": "员工个人陈述",
+      "url": "https://www.job592.com/pay/wd/0nqvyoi1p6p.html",
+      "publishedAt": "2021-08-24",
+      "checkedAt": "2026-09-13",
+      "locator": "2021-08-24 13:01:32发布，岗位为1线操作工、地点武汉的回答",
+      "summary": "该用户描述两班制、周日通常不加班以及年假；同时表示收入依赖加班。",
+      "limitation": "读取原平台公开索引中的具日期回答，身份和劳动合同法人未独立核实。2021年经历不冒充现状；未给每班实际工时，不计算周工时，也不对应到联宝或现有电脑型号。"
+    },
+    {
+      "id": "sunpaper-employee-job592",
+      "title": "山东太阳纸业：工程师、电工及一线工人的不同经历",
+      "publisher": "职朋职业圈用户；平台汇编",
+      "type": "员工个人陈述",
+      "url": "https://www.job592.com/pay/daiyu/171750.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "仪表电气工程师、电工及一线工人的工作时间和加班补偿回答",
+      "summary": "工程师称通常准时下班、偶尔加班；电工称轮休、准时下班但没有加班补助；另一名一线工人称有加班补助并存在夜间或节假日加班。",
+      "limitation": "所读为原平台公开索引，个人身份、经历日期和厂区未独立核实。专题更新时间不是各条经历时间；电工重复段落只算一次，听同学朋友说的操作工回答不计亲历，不采用跨岗位投票比例判断全公司。"
+    },
+    {
+      "id": "sunpaper-copy-paper-official",
+      "title": "太阳纸业官方静电复印纸产品资料",
+      "publisher": "太阳纸业官方网站",
+      "type": "企业产品资料",
+      "url": "https://www.sunpapergroup.com/chanpinyufuwu/305.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "静电复印纸产品页及品牌图片",
+      "summary": "官网列金太阳、威尔、太阳乐等复印纸品牌，提供产品系列图，可用于品牌与产品类别对应。",
+      "limitation": "已取得完整HTML并查看系列图片。网站页脚属于山东太阳控股集团，品牌介绍不等于每款纸的实际制造企业，也不证明劳动条件。"
+    },
+    {
+      "id": "goldensun-green-a4-70g-jinhuan",
+      "title": "金太阳绿太阳A4 70g复印纸五包装：南通零售资料",
+      "publisher": "南通金环工贸有限公司商城",
+      "type": "大陆零售商商品资料",
+      "url": "http://jinhuan.mqyun.com.cn/products/1316",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "商品1316，商品编号c408b87a；标题、规格、包装图片及销售地区",
+      "summary": "商品页列绿太阳A4 70g、210×297mm、五包装，图片确认每包500张，人民币含税报价120元；销售地区明确为江苏省南通市，由南通金环发货和提供服务。",
+      "limitation": "读取HTTP原页并查看图片，HTTPS证书主机名不匹配，使用实际可读的HTTP资料链接。仅确认南通国内销售资料，未测试结算，不承诺全国配送或实时库存。正文未具名制造厂，不把店铺当作制造企业。"
+    },
+    {
+      "id": "goldensun-a4-70g-procurement2025",
+      "title": "内蒙古林草局采购合同：金太阳A4 70g及制造认证附件线索",
+      "publisher": "内蒙古自治区政府采购网",
+      "type": "政府采购合同",
+      "url": "https://ccgp-neimenggu.gov.cn/uploader/upload/commoninfo/2025/10/11/1760147400618_7780.pdf?accessCode=acfbc2e458bed026341e1fa3ef07393d2f13b46b0476f2c0d5cf964500978e98e0e5bb67bc2eabf444b26cf7877979364f1e1a6493b33a99d4d7bcb325b21e57a60dc92694dc5fe7c9412904ba22f8f566d0496d4603c731879c2d4125778b65",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "PDF第3页第2项；金太阳A4、70g、500张/包，证书编号及查看附件链接",
+      "summary": "合同记录金太阳A4 70g、500张/包，产地广西，引用CEC2024ELP05425503，并链接广西太阳纸业的环境标志证书。",
+      "limitation": "已下载并查看完整相关页。合同未写绿太阳五包装；所列D65亮度101.6与证书附件的≤90范围不同，未把采购引用视为该零售款已完成制造认证对应。历史采购也不单独证明当前个人零售。"
+    },
+    {
+      "id": "sunpaper-guangxi-cec2024-copy",
+      "title": "广西太阳纸业复印纸环境标志证书：生产企业及规格",
+      "publisher": "中环联合（北京）认证中心；内蒙古政府采购平台保存附件",
+      "type": "产品认证目录",
+      "url": "https://www.ccgp-neimenggu.gov.cn/gpfa-uploader/gpfa/upload/common/2025/2/15/59368674170360043.pdf",
+      "publishedAt": "2024-04-18",
+      "checkedAt": "2026-09-13",
+      "locator": "CEC2024ELP05425503，PDF第1页生产企业；第2—3页36项注册商标及规格",
+      "summary": "证书委托人、生产者和生产企业均为广西太阳纸业有限公司，厂址为北海市铁山港区海丝大道东路888号；附件列70g、75g、80g等复印纸规格。",
+      "limitation": "已读3页原附件并逐页查看。2024-04-08发证、04-18换证，标示有效期至2029-04-07；未独立查询当前保持状态。证书只作制造线索，不作劳动审核，注册商标和具体零售包装还需对应。"
+    },
+    {
+      "id": "sunpaper-guangxi-harmony2024-lead",
+      "title": "广西太阳纸业2024年北海劳动关系和谐单位通知线索",
+      "publisher": "HR业务通政策目录；非政府发布原站",
+      "type": "政策转载",
+      "url": "https://m12333.cn/policy/beihai.aspx?tag=201",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "目录中的广西太阳纸业等五家单位认定通知，标示2024-11-18",
+      "summary": "公开索引目录具名列出广西太阳纸业获北海市2024年劳动关系和谐单位认定的通知，可用于定位后续政府原文。",
+      "limitation": "只取得第三方目录标题与标示日期，原页返回验证限制；未读认定正文、等级和同批完整标准，不虚构原文链接或把目录视为已核实综合结果。"
+    },
+    {
+      "id": "sunpaper-guangxi-365-hiring",
+      "title": "广西太阳纸业招聘企业介绍：北海厂址与休息线索",
+      "publisher": "广西太阳纸业有限公司在北海365招聘网的企业介绍",
+      "type": "招聘平台企业自述",
+      "url": "https://www.365zhaopin.com/web/companyDetail?id=43571",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "企业介绍、福利待遇、休息休假及公司地址",
+      "summary": "企业自述北海市AAAAA级劳动关系和谐单位，招聘介绍列每月休息6—8天、五险一金和年假，地址与产品证书的北海法人相符。",
+      "limitation": "读取公开索引，资料发布日期未知。这是企业招聘陈述，不是员工经历或政府结果原件；五星和劳动守法A级不是同一制度，不凭招聘称号作准入结论。"
     }
   ],
   "companies": [
@@ -12300,9 +12396,9 @@
       "restDays": null,
       "hoursLabel": "具体工时制度待补",
       "restLabel": "具体休息安排待补",
-      "cardNote": "有办公室体验 · 工厂待遇待核",
-      "scope": "品牌商品及2024年办公室个人经历；尚未对应具体制造工厂劳动条件。",
-      "finding": "2024年牛客个人经历提供弹性工作及休假线索；所列电脑还需制造法人依据，不能把办公室或商城主体套到生产工厂。",
+      "cardNote": "办公室与一线岗位分别记录",
+      "scope": "2024年办公室个人经历及2021年武汉一线操作工经历；均未对应现有电脑的实际制造法人。",
+      "finding": "除办公室体验外，补入武汉操作工的两班制、休假和收入依赖加班线索。岗位、地点和年份分别保留，仍需将具体电脑型号与制造雇主及适用劳动依据对应。",
       "caveats": [
         "商品介绍不证明劳动条件。",
         "不同工厂、门店、加盟商和外包岗位不能套用同一安排。",
@@ -12311,7 +12407,8 @@
       "sourceIds": [
         "lenovo-xiaoxin-product",
         "lenovo-tianyi510s-90xs0075cd-product",
-        "lenovo-office-nowcoder-2024"
+        "lenovo-office-nowcoder-2024",
+        "lenovo-wuhan-operator-job592-2021"
       ],
       "supply": [
         {
@@ -12323,8 +12420,10 @@
         {
           "stage": "生产或门店服务",
           "status": "unknown",
-          "detail": "实际制造或服务雇主及适用的劳动依据仍待对应。",
-          "sourceIds": []
+          "detail": "已找到2021年武汉操作工经历；实际签约法人、当前电脑型号的制造企业及适用劳动依据仍待对应。",
+          "sourceIds": [
+            "lenovo-wuhan-operator-job592-2021"
+          ]
         },
         {
           "stage": "原料、外包与物流",
@@ -12344,6 +12443,14 @@
           "roleScope": "办公室工作；账号标签为硬件产品经理，具体城市、劳动合同法人及工厂未公开",
           "summary": "自述弹性工作、约10点上班、18:30办公室已较少有人，有双休和带薪假期。",
           "limitation": "身份未经独立核实，正文来自公开索引。这是办公室经历，不能推定联宝等制造工厂相同；午休和实际出勤未知，不据时刻计算周工时。"
+        },
+        {
+          "sourceId": "lenovo-wuhan-operator-job592-2021",
+          "kind": "firsthand",
+          "period": "自述2021年经历；2021-08-24发布，具体任职起止日未公开",
+          "roleScope": "联想武汉1线操作工自述；实际签约法人、厂区和产品线未公开",
+          "summary": "描述两班制、周日通常不加班及年假，同时表示收入依赖加班。",
+          "limitation": "原平台公开索引中的个人陈述，身份未独立核实。缺少每班实际时长，不计算周工时，不套用于联宝或当前在售电脑。"
         }
       ]
     },
@@ -21222,6 +21329,91 @@
           "limitation": "身份及经历日期未核。同一QE账号不同回答合并保留，不能当成多名独立员工，也不能用办公室或质量岗位推定全部生产工人的安排。"
         }
       ]
+    },
+    {
+      "id": "sunpaper-office-employee-lead",
+      "name": "太阳纸业（办公用纸线索）",
+      "legalName": "山东太阳纸业股份有限公司；广西复印纸制造法人另行核对",
+      "location": "山东员工平台线索；广西北海复印纸制造线索",
+      "origin": "china",
+      "originNote": "太阳纸业中国品牌；具体纸款制造法人另核，不能按品牌推定所有生产环节在境内。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "岗位工时反馈有差异",
+      "restLabel": "轮休与年假线索",
+      "cardNote": "员工经历先行 · 区分制造法人",
+      "scope": "山东太阳纸业平台员工经历、复印纸品牌及广西制造企业资料；不把山东母公司结果移给广西或生活用纸子公司。",
+      "finding": "工程师有准时下班体验，电工与一线工人的加班补偿描述不同。沿公司产品查到具体复印纸零售款及广西制造认证；广西劳动认定目前只取得第三方目录线索，尚未正式收录。",
+      "caveats": [
+        "个人经历时期、身份和具体厂区未独立核实；不同岗位的反馈保留差异，不挑选正面回答作为全厂结论。",
+        "山东太阳纸业股份有限公司、山东太阳生活用纸有限公司、广西太阳纸业有限公司是不同法人；山东员工经历和2022年命名不直接覆盖后两者。",
+        "2025年集团报告披露四班三运转，每8天上6天休2天；未按单一轮班描述推定违法，也未把集团制度当作全部岗位实际出勤。",
+        "采购合同引用广西认证，但合同与证书部分参数不一致，且未写明绿太阳五包装；当前纸款制造对应仍保留缺口。"
+      ],
+      "sourceIds": [
+        "sunpaper-employee-job592",
+        "sunpaper-copy-paper-official",
+        "goldensun-green-a4-70g-jinhuan",
+        "goldensun-a4-70g-procurement2025",
+        "sunpaper-guangxi-cec2024-copy",
+        "sunpaper-guangxi-harmony2024-lead",
+        "sunpaper-guangxi-365-hiring",
+        "sunpaper-esg-2025",
+        "national-harmony-2022",
+        "national-harmony-2022-criteria",
+        "national-harmony-2022-final-notice"
+      ],
+      "supply": [
+        {
+          "stage": "员工工作体验",
+          "status": "unknown",
+          "detail": "仪表电气工程师、电工及一线工人的休息与加班补偿陈述分别记录；尚未核实经历日期及厂区。",
+          "sourceIds": [
+            "sunpaper-employee-job592"
+          ]
+        },
+        {
+          "stage": "具体复印纸制造",
+          "status": "unknown",
+          "detail": "广西认证已具名生产企业；采购记录未注明绿太阳包装，部分认证参数不同，不能替代所选零售款制造标签。",
+          "sourceIds": [
+            "goldensun-a4-70g-procurement2025",
+            "sunpaper-guangxi-cec2024-copy"
+          ]
+        },
+        {
+          "stage": "制造企业劳动依据",
+          "status": "unknown",
+          "detail": "广西2024年认定仅取得第三方目录线索和招聘自述，正式通知及评价标准待补；不借用山东母公司的2022年结果。",
+          "sourceIds": [
+            "sunpaper-guangxi-harmony2024-lead",
+            "sunpaper-guangxi-365-hiring"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "取得北海2024年具名认定原文及同批标准，或新的独立劳动资料后继续；另需绿太阳A4 70g五包装的清晰制造标签或同包装型号制造记录。没有新链接时不重复第三方目录和泛称A级搜索。",
+      "employeeFeedback": [
+        {
+          "sourceId": "sunpaper-employee-job592",
+          "kind": "firsthand",
+          "period": "个人经历和发帖日期未公开；2026-09读取平台汇编的公开索引",
+          "roleScope": "山东太阳纸业股份有限公司名下的仪表电气工程师、电工及一线工人自述；实际厂区和签约法人未独立核实",
+          "summary": "工程师称通常准时下班、偶尔加班；电工称轮休、准时下班但没有加班补助；另一名一线工人称有加班补助和夜间、节假日加班。",
+          "limitation": "各岗位不能互相代表。重复段落去重，明确自称听同学朋友说的回答未计亲历，投票比例未作全公司结论；这些记录不直接覆盖广西子公司。"
+        }
+      ],
+      "assessments": [
+        {
+          "subject": "山东太阳纸业股份有限公司",
+          "result": "全国和谐劳动关系创建示范企业",
+          "period": "2022年命名；完整审查起止日未公开",
+          "sourceId": "national-harmony-2022",
+          "limitation": "保留山东法人的具名正式记录；未用其支持未对应制造厂的复印纸，也不转授广西或生活用纸子公司。"
+        }
+      ]
     }
   ],
   "products": [
@@ -23403,7 +23595,7 @@
         "product-honor-600",
         "honor-600-shop"
       ],
-      "market": "已补官方商城 12GB/512GB 具体配置和商品编码，动态价格、可售状态与地区配送仍待核。",
+      "market": "荣耀中国官方商城已有12GB/512GB幸运星配置及商品编码10001030032906的直接零售入口；动态价格、库存和配送以下单页面为准。",
       "relationship": "官方产品页链接到同款商城记录，已核容量及商品编码；现有配图为官网产品宣传图，制造地仍须对应设备批次。",
       "image": "images/honor-600.webp",
       "imageMode": "contain",
@@ -23411,8 +23603,8 @@
       "imageRights": "HONOR 及相关权利人",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已补官方商城 12GB/512GB 具体配置和商品编码，动态价格、可售状态与地区配送仍待核。",
+          "status": "supported",
+          "detail": "荣耀中国官方商城已有12GB/512GB幸运星配置及商品编码10001030032906的直接零售入口；动态价格、库存和配送以下单页面为准。",
           "sourceIds": [
             "honor-600-shop",
             "product-honor-600"
@@ -26066,7 +26258,7 @@
         "comix-b3252-procurement-2022",
         "comix-b3252-zsemall"
       ],
-      "market": "中盛云商列同型号 40cm 直尺，现时库存和地区配送待核；不暗示该平台获得品牌授权。",
+      "market": "中盛云商具体商品页列齐心B3252 40cm直尺，提供人民币售价、购买数量和支付配送说明；价格、库存和实际配送以商家为准。",
       "relationship": "历史采购合同和零售页均对应齐心 B3252，产地仅为地区字段，未锁定当前制造法人。",
       "image": "images/comix-b3252-ruler40.webp",
       "imageMode": "contain",
@@ -26074,8 +26266,8 @@
       "imageRights": "齐心COMIX品牌、中盛云商商品页提供方及原图相关权利人；确切图片著作权法人未核实",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "有大陆直接零售资料和 2022 年采购记录，当前库存与实际可配送范围仍待核。",
+          "status": "supported",
+          "detail": "中盛云商具体商品页列齐心B3252 40cm直尺，提供人民币售价、购买数量和支付配送说明；价格、库存和实际配送以商家为准。",
           "sourceIds": [
             "comix-b3252-zsemall",
             "comix-b3252-procurement-2022"
@@ -26700,7 +26892,7 @@
         "hkc-g27h2max-manual",
         "hkc-g27h2max-jd"
       ],
-      "market": "已找到准确型号的官方说明书与京东人民币报价；当前地区可售、销售法人和供货批次待核。 主图宣传标价不代表当前报价。",
+      "market": "已取得京东G27H2Max具体国内零售资料，列人民币报价和购买入口；价格与地区配送以平台为准，主图宣传标价不作当前报价。",
       "relationship": "说明书确认销售型号 G27H2Max 与惠科股份有限公司；实际整机装配厂和面板供应商尚未对应。",
       "image": "images/hkc-g27h2max.webp",
       "imageMode": "contain",
@@ -26708,8 +26900,8 @@
       "imageRights": "HKC及商品宣传图相关权利人；京东公开展示，具体图片著作权主体未单独确认",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "已找到准确型号的官方说明书与京东人民币报价；当前地区可售、销售法人和供货批次待核。 主图宣传标价不代表当前报价。",
+          "status": "supported",
+          "detail": "已取得京东G27H2Max具体国内零售资料，列人民币报价和购买入口；价格与地区配送以平台为准，主图宣传标价不作当前报价。",
           "sourceIds": [
             "hkc-g27h2max-jd",
             "hkc-g27h2max-manual"
@@ -28998,7 +29190,7 @@
       "relationshipSourceIds": [
         "lenovo-tianyi510s-90xs0075cd-product"
       ],
-      "market": "中国官网已有对应货号的配置页；实时价格与库存待核，不将页面通用模板当作在售或停售结论。",
+      "market": "联想中国官方商城直接商品页对应货号90XS0075CD及i5-14400、16GB、512GB配置；动态价格、库存和配送以下单页面为准。",
       "relationship": "联想中国商城商品1052505明确对应货号90XS0075CD；同系列的显示器套装和其他CPU配置不并入本条。",
       "image": "images/lenovo-tianyi510s-90xs0075cd.webp",
       "imageMode": "contain",
@@ -29006,8 +29198,8 @@
       "imageRights": "联想及相关图片权利人",
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "中国官网已核货号与配置，当前购买入口是否可用尚未确认。",
+          "status": "supported",
+          "detail": "联想中国官方商城直接商品页对应货号90XS0075CD及i5-14400、16GB、512GB配置；动态价格、库存和配送以下单页面为准。",
           "sourceIds": [
             "lenovo-tianyi510s-90xs0075cd-product"
           ]
@@ -34622,6 +34814,61 @@
           ]
         }
       }
+    },
+    {
+      "id": "goldensun-green-a4-70g-5",
+      "name": "绿太阳A4 70g复印纸（500张×5包）",
+      "brand": "金太阳",
+      "companyId": "sunpaper-office-employee-lead",
+      "category": "stationery",
+      "description": "白色复印纸，210×297mm、70g/㎡，每包500张、每箱5包；绿太阳包装。",
+      "tags": [
+        "复印纸",
+        "A4",
+        "70g",
+        "办公"
+      ],
+      "needs": [
+        "复印纸"
+      ],
+      "url": "http://jinhuan.mqyun.com.cn/products/1316",
+      "relationshipSourceIds": [
+        "sunpaper-copy-paper-official",
+        "goldensun-green-a4-70g-jinhuan"
+      ],
+      "market": "南通金环商城列出具体五包装，销售地区为江苏省南通市；价格、库存与配送以商家下单信息为准。",
+      "relationship": "官网确认金太阳复印纸品牌，零售页对应绿太阳五包装；广西认证和采购记录尚未准确对应本包装的制造企业。",
+      "image": "images/goldensun-green-a4-70g-5.webp",
+      "imageMode": "contain",
+      "imageSource": "http://oss.mqyun.com.cn/images/0ca7ff9530f4e158a821907b04d90ddc.jpg",
+      "imageRights": "金太阳品牌、南通金环商品页提供方及相关图片权利人；确切著作权法人未单独核实",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "南通零售商具名展示A4 70g、500张×5包规格，提供人民币报价及购货数量选项；销售区域限定南通，不承诺全国配送或实时有货。",
+          "sourceIds": [
+            "goldensun-green-a4-70g-jinhuan"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "找到广西太阳纸业的复印纸认证及同品牌A4 70g采购记录，但合同未写绿太阳五包装、部分参数与证书不一致；需对应本款制造标签或同包装型号的可靠记录。",
+          "sourceIds": [
+            "goldensun-a4-70g-procurement2025",
+            "sunpaper-guangxi-cec2024-copy",
+            "goldensun-green-a4-70g-jinhuan"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "广西2024年劳动关系和谐认定目前仅有第三方目录线索，尚缺正式结果及标准；山东母公司的员工反馈和2022年结果不直接覆盖广西工厂。",
+          "sourceIds": [
+            "sunpaper-guangxi-harmony2024-lead",
+            "sunpaper-guangxi-365-hiring",
+            "sunpaper-employee-job592"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -35527,7 +35774,7 @@
           "query": "对讲机"
         }
       ],
-      "note": "13项数码细分需求均已有具体型号资料。BF-888S经典款单只装已对应国内零售、中国产地及同一制造法人的2025年度劳动A级，成为数码类首项正式收录。手机、电脑等其余需求仍需继续核查；对讲机不替代这些需求。A1383已对应国内零售和东莞制造商，劳动依据仍待补。 本轮新增联想办公室个人经历，未套用于电脑制造工厂。 罗技苏州已建立2025年RBA银级审核线索档案，独立查验、具体劳动结果与零售型号待对应，未新增正式数码商品。",
+      "note": "13项数码细分需求均已有具体型号资料。BF-888S经典款单只装已对应国内零售、中国产地及同一制造法人的2025年度劳动A级，成为数码类首项正式收录。手机、电脑等其余需求仍需继续核查；对讲机不替代这些需求。A1383已对应国内零售和东莞制造商，劳动依据仍待补。 本轮新增联想办公室个人经历，未套用于电脑制造工厂。 罗技苏州已建立2025年RBA银级审核线索档案，独立查验、具体劳动结果与零售型号待对应，未新增正式数码商品。 补入联想武汉2021年操作工经历；荣耀600、联想天逸510S及HKC显示器已有具体国内零售资料，制造和劳动项仍各自待核。",
       "sourceIds": [
         "apple-rcc-job",
         "anker-2024",
@@ -35553,7 +35800,8 @@
         "rba-recognition-faq2025",
         "rba-public-audit-validation",
         "logitech-fy26-nonfinancial-suzhou",
-        "logitech-suzhou-government2023"
+        "logitech-suzhou-government2023",
+        "lenovo-wuhan-operator-job592-2021"
       ]
     },
     {
@@ -35699,7 +35947,7 @@
           "query": "打印机"
         }
       ],
-      "note": "11项办公学习需求均有具体研究资料，尚无正式收录。新增卡拉羊CX5052、24L书包的零售入口，但官网两家生产企业尚未与本款对应。晨光K35与经典高品乐A4 70g五包箱装已有国内销售和具名制造依据，制造企业劳动评价仍待补；其余文具、打印机各自核对。",
+      "note": "11项办公学习需求均有具体研究资料，尚无正式收录。新增卡拉羊CX5052、24L书包的零售入口，但官网两家生产企业尚未与本款对应。晨光K35与经典高品乐A4 70g五包箱装已有国内销售和具名制造依据，制造企业劳动评价仍待补；其余文具、打印机各自核对。 新增绿太阳A4 70g五包装及南通销售范围，制造认证尚未与具体包装对应；齐心B3252国内销售资料已补足，不再以未知实时库存阻止销售项通过。",
       "sourceIds": [
         "deli-campus-2025",
         "simao-production-hiring-2025",
@@ -35720,7 +35968,11 @@
         "mg-k35-jd-retail",
         "mg-k35-muping-production-2025",
         "caarany-official-production",
-        "caarany-cx5052-youzan"
+        "caarany-cx5052-youzan",
+        "sunpaper-employee-job592",
+        "goldensun-green-a4-70g-jinhuan",
+        "sunpaper-guangxi-cec2024-copy",
+        "sunpaper-guangxi-harmony2024-lead"
       ]
     },
     {
