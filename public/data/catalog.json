@@ -11247,6 +11247,163 @@
       "locator": "同一商品卡：TN140A2、D2000、16G/512G、2G独显、14英寸、试用版银河麒麟/统信；商品号100233667299",
       "summary": "公开商品条目将上述具体型号配置与独立京东商品号对应，提供国内购买入口；另一个京东电脑栏目也返回同一商品号和配置。",
       "limitation": "属于零售商资料，不代表已核实品牌授权；系统明确标注试用版，正式授权及常用软件兼容性需向销售方确认。价格、配送与实际供货以下单页为准。"
+    },
+    {
+      "id": "fotile-sa8000-2026",
+      "title": "宁波方太SA8000认证及多场所业务记录",
+      "publisher": "Social Accountability International",
+      "url": "https://sa-intl.org/sa8000-search/",
+      "type": "社会责任认证记录",
+      "locator": "搜索FOTILE；记录9025；Bureau Veritas CN058586；公开详情HO、SITE 1、SITE 2",
+      "summary": "具名NINGBO FOTILE KITCHEN WARE CO., LTD，状态Certified，2026-01-12首次及最新认证，2029-01-11截止。业务明确包含厨电制造，HO和SITE 1制造、SITE 2销售；登记地址滨海六路1266号。",
+      "limitation": "动态目录未公开完整审核期间，也未逐一列出各分场所地址。登记地址不能直接当作每款商品的生产厂址；认证有效与具体商品适用范围分别判断。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "issuedAt": "2026-01-12"
+    },
+    {
+      "id": "sai-bv-accreditation2026",
+      "title": "Bureau Veritas的SA8000认可范围",
+      "publisher": "Social Accountability International",
+      "url": "https://sa-intl.org/it/resources/bureau-veritas-certification/",
+      "type": "认证机构认可资料",
+      "locator": "Geographic Scope；Current Period of Accreditation；正文Updated June 30, 2026",
+      "summary": "认可地域包括中国，当前认可周期2023-02-01至2027-01-31，覆盖SA8000:2014认证服务。",
+      "limitation": "此页核验发证机构资格，不是方太的现场报告，也不提供方太分场所地址。页面更新日与初次公布日不同。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-factory-layout2023",
+      "title": "方太第二工业园项目安全验收及实际厂区说明",
+      "publisher": "浙江圣泰安全技术有限公司",
+      "url": "https://www.zjsuntex.com/information-disclosure/safety-assessment-report/report-2023-2430.html",
+      "type": "制造场所原始资料",
+      "locator": "2023年安全评价报告；被评价单位及简介",
+      "summary": "评价机构列明宁波方太厨具有限公司：滨海六路1266号为总部园区，滨海二路218号及滨海六路66号承担厨电生产，另有玉海东路68号电控车间。",
+      "limitation": "2023年的项目资料用于区分总部和工厂，不能证明2026年每款型号的实际厂址，也不是综合劳动合规审核。",
+      "publishedAt": "2023-08-14",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-worker-interview2017",
+      "title": "方太车间工人回顾2017年的工作经历",
+      "publisher": "浙江在线",
+      "url": "https://zjnews.zjol.com.cn/zjnews/zjxw/201801/t20180104_6246622.shtml",
+      "type": "员工媒体采访",
+      "locator": "2018-01-04报道；2013年入职的水槽打磨车间员工回顾2017年",
+      "summary": "受访员工描述除尘、空调和休息空间改善，并表示收入提高、工作压力减轻，有更多家庭时间。",
+      "limitation": "历史具名采访，未独立核对劳动合同主体及厂区；不推断2026年所有生产岗位的实际工时。",
+      "publishedAt": "2018-01-04",
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-workers-job592",
+      "title": "方太历史品管与业务岗位匿名反馈",
+      "publisher": "职朋职业圈",
+      "url": "https://www.job592.com/pay/com26376201.html",
+      "type": "员工公开投稿",
+      "locator": "真人分享：2019年7月品管OQC；2021年7月业务岗位",
+      "summary": "品管投稿称下班准时、加班有补助；业务投稿提到五险一金及补贴，同时反映底薪偏低、承诺薪资未兑现。",
+      "limitation": "本次读取公开搜索索引中的完整条目，原站直连未成功；投稿身份、合同雇主及厂址未独立核实。两条来自同一聚合页，不按两个独立来源计数；薪资问题为投稿者陈述。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-csr2025",
+      "title": "方太集团2025年社会责任报告",
+      "publisher": "方太集团",
+      "url": "https://www.fotile.com/webstatic/Public/Home/img/brand/social_report2025.pdf",
+      "type": "企业社会责任披露",
+      "locator": "官网社会责任栏目原件；PDF第3、14—16、35—36页",
+      "summary": "集团披露劳动合同、社保、休假、劳动保护及员工培训制度，报告范围包含厨电和全屋定制业务。",
+      "limitation": "企业自述，集团范围不等于宁波方太单一法人；培训时数未说明是否在工作时间内，不据此断言存在无偿加班，也不将制度承诺作为独立劳动结论。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-z8t-official",
+      "title": "方太CXW-358-03-Z8T不带罩款官方型号页",
+      "publisher": "方太",
+      "url": "https://www.fotile.com/product/13238.html",
+      "type": "品牌产品资料",
+      "locator": "产品名称、技术参数及产品说明书链接",
+      "summary": "官方产品页明确CXW-358-03-Z8T不带罩款，并提供同型号原始说明书。",
+      "limitation": "03-Z8T与无03前缀的Z8T不混用；页面不独立证明实际生产厂区。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-z8t-manual2026",
+      "title": "方太03-Z8T原始使用说明书",
+      "publisher": "宁波方太厨具有限公司",
+      "url": "https://hslibrary.oss-cn-shanghai.aliyuncs.com/CXW-358-03-Z8T%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A61783669106937.pdf",
+      "type": "制造企业产品原件",
+      "locator": "官网13238产品页直接链接；PDF第1页，2026.5.D5版",
+      "summary": "封面列CXW-358-03-Z8T及宁波方太厨具有限公司，企业地址为宁波前湾新区滨海六路1266号。",
+      "limitation": "仅公开版本年月，未编造具体公布日。企业联系地址不等于实际装配工厂；原件不属于劳动认证。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-z8t-jd",
+      "title": "方太03-Z8T不带罩单机京东具体条目",
+      "publisher": "京东",
+      "url": "https://www.jd.com/tupian/73722161d7606b684bb.html?electedExtAttrSet=4717%2C&extAttrValue=expand_name%2C%4078418%3A%3A4717&sort_type=sort_good_desc",
+      "type": "国内零售资料",
+      "locator": "同一卡片CXW-358-03-Z8T（不带罩）；独立商品号10232225115545",
+      "summary": "公开HTML将03-Z8T不带罩油烟机与独立购买入口对应。",
+      "limitation": "仅证明该规格国内零售入口；价格、安装及配送范围以下单页为准，不保证即时库存。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-z8t-suning",
+      "title": "方太03-Z8T的境内产地与制造商零售参数",
+      "publisher": "苏宁易购",
+      "url": "https://m.suning.com/product/0071601960/12448204425.html",
+      "type": "零售制造信息",
+      "locator": "主体型号、产地；特性生产者（制造商）名称",
+      "summary": "参数列CXW-358-03-Z8T，产地中国浙江宁波市，生产者为宁波方太厨具有限公司。",
+      "limitation": "属于零售商制造信息，未提供具体装配厂址；与官网部分性能参数不一致，本次不采用这些性能数字。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-hecb-official",
+      "title": "方太JZT-03-HECB-12T官方型号页",
+      "publisher": "方太",
+      "url": "https://www.fotile.com/product/13413.html",
+      "type": "品牌产品资料",
+      "locator": "产品名称JZT-03-HECB-12T及技术参数",
+      "summary": "官方型号明确天然气12T版本，属于嵌入式双眼燃气灶。",
+      "limitation": "同页系列参数含其他气源，产品记录仅选12T天然气版本；产品页不独立证明实际工厂。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-hecb-suning",
+      "title": "方太JZT-03-HECB天然气灶零售及制造信息",
+      "publisher": "苏宁易购",
+      "url": "https://m.suning.com/product/0000000000/12272415204.html",
+      "type": "国内零售及制造资料",
+      "locator": "商品标题、型号、天然气12T、产地及生产者字段",
+      "summary": "所选条目为JZT-03-HECB天然气12T双眼灶，参数列中国浙江宁波市和宁波方太厨具有限公司。",
+      "limitation": "不同店铺使用同一尾号可能有旧标题，本次仅据该准确URL及所选型号；不采用与官网不一致的尺寸，配送安装和供货以下单页为准。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
+    },
+    {
+      "id": "fotile-vp10-max-suning",
+      "title": "方太02-B-VP10 MAX洗碗机具体零售条目",
+      "publisher": "苏宁易购",
+      "url": "https://m.suning.com/product/0000000000/12444402040.html",
+      "type": "国内零售资料",
+      "locator": "商品标题18套MAX；型号JBCD7E-02-B-VP10；产地及颜色",
+      "summary": "该条目为JBCD7E-02-B-VP10嵌入式洗碗机，标题18套、参数白色，产地标为中国浙江宁波市。",
+      "limitation": "没有具名实际制造商字段，未用官网不含B的02-VP10资料代替；实际生产企业和厂区继续核对，价格配送以下单页为准。",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14"
     }
   ],
   "companies": [
@@ -24997,6 +25154,126 @@
         }
       ],
       "nextCheck": "优先寻找具体国内零售货号、相应制造资料及近期一线员工反馈；2026-10-14前复核认证状态。无新线索时不重复相同搜索。"
+    },
+    {
+      "id": "fotile-ningbo",
+      "name": "方太 · 宁波厨电",
+      "legalName": "宁波方太厨具有限公司",
+      "location": "浙江宁波前湾新区；总部与生产厂区分别核对",
+      "origin": "china",
+      "originNote": "中国境内厨电制造企业；国内生产岗位是调查对象，不据厂址推断每位工人的国籍。",
+      "level": "audit",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "历史岗位有准时下班反馈",
+      "restLabel": "当前产线排班未公开",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "cardNote": "认证有效 · 商品适用厂区待对应",
+      "scope": "SAI记录包含HO、SITE 1厨电制造与SITE 2销售；各分场所完整厂址尚未对应。",
+      "finding": "SA8000有效记录和发证机构资格已独立核实，保存历史一线采访及匿名正反反馈。三款厨电先保留具体候选，待补认证分场所与实际工厂的对应。",
+      "caveats": [
+        "登记地址1266号在实际项目资料中是总部园区，不能替代218号、66号等生产厂区。",
+        "2017年工人采访及2019年品管反馈有积极经历；2021年业务投稿也反映承诺薪资未兑现，均保留年份、岗位和未核雇主范围。",
+        "集团社会责任报告是制度披露，不作为当前所有产线实际执行的独立证明。",
+        "洗碗机所选型号含02-B，未把不含B的官网款混用。"
+      ],
+      "sourceIds": [
+        "fotile-sa8000-2026",
+        "sai-bv-accreditation2026",
+        "fotile-factory-layout2023",
+        "fotile-worker-interview2017",
+        "fotile-workers-job592",
+        "fotile-csr2025",
+        "fotile-z8t-official",
+        "fotile-z8t-manual2026",
+        "fotile-z8t-jd",
+        "fotile-z8t-suning",
+        "fotile-hecb-official",
+        "fotile-hecb-suning",
+        "fotile-vp10-max-suning"
+      ],
+      "assessments": [
+        {
+          "kind": "independent-labor-audit",
+          "conclusion": "unresolved",
+          "subject": "宁波方太厨具有限公司",
+          "sourceId": "fotile-sa8000-2026",
+          "result": "认证状态Certified；各制造分场所与商品对应仍待解决",
+          "period": "2026-01-12认证结果；完整审核起止日未公开",
+          "resultIssuedAt": "2026-01-12",
+          "reviewedAt": "2026-09-14",
+          "reviewDueAt": "2026-10-14",
+          "validUntil": "2029-01-11",
+          "status": "current",
+          "issuer": "Bureau Veritas Certification",
+          "scopeType": "facility",
+          "facility": "SAI记录9025的HO及SITE 1（完整厂址对应未明）",
+          "verificationSourceId": "fotile-sa8000-2026",
+          "basisSourceIds": [
+            "sai-standard2014-original",
+            "sai-transition2026-timeline",
+            "sai-bv-accreditation2026"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ],
+          "scope": "记录包含厨电制造、设计及销售；HO、SITE 1制造，SITE 2销售。",
+          "limitation": "认证有效已核实；未将仅公开的登记地址充当实际厂址。unresolved表示商品适用范围尚未确认，不表示认证无效或企业违法。"
+        }
+      ],
+      "employeeFeedback": [
+        {
+          "sourceId": "fotile-worker-interview2017",
+          "kind": "interview",
+          "period": "2017年工作回顾，2018-01-04发表",
+          "roleScope": "水槽打磨车间员工；合同法人及厂区未独立核实",
+          "summary": "受访工人描述作业环境、收入与家庭时间改善。",
+          "limitation": "历史媒体采访不能代表当前各工厂、各岗位的工时和休息。"
+        },
+        {
+          "sourceId": "fotile-workers-job592",
+          "kind": "firsthand",
+          "period": "2019年7月品管投稿；2021年7月业务投稿",
+          "roleScope": "匿名品管OQC及业务岗位；具体合同雇主与厂区未核实",
+          "summary": "品管投稿称下班准时且加班有补助；业务投稿提及五险一金，同时反映底薪和承诺工资兑现问题。",
+          "limitation": "经公开索引读取同一聚合页，两岗位不计为两个独立来源。身份及事实未独立核实，不将投稿直接作为法律结论。"
+        }
+      ],
+      "supply": [
+        {
+          "stage": "宁波厨电制造",
+          "status": "policy",
+          "detail": "原始项目资料确认多处生产厂区；油烟机和燃气灶零售参数对应宁波方太，具体装配厂址待补。",
+          "sourceIds": [
+            "fotile-factory-layout2023",
+            "fotile-z8t-manual2026",
+            "fotile-z8t-suning",
+            "fotile-hecb-suning"
+          ]
+        },
+        {
+          "stage": "制造场所劳动依据",
+          "status": "unknown",
+          "detail": "认证有效已核，但HO及SITE 1的完整厂址未对应，不据同一品牌直接适用于所有商品。",
+          "sourceIds": [
+            "fotile-sa8000-2026",
+            "sai-bv-accreditation2026"
+          ]
+        },
+        {
+          "stage": "零部件及外包物流",
+          "status": "unknown",
+          "detail": "作为补充调查信息，不设置逐人或全供应链资料齐备的额外门槛。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "仅在取得认证分场所附表、原始厂址对应或新的具体制造资料后继续该路径；2026-10-14前复查认证状态，期间转向其他未覆盖需求。"
     }
   ],
   "products": [
@@ -40096,6 +40373,170 @@
           ]
         }
       }
+    },
+    {
+      "id": "fotile-03-z8t-hood",
+      "name": "CXW-358-03-Z8T油烟机 · 不带罩单机",
+      "brand": "方太",
+      "companyId": "fotile-ningbo",
+      "category": "appliances",
+      "description": "具体型号含03前缀，选择不带罩单机；官网、原始说明书与京东准确条目交叉核对。",
+      "tags": [
+        "油烟机",
+        "方太",
+        "hood"
+      ],
+      "needs": [
+        "油烟机"
+      ],
+      "url": "https://item.jd.com/10232225115545.html",
+      "market": "已对应具体国内零售入口，供货、配送和安装以下单页为准。",
+      "relationship": "官网与2026年原始说明书确认03-Z8T；零售制造商字段对应宁波方太。具体装配厂区未确定。",
+      "relationshipSourceIds": [
+        "fotile-z8t-jd",
+        "fotile-z8t-official",
+        "fotile-z8t-manual2026",
+        "fotile-z8t-suning"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "所列购买入口与具体型号一致。",
+          "sourceIds": [
+            "fotile-z8t-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "宁波方太厨具有限公司",
+          "detail": "零售参数标注宁波生产及宁波方太制造商，结合具名原始说明书与实际厨电制造业务支持境内制造判断；未确定具体装配厂区。",
+          "sourceIds": [
+            "fotile-z8t-suning",
+            "fotile-z8t-manual2026",
+            "fotile-factory-layout2023"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "宁波方太认证有效已核，但HO、SITE 1的厂址尚未与实际生产场所对应；不以总部地址替代，暂不正式收录。",
+          "sourceIds": [
+            "fotile-sa8000-2026",
+            "fotile-factory-layout2023",
+            "sai-bv-accreditation2026"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fotile-03-hecb-12t",
+      "name": "JZT-03-HECB燃气灶 · 天然气12T",
+      "brand": "方太",
+      "companyId": "fotile-ningbo",
+      "category": "appliances",
+      "description": "嵌入式双眼天然气灶，所选12T气源；购买前按官网安装说明核对家庭气源与开孔。",
+      "tags": [
+        "燃气灶",
+        "方太",
+        "12t"
+      ],
+      "needs": [
+        "燃气灶"
+      ],
+      "url": "https://m.suning.com/product/0000000000/12272415204.html",
+      "market": "已对应具体国内零售入口，供货、配送和安装以下单页为准。",
+      "relationship": "苏宁所选JZT-03-HECB及12T气源与官网准确型号对应，零售生产者为宁波方太；其他气源不混用。",
+      "relationshipSourceIds": [
+        "fotile-hecb-suning",
+        "fotile-hecb-official"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "所列购买入口与具体型号一致。",
+          "sourceIds": [
+            "fotile-hecb-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "宁波方太厨具有限公司",
+          "detail": "零售资料明确宁波产地及宁波方太制造商，官方型号与公司实际燃气灶制造业务交叉对应；具体装配厂址待补。",
+          "sourceIds": [
+            "fotile-hecb-suning",
+            "fotile-hecb-official",
+            "fotile-factory-layout2023"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "宁波方太认证有效已核，但HO、SITE 1的厂址尚未与实际生产场所对应；不以总部地址替代，暂不正式收录。",
+          "sourceIds": [
+            "fotile-sa8000-2026",
+            "fotile-factory-layout2023",
+            "sai-bv-accreditation2026"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fotile-vp10-max-dishwasher",
+      "name": "VP10 MAX洗碗机 · JBCD7E-02-B-VP10",
+      "brand": "方太",
+      "companyId": "fotile-ningbo",
+      "category": "appliances",
+      "description": "苏宁所列18套嵌入式洗碗机，参数为白色；型号中的02-B完整保留。",
+      "tags": [
+        "洗碗机",
+        "方太",
+        "dishwasher"
+      ],
+      "needs": [
+        "洗碗机"
+      ],
+      "url": "https://m.suning.com/product/0000000000/12444402040.html",
+      "market": "已对应具体国内零售入口，供货、配送和安装以下单页为准。",
+      "relationship": "已对应完整型号及国内零售入口，页面标注宁波产地；尚未独立对应具名制造企业，不借不含B的02-VP10型号资料。",
+      "relationshipSourceIds": [
+        "fotile-vp10-max-suning"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "所列购买入口与具体型号一致。",
+          "sourceIds": [
+            "fotile-vp10-max-suning"
+          ]
+        },
+        "chinaProduction": {
+          "status": "pending",
+          "detail": "零售参数标注中国浙江宁波，但未列具名实际制造商；需补该完整型号的制造资料，不仅凭品牌套用公司档案。",
+          "sourceIds": [
+            "fotile-vp10-max-suning",
+            "fotile-factory-layout2023"
+          ]
+        },
+        "productionLabor": {
+          "status": "pending",
+          "detail": "宁波方太认证有效已核，但HO、SITE 1的厂址尚未与实际生产场所对应；不以总部地址替代，暂不正式收录。",
+          "sourceIds": [
+            "fotile-sa8000-2026",
+            "fotile-factory-layout2023",
+            "sai-bv-accreditation2026"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -41192,7 +41633,7 @@
           "query": "除湿机"
         }
       ],
-      "note": "14项家电需求均有研究资料，冰箱、洗衣机、除湿机3项已有正式商品。新增三星RF50DG55513GSC冰箱501L与WW10DG5U24AWSC洗衣机10kg，共用苏州制造企业的最终5A级劳动结果，并注明当前为零售存量；其余11项需求仍待正式覆盖。NWT威镫WDH312ENW1除湿机原收录保持，松下XQG100-E176的制造和员工资料已对应，劳动依据仍待补。",
+      "note": "14项家电需求均有研究资料，冰箱、洗衣机、除湿机3项已有正式商品。新增三星RF50DG55513GSC冰箱501L与WW10DG5U24AWSC洗衣机10kg，共用苏州制造企业的最终5A级劳动结果，并注明当前为零售存量；其余11项需求仍待正式覆盖。NWT威镫WDH312ENW1除湿机原收录保持，松下XQG100-E176的制造和员工资料已对应，劳动依据仍待补。 方太油烟机、天然气灶和洗碗机新增具体候选，认证分场所与实际工厂对应待补，未增加正式覆盖。",
       "sourceIds": [
         "bsh-code",
         "anker-2025",
@@ -41235,7 +41676,12 @@
         "samsung-ww10dg5u24awsc-shanghai2025",
         "samsung-ww10dg5u24awsc-jd",
         "samsung-china-appliance-sales2026",
-        "suzhou-labor2021-2022-final"
+        "suzhou-labor2021-2022-final",
+        "fotile-sa8000-2026",
+        "fotile-factory-layout2023",
+        "fotile-z8t-jd",
+        "fotile-hecb-suning",
+        "fotile-vp10-max-suning"
       ]
     },
     {
