@@ -10170,15 +10170,15 @@
     },
     {
       "id": "suzhou-labor2021-2022-final",
-      "title": "中粮东海2021—2022年度劳动保障3A级正式结果",
+      "title": "苏州2021—2022年度劳动保障信誉最终结果：中粮东海、苏州金记",
       "publisher": "苏州市人力资源和社会保障局、苏州市社会信用体系建设领导小组办公室",
       "url": "https://www.suzhou.gov.cn/szsrmzf/bmwj/202312/fb542a977d564a3b83c9fa56fa2fba69.shtml",
       "type": "政府评价",
       "publishedAt": "2023-12-27",
       "checkedAt": "2026-09-13",
-      "locator": "苏人保监〔2023〕14号，2023-12-22成文；原始DOCX附件3A级部分“张家港市（26家）”中粮东海条目",
-      "summary": "最终决定及原始附件将中粮东海粮油工业（张家港）有限公司列入2021—2022年度苏州市劳动保障3A级信誉单位。",
-      "limitation": "已读政府正文与DOCX具名条目；完整审查起止日、企业分项评审表未公开取得。不是2026年新评价；较新的2023—2024年度4A级目前取得公示，未冒充最终授予。"
+      "locator": "苏人保监〔2023〕14号，2023-12-22成文；原始DOCX附件3A级张家港市中粮东海、4A级吴中区第4个苏州金记条目",
+      "summary": "最终决定及原始附件具名中粮东海粮油工业（张家港）有限公司为3A级、苏州金记食品有限公司为4A级，均属2021—2022年度苏州市劳动保障信誉单位。",
+      "limitation": "已读政府正文、DOCX等级标题和具名条目；完整审查起止日、企业分项表未公开取得。不是2026年新评价；2023—2024年度两家4A级目前取得拟评定公示，未冒充最终授予。"
     },
     {
       "id": "suzhou-labor-review2024-notice",
@@ -10194,14 +10194,14 @@
     },
     {
       "id": "suzhou-labor2023-2024-publicity",
-      "title": "中粮东海2023—2024年度4A级拟评定公示",
+      "title": "苏州2023—2024年度拟评定公示：中粮东海、苏州金记4A级",
       "publisher": "苏州市人力资源和社会保障局",
       "url": "https://hrss.suzhou.gov.cn/jsszhrss/gsgg/202512/a0b593234ebe47dca84ad412f356ccab.shtml",
       "type": "政府拟评价公示",
       "publishedAt": "2025-12-15",
       "checkedAt": "2026-09-13",
-      "locator": "原始DOC附件4A级部分“张家港市（6家）”，第5个中粮东海；公示期2025-12-16至12-22",
-      "summary": "该次991家拟评定单位的附件同时列5A、4A、3A和2A；中粮东海位于4A级部分。",
+      "locator": "原始DOC附件4A级部分：张家港市6家第5个中粮东海、吴中区23家第4个苏州金记；公示期2025-12-16至12-22",
+      "summary": "该次991家拟评定单位附件列5A、4A、3A和2A；中粮东海和苏州金记均位于4A级部分。",
       "limitation": "已读取原始DOC及完整等级标题；正文明确为拟评定，尚未取得这轮最终授予文件，因此不把4A作为正式收录的劳动结果。"
     },
     {
@@ -10239,6 +10239,90 @@
       "locator": "公开列表“福临门非转基因黄金产地玉米油 植物油 5L”及“黄金产地压榨玉米油…5L*1桶”具体条目",
       "summary": "可读取黄金产地玉米油5L单桶条目及对应商品链接，支持大陆个人零售渠道。",
       "limitation": "同页还有5.43L、5.68L、多桶及粮油组合，未混为本款；地区库存及成交价未验证，不将页面评论数作为质量或劳动证据，销售页没有独立披露实际发货厂。"
+    },
+    {
+      "id": "jinji-csr2024",
+      "title": "苏州金记2024年度社会责任报告",
+      "publisher": "苏州金记食品有限公司",
+      "url": "https://www.jjfood.com.cn/nd.jsp?id=807",
+      "type": "企业社会责任披露",
+      "publishedAt": "2025-02-26",
+      "checkedAt": "2026-09-13",
+      "locator": "报告范围、公司简介、员工权益；报告期2024-01-01至2024-12-31",
+      "summary": "报告具名苏州金记及双祺路3号、田上江路202号，说明豆制品和植物蛋白饮料生产业务、老相食品牌，以及合同、薪酬、加班结算、社保和职业健康安排。",
+      "limitation": "企业自行披露，不能冒充独立审核或员工本人反馈。报告另列供应链及豆腐文化子公司，劳动结果不自动覆盖这些其他法人；未公开各岗位实际工时。"
+    },
+    {
+      "id": "jinji-production-overtime2022",
+      "title": "金记2022年保供生产报道",
+      "publisher": "苏州金记食品有限公司",
+      "url": "https://www.jjfood.com.cn/nd.jsp?fromMid=3&groupId=2&id=523",
+      "type": "企业新闻",
+      "publishedAt": "2022-04-06",
+      "checkedAt": "2026-09-13",
+      "locator": "疫情保供期间生产与配送段落",
+      "summary": "公司报道保供期间员工加班赶制豆制品及夜间配送，说明不能将本企业描述为零加班。",
+      "limitation": "属于2022年特殊时期的企业报道，未给具体时长、加班费或当前安排；不能据此直接作违法结论，也不是独立员工自述。"
+    },
+    {
+      "id": "jinji-five145-brand",
+      "title": "老相食五香豆干145g厂家产品资料",
+      "publisher": "苏州金记食品有限公司在食品招商网发布",
+      "url": "https://www.spzs.com/chanpin/6963150.html",
+      "type": "企业产品披露",
+      "publishedAt": "2022-02-24",
+      "checkedAt": "2026-09-13",
+      "locator": "产品规格、产品说明及发布企业；更新时间2022-02-24 16:44:43",
+      "summary": "企业具名发布老相食五香豆干145g/袋，说明厂家直销及48袋外箱；用于核对品牌、单袋规格与制造关系。",
+      "limitation": "已读普通HTTP正文。属于企业自行提供的招商信息，不能单独作为个人购买入口；48袋招商外箱不当成京东两袋零售包装。"
+    },
+    {
+      "id": "jinji-five145-wuxi2024",
+      "title": "食品抽检原表：苏州金记五香豆干145克",
+      "publisher": "无锡市食品安全检验检测中心公开附件",
+      "url": "https://www.wxifc.org.cn/upload/portal/20250115/44168f49254c0b4b78e79bf6628fa661.pdf",
+      "type": "食品检验机构公开原表",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "附件3合格产品信息，第1页表头、第148页第1839项；已目视完整原页",
+      "summary": "第1839项标称苏州金记食品有限公司生产五香豆干145克/袋，厂址为苏州吴中经济开发区双祺路3号，生产日期/批号2024-08-12，被抽样单位为丹阳客客乐超市。",
+      "limitation": "原表未设品牌栏，需与厂家老相食同名同规格资料组合；文件路径日期不当作公告日期。食品抽检用于制造对应，不作为劳动评价或所有批次质量保证。"
+    },
+    {
+      "id": "jinji-five145x2-jd",
+      "title": "京东老相食五香豆干145g两袋零售条目",
+      "publisher": "京东",
+      "url": "https://www.jd.com/jiage/131865d6126d6b4b0f5b.html",
+      "type": "零售商商品页",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "普通HTTP正文中145g*2袋五香豆干，对应item.jd.com/10219522310450.html",
+      "summary": "读取到老相食五香豆干145g×2袋及其具体商品链接，支持大陆个人零售入口。",
+      "limitation": "搜索缓存与普通HTTP列表不同，本次以实际取得的HTTP条目为准。同页五香白干及6袋、10袋规格未混用；未核实时库存和实际发货厂。"
+    },
+    {
+      "id": "jinji-fivegrain250-official",
+      "title": "金记官网五谷豆奶及250mL包装",
+      "publisher": "苏州金记食品有限公司",
+      "url": "https://www.jjfood.com.cn/pd.jsp?recommendFromPid=0&id=70&fromMid=521",
+      "type": "企业产品页",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "五谷豆奶产品页及原包装图ABUIABACGAAgxfKlyAUo5Knb9QMwkAM47wM.jpg",
+      "summary": "金记官网列出五谷豆奶，原包装图可读老相食、谷加谷、五谷豆奶和净含量250mL，与该公司植物蛋白饮料生产披露对应。",
+      "limitation": "已读官网正文并目视包装正面；正面未展示制造地址。境内制造根据具名企业的产品页和生产报告综合判断，未把仅写豆奶饮品的其他抽检记录当成本口味的直接证明。"
+    },
+    {
+      "id": "jinji-fivegrain250x30-jd",
+      "title": "京东老相食五谷豆奶250mL整箱入口",
+      "publisher": "京东",
+      "url": "https://www.jd.com/xinghao/1320eb92f27deec174b1.html",
+      "type": "零售商商品页",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公开网页第467行附近，老相食五谷豆奶箱装250ml*30及对应商品链接",
+      "summary": "京东公开网页可读老相食五谷豆奶250mL×30袋条目，支持大陆个人零售渠道。",
+      "limitation": "本次通过公开网页读取该条目，普通HTTP没有取得相同商品正文，未宣称完成下单或验证库存。同页其他品牌、10袋和40袋包装不属于本款。"
     }
   ],
   "companies": [
@@ -22908,6 +22992,105 @@
           "issuer": "苏州市人力资源和社会保障局、苏州市社会信用体系建设领导小组办公室",
           "scopeType": "employer",
           "scope": "中粮东海粮油工业（张家港）有限公司的劳动保障综合评价；同一信用体系覆盖劳动合同、工资和加班费、社保、工时、休息及劳动保护。",
+          "verificationSourceId": "suzhou-labor2021-2022-final",
+          "basisSourceIds": [
+            "suzhou-labor-review2022-notice",
+            "suzhou-labor-review2022-form",
+            "suzhou-labor-review2024-notice"
+          ],
+          "coverage": [
+            "contracts",
+            "pay",
+            "insurance",
+            "hours",
+            "rest",
+            "protection"
+          ],
+          "limitation": "最终政府结果结合该信用体系的复查标准作综合判断；2022原始复查表明确六类权益，后续通知沿用基本标准。未公开完整审查起止日及企业分项结果，不补造个人工时。本站复核日期不是政府证书期限；2025年4A级拟评定另记，未作最终结果。"
+        }
+      ]
+    },
+    {
+      "id": "jinji-suzhou",
+      "name": "老相食（苏州金记）",
+      "legalName": "苏州金记食品有限公司",
+      "location": "江苏省苏州市吴中区双祺路3号、田上江路202号",
+      "origin": "china",
+      "originNote": "苏州创立的老相食品牌，本档案对应金记制造法人；不把原料来源和每名员工国籍从境内制造事实中推定。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "具体工时未公开",
+      "restLabel": "具体休息安排未公开",
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "cardNote": "2021—2022年度4A级 · 豆干与豆奶",
+      "scope": "苏州金记制造的老相食五香豆干145g和五谷豆奶250mL；只对应本法人，不自动覆盖经销商及其他子公司。",
+      "finding": "先检索脉脉等员工和岗位资料，未取得适用的一手经历；随后核到2021—2022年度最终4A级及较近的企业披露，以同一制造主体对应两款国内零售商品。",
+      "caveats": [
+        "劳动依据为2023-12-27公布的2021—2022年度正式4A级，2026年查阅不改变评价年份。2025-12-15的2023—2024年度4A级仅记录为拟评定。",
+        "2024年度劳动制度为企业自述；2022年保供报道存在加班，未披露时长和费用，不宣传零加班，也不直接据此认定违法。",
+        "豆干依据同名同规格食品原表与厂家资料；豆奶依据官网准确包装与企业生产报告综合对应，证据形式不同，均保留其范围。",
+        "商品限本法人制造版本；劳动评价不自动借给金记供应链、豆腐文化公司、加盟门店及其他品牌产品。"
+      ],
+      "sourceIds": [
+        "suzhou-labor2021-2022-final",
+        "suzhou-labor-review2022-notice",
+        "suzhou-labor-review2022-form",
+        "suzhou-labor-review2024-notice",
+        "suzhou-labor2023-2024-publicity",
+        "jinji-csr2024",
+        "jinji-production-overtime2022",
+        "jinji-five145-brand",
+        "jinji-five145-wuxi2024",
+        "jinji-fivegrain250-official"
+      ],
+      "supply": [
+        {
+          "stage": "豆制品与植物蛋白饮料制造",
+          "status": "verified",
+          "detail": "具名苏州金记劳动结果与两款产品制造资料对应；豆奶的制造判断含企业自行披露，详见商品说明。",
+          "sourceIds": [
+            "suzhou-labor2021-2022-final",
+            "jinji-five145-wuxi2024",
+            "jinji-fivegrain250-official",
+            "jinji-csr2024"
+          ]
+        },
+        {
+          "stage": "合同与加班安排",
+          "status": "policy",
+          "detail": "2024报告自述合同、薪酬、加班结算及社保安排，未取得具体岗位实际工时。",
+          "sourceIds": [
+            "jinji-csr2024",
+            "jinji-production-overtime2022"
+          ]
+        },
+        {
+          "stage": "原料、物流与加盟店",
+          "status": "unknown",
+          "detail": "供应商和独立经销法人劳动资料未逐一核实；这些补充信息不作为所有商品统一的额外门槛。",
+          "sourceIds": [
+            "jinji-csr2024"
+          ]
+        }
+      ],
+      "nextCheck": "2026-10-13前复核本法人近期员工经历、较新最终评价和新产品关系；已有公司依据用于对应其他自产商品，避免同一主体重复调查。",
+      "assessments": [
+        {
+          "kind": "government-labor-review",
+          "subject": "苏州金记食品有限公司",
+          "sourceId": "suzhou-labor2021-2022-final",
+          "result": "2021—2022年度苏州市劳动保障4A级信誉单位",
+          "period": "2021—2022年度；2023-12-27公布，完整审查起止日未公开",
+          "resultPublishedAt": "2023-12-27",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-13",
+          "status": "current",
+          "conclusion": "supported",
+          "issuer": "苏州市人力资源和社会保障局、苏州市社会信用体系建设领导小组办公室",
+          "scopeType": "employer",
+          "scope": "苏州金记食品有限公司的劳动保障综合评价；结合该信用体系的合同、薪酬、社保、工时、休息和劳动保护标准判断。",
           "verificationSourceId": "suzhou-labor2021-2022-final",
           "basisSourceIds": [
             "suzhou-labor-review2022-notice",
@@ -37230,6 +37413,116 @@
           ]
         }
       }
+    },
+    {
+      "id": "laoxiangshi-five-spice-tofu145x2",
+      "name": "五香豆干145g×2袋",
+      "brand": "老相食",
+      "companyId": "jinji-suzhou",
+      "category": "food",
+      "description": "可用于炒菜和配餐的五香豆干。",
+      "tags": [
+        "豆干",
+        "豆制品"
+      ],
+      "needs": [
+        "豆干"
+      ],
+      "url": "https://item.jd.com/10219522310450.html",
+      "relationshipSourceIds": [
+        "jinji-five145-brand",
+        "jinji-five145-wuxi2024",
+        "jinji-five145x2-jd"
+      ],
+      "market": "京东公开列表的145g×2袋五香豆干及直接商品链接；五香白干、6袋及10袋包装另属其他选项。未核实地区库存或单次发货厂。",
+      "relationship": "厂家资料具名老相食五香豆干145g，原始食品抽检表第148页第1839项列同名同规格及苏州金记双祺路3号。结合国内两袋零售条目判断，仅对应本法人制造版本。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "以商品名称展示，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东公开列表的145g×2袋五香豆干及直接商品链接；五香白干、6袋及10袋包装另属其他选项。未核实地区库存或单次发货厂。",
+          "sourceIds": [
+            "jinji-five145x2-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "苏州金记食品有限公司",
+          "detail": "厂家资料具名老相食五香豆干145g，原始食品抽检表第148页第1839项列同名同规格及苏州金记双祺路3号。结合国内两袋零售条目判断，仅对应本法人制造版本。",
+          "sourceIds": [
+            "jinji-five145-brand",
+            "jinji-five145-wuxi2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "suzhou-labor2021-2022-final",
+          "detail": "苏州金记2021—2022年度4A级最终结果，2023-12-27公布；结合劳动保障信用体系的六类权益标准支持收录。较新的4A级公示未当作最终结果，本站2026-10-13前复核。",
+          "sourceIds": [
+            "suzhou-labor2021-2022-final",
+            "suzhou-labor-review2022-form",
+            "suzhou-labor2023-2024-publicity"
+          ]
+        }
+      }
+    },
+    {
+      "id": "laoxiangshi-fivegrain-soymilk250x30",
+      "name": "五谷豆奶250mL×30袋",
+      "brand": "老相食",
+      "companyId": "jinji-suzhou",
+      "category": "drinks",
+      "description": "谷物与大豆制成的袋装植物蛋白饮料。",
+      "tags": [
+        "豆奶",
+        "植物蛋白饮料"
+      ],
+      "needs": [
+        "豆奶"
+      ],
+      "url": "https://www.jd.com/xinghao/1320eb92f27deec174b1.html",
+      "relationshipSourceIds": [
+        "jinji-fivegrain250-official",
+        "jinji-csr2024",
+        "jinji-fivegrain250x30-jd"
+      ],
+      "market": "京东公开网页具名老相食五谷豆奶箱装250mL×30袋，具有商品链接；同页其他品牌与规格未混用，库存及配送地区以零售页为准。",
+      "relationship": "金记官网原包装可读老相食五谷豆奶250mL，结合具名法人在苏州从事植物蛋白饮料生产的报告作综合制造判断。包装正面未写厂址，未伪装成独立逐款制造认证；范围限苏州金记制造版本。",
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "以商品名称展示，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东公开网页具名老相食五谷豆奶箱装250mL×30袋，具有商品链接；同页其他品牌与规格未混用，库存及配送地区以零售页为准。",
+          "sourceIds": [
+            "jinji-fivegrain250x30-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "苏州金记食品有限公司",
+          "detail": "金记官网原包装可读老相食五谷豆奶250mL，结合具名法人在苏州从事植物蛋白饮料生产的报告作综合制造判断。包装正面未写厂址，未伪装成独立逐款制造认证；范围限苏州金记制造版本。",
+          "sourceIds": [
+            "jinji-fivegrain250-official",
+            "jinji-csr2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "suzhou-labor2021-2022-final",
+          "detail": "苏州金记2021—2022年度4A级最终结果，2023-12-27公布；结合劳动保障信用体系的六类权益标准支持收录。较新的4A级公示未当作最终结果，本站2026-10-13前复核。",
+          "sourceIds": [
+            "suzhou-labor2021-2022-final",
+            "suzhou-labor-review2022-form",
+            "suzhou-labor2023-2024-publicity"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -37379,9 +37672,13 @@
         {
           "label": "包子",
           "query": "包子"
+        },
+        {
+          "label": "豆干",
+          "query": "豆干"
         }
       ],
-      "note": "粮油食品36项需求均有具体研究记录，其中16项已有正式商品。新收录中粮东海制造的福临门非转基因一级大豆油5L和黄金产地玉米油5L，补上大豆油、玉米油；保留制造对应的综合判断及2021—2022年度劳动评价年份。学子膳黑椒柳条1kg已有制造及劳动资料，个人零售入口仍待补。",
+      "note": "粮油食品37项需求均有研究记录，其中17项已有正式商品。本轮补入此前遗漏的豆干需求，收录苏州金记制造的老相食五香豆干145g×2袋；原有大豆油、玉米油等范围及评价年份保留。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -37521,7 +37818,10 @@
         "suzhou-labor2023-2024-publicity",
         "fulinmen-corn5l-beijing2024",
         "fulinmen-golden-corn2023-maker",
-        "fulinmen-corn5l-jd-retail"
+        "fulinmen-corn5l-jd-retail",
+        "jinji-five145-brand",
+        "jinji-five145-wuxi2024",
+        "jinji-five145x2-jd"
       ]
     },
     {
@@ -37703,7 +38003,7 @@
           "query": "汽水"
         }
       ],
-      "note": "饮料酒水12项需求均有研究资料，7项已有正式商品：牛奶、酸奶、饮用水、啤酒、白酒、冲调饮品、汽水。新收录卫岗1928鲜牛奶950mL和原味酸牛奶1.5kg×2桶，共用南京法人2022年综合劳动评价，保留较早年份及各款制造范围；其他5项仍待补齐。",
+      "note": "饮料酒水12项需求均有研究资料，8项已有正式商品。新收录老相食五谷豆奶250mL×30袋，首次补上豆奶；制造对应使用官网准确包装与苏州金记生产披露，劳动依据为2021—2022年度最终4A级。",
       "sourceIds": [
         "national-harmony-2022",
         "weigang-yogurt1500",
@@ -37756,7 +38056,11 @@
         "weigang-milk1928-950-fbif",
         "weigang-milk1928-950-label",
         "weigang-milk1928-950-nanjing2025",
-        "weigang-production-hiring-rest"
+        "weigang-production-hiring-rest",
+        "jinji-fivegrain250-official",
+        "jinji-fivegrain250x30-jd",
+        "jinji-csr2024",
+        "suzhou-labor2021-2022-final"
       ]
     },
     {
