@@ -1,28 +1,33 @@
 name: 劳动资料补充与纠正
-description: 补充商品、企业工作安排或供应链的公开证据
+description: 先推荐有员工反馈的公司，也可补充具体商品和劳动资料
 title: "[资料补充] "
 body:
   - type: input
     id: subject
     attributes:
-      label: 商品与企业主体
-      description: 品牌、型号、企业法人、工作地点与岗位
+      label: 公司或商品线索
+      description: 可以只提供公司名及已知岗位、地点；已有商品时再补品牌、型号和生产企业。
     validations:
       required: true
   - type: textarea
     id: sources
     attributes:
       label: 原始来源
-      description: 提供公开链接、发布日期、相关段落或 PDF 页码
+      description: 提供公开员工帖子、采访、制度或其他资料链接，以及发布日期、相关段落或 PDF 页码。
     validations:
       required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: 员工反馈的范围
+      description: 是亲身经历、媒体采访、转载还是内推介绍？涉及什么时期、岗位和工作地点？有无不同员工的相反反馈？未知可留空。
   - type: textarea
     id: domestic
     attributes:
       label: 大陆购买与中国生产依据
-      description: 提供具体型号、批次的大陆购买入口，以及生产商、厂址或境内服务门店来源。品牌国别不能替代产地证据。
+      description: 已找到商品时再提供具体购买入口，以及生产商、厂址或境内服务来源。公司线索可先留空。
     validations:
-      required: true
+      required: false
   - type: textarea
     id: schedule
     attributes:

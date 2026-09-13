@@ -37,7 +37,7 @@ import {
   laborEvidenceLabel,
   laborTopics,
 } from "./catalog.mjs";
-import type { Catalog, Product, Source, Filters, EvidenceLevel } from "./types";
+import type { Catalog, Product, Source, Filters, EvidenceLevel, EmployeeFeedback } from "./types";
 
 const data = rawData as Catalog;
 const BASE = import.meta.env.BASE_URL;
@@ -253,6 +253,7 @@ function ProductDetail({
   const sources = [
     ...new Set([
       ...c.sourceIds,
+      ...(c.employeeFeedback || []).map((feedback) => feedback.sourceId),
       ...(c.assessments || []).flatMap((a) => [a.sourceId, ...(a.basisSourceIds || []), ...(a.verificationSourceId ? [a.verificationSourceId] : [])]),
       ...product.relationshipSourceIds,
       ...Object.values(product.admission).flatMap((check) => check.sourceIds),
@@ -383,6 +384,7 @@ function ProductDetail({
                   <dd>{laborAssessment.coverage.map(topic => laborTopics[topic]).join("、")}</dd>
                 </div>}
               </dl>
+              <EmployeeExperiences feedback={c.employeeFeedback} />
               <h3 className="minor-title">仍然需要看清的部分</h3>
               <ul className="caveats">
                 {c.caveats.map((t) => (
@@ -446,7 +448,7 @@ function ProductDetail({
           {tab === "sources" && (
             <>
               <p className="help-text">
-                逐条区分政府评价、独立审核、企业自述、招聘承诺和产品资料。查阅日期不等于证据覆盖期。
+                逐条区分员工经历、转载或招聘线索、政府评价、独立审核、企业制度和产品资料。查阅日期不等于证据覆盖期。
               </p>
               <div className="source-list">
                 {sources.map((s) => (
@@ -550,6 +552,27 @@ function ProductCard({
     </article>
   );
 }
+function EmployeeExperiences({ feedback }: { feedback?: EmployeeFeedback[] }) {
+  if (!feedback?.length) return null;
+  const labels = { firsthand: "本人陈述", interview: "媒体采访", repost: "转载经历", referral: "内推介绍" };
+  return (
+    <section className="employee-feedback" aria-label="员工工作体验线索">
+      <h3>员工怎么说</h3>
+      {feedback.map((item) => {
+        const source = sourceMap.get(item.sourceId)!;
+        return (
+          <article key={item.sourceId}>
+            <div className="feedback-meta"><span>{labels[item.kind]}</span><span>发布于 {source.publishedAt || "日期未公开"}</span></div>
+            <p className="feedback-scope">{item.period} · {item.roleScope}</p>
+            <p>{item.summary}</p>
+            <p className="feedback-limit">{item.limitation}</p>
+            <a href={source.url} {...external}>阅读原始反馈<ArrowUpRight size={13} /></a>
+          </article>
+        );
+      })}
+    </section>
+  );
+}
 function Method() {
   return (
     <div className="document-page">
@@ -566,6 +589,11 @@ function Method() {
           任何一项缺失，都留在独立的待核查区。
         </p>
       </div>
+      <section className="method-section text-section">
+        <h2>先听员工怎么说，再找这家公司的商品。</h2>
+        <p>先从脉脉、牛客等职场社区和员工采访中寻找公司线索，关注实际加班、休息、加班费、工资和社保。记录反馈时间、岗位及工作地点，区分亲身经历、转载和内推宣传，并核对不同员工的正面反馈与问题反馈。</p>
+        <p>筛出值得继续了解的公司后，再查具体生产企业或服务团队、产品和大陆购买渠道。有适用劳动依据的同一主体可以对应多款商品，无需每款重复研究公司；不同工厂、代工商品和关联公司分别核对。不加班是寻找线索的方向，收录仍依据劳动法要求。</p>
+      </section>
       <section className="method-principles">
         {[
           ["大陆可以买到或使用", "商品需要可核验的中国大陆销售渠道与对应型号；免费公开服务需要明确的境内开放及使用方式。海外网页、中文介绍或品牌在华经营不能单独证明可购买或使用。"],
@@ -644,7 +672,7 @@ function Method() {
       <section className="method-section text-section">
         <h2>什么样的证据值得保留？</h2>
         <p>
-          从具体生产企业查起，同时查看政府评价、独立审核及公开劳动资料。政府最终评价保留所列法人和时期；独立审核核对原始报告或可查验的发证记录、核验机构与适用工厂。上市公司制度和招聘用于补充，不能自动升级为实际合规结论。
+          员工反馈先帮助我们确定调查对象，保留具体经历和适用范围；同一帖子被多次转载只算一条线索。再结合企业公开制度、政府评价、独立审核和相反资料交叉核对。政府最终评价保留所列法人和时期；独立审核核对原始报告或可查验的发证记录、核验机构与适用工厂。
         </p>
         <p>
           每条记录包含资料主体、发布日期、查阅日期、适用范围和例外。所有收录依据设置本站复核日期；证书还核对其有效截止日。到期未复核的商品回到待核查区，本站期限不替代发证机构的有效期。出现更新评价或相反证据，应重新判断并及时撤回不再适用的依据。
@@ -655,7 +683,7 @@ function Method() {
         <div>
           <h2>让每一个好选择，都多一份依据。</h2>
           <p>
-            你可以补充公开劳动制度、具体岗位资料或商品供应商信息。请隐去个人联系方式、身份证号等与核验无关的信息。
+            可以先推荐一家公司和公开员工反馈，还没找到具体商品也能提交。也欢迎补充劳动制度、岗位资料和商品供应商信息。请隐去个人联系方式、身份证号等与核验无关的信息。
           </p>
           <a className="button primary" href={issueUrl()} {...external}>
             提交资料线索
@@ -1280,6 +1308,7 @@ export default function App() {
                     <Badge level={c.level} />
                   </div>
                   <p>{c.finding}</p>
+                  <EmployeeExperiences feedback={c.employeeFeedback} />
                   {c.assessments?.map((a) => <div className="official-assessment" key={a.sourceId + a.subject}>
                     <strong>{a.result}<span>{a.period}</span></strong>
                     <p>评价对象：{a.subject}。{a.limitation}</p>

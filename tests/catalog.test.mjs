@@ -56,6 +56,15 @@ function reviewedProduct(kind = "independent-labor-audit") {
   product.admission.productionLabor.assessmentSourceId = assessment.sourceId;
   return { product, company, assessment };
 }
+test("positive employee feedback remains a research lead when applicable labor evidence is missing", () => {
+  const { product, company } = assessedProduct();
+  company.assessments = [];
+  company.employeeFeedback = [{ sourceId: "employee-interview", kind: "interview", period: "2025年", roleScope: "某开发团队", summary: "少加班，有双休", limitation: "仅为受访团队经历" }];
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+  const availability = getCatalogAvailability({ ...data, products: [product], companies: [company] }, defaults, REVIEW_DATE);
+  assert.equal(availability.admittedCount, 0);
+  assert.equal(availability.gaps.productionLabor, 1);
+});
 test("scoped government reviews and independent audits can admit goods without a government A rating", () => {
   for (const kind of ["government-labor-review", "independent-labor-audit"]) {
     const { product, company, assessment } = reviewedProduct(kind);

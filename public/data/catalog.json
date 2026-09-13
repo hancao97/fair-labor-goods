@@ -703,10 +703,10 @@
       "type": "商品官网",
       "url": "https://www.taptap.cn/app/172664",
       "publishedAt": null,
-      "checkedAt": "2026-09-11",
-      "locator": "开发者介绍与游戏信息中的供应商",
-      "summary": "开发者页面标示供应商为心动网络股份有限公司，开发者说明由心动研发运营；心动年报也将其列为自研游戏。",
-      "limitation": "游戏与研发主体的关联资料；具体项目团队、外包与发行服务人员工时仍需核验。"
+      "checkedAt": "2026-09-13",
+      "locator": "官方入驻页面；免费开玩、Windows配置、供应商和开发者说明",
+      "summary": "国服页面列出Android、iOS及PC免费开玩入口，供应商为心动网络股份有限公司，开发者自述为心动研发运营团队；页面显示2026-09-10更新。",
+      "limitation": "使用公开网页索引，普通HTTP为验证页，未当作商品原件。用于国服渠道与运营关系，不证明劳动合规。"
     },
     {
       "id": "product-sword-of-convallaria",
@@ -8379,6 +8379,126 @@
       "locator": "原始PDF第1页公司与体验流程；第2页开放时间及地址",
       "summary": "手册将北京市珐琅厂有限责任公司、厂区景泰蓝艺术博物馆与园区讲解对应，地址为北京市东城区永外安乐林路10号；另列需付费的技师交流和工艺体验。",
       "limitation": "本次读取原始两页PDF的公开解析文本，文件未给出发布日期。免费展览不包含另行收费的交流、工艺体验或商店商品；手册不能证明任何具体零售制品的实际制造者。"
+    },
+    {
+      "id": "xd-employee-interviews-2021",
+      "title": "心动员工工作体验访谈：在大厂，我六点下班",
+      "publisher": "每日人物 / 新浪科技转载",
+      "type": "员工采访",
+      "url": "https://finance.sina.cn/tech/2021-06-21/detail-ikqcfnca2244979.d.html?from=wap&fromtech=1",
+      "publishedAt": "2021-06-21",
+      "checkedAt": "2026-09-13",
+      "locator": "报道后半段对心动员工小卡、米玛的采访；文末注明受访者均为化名",
+      "summary": "两名2020年入职员工谈及不打卡、休假安排和拒绝无必要周末加班的经历；同篇也提到项目冲刺期加班。",
+      "limitation": "2021年的个人工作体验，不是2026年全公司调查；岗位和项目没有完整具名，不能逐款归属。采访未核实工资、加班报酬及社保。"
+    },
+    {
+      "id": "pg-finance-employee-maimai-2020",
+      "title": "在宝洁的财务部门工作是一种什么体验？",
+      "publisher": "脉脉用户嘉美转载；文末署原作者王骁Clark",
+      "type": "员工经历转载",
+      "url": "https://maimai.cn/article/detail?efid=93l2sBfNpqr_u5hAayfdFg&fid=1438884585",
+      "publishedAt": "2020-03-29",
+      "checkedAt": "2026-09-13",
+      "locator": "关于工作时间和薪酬；文末素材来源说明",
+      "summary": "财务岗位经历介绍弹性工作、较少周末加班及年假，也描述工作日较高强度和跨时区工作。",
+      "limitation": "这是转载，原文发生时期未完整给出，不能当作2020年的新采访；财务经历不能扩展到生产工厂或2026年用工。"
+    },
+    {
+      "id": "pg-operations-employee-nowcoder-2025",
+      "title": "我的双休公司筛选法则",
+      "publisher": "牛客用户Cherrybow",
+      "type": "员工自述",
+      "url": "https://www.nowcoder.com/feed/main/detail/bcb1bbeec92645d8a2d7b8f091d7125a?sourceSSR=dynamic&weFlow=true",
+      "publishedAt": "2025-12-31",
+      "checkedAt": "2026-09-13",
+      "locator": "2025-12-31 18:40发布的帖子；账号标注运营",
+      "summary": "发帖人自述当时在宝洁，采用朝九晚五的工作安排。",
+      "limitation": "通过公开搜索索引读取；原页本次未能直接打开。身份未独立核实，具体雇主、工厂和午休未披露，不推算周工时或代表生产岗位。"
+    },
+    {
+      "id": "xd-jingan-harmony-2022",
+      "title": "静安区2022年度上海市和谐劳动关系达标企业名单",
+      "publisher": "上海市静安区人民政府网站 / 区融媒体中心",
+      "type": "政府评价",
+      "url": "https://www.jingan.gov.cn/rmtzx/003001/20230825/420683eb-edea-4e16-893d-11f7e6494b53.html",
+      "publishedAt": "2023-08-25",
+      "checkedAt": "2026-09-13",
+      "locator": "喜报！静安这91家企业上榜！；名单中心动网络股份有限公司条目",
+      "summary": "依据沪人社关〔2023〕264号公布2022年度达标结果，具名心动网络股份有限公司。",
+      "limitation": "是2022年度的正式结果，未公开完整审查起止日与该公司的分项得分；本次未完成该批完整评分标准核对，不据此宣称当前全面合规。"
+    },
+    {
+      "id": "shanghai-harmony-notice-2022",
+      "title": "2022年市区协同推进和谐劳动关系创建活动的通知",
+      "publisher": "上海市人力资源和社会保障局等四部门 / 上海市人民政府网站",
+      "type": "政府规则",
+      "url": "https://www.shanghai.gov.cn/ysldjy2/20240813/62d3762919af46e7b63b9e6966ddc4de.html",
+      "publishedAt": "2022-06-07",
+      "checkedAt": "2026-09-13",
+      "locator": "沪人社关〔2022〕107号；三、创建标准；四、流程；五、激励措施",
+      "summary": "采用六类指标与分值评价，结合资料、现场及职工调查；达标后每年复审。社保和工时相关激励还要求对应指标满分。",
+      "limitation": "正文通过官方公开索引读取，直接访问和指标附件返回403。达标不能被改写为所有指标满分；尚未核对完整附件。网页转载路径年份不替代文件日期。"
+    },
+    {
+      "id": "heartopia-taptap-cn-2026",
+      "title": "心动小镇国服：TapTap官方下载与游戏信息",
+      "publisher": "心动网络股份有限公司 / TapTap",
+      "type": "商品官网",
+      "url": "https://www.taptap.cn/app/45213",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "官方入驻页面；平台、免费开玩、供应商及更新日志",
+      "summary": "国内游戏入口列出Android、iOS和PC，供应商为心动网络股份有限公司；公开页展示0.5.5版、2026-08-28更新。",
+      "limitation": "使用公开网页索引，普通HTTP返回验证页面，未将其当成商品原件。平台版本会更新；渠道信息不证明劳动条件。"
+    },
+    {
+      "id": "soc-taptap-cn-2026",
+      "title": "铃兰之剑国服iOS：TapTap官方下载与游戏信息",
+      "publisher": "心动网络股份有限公司 / TapTap",
+      "type": "商品官网",
+      "url": "https://www.taptap.cn/app/209866?os=ios",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "官方入驻页面；App Store获取及供应商",
+      "summary": "页面有国服iOS获取入口并标明供应商心动网络股份有限公司，同时列有Android和PC平台。",
+      "limitation": "使用公开网页索引，普通HTTP返回验证页面。本次具体获取入口对应iOS；不把平台标签当成已核对其他版本或其劳动条件。"
+    },
+    {
+      "id": "heartopia-policy-cn-2026",
+      "title": "《心动小镇》国服隐私政策",
+      "publisher": "心动网络股份有限公司",
+      "type": "服务主体说明",
+      "url": "https://protocol.xd.cn/heartpoia/privacy.html",
+      "publishedAt": "2026-05-11",
+      "checkedAt": "2026-09-13",
+      "locator": "开头更新、生效日期及运营者说明",
+      "summary": "该版政策于2026-05-11生效，运营者为心动网络股份有限公司，注册地址位于上海闵行区东川路555号戊楼1166室。",
+      "limitation": "政策用于核对具体国服运营主体；不能单独证明所有研发地点、员工国籍或劳动条件。"
+    },
+    {
+      "id": "torchlight-policy-cn-2025",
+      "title": "《火炬之光：无限》国服隐私政策",
+      "publisher": "心动网络股份有限公司",
+      "type": "服务主体说明",
+      "url": "https://protocol.xd.cn/torchlight/privacy.html",
+      "publishedAt": "2025-03-31",
+      "checkedAt": "2026-09-13",
+      "locator": "开头更新、生效日期及运营者说明",
+      "summary": "该版政策于2025-04-01生效，运营者为心动网络股份有限公司，注册地址位于上海闵行区东川路555号戊楼1166室。",
+      "limitation": "政策用于核对具体国服运营主体；不能单独证明所有研发地点、员工国籍或劳动条件。"
+    },
+    {
+      "id": "soc-policy-cn-2024",
+      "title": "《铃兰之剑：为这和平的世界》国服隐私政策",
+      "publisher": "心动网络股份有限公司",
+      "type": "服务主体说明",
+      "url": "https://protocol.xd.cn/convallaria/privacy.html",
+      "publishedAt": "2024-12-18",
+      "checkedAt": "2026-09-13",
+      "locator": "开头更新、生效日期及运营者说明",
+      "summary": "该版政策于2024-12-19生效，运营者为心动网络股份有限公司，注册地址位于上海闵行区东川路555号戊楼1166室。",
+      "limitation": "政策用于核对具体国服运营主体；不能单独证明所有研发地点、员工国籍或劳动条件。"
     }
   ],
   "companies": [
@@ -8444,30 +8564,35 @@
     {
       "id": "xd",
       "name": "心动",
-      "legalName": "心动有限公司及报告范围内附属公司",
-      "location": "上海为主",
+      "legalName": "心动网络股份有限公司",
+      "location": "上海；本档案对应国服运营法人",
       "level": "disclosure",
       "hours": 40,
       "restDays": 2,
       "hoursLabel": "标准每周 40 小时",
       "restLabel": "标准每周工作 5 天",
-      "scope": "2025 年报披露的标准工时岗位",
-      "finding": "最新年报同时明确每周五天、每天八小时，并保留特殊岗位和加班审批例外。",
+      "scope": "2022年度具名达标结果、2021年员工采访及集团2025年劳动制度披露",
+      "finding": "员工采访提供不强制无必要加班的经历，也提到项目冲刺期加班；已对应三款游戏的国服运营主体及2022年度达标结果，综合劳动依据继续核对。",
       "caveats": [
-        "部分岗位采用综合计算工时或不定时工时。",
-        "休息日及法定假期加班需要主管审批，不能视为每周实际都不加班。",
-        "年报属于企业自述；外包美术等合作方的实际工时未获证实。"
+        "2021年采访只代表当时受访者及其团队，未对应今天三款游戏的全体员工。",
+        "集团2025年报有特殊工时岗位与加班审批安排，不能等同于实际零加班。",
+        "2022达标结果未公开分项得分，该批完整评分标准尚未核对；保留正面线索，不自动改写为当前全面合规。",
+        "本档案对应国服运营公司，集团关联公司、代理作品及外部美术等合作方分别记录。"
       ],
       "sourceIds": [
-        "xd-2025"
+        "xd-2025",
+        "xd-employee-interviews-2021",
+        "xd-jingan-harmony-2022",
+        "shanghai-harmony-notice-2022"
       ],
       "supply": [
         {
           "stage": "开发与运营",
           "status": "policy",
-          "detail": "集团年报披露五天、八小时的标准工作制度；存在特殊工时岗位。",
+          "detail": "三款国服游戏的运营法人已由产品页面和各自政策对应；集团自研、劳动制度与员工采访分别注明范围。",
           "sourceIds": [
-            "xd-2025"
+            "xd-2025",
+            "xd-employee-interviews-2021"
           ]
         },
         {
@@ -8487,10 +8612,46 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
-      "cardNote": "5 × 8 小时 · 有制度例外",
+      "nextCheck": "优先寻找具名游戏团队近期工作体验，以及能够补足工资、社保和工时判断的公开资料；2022评分附件访问受限，没有新的原始资料不重复请求。",
+      "cardNote": "有员工采访 · 项目期存在加班",
       "origin": "china",
-      "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
+      "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。",
+      "employeeFeedback": [
+        {
+          "sourceId": "xd-employee-interviews-2021",
+          "kind": "interview",
+          "period": "2020年入职至2021年受访时",
+          "roleScope": "心动游戏团队员工；具体岗位、项目未完整公开",
+          "summary": "受访员工提到不打卡，团队接受了拒绝无必要周末加班的意见；另一位同时说明项目冲刺阶段会加班。",
+          "limitation": "化名采访，发生于2021年。不能代表2026年所有团队，也未核验工资、加班费和社保。"
+        }
+      ],
+      "assessments": [
+        {
+          "kind": "government-labor-review",
+          "subject": "心动网络股份有限公司",
+          "sourceId": "xd-jingan-harmony-2022",
+          "result": "2022年度上海市和谐劳动关系达标企业（评价标准待补核）",
+          "period": "2022年度；2023-08-25由静安区公开，完整审查起止日未公开",
+          "resultPublishedAt": "2023-08-25",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-12-13",
+          "status": "current",
+          "conclusion": "unresolved",
+          "issuer": "上海市人力资源和社会保障局、上海市总工会、上海市企业联合会/企业家协会、上海市工商业联合会",
+          "scopeType": "employer",
+          "scope": "具名国服运营法人；已确认正式达标结果，完整评分标准及分项结论尚未补齐",
+          "verificationSourceId": "xd-jingan-harmony-2022",
+          "basisSourceIds": [
+            "shanghai-harmony-notice-2022"
+          ],
+          "coverage": [
+            "hours",
+            "insurance"
+          ],
+          "limitation": "2022通知对工时、社保满分激励另有条件；仅凭达标称号不推定所有权益指标满分。未核完整标准前保留为待复核结果。"
+        }
+      ]
     },
     {
       "id": "ifi",
@@ -8843,7 +9004,7 @@
       "hoursLabel": "每周小时数待核",
       "restLabel": "2021 年招聘列出双休",
       "scope": "2021 年历史招聘资料",
-      "finding": "历史招聘有双休线索；缺少当前每周工时及项目外包资料。",
+      "finding": "2021年招聘提供双休线索；近期开发团队工作体验及适用劳动依据待核对。",
       "caveats": [
         "旧招聘资料不能作为今天工作安排的保证。",
         "数字游戏仍涉及美术、测试、发行等外部劳动。"
@@ -8853,30 +9014,30 @@
       ],
       "supply": [
         {
-          "stage": "品牌与研发",
+          "stage": "开发与运营",
           "status": "unknown",
-          "detail": "未取得适用主体的当前实际工时与休息记录。",
+          "detail": "开发团队的实际用工主体、适用劳动依据待核对。",
           "sourceIds": [
             "pathea-hiring"
           ]
         },
         {
-          "stage": "制造与外包",
+          "stage": "美术与测试合作方",
           "status": "unknown",
-          "detail": "具体生产或服务承接主体、岗位工时尚待核验。",
+          "detail": "如有具体合作资料继续补充；不额外要求全链逐人考勤。",
           "sourceIds": []
         },
         {
-          "stage": "原料与物流",
+          "stage": "发行与基础设施",
           "status": "unknown",
-          "detail": "上游材料、运输及仓储环节尚无足够劳动条件证据。",
+          "detail": "发行渠道和外部服务方与开发主体分开核对。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
-      "cardNote": "40 小时 + 双休待补证",
+      "nextCheck": "先从具体开发团队员工的工作体验寻找线索，记录时间、岗位和地点，再核对该主体的劳动依据及其自产游戏。",
+      "cardNote": "具体用工主体与劳动依据待核",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
     },
@@ -8894,33 +9055,33 @@
       "finding": "已核对官方游戏页面；仍需对应境内开发团队与实际用工主体的劳动合规依据。",
       "caveats": [
         "官网热线时间不能作为员工工作时间。",
-        "缺少当前劳动制度及外包团队排班证据。"
+        "具体开发团队劳动依据尚待核对，未知资料不作违法判断。"
       ],
       "sourceIds": [],
       "supply": [
         {
-          "stage": "品牌与研发",
+          "stage": "开发与运营",
           "status": "unknown",
-          "detail": "未取得适用主体的当前实际工时与休息记录。",
+          "detail": "开发团队的实际用工主体、适用劳动依据待核对。",
           "sourceIds": []
         },
         {
-          "stage": "制造与外包",
+          "stage": "美术与测试合作方",
           "status": "unknown",
-          "detail": "具体生产或服务承接主体、岗位工时尚待核验。",
+          "detail": "如有具体合作资料继续补充；不额外要求全链逐人考勤。",
           "sourceIds": []
         },
         {
-          "stage": "原料与物流",
+          "stage": "发行与基础设施",
           "status": "unknown",
-          "detail": "上游材料、运输及仓储环节尚无足够劳动条件证据。",
+          "detail": "发行渠道和外部服务方与开发主体分开核对。",
           "sourceIds": []
         }
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "先确认具体商品的实际制造或服务法人，再核对该主体的劳动守法依据及适用期间；招聘排班与上游关系作为补充调查。",
-      "cardNote": "40 小时 + 双休待补证",
+      "nextCheck": "先从具体开发团队员工的工作体验寻找线索，记录时间、岗位和地点，再核对该主体的劳动依据及其自产游戏。",
+      "cardNote": "具体用工主体与劳动依据待核",
       "origin": "china",
       "originNote": "按中国创立的品牌或品牌所属企业背景归类；不代表所有部件均在中国制造。"
     },
@@ -19073,6 +19234,74 @@
           ]
         }
       ]
+    },
+    {
+      "id": "pg-china-employee-lead",
+      "name": "宝洁（员工线索）",
+      "legalName": "宝洁在华企业；具体生产用人单位待对应",
+      "location": "中国在华业务；两条反馈的具体工厂未公开",
+      "origin": "international",
+      "originNote": "海外创立的品牌；本次仅研究在华工作体验，具体商品仍须核对中国生产。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "运营自述朝九晚五；未换算周工时",
+      "restLabel": "财务转载提到较少周末加班",
+      "cardNote": "有员工线索 · 生产工厂待对应",
+      "scope": "2025年运营自述与2020年转载的财务经历",
+      "finding": "两条公开经历提供了工作安排线索，可以先从公司继续调查其洗护用品；当前尚未对应具体生产工厂，不代表全部宝洁产品合规。",
+      "caveats": [
+        "2025年帖子身份未独立核实，未具名工厂；2020年内容为转载，原经历时期不详。",
+        "办公岗位体验不能替代洗护用品实际工厂的劳动依据。"
+      ],
+      "sourceIds": [
+        "pg-finance-employee-maimai-2020",
+        "pg-operations-employee-nowcoder-2025"
+      ],
+      "employeeFeedback": [
+        {
+          "sourceId": "pg-operations-employee-nowcoder-2025",
+          "kind": "firsthand",
+          "period": "2025-12发帖时自述在职",
+          "roleScope": "账号标注运营；具体法人和地点未公开",
+          "summary": "发帖人自述在宝洁采用朝九晚五的工作安排。",
+          "limitation": "身份未独立核实，原页本次未能打开，内容来自公开索引；未说明午休或工厂排班。"
+        },
+        {
+          "sourceId": "pg-finance-employee-maimai-2020",
+          "kind": "repost",
+          "period": "2020-03转载；原经历的确切时间未公开",
+          "roleScope": "宝洁财务岗位，具体雇主未具名",
+          "summary": "原作者谈及弹性工作、较少周末加班及年假，也提到工作日强度和跨时区安排。",
+          "limitation": "不是转载账号本人的新经历，不能扩展到生产工厂或当前全公司情况。"
+        }
+      ],
+      "supply": [
+        {
+          "stage": "办公岗位",
+          "status": "unknown",
+          "detail": "有个人体验，尚未独立核实具体用人单位及当前劳动条件。",
+          "sourceIds": [
+            "pg-finance-employee-maimai-2020",
+            "pg-operations-employee-nowcoder-2025"
+          ]
+        },
+        {
+          "stage": "洗护用品生产",
+          "status": "unknown",
+          "detail": "从员工工作地点和产品包装继续对应具体中国工厂。",
+          "sourceIds": []
+        },
+        {
+          "stage": "原料与配送",
+          "status": "unknown",
+          "detail": "尚未展开具体商品的供应链调查。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "优先找国内洗护工厂一线员工的具名地点反馈，再核对对应包装生产商与国内零售商品；不重复搜同一篇财务转载。"
     }
   ],
   "products": [
@@ -19130,34 +19359,49 @@
       "tags": [
         "生活模拟",
         "手机游戏",
-        "Heartopia"
+        "Heartopia",
+        "国服"
       ],
       "image": "images/heartopia.webp",
       "imageMode": "cover",
       "imageSource": "https://website.xdcdn.net/poster/133737826/home/s1/LmnilHQT.jpg",
       "imageRights": "XD Inc. / 心动网络",
-      "url": "https://heartopia.xd.com/cn/",
-      "market": "官方中文游戏入口；游玩平台与服务地区以官网为准。",
-      "relationship": "心动官方游戏页面；2025 年报介绍自研游戏心动小镇。",
+      "url": "https://www.taptap.cn/app/45213",
+      "market": "国服；TapTap列有Android、iOS及Windows入口，免费开玩，游戏内付费项目以实际页面为准。",
+      "relationship": "心动自研资料与国服页面均有记录，所选国服游戏服务的运营者由各自隐私政策确认为心动网络股份有限公司。",
       "relationshipSourceIds": [
         "product-heartopia",
-        "xd-2025"
+        "xd-2025",
+        "heartopia-taptap-cn-2026",
+        "heartopia-policy-cn-2026"
       ],
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "status": "supported",
+          "detail": "国服；TapTap列有Android、iOS及Windows入口，免费开玩，游戏内付费项目以实际页面为准。 已核对具体国内获取页面。",
+          "sourceIds": [
+            "heartopia-taptap-cn-2026"
+          ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
-          "sourceIds": []
+          "status": "supported",
+          "subject": "心动网络股份有限公司",
+          "detail": "本条对应国服游戏运营服务：产品供应商与隐私政策均具名上海的心动网络股份有限公司。结合自研资料核对服务关联，不扩展为全部版本、外部合作方或每位开发者国籍的证明。",
+          "sourceIds": [
+            "heartopia-taptap-cn-2026",
+            "heartopia-policy-cn-2026",
+            "xd-2025"
+          ]
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
-          "sourceIds": []
+          "detail": "已记录2021年员工采访、集团2025年制度及同一法人2022年度达标结果；该批完整评分标准尚未核对，不能仅凭称号或个人体验补成当前综合合规结论。",
+          "sourceIds": [
+            "xd-employee-interviews-2021",
+            "xd-2025",
+            "xd-jingan-harmony-2022",
+            "shanghai-harmony-notice-2022"
+          ]
         }
       },
       "needs": [
@@ -20316,34 +20560,48 @@
         "动作角色扮演",
         "ARPG",
         "电脑游戏",
-        "手机游戏"
+        "手机游戏",
+        "国服"
       ],
       "image": "images/torchlight-infinite.webp",
       "imageMode": "contain",
       "imageSource": "https://img-tc.tapimg.com/market/images/a395edeea4e8c60315097a7472c7393c.jpg/_tap_appicon.jpg",
       "imageRights": "XD Inc. / 心动网络及相关图片权利人",
       "url": "https://www.taptap.cn/app/172664",
-      "market": "TapTap 中国官方游戏资料；支持设备与当前服务以开发者页面为准。",
-      "relationship": "官方资料确认心动研发运营；集团年报披露不同工时制度，所选游戏实际运营用人单位及其适用劳动依据仍需对应。",
+      "market": "国服；TapTap列有Android、iOS及Windows入口，免费开玩，游戏内付费项目另计。",
+      "relationship": "心动自研资料与国服页面均有记录，所选国服游戏服务的运营者由各自隐私政策确认为心动网络股份有限公司。",
       "relationshipSourceIds": [
         "product-torchlight-infinite",
-        "xd-2025"
+        "xd-2025",
+        "torchlight-policy-cn-2025"
       ],
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "status": "supported",
+          "detail": "国服；TapTap列有Android、iOS及Windows入口，免费开玩，游戏内付费项目另计。 已核对具体国内获取页面。",
+          "sourceIds": [
+            "product-torchlight-infinite"
+          ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
-          "sourceIds": []
+          "status": "supported",
+          "subject": "心动网络股份有限公司",
+          "detail": "本条对应国服游戏运营服务：产品供应商与隐私政策均具名上海的心动网络股份有限公司。结合自研资料核对服务关联，不扩展为全部版本、外部合作方或每位开发者国籍的证明。",
+          "sourceIds": [
+            "product-torchlight-infinite",
+            "torchlight-policy-cn-2025",
+            "xd-2025"
+          ]
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
-          "sourceIds": []
+          "detail": "已记录2021年员工采访、集团2025年制度及同一法人2022年度达标结果；该批完整评分标准尚未核对，不能仅凭称号或个人体验补成当前综合合规结论。",
+          "sourceIds": [
+            "xd-employee-interviews-2021",
+            "xd-2025",
+            "xd-jingan-harmony-2022",
+            "shanghai-harmony-notice-2022"
+          ]
         }
       },
       "needs": [
@@ -20354,7 +20612,7 @@
     },
     {
       "id": "sword-of-convallaria",
-      "name": "铃兰之剑：为这和平的世界",
+      "name": "铃兰之剑：为这和平的世界（国服 iOS）",
       "brand": "心动 XD",
       "companyId": "xd",
       "category": "games",
@@ -20363,40 +20621,54 @@
         "策略",
         "战棋",
         "角色扮演",
-        "电脑游戏",
-        "手机游戏"
+        "手机游戏",
+        "国服"
       ],
       "image": "images/sword-of-convallaria.webp",
       "imageMode": "cover",
       "imageSource": "https://img.xdcdn.net/xdwp/2023/11/20231124094937640.png",
       "imageRights": "XD Inc. / 心动网络及相关图片权利人",
-      "url": "https://soc.xd.cn/",
-      "market": "官方中国大陆游戏入口；图片为 2023 年公测宣传插图，不表示当前活动。",
-      "relationship": "官方资料确认心动研发运营；集团年报披露不同工时制度，所选游戏实际运营用人单位及其适用劳动依据仍需对应。",
+      "url": "https://www.taptap.cn/app/209866?os=ios",
+      "market": "本条核对国服iOS获取入口；游戏内付费项目以App Store及游戏页面为准。",
+      "relationship": "心动自研资料与国服页面均有记录，所选国服游戏服务的运营者由各自隐私政策确认为心动网络股份有限公司。",
       "relationshipSourceIds": [
         "product-sword-of-convallaria",
-        "xd-2025"
+        "xd-2025",
+        "soc-taptap-cn-2026",
+        "soc-policy-cn-2024"
       ],
       "admission": {
         "chinaSale": {
-          "status": "pending",
-          "detail": "尚需确认此具体型号的大陆官方购买渠道；官网介绍不自动证明大陆在售。",
-          "sourceIds": []
+          "status": "supported",
+          "detail": "本条核对国服iOS获取入口；游戏内付费项目以App Store及游戏页面为准。 已核对具体国内获取页面。",
+          "sourceIds": [
+            "soc-taptap-cn-2026"
+          ]
         },
         "chinaProduction": {
-          "status": "pending",
-          "detail": "尚未取得与此型号或批次对应的中国境内制造商、产地或具体服务团队证据。",
-          "sourceIds": []
+          "status": "supported",
+          "subject": "心动网络股份有限公司",
+          "detail": "本条对应国服游戏运营服务：产品供应商与隐私政策均具名上海的心动网络股份有限公司。结合自研资料核对服务关联，不扩展为全部版本、外部合作方或每位开发者国籍的证明。",
+          "sourceIds": [
+            "soc-taptap-cn-2026",
+            "soc-policy-cn-2024",
+            "product-sword-of-convallaria",
+            "xd-2025"
+          ]
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "尚缺与本商品实际生产或服务法人对应的劳动守法依据；总部福利及招聘承诺仅作研究线索。",
-          "sourceIds": []
+          "detail": "已记录2021年员工采访、集团2025年制度及同一法人2022年度达标结果；该批完整评分标准尚未核对，不能仅凭称号或个人体验补成当前综合合规结论。",
+          "sourceIds": [
+            "xd-employee-interviews-2021",
+            "xd-2025",
+            "xd-jingan-harmony-2022",
+            "shanghai-harmony-notice-2022"
+          ]
         }
       },
       "needs": [
         "手机游戏",
-        "电脑游戏",
         "策略"
       ]
     },

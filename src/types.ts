@@ -44,11 +44,20 @@ export interface SupplyStage {
   detail: string;
   sourceIds: string[];
 }
+export interface EmployeeFeedback {
+  sourceId: string;
+  kind: "firsthand" | "interview" | "repost" | "referral";
+  period: string;
+  roleScope: string;
+  summary: string;
+  limitation: string;
+}
 export interface Company {
   id: string;
   origin: "china" | "international" | "unconfirmed";
   originNote: string;
   assessments?: LaborAssessment[];
+  employeeFeedback?: EmployeeFeedback[];
   name: string;
   legalName: string;
   location: string;
