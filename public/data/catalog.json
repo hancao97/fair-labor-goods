@@ -9756,8 +9756,8 @@
       "url": "https://www.changshu.gov.cn/zgcs/gongshi/202510/17290b6933bc422c99a1a7381bb3dbcd.shtml",
       "publishedAt": "2025-10-27",
       "checkedAt": "2026-09-13",
-      "locator": "正式公布正文及所附DOCX：“经开区（89家）”芬欧汇川(中国)有限公司；“支塘镇（40家）”舒汇食品（苏州）有限公司；“琴川街道（48家）”江苏梦兰集团有限公司。",
-      "summary": "经申报、属地初审推荐、人社局会同相关部门复审及公示，624家用人单位被授予2024年度劳动保障A级诚信单位；最终附件具名芬欧汇川(中国)有限公司、舒汇食品（苏州）有限公司和江苏梦兰集团有限公司。",
+      "locator": "正式公布正文及所附DOCX：“经开区（89家）”芬欧汇川(中国)有限公司；“支塘镇（40家）”舒汇食品（苏州）有限公司；“琴川街道（48家）”江苏梦兰集团有限公司。另核对“古里镇（55家）”波司登羽绒服装有限公司、“高新区（70家）”席梦思床褥家具（苏州）有限公司。",
+      "summary": "经申报、属地初审推荐、人社局会同相关部门复审及公示，624家用人单位被授予2024年度劳动保障A级诚信单位；最终附件具名芬欧汇川(中国)有限公司、舒汇食品（苏州）有限公司和江苏梦兰集团有限公司。同一最终附件亦具名本批波司登羽绒服装及席梦思苏州制造法人。",
       "limitation": "已直接下载政府原页及原始DOCX并读取目标段落。采用页面可见时间和落款2025-10-27；页面另有2026年更新元数据，不据此改变评价年度或公布日。完整审查起止日未公开，结果仅适用于具名法人及所列年度。"
     },
     {
@@ -9891,6 +9891,162 @@
       "locator": "招聘列表“江苏梦兰集团有限公司”，展位018；车间辅料发放员、仓库管理员及缝纫工要求。",
       "summary": "公开索引中的梦兰招聘段落要求有关车间、仓库及缝纫岗位能够适应加班，补充生产岗位安排的线索。",
       "limitation": "只读取具名企业对应段落的公开索引，网页直接访问受证书或抓取问题影响。确切公布日未取得；邻近其他企业的工资、五险一金或休息安排没有移给梦兰。招聘要求不是员工本人经历，不据加班一词直接判定违法或保证具体时数。"
+    },
+    {
+      "id": "simmons-domestic-catalog2026",
+      "title": "席梦思官网国产床垫筛选与型号记录",
+      "publisher": "Simmons席梦思中国官网",
+      "type": "品牌产品资料",
+      "url": "https://www.simmons.cn/choice/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "产地筛选“国产”；网页调用的公开产品查询返回area=1。目标记录168新生、242星程、202风岚。",
+      "summary": "官网将三款列入国产床垫，分别标示22cm、23cm、29cm高度；与各自型号页交叉对应。",
+      "limitation": "直接读取网页、筛选逻辑及其公开查询响应，未提交预约或个人信息。国产字段本身没有制造法人，须结合具名工厂记录；不把同品牌进口款纳入。"
+    },
+    {
+      "id": "simmons-cqc-manufacturer2024",
+      "title": "中国质量认证中心具名席梦思苏州床垫制造记录",
+      "publisher": "中国质量认证中心",
+      "type": "认证机构制造记录",
+      "url": "https://www.cqc.com.cn/www/upload/files/upload/resources/file/2024/06/03/60810.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始109页PDF第100页首项，证书CQC24703432678。",
+      "summary": "获证规格为席梦思弹簧软床垫，制造商席梦思床褥家具（苏州）有限公司；列示生效日2024-05-31、截止日2027-05-30。",
+      "limitation": "已下载原始PDF并目视核对该页。用于制造主体对应，不作为劳动审核；清单没有逐款列出新生、星程、风岚，亦未据此声称当前每款均获此产品认证。原始公布日未单独核实。"
+    },
+    {
+      "id": "simmons-suzhou-contact",
+      "title": "席梦思官网所列苏州制造企业及地址",
+      "publisher": "Simmons席梦思中国官网",
+      "type": "企业主体资料",
+      "url": "https://www.simmons.cn/about/contact/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "联系我们：席梦思床褥家具（苏州）有限公司。",
+      "summary": "官网具名该企业，地址为江苏省常熟市银河路177号；上海、北京、深圳销售企业分列。",
+      "limitation": "地址和企业关系不能单独证明每款床垫的制造商，结合国产型号、制造清单及品牌回应使用。"
+    },
+    {
+      "id": "simmons-domestic-response2025",
+      "title": "信网采访中的席梦思国内自有工厂回应",
+      "publisher": "信网",
+      "type": "媒体采访",
+      "url": "https://www.qdxin.cn/xin/2025/366615.html",
+      "publishedAt": "2025-07-10",
+      "checkedAt": "2026-09-13",
+      "locator": "2025-07-10报道中记者向品牌官方客服核对生产渠道的段落。",
+      "summary": "品牌客服就佛山所谓授权代工产品表示，国内自有制造在苏州，不认可所涉其他地区代加工渠道。",
+      "limitation": "这是媒体记录的品牌回应，未经逐款现场核验。报道对进口来源的表述不作为2026年全部进口国家清单，也不代替当前官网国产筛选。结合具名制造记录作推断，保留时间和来源边界。"
+    },
+    {
+      "id": "simmons-factory-hours2021",
+      "title": "席梦思苏州工厂2021年项目工时披露",
+      "publisher": "席梦思床褥家具（苏州）有限公司／建设项目公示平台",
+      "type": "企业项目披露",
+      "url": "https://oss.yanshougs.com/upload/20211207/973848421e0220dda96be573bdfbf1e0.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "2021年11月竣工环保验收报告，第10页表2-1；前页具名企业及常熟银河路177号。",
+      "summary": "一阶段实际规模披露113人、年工作250天、每天一班、每班8小时，产品为床垫和独立袋装弹簧床网。",
+      "limitation": "通过公开PDF解析全文核对，直接下载及截图返回403，未声称目视核验原页。为2021年项目资料，不是2026年员工考勤、本人反馈或综合劳动结论；准确公布日未知。"
+    },
+    {
+      "id": "simmons-vigor150-official",
+      "title": "席梦思新生VIGOR床垫具体规格与国内报价",
+      "publisher": "Simmons席梦思中国官网",
+      "type": "大陆零售资料",
+      "url": "https://www.simmons.cn/products/view/168",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "新生VIGOR型号页；选择规格150cm×200cm，床垫高度22cm。",
+      "summary": "官网展示具体型号、可选尺寸、人民币报价和授权门店入口，150cm×200cm为明确列出的零售规格。",
+      "limitation": "官网为型号与门店选购入口，不是已完成线上下单；实际价格、配送和供货由门店确认。不转述护脊、改善睡眠等效果宣传。"
+    },
+    {
+      "id": "simmons-kids2-90-official",
+      "title": "席梦思星程BACKCARE KIDS 2床垫具体规格与国内报价",
+      "publisher": "Simmons席梦思中国官网",
+      "type": "大陆零售资料",
+      "url": "https://www.simmons.cn/products/view/242",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "星程BACKCARE KIDS 2型号页；90cm×190cm，床垫高度23cm。",
+      "summary": "具体型号页提供90cm×190cm零售尺寸及人民币报价，介绍双面结构，关联国内门店选购。",
+      "limitation": "按实际尺寸和产品结构记录，不把儿童适用宣传转为骨骼发育或医疗效果保证；供货与配送以门店为准。"
+    },
+    {
+      "id": "simmons-ecoland180-official",
+      "title": "席梦思风岚ECOLAND床垫具体规格与国内报价",
+      "publisher": "Simmons席梦思中国官网",
+      "type": "大陆零售资料",
+      "url": "https://www.simmons.cn/products/view/202",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "风岚ECOLAND型号页；180cm×200cm，床垫高度29cm。",
+      "summary": "官网提供180cm×200cm可选规格及人民币报价，并列独立袋装弹簧等结构资料。",
+      "limitation": "保存具体商品和门店选购方式，不据营销文案作防过敏、健康或美容效果结论；供货与配送另以门店为准。"
+    },
+    {
+      "id": "bosideng-yantai-maker2025",
+      "title": "烟台2025年服装抽查中的波司登具体货号与生产单位",
+      "publisher": "烟台市市场监督管理局",
+      "type": "政府产品抽查",
+      "url": "https://www.yantai.gov.cn/col/col43304/art/2026/art_4583d515ea8241c287923bc9ca6480d8.html",
+      "publishedAt": "2026-04-15",
+      "checkedAt": "2026-09-13",
+      "locator": "2026-04-15公布的2025年度重点工业产品抽查表，第51、344行及表头。",
+      "summary": "B250130003黑色180/100A及T250135020W儿童服装140/64、160/80均列标称生产单位波司登羽绒服装有限公司。",
+      "limitation": "已保存政府原始HTML并读取完整行。为标称生产单位记录，所选零售尺寸与样本尺寸不同，按完整货号对应制造；未取得本次出售实物吊牌或每批工序记录。产品质量结果不作劳动依据。"
+    },
+    {
+      "id": "bosideng-b250130003-jd",
+      "title": "京东波司登B250130003黑色轻薄羽绒内胆条目",
+      "publisher": "京东",
+      "type": "大陆零售资料",
+      "url": "https://www.jd.com/brand/1315d9884e009a68197a.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始卡片货号B250130003，黑色8056、页面尺码17088A，链接10234543884976。",
+      "summary": "实际读取完整货号及国内商品链接；该卡片写黑色8056、17088A，与其他颜色尺寸的相邻条目区分。",
+      "limitation": "尺码按页面原文保留；尺寸含义、款式年份、成交价及库存以商家具体资料为准，未把推荐体重当成通用尺码标准。"
+    },
+    {
+      "id": "bosideng-t250135020w-jd",
+      "title": "京东波司登T250135020W儿童羽绒马甲条目",
+      "publisher": "京东",
+      "type": "大陆零售资料",
+      "url": "https://www.jd.com/hprm/13154bb940652b438cee.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始卡片完整货号T250135020W，燕麦色7185、90_52，链接10234271017126。",
+      "summary": "读到准确儿童羽绒马甲货号、配色和国内商品链接；完整货号保留末尾W。",
+      "limitation": "实际读取页面的尺寸为90_52，搜索索引其他时间的130_64未移用。没有把T250135020无W款、其他背心或相邻衣服当成同款。"
+    },
+    {
+      "id": "bosideng-fff-employee2025",
+      "title": "波司登常熟制衣厂家庭支持项目中的员工采访",
+      "publisher": "中国纺织工业联合会社会责任办公室",
+      "type": "行业机构员工采访",
+      "url": "https://www.csc9000.org.cn/NewsCenter/Practice/2025-12-30/1025.html",
+      "publishedAt": "2025-12-29",
+      "checkedAt": "2026-09-13",
+      "locator": "正文可见发布日期2025-12-29；“员工之声”及暑期儿童之家、哺乳室段落。",
+      "summary": "受访家长员工反馈孩子愿意参加暑期托管；项目记录哺乳室升级和2025年工作日8至18时托管开放。",
+      "limitation": "项目实施方发布，受访者未具名且岗位未公开，不是独立随机员工调查。托管开放时段不等于员工净工时；文章仅称常熟制衣厂，不能与羽绒服装法人自动视为同一雇主。日期取正文，不取URL路径12月30日。"
+    },
+    {
+      "id": "bosideng-changshu-factory2025",
+      "title": "高校实习记录中的波司登常熟制衣厂完整名称",
+      "publisher": "武汉外语外事职业学院",
+      "type": "高校实习资料",
+      "url": "https://www.wifa.edu.cn/yywy/view_14318.html",
+      "publishedAt": "2025-06-10",
+      "checkedAt": "2026-09-13",
+      "locator": "2025-06-10正文，6月5日常熟制衣厂岗前培训与生产车间参观。",
+      "summary": "学校具名波司登股份有限公司常熟制衣厂，记载学生接受培训及参观生产车间，提供工厂名称与岗位范围线索。",
+      "limitation": "培训和参观不能证明正常工作时数、加班费或劳动合规；与项目访谈中的厂区简称相互参照，完整雇佣合同主体仍未核实。不把它与波司登羽绒服装有限公司合并。"
     }
   ],
   "companies": [
@@ -22071,6 +22227,230 @@
           "limitation": "已读取政府最终原始附件的支塘镇组。本站复查期限不是政府认定的有效期；不将本法人年度评价移给浙江工厂或零售门店。"
         }
       ]
+    },
+    {
+      "id": "simmons-suzhou",
+      "name": "席梦思 · 苏州制造企业",
+      "legalName": "席梦思床褥家具（苏州）有限公司",
+      "location": "江苏省常熟市银河路177号",
+      "origin": "international",
+      "originNote": "国际品牌在江苏的制造企业；国产型号与进口款分别对应，不按品牌国别推定产地。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "2021年项目披露每日8小时，实际工时待核",
+      "restLabel": "实际每周休息天数未知",
+      "cardNote": "2024年度劳动保障A级",
+      "scope": "苏州制造法人；本批官网明确列为国产的新生VIGOR、星程BACKCARE KIDS 2与风岚ECOLAND床垫。",
+      "finding": "官网国产型号、具名制造清单及品牌关于苏州自有工厂的回应综合支持三款的制造对应；同一法人有2024年度劳动A级最终结果。",
+      "caveats": [
+        "制造关系属于多项资料的综合推断，未取得三款逐件出厂标签；官网国产字段本身未列法人，认证清单也未逐一列出这三个型号。",
+        "2021年项目披露每日一班8小时、年工作250天，不是2026年实际考勤记录，也不能推算固定双休或零加班。",
+        "没有取得能核对岗位与日期的普通员工本人经历。2025年品牌客服的生产渠道回应用于佐证，不当成独立劳动审核。",
+        "仅对应所列国产床垫，不扩展到进口床垫、枕头、床架、所谓授权代工或其他零售企业。"
+      ],
+      "sourceIds": [
+        "changshu-labor2024-final",
+        "law-labor-rating",
+        "simmons-domestic-catalog2026",
+        "simmons-cqc-manufacturer2024",
+        "simmons-suzhou-contact",
+        "simmons-domestic-response2025",
+        "simmons-factory-hours2021",
+        "simmons-vigor150-official",
+        "simmons-kids2-90-official",
+        "simmons-ecoland180-official"
+      ],
+      "supply": [
+        {
+          "stage": "国内商品与制造对应",
+          "status": "policy",
+          "detail": "官网国产型号、具名制造清单及品牌关于苏州自有工厂的回应综合支持三款的制造对应；同一法人有2024年度劳动A级最终结果。",
+          "sourceIds": [
+            "simmons-domestic-catalog2026",
+            "simmons-cqc-manufacturer2024",
+            "simmons-suzhou-contact",
+            "simmons-domestic-response2025",
+            "simmons-factory-hours2021",
+            "simmons-vigor150-official",
+            "simmons-kids2-90-official",
+            "simmons-ecoland180-official"
+          ]
+        },
+        {
+          "stage": "具名制造企业劳动依据",
+          "status": "verified",
+          "detail": "2024年度最终名单具名该法人；公开评价范围与年份单列。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        },
+        {
+          "stage": "上游及零售配送雇主",
+          "status": "unknown",
+          "detail": "其他用人单位不从制造企业的年度结果推定。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-27前复核具名法人的劳动结果及所列商品制造关系；若有新制造主体或相反用工资料，及时更新收录判断。",
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "席梦思床褥家具（苏州）有限公司",
+          "result": "2024年度常熟市劳动保障A级诚信单位",
+          "period": "2024年度；完整审查起止日未公开",
+          "sourceId": "changshu-labor2024-final",
+          "resultPublishedAt": "2025-10-27",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-27",
+          "limitation": "已读取最终原始DOCX的高新区（70家）组。本站复查日期不是政府认定有效期，年度结果不保证以后的全部用工。"
+        }
+      ]
+    },
+    {
+      "id": "bosideng-down-garment",
+      "name": "波司登 · 羽绒服装制造主体",
+      "legalName": "波司登羽绒服装有限公司",
+      "location": "江苏省常熟市",
+      "origin": "china",
+      "originNote": "按政府所列常熟法人和波司登品牌具体货号整理；关联的股份公司制衣厂另建员工线索档案。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时制度纳入年度劳动评价",
+      "restLabel": "实际每周休息天数未知",
+      "cardNote": "2024年度劳动保障A级",
+      "scope": "政府产品记录具名的波司登羽绒服装有限公司；本批B250130003男款内胆与T250135020W儿童羽绒马甲。",
+      "finding": "两款的政府标称生产单位均与劳动最终名单法人相同，完整货号与京东零售条目对应；抽样尺码与所选零售尺码的差异明确保留。",
+      "caveats": [
+        "制造依据为政府抽查的标称生产单位及同货号对应，没有声称现场核查本次出售实物或逐批工序。",
+        "同集团存在不同名称的制衣厂、进出口和电子商务企业，不将本法人的年度评价转给它们，也不把其他品牌代工关系扩展到全部商品。",
+        "家庭支持采访称常熟制衣厂，完整雇主尚需区分，已另建线索档案；实际工时、休息与加班报酬未从托管时段或招聘推定。",
+        "尺码和配色按具体零售卡记录，保留与抽样记录不同的事实；出现不同实际厂家证据时重新核对。"
+      ],
+      "sourceIds": [
+        "changshu-labor2024-final",
+        "law-labor-rating",
+        "bosideng-yantai-maker2025",
+        "bosideng-b250130003-jd",
+        "bosideng-t250135020w-jd"
+      ],
+      "supply": [
+        {
+          "stage": "国内商品与制造对应",
+          "status": "policy",
+          "detail": "两款的政府标称生产单位均与劳动最终名单法人相同，完整货号与京东零售条目对应；抽样尺码与所选零售尺码的差异明确保留。",
+          "sourceIds": [
+            "bosideng-yantai-maker2025",
+            "bosideng-b250130003-jd",
+            "bosideng-t250135020w-jd"
+          ]
+        },
+        {
+          "stage": "具名制造企业劳动依据",
+          "status": "verified",
+          "detail": "2024年度最终名单具名该法人；公开评价范围与年份单列。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        },
+        {
+          "stage": "上游及零售配送雇主",
+          "status": "unknown",
+          "detail": "其他用人单位不从制造企业的年度结果推定。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-27前复核具名法人的劳动结果及所列商品制造关系；若有新制造主体或相反用工资料，及时更新收录判断。",
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "波司登羽绒服装有限公司",
+          "result": "2024年度常熟市劳动保障A级诚信单位",
+          "period": "2024年度；完整审查起止日未公开",
+          "sourceId": "changshu-labor2024-final",
+          "resultPublishedAt": "2025-10-27",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-27",
+          "limitation": "已读取最终原始DOCX的古里镇（55家）组。本站复查日期不是政府认定有效期，年度结果不保证以后的全部用工。"
+        }
+      ]
+    },
+    {
+      "id": "bosideng-changshu-garment-factory",
+      "name": "波司登 · 常熟制衣厂员工线索",
+      "legalName": "波司登股份有限公司常熟制衣厂",
+      "location": "江苏省常熟市波司登生产基地",
+      "origin": "china",
+      "originNote": "高校资料具名的国内制衣厂；与波司登羽绒服装有限公司分开记录。",
+      "level": "research",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "托管开放时间不等于员工工时",
+      "restLabel": "实际每周休息天数未知",
+      "cardNote": "有员工家庭支持采访",
+      "scope": "行业项目中的常熟制衣厂受访家长员工；完整雇佣关系和所选服装制造关系待核。",
+      "finding": "保存受访员工对暑期托管的体验，并与高校具名工厂资料参照；没有据此认定该厂综合劳动合规。",
+      "caveats": [
+        "项目实施方发布的匿名访谈，岗位未公开；不代表全厂所有员工的独立评价。",
+        "2025年托管8至18时开放不是净工作时长，满意度汇总不能替代工时、工资或社保核对。",
+        "项目文章使用工厂简称，学校文章具完整名称；两者参照仍需保留雇佣主体不完整的限制。",
+        "该名称与2024劳动A级名单中的波司登羽绒服装有限公司不同，没有共用评级或给具体商品增加未经证明的厂家。"
+      ],
+      "sourceIds": [
+        "bosideng-fff-employee2025",
+        "bosideng-changshu-factory2025"
+      ],
+      "employeeFeedback": [
+        {
+          "sourceId": "bosideng-fff-employee2025",
+          "kind": "interview",
+          "period": "2025年暑期及当年项目回访",
+          "roleScope": "常熟制衣厂受访家长员工；未公开岗位、姓名与合同雇主",
+          "summary": "受访家长表示孩子喜欢参加暑期托管，愿意主动前往；项目同时记载母婴室改进。",
+          "limitation": "行业项目实施方发布的采访，不是独立随机抽样。仅保存这位员工的体验，不从托管时段推算工时，亦不视为所列两款服装的制造劳动证明。"
+        }
+      ],
+      "supply": [
+        {
+          "stage": "员工家庭支持线索",
+          "status": "policy",
+          "detail": "暑期托管本人反馈与项目介绍；综合劳动依据及具体商品对应尚待补充。",
+          "sourceIds": [
+            "bosideng-fff-employee2025",
+            "bosideng-changshu-factory2025"
+          ]
+        },
+        {
+          "stage": "实际制造商品",
+          "status": "unknown",
+          "detail": "尚未将所选服装完整货号对应到该制衣厂，不从集团品牌关系推定。",
+          "sourceIds": [
+            "bosideng-changshu-factory2025"
+          ]
+        },
+        {
+          "stage": "综合劳动依据",
+          "status": "unknown",
+          "detail": "托管及实习资料是局部线索；未把其他法人年度劳动评价用于该厂。",
+          "sourceIds": [
+            "bosideng-fff-employee2025"
+          ]
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "出现明确合同雇主、岗位工时资料或具名制造货号时继续对应；不重复依靠集团名称和同源采访检索。"
     }
   ],
   "products": [
@@ -35948,6 +36328,299 @@
           "shuhui-qingcai420-luan"
         ]
       }
+    },
+    {
+      "id": "simmons-vigor150",
+      "companyId": "simmons-suzhou",
+      "category": "home",
+      "name": "新生VIGOR床垫 · 150×200×22cm",
+      "brand": "Simmons席梦思",
+      "description": "独立袋装弹簧床垫，150cm宽、200cm长、22cm厚。",
+      "tags": [
+        "床垫",
+        "新生",
+        "国产型号",
+        "150cm×200cm",
+        "22cm"
+      ],
+      "needs": [
+        "床垫"
+      ],
+      "url": "https://www.simmons.cn/products/view/168",
+      "market": "席梦思中国官网列出150cm×200cm规格及人民币报价，可通过官网授权门店购买；商品页为选型入口，实际供货、报价和配送以门店为准。",
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "relationship": "官网明确列为国产的具体型号，结合认证机构具名的苏州床垫制造商、官网厂址与品牌国内自有工厂回应，综合对应到苏州制造企业；不是由旧款名称替换推定。",
+      "relationshipSourceIds": [
+        "simmons-domestic-catalog2026",
+        "simmons-cqc-manufacturer2024",
+        "simmons-suzhou-contact",
+        "simmons-domestic-response2025",
+        "simmons-vigor150-official"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "直接读取官方型号页，核对150cm×200cm、厚度22cm、人民币规格报价及国内授权门店选购入口。",
+          "sourceIds": [
+            "simmons-vigor150-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "席梦思床褥家具（苏州）有限公司",
+          "detail": "依据官网国产型号、苏州具名制造清单及2025年品牌自有工厂回应综合判断。没有取得该款逐件出厂标签；进口款及其他品类未纳入。",
+          "sourceIds": [
+            "simmons-domestic-catalog2026",
+            "simmons-cqc-manufacturer2024",
+            "simmons-suzhou-contact",
+            "simmons-domestic-response2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "席梦思床褥家具（苏州）有限公司列入2024年度常熟市劳动保障A级最终名单，2025-10-27公布；保留年度与法人范围。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "simmons-kids2-90",
+      "companyId": "simmons-suzhou",
+      "category": "home",
+      "name": "星程BACKCARE KIDS 2床垫 · 90×190×23cm",
+      "brand": "Simmons席梦思",
+      "description": "双面结构床垫，90cm宽、190cm长、23cm厚，适配相应尺寸的单人床架。",
+      "tags": [
+        "床垫",
+        "星程",
+        "国产型号",
+        "90cm×190cm",
+        "23cm"
+      ],
+      "needs": [
+        "床垫"
+      ],
+      "url": "https://www.simmons.cn/products/view/242",
+      "market": "席梦思中国官网列出90cm×190cm规格及人民币报价，可通过官网授权门店购买；商品页为选型入口，实际供货、报价和配送以门店为准。",
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "relationship": "官网明确列为国产的具体型号，结合认证机构具名的苏州床垫制造商、官网厂址与品牌国内自有工厂回应，综合对应到苏州制造企业；不是由旧款名称替换推定。",
+      "relationshipSourceIds": [
+        "simmons-domestic-catalog2026",
+        "simmons-cqc-manufacturer2024",
+        "simmons-suzhou-contact",
+        "simmons-domestic-response2025",
+        "simmons-kids2-90-official"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "直接读取官方型号页，核对90cm×190cm、厚度23cm、人民币规格报价及国内授权门店选购入口。",
+          "sourceIds": [
+            "simmons-kids2-90-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "席梦思床褥家具（苏州）有限公司",
+          "detail": "依据官网国产型号、苏州具名制造清单及2025年品牌自有工厂回应综合判断。没有取得该款逐件出厂标签；进口款及其他品类未纳入。",
+          "sourceIds": [
+            "simmons-domestic-catalog2026",
+            "simmons-cqc-manufacturer2024",
+            "simmons-suzhou-contact",
+            "simmons-domestic-response2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "席梦思床褥家具（苏州）有限公司列入2024年度常熟市劳动保障A级最终名单，2025-10-27公布；保留年度与法人范围。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "simmons-ecoland180",
+      "companyId": "simmons-suzhou",
+      "category": "home",
+      "name": "风岚ECOLAND床垫 · 180×200×29cm",
+      "brand": "Simmons席梦思",
+      "description": "独立袋装弹簧双人床垫，180cm宽、200cm长、29cm厚。",
+      "tags": [
+        "床垫",
+        "风岚",
+        "国产型号",
+        "180cm×200cm",
+        "29cm"
+      ],
+      "needs": [
+        "床垫"
+      ],
+      "url": "https://www.simmons.cn/products/view/202",
+      "market": "席梦思中国官网列出180cm×200cm规格及人民币报价，可通过官网授权门店购买；商品页为选型入口，实际供货、报价和配送以门店为准。",
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "relationship": "官网明确列为国产的具体型号，结合认证机构具名的苏州床垫制造商、官网厂址与品牌国内自有工厂回应，综合对应到苏州制造企业；不是由旧款名称替换推定。",
+      "relationshipSourceIds": [
+        "simmons-domestic-catalog2026",
+        "simmons-cqc-manufacturer2024",
+        "simmons-suzhou-contact",
+        "simmons-domestic-response2025",
+        "simmons-ecoland180-official"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "直接读取官方型号页，核对180cm×200cm、厚度29cm、人民币规格报价及国内授权门店选购入口。",
+          "sourceIds": [
+            "simmons-ecoland180-official"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "席梦思床褥家具（苏州）有限公司",
+          "detail": "依据官网国产型号、苏州具名制造清单及2025年品牌自有工厂回应综合判断。没有取得该款逐件出厂标签；进口款及其他品类未纳入。",
+          "sourceIds": [
+            "simmons-domestic-catalog2026",
+            "simmons-cqc-manufacturer2024",
+            "simmons-suzhou-contact",
+            "simmons-domestic-response2025"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "席梦思床褥家具（苏州）有限公司列入2024年度常熟市劳动保障A级最终名单，2025-10-27公布；保留年度与法人范围。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bosideng-b250130003-black",
+      "companyId": "bosideng-down-garment",
+      "category": "clothing",
+      "name": "男款轻薄羽绒内胆B250130003 · 黑色8056",
+      "brand": "波司登BOSIDENG",
+      "description": "轻薄羽绒内胆，完整货号B250130003；本条对应黑色8056，零售页尺码标为17088A。",
+      "tags": [
+        "羽绒服",
+        "B250130003",
+        "羽绒",
+        "保暖"
+      ],
+      "needs": [
+        "羽绒服"
+      ],
+      "url": "https://item.jd.com/10234543884976.html",
+      "market": "京东商品10234543884976，黑色8056、页面尺码17088A；按商家尺码表选购，具体供货和配送以渠道为准。",
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "relationship": "烟台2025年抽查具名完整货号B250130003及标称生产单位波司登羽绒服装有限公司，与国内零售条目对应。所选零售尺码与抽样尺码不同，按同一完整货号作制造对应。",
+      "relationshipSourceIds": [
+        "bosideng-yantai-maker2025",
+        "bosideng-b250130003-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "直接读取京东原始商品卡，取得完整货号、所列配色尺码和准确商品链接。",
+          "sourceIds": [
+            "bosideng-b250130003-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "波司登羽绒服装有限公司",
+          "detail": "政府原表将B250130003的标称生产单位列为波司登羽绒服装有限公司，与常熟具名法人对应。按同货号支持境内制造，保留零售尺码与抽样尺码差异；未声称逐批实物核验。",
+          "sourceIds": [
+            "bosideng-yantai-maker2025",
+            "changshu-labor2024-final"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "波司登羽绒服装有限公司列入2024年度常熟市劳动保障A级最终名单，2025-10-27公布；保留年度与法人范围。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bosideng-t250135020w-oat90",
+      "companyId": "bosideng-down-garment",
+      "category": "clothing",
+      "name": "儿童羽绒马甲T250135020W · 燕麦色7185／90_52",
+      "brand": "波司登BOSIDENG",
+      "description": "儿童轻薄羽绒马甲，完整货号T250135020W；本条对应燕麦色7185，零售页尺码90_52。",
+      "tags": [
+        "童装",
+        "T250135020W",
+        "羽绒",
+        "保暖"
+      ],
+      "needs": [
+        "童装"
+      ],
+      "url": "https://item.jd.com/10234271017126.html",
+      "market": "京东商品10234271017126，燕麦色7185、90_52；按实际尺码表选购，具体供货和配送以渠道为准。",
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "relationship": "烟台2025年抽查具名完整货号T250135020W及标称生产单位波司登羽绒服装有限公司，与国内零售条目对应。所选零售尺码与抽样尺码不同，按同一完整货号作制造对应。",
+      "relationshipSourceIds": [
+        "bosideng-yantai-maker2025",
+        "bosideng-t250135020w-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "直接读取京东原始商品卡，取得完整货号、所列配色尺码和准确商品链接。",
+          "sourceIds": [
+            "bosideng-t250135020w-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "波司登羽绒服装有限公司",
+          "detail": "政府原表将T250135020W的标称生产单位列为波司登羽绒服装有限公司，与常熟具名法人对应。按同货号支持境内制造，保留零售尺码与抽样尺码差异；未声称逐批实物核验。",
+          "sourceIds": [
+            "bosideng-yantai-maker2025",
+            "changshu-labor2024-final"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "波司登羽绒服装有限公司列入2024年度常熟市劳动保障A级最终名单，2025-10-27公布；保留年度与法人范围。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -36506,9 +37179,13 @@
         {
           "label": "童鞋",
           "query": "童鞋"
+        },
+        {
+          "label": "羽绒服",
+          "query": "羽绒服 内胆"
         }
       ],
-      "note": "11项服装鞋履需求均有具体研究资料；正式商品仍为安踏162457106-2仙贝紫M（女165）文胸。新增童鞋需求，永高人X33139-03及X25078-04已取得企业劳动A级，但具体制造原件与同货号购买入口待补；和诚作为具名劳动评价企业保留制造货号缺口。",
+      "note": "服装清单补入此前遗漏的羽绒服，共12项需求。新增波司登B250130003男款轻薄内胆与T250135020W儿童马甲，连同既有安踏文胸，3项需求有正式商品；其余9项仍待补。制造采用具名政府记录和完整货号对应，抽样与零售尺码差异保留；常熟制衣厂员工采访另列线索档案，未借用其他法人的劳动评价。",
       "sourceIds": [
         "septwolves-hiring",
         "national-harmony-2022",
@@ -36540,7 +37217,13 @@
         "ygaor-shoes-shandong2025-copy",
         "ygaor-jd-range",
         "ygaor-c03017w-recall2025",
-        "hecheng-satra-manufacturer"
+        "hecheng-satra-manufacturer",
+        "changshu-labor2024-final",
+        "bosideng-yantai-maker2025",
+        "bosideng-b250130003-jd",
+        "bosideng-t250135020w-jd",
+        "bosideng-fff-employee2025",
+        "bosideng-changshu-factory2025"
       ]
     },
     {
@@ -36591,7 +37274,7 @@
           "query": "台灯"
         }
       ],
-      "note": "家居11项需求均有具体研究资料，尚无正式收录。梦兰2024年度劳动A级最终原始名单已经读取；所选枕头与夏凉被仍缺制造对应。已有四件套的制造记录未取得准确现售入口，不替代不同枕被款；水星、太湖雪、乐歌及梦百合按各自制造或劳动缺口继续。",
+      "note": "家居11项需求中，床垫首次有正式商品：席梦思新生150×200×22cm、星程90×190×23cm、风岚180×200×29cm。官网国产型号、具名制造记录和自有工厂回应综合对应，并保留推断边界；床单、被套、枕被、桌椅等10项仍待补。梦兰枕头及夏凉被维持制造待核查。",
       "sourceIds": [
         "mercury-campus",
         "lianyou-hiring",
@@ -36608,7 +37291,15 @@
         "changshu-labor2024-final",
         "taihusnow-employees-job592",
         "taihusnow-legal2022-insurance",
-        "menglan-production-hiring"
+        "menglan-production-hiring",
+        "simmons-domestic-catalog2026",
+        "simmons-cqc-manufacturer2024",
+        "simmons-suzhou-contact",
+        "simmons-domestic-response2025",
+        "simmons-factory-hours2021",
+        "simmons-vigor150-official",
+        "simmons-kids2-90-official",
+        "simmons-ecoland180-official"
       ]
     },
     {
