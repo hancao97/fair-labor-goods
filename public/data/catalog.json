@@ -9756,8 +9756,8 @@
       "url": "https://www.changshu.gov.cn/zgcs/gongshi/202510/17290b6933bc422c99a1a7381bb3dbcd.shtml",
       "publishedAt": "2025-10-27",
       "checkedAt": "2026-09-13",
-      "locator": "正式公布正文及所附DOCX：“经开区（89家）”芬欧汇川(中国)有限公司；“支塘镇（40家）”舒汇食品（苏州）有限公司；“琴川街道（48家）”江苏梦兰集团有限公司。另核对“古里镇（55家）”波司登羽绒服装有限公司、“高新区（70家）”席梦思床褥家具（苏州）有限公司。",
-      "summary": "经申报、属地初审推荐、人社局会同相关部门复审及公示，624家用人单位被授予2024年度劳动保障A级诚信单位；最终附件具名芬欧汇川(中国)有限公司、舒汇食品（苏州）有限公司和江苏梦兰集团有限公司。同一最终附件亦具名本批波司登羽绒服装及席梦思苏州制造法人。",
+      "locator": "正式公布正文及所附DOCX：“经开区（89家）”芬欧汇川(中国)有限公司；“支塘镇（40家）”舒汇食品（苏州）有限公司；“琴川街道（48家）”江苏梦兰集团有限公司。另核对“古里镇（55家）”波司登羽绒服装有限公司、“高新区（70家）”席梦思床褥家具（苏州）有限公司。本批另核对古里镇（55家）的常熟市食品有限公司、支塘镇（40家）的江苏虞恒食品有限公司。",
+      "summary": "经申报、属地初审推荐、人社局会同相关部门复审及公示，624家用人单位被授予2024年度劳动保障A级诚信单位；最终附件具名芬欧汇川(中国)有限公司、舒汇食品（苏州）有限公司和江苏梦兰集团有限公司。同一最终附件亦具名本批波司登羽绒服装及席梦思苏州制造法人。食品公司及虞恒亦为具名受评法人，畜禽中心通过另列的分公司资料对应。",
       "limitation": "已直接下载政府原页及原始DOCX并读取目标段落。采用页面可见时间和落款2025-10-27；页面另有2026年更新元数据，不据此改变评价年度或公布日。完整审查起止日未公开，结果仅适用于具名法人及所列年度。"
     },
     {
@@ -10047,6 +10047,102 @@
       "locator": "2025-06-10正文，6月5日常熟制衣厂岗前培训与生产车间参观。",
       "summary": "学校具名波司登股份有限公司常熟制衣厂，记载学生接受培训及参观生产车间，提供工厂名称与岗位范围线索。",
       "limitation": "培训和参观不能证明正常工作时数、加班费或劳动合规；与项目访谈中的厂区简称相互参照，完整雇佣合同主体仍未核实。不把它与波司登羽绒服装有限公司合并。"
+    },
+    {
+      "id": "changshu-food-branch-case2024",
+      "title": "常熟食品分公司关系及劳动报酬案件裁判结果",
+      "publisher": "江苏省苏州市中级人民法院文书；维基文库转载",
+      "type": "裁判文书转载",
+      "url": "https://zh.wikisource.org/wiki/%E5%90%B4%E6%9F%90%E5%9D%A4%E3%80%81%E5%B8%B8%E7%86%9F%E5%B8%82%E9%A3%9F%E5%93%81%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E7%95%9C%E7%A6%BD%E5%B1%A0%E5%AE%B0%E5%8A%A0%E5%B7%A5%E9%85%8D%E9%80%81%E4%B8%AD%E5%BF%83%E7%AD%89%E8%BF%BD%E7%B4%A2%E5%8A%B3%E5%8A%A8%E6%8A%A5%E9%85%AC%E7%BA%A0%E7%BA%B7%E6%B0%91%E4%BA%8B%E4%BA%8C%E5%AE%A1%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "（2024）苏05民终317号；2024-03-13裁判。一审查明的分公司关系及二审“本院认为”、判决主文。",
+      "summary": "文书载明畜禽屠宰加工配送中心是食品公司的分公司，由食品公司管理；该案欠薪上诉被驳回，维持原判。",
+      "limitation": "直接读取了转载全文，未登录裁判文书网核验原站。裁判只处理该案争议，不证明全体员工或其他权益均合规；2024-03-13是裁判日期，转载首发日期未知。"
+    },
+    {
+      "id": "changshu-food-beef-zjg202512",
+      "title": "张家港2025年第34期鲜肉制造与摊位对应",
+      "publisher": "张家港市市场监督管理局",
+      "type": "政府食品生产记录",
+      "url": "https://www.zjg.gov.cn/zjgszwz/spaqhh/202512/1c026dc869b44839988146eda4e23af3.shtml",
+      "publishedAt": "2025-12-30",
+      "checkedAt": "2026-09-13",
+      "locator": "原始网页合格明细第261、263、278行及“标称生产企业名称”表头；正文公布日2025-12-30。",
+      "summary": "第278行对应吴宗宝鲜肉经营部的牛肉和常熟食品畜禽中心；第261、263行为小邱摊位的猪排骨肉、五花肉。",
+      "limitation": "用于所记商品、销售单位和生产主体对应。旧记录不表示该摊位所有肉类均来自同一厂家；另有2026年小邱五花肉不同生产企业的记录。食品检验不作劳动结论。"
+    },
+    {
+      "id": "changshu-food-beef-zjg202603",
+      "title": "张家港2026年第4期牛后腿肉与生产主体",
+      "publisher": "张家港市市场监督管理局",
+      "type": "政府食品生产记录",
+      "url": "https://www.zjg.gov.cn/zjgszwz/spaqhh/202603/f0c6cebd01af4708a6a1801bb47e24c9.shtml",
+      "publishedAt": "2026-03-16",
+      "checkedAt": "2026-09-13",
+      "locator": "原始网页合格明细第69、75行；正文2026-03-16公布，所记检疫日期均为2026-01-28。",
+      "summary": "第69行将吴宗宝摊位的牛后腿肉对应常熟食品畜禽中心。第75行小邱摊位五花肉生产企业为南通市海门区兴旺肉制品有限公司。",
+      "limitation": "牛后腿肉没有定量包装规格，按具体部位和摊位记录，不编造500g或1kg装。检疫日期不当作上架或公布日期；并非当次现货核验。"
+    },
+    {
+      "id": "changshu-food-slaughter2025",
+      "title": "常熟农业部门现场记录的生猪、肉牛加工主体",
+      "publisher": "常熟市农业农村局",
+      "type": "政府生产现场资料",
+      "url": "https://www.changshu.gov.cn/zgcs/c100297/202506/e2df8b4a870443ca914b524e84eb3369.shtml",
+      "publishedAt": "2025-06-30",
+      "checkedAt": "2026-09-13",
+      "locator": "2025-06-30公布，正文记载6月10日走访常熟食品畜禽屠宰加工配送中心。",
+      "summary": "官方人员现场观摩肉牛屠宰，考察该中心生猪、肉牛屠宰设施，佐证具体境内加工地点和业务。",
+      "limitation": "不是劳动审核，也不证明所有养殖、冷链或零售环节；现场走访日和报道日分别保留。"
+    },
+    {
+      "id": "qingcaoxiang-consumer202609",
+      "title": "供销社2026年访谈介绍青草巷消费者购买方式",
+      "publisher": "张家港市人民政府网／张家港市供销合作总社",
+      "type": "政府消费渠道资料",
+      "url": "https://www.zjg.gov.cn/zjg/lszb/202609/3c6113664c6f4abd8d154c233b60cdcf.shtml",
+      "publishedAt": "2026-09-04",
+      "checkedAt": "2026-09-13",
+      "locator": "直播概况2026-09-04 09:00；回答“如果想购买本地的优质农产品，需要上哪儿买”的段落。",
+      "summary": "访谈明确消费者可前往青草巷市场购买，市场兼顾日常消费和礼品采购，提供散装货品。",
+      "limitation": "该资料确认市场面向消费者，不单独证明某摊位现货、最低购买量或厂家；结合具名食品记录使用。没有联系采访对象或提交互动问题。"
+    },
+    {
+      "id": "qingcaoxiang-market-location",
+      "title": "青草巷市场官网现址与到店导购",
+      "publisher": "张家港市青草巷农副产品批发市场有限公司",
+      "type": "市场官方资料",
+      "url": "http://www.zjgqcx.com/zjgqcxWeb/scgk/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "官网“市场概况”：2014年搬迁现址，列锦丰镇合兴兴南路8号；设鲜肉等交易区并提供导购入口。",
+      "summary": "明确市场所在地为张家港市锦丰镇合兴兴南路8号，设有鲜肉交易区、客服中心和市场导购。",
+      "limitation": "页面未标独立发布日期。市场地址与具体摊位名称结合供消费者定位，不虚构摊位编号、营业时间或网上配送范围。"
+    },
+    {
+      "id": "yuheng-blackpepper-by2024",
+      "title": "白云区学子膳黑椒柳条1kg生产记录",
+      "publisher": "广州市白云区市场监督管理局",
+      "type": "政府食品生产记录",
+      "url": "https://www.by.gov.cn/attachment/7/7638/7638882/9772986.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始41页PDF第13页第139行；首页表头为2024年第4期餐饮环节合格信息表。",
+      "summary": "学子膳黑椒柳条（速冻调制食品）1kg/袋，标称生产单位江苏虞恒食品有限公司，地址常熟支塘南开发区广园路18号；产品日期2023-12-04。",
+      "limitation": "已下载并目视核对该页。学校食堂采样不是个人零售入口，也不作劳动结论；不把同品牌其他食品或江苏盐铁工厂混入，附件准确公布日未核实。"
+    },
+    {
+      "id": "yuheng-project-hours2020",
+      "title": "江苏虞恒项目报告中的工厂与班制披露",
+      "publisher": "江苏虞恒食品有限公司／项目报告公开文件",
+      "type": "企业项目披露",
+      "url": "https://20899323.s21i.faiusr.com/61/ABUIABA9GAAgztvHiQYorKff9QQ.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "33页固废专项验收报告，第3页列2020-03-30至31日现场监测，第8页（印刷第6页）2.6节列定员与班制。",
+      "summary": "项目位于常熟广园路18号，披露定员60人、年运行300天、二班制、每班8小时及年运行4800小时。",
+      "limitation": "已读取文件并目视核对班制页。这是旧项目运行口径，4800小时不能算成员工个人年工时；没有员工考勤、加班费核算或综合劳动审核，文件公布日未知。"
     }
   ],
   "companies": [
@@ -22451,6 +22547,159 @@
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "nextCheck": "出现明确合同雇主、岗位工时资料或具名制造货号时继续对应；不重复依靠集团名称和同源采访检索。"
+    },
+    {
+      "id": "changshu-food",
+      "name": "常熟食品 · 畜禽加工",
+      "legalName": "常熟市食品有限公司",
+      "location": "江苏省常熟市；畜禽加工中心位于支塘镇小山泾路10号",
+      "origin": "china",
+      "originNote": "境内食品企业；实际生产与具体商品分别对应，不据企业地址推断每位工人的国籍。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时制度纳入年度劳动评价",
+      "restLabel": "实际每周休息天数未知",
+      "cardNote": "2024年度劳动保障A级",
+      "scope": "受评法人常熟市食品有限公司；通过已核对的分公司关系对应其畜禽屠宰加工配送中心，以及吴宗宝摊位所列牛后腿肉。",
+      "finding": "食品记录具名畜禽加工中心，判决书转载明确其分公司和总公司管理关系；据此与总公司2024年度劳动结果综合对应。",
+      "caveats": [
+        "劳动最终名单具名总公司，未单列该厂区。本条按已核实的分公司关系对应同一法人，属于适用范围的综合判断，并非取得了分公司单独评级。",
+        "分公司关系及案件结果来自已读裁判文书转载，未登录原站核验。该案驳回欠薪上诉，不能据案件标题认定欠薪，也不能据胜诉推断全部劳动权益。",
+        "现有定向检索未取得可核对岗位和期间的普通员工本人经历；判决转载和企业资料不计为独立员工访谈。",
+        "牛肉两期记录对应同一中心，较新资料细分到牛后腿肉；小邱摊位五花肉另出现兴旺生产企业，不能把摊位全部商品套用本法人评价。",
+        "到店渠道限张家港青草巷具名摊位，未核实单品现货、起售重量和价格；养殖、运输及摊位用工另行记录。"
+      ],
+      "sourceIds": [
+        "changshu-labor2024-final",
+        "law-labor-rating",
+        "changshu-food-branch-case2024",
+        "changshu-food-beef-zjg202512",
+        "changshu-food-beef-zjg202603",
+        "changshu-food-slaughter2025",
+        "qingcaoxiang-consumer202609",
+        "qingcaoxiang-market-location"
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "supply": [
+        {
+          "stage": "具体食品与境内加工",
+          "status": "policy",
+          "detail": "食品记录具名畜禽加工中心，判决书转载明确其分公司和总公司管理关系；据此与总公司2024年度劳动结果综合对应。",
+          "sourceIds": [
+            "changshu-food-branch-case2024",
+            "changshu-food-beef-zjg202512",
+            "changshu-food-beef-zjg202603",
+            "changshu-food-slaughter2025",
+            "qingcaoxiang-consumer202609",
+            "qingcaoxiang-market-location"
+          ]
+        },
+        {
+          "stage": "制造法人劳动依据",
+          "status": "verified",
+          "detail": "常熟2024年度最终劳动名单具名该法人；适用范围及对应方式另列。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        },
+        {
+          "stage": "养殖原料、运输及销售用工",
+          "status": "unknown",
+          "detail": "这些环节的其他雇主不从本制造企业的年度评价推定。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "2026-10-27前复核具名企业的后续劳动结果及生产关系；出现不同生产主体或明确相反资料时更新商品判断。",
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "常熟市食品有限公司",
+          "result": "2024年度常熟市劳动保障A级诚信单位",
+          "period": "2024年度；完整审查起止日未公开",
+          "sourceId": "changshu-labor2024-final",
+          "resultPublishedAt": "2025-10-27",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-27",
+          "limitation": "最终原始DOCX的古里镇（55家）组具名该法人。本站复查日期不是评级有效期，评价不保证未来全部用工。该中心为分公司，本条通过已读文书所载管理关系对应总公司评价；没有声称原名单单列厂区。"
+        }
+      ]
+    },
+    {
+      "id": "yuheng-changshu",
+      "name": "虞恒食品 · 常熟制造",
+      "legalName": "江苏虞恒食品有限公司",
+      "location": "江苏省常熟市支塘镇南开发区广园路18号",
+      "origin": "china",
+      "originNote": "境内食品企业；实际生产与具体商品分别对应，不据企业地址推断每位工人的国籍。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时制度纳入年度劳动评价",
+      "restLabel": "实际每周休息天数未知",
+      "cardNote": "2024年度劳动保障A级",
+      "scope": "江苏虞恒食品有限公司；本条已对应学子膳黑椒柳条1kg/袋，准确消费者零售渠道待补。",
+      "finding": "白云区原始食品表将学子膳黑椒柳条1kg对应到常熟制造法人，与2024年度劳动A级最终名单一致。",
+      "caveats": [
+        "同品牌存在江苏盐铁食品科技有限公司等其他制造主体，不共用本法人评级；已找到的鸡米花零售线索没有直接移给黑椒柳条。",
+        "项目披露为2020年现场监测时期的生产运行安排，不是当前个人考勤。二班制和每班8小时不能推出零加班或固定双休。",
+        "目前制造记录来自学校食堂采样，尚未取得对应黑椒柳条1kg的准确个人购买入口，商品继续待核查。",
+        "本轮未取得可核对身份、岗位和时间的普通员工本人经历；旧招聘或企业项目报告不算独立劳动调查。"
+      ],
+      "sourceIds": [
+        "changshu-labor2024-final",
+        "law-labor-rating",
+        "yuheng-blackpepper-by2024",
+        "yuheng-project-hours2020"
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "supply": [
+        {
+          "stage": "具体食品与境内加工",
+          "status": "policy",
+          "detail": "白云区原始食品表将学子膳黑椒柳条1kg对应到常熟制造法人，与2024年度劳动A级最终名单一致。",
+          "sourceIds": [
+            "yuheng-blackpepper-by2024",
+            "yuheng-project-hours2020"
+          ]
+        },
+        {
+          "stage": "制造法人劳动依据",
+          "status": "verified",
+          "detail": "常熟2024年度最终劳动名单具名该法人；适用范围及对应方式另列。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        },
+        {
+          "stage": "养殖原料、运输及销售用工",
+          "status": "unknown",
+          "detail": "这些环节的其他雇主不从本制造企业的年度评价推定。",
+          "sourceIds": []
+        }
+      ],
+      "nextCheck": "2026-10-27前复核具名企业的后续劳动结果及生产关系；出现不同生产主体或明确相反资料时更新商品判断。",
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "江苏虞恒食品有限公司",
+          "result": "2024年度常熟市劳动保障A级诚信单位",
+          "period": "2024年度；完整审查起止日未公开",
+          "sourceId": "changshu-labor2024-final",
+          "resultPublishedAt": "2025-10-27",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-27",
+          "limitation": "最终原始DOCX的支塘镇（40家）组具名该法人。本站复查日期不是评级有效期，评价不保证未来全部用工。"
+        }
+      ]
     }
   ],
   "products": [
@@ -36621,6 +36870,132 @@
           ]
         }
       }
+    },
+    {
+      "id": "changshu-food-beef-hindleg-qcx",
+      "companyId": "changshu-food",
+      "category": "fresh",
+      "name": "牛后腿肉 · 青草巷吴宗宝摊位",
+      "brand": "吴宗宝摊位销售／常熟食品加工",
+      "brandOrigin": {
+        "value": "unconfirmed",
+        "note": "食品原表未列商标，按具体销售摊位和加工企业识别，不把经营者名称当作肉品商标。",
+        "sourceIds": [
+          "changshu-food-beef-zjg202603"
+        ]
+      },
+      "description": "具体部位为牛后腿肉，到张家港青草巷市场吴宗宝鲜肉经营部选购；原记录未列定量包装，重量与分切方式以摊位为准。",
+      "tags": [
+        "牛肉",
+        "牛后腿肉",
+        "生鲜",
+        "张家港",
+        "到店购买"
+      ],
+      "needs": [
+        "牛肉"
+      ],
+      "url": "http://www.zjgqcx.com/zjgqcxWeb/scgk/",
+      "market": "张家港市锦丰镇合兴兴南路8号青草巷市场，找“张家港市锦丰青草巷吴宗宝鲜肉经营部”；链接为市场地址与导购，未提供网上配送。实际价格、起售量和供货由摊位确认。",
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "relationship": "2026年原始食品表第69行对应牛后腿肉、吴宗宝摊位和常熟食品畜禽加工中心；2025年同摊位牛肉记录交叉支持。中心作为分公司与总公司劳动评价综合对应。",
+      "relationshipSourceIds": [
+        "changshu-food-branch-case2024",
+        "changshu-food-beef-zjg202512",
+        "changshu-food-beef-zjg202603",
+        "changshu-food-slaughter2025",
+        "qingcaoxiang-consumer202609",
+        "qingcaoxiang-market-location"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "具名摊位有2026年牛后腿肉销售记录；当年9月官方访谈确认市场面向消费者销售散装农产品，市场官网给出到店地址。未核对本次现货，不扩展为全国配送。",
+          "sourceIds": [
+            "changshu-food-beef-zjg202603",
+            "qingcaoxiang-consumer202609",
+            "qingcaoxiang-market-location"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "常熟市食品有限公司",
+          "facility": "常熟市食品有限公司畜禽屠宰加工配送中心（常熟支塘小山泾路10号）",
+          "detail": "原始食品表具名常熟畜禽中心，现场生产报道佐证境内肉牛加工；文书转载所载分公司关系用于对应所属法人。生产对应限本条牛后腿肉。",
+          "sourceIds": [
+            "changshu-food-beef-zjg202603",
+            "changshu-food-beef-zjg202512",
+            "changshu-food-slaughter2025",
+            "changshu-food-branch-case2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "总公司常熟市食品有限公司在2024年度劳动A级最终名单中；通过已核实的分公司及管理关系适用于本条加工主体，是综合对应而非分公司单独评级。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating",
+            "changshu-food-branch-case2024"
+          ]
+        }
+      }
+    },
+    {
+      "id": "yuheng-xuezishan-blackpepper1kg",
+      "companyId": "yuheng-changshu",
+      "category": "food",
+      "name": "黑椒柳条（速冻调制食品）· 1kg/袋",
+      "brand": "学子膳",
+      "description": "学子膳1kg袋装黑椒柳条，政府食品记录已对应常熟制造企业；当前准确个人零售入口待补。",
+      "tags": [
+        "速冻调理肉",
+        "黑椒柳条",
+        "学子膳",
+        "1kg"
+      ],
+      "needs": [
+        "速冻调理肉"
+      ],
+      "url": "https://www.by.gov.cn/attachment/7/7638/7638882/9772986.pdf",
+      "market": "当前链接为政府具体商品资料，尚未找到这款1kg黑椒柳条的准确个人购买入口。其他鸡米花、鸡排或学校采购记录不代替本款零售渠道。",
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "relationship": "白云区2024年第4期原始PDF第139行，学子膳、黑椒柳条、1kg/袋及江苏虞恒食品有限公司同列。",
+      "relationshipSourceIds": [
+        "yuheng-blackpepper-by2024"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "pending",
+          "detail": "已找到学校食堂采样和同品牌其他商品渠道，未找到此款1kg黑椒柳条的准确个人零售入口。",
+          "sourceIds": [
+            "yuheng-blackpepper-by2024"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "江苏虞恒食品有限公司",
+          "detail": "政府原始食品表完整记录品牌、具体食品、袋重、制造法人及常熟广园路18号地址；不把相近食品或另一盐铁法人混用。",
+          "sourceIds": [
+            "yuheng-blackpepper-by2024"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "具名制造法人在2024年度常熟劳动A级最终名单中，2025-10-27公布；商品仍因零售入口待补而未正式收录。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -36772,7 +37147,7 @@
           "query": "包子"
         }
       ],
-      "note": "粮油食品清单补入原先遗漏的馒头、包子，共36项需求均有具体研究记录，其中14项已有正式商品。新增牛小白300g六只单袋馒头的京东渠道、盒马420g六只青菜包的六安实体门店渠道，分别对应同一常熟制造企业的劳动结果。食用油、挂面、米粉、豆类等缺口继续保留；现有名味、开平大米、胖东来与天津雀巢资料仍按各自具体口味、厂家及渠道范围记录。",
+      "note": "粮油食品清单补入原先遗漏的馒头、包子，共36项需求均有具体研究记录，其中14项已有正式商品。新增牛小白300g六只单袋馒头的京东渠道、盒马420g六只青菜包的六安实体门店渠道，分别对应同一常熟制造企业的劳动结果。食用油、挂面、米粉、豆类等缺口继续保留；现有名味、开平大米、胖东来与天津雀巢资料仍按各自具体口味、厂家及渠道范围记录。本批将学子膳黑椒柳条1kg对应到江苏虞恒及同法人的劳动结果，准确消费者零售入口尚未找到；速冻调理肉仍未正式覆盖。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -36902,7 +37277,9 @@
         "shuhui-milk300-single-jd",
         "shuhui-qingcai420-luan",
         "hema-luan-store-address202604",
-        "hema-luan-wanda-map"
+        "hema-luan-wanda-map",
+        "yuheng-blackpepper-by2024",
+        "yuheng-project-hours2020"
       ]
     },
     {
@@ -36961,7 +37338,7 @@
           "query": "虾"
         }
       ],
-      "note": "生鲜13项需求现均有具体研究记录。本批增加湖北蜜桔、云南香蕉、四川葡萄、定西土豆，以及小白菜、胡萝卜、黄瓜共7款准确规格与零售入口；具体供货主体及适用劳动依据仍待核。已核独立认证机构具名GRASP历史标记，未用GLOBALG.A.P.期限续接劳动审核；张掖2025年拟评名单尚不作为最终评级。 新增胖东来中央厨房黄豆芽、绿豆芽研究资料，生产者劳动依据与当前单品渠道待核。",
+      "note": "生鲜13项需求中，牛肉首次有正式商品：张家港青草巷吴宗宝摊位的牛后腿肉，具体部位、国内到店渠道及常熟食品分公司加工关系已对应，保留总公司评价适用的综合判断。其余12项仍待补。小邱摊位五花肉有不同厂家记录，未据旧记录自动收录；已有蔬果、鸡蛋与其他肉类候选继续保留。",
       "sourceIds": [
         "national-harmony-2022",
         "nxnk-lianhu-production-2026",
@@ -37022,7 +37399,14 @@
         "pdl-kitchen-official-2026",
         "pdl-kitchen-report-2025",
         "pdl-kitchen-project-2022",
-        "xuchang-labor-2025-pdl"
+        "xuchang-labor-2025-pdl",
+        "changshu-labor2024-final",
+        "changshu-food-branch-case2024",
+        "changshu-food-beef-zjg202512",
+        "changshu-food-beef-zjg202603",
+        "changshu-food-slaughter2025",
+        "qingcaoxiang-consumer202609",
+        "qingcaoxiang-market-location"
       ]
     },
     {
