@@ -6298,7 +6298,7 @@
       "checkedAt": "2026-09-13",
       "locator": "附件标题及公开检索文字：印刷第27页江苏梦兰集团有限公司",
       "summary": "政府附件公开索引的标题为2023年度劳动保障A级诚信单位名单，第27页明确列江苏梦兰集团有限公司。保留这一具名结果的正面意义。",
-      "limitation": "已读附件标题及包含该法人名称的第27页公开索引文字，未取得原PDF图像；不再把未读原图本身解释为没有评级。具体公布日和完整审查起止日未公开于已读部分，不能由上传目录补造日期；2024年新通知的附件尚未读到，不将旧结果写成2024年结果。商品制造对应仍需另核。"
+      "limitation": "本条保留2023年度附件标题及第27页公开索引所列法人，未声称目视查看该页。原条目缺确切公布日和完整审查区间，不能由上传目录补造。2024年度最终原始附件现已另行取得并登记；现有枕被厂家仍待核。"
     },
     {
       "id": "menglan-lowpillow48x74-jd",
@@ -9317,18 +9317,6 @@
       "limitation": "已通过网页工具读取政府正文及完整表格；本地普通HTTP发生重定向失败，未声称保存原始HTML。仅说明所列规格和当时厂家；产品质量抽查不证明劳动条件，也不移用于现售枕头或夏凉被。"
     },
     {
-      "id": "changshu-labor-final2024",
-      "title": "2024年度常熟市劳动保障A级诚信单位正式公布通知",
-      "publisher": "常熟市人力资源和社会保障局／苏州市人民政府网站",
-      "type": "政府劳动评价公布通知",
-      "url": "https://www.suzhou.gov.cn/szsrmzf/xyhhbhfwjg/202510/e658853a8caa4270a30f0159dfe1efaa.shtml",
-      "publishedAt": "2025-10-28",
-      "checkedAt": "2026-09-13",
-      "locator": "网站2025-10-28发布，正文落款2025-10-27；附件标题为正式名单",
-      "summary": "通知说明经过申报、复审及公示，授予常熟市惠通机械有限公司等624家单位2024年度劳动保障A级诚信单位称号。",
-      "limitation": "已读政府公开索引中的完整通知正文，直接网页访问失败或跳转首页；未取得附件企业名单，不能由624家总数或2023年旧名单推定梦兰进入2024年最终名单。9月拟评公示与10月正式公布分开。"
-    },
-    {
       "id": "suzhou-bedding-notice2025",
       "title": "苏州2025年床上用品四件套抽查公告及结果附件入口",
       "publisher": "苏州市市场监督管理局",
@@ -9768,8 +9756,8 @@
       "url": "https://www.changshu.gov.cn/zgcs/gongshi/202510/17290b6933bc422c99a1a7381bb3dbcd.shtml",
       "publishedAt": "2025-10-27",
       "checkedAt": "2026-09-13",
-      "locator": "正式公布正文及所附DOCX“经开区（89家）”组，芬欧汇川(中国)有限公司，位于贝特利与瑞升利之间。",
-      "summary": "经申报、属地初审推荐、人社局会同相关部门复审及公示，624家用人单位被授予2024年度劳动保障A级诚信单位；最终附件具名芬欧汇川(中国)有限公司。",
+      "locator": "正式公布正文及所附DOCX：“经开区（89家）”芬欧汇川(中国)有限公司；“支塘镇（40家）”舒汇食品（苏州）有限公司；“琴川街道（48家）”江苏梦兰集团有限公司。",
+      "summary": "经申报、属地初审推荐、人社局会同相关部门复审及公示，624家用人单位被授予2024年度劳动保障A级诚信单位；最终附件具名芬欧汇川(中国)有限公司、舒汇食品（苏州）有限公司和江苏梦兰集团有限公司。",
       "limitation": "已直接下载政府原页及原始DOCX并读取目标段落。采用页面可见时间和落款2025-10-27；页面另有2026年更新元数据，不据此改变评价年度或公布日。完整审查起止日未公开，结果仅适用于具名法人及所列年度。"
     },
     {
@@ -9819,6 +9807,90 @@
       "locator": "桃欣乐70g、单包500张条目；原始链接商品100002399415。",
       "summary": "直接读取京东公开HTML，具体条目及链接对应UPM桃欣乐A4 70g、单包500张，提供少量家庭打印的包装选项。",
       "limitation": "没有把相邻黄欣乐五包装、蓝欣乐或80g条目套用到本款；具体价格、配送及供货条件以渠道实际信息为准。条目不是制造或劳动审核。"
+    },
+    {
+      "id": "shuhui-milk300-yiwu2024",
+      "title": "义乌食品抽查中的牛小白300g六只装及制造商",
+      "publisher": "义乌市市场监督管理局／浙江省政府公共附件平台",
+      "type": "政府产品抽查",
+      "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3549/site/attach/0/1a61e9b64c444de5b7607850458784a0.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "《2024年食品安全监督抽检汇总表（第1期）》PDF第1页、第44项；另核对第39项的不同制造法人。",
+      "summary": "第44项为牛小白牛奶馒头300克（6只）/袋，生产日期2023-09-10，生产单位舒汇食品（苏州）有限公司，受检单位为联华商业发展（义乌）有限公司稠州北路。第39项红糖馒头生产单位为舒汇食品（浙江）有限公司。",
+      "limitation": "已下载原始39页PDF并查看第1页。2024为文件标示年度，正式公布日未明确；样品生产日另列。旧制造记录与2025年同规格资料交叉对应，不把食品质量结果当成劳动结果，不混用浙江工厂。"
+    },
+    {
+      "id": "shuhui-milk300-xuhui202510",
+      "title": "徐汇2025年10月食品抽查中的牛奶馒头300g六只装",
+      "publisher": "上海市徐汇区人民政府网站",
+      "type": "政府产品抽查",
+      "url": "https://www.xuhui.gov.cn/xxgk/portal/article/detail?id=8a4c0c069a342b4b019a479120800066",
+      "publishedAt": "2025-10-31",
+      "checkedAt": "2026-09-13",
+      "locator": "《徐汇区食品安全监督抽检合格信息明细单（2025年10月）》第202行，DBJ25310104002541464ZX。",
+      "summary": "第202行将牛奶馒头300克（6只装）/袋对应到舒汇食品（苏州）有限公司，厂址为江苏常熟支塘镇凯诚路6-1号；样品生产日2025-08-06，上海沁儒食品销售有限公司受检。",
+      "limitation": "已直接保存政府HTML并读取完整目标行及表头。2025-10-31为公布日，2025-10-11是表列抽检日期。该表未列牛小白商标，结合义乌具商标的同规格记录使用；不把样品结论写成未来每批保证。"
+    },
+    {
+      "id": "shuhui-milk300-single-jd",
+      "title": "京东牛小白牛奶馒头300g六只装单袋条目",
+      "publisher": "京东",
+      "type": "大陆零售资料",
+      "url": "https://www.jd.com/brand/1319db5b0de3508ea5ab.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始HTML条目“牛小白300g【6只装】1包”，链接商品10190411347030。",
+      "summary": "直接读取公开商品卡及其链接，品牌为舒汇/牛小白，所选300g六只单袋；没有采用相邻210g、双蛋白款或红糖组合装参数。",
+      "limitation": "具体销售地区、冷链配送费用、价格与供货条件以渠道实际信息为准。零售入口不等于本次已完成下单，也未验证品牌官方授权。"
+    },
+    {
+      "id": "shuhui-qingcai420-luan",
+      "title": "六安食品抽查中的420g六只青菜包制造记录",
+      "publisher": "六安市市场监督管理局",
+      "type": "政府产品抽查",
+      "url": "https://scjgj.luan.gov.cn/group1/M00/15/F6/wKgSGWmv0MqAYRnzAANvVqX4A-c606.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "原始5页PDF第5页、第58行；生产日期2025-12-05。",
+      "summary": "低GI青菜包（速冻面米制品 熟制品）420克（6只装）/袋，标称生产企业舒汇食品（苏州）有限公司、常熟支塘镇凯诚路6-1号；受检销售单位合肥盒马网络科技有限公司六安第一分公司。",
+      "limitation": "已下载原始PDF、提取文字并查看目标页。文件未见确切公布日，未从链接推断；食品名称和生产日期照录。相邻椰蓉流沙包来自东莞乃好，不归入舒汇。用于具体制造及既有门店销售对应，不证明实时库存或营养功效。"
+    },
+    {
+      "id": "hema-luan-store-address202604",
+      "title": "六安消防检查任务表转载中的盒马分公司地址",
+      "publisher": "搜狐江南水乡生活见闻；所载六安消防检查任务表",
+      "type": "地方公示转载",
+      "url": "https://www.sohu.com/a/1007343240_121106832",
+      "publishedAt": "2026-04-09",
+      "checkedAt": "2026-09-13",
+      "locator": "《六安市消防救援支队4月份双随机检查任务公示表》正文首组，合肥盒马网络科技有限公司六安第一分公司行。",
+      "summary": "转载表将该分公司对应到六安金安万达广场1A层1AF-A铺位，位于金安区中市街道皋城路与球拍路交叉口；可与抽检中的销售单位及地图门店互相核对。",
+      "limitation": "已通过网页工具读取表格完整目标行；普通HTTP返回403。此来源是转载，未称为已取得消防机关原始附件，也不把检查任务名单当成检查合格或商品现货证明。"
+    },
+    {
+      "id": "hema-luan-wanda-map",
+      "title": "盒马鲜生六安金安万达广场店的公开地点资料",
+      "publisher": "高德地图",
+      "type": "实体零售门店资料",
+      "url": "https://map.gaode.com/place/B0LR6HFTD1",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公开地点条目B0LR6HFTD1：盒马鲜生（六安金安万达广场店）。",
+      "summary": "公开检索资料列该店位于六安市金安区中市街道皋城路53号万达广场1AF层，与具名分公司的公示地址对应，提供到店位置入口。",
+      "limitation": "地点名称及地址取自可读公开索引；本次普通HTML为应用页面，未据此补造营业时间。地图条目只补充实体门店位置，具体商品规格及既有销售来自另列政府抽检；不代表配送可覆盖全国或当前现货。"
+    },
+    {
+      "id": "menglan-production-hiring",
+      "title": "梦兰生产岗位招聘中的加班要求",
+      "publisher": "常熟市新市民事务中心",
+      "type": "生产岗位招聘资料",
+      "url": "https://www.csxsm.cn/jiuye/31423.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "招聘列表“江苏梦兰集团有限公司”，展位018；车间辅料发放员、仓库管理员及缝纫工要求。",
+      "summary": "公开索引中的梦兰招聘段落要求有关车间、仓库及缝纫岗位能够适应加班，补充生产岗位安排的线索。",
+      "limitation": "只读取具名企业对应段落的公开索引，网页直接访问受证书或抓取问题影响。确切公布日未取得；邻近其他企业的工资、五险一金或休息安排没有移给梦兰。招聘要求不是员工本人经历，不据加班一词直接判定违法或保证具体时数。"
     }
   ],
   "companies": [
@@ -17660,11 +17732,11 @@
       "nextCheck": "有CX5052具名标签或与实际制造企业对应的新劳动资料时继续；旧称号、其他法人的历史个案不充当本款现时结论。"
     },
     {
-      "level": "research",
+      "level": "assessment",
       "hours": null,
       "restDays": null,
-      "hoursLabel": "适用工时依据待补",
-      "restLabel": "适用休息依据待补",
+      "hoursLabel": "工时制度纳入年度劳动评价",
+      "restLabel": "具体生产岗位排班待补",
       "actualHoursVerified": false,
       "actualRestVerified": false,
       "id": "menglan-group",
@@ -17673,14 +17745,14 @@
       "location": "江苏常熟（集团官网地址）",
       "origin": "china",
       "originNote": "官网介绍境内创立的家纺集团，常熟名单提供法人名称线索；所选商品制造企业另行核验，不从品牌或地址推断员工国籍。",
-      "cardNote": "2023年度A级名单具名 · 枕被厂家待核",
-      "scope": "江苏梦兰集团有限公司的2023年度A级名单文字及两款具体四件套制造记录；枕头和夏凉被仍单独对应。",
-      "finding": "政府2023年度A级名单的公开文字明确列本公司；2022年制造抽查对应MD18101D-51四件套，2025年结果转载另列MD17661D-51-1。现有低枕与夏凉被已有国内零售，尚未对应实际厂家。",
+      "cardNote": "2024年度劳动保障A级 · 枕被厂家待核",
+      "scope": "江苏梦兰集团有限公司2024年度最终劳动结果及已有具体四件套制造记录；所选枕头和夏凉被厂家仍待对应。",
+      "finding": "新取得的常熟2024年度原始最终名单具名梦兰集团；生产招聘保留加班要求。现有低枕与夏凉被的实际厂家仍未对应，继续待核查。",
       "caveats": [
-        "2023年度名单明确具名，但具体公布日和完整审查起止日尚未取得；不以未读原图否认已读的名单事实。",
-        "2024年度正式通知已公布，但该批附件企业名单未取得，不能推定梦兰仍在新名单内。",
-        "MD18101D-51与MD17661D-51-1是不同四件套，制造记录不覆盖所选低枕或珞珰花语夏凉被。",
-        "质量合格、纺织品A类和品牌荣誉均不替代劳动条件判断。"
+        "2024年度正式结果已在常熟原始DOCX的琴川街道组核实，2025-10-27公布；2023年旧名单作为历史资料保留。",
+        "招聘列车间、仓库及缝纫岗位须适应加班，具体时数和休息安排未知；不是员工本人反馈，年度A级也不等于零加班。",
+        "已有四件套制造记录不能移用于所选低枕、珞珰花语夏凉被；具体制造企业待对应。",
+        "质量合格、纺织品A类和品牌荣誉不替代劳动评价；年度结果不保证未来全部用工。"
       ],
       "sourceIds": [
         "menglan-official-profile",
@@ -17688,9 +17760,11 @@
         "menglan-lowpillow48x74-jd",
         "menglan-luodangquilt200x230-jd",
         "suzhou-bedding-manufacturers2022",
-        "changshu-labor-final2024",
+        "changshu-labor2024-final",
         "suzhou-bedding-notice2025",
-        "suzhou-bedding-results2025-repost"
+        "suzhou-bedding-results2025-repost",
+        "law-labor-rating",
+        "menglan-production-hiring"
       ],
       "assessments": [
         {
@@ -17698,7 +17772,20 @@
           "result": "2023年度常熟市劳动保障A级诚信单位（附件名单具名）",
           "period": "2023年度",
           "sourceId": "menglan-changshu-labor2023",
-          "limitation": "政府附件第27页公开文字具名，保留为已知的2023年度结果；具体公布日与完整审查起止日尚未取得。未读原图不否认名单事实，2024年附件未读也不代表评级已撤销。当前两款枕被的实际生产法人仍未对应。"
+          "limitation": "政府附件第27页公开索引具名，保留为2023年度历史结果；具体公布日及完整审查区间未取得。现已另行读取2024年度最终原件，不再以旧附件代替新结果。"
+        },
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "江苏梦兰集团有限公司",
+          "result": "2024年度常熟市劳动保障A级诚信单位",
+          "period": "2024年度；完整审查起止日未公开",
+          "sourceId": "changshu-labor2024-final",
+          "resultPublishedAt": "2025-10-27",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-27",
+          "limitation": "原始最终附件琴川街道组具名本法人。本站复查期限不是政府认定的有效期；具体商品尚需对应制造主体，不借给同品牌其他企业。"
         }
       ],
       "supply": [
@@ -17726,9 +17813,19 @@
           "status": "unknown",
           "detail": "其他雇主和原料资料保留补充调查，不将全供应链逐人记录设为收录前提。",
           "sourceIds": []
+        },
+        {
+          "stage": "制造法人的年度劳动依据",
+          "status": "verified",
+          "detail": "2024年度最终原件具名江苏梦兰集团；待具体商品厂家对应后使用，招聘加班要求同时保留。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating",
+            "menglan-production-hiring"
+          ]
         }
       ],
-      "nextCheck": "优先取得现有枕头、夏凉被的具名制造资料，或两款已知四件套的准确现售入口；出现可读的2024年最终附件时更新劳动记录。已失败的旧PDF、通知和附件访问路径不重复。"
+      "nextCheck": "取得现售枕头或夏凉被的具名制造资料，或已知四件套的具体现售渠道后继续；2026-10-27前复查劳动资料。没有新原件或商品资料时，不重复已失败的相同搜索。"
     },
     {
       "level": "research",
@@ -21890,6 +21987,88 @@
           "reviewedAt": "2026-09-13",
           "reviewDueAt": "2026-10-27",
           "limitation": "采用政府正式公布的具名年度结果。本站复查期限不是政府认定的有效期；不外推到其他法人、未知实际排班或未来全部劳动条件。"
+        }
+      ]
+    },
+    {
+      "id": "shuhui-suzhou",
+      "name": "舒汇食品 · 苏州制造企业",
+      "legalName": "舒汇食品（苏州）有限公司",
+      "location": "江苏省苏州市常熟市支塘镇凯诚路6-1号",
+      "origin": "china",
+      "originNote": "国内面点制造企业，牛小白资料分别核对品牌与制造；所选青菜包的抽检未单列商标，按具名工厂和盒马门店销售对应。",
+      "level": "assessment",
+      "hours": null,
+      "restDays": null,
+      "hoursLabel": "工时制度纳入年度劳动评价",
+      "restLabel": "实际每周休息天数未知",
+      "cardNote": "2024年度劳动保障A级",
+      "scope": "舒汇食品（苏州）有限公司；本批牛小白牛奶馒头300g六只单袋，以及六安具名盒马门店销售的低GI青菜包420g六只单袋。",
+      "finding": "常熟最终名单具名同一制造法人，两款具体面点分别有政府制造记录和对应的国内渠道；共用年度劳动依据。",
+      "caveats": [
+        "采用2024年度劳动保障A级最终结果，2025-10-27公布；仅适用具名法人和年度，不保证后续所有用工。",
+        "舒汇食品（浙江）有限公司是不同制造法人；已读红糖馒头记录来自浙江，不能套用苏州企业评价。",
+        "尚未取得能核对岗位、时间和厂区的员工本人经历；招聘及销售介绍没有当成员工独立反馈，实际工时、休息天数仍未知。",
+        "牛小白限定300g六只单袋，未把210g、双蛋白或组合装混为同款；原料及零售配送雇主另行核对。",
+        "青菜包按六安金安万达具体门店的既有销售、主体地址和地点资料综合判断，未取得准确的京东三袋装链接，也未验证本次现货；未把门店销售扩大到全国统一可配送。"
+      ],
+      "sourceIds": [
+        "changshu-labor2024-final",
+        "law-labor-rating",
+        "shuhui-milk300-yiwu2024",
+        "shuhui-milk300-xuhui202510",
+        "shuhui-milk300-single-jd",
+        "shuhui-qingcai420-luan",
+        "hema-luan-store-address202604",
+        "hema-luan-wanda-map"
+      ],
+      "supply": [
+        {
+          "stage": "具体商品及国内渠道",
+          "status": "policy",
+          "detail": "牛奶馒头有京东准确单袋链接；青菜包对应六安盒马分公司的实际销售记录与到店位置。",
+          "sourceIds": [
+            "shuhui-milk300-single-jd",
+            "shuhui-qingcai420-luan",
+            "hema-luan-store-address202604",
+            "hema-luan-wanda-map"
+          ]
+        },
+        {
+          "stage": "常熟面点制造",
+          "status": "verified",
+          "detail": "政府抽检分别列制造法人及具体规格；同一苏州制造企业位于常熟2024年度劳动A级最终名单。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating",
+            "shuhui-milk300-yiwu2024",
+            "shuhui-milk300-xuhui202510",
+            "shuhui-qingcai420-luan"
+          ]
+        },
+        {
+          "stage": "原料与零售配送用工",
+          "status": "unknown",
+          "detail": "其他用人单位不从本厂年度评价推定，作为补充资料记录。",
+          "sourceIds": []
+        }
+      ],
+      "actualHoursVerified": false,
+      "actualRestVerified": false,
+      "nextCheck": "2026-10-27前复查同一法人的更新劳动资料与所列制造关系；出现明确岗位的员工经历时补充。门店或厂家发生变化时按新资料更新。",
+      "assessments": [
+        {
+          "kind": "government-labor-rating",
+          "grade": "A",
+          "status": "current",
+          "subject": "舒汇食品（苏州）有限公司",
+          "result": "2024年度常熟市劳动保障A级诚信单位",
+          "period": "2024年度；完整审查起止日未公开",
+          "sourceId": "changshu-labor2024-final",
+          "resultPublishedAt": "2025-10-27",
+          "reviewedAt": "2026-09-13",
+          "reviewDueAt": "2026-10-27",
+          "limitation": "已读取政府最终原始附件的支塘镇组。本站复查期限不是政府认定的有效期；不将本法人年度评价移给浙江工厂或零售门店。"
         }
       ]
     }
@@ -31717,11 +31896,12 @@
       ],
       "url": "https://item.jd.com/10072265296647.html",
       "market": "京东货号10072265296647有准确规格及独立商品入口，具体地区库存和结算价以商家为准。",
-      "relationship": "零售卡片对应梦兰品牌，2023年度A级名单具名集团法人；本款枕头的制造企业仍待对应，四件套的生产记录不能移用。",
+      "relationship": "零售卡片对应梦兰品牌；新取得的2024年度劳动A级最终原件具名江苏梦兰集团。本款实际制造企业尚未对应，保留待核查。",
       "relationshipSourceIds": [
         "menglan-lowpillow48x74-jd",
         "menglan-official-profile",
-        "menglan-changshu-labor2023"
+        "menglan-changshu-labor2023",
+        "changshu-labor2024-final"
       ],
       "image": "images/menglan-lowpillow48x74-3cm.webp",
       "imageMode": "contain",
@@ -31745,9 +31925,10 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "2023年度政府A级名单公开文字具名江苏梦兰集团有限公司；本款实际生产法人尚未对应，不能先将集团结果套用于本款。",
+          "detail": "江苏梦兰集团的2024年度劳动A级最终结果已经核验；本款制造企业尚未对应，暂不把该评价用于本款。",
           "sourceIds": [
-            "menglan-changshu-labor2023"
+            "changshu-labor2024-final",
+            "law-labor-rating"
           ]
         }
       }
@@ -31771,10 +31952,11 @@
       ],
       "url": "https://item.jd.com/10162585308399.html",
       "market": "京东货号10162585308399提供准确花型、尺寸与填充重量的购买入口；其他花型、季节厚度和地区供货另核。",
-      "relationship": "零售卡片明确梦兰品牌与珞珰花语规格，集团家纺介绍没有将本款指定给具名生产法人。",
+      "relationship": "零售卡片对应梦兰品牌；新取得的2024年度劳动A级最终原件具名江苏梦兰集团。本款实际制造企业尚未对应，保留待核查。",
       "relationshipSourceIds": [
         "menglan-luodangquilt200x230-jd",
-        "menglan-official-profile"
+        "menglan-official-profile",
+        "changshu-labor2024-final"
       ],
       "image": "images/menglan-luodangquilt200x230-550g.webp",
       "imageMode": "contain",
@@ -31798,10 +31980,10 @@
         },
         "productionLabor": {
           "status": "pending",
-          "detail": "2023年度政府A级名单公开文字具名江苏梦兰集团有限公司；本款实际生产法人尚未对应，不能先将集团结果套用于本款。",
+          "detail": "江苏梦兰集团的2024年度劳动A级最终结果已经核验；本款制造企业尚未对应，暂不把该评价用于本款。",
           "sourceIds": [
-            "menglan-changshu-labor2023",
-            "menglan-luodangquilt200x230-jd"
+            "changshu-labor2024-final",
+            "law-labor-rating"
           ]
         }
       }
@@ -35641,6 +35823,131 @@
           ]
         }
       }
+    },
+    {
+      "companyId": "shuhui-suzhou",
+      "category": "food",
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "id": "shuhui-niuxiaobai-milk-mantou300",
+      "name": "牛小白牛奶馒头 · 300g（6只）单袋",
+      "brand": "舒汇／牛小白",
+      "description": "牛奶馒头速冻面点，300g单袋共6只，按包装说明加热食用。",
+      "tags": [
+        "馒头",
+        "牛奶馒头",
+        "早餐",
+        "速冻面点",
+        "300g",
+        "6只"
+      ],
+      "needs": [
+        "馒头"
+      ],
+      "url": "https://item.jd.com/10190411347030.html",
+      "market": "京东商品10190411347030，选择牛小白300g【6只装】1包；配送范围、冷链费用和供货情况以渠道为准。",
+      "relationship": "义乌具商标的300g六只牛奶馒头记录与徐汇2025年同规格制造记录相互对应，均具名舒汇食品（苏州）有限公司；本次京东条目提供同规格单袋入口。",
+      "relationshipSourceIds": [
+        "shuhui-milk300-yiwu2024",
+        "shuhui-milk300-xuhui202510",
+        "shuhui-milk300-single-jd"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "直接读取京东公开卡片，取得牛小白300g六只单袋的准确商品链接。",
+          "sourceIds": [
+            "shuhui-milk300-single-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "舒汇食品（苏州）有限公司",
+          "detail": "义乌2024年汇总表列牛小白品牌、300g六只及苏州制造法人；徐汇2025年同规格记录补充常熟厂址，两个时期相互对应。",
+          "sourceIds": [
+            "shuhui-milk300-yiwu2024",
+            "shuhui-milk300-xuhui202510"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "制造企业舒汇食品（苏州）有限公司列入2024年度常熟劳动保障A级最终名单，2025-10-27公布；评价年份及范围单独展示。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        }
+      }
+    },
+    {
+      "companyId": "shuhui-suzhou",
+      "category": "food",
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": null,
+      "id": "hema-qingcai-bun420-luan",
+      "name": "低GI青菜包 · 420g（6只）· 六安盒马门店",
+      "brand": "盒马门店销售／舒汇制造",
+      "description": "青菜包速冻熟制面点，420g单袋共6只，按包装说明加热；“低GI”按商品标示名称记录。",
+      "tags": [
+        "包子",
+        "青菜包",
+        "速冻面点",
+        "420g",
+        "6只",
+        "六安",
+        "实体门店"
+      ],
+      "needs": [
+        "包子"
+      ],
+      "url": "https://map.gaode.com/place/B0LR6HFTD1",
+      "market": "按盒马鲜生六安金安万达广场店线下渠道收录：皋城路53号万达广场1AF层。链接查看门店位置；具体供货、价格及配送以门店实际信息为准。",
+      "relationship": "六安原始抽检表第58行将420g六只低GI青菜包、舒汇苏州制造法人及合肥盒马六安第一分公司列在同一行；分公司地址公示转载与具名地图门店相互对应。",
+      "relationshipSourceIds": [
+        "shuhui-qingcai420-luan",
+        "hema-luan-store-address202604",
+        "hema-luan-wanda-map"
+      ],
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "以该分公司的具体商品销售抽检记录、2026年具名地址资料和可查询的门店入口综合支持线下渠道；没有验证本次现货，不扩展为全国可配送。",
+          "sourceIds": [
+            "shuhui-qingcai420-luan",
+            "hema-luan-store-address202604",
+            "hema-luan-wanda-map"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "舒汇食品（苏州）有限公司",
+          "detail": "原始抽检第58行明确食品名称、420g六只规格、2025-12-05生产日及舒汇食品（苏州）有限公司、常熟支塘镇凯诚路6-1号。",
+          "sourceIds": [
+            "shuhui-qingcai420-luan"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "changshu-labor2024-final",
+          "detail": "制造企业舒汇食品（苏州）有限公司列入2024年度常熟劳动保障A级最终名单，2025-10-27公布；评价年份及范围单独展示。",
+          "sourceIds": [
+            "changshu-labor2024-final",
+            "law-labor-rating"
+          ]
+        }
+      },
+      "brandOrigin": {
+        "value": "unconfirmed",
+        "note": "原始抽检未单列商标。本条按具名苏州制造企业与六安盒马门店销售对应，暂不把销售商名称认定为本包装商标。",
+        "sourceIds": [
+          "shuhui-qingcai420-luan"
+        ]
+      }
     }
   ],
   "coverage": [
@@ -35782,9 +36089,17 @@
         {
           "label": "糕点",
           "query": "酥饼 糕点"
+        },
+        {
+          "label": "馒头",
+          "query": "馒头"
+        },
+        {
+          "label": "包子",
+          "query": "包子"
         }
       ],
-      "note": "34项粮油食品需求均有具体研究资料；大米、面粉、意面、燕麦、酱油、醋、腐乳、饼干、即食蛋、即食熟肉、咖喱角及速冻春卷已有正式收录。名味按具体口味及零售数量收录，蔬菜春卷现核实的渠道仅售18袋整箱，虾肉春卷的图片冲突仍待查。青竹丝苗米按开平实体门店渠道收录，每袋重量尚未公开；其他米类与食用油继续核对。 新增新疆特精面粉5kg、禾稻夫长粒香米5kg及天宝葵花籽油5L研究资料；面粉与油已有具名劳动A级，缺现售渠道；禾稻夫米另需核实评级公示生效情况。 员工反馈研究新增芋泥麻薯、红豆蛋黄酥饼两条候选，制造者劳动依据与当前渠道待补。 财神蚝油907g补齐国内零售入口，新会公司具名劳动结果与现售制造信息仍待核。 沿天津生产技术工采访新增两款脆脆鲨，国内零售与历史制造已对应，工厂劳动依据待补，两款仍待核查。",
+      "note": "粮油食品清单补入原先遗漏的馒头、包子，共36项需求均有具体研究记录，其中14项已有正式商品。新增牛小白300g六只单袋馒头的京东渠道、盒马420g六只青菜包的六安实体门店渠道，分别对应同一常熟制造企业的劳动结果。食用油、挂面、米粉、豆类等缺口继续保留；现有名味、开平大米、胖东来与天津雀巢资料仍按各自具体口味、厂家及渠道范围记录。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -35907,7 +36222,14 @@
         "jinluo-kaiping-sales-store",
         "jinluo-qingzhu-guangdong2020-index",
         "shengfeng-shawan-consumer-store2026",
-        "tianbao-shengfeng-contract-copy2026"
+        "tianbao-shengfeng-contract-copy2026",
+        "changshu-labor2024-final",
+        "shuhui-milk300-yiwu2024",
+        "shuhui-milk300-xuhui202510",
+        "shuhui-milk300-single-jd",
+        "shuhui-qingcai420-luan",
+        "hema-luan-store-address202604",
+        "hema-luan-wanda-map"
       ]
     },
     {
@@ -36269,7 +36591,7 @@
           "query": "台灯"
         }
       ],
-      "note": "家居11项需求均有具体研究资料，尚无正式收录。现有梦兰枕被、乐歌书桌和梦百合床垫已有准确零售入口，制造或劳动依据仍待对应。本轮补入太湖雪员工经历和梦兰、水星、太湖雪具体四件套的制造资料；所列四件套当前零售未对应，不计入正式覆盖。",
+      "note": "家居11项需求均有具体研究资料，尚无正式收录。梦兰2024年度劳动A级最终原始名单已经读取；所选枕头与夏凉被仍缺制造对应。已有四件套的制造记录未取得准确现售入口，不替代不同枕被款；水星、太湖雪、乐歌及梦百合按各自制造或劳动缺口继续。",
       "sourceIds": [
         "mercury-campus",
         "lianyou-hiring",
@@ -36283,9 +36605,10 @@
         "mlily-kuai2-180x200-jd",
         "mlily-annual2025-employment",
         "suzhou-bedding-manufacturers2022",
-        "changshu-labor-final2024",
+        "changshu-labor2024-final",
         "taihusnow-employees-job592",
-        "taihusnow-legal2022-insurance"
+        "taihusnow-legal2022-insurance",
+        "menglan-production-hiring"
       ]
     },
     {
