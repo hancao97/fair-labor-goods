@@ -4766,15 +4766,15 @@
     },
     {
       "id": "jinluo-official-products",
-      "title": "金箩米业官网：企业与陌上花大米系列",
+      "title": "金箩米业官网：米厂、自有产品与家常靓米",
       "publisher": "开平市金箩米业有限公司",
       "type": "企业产品资料",
       "url": "https://www.wyjinluo.com/",
       "publishedAt": null,
-      "checkedAt": "2026-09-12",
-      "locator": "企业简介及金箩丝苗米、陌上花系列介绍",
-      "summary": "官网公开索引将金箩及陌上花大米与开平市金箩米业有限公司对应，企业位于开平沙塘镇，提供境内制造企业与品牌关系线索。",
-      "limitation": "本次能读取公开索引，直接连接失败；官网系列介绍未确认所选 10 斤礼盒当前生产标签或库存，不能据此认定具体包装已具备完整产地和购买证据。"
+      "checkedAt": "2026-09-13",
+      "locator": "企业简介、家常靓米栏目与销售门店地址（公开索引）",
+      "summary": "官网将开平米厂、金箩和陌上花系列对应到同一法人，家常靓米栏目明确列青竹丝苗米、陌上花邑香丝苗米及御膳房小香粘；公布百汇市场70栋5–7号销售地址。",
+      "limitation": "公开索引可读，原站连接失败；只按已具名的产品和实体渠道使用，不推测每袋重量、实时库存或全国配送。旧5kg真空礼盒展示页仍不能据此自动确认为同一销售规格。"
     },
     {
       "id": "jinluo-rice5-showroom",
@@ -9555,6 +9555,66 @@
       "locator": "企业介绍、福利待遇、休息休假及公司地址",
       "summary": "企业自述北海市AAAAA级劳动关系和谐单位，招聘介绍列每月休息6—8天、五险一金和年假，地址与产品证书的北海法人相符。",
       "limitation": "读取公开索引，资料发布日期未知。这是企业招聘陈述，不是员工经历或政府结果原件；五星和劳动守法A级不是同一制度，不凭招聘称号作准入结论。"
+    },
+    {
+      "id": "jinluo-qingzhu-official",
+      "title": "金箩青竹丝苗米：制造商具体产品页",
+      "publisher": "开平市金箩米业有限公司",
+      "type": "企业产品资料",
+      "url": "https://www.wyjinluo.com/m/product/728.html",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "青竹丝苗米商品详情、产地与加工介绍（公开索引）",
+      "summary": "制造商以青竹丝苗米为具体产品介绍开平、台山稻谷产区及自己的烘干、储存和加工工序；官网首页将本品列在家常靓米栏目。",
+      "limitation": "本次读取公开索引；原站HTTPS连接失败。未取得可读的净含量或包装背标，不填写推测的5kg或25kg规格，不将本品对应扩展至其他名称的米。"
+    },
+    {
+      "id": "jinluo-kaiping-sales-store",
+      "title": "金箩米业公司简介：开平实体销售门店",
+      "publisher": "开平市金箩米业有限公司",
+      "type": "企业销售渠道",
+      "url": "https://www.wyjinluo.com/about_about/",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公司简介的销售门店地址及面向消费者的产品介绍（公开索引）",
+      "summary": "公司公开面向消费者的金箩、陌上花大米系列，列实体销售门店为开平市百汇批发市场70栋5–7号，服务热线0750-2237821；厂址为沙塘镇西村村委会侧。与官网家常靓米目录共同对应本地门店渠道。",
+      "limitation": "仅支持官网公布的开平门店渠道；本次未到店、未联系商家，未核实实时库存、每袋净含量、价格或全国配送。HTTPS读取失败，HTTP转至主机服务提示页，资料来自公开索引。"
+    },
+    {
+      "id": "jinluo-qingzhu-guangdong2020-index",
+      "title": "第二批广东省扶贫产品信息表：金箩青竹丝苗生产单位",
+      "publisher": "清城区人民政府网站（省级产品名单附件）",
+      "type": "政府产品资料",
+      "url": "https://www.qingcheng.gov.cn/attachment/0/35/35501/1351791.pdf",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "粤农扶办〔2020〕135号附件，印刷页25、序号216（公开索引）",
+      "summary": "产品表第216项把金箩青竹丝苗等具名品种的生产单位列为开平市金箩米业有限公司。与制造商当前可检索的同名产品及开平厂址资料交叉对应。",
+      "limitation": "这是2020年文件，不能因搜索引擎的抓取或上传时间较新而改写年份。原附件连接证书异常，省厅同表链接返回404，本次仅取得公开索引、未作PDF视觉核对。用于产品制造关系，不作为劳动评价、当前销售或全部包装的证明。"
+    },
+    {
+      "id": "shengfeng-shawan-consumer-store2026",
+      "title": "沙湾2026年二季度促消费商户公示：靖盛生活超市",
+      "publisher": "沙湾市商务和工业信息化局",
+      "type": "政府门店资料",
+      "url": "https://www.xjsw.gov.cn/xxgk/fdzdgknr/jgzn/zfjg/szfbm/swhgyxxhj/swgksx/content_42169",
+      "publishedAt": null,
+      "checkedAt": "2026-09-13",
+      "locator": "公示期2026-05-20至05-22，商户表第24行（公开索引）",
+      "summary": "列新疆晟丰商贸有限公司（靖盛生活超市），门店地址沙湾市迎宾北路7-10号（新客运站候车大厅）。为国内实体零售门店提供具名线索。",
+      "limitation": "这是促消费活动拟入围公示，不作最终补贴资格或劳动合规结论；没有列出天宝葵花籽油具体容量，不能单独支持5L现售。"
+    },
+    {
+      "id": "tianbao-shengfeng-contract-copy2026",
+      "title": "沙湾疾控采购转载：新疆晟丰供应天宝一级葵花籽油",
+      "publisher": "乙方宝（采购公告转载）",
+      "type": "采购公告转载",
+      "url": "https://www.yfbzb.com/winbid/detail/20260818_623211092.html",
+      "publishedAt": "2026-08-18",
+      "checkedAt": "2026-09-13",
+      "locator": "成交供应商表及标的表第12行；本次读取公开正文",
+      "summary": "成交供应商为新疆晟丰商贸有限公司；第12行列天宝一级葵花籽油1件、成交单价68元，但没有列容量。与政府门店资料对应到靖盛生活超市，形成新的零售核对方向。",
+      "limitation": "部分合同信息被转载平台遮蔽，未访问会员内容。没有5L容量，不能借用其他供应商的5L记录补全；68元为该次采购单价，不是当前个人报价。"
     }
   ],
   "companies": [
@@ -15638,18 +15698,22 @@
       "hoursLabel": "工时休息纳入政府评价",
       "restLabel": "具体排班未单独披露",
       "cardNote": "2025 年劳动守法 A 级",
-      "scope": "开平市金箩米业有限公司的 2025 年劳动评价；陌上花 10 斤礼盒正在核对具体标签及当前个人购买渠道。",
-      "finding": "企业自身列开平劳动 A 级名单第 256 行；官网有大米系列资料，所选礼盒页面明确仅供展示，当前不能据此确认零售可买。",
+      "scope": "开平市金箩米业有限公司的2025年度劳动评价；青竹丝苗米按开平实体门店渠道对应，旧5kg礼盒另行核查。",
+      "finding": "同一法人列最终A级名单第256行；青竹丝苗米由具名产品表、制造商详情及官网门店交叉对应。旧陌上花5kg礼盒展示页仍不作为零售入口。",
       "caveats": [
         "劳动评价覆盖该法人 2025 年，本站计划在 2027-06-03 前复核，不保证未来持续合规。",
         "陌上花系列与制造企业有公开关系线索，所选 5kg 真空礼盒仍缺当前可读制造标签。",
-        "展示页虽有购物车和库存样式，页尾声明不直接对外销售，因此商品仍待核查。"
+        "旧5kg礼盒展示页虽有购物车和库存样式，页尾声明不直接对外销售，该礼盒继续待核查。",
+        "青竹丝苗米仅对应官网公布的开平门店渠道，未核实每袋净含量或实时供货；官网原站访问异常，保留公开索引来源限制。"
       ],
       "sourceIds": [
         "kaiping-labor-2025",
         "jinluo-official-products",
         "jinluo-rice5-showroom",
-        "law-labor-rating"
+        "law-labor-rating",
+        "jinluo-qingzhu-official",
+        "jinluo-kaiping-sales-store",
+        "jinluo-qingzhu-guangdong2020-index"
       ],
       "supply": [
         {
@@ -15663,9 +15727,10 @@
         {
           "stage": "大米与包装对应",
           "status": "policy",
-          "detail": "官网介绍金箩及陌上花系列；展示页列 10 斤真空礼盒，当前批次标签仍待补。",
+          "detail": "青竹丝苗米由政府具名产品表及制造商详情对应；旧5kg真空礼盒的具体制造信息仍待补。",
           "sourceIds": [
-            "jinluo-official-products",
+            "jinluo-qingzhu-official",
+            "jinluo-qingzhu-guangdong2020-index",
             "jinluo-rice5-showroom"
           ]
         },
@@ -15678,7 +15743,7 @@
       ],
       "actualHoursVerified": false,
       "actualRestVerified": false,
-      "nextCheck": "寻找准确礼盒的当前个人购买入口或明确门店售卖资料，并补充该包装的制造企业信息。",
+      "nextCheck": "补青竹丝苗米的门店包装重量、价格和可读图片；有新礼盒制造标签或独立零售资料后，再核查旧5kg真空礼盒。",
       "assessments": [
         {
           "subject": "开平市金箩米业有限公司",
@@ -30166,10 +30231,12 @@
       "admission": {
         "chinaSale": {
           "status": "pending",
-          "detail": "新增2026-09-10同规格采购转载，具名沙湾悦购百货超市；尚未取得原始合同和该店个人购买入口，销售仍待核。采购单价不作为当前个人报价。",
+          "detail": "2026-09-10悦购超市采购转载有准确5L容量，尚缺该店个人购买渠道；另找到靖盛生活超市的政府门店地址及晟丰采购记录，但后者未列容量。两家资料不能拼接成同一5L零售证据，销售继续待核。",
           "sourceIds": [
             "tianbao-sunflower5-guangzhou2025-index",
-            "tianbao5l-yuegou-contract-copy2026"
+            "tianbao5l-yuegou-contract-copy2026",
+            "shengfeng-shawan-consumer-store2026",
+            "tianbao-shengfeng-contract-copy2026"
           ]
         },
         "chinaProduction": {
@@ -34869,6 +34936,67 @@
           ]
         }
       }
+    },
+    {
+      "id": "jinluo-qingzhu-simiaomi-kaiping",
+      "name": "青竹丝苗米（开平门店）",
+      "brand": "金箩",
+      "companyId": "jinluo-rice-kaiping",
+      "category": "food",
+      "description": "金箩开平米厂的家常丝苗米。按官网公布的开平实体门店渠道收录，公开资料未列每袋净含量。",
+      "tags": [
+        "大米",
+        "丝苗米",
+        "青竹",
+        "广东",
+        "开平",
+        "门店选购"
+      ],
+      "needs": [
+        "大米"
+      ],
+      "url": "https://www.wyjinluo.com/about_about/",
+      "market": "开平市百汇批发市场70栋5–7号，官网服务热线0750-2237821。按本地实体门店渠道选购；包装重量、价格和供货以门店为准，尚未确认全国配送。",
+      "relationship": "政府具名产品表与制造商青竹丝苗米详情共同对应开平市金箩米业有限公司，米厂位于开平市沙塘镇西村村委会侧。",
+      "relationshipSourceIds": [
+        "jinluo-qingzhu-official",
+        "jinluo-qingzhu-guangdong2020-index",
+        "jinluo-official-products"
+      ],
+      "image": null,
+      "imageMode": "contain",
+      "imageSource": null,
+      "imageRights": "",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "制造商官网将青竹丝苗米列在家常靓米栏目，并公布开平百汇市场70栋5–7号自有销售门店。支持该本地渠道，不声称已到店核实库存；每袋净含量尚未公开。",
+          "sourceIds": [
+            "jinluo-qingzhu-official",
+            "jinluo-official-products",
+            "jinluo-kaiping-sales-store"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "开平市金箩米业有限公司",
+          "detail": "广东2020年具名产品表第216项列金箩青竹丝苗及该生产单位；制造商同名产品页介绍境内稻谷及加工，企业官网对应开平米厂。制造判断由这些公开资料交叉得出，限本品与该制造企业。",
+          "sourceIds": [
+            "jinluo-qingzhu-guangdong2020-index",
+            "jinluo-qingzhu-official",
+            "jinluo-official-products"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "kaiping-labor-2025",
+          "detail": "同一制造企业列开平市2025年度劳动保障守法诚信A级最终名单第256行；按该法人、评价年度及本站复核期限使用。",
+          "sourceIds": [
+            "kaiping-labor-2025",
+            "law-labor-rating"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -35012,7 +35140,7 @@
           "query": "酥饼 糕点"
         }
       ],
-      "note": "34项粮油食品需求均有具体研究资料；面粉、意面、燕麦、酱油、醋、腐乳、饼干、即食蛋、即食熟肉、咖喱角及速冻春卷已有正式收录。名味按具体口味及零售数量收录，蔬菜春卷现核实的渠道仅售18袋整箱，虾肉春卷的图片冲突仍待查。大米、食用油等继续补购买与制造依据。 新增新疆特精面粉5kg、禾稻夫长粒香米5kg及天宝葵花籽油5L研究资料；面粉与油已有具名劳动A级，缺现售渠道；大米另需核实评级公示生效情况。 员工反馈研究新增芋泥麻薯、红豆蛋黄酥饼两条候选，制造者劳动依据与当前渠道待补。 财神蚝油907g补齐国内零售入口，新会公司具名劳动结果与现售制造信息仍待核。 沿天津生产技术工采访新增两款脆脆鲨，国内零售与历史制造已对应，工厂劳动依据待补；未增加正式覆盖需求。",
+      "note": "34项粮油食品需求均有具体研究资料；大米、面粉、意面、燕麦、酱油、醋、腐乳、饼干、即食蛋、即食熟肉、咖喱角及速冻春卷已有正式收录。名味按具体口味及零售数量收录，蔬菜春卷现核实的渠道仅售18袋整箱，虾肉春卷的图片冲突仍待查。青竹丝苗米按开平实体门店渠道收录，每袋重量尚未公开；其他米类与食用油继续核对。 新增新疆特精面粉5kg、禾稻夫长粒香米5kg及天宝葵花籽油5L研究资料；面粉与油已有具名劳动A级，缺现售渠道；禾稻夫米另需核实评级公示生效情况。 员工反馈研究新增芋泥麻薯、红豆蛋黄酥饼两条候选，制造者劳动依据与当前渠道待补。 财神蚝油907g补齐国内零售入口，新会公司具名劳动结果与现售制造信息仍待核。 沿天津生产技术工采访新增两款脆脆鲨，国内零售与历史制造已对应，工厂劳动依据待补，两款仍待核查。",
       "sourceIds": [
         "kaiping-labor-2025",
         "doximi-hiring",
@@ -35130,7 +35258,12 @@
         "nestle-peanut595-wuhan2025",
         "nestle-milk186-nanjing2025",
         "nestle-milk186-nanjing2025-copy",
-        "nestle-crunch32-jd-retail"
+        "nestle-crunch32-jd-retail",
+        "jinluo-qingzhu-official",
+        "jinluo-kaiping-sales-store",
+        "jinluo-qingzhu-guangdong2020-index",
+        "shengfeng-shawan-consumer-store2026",
+        "tianbao-shengfeng-contract-copy2026"
       ]
     },
     {
