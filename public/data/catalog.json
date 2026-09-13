@@ -11199,6 +11199,54 @@
       "locator": "实际HTTP商品卡：100g*1袋大油面筋，约16个；商品号10217722298241",
       "summary": "列表同时给出大油面筋100g单袋的名称和直接商品链接；同页小油面筋及两袋、三袋选项各有独立货号。",
       "limitation": "本次只选择大油面筋单袋，约16个是商家估计数量而非逐件保证；价格和配送以商家为准。"
+    },
+    {
+      "id": "greatwall-tn140a2-cec2021",
+      "title": "长城TN140A2型号与湖南长城株洲生产企业原始附件",
+      "publisher": "中环联合认证中心（内蒙古政府采购网保存原件）",
+      "url": "https://www.ccgp-neimenggu.gov.cn/uploader-gpmall/upload/commoninfo/2022/11/22/1669078472357.pdf",
+      "type": "型号与生产企业原始证书",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "locator": "CEC2020ELP00712152；PDF第1页生产企业、第33页第528行长城TN140A2",
+      "summary": "主证书将便携式计算机的实际生产企业列为湖南长城计算机系统有限公司，厂址为株洲市天元区湘芸中路天易科技城湖南长城工业园；附件第528行列无后缀型号长城TN140A2。",
+      "limitation": "2020-07-31初发、2021-05-13换证、2025-07-30到期。仅用于历史型号与制造场所对应，不作为当前有效环境认证或劳动依据；附件未细分当前内存、硬盘与系统授权组合。"
+    },
+    {
+      "id": "greatwall-tn140a2-official",
+      "title": "长城TN140A2官方产品页",
+      "publisher": "中国长城科技集团股份有限公司",
+      "url": "https://www.greatwall.com.cn/product/35.html",
+      "type": "品牌产品资料",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "locator": "长城TN140A2产品介绍",
+      "summary": "官方列TN140A2便携式计算机，使用飞腾腾锐D2000/8八核处理器、14英寸全高清屏幕和国产操作系统。",
+      "limitation": "品牌产品页不单独证明具体零售机器的实际工厂、劳动情况或系统授权；当前所选配置以零售条目为准。"
+    },
+    {
+      "id": "greatwall-tn140a2-options2022",
+      "title": "长城TN140A2官方配置及存储选项",
+      "publisher": "中国长城科技集团股份有限公司",
+      "url": "https://www.greatwall.com.cn/5968.html",
+      "type": "品牌型号规格",
+      "publishedAt": "2022-11-04",
+      "checkedAt": "2026-09-14",
+      "locator": "长城TN140A2（16GB+256GB）产品特性；硬盘、内存与出厂配置行",
+      "summary": "官方16GB/256GB配置表列D2000八核处理器、16GB内存及可选512GB等NVMe固态硬盘，支持核对TN140A2的配置范围。",
+      "limitation": "此页主配置为16GB/256GB，其正版银河麒麟预装说明不能移用于当前选取的16GB/512GB试用版系统零售组合。"
+    },
+    {
+      "id": "greatwall-tn140a2-16-512-jd",
+      "title": "长城TN140A2 16GB/512GB试用系统京东具体零售条目",
+      "publisher": "京东",
+      "url": "https://www.jd.com/jiage/67044ac642fcb077dc0.html?electedExtAttrSet=6%2C&extAttrValue=expand_name%2C%40165309%3A%3A6&sort_type=sort_default",
+      "type": "国内零售资料",
+      "publishedAt": null,
+      "checkedAt": "2026-09-14",
+      "locator": "同一商品卡：TN140A2、D2000、16G/512G、2G独显、14英寸、试用版银河麒麟/统信；商品号100233667299",
+      "summary": "公开商品条目将上述具体型号配置与独立京东商品号对应，提供国内购买入口；另一个京东电脑栏目也返回同一商品号和配置。",
+      "limitation": "属于零售商资料，不代表已核实品牌授权；系统明确标注试用版，正式授权及常用软件兼容性需向销售方确认。价格、配送与实际供货以下单页为准。"
     }
   ],
   "companies": [
@@ -24673,11 +24721,12 @@
       "restLabel": "招聘制度与产线排班分开记录",
       "cardNote": "株洲制造场所SA8000记录已核",
       "scope": "株洲湖南长城工业园内平板、台式电脑、笔记本、服务器、显示终端一体机的开发、生产与服务，以及PCBA装配。",
-      "finding": "株洲制造场所当前SA8000记录与CTI认可资格均已独立查验；凌云DHC37单主机按型号制造原件与国内具体零售配置综合对应。",
+      "finding": "株洲制造场所当前SA8000记录与CTI认可资格均已独立查验；凌云DHC37台式主机、TN140A2笔记本分别按历史型号制造原件、官方型号资料与国内具体零售配置综合对应。",
       "caveats": [
         "SA8000最新认证2025-09-09、截止2028-09-08；完整审核期间未公开。",
         "2025年工程师招聘披露五天工作制，2020年企业报道两班生产；均不冒充生产员工本人经历，不据此写成零加班或固定双休。",
         "用于型号对应的CQC节能原件已过2026-07-01截止日，不将其作为当前有效质量认证。",
+        "TN140A2的环境标志原件已于2025-07-30到期，只用于型号与制造场所对应；零售组合为16GB/512GB和试用版系统，不能借用官网16GB/256GB配置的正式系统授权。",
         "当前配置与历史同型号的制造关系属于综合判断；若出现不同实际制造企业或厂址，重新核对适用范围。"
       ],
       "sourceIds": [
@@ -24686,16 +24735,24 @@
         "greatwall-hunan-cqc21701302433",
         "greatwall-dhc37-i5-512-jd",
         "greatwall-hunan-hiring2025",
-        "greatwall-hunan-shifts2020"
+        "greatwall-hunan-shifts2020",
+        "greatwall-tn140a2-cec2021",
+        "greatwall-tn140a2-official",
+        "greatwall-tn140a2-options2022",
+        "greatwall-tn140a2-16-512-jd"
       ],
       "supply": [
         {
           "stage": "境内整机制造",
           "status": "verified",
-          "detail": "CQC原件将凌云DHC37对应到湖南长城及株洲工业园，当前京东准确条目区分i5-12450H、16GB、512GB单主机配置。制造厂按同型号原件与当前零售综合判断，未逐台查验；只收录湖南长城制造版本。",
+          "detail": "凌云DHC37的CQC原件、TN140A2的环境标志原件分别将型号对应到湖南长城株洲工业园；结合官方型号与当前具体零售配置综合判断。收录限定该制造场所，历史附件不等于当前质量认证或逐台查验。",
           "sourceIds": [
             "greatwall-hunan-cqc21701302433",
-            "greatwall-dhc37-i5-512-jd"
+            "greatwall-dhc37-i5-512-jd",
+            "greatwall-tn140a2-cec2021",
+            "greatwall-tn140a2-official",
+            "greatwall-tn140a2-options2022",
+            "greatwall-tn140a2-16-512-jd"
           ]
         },
         {
@@ -39974,6 +40031,71 @@
           ]
         }
       }
+    },
+    {
+      "id": "greatwall-tn140a2-16g-512g-trial",
+      "name": "TN140A2笔记本 · 16GB / 512GB（试用版系统）",
+      "brand": "长城",
+      "companyId": "greatwall-hunan",
+      "category": "electronics",
+      "description": "14英寸、飞腾D2000八核、16GB内存、512GB固态硬盘、2GB独显。零售标注试用版银河麒麟/统信，正式系统授权和常用软件兼容性需确认；收录湖南长城株洲制造版本。",
+      "tags": [
+        "笔记本",
+        "TN140A2",
+        "飞腾D2000",
+        "16GB",
+        "512GB",
+        "14英寸",
+        "试用版系统"
+      ],
+      "needs": [
+        "笔记本"
+      ],
+      "url": "https://item.jd.com/100233667299.html",
+      "market": "京东商品号100233667299提供对应配置购买入口，价格、配送与实际供货以下单页面为准。",
+      "relationship": "环境标志证书原件第33页第528行将TN140A2对应到湖南长城株洲工业园；官网型号及存储选项与当前京东16GB/512GB条目综合对应。历史型号与当前配置的制造关系属于综合判断，收录限定湖南长城株洲制造版本。",
+      "relationshipSourceIds": [
+        "greatwall-tn140a2-cec2021",
+        "greatwall-tn140a2-official",
+        "greatwall-tn140a2-options2022",
+        "greatwall-tn140a2-16-512-jd"
+      ],
+      "image": null,
+      "imageMode": "typography",
+      "imageSource": null,
+      "imageRights": "仅展示商品名称，不使用替代性商品照片。",
+      "admission": {
+        "chinaSale": {
+          "status": "supported",
+          "detail": "京东同一商品条目列TN140A2、16GB内存、512GB硬盘、14英寸及试用版国产系统，并对应独立商品号100233667299。",
+          "sourceIds": [
+            "greatwall-tn140a2-16-512-jd"
+          ]
+        },
+        "chinaProduction": {
+          "status": "supported",
+          "subject": "湖南长城计算机系统有限公司",
+          "facility": "湖南省株洲市天元区湘芸中路天易科技城湖南长城工业园",
+          "detail": "环境标志证书原件第33页第528行将TN140A2对应到湖南长城株洲工业园；官网型号及存储选项与当前京东16GB/512GB条目综合对应。历史型号与当前配置的制造关系属于综合判断，收录限定湖南长城株洲制造版本。",
+          "sourceIds": [
+            "greatwall-tn140a2-cec2021",
+            "greatwall-tn140a2-official",
+            "greatwall-tn140a2-options2022",
+            "greatwall-tn140a2-16-512-jd"
+          ]
+        },
+        "productionLabor": {
+          "status": "supported",
+          "assessmentSourceId": "greatwall-hunan-sa8000-2025",
+          "detail": "株洲制造场所SA8000状态Certified，2025-09-09认证、2028-09-08截止；按具名生产场所和当地劳动法律要求支持收录。实际班次未公开。",
+          "sourceIds": [
+            "greatwall-hunan-sa8000-2025",
+            "sai-standard2014-original",
+            "sai-transition2026-timeline",
+            "sai-cti-accreditation2025"
+          ]
+        }
+      }
     }
   ],
   "coverage": [
@@ -40962,7 +41084,7 @@
           "query": "对讲机"
         }
       ],
-      "note": "13项数码需求均有具体研究记录；正式商品已覆盖对讲机和台式电脑。新收录长城凌云DHC37 i5-12450H/16GB/512GB单主机，按CQC历史型号制造原件、当前零售条目及株洲有效SA8000综合对应。手机、笔记本及显示器等继续核查，员工经历和已有工时争议均保留。",
+      "note": "13项数码需求均有具体研究记录；正式商品已覆盖对讲机、台式电脑和笔记本。新增TN140A2 16GB/512GB笔记本，按历史型号生产原件、官网配置、当前京东条目及株洲有效SA8000综合对应，并标明试用版系统。手机、显示器等继续核查，员工经历和已有工时争议均保留。",
       "sourceIds": [
         "apple-rcc-job",
         "anker-2024",
@@ -41003,7 +41125,11 @@
         "tpv-employee-fuqing-wuhan",
         "greatwall-hunan-sa8000-2025",
         "greatwall-hunan-cqc21701302433",
-        "greatwall-dhc37-i5-512-jd"
+        "greatwall-dhc37-i5-512-jd",
+        "greatwall-tn140a2-cec2021",
+        "greatwall-tn140a2-official",
+        "greatwall-tn140a2-options2022",
+        "greatwall-tn140a2-16-512-jd"
       ]
     },
     {
