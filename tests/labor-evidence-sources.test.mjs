@@ -43,6 +43,22 @@ test("an audit claim cannot use corporate disclosure or a missing issuer record 
   sources[0].type = "独立劳动审计";
   assert.throws(() => validateLaborEvidenceSources(assessment, sources.filter(s => s.id !== "issuer-record")));
 });
+test("certification issue dates are verified against the credential record separately from publication", () => {
+  const { assessment, sources } = fixture();
+  sources[0].publishedAt = null;
+  sources[0].issuedAt = "2025-07-23";
+  assessment.resultIssuedAt = "2025-07-23";
+  assert.doesNotThrow(() => validateLaborEvidenceSources(assessment, sources));
+  assessment.resultIssuedAt = "2025-07-24";
+  assert.throws(() => validateLaborEvidenceSources(assessment, sources));
+  assessment.resultIssuedAt = "2025-07-23";
+  sources[0].issuedAt = undefined;
+  sources[0].publishedAt = "2025-07-23";
+  assert.throws(() => validateLaborEvidenceSources(assessment, sources));
+  sources[0].issuedAt = "2025-07-23";
+  assessment.kind = "government-labor-review";
+  assert.throws(() => validateLaborEvidenceSources(assessment, sources));
+});
 test("a disclosed adverse issue uses the dated original employer filing without masquerading as an audit", () => {
   const { assessment, sources } = fixture();
   Object.assign(assessment, {

@@ -167,6 +167,33 @@ test("a publication date cannot contradict a known inspection interval", () => {
     assert.equal(isAdmitted(fixture.product, fixture.company, REVIEW_DATE), false);
   }
 });
+test("a verified certification issue date works without inventing a publication date or audit interval", () => {
+  const { product, company, assessment } = reviewedProduct("independent-labor-audit");
+  delete assessment.periodStart;
+  delete assessment.periodEnd;
+  assessment.resultIssuedAt = "2026-01-15";
+  assessment.validUntil = "2026-09-30";
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+  assert.equal(isAdmitted(product, company, "2026-10-01"), false);
+  for (const change of [
+    { resultIssuedAt: "2026-02-30" }, { resultIssuedAt: "2026-10-01" },
+    { resultPublishedAt: "2026-01-14" }, { periodStart: "2025-01-01" },
+    { kind: "government-labor-review" }, { facility: "另一工厂" },
+    { conclusion: "unresolved" }, { status: "withdrawn" },
+  ]) assert.equal(isAdmitted(product, { ...company, assessments: [{ ...assessment, ...change }] }, REVIEW_DATE), false);
+});
+test("republishing an older certification does not supersede a newer adverse result", () => {
+  const { product, company, assessment } = reviewedProduct("independent-labor-audit");
+  delete assessment.periodStart;
+  delete assessment.periodEnd;
+  assessment.resultIssuedAt = "2025-07-23";
+  assessment.resultPublishedAt = "2026-09-01";
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), true);
+  company.assessments.push({ ...assessment, kind: "employer-labor-disclosure",
+    sourceId: "later-issue", resultIssuedAt: undefined, resultPublishedAt: "2026-08-31",
+    conclusion: "adverse", coverage: ["insurance"] });
+  assert.equal(isAdmitted(product, company, REVIEW_DATE), false);
+});
 test("publication-only ratings retain grade, employer and later adverse evidence checks", () => {
   const { product, company } = assessedProduct();
   const assessment = company.assessments[0];

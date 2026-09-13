@@ -12,6 +12,7 @@ export interface LaborAssessment {
   periodStart?: string;
   periodEnd?: string;
   resultPublishedAt?: string;
+  resultIssuedAt?: string;
   reviewedAt?: string;
   reviewDueAt?: string;
   status?: "current" | "withdrawn";
@@ -32,6 +33,7 @@ export interface Source {
   type: string;
   url: string;
   publishedAt: string | null;
+  issuedAt?: string;
   checkedAt: string;
   locator: string;
   summary: string;

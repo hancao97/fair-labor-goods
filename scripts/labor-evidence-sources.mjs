@@ -31,6 +31,11 @@ export function validateLaborEvidenceSources(assessment, sources) {
     return source;
   };
   const source = find(assessment.sourceId);
+  if (assessment.resultIssuedAt !== undefined) {
+    assert.equal(assessment.kind, "independent-labor-audit", "Use an issue date only for an independent audit result");
+    assert.equal(assessment.resultIssuedAt, source.issuedAt,
+      "The audit issue date must match its original certification record");
+  }
   if (assessment.resultPublishedAt !== undefined) {
     assert.equal(assessment.resultPublishedAt, source.publishedAt,
       "The dated labor result must match its original source's publication date");

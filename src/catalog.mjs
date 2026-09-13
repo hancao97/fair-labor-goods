@@ -48,17 +48,22 @@ export function laborEvidenceLabel(assessment) {
   return "劳动资料";
 }
 
-const assessmentReferenceDate = (assessment) => assessment.periodEnd ?? assessment.resultPublishedAt;
+const assessmentReferenceDate = (assessment) => assessment.periodEnd ?? assessment.resultIssuedAt ?? assessment.resultPublishedAt;
 
 // A published official rating or comprehensive review can identify a dated outcome
 // without a full inspection interval. Keep publication distinct from coverage.
 export function hasValidLaborAssessmentDates(assessment) {
   const hasPeriod = assessment.periodStart !== undefined || assessment.periodEnd !== undefined;
+  const hasIssuedDate = assessment.resultIssuedAt !== undefined;
+  if (hasIssuedDate && (assessment.kind !== "independent-labor-audit" ||
+      !dated(assessment.resultIssuedAt) || assessment.resultIssuedAt > assessment.reviewedAt ||
+      (hasPeriod && assessment.resultIssuedAt < assessment.periodEnd) ||
+      (assessment.resultPublishedAt !== undefined && assessment.resultIssuedAt > assessment.resultPublishedAt))) return false;
   if (hasPeriod) {
     if (![assessment.periodStart, assessment.periodEnd].every(dated) ||
         assessment.periodStart > assessment.periodEnd) return false;
   } else if (![...assessmentKinds, "employer-labor-disclosure"].includes(assessment.kind) ||
-      !dated(assessment.resultPublishedAt)) return false;
+      (!dated(assessment.resultPublishedAt) && !hasIssuedDate)) return false;
   if (assessment.resultPublishedAt !== undefined &&
       (!dated(assessment.resultPublishedAt) ||
        (hasPeriod && assessment.resultPublishedAt < assessment.periodEnd) ||

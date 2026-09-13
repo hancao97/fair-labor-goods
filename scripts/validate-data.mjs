@@ -54,6 +54,12 @@ for (const s of data.sources) {
     date(s.publishedAt);
     assert(s.publishedAt <= s.checkedAt, "Publication cannot be in the future");
   }
+  if (s.issuedAt !== undefined) {
+    date(s.issuedAt);
+    assert(["独立劳动审计", "社会责任认证记录"].includes(s.type));
+    assert(s.issuedAt <= s.checkedAt, "Certification cannot be issued in the future");
+    if (s.publishedAt) assert(s.issuedAt <= s.publishedAt, "A result cannot be published before it is issued");
+  }
   assert(s.checkedAt <= data.updatedAt);
   if (s.verifiedPublicationHosts !== undefined) {
     assert.equal(s.type, "发布机构核验");
@@ -122,7 +128,7 @@ for (const c of data.companies) {
       assert(assessment.reviewDueAt > assessment.reviewedAt);
       if (assessment.validUntil !== undefined) {
         date(assessment.validUntil);
-        assert(assessment.validUntil >= (assessment.periodEnd ?? assessment.resultPublishedAt));
+        assert(assessment.validUntil >= (assessment.periodEnd ?? assessment.resultIssuedAt ?? assessment.resultPublishedAt));
       }
       validateLaborEvidenceSources(assessment, data.sources);
     }

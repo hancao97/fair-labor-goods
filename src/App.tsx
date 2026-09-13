@@ -77,7 +77,7 @@ function laborSummary(product: Product) {
   const entries = getLaborAssessments(product, data.companies);
   if (!entries.length) return "待核查 · 不作合规推荐";
   if (entries.length === 1) return `${laborEvidenceLabel(entries[0].assessment)} · ${entries[0].assessment.period}`;
-  const years = [...new Set(entries.map(({ assessment }) => (assessment.resultPublishedAt ?? assessment.periodEnd)!.slice(0, 4)))].sort();
+  const years = [...new Set(entries.map(({ assessment }) => (assessment.resultIssuedAt ?? assessment.resultPublishedAt ?? assessment.periodEnd)!.slice(0, 4)))].sort();
   return `${new Set(entries.map(e => e.companyId)).size}家制造企业分别核对 · ${years.join("、")}年资料`;
 }
 const admissionLabels = { chinaSale: "大陆购买 / 使用", chinaProduction: "境内生产 / 服务", productionLabor: "生产岗位劳动证据" } as const;
@@ -204,7 +204,7 @@ function SourceCard({ source }: { source: Source }) {
       <div>
         <div className="source-meta">
           <span>{source.type}</span>
-          <span>{source.publishedAt || "发布日期未标明"}</span>
+          <span>{source.issuedAt ? `认证结果 ${source.issuedAt}` : source.publishedAt || "发布日期未标明"}</span>
         </div>
         <a href={source.url} {...external} className="source-title">
           {source.title}
